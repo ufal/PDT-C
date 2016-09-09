@@ -1,7 +1,6 @@
 # PCEDT
 This is the parallel Czech-English Treebank; only the Czech side goes to PDT-C.
 Possibly corrrections at all levels. Plus annotation on m- and a- layers.
-This is being done here.
 
 PCEDT is available in various version in lindat.cz repository. 
 please read the READMEs there, incl. for licensing.
