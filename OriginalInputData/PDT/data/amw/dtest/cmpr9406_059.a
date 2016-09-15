@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="adata_30_schema.xml" />
+<references>
+<reffile id="m" name="mdata" href="cmpr9406_059.m" />
+<reffile id="w" name="wdata" href="cmpr9406_059.w" />
+</references>
+</head>
+<meta>
+<annotation_info>
+<desc>Manual annotation</desc>
+</annotation_info>
+</meta>
+<trees>
+<LM id="a-cmpr9406-059-p2s1">
+<s.rf>m#m-cmpr9406-059-p2s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-cmpr9406-059-p2s1w1">
+<m.rf>m#m-cmpr9406-059-p2s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-cmpr9406-059-p2s1w2">
+<m.rf>m#m-cmpr9406-059-p2s1w2</m.rf>
+<afun>AuxP</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-cmpr9406-059-p2s1w3">
+<m.rf>m#m-cmpr9406-059-p2s1w3</m.rf>
+<afun>ExD</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-cmpr9406-059-p2s1w4">
+<m.rf>m#m-cmpr9406-059-p2s1w4</m.rf>
+<afun>Atr</afun>
+<ord>4</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-cmpr9406-059-p2s1w5">
+<m.rf>m#m-cmpr9406-059-p2s1w5</m.rf>
+<afun>AuxP</afun>
+<ord>5</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-cmpr9406-059-p2s1w9">
+<m.rf>m#m-cmpr9406-059-p2s1w9</m.rf>
+<afun>Atr</afun>
+<ord>9</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-cmpr9406-059-p2s1w7">
+<m.rf>m#m-cmpr9406-059-p2s1w7</m.rf>
+<afun>Coord</afun>
+<ord>7</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-cmpr9406-059-p2s1w6">
+<m.rf>m#m-cmpr9406-059-p2s1w6</m.rf>
+<afun>Atr</afun>
+<is_member>1</is_member>
+<ord>6</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-cmpr9406-059-p2s1w8">
+<m.rf>m#m-cmpr9406-059-p2s1w8</m.rf>
+<afun>Atr</afun>
+<is_member>1</is_member>
+<ord>8</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-cmpr9406-059-p2s1w10">
+<m.rf>m#m-cmpr9406-059-p2s1w10</m.rf>
+<afun>AuxK</afun>
+<ord>10</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-cmpr9406-059-p4s1">
+<s.rf>m#m-cmpr9406-059-p4s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-cmpr9406-059-p4s1w1">
+<m.rf>m#m-cmpr9406-059-p4s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-cmpr9406-059-p4s1w2">
+<m.rf>m#m-cmpr9406-059-p4s1w2</m.rf>
+<afun>ExD</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-cmpr9406-059-p4s1w3">
+<m.rf>m#m-cmpr9406-059-p4s1w3</m.rf>
+<afun>ExD</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
+<ord>3</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-cmpr9406-059-p4s1w4">
+<m.rf>m#m-cmpr9406-059-p4s1w4</m.rf>
+<afun>ExD</afun>
+<ord>4</ord>
+<clause_number>0</clause_number>
+</LM>
+<LM id="a-cmpr9406-059-p4s1w5">
+<m.rf>m#m-cmpr9406-059-p4s1w5</m.rf>
+<afun>AuxK</afun>
+<ord>5</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+</trees>
+</adata>

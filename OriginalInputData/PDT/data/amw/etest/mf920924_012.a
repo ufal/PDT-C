@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="adata_30_schema.xml" />
+<references>
+<reffile id="m" name="mdata" href="mf920924_012.m" />
+<reffile id="w" name="wdata" href="mf920924_012.w" />
+</references>
+</head>
+<meta>
+<annotation_info>
+<desc>Manual annotation</desc>
+</annotation_info>
+</meta>
+<trees>
+<LM id="a-mf920924-012-p1s1">
+<s.rf>m#m-mf920924-012-p1s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf920924-012-p1s1w1">
+<m.rf>m#m-mf920924-012-p1s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920924-012-p1s1w3">
+<m.rf>m#m-mf920924-012-p1s1w3</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920924-012-p1s1w2">
+<m.rf>m#m-mf920924-012-p1s1w2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920924-012-p8s1">
+<s.rf>m#m-mf920924-012-p8s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf920924-012-p8s1w3">
+<m.rf>m#m-mf920924-012-p8s1w3</m.rf>
+<afun>ExD</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920924-012-p8s1w1">
+<m.rf>m#m-mf920924-012-p8s1w1</m.rf>
+<afun>Atr</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-mf920924-012-p8s1w2">
+<m.rf>m#m-mf920924-012-p8s1w2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920924-012-p63s1">
+<s.rf>m#m-mf920924-012-p63s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf920924-012-p63s1w4">
+<m.rf>m#m-mf920924-012-p63s1w4</m.rf>
+<afun>Apos</afun>
+<ord>4</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920924-012-p63s1w2">
+<m.rf>m#m-mf920924-012-p63s1w2</m.rf>
+<afun>ExD</afun>
+<is_member>1</is_member>
+<ord>2</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920924-012-p63s1w1">
+<m.rf>m#m-mf920924-012-p63s1w1</m.rf>
+<afun>Atr</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-mf920924-012-p63s1w3">
+<m.rf>m#m-mf920924-012-p63s1w3</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920924-012-p63s1w5">
+<m.rf>m#m-mf920924-012-p63s1w5</m.rf>
+<afun>ExD</afun>
+<is_member>1</is_member>
+<ord>5</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920924-012-p63s1w6">
+<m.rf>m#m-mf920924-012-p63s1w6</m.rf>
+<afun>Atr</afun>
+<ord>6</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920924-012-p65s1">
+<s.rf>m#m-mf920924-012-p65s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf920924-012-p65s1w1">
+<m.rf>m#m-mf920924-012-p65s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920924-012-p65s1w2">
+<m.rf>m#m-mf920924-012-p65s1w2</m.rf>
+<afun>AuxP</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920924-012-p65s1w5">
+<m.rf>m#m-mf920924-012-p65s1w5</m.rf>
+<afun>Atr</afun>
+<ord>5</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920924-012-p65s1w3">
+<m.rf>m#m-mf920924-012-p65s1w3</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-mf920924-012-p65s1w4">
+<m.rf>m#m-mf920924-012-p65s1w4</m.rf>
+<afun>Atr</afun>
+<ord>4</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920924-012-p65s1w6">
+<m.rf>m#m-mf920924-012-p65s1w6</m.rf>
+<afun>AuxK</afun>
+<ord>6</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920924-012-p85s1">
+<s.rf>m#m-mf920924-012-p85s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf920924-012-p85s1w1">
+<m.rf>m#m-mf920924-012-p85s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920924-012-p85s1w2">
+<m.rf>m#m-mf920924-012-p85s1w2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</trees>
+</adata>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="tdata_30_schema.xml" />
+<references>
+<reffile id="a" name="adata" href="ln94203_77.a" />
+<reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
+</references>
+</head>
+<meta>
+<annotation_info>
+<desc>Manual annotation</desc>
+</annotation_info>
+<genre>caption</genre>
+</meta>
+<trees>
+<LM id="t-ln94203-77-p1s1A">
+<atree.rf>a#a-ln94203-77-p1s1A</atree.rf>
+<deepord>0</deepord>
+<mwes>
+<LM id="s-ln94203-77-l2A">
+<type>person</type>
+<tnode.rfs>
+<LM>t-ln94203-77-p1s1Aw7</LM>
+<LM>t-ln94203-77-p1s1Aw8</LM>
+</tnode.rfs>
+</LM>
+</mwes>
+<children>
+<LM id="t-ln94203-77-p1s1Aa0">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#EmpVerb</t_lemma>
+<functor>PRED</functor>
+<sentmod>enunc</sentmod>
+<tfa>t</tfa>
+<deepord>4</deepord>
+<discourse_special>caption</discourse_special>
+<children>
+<LM id="t-ln94203-77-p1s1Aw2">
+<a>
+<lex.rf>a#a-ln94203-77-p1s1Aw2</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>voják</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.denot</sempos>
+<gender>anim</gender>
+<number>pl</number>
+<typgroup>single</typgroup>
+</gram>
+<tfa>c</tfa>
+<deepord>1</deepord>
+<children>
+<LM id="t-ln94203-77-p1s1Aw1">
+<a>
+<lex.rf>a#a-ln94203-77-p1s1Aw1</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>britský</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>adj.denot</sempos>
+<degcmp>pos</degcmp>
+<negation>neg0</negation>
+</gram>
+<tfa>f</tfa>
+<deepord>2</deepord>
+</LM>
+<LM id="t-ln94203-77-p1s1Aw4">
+<a>
+<lex.rf>a#a-ln94203-77-p1s1Aw4</lex.rf>
+<aux.rf>
+<LM>a#a-ln94203-77-p1s1Aw3</LM>
+</aux.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>Irsko</t_lemma>
+<functor>LOC</functor>
+<subfunctor>basic</subfunctor>
+<gram>
+<sempos>n.denot</sempos>
+<gender>neut</gender>
+<number>sg</number>
+<typgroup>single</typgroup>
+</gram>
+<tfa>f</tfa>
+<deepord>3</deepord>
+</LM>
+</children>
+</LM>
+<LM id="t-ln94203-77-p1s1Aw6">
+<a>
+<lex.rf>a#a-ln94203-77-p1s1Aw6</lex.rf>
+<aux.rf>
+<LM>a#a-ln94203-77-p1s1Aw5</LM>
+</aux.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>snímek</t_lemma>
+<functor>LOC</functor>
+<subfunctor>basic</subfunctor>
+<gram>
+<sempos>n.denot</sempos>
+<gender>inan</gender>
+<number>sg</number>
+<typgroup>single</typgroup>
+</gram>
+<tfa>f</tfa>
+<deepord>5</deepord>
+<children>
+<LM id="t-ln94203-77-p1s1Aw8">
+<a>
+<lex.rf>a#a-ln94203-77-p1s1Aw8</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>Mihaliček</t_lemma>
+<functor>ACT</functor>
+<is_name_of_person>1</is_name_of_person>
+<gram>
+<sempos>n.denot</sempos>
+<gender>anim</gender>
+<number>sg</number>
+<typgroup>single</typgroup>
+</gram>
+<tfa>f</tfa>
+<deepord>6</deepord>
+<children>
+<LM id="t-ln94203-77-p1s1Aw7">
+<a>
+<lex.rf>a#a-ln94203-77-p1s1Aw7</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>Jan</t_lemma>
+<functor>RSTR</functor>
+<is_name_of_person>1</is_name_of_person>
+<gram>
+<sempos>n.denot</sempos>
+<gender>anim</gender>
+<number>sg</number>
+<typgroup>single</typgroup>
+</gram>
+<tfa>f</tfa>
+<deepord>7</deepord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="t-ln94203-77-p1s1B">
+<atree.rf>a#a-ln94203-77-p1s1B</atree.rf>
+<deepord>0</deepord>
+<children>
+<LM id="t-ln94203-77-p1s1Bw1">
+<a>
+<lex.rf>a#a-ln94203-77-p1s1Bw1</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>foto</t_lemma>
+<functor>DENOM</functor>
+<sentmod>enunc</sentmod>
+<gram>
+<sempos>n.denot</sempos>
+<gender>neut</gender>
+<number>sg</number>
+<typgroup>single</typgroup>
+</gram>
+<tfa>f</tfa>
+<deepord>1</deepord>
+<coref_text>
+<LM>
+<target_node.rf>t-ln94203-77-p1s1Aw6</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
+</LM>
+</children>
+</LM>
+</trees>
+</tdata>

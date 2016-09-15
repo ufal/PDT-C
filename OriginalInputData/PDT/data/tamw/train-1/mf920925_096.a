@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="adata_30_schema.xml" />
+<references>
+<reffile id="m" name="mdata" href="mf920925_096.m" />
+<reffile id="w" name="wdata" href="mf920925_096.w" />
+</references>
+</head>
+<meta>
+<annotation_info>
+<desc>Manual annotation</desc>
+</annotation_info>
+</meta>
+<trees>
+<LM id="a-mf920925-096-p1s1">
+<s.rf>m#m-mf920925-096-p1s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf920925-096-p1s1w1">
+<m.rf>m#m-mf920925-096-p1s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920925-096-p2s1">
+<s.rf>m#m-mf920925-096-p2s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf920925-096-p2s1w1">
+<m.rf>m#m-mf920925-096-p2s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920925-096-p3s1">
+<s.rf>m#m-mf920925-096-p3s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf920925-096-p3s1w1">
+<m.rf>m#m-mf920925-096-p3s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920925-096-p3s1w2">
+<m.rf>m#m-mf920925-096-p3s1w2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920925-096-p5s1">
+<s.rf>m#m-mf920925-096-p5s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf920925-096-p5s1w1">
+<m.rf>m#m-mf920925-096-p5s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf920925-096-p5s1w2">
+<m.rf>m#m-mf920925-096-p5s1w2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920925-096-p7s1">
+<s.rf>m#m-mf920925-096-p7s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf920925-096-p7s1w1">
+<m.rf>m#m-mf920925-096-p7s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920925-096-p8s1">
+<s.rf>m#m-mf920925-096-p8s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf920925-096-p8s1w1">
+<m.rf>m#m-mf920925-096-p8s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-mf920925-096-p10s1">
+<s.rf>m#m-mf920925-096-p10s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf920925-096-p10s1w1">
+<m.rf>m#m-mf920925-096-p10s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</trees>
+</adata>

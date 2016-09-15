@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="adata_30_schema.xml" />
+<references>
+<reffile id="m" name="mdata" href="lnd94104_101.m" />
+<reffile id="w" name="wdata" href="lnd94104_101.w" />
+</references>
+</head>
+<meta>
+<annotation_info>
+<desc>Manual annotation</desc>
+</annotation_info>
+</meta>
+<trees>
+<LM id="a-lnd94104-101-p1s1A">
+<s.rf>m#m-lnd94104-101-p1s1A</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-lnd94104-101-p1s1Aw2">
+<m.rf>m#m-lnd94104-101-p1s1Aw2</m.rf>
+<afun>ExD</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94104-101-p1s1Aw1">
+<m.rf>m#m-lnd94104-101-p1s1Aw1</m.rf>
+<afun>Atr</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-lnd94104-101-p1s1B">
+<s.rf>m#m-lnd94104-101-p1s1B</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-lnd94104-101-p1s1Bw1">
+<m.rf>m#m-lnd94104-101-p1s1Bw1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-lnd94104-101-p1s1Bw3">
+<m.rf>m#m-lnd94104-101-p1s1Bw3</m.rf>
+<afun>ExD</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94104-101-p1s1Bw2">
+<m.rf>m#m-lnd94104-101-p1s1Bw2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</trees>
+</adata>

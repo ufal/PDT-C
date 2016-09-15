@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="mdata_30_schema.xml" />
+<references>
+<reffile id="w" name="wdata" href="mf930703_057.w" />
+</references>
+</head>
+<meta>
+<lang>cs</lang>
+<annotation_info id="manual">
+<desc>Manual annotation</desc>
+</annotation_info>
+</meta>
+<s id="m-mf930703-057-p1s1">
+<m id="m-mf930703-057-p1s1w1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p1s1w1</LM>
+</w.rf>
+<form>Tanec</form>
+<lemma>tanec</lemma>
+<tag>NNIS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p1s1w2">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p1s1w2</LM>
+</w.rf>
+<form>Praha</form>
+<lemma>Praha_;G</lemma>
+<tag>NNFS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p1s1w3">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p1s1w3</LM>
+</w.rf>
+<form>skončil</form>
+<lemma>skončit_:W</lemma>
+<tag>VpYS---XR-AA---</tag>
+</m>
+</s>
+<s id="m-mf930703-057-p2s1">
+<m id="m-mf930703-057-p2s1w1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w1</LM>
+</w.rf>
+<form>Praha</form>
+<lemma>Praha_;G</lemma>
+<tag>NNFS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s1w2">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w2</LM>
+</w.rf>
+<form>(</form>
+<lemma>(</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-mf930703-057-p2s1w3">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w3</LM>
+</w.rf>
+<form>aš</form>
+<lemma>aš-99_:B_;S</lemma>
+<tag>NNXXX-----A---8</tag>
+</m>
+<m id="m-mf930703-057-p2s1w4">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w4</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-mf930703-057-p2s1w5">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w5</LM>
+</w.rf>
+<form>čtk</form>
+<lemma>ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)</lemma>
+<tag>NNFXX-----A---8</tag>
+</m>
+<m id="m-mf930703-057-p2s1w6">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w6</LM>
+</w.rf>
+<form>)</form>
+<lemma>)</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-mf930703-057-p2s1w7">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w7</LM>
+</w.rf>
+<form>-</form>
+<lemma>-</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-mf930703-057-p2s1w8">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w8</LM>
+</w.rf>
+<form>Jubilejní</form>
+<lemma>jubilejní</lemma>
+<tag>AAIS1----1A----</tag>
+</m>
+<m id="m-mf930703-057-p2s1w9">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w9</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-mf930703-057-p2s1w10">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w10</LM>
+</w.rf>
+<form>pátý</form>
+<lemma>pátý</lemma>
+<tag>CrIS1----------</tag>
+</m>
+<m id="m-mf930703-057-p2s1w11">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w11</LM>
+</w.rf>
+<form>ročník</form>
+<lemma>ročník</lemma>
+<tag>NNIS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s1w12">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w12</LM>
+</w.rf>
+<form>festivalu</form>
+<lemma>festival</lemma>
+<tag>NNIS2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s1w13">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w13</LM>
+</w.rf>
+<form>Tanec</form>
+<lemma>tanec</lemma>
+<tag>NNIS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s1w14">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w14</LM>
+</w.rf>
+<form>Praha</form>
+<lemma>Praha_;G</lemma>
+<tag>NNFS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s1w15">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w15</LM>
+</w.rf>
+<form>skončil</form>
+<lemma>skončit_:W</lemma>
+<tag>VpYS---XR-AA---</tag>
+</m>
+<m id="m-mf930703-057-p2s1w16">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w16</LM>
+</w.rf>
+<form>včera</form>
+<lemma>včera</lemma>
+<tag>Db-------------</tag>
+</m>
+<m id="m-mf930703-057-p2s1w17">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w17</LM>
+</w.rf>
+<form>vystoupením</form>
+<lemma>vystoupení_^(*3it)</lemma>
+<tag>NNNS7-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s1w18">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w18</LM>
+</w.rf>
+<form>amerického</form>
+<lemma>americký</lemma>
+<tag>AAIS2----1A----</tag>
+</m>
+<m id="m-mf930703-057-p2s1w19">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w19</LM>
+</w.rf>
+<form>souboru</form>
+<lemma>soubor</lemma>
+<tag>NNIS2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s1w20">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w20</LM>
+</w.rf>
+<form>Bill</form>
+<lemma>Bill_;Y</lemma>
+<tag>NNMS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s1w21">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w21</LM>
+</w.rf>
+<form>T</form>
+<lemma>T-0_:B_;Y</lemma>
+<tag>NNMXX-----A---8</tag>
+</m>
+<m id="m-mf930703-057-p2s1w22">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w22</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-mf930703-057-p2s1w23">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w23</LM>
+</w.rf>
+<form>Jones</form>
+<lemma>Jones-1_;S</lemma>
+<tag>NNMS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s1w24">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w24</LM>
+</w.rf>
+<form>/</form>
+<lemma>/</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-mf930703-057-p2s1w25">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w25</LM>
+</w.rf>
+<form>Arnie</form>
+<lemma>Arnie_;K</lemma>
+<tag>NNMXX-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s1w26">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w26</LM>
+</w.rf>
+<form>Zane</form>
+<lemma>Zane_;K</lemma>
+<tag>NNMXX-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s1w27">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w27</LM>
+</w.rf>
+<form>Dance</form>
+<lemma>Dance_;K_,t</lemma>
+<tag>AAXXX----1A----</tag>
+</m>
+<m id="m-mf930703-057-p2s1w28">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w28</LM>
+</w.rf>
+<form>Company</form>
+<lemma>Company_;K_,t_^(přev._v_názvech_cizích_firem)</lemma>
+<tag>NNFXX-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s1w29">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s1w29</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+</s>
+<s id="m-mf930703-057-p2s2">
+<m id="m-mf930703-057-p2s2w1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w1</LM>
+</w.rf>
+<form>Přehlídky</form>
+<lemma>přehlídka</lemma>
+<tag>NNFS2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s2w2">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w2</LM>
+</w.rf>
+<form>se</form>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7-X4----------</tag>
+</m>
+<m id="m-mf930703-057-p2s2w3">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w3</LM>
+</w.rf>
+<form>zúčastnilo</form>
+<lemma>zúčastnit_:W</lemma>
+<tag>VpNS---XR-AA---</tag>
+</m>
+<m id="m-mf930703-057-p2s2w4">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w4</LM>
+</w.rf>
+<form>pět</form>
+<lemma>pět-1`5</lemma>
+<tag>Cn-S1----------</tag>
+</m>
+<m id="m-mf930703-057-p2s2w5">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w5</LM>
+</w.rf>
+<form>zahraničních</form>
+<lemma>zahraniční</lemma>
+<tag>AAIP2----1A----</tag>
+</m>
+<m id="m-mf930703-057-p2s2w6">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w6</LM>
+</w.rf>
+<form>souborů</form>
+<lemma>soubor</lemma>
+<tag>NNIP2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s2w7">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w7</LM>
+</w.rf>
+<form>včetně</form>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
+</m>
+<m id="m-mf930703-057-p2s2w8">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w8</LM>
+</w.rf>
+<form>Compagnie</form>
+<lemma>Compagnie_;K_,t</lemma>
+<tag>NNFXX-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s2w9">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w9</LM>
+</w.rf>
+<form>Maguy</form>
+<lemma>Maguy_;K_,t</lemma>
+<tag>NNMXX-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s2w10">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w10</LM>
+</w.rf>
+<form>Marin</form>
+<lemma>Marin_;K_,t</lemma>
+<tag>NNMXX-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s2w11">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w11</LM>
+</w.rf>
+<form>z</form>
+<lemma>z-1</lemma>
+<tag>RR--2----------</tag>
+</m>
+<m id="m-mf930703-057-p2s2w12">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w12</LM>
+</w.rf>
+<form>Francie</form>
+<lemma>Francie_;G</lemma>
+<tag>NNFS2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s2w13">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w13</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-mf930703-057-p2s2w14">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w14</LM>
+</w.rf>
+<form>které</form>
+<lemma>který</lemma>
+<tag>P4IP1----------</tag>
+</m>
+<m id="m-mf930703-057-p2s2w15">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w15</LM>
+</w.rf>
+<form>podaly</form>
+<lemma>podat_:W_^(něco_[někomu]_[někam])</lemma>
+<tag>VpTP---XR-AA---</tag>
+</m>
+<m id="m-mf930703-057-p2s2w16">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w16</LM>
+</w.rf>
+<form>vysoce</form>
+<lemma>vysoce</lemma>
+<tag>Db-------------</tag>
+</m>
+<m id="m-mf930703-057-p2s2w17">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w17</LM>
+</w.rf>
+<form>kvalitní</form>
+<lemma>kvalitní</lemma>
+<tag>AAIP4----1A----</tag>
+</m>
+<m id="m-mf930703-057-p2s2w18">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w18</LM>
+</w.rf>
+<form>výkony</form>
+<lemma>výkon</lemma>
+<tag>NNIP4-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s2w19">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s2w19</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+</s>
+<s id="m-mf930703-057-p2s3">
+<m id="m-mf930703-057-p2s3w1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s3w1</LM>
+</w.rf>
+<form>Dva</form>
+<lemma>dva`2</lemma>
+<tag>ClYP1----------</tag>
+</m>
+<m id="m-mf930703-057-p2s3w2">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s3w2</LM>
+</w.rf>
+<form>večery</form>
+<lemma>večer</lemma>
+<tag>NNIP1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s3w3">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s3w3</LM>
+</w.rf>
+<form>patřily</form>
+<lemma>patřit_:T</lemma>
+<tag>VpTP---XR-AA---</tag>
+</m>
+<m id="m-mf930703-057-p2s3w4">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s3w4</LM>
+</w.rf>
+<form>tomu</form>
+<lemma>ten</lemma>
+<tag>PDZS3----------</tag>
+</m>
+<m id="m-mf930703-057-p2s3w5">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s3w5</LM>
+</w.rf>
+<form>nejlepšímu</form>
+<lemma>dobrý</lemma>
+<tag>AANS3----3A----</tag>
+</m>
+<m id="m-mf930703-057-p2s3w6">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s3w6</LM>
+</w.rf>
+<form>z</form>
+<lemma>z-1</lemma>
+<tag>RR--2----------</tag>
+</m>
+<m id="m-mf930703-057-p2s3w7">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s3w7</LM>
+</w.rf>
+<form>domácí</form>
+<lemma>domácí</lemma>
+<tag>AAFS2----1A----</tag>
+</m>
+<m id="m-mf930703-057-p2s3w8">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s3w8</LM>
+</w.rf>
+<form>tvorby</form>
+<lemma>tvorba</lemma>
+<tag>NNFS2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s3w9">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s3w9</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+</s>
+<s id="m-mf930703-057-p2s4">
+<m id="m-mf930703-057-p2s4w1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w1</LM>
+</w.rf>
+<form>Potěšitelný</form>
+<lemma>potěšitelný_^(*4)</lemma>
+<tag>AAIS1----1A----</tag>
+</m>
+<m id="m-mf930703-057-p2s4w2">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w2</LM>
+</w.rf>
+<form>je</form>
+<lemma>být</lemma>
+<tag>VB-S---3P-AA---</tag>
+</m>
+<m id="m-mf930703-057-p2s4w3">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w3</LM>
+</w.rf>
+<form>i</form>
+<lemma>i-1</lemma>
+<tag>J^-------------</tag>
+</m>
+<m id="m-mf930703-057-p2s4w4">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w4</LM>
+</w.rf>
+<form>nárůst</form>
+<lemma>nárůst</lemma>
+<tag>NNIS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s4w5">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w5</LM>
+</w.rf>
+<form>zájmu</form>
+<lemma>zájem</lemma>
+<tag>NNIS2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s4w6">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w6</LM>
+</w.rf>
+<form>publika</form>
+<lemma>publikum</lemma>
+<tag>NNNS2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s4w7">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w7</LM>
+</w.rf>
+<form>-</form>
+<lemma>-</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-mf930703-057-p2s4w8">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w8</LM>
+</w.rf>
+<form>pražské</form>
+<lemma>pražský</lemma>
+<tag>AANS1----1A----</tag>
+</m>
+<m id="m-mf930703-057-p2s4w9">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w9</LM>
+</w.rf>
+<form>představení</form>
+<lemma>představení-2_^(divadelní,_filmové_apod.)</lemma>
+<tag>NNNS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s4w10">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w10</LM>
+</w.rf>
+<form>Tona</form>
+<lemma>Ton_;Y</lemma>
+<tag>NNMS2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s4w11">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w11</LM>
+</w.rf>
+<form>Simonse</form>
+<lemma>Simons_;S</lemma>
+<tag>NNMS2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s4w12">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w12</LM>
+</w.rf>
+<form>bylo</form>
+<lemma>být</lemma>
+<tag>VpNS---XR-AA---</tag>
+</m>
+<m id="m-mf930703-057-p2s4w13">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w13</LM>
+</w.rf>
+<form>vyprodané</form>
+<lemma>vyprodaný_^(*2t)</lemma>
+<tag>AANS1----1A----</tag>
+</m>
+<m id="m-mf930703-057-p2s4w14">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w14</LM>
+</w.rf>
+<form>a</form>
+<lemma>a-1</lemma>
+<tag>J^-------------</tag>
+</m>
+<m id="m-mf930703-057-p2s4w15">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w15</LM>
+</w.rf>
+<form>ani</form>
+<lemma>ani</lemma>
+<tag>J^-------------</tag>
+</m>
+<m id="m-mf930703-057-p2s4w16">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w16</LM>
+</w.rf>
+<form>v</form>
+<lemma>v-1</lemma>
+<tag>RR--6----------</tag>
+</m>
+<m id="m-mf930703-057-p2s4w17">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w17</LM>
+</w.rf>
+<form>případě</form>
+<lemma>případ</lemma>
+<tag>NNIS6-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s4w18">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w18</LM>
+</w.rf>
+<form>jiných</form>
+<lemma>jiný</lemma>
+<tag>AAFP2----1A----</tag>
+</m>
+<m id="m-mf930703-057-p2s4w19">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w19</LM>
+</w.rf>
+<form>skupin</form>
+<lemma>skupina</lemma>
+<tag>NNFP2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s4w20">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w20</LM>
+</w.rf>
+<form>nezelo</form>
+<lemma>zet</lemma>
+<tag>VpNS---XR-NA---</tag>
+</m>
+<m id="m-mf930703-057-p2s4w21">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w21</LM>
+</w.rf>
+<form>hlediště</form>
+<lemma>hlediště</lemma>
+<tag>NNNS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s4w22">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w22</LM>
+</w.rf>
+<form>prázdnotou</form>
+<lemma>prázdnota</lemma>
+<tag>NNFS7-----A----</tag>
+</m>
+<m id="m-mf930703-057-p2s4w23">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p2s4w23</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+</s>
+<s id="m-mf930703-057-p3s1">
+<m id="m-mf930703-057-p3s1w1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w1</LM>
+</w.rf>
+<form>Pátý</form>
+<lemma>pátý</lemma>
+<tag>CrIS1----------</tag>
+</m>
+<m id="m-mf930703-057-p3s1w2">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w2</LM>
+</w.rf>
+<form>ročník</form>
+<lemma>ročník</lemma>
+<tag>NNIS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s1w3">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w3</LM>
+</w.rf>
+<form>festivalu</form>
+<lemma>festival</lemma>
+<tag>NNIS2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s1w4">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w4</LM>
+</w.rf>
+<form>Tanec</form>
+<lemma>tanec</lemma>
+<tag>NNIS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s1w5">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w5</LM>
+</w.rf>
+<form>Praha</form>
+<lemma>Praha_;G</lemma>
+<tag>NNFS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s1w6">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w6</LM>
+</w.rf>
+<form>'</form>
+<lemma>'</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-mf930703-057-p3s1w7">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w7</LM>
+</w.rf>
+<form>93</form>
+<lemma>93</lemma>
+<tag>C=-------------</tag>
+</m>
+<m id="m-mf930703-057-p3s1w8">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w8</LM>
+</w.rf>
+<form>měl</form>
+<lemma>mít</lemma>
+<tag>VpYS---XR-AA---</tag>
+</m>
+<m id="m-mf930703-057-p3s1w9">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w9</LM>
+</w.rf>
+<form>devítimilionový</form>
+<lemma>devítimiliónový`9000000</lemma>
+<tag>CrIS4----------</tag>
+</m>
+<m id="m-mf930703-057-p3s1w10">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w10</LM>
+</w.rf>
+<form>rozpočet</form>
+<lemma>rozpočet</lemma>
+<tag>NNIS4-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s1w11">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w11</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-mf930703-057-p3s1w12">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w12</LM>
+</w.rf>
+<form>který</form>
+<lemma>který</lemma>
+<tag>P4IS4----------</tag>
+</m>
+<m id="m-mf930703-057-p3s1w13">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w13</LM>
+</w.rf>
+<form>z</form>
+<lemma>z-1</lemma>
+<tag>RR--2----------</tag>
+</m>
+<m id="m-mf930703-057-p3s1w14">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w14</LM>
+</w.rf>
+<form>větší</form>
+<lemma>velký</lemma>
+<tag>AAFS2----2A----</tag>
+</m>
+<m id="m-mf930703-057-p3s1w15">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w15</LM>
+</w.rf>
+<form>části</form>
+<lemma>část</lemma>
+<tag>NNFS2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s1w16">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w16</LM>
+</w.rf>
+<form>pokryly</form>
+<lemma>pokrýt</lemma>
+<tag>VpTP---XR-AA---</tag>
+</m>
+<m id="m-mf930703-057-p3s1w17">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w17</LM>
+</w.rf>
+<form>zahraniční</form>
+<lemma>zahraniční_,a</lemma>
+<tag>AAFP1----1A----</tag>
+</m>
+<m id="m-mf930703-057-p3s1w18">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w18</LM>
+</w.rf>
+<form>instituce</form>
+<lemma>instituce</lemma>
+<tag>NNFP1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s1w19">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w19</LM>
+</w.rf>
+<form>a</form>
+<lemma>a-1</lemma>
+<tag>J^-------------</tag>
+</m>
+<m id="m-mf930703-057-p3s1w20">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w20</LM>
+</w.rf>
+<form>nadace</form>
+<lemma>nadace</lemma>
+<tag>NNFP1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s1w21">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s1w21</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+</s>
+<s id="m-mf930703-057-p3s2">
+<m id="m-mf930703-057-p3s2w1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s2w1</LM>
+</w.rf>
+<form>Státní</form>
+<lemma>státní</lemma>
+<tag>AAFS1----1A----</tag>
+</m>
+<m id="m-mf930703-057-p3s2w2">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s2w2</LM>
+</w.rf>
+<form>dotace</form>
+<lemma>dotace</lemma>
+<tag>NNFS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s2w3">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s2w3</LM>
+</w.rf>
+<form>činila</form>
+<lemma>činit_:T</lemma>
+<tag>VpQW---XR-AA---</tag>
+</m>
+<m id="m-mf930703-057-p3s2w4">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s2w4</LM>
+</w.rf>
+<form>dva</form>
+<lemma>dva`2</lemma>
+<tag>ClYP4----------</tag>
+</m>
+<m id="m-mf930703-057-p3s2w5">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s2w5</LM>
+</w.rf>
+<form>miliony</form>
+<lemma>milión`1000000</lemma>
+<tag>NNIP4-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s2w6">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s2w6</LM>
+</w.rf>
+<form>korun</form>
+<lemma>koruna</lemma>
+<tag>NNFP2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s2w7">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s2w7</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+</s>
+<s id="m-mf930703-057-p3s3">
+<m id="m-mf930703-057-p3s3w1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s3w1</LM>
+</w.rf>
+<form>Rovným</form>
+<lemma>rovný-2_^(stejný,_spravedlivý)</lemma>
+<tag>AAIS7----1A----</tag>
+</m>
+<m id="m-mf930703-057-p3s3w2">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s3w2</LM>
+</w.rf>
+<form>dílem</form>
+<lemma>díl_^(jeden_díl_[z_celku])</lemma>
+<tag>NNIS7-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s3w3">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s3w3</LM>
+</w.rf>
+<form>se</form>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7-X4----------</tag>
+</m>
+<m id="m-mf930703-057-p3s3w4">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s3w4</LM>
+</w.rf>
+<form>na</form>
+<lemma>na-1</lemma>
+<tag>RR--6----------</tag>
+</m>
+<m id="m-mf930703-057-p3s3w5">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s3w5</LM>
+</w.rf>
+<form>ní</form>
+<lemma>on-1</lemma>
+<tag>P5FS6--3-------</tag>
+</m>
+<m id="m-mf930703-057-p3s3w6">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s3w6</LM>
+</w.rf>
+<form>podílely</form>
+<lemma>podílet_:T</lemma>
+<tag>VpTP---XR-AA---</tag>
+</m>
+<m id="m-mf930703-057-p3s3w7">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s3w7</LM>
+</w.rf>
+<form>ministerstvo</form>
+<lemma>ministerstvo</lemma>
+<tag>NNNS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s3w8">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s3w8</LM>
+</w.rf>
+<form>kultury</form>
+<lemma>kultura</lemma>
+<tag>NNFS2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s3w9">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s3w9</LM>
+</w.rf>
+<form>a</form>
+<lemma>a-1</lemma>
+<tag>J^-------------</tag>
+</m>
+<m id="m-mf930703-057-p3s3w10">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s3w10</LM>
+</w.rf>
+<form>pražský</form>
+<lemma>pražský</lemma>
+<tag>AAIS1----1A----</tag>
+</m>
+<m id="m-mf930703-057-p3s3w11">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s3w11</LM>
+</w.rf>
+<form>magistrát</form>
+<lemma>magistrát</lemma>
+<tag>NNIS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s3w12">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s3w12</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+</s>
+<s id="m-mf930703-057-p3s4">
+<m id="m-mf930703-057-p3s4w1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w1</LM>
+</w.rf>
+<form>Pokud</form>
+<lemma>pokud</lemma>
+<tag>J,-------------</tag>
+</m>
+<m id="m-mf930703-057-p3s4w2">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w2</LM>
+</w.rf>
+<form>se</form>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7-X4----------</tag>
+</m>
+<m id="m-mf930703-057-p3s4w3">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w3</LM>
+</w.rf>
+<form>ovšem</form>
+<lemma>ovšem-1_^(avšak,_však;_odporovací_spojka)</lemma>
+<tag>J^-------------</tag>
+</m>
+<m id="m-mf930703-057-p3s4w4">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w4</LM>
+</w.rf>
+<form>nepodaří</form>
+<lemma>podařit_:W</lemma>
+<tag>VB-S---3P-NA---</tag>
+</m>
+<m id="m-mf930703-057-p3s4w5">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w5</LM>
+</w.rf>
+<form>změnit</form>
+<lemma>změnit_:W</lemma>
+<tag>Vf--------A----</tag>
+</m>
+<m id="m-mf930703-057-p3s4w6">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w6</LM>
+</w.rf>
+<form>přístup</form>
+<lemma>přístup</lemma>
+<tag>NNIS4-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s4w7">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w7</LM>
+</w.rf>
+<form>obou</form>
+<lemma>oba`2</lemma>
+<tag>ClXP2----------</tag>
+</m>
+<m id="m-mf930703-057-p3s4w8">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w8</LM>
+</w.rf>
+<form>institucí</form>
+<lemma>instituce</lemma>
+<tag>NNFP2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s4w9">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w9</LM>
+</w.rf>
+<form>k</form>
+<lemma>k-1</lemma>
+<tag>RR--3----------</tag>
+</m>
+<m id="m-mf930703-057-p3s4w10">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w10</LM>
+</w.rf>
+<form>financování</form>
+<lemma>financování_^(*3at)</lemma>
+<tag>NNNS3-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s4w11">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w11</LM>
+</w.rf>
+<form>festivalu</form>
+<lemma>festival</lemma>
+<tag>NNIS2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s4w12">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w12</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-mf930703-057-p3s4w13">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w13</LM>
+</w.rf>
+<form>je</form>
+<lemma>být</lemma>
+<tag>VB-S---3P-AA---</tag>
+</m>
+<m id="m-mf930703-057-p3s4w14">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w14</LM>
+</w.rf>
+<form>jeho</form>
+<lemma>jeho_^(přivlast.)</lemma>
+<tag>PSXXXZS3-------</tag>
+</m>
+<m id="m-mf930703-057-p3s4w15">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w15</LM>
+</w.rf>
+<form>ředitelka</form>
+<lemma>ředitelka_^(*2)</lemma>
+<tag>NNFS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s4w16">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w16</LM>
+</w.rf>
+<form>Yvona</form>
+<lemma>Yvona_;Y</lemma>
+<tag>NNFS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s4w17">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w17</LM>
+</w.rf>
+<form>Kreuzmannová</form>
+<lemma>Kreuzmannová_;S</lemma>
+<tag>NNFS1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s4w18">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w18</LM>
+</w.rf>
+<form>připravena</form>
+<lemma>připravit_:W</lemma>
+<tag>VsQW---XX-AP---</tag>
+</m>
+<m id="m-mf930703-057-p3s4w19">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w19</LM>
+</w.rf>
+<form>příští</form>
+<lemma>příští</lemma>
+<tag>AAIS4----1A----</tag>
+</m>
+<m id="m-mf930703-057-p3s4w20">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w20</LM>
+</w.rf>
+<form>ročník</form>
+<lemma>ročník</lemma>
+<tag>NNIS4-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s4w21">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w21</LM>
+</w.rf>
+<form>neuskutečnit</form>
+<lemma>uskutečnit_:W</lemma>
+<tag>Vf--------N----</tag>
+</m>
+<m id="m-mf930703-057-p3s4w22">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s4w22</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+</s>
+<s id="m-mf930703-057-p3s5">
+<m id="m-mf930703-057-p3s5w1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s5w1</LM>
+</w.rf>
+<form>Podle</form>
+<lemma>podle-2</lemma>
+<tag>RR--2----------</tag>
+</m>
+<m id="m-mf930703-057-p3s5w2">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s5w2</LM>
+</w.rf>
+<form>jejích</form>
+<lemma>jeho_^(přivlast.)</lemma>
+<tag>PSXP2FS3-------</tag>
+</m>
+<m id="m-mf930703-057-p3s5w3">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s5w3</LM>
+</w.rf>
+<form>slov</form>
+<lemma>slovo</lemma>
+<tag>NNNP2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s5w4">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s5w4</LM>
+</w.rf>
+<form>i</form>
+<lemma>i-1</lemma>
+<tag>J^-------------</tag>
+</m>
+<m id="m-mf930703-057-p3s5w5">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s5w5</LM>
+</w.rf>
+<form>přes</form>
+<lemma>přes-1</lemma>
+<tag>RR--4----------</tag>
+</m>
+<m id="m-mf930703-057-p3s5w6">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s5w6</LM>
+</w.rf>
+<form>množství</form>
+<lemma>množství</lemma>
+<tag>NNNS4-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s5w7">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s5w7</LM>
+</w.rf>
+<form>sponzorů</form>
+<lemma>sponzor</lemma>
+<tag>NNMP2-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s5w8">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s5w8</LM>
+</w.rf>
+<form>finance</form>
+<lemma>finance</lemma>
+<tag>NNFP1-----A----</tag>
+</m>
+<m id="m-mf930703-057-p3s5w9">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s5w9</LM>
+</w.rf>
+<form>nestačí</form>
+<lemma>stačit_:T</lemma>
+<tag>VB-P---3P-NA---</tag>
+</m>
+<m id="m-mf930703-057-p3s5w10">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930703-057-p3s5w10</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+</s>
+</mdata>

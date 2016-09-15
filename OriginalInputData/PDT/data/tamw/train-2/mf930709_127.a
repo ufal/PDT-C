@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="adata_30_schema.xml" />
+<references>
+<reffile id="m" name="mdata" href="mf930709_127.m" />
+<reffile id="w" name="wdata" href="mf930709_127.w" />
+</references>
+</head>
+<meta>
+<annotation_info>
+<desc>Manual annotation</desc>
+</annotation_info>
+</meta>
+<trees>
+<LM id="a-mf930709-127-p1s1">
+<s.rf>m#m-mf930709-127-p1s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf930709-127-p1s1w1">
+<m.rf>m#m-mf930709-127-p1s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-mf930709-127-p2s1">
+<s.rf>m#m-mf930709-127-p2s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf930709-127-p2s1w1">
+<m.rf>m#m-mf930709-127-p2s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf930709-127-p2s1w2">
+<m.rf>m#m-mf930709-127-p2s1w2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-mf930709-127-p4s1">
+<s.rf>m#m-mf930709-127-p4s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf930709-127-p4s1w1">
+<m.rf>m#m-mf930709-127-p4s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-mf930709-127-p6s1">
+<s.rf>m#m-mf930709-127-p6s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf930709-127-p6s1w1">
+<m.rf>m#m-mf930709-127-p6s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf930709-127-p6s1w2">
+<m.rf>m#m-mf930709-127-p6s1w2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf930709-127-p6s1w3">
+<m.rf>m#m-mf930709-127-p6s1w3</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-mf930709-127-p8s1">
+<s.rf>m#m-mf930709-127-p8s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-mf930709-127-p8s1w1">
+<m.rf>m#m-mf930709-127-p8s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf930709-127-p8s1w2">
+<m.rf>m#m-mf930709-127-p8s1w2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</trees>
+</adata>

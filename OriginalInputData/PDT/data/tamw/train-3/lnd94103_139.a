@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="adata_30_schema.xml" />
+<references>
+<reffile id="m" name="mdata" href="lnd94103_139.m" />
+<reffile id="w" name="wdata" href="lnd94103_139.w" />
+</references>
+</head>
+<meta>
+<annotation_info>
+<desc>Manual annotation</desc>
+</annotation_info>
+</meta>
+<trees>
+<LM id="a-lnd94103-139-p1s1">
+<s.rf>m#m-lnd94103-139-p1s1</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-lnd94103-139-p1s1w1">
+<m.rf>m#m-lnd94103-139-p1s1w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-139-p1s1w4">
+<m.rf>m#m-lnd94103-139-p1s1w4</m.rf>
+<afun>Atr</afun>
+<ord>4</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-139-p1s1w2">
+<m.rf>m#m-lnd94103-139-p1s1w2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-139-p1s1w3">
+<m.rf>m#m-lnd94103-139-p1s1w3</m.rf>
+<afun>AuxG</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-lnd94103-139-p1s12">
+<s.rf>m#m-lnd94103-139-p1s12</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-lnd94103-139-p1s12w3">
+<m.rf>m#m-lnd94103-139-p1s12w3</m.rf>
+<afun>Pred</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-139-p1s12w1">
+<m.rf>m#m-lnd94103-139-p1s12w1</m.rf>
+<afun>AuxP</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-139-p1s12w2">
+<m.rf>m#m-lnd94103-139-p1s12w2</m.rf>
+<afun>Adv</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-lnd94103-139-p1s12w4">
+<m.rf>m#m-lnd94103-139-p1s12w4</m.rf>
+<afun>Sb</afun>
+<ord>4</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-139-p1s12w5">
+<m.rf>m#m-lnd94103-139-p1s12w5</m.rf>
+<afun>Atr</afun>
+<ord>5</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-139-p1s12w6">
+<m.rf>m#m-lnd94103-139-p1s12w6</m.rf>
+<afun>Atr</afun>
+<ord>6</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-lnd94103-139-p1s12w7">
+<m.rf>m#m-lnd94103-139-p1s12w7</m.rf>
+<afun>Atr</afun>
+<ord>7</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-lnd94103-139-p1s12w8">
+<m.rf>m#m-lnd94103-139-p1s12w8</m.rf>
+<afun>AuxP</afun>
+<ord>8</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-139-p1s12w9">
+<m.rf>m#m-lnd94103-139-p1s12w9</m.rf>
+<afun>Atr</afun>
+<ord>9</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-139-p1s12w12">
+<m.rf>m#m-lnd94103-139-p1s12w12</m.rf>
+<afun>Atr</afun>
+<ord>12</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-139-p1s12w10">
+<m.rf>m#m-lnd94103-139-p1s12w10</m.rf>
+<afun>Atr</afun>
+<ord>10</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-139-p1s12w11">
+<m.rf>m#m-lnd94103-139-p1s12w11</m.rf>
+<afun>AuxG</afun>
+<ord>11</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-lnd94103-139-p1s12w13">
+<m.rf>m#m-lnd94103-139-p1s12w13</m.rf>
+<afun>AuxP</afun>
+<ord>13</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-139-p1s12w15">
+<m.rf>m#m-lnd94103-139-p1s12w15</m.rf>
+<afun>Adv</afun>
+<ord>15</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-139-p1s12w14">
+<m.rf>m#m-lnd94103-139-p1s12w14</m.rf>
+<afun>Atr</afun>
+<ord>14</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-lnd94103-139-p1s12w16">
+<m.rf>m#m-lnd94103-139-p1s12w16</m.rf>
+<afun>AuxP</afun>
+<ord>16</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-139-p1s12w17">
+<m.rf>m#m-lnd94103-139-p1s12w17</m.rf>
+<afun>Atr</afun>
+<ord>17</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-lnd94103-139-p1s12w18">
+<m.rf>m#m-lnd94103-139-p1s12w18</m.rf>
+<afun>AuxK</afun>
+<ord>18</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-lnd94103-139-p1s13">
+<s.rf>m#m-lnd94103-139-p1s13</s.rf>
+<ord>0</ord>
+<children>
+<LM id="a-lnd94103-139-p1s13w1">
+<m.rf>m#m-lnd94103-139-p1s13w1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
+<LM id="a-lnd94103-139-p1s13w2">
+<m.rf>m#m-lnd94103-139-p1s13w2</m.rf>
+<afun>ExD</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
+<ord>2</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-lnd94103-139-p1s13w3">
+<m.rf>m#m-lnd94103-139-p1s13w3</m.rf>
+<afun>ExD</afun>
+<ord>3</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+</trees>
+</adata>
