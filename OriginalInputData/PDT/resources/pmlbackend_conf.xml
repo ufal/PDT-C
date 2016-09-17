@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pmlbackend
+  xmlns="http://ufal.mff.cuni.cz/pdt/pml/"
+  xmlns:xi="http://www.w3.org/2001/XInclude">
+  <head>
+    <schema href="pmlbackend_conf_schema.xml"/>
+  </head>
+  <options>
+    <debug>0</debug>
+    <load>
+      <validate_cdata>0</validate_cdata>
+    </load>
+    <save>
+      <indent>0</indent>
+      <write_single_LM>1</write_single_LM>
+    </save>
+  </options>
+  <transform_map/>
+</pmlbackend>
