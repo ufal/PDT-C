@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pml_schema xmlns="http://ufal.mff.cuni.cz/pdt/pml/schema/" version="1.1">
+  <revision>1.0.1</revision>
+  <description>FAUST tectogrammatic trees</description>
+  <reference name="adata" readas="trees"/>
+
+  <import schema="tanot_schema.xml" maximal_revision="1.0.9999"/>
+
+  <derive type="t-root.type">
+    <structure>
+      <member name="offensive" type="bool.type" as_attribute="1"/>
+    </structure>
+  </derive>
+</pml_schema>
