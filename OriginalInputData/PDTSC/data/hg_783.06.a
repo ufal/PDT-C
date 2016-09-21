@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+  <head>
+    <schema href="adata_schema.xml" />
+    <references>
+      <reffile id="m" name="mdata" href="hg_783.06.m" />
+    </references>
+  </head>
+  <trees>
+    <LM id="hg-27638_03.06-SCzechA-hg-27638_03-d1e2297-x4-root">
+      <s.rf>m#m-27638_03-d1e2297-x4</s.rf>
+      <ord>0</ord>
+      <children>
+        <LM id="hg-27638_03.06-SCzechA-m-d1t2317-2">
+          <m.rf>m#m-d1t2317-2</m.rf>
+          <afun>Coord</afun>
+          <ord>4</ord>
+          <children>
+            <LM id="hg-27638_03.06-SCzechA-m-d1t2315-1">
+              <m.rf>m#m-d1t2315-1</m.rf>
+              <afun>ExD</afun>
+              <is_member>1</is_member>
+              <ord>1</ord>
+            </LM>
+            <LM id="hg-27638_03.06-SCzechA-m-d1e2297-x4-2223">
+              <m.rf>m#m-d1e2297-x4-2223</m.rf>
+              <afun>AuxX</afun>
+              <ord>2</ord>
+            </LM>
+            <LM id="hg-27638_03.06-SCzechA-m-d1t2317-1">
+              <m.rf>m#m-d1t2317-1</m.rf>
+              <afun>Sb</afun>
+              <is_member>1</is_member>
+              <ord>3</ord>
+            </LM>
+            <LM id="hg-27638_03.06-SCzechA-m-d1t2317-3">
+              <m.rf>m#m-d1t2317-3</m.rf>
+              <afun>Sb</afun>
+              <is_member>1</is_member>
+              <ord>5</ord>
+            </LM>
+          </children>
+        </LM>
+        <LM id="hg-27638_03.06-SCzechA-m-d-id131335">
+          <m.rf>m#m-d-id131335</m.rf>
+          <afun>AuxK</afun>
+          <ord>6</ord>
+        </LM>
+      </children>
+    </LM>
+    <LM id="hg-27638_03.06-SCzechA-hg-27638_03-d1e2318-x2-root">
+      <s.rf>m#m-27638_03-d1e2318-x2</s.rf>
+      <ord>0</ord>
+      <children>
+        <LM id="hg-27638_03.06-SCzechA-m-d1t2323-1">
+          <m.rf>m#m-d1t2323-1</m.rf>
+          <afun>ExD</afun>
+          <ord>1</ord>
+          <children id="hg-27638_03.06-SCzechA-m-d1t2323-3">
+            <m.rf>m#m-d1t2323-3</m.rf>
+            <afun>Atr</afun>
+            <ord>3</ord>
+            <children id="hg-27638_03.06-SCzechA-m-d1t2323-2">
+              <m.rf>m#m-d1t2323-2</m.rf>
+              <afun>Atr</afun>
+              <ord>2</ord>
+            </children>
+          </children>
+        </LM>
+        <LM id="hg-27638_03.06-SCzechA-m-d-id131453">
+          <m.rf>m#m-d-id131453</m.rf>
+          <afun>AuxK</afun>
+          <ord>4</ord>
+        </LM>
+      </children>
+    </LM>
+  </trees>
+</adata>

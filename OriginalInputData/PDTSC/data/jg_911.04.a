@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+  <head>
+    <schema href="adata_schema.xml" />
+    <references>
+      <reffile id="m" name="mdata" href="jg_911.04.m" />
+    </references>
+  </head>
+  <trees>
+    <LM id="jg-12941_01.04-SCzechA-jg-12941_01-3497-root">
+      <s.rf>m#m-12941_01-3497</s.rf>
+      <ord>0</ord>
+      <children>
+        <LM id="jg-12941_01.04-SCzechA-m-d1t1409-17">
+          <m.rf>m#m-d1t1409-17</m.rf>
+          <afun>Pred</afun>
+          <ord>4</ord>
+          <children>
+            <LM id="jg-12941_01.04-SCzechA-m-3497-3504">
+              <m.rf>m#m-3497-3504</m.rf>
+              <afun>Adv</afun>
+              <ord>1</ord>
+            </LM>
+            <LM id="jg-12941_01.04-SCzechA-m-d1t1409-15">
+              <m.rf>m#m-d1t1409-15</m.rf>
+              <afun>Sb</afun>
+              <ord>2</ord>
+            </LM>
+            <LM id="jg-12941_01.04-SCzechA-m-d1t1409-16">
+              <m.rf>m#m-d1t1409-16</m.rf>
+              <afun>AuxT</afun>
+              <ord>3</ord>
+            </LM>
+            <LM id="jg-12941_01.04-SCzechA-m-3497-3506">
+              <m.rf>m#m-3497-3506</m.rf>
+              <afun>AuxX</afun>
+              <ord>9</ord>
+              <children>
+                <LM id="jg-12941_01.04-SCzechA-m-3497-3505">
+                  <m.rf>m#m-3497-3505</m.rf>
+                  <afun>AuxX</afun>
+                  <ord>5</ord>
+                </LM>
+                <LM id="jg-12941_01.04-SCzechA-m-d1t1411-3">
+                  <m.rf>m#m-d1t1411-3</m.rf>
+                  <afun>ExD</afun>
+                  <ord>6</ord>
+                  <children id="jg-12941_01.04-SCzechA-m-d1t1411-4">
+                    <m.rf>m#m-d1t1411-4</m.rf>
+                    <afun>Atr</afun>
+                    <ord>7</ord>
+                  </children>
+                </LM>
+                <LM id="jg-12941_01.04-SCzechA-m-d1t1411-5">
+                  <m.rf>m#m-d1t1411-5</m.rf>
+                  <afun>Sb</afun>
+                  <ord>8</ord>
+                </LM>
+                <LM id="jg-12941_01.04-SCzechA-m-d1t1411-6">
+                  <m.rf>m#m-d1t1411-6</m.rf>
+                  <afun>ExD</afun>
+                  <ord>10</ord>
+                  <children id="jg-12941_01.04-SCzechA-m-d1t1411-8">
+                    <m.rf>m#m-d1t1411-8</m.rf>
+                    <afun>Atr</afun>
+                    <ord>11</ord>
+                  </children>
+                </LM>
+              </children>
+            </LM>
+          </children>
+        </LM>
+        <LM id="jg-12941_01.04-SCzechA-m-d-id107643">
+          <m.rf>m#m-d-id107643</m.rf>
+          <afun>AuxK</afun>
+          <ord>12</ord>
+        </LM>
+      </children>
+    </LM>
+  </trees>
+</adata>
