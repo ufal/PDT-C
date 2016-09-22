@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="tanot_schema.xml" />
+<references>
+<reffile id="a" name="adata" href="wsj0312.cz.a.gz" />
+<reffile id="v" name="vallex" href="vallex3.xml" />
+</references>
+</head>
+<trees>
+<LM id="T-wsj0312-001-p1s0">
+<atree.rf>a#a-wsj0312-001-p1s0</atree.rf>
+<deepord>0</deepord>
+<children id="T-wsj0312-001-p1s0a1">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s0W2-Ta</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>a</t_lemma>
+<functor>CONJ</functor>
+<deepord>3</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s0a2">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s0W1-Ta</lex.rf>
+</a>
+<val_frame.rf>v#v-w7405f1</val_frame.rf>
+<nodetype>complex</nodetype>
+<t_lemma>utrpení</t_lemma>
+<functor>DENOM</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>2</deepord>
+<children id="T-wsj0312-001-p1s0a4">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Gen</t_lemma>
+<functor>ACT</functor>
+<deepord>1</deepord>
+</children>
+<annot_comment>
+<type>New valency frame</type>
+<text>P</text>
+</annot_comment>
+</LM>
+<LM id="T-wsj0312-001-p1s0a3">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s0W3-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>hrůza</t_lemma>
+<functor>DENOM</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>4</deepord>
+</LM>
+</children>
+</children>
+<eng_sentence>Trial and Terror</eng_sentence>
+</LM>
+<LM id="T-wsj0312-001-p1s1">
+<atree.rf>a#a-wsj0312-001-p1s1</atree.rf>
+<deepord>0</deepord>
+<children id="T-wsj0312-001-p1s1a31">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s1W10-Ta</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>#Comma</t_lemma>
+<functor>CONJ</functor>
+<deepord>9</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s1a24">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>1</deepord>
+</LM>
+<LM id="T-wsj0312-001-p1s1a6">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s1W3-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>mysl</t_lemma>
+<functor>PAT</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>4</deepord>
+<children id="T-wsj0312-001-p1s1a7">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s1W2-Ta</lex.rf>
+</a>
+<coref_gram.rf>T-wsj0312-001-p1s1a24</coref_gram.rf>
+<nodetype>complex</nodetype>
+<t_lemma>#PersPron</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>3</deepord>
+</children>
+</LM>
+<LM id="T-wsj0312-001-p1s1a4">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s1W4-Ta</lex.rf>
+</a>
+<val_frame.rf>v#v-w1317f1</val_frame.rf>
+<nodetype>complex</nodetype>
+<t_lemma>izolovat</t_lemma>
+<functor>PRED</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>v</sempos>
+</gram>
+<deepord>5</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s1a5">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s1W1-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>kdy</t_lemma>
+<functor>TWHEN</functor>
+<gram>
+<sempos>adv.pron.indef</sempos>
+</gram>
+<deepord>2</deepord>
+</LM>
+<LM id="T-wsj0312-001-p1s1a9">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s1W8-Ta</lex.rf>
+<aux.rf>
+<LM>a#a-wsj0312-001-p1s1W7-Ta</LM>
+<LM>a#a-wsj0312-001-p1s1W6-Ta</LM>
+</aux.rf>
+</a>
+<val_frame.rf>v#v-w1917f2</val_frame.rf>
+<nodetype>complex</nodetype>
+<t_lemma>myslet</t_lemma>
+<functor>TWHEN</functor>
+<gram>
+<sempos>v</sempos>
+</gram>
+<deepord>7</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s1a25">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>6</deepord>
+<coref_text>
+<target-node.rf>T-wsj0312-001-p1s1a7</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>JP</src>
+</coref_text>
+</LM>
+<LM id="T-wsj0312-001-p1s1a10">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s1W9-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>přesný</t_lemma>
+<functor>MANN</functor>
+<gram>
+<sempos>adj.denot</sempos>
+</gram>
+<deepord>8</deepord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="T-wsj0312-001-p1s1a1">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s1W11-Ta</lex.rf>
+</a>
+<val_frame.rf>v#v-w3154f1</val_frame.rf>
+<nodetype>complex</nodetype>
+<t_lemma>oprostit</t_lemma>
+<functor>PRED</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>v</sempos>
+</gram>
+<deepord>10</deepord>
+<children id="T-wsj0312-001-p1s1a13">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s1W15-Ta</lex.rf>
+<aux.rf>a#a-wsj0312-001-p1s1W12-Ta</aux.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>myšlenka</t_lemma>
+<functor>ORIG</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>13</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s1a14">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s1W13-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>který</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>adj.pron.indef</sempos>
+</gram>
+<deepord>11</deepord>
+</LM>
+<LM id="T-wsj0312-001-p1s1a15">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s1W14-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>ostatní</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>adj.denot</sempos>
+</gram>
+<deepord>12</deepord>
+</LM>
+</children>
+</children>
+</LM>
+<LM id="T-wsj0312-001-p1s1a18">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s1W19-Ta</lex.rf>
+<aux.rf>
+<LM>a#a-wsj0312-001-p1s1W17-Ta</LM>
+<LM>a#a-wsj0312-001-p1s1W18-Ta</LM>
+</aux.rf>
+</a>
+<val_frame.rf>v#v-w6234f1</val_frame.rf>
+<nodetype>complex</nodetype>
+<t_lemma>snažit_se</t_lemma>
+<functor>CONTRD</functor>
+<gram>
+<sempos>v</sempos>
+</gram>
+<deepord>15</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s1a27">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>14</deepord>
+<coref_text>
+<target-node.rf>T-wsj0312-001-p1s1a25</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>JP</src>
+</coref_text>
+</LM>
+<LM id="T-wsj0312-001-p1s1a19">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s1W20-Ta</lex.rf>
+</a>
+<val_frame.rf>v#v-w727f1</val_frame.rf>
+<nodetype>complex</nodetype>
+<t_lemma>dospět</t_lemma>
+<functor>PAT</functor>
+<gram>
+<sempos>v</sempos>
+</gram>
+<deepord>17</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s1a28">
+<coref_gram.rf>T-wsj0312-001-p1s1a27</coref_gram.rf>
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Cor</t_lemma>
+<functor>ACT</functor>
+<deepord>16</deepord>
+</LM>
+<LM id="T-wsj0312-001-p1s1a22">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s1W22-Ta</lex.rf>
+<aux.rf>a#a-wsj0312-001-p1s1W21-Ta</aux.rf>
+</a>
+<val_frame.rf>v#v-w5636f1</val_frame.rf>
+<nodetype>complex</nodetype>
+<t_lemma>rozhodnutí</t_lemma>
+<functor>PAT</functor>
+<gram>
+<sempos>n.denot.neg</sempos>
+</gram>
+<deepord>20</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s1a30">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Gen</t_lemma>
+<functor>PAT</functor>
+<deepord>18</deepord>
+</LM>
+<LM id="T-wsj0312-001-p1s1a29">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>19</deepord>
+<coref_text>
+<target-node.rf>T-wsj0312-001-p1s1a28</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>PCEDT</src>
+</coref_text>
+</LM>
+</children>
+<annot_comment>
+<type>New valency frame</type>
+<text>P</text>
+</annot_comment>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</children>
+<eng_sentence>At times I sequester my mind When I must think with precision, Detached from all other thoughts While trying to reach a decision.</eng_sentence>
+</LM>
+<LM id="T-wsj0312-001-p1s2">
+<atree.rf>a#a-wsj0312-001-p1s2</atree.rf>
+<deepord>0</deepord>
+<children id="T-wsj0312-001-p1s2a33">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W13-Ta</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>#Colon</t_lemma>
+<functor>CONJ</functor>
+<deepord>14</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s2a2">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W6-Ta</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>a</t_lemma>
+<functor>CONJ</functor>
+<is_member>1</is_member>
+<deepord>7</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s2a3">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W5-Ta</lex.rf>
+<aux.rf>a#a-wsj0312-001-p1s2W3-Ta</aux.rf>
+</a>
+<val_frame.rf>v#v-w8323f1</val_frame.rf>
+<nodetype>complex</nodetype>
+<t_lemma>vyřešit</t_lemma>
+<functor>PRED</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>v</sempos>
+</gram>
+<deepord>6</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s2a1">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W1-Ta</lex.rf>
+</a>
+<nodetype>atom</nodetype>
+<t_lemma>ale</t_lemma>
+<functor>PREC</functor>
+<deepord>1</deepord>
+</LM>
+<LM id="T-wsj0312-001-p1s2a29">
+<nodetype>atom</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Neg</t_lemma>
+<functor>RHEM</functor>
+<deepord>2</deepord>
+</LM>
+<LM id="T-wsj0312-001-p1s2a28">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Gen</t_lemma>
+<functor>ACT</functor>
+<deepord>3</deepord>
+</LM>
+<LM id="T-wsj0312-001-p1s2a4">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W2-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>často</t_lemma>
+<functor>THO</functor>
+<gram>
+<sempos>adv.denot.grad.neg</sempos>
+</gram>
+<deepord>4</deepord>
+</LM>
+<LM id="T-wsj0312-001-p1s2a6">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W4-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>co</t_lemma>
+<functor>PAT</functor>
+<gram>
+<sempos>n.pron.indef</sempos>
+</gram>
+<deepord>5</deepord>
+</LM>
+</children>
+</LM>
+<LM id="T-wsj0312-001-p1s2a7">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W8-Ta</lex.rf>
+</a>
+<val_frame.rf>v#v-w1855f4</val_frame.rf>
+<nodetype>complex</nodetype>
+<t_lemma>mít</t_lemma>
+<functor>PRED</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>v</sempos>
+</gram>
+<deepord>9</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s2a8">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W7-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>8</deepord>
+<coref_text>
+<target-node.rf>T-wsj0312-001-p1s1a29</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>JP</src>
+</coref_text>
+</LM>
+<LM id="T-wsj0312-001-p1s2a9">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W9-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>pocit</t_lemma>
+<functor>CPHR</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>10</deepord>
+<children id="T-wsj0312-001-p1s2a10">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W11-Ta</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>a</t_lemma>
+<functor>CONJ</functor>
+<deepord>12</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s2a11">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W10-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>marnost</t_lemma>
+<functor>RSTR</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>n.denot.neg</sempos>
+</gram>
+<deepord>11</deepord>
+</LM>
+<LM id="T-wsj0312-001-p1s2a12">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W12-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>vztek</t_lemma>
+<functor>RSTR</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>13</deepord>
+</LM>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="T-wsj0312-001-p1s2a19">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W21-Ta</lex.rf>
+<aux.rf>a#a-wsj0312-001-p1s2W20-Ta</aux.rf>
+</a>
+<val_frame.rf>v#v-w275f2</val_frame.rf>
+<nodetype>complex</nodetype>
+<t_lemma>cítit_se</t_lemma>
+<functor>PRED</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>v</sempos>
+</gram>
+<deepord>21</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s2a27">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W15-Ta</lex.rf>
+<aux.rf>a#a-wsj0312-001-p1s2W14-Ta</aux.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>nejistota</t_lemma>
+<functor>LOC</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<is_state>1</is_state>
+<deepord>15</deepord>
+<children id="T-wsj0312-001-p1s2a37">
+<a>
+<aux.rf>a#a-wsj0312-001-p1s2W16-Ta</aux.rf>
+</a>
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#EmpNoun</t_lemma>
+<functor>ACMP</functor>
+<deepord>16</deepord>
+<children id="T-wsj0312-001-p1s2a15">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W18-Ta</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>a</t_lemma>
+<functor>CONJ</functor>
+<deepord>17</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s2a36">
+<a>
+<aux.rf>a#a-wsj0312-001-p1s2W19-Ta</aux.rf>
+</a>
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#EmpNoun</t_lemma>
+<functor>BEN</functor>
+<is_member>1</is_member>
+<deepord>18</deepord>
+</LM>
+<LM id="T-wsj0312-001-p1s2a35">
+<a>
+<aux.rf>a#a-wsj0312-001-p1s2W17-Ta</aux.rf>
+</a>
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#EmpNoun</t_lemma>
+<functor>BEN</functor>
+<is_member>1</is_member>
+<deepord>19</deepord>
+</LM>
+</children>
+</children>
+</children>
+</LM>
+<LM id="T-wsj0312-001-p1s2a30">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>20</deepord>
+<coref_text>
+<target-node.rf>T-wsj0312-001-p1s2a8</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>JP</src>
+</coref_text>
+</LM>
+<LM id="T-wsj0312-001-p1s2a21">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W23-Ta</lex.rf>
+<aux.rf>a#a-wsj0312-001-p1s2W22-Ta</aux.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>porota</t_lemma>
+<functor>CPR</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>22</deepord>
+<children id="T-wsj0312-001-p1s2a23">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W24-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>schopný</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>adj.denot</sempos>
+</gram>
+<deepord>23</deepord>
+<children id="T-wsj0312-001-p1s2a20">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W25-Ta</lex.rf>
+</a>
+<val_frame.rf>v#v-w582f2</val_frame.rf>
+<nodetype>complex</nodetype>
+<t_lemma>dojít</t_lemma>
+<functor>PAT</functor>
+<gram>
+<sempos>v</sempos>
+</gram>
+<deepord>24</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s2a34">
+<coref_gram.rf>T-wsj0312-001-p1s2a21</coref_gram.rf>
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Cor</t_lemma>
+<functor>ACT</functor>
+<deepord>25</deepord>
+</LM>
+<LM id="T-wsj0312-001-p1s2a25">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s2W27-Ta</lex.rf>
+<aux.rf>a#a-wsj0312-001-p1s2W26-Ta</aux.rf>
+</a>
+<val_frame.rf>v#v-w5636f1</val_frame.rf>
+<nodetype>complex</nodetype>
+<t_lemma>rozhodnutí</t_lemma>
+<functor>PAT</functor>
+<gram>
+<sempos>n.denot.neg</sempos>
+</gram>
+<deepord>28</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s2a32">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Gen</t_lemma>
+<functor>PAT</functor>
+<deepord>26</deepord>
+</LM>
+<LM id="T-wsj0312-001-p1s2a31">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>27</deepord>
+<coref_text>
+<target-node.rf>T-wsj0312-001-p1s2a34</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>PCEDT</src>
+</coref_text>
+</LM>
+</children>
+<annot_comment>
+<type>New valency frame</type>
+<text>P</text>
+</annot_comment>
+</LM>
+</children>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</children>
+<eng_sentence>But often nothing's resolved, To my frustration and fury: With pros and cons in limbo, I feel like a hung jury.</eng_sentence>
+</LM>
+<LM id="T-wsj0312-001-p1s3">
+<atree.rf>a#a-wsj0312-001-p1s3</atree.rf>
+<deepord>0</deepord>
+<children id="T-wsj0312-001-p1s3a2">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s3W5-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>Zarett</t_lemma>
+<functor>DENOM</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>3</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s3a3">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s3W2-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>Arnold</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>1</deepord>
+</LM>
+<LM id="T-wsj0312-001-p1s3a4">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s3W3-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>J</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>2</deepord>
+</LM>
+</children>
+<coref_text>
+<target-node.rf>T-wsj0312-001-p1s2a30</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>JP</src>
+</coref_text>
+</children>
+<eng_sentence>-- Arnold J. Zarett.</eng_sentence>
+</LM>
+<LM id="T-wsj0312-001-p1s4">
+<atree.rf>a#a-wsj0312-001-p1s4</atree.rf>
+<deepord>0</deepord>
+<children id="T-wsj0312-001-p1s4a1">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s4W1-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>blbnutí</t_lemma>
+<functor>DENOM</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>1</deepord>
+<children id="T-wsj0312-001-p1s4a2">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Gen</t_lemma>
+<functor>ACT</functor>
+<deepord>2</deepord>
+</children>
+<annot_comment>
+<type>New valency frame</type>
+<text>P</text>
+</annot_comment>
+</children>
+<eng_sentence>Daffynition</eng_sentence>
+</LM>
+<LM id="T-wsj0312-001-p1s5">
+<atree.rf>a#a-wsj0312-001-p1s5</atree.rf>
+<deepord>0</deepord>
+<children id="T-wsj0312-001-p1s5a4">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s5W4-Ta</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>#Colon</t_lemma>
+<functor>APPS</functor>
+<deepord>3</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s5a1">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s5W1-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>aplaus</t_lemma>
+<functor>DENOM</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>1</deepord>
+<children id="T-wsj0312-001-p1s5a3">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s5W3-Ta</lex.rf>
+<aux.rf>a#a-wsj0312-001-p1s5W2-Ta</aux.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>rodeo</t_lemma>
+<functor>LOC</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>2</deepord>
+</children>
+</LM>
+<LM id="T-wsj0312-001-p1s5a5">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s5W5-Ta</lex.rf>
+</a>
+<val_frame.rf>v#v-w4181f1</val_frame.rf>
+<nodetype>complex</nodetype>
+<t_lemma>povzbuzování</t_lemma>
+<functor>DENOM</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>4</deepord>
+<children>
+<LM id="T-wsj0312-001-p1s5a7">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Gen</t_lemma>
+<functor>ACT</functor>
+<deepord>5</deepord>
+</LM>
+<LM id="T-wsj0312-001-p1s5a6">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s5W6-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>mustang</t_lemma>
+<functor>ADDR</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>6</deepord>
+</LM>
+</children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+<LM>
+<type>M-tag</type>
+</LM>
+</annot_comment>
+</LM>
+</children>
+<coref_text>
+<target-node.rf>T-wsj0312-001-p1s4a1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>JP</src>
+</coref_text>
+</children>
+<eng_sentence>Rodeo applause: broncs cheer.</eng_sentence>
+</LM>
+<LM id="T-wsj0312-001-p1s6">
+<atree.rf>a#a-wsj0312-001-p1s6</atree.rf>
+<deepord>0</deepord>
+<children id="T-wsj0312-001-p1s6a2">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s6W3-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>Alisky</t_lemma>
+<functor>DENOM</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>2</deepord>
+<children id="T-wsj0312-001-p1s6a3">
+<a>
+<lex.rf>a#a-wsj0312-001-p1s6W2-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>Marvin</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>1</deepord>
+</children>
+</children>
+<eng_sentence>-- Marvin Alisky.</eng_sentence>
+</LM>
+</trees>
+</tdata>

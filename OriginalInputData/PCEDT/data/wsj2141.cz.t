@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="tanot_schema.xml" />
+<references>
+<reffile id="a" name="adata" href="wsj2141.cz.a.gz" />
+<reffile id="v" name="vallex" href="vallex3.xml" />
+</references>
+</head>
+<trees>
+<LM id="T-wsj2141-001-p1s0">
+<atree.rf>a#a-wsj2141-001-p1s0</atree.rf>
+<deepord>0</deepord>
+<children id="T-wsj2141-001-p1s0a1">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s0W7-Ta</lex.rf>
+<aux.rf>a#a-wsj2141-001-p1s0W6-Ta</aux.rf>
+</a>
+<val_frame.rf>v#v-w1344f2</val_frame.rf>
+<nodetype>complex</nodetype>
+<t_lemma>jmenovat</t_lemma>
+<functor>PRED</functor>
+<gram>
+<sempos>v</sempos>
+</gram>
+<deepord>7</deepord>
+<children>
+<LM id="T-wsj2141-001-p1s0a16">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Gen</t_lemma>
+<functor>ACT</functor>
+<deepord>1</deepord>
+</LM>
+<LM id="T-wsj2141-001-p1s0a2">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s0W5-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>Bulseco</t_lemma>
+<functor>PAT</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>6</deepord>
+<children>
+<LM id="T-wsj2141-001-p1s0a4">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s0W1-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>letý</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>adj.denot</sempos>
+</gram>
+<deepord>2</deepord>
+<children id="T-wsj2141-001-p1s0a17">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s0W1-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>44</t_lemma>
+<functor>RSTR</functor>
+<deepord>3</deepord>
+<annot_comment>
+<type>Word segmentation</type>
+<text>2 v 1</text>
+</annot_comment>
+</children>
+<annot_comment>
+<type>Word segmentation</type>
+<text>2 v 1</text>
+</annot_comment>
+</LM>
+<LM id="T-wsj2141-001-p1s0a3">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s0W2-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>Robert</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>4</deepord>
+</LM>
+<LM id="T-wsj2141-001-p1s0a5">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s0W3-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>P</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>5</deepord>
+</LM>
+</children>
+</LM>
+<LM id="T-wsj2141-001-p1s0a8">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s0W9-Ta</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>a</t_lemma>
+<functor>CONJ</functor>
+<deepord>9</deepord>
+<children>
+<LM id="T-wsj2141-001-p1s0a9">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s0W8-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>prezident</t_lemma>
+<functor>EFF</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>8</deepord>
+</LM>
+<LM id="T-wsj2141-001-p1s0a10">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s0W10-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>vedoucí</t_lemma>
+<functor>EFF</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>10</deepord>
+<children id="T-wsj2141-001-p1s0a11">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s0W11-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>administrativa</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>11</deepord>
+<children id="T-wsj2141-001-p1s0a12">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s0W15-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>banka</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>15</deepord>
+<children>
+<LM id="T-wsj2141-001-p1s0a13">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s0W12-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>tento</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>adj.pron.def.demon</sempos>
+</gram>
+<deepord>12</deepord>
+</LM>
+<LM id="T-wsj2141-001-p1s0a14">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s0W13-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>regionální</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>adj.denot</sempos>
+</gram>
+<deepord>13</deepord>
+</LM>
+<LM id="T-wsj2141-001-p1s0a15">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s0W14-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>komerční</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>adj.denot</sempos>
+</gram>
+<deepord>14</deepord>
+</LM>
+</children>
+<annot_comment>
+<type>Coref</type>
+<text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</annot_comment>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</children>
+<eng_sentence>Robert P. Bulseco, 44 years old, was named president and chief administrative officer of this regional commercial bank.</eng_sentence>
+</LM>
+<LM id="T-wsj2141-001-p1s1">
+<atree.rf>a#a-wsj2141-001-p1s1</atree.rf>
+<deepord>0</deepord>
+<children id="T-wsj2141-001-p1s1a1">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s1W4-Ta</lex.rf>
+</a>
+<val_frame.rf>v#v-w243f1</val_frame.rf>
+<nodetype>complex</nodetype>
+<t_lemma>být</t_lemma>
+<functor>PRED</functor>
+<gram>
+<sempos>v</sempos>
+</gram>
+<deepord>4</deepord>
+<children>
+<LM id="T-wsj2141-001-p1s1a2">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s1W3-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>místo</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>3</deepord>
+<children>
+<LM id="T-wsj2141-001-p1s1a3">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s1W1-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>oba</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>adj.quant.def</sempos>
+</gram>
+<deepord>1</deepord>
+</LM>
+<LM id="T-wsj2141-001-p1s1a4">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s1W2-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>pracovní</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>adj.denot</sempos>
+</gram>
+<deepord>2</deepord>
+</LM>
+</children>
+<coref_text>
+<target-node.rf>T-wsj2141-001-p1s0a8</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>LH</src>
+</coref_text>
+</LM>
+<LM id="T-wsj2141-001-p1s1a5">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s1W5-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>obsazený</t_lemma>
+<functor>PAT</functor>
+<gram>
+<sempos>adj.denot</sempos>
+</gram>
+<deepord>5</deepord>
+</LM>
+</children>
+</children>
+<eng_sentence>Both posts had been vacant.</eng_sentence>
+</LM>
+<LM id="T-wsj2141-001-p1s2">
+<atree.rf>a#a-wsj2141-001-p1s2</atree.rf>
+<deepord>0</deepord>
+<children id="T-wsj2141-001-p1s2a1">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s2W5-Ta</lex.rf>
+<aux.rf>a#a-wsj2141-001-p1s2W4-Ta</aux.rf>
+</a>
+<val_frame.rf>v#v-w1344f1</val_frame.rf>
+<nodetype>complex</nodetype>
+<t_lemma>jmenovat</t_lemma>
+<functor>PRED</functor>
+<gram>
+<sempos>v</sempos>
+</gram>
+<deepord>6</deepord>
+<children>
+<LM id="T-wsj2141-001-p1s2a15">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Gen</t_lemma>
+<functor>ACT</functor>
+<deepord>1</deepord>
+</LM>
+<LM id="T-wsj2141-001-p1s2a2">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s2W3-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>Robie</t_lemma>
+<functor>PAT</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>5</deepord>
+<children>
+<LM id="T-wsj2141-001-p1s2a4">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s2W1-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>letý</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>adj.denot</sempos>
+</gram>
+<deepord>2</deepord>
+<children id="T-wsj2141-001-p1s2a16">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s2W1-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>51</t_lemma>
+<functor>RSTR</functor>
+<deepord>3</deepord>
+<annot_comment>
+<type>Word segmentation</type>
+<text>2 v 1</text>
+</annot_comment>
+</children>
+<annot_comment>
+<type>Word segmentation</type>
+<text>2 v 1</text>
+</annot_comment>
+</LM>
+<LM id="T-wsj2141-001-p1s2a3">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s2W2-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>Robert</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>4</deepord>
+</LM>
+</children>
+</LM>
+<LM id="T-wsj2141-001-p1s2a7">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s2W9-Ta</lex.rf>
+<aux.rf>a#a-wsj2141-001-p1s2W6-Ta</aux.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>pozice</t_lemma>
+<functor>DIR3</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>9</deepord>
+<children>
+<LM id="T-wsj2141-001-p1s2a8">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s2W8-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>vytvořený</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>adj.denot</sempos>
+</gram>
+<deepord>8</deepord>
+<children id="T-wsj2141-001-p1s2a9">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s2W7-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>nový</t_lemma>
+<functor>MANN</functor>
+<gram>
+<sempos>adj.denot</sempos>
+</gram>
+<deepord>7</deepord>
+</children>
+</LM>
+<LM id="T-wsj2141-001-p1s2a10">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s2W11-Ta</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>a</t_lemma>
+<functor>CONJ</functor>
+<deepord>11</deepord>
+<children>
+<LM id="T-wsj2141-001-p1s2a11">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s2W10-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>místopředseda</t_lemma>
+<functor>ID</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>10</deepord>
+</LM>
+<LM id="T-wsj2141-001-p1s2a12">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s2W12-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>ředitel</t_lemma>
+<functor>ID</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>12</deepord>
+<children id="T-wsj2141-001-p1s2a13">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s2W14-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>úsek</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>14</deepord>
+<children id="T-wsj2141-001-p1s2a14">
+<a>
+<lex.rf>a#a-wsj2141-001-p1s2W13-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>úvěrový</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>adj.denot</sempos>
+</gram>
+<deepord>13</deepord>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</children>
+<eng_sentence>Robert Robie, 51, was named to the new positions of vice chairman and chief credit officer.</eng_sentence>
+</LM>
+</trees>
+</tdata>
