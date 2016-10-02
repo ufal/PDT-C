@@ -3,7 +3,7 @@
 <head>
 <schema href="tanot_schema.xml" />
 <references>
-<reffile id="a" name="adata" href="wsj0198.cz.a.gz" />
+<reffile id="a" name="adata" href="wsj0198.cz.a" />
 <reffile id="v" name="vallex" href="vallex3.xml" />
 </references>
 </head>
