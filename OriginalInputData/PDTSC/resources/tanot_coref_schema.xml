@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pml_schema xmlns="http://ufal.mff.cuni.cz/pdt/pml/schema/" version="1.1">
+  <revision>0.1.0</revision>
+  <description>Annotation of coreference in PCEDT</description>
+  <reference name="adata" readas="trees"/>
+
+  <import schema="tanot_schema.xml" minimal_revision="0.3.1" maximal_revision="0.3.9999"/>
+
+  <derive type="comment_type.type">
+    <choice>
+      <value>Coref</value>
+      <value>CorefStructure</value>
+    </choice>
+  </derive>
+
+  <derive type="t-node.type">
+    <structure>
+      <member name="is_unchecked" type="bool.type"/>
+      <member name="is_deleted" type="bool.type"/>
+      <member name="is_added" type="bool.type"/>
+      <member name="is_exception" type="bool.type"/>
+    </structure>
+  </derive>
+
+</pml_schema>
