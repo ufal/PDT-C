@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
-  <head>
-    <schema href="adata_schema.xml" />
-    <references>
-      <reffile id="m" name="mdata" href="ml_013.10.m" />
-    </references>
-  </head>
-  <trees>
-    <LM id="ml_013.10-SCzechA-ml_013-d1e3819-x2-root">
-      <s.rf>m#m-d1e3819-x2</s.rf>
-      <ord>0</ord>
-      <children>
-        <LM id="ml_013.10-SCzechA-m-d1t3822-1">
-          <m.rf>m#m-d1t3822-1</m.rf>
-          <afun>ExD</afun>
-          <ord>1</ord>
-        </LM>
-        <LM id="ml_013.10-SCzechA-m-d1e3819-x2-1313">
-          <m.rf>m#m-d1e3819-x2-1313</m.rf>
-          <afun>AuxK</afun>
-          <ord>2</ord>
-        </LM>
-      </children>
-    </LM>
-    <LM id="ml_013.10-SCzechA-ml_013-1314-root">
-      <s.rf>m#m-1314</s.rf>
-      <ord>0</ord>
-      <children>
-        <LM id="ml_013.10-SCzechA-m-d1t3822-2">
-          <m.rf>m#m-d1t3822-2</m.rf>
-          <afun>ExD</afun>
-          <ord>1</ord>
-        </LM>
-        <LM id="ml_013.10-SCzechA-m-d-m-d1e3819-x2-punct-punct">
-          <m.rf>m#m-d-m-d1e3819-x2-punct-punct</m.rf>
-          <afun>AuxK</afun>
-          <ord>2</ord>
-        </LM>
-      </children>
-    </LM>
-    <LM id="ml_013.10-SCzechA-ml_013-d1e3823-x2-root">
-      <s.rf>m#m-d1e3823-x2</s.rf>
-      <ord>0</ord>
-      <children>
-        <LM id="ml_013.10-SCzechA-m-d1e3823-x2-1126">
-          <m.rf>m#m-d1e3823-x2-1126</m.rf>
-          <afun>AuxP</afun>
-          <ord>1</ord>
-          <children id="ml_013.10-SCzechA-m-d1t3828-1">
-            <m.rf>m#m-d1t3828-1</m.rf>
-            <afun>Adv</afun>
-            <ord>2</ord>
-          </children>
-        </LM>
-        <LM id="ml_013.10-SCzechA-m-d-m-d1e3823-x2-punct-punct">
-          <m.rf>m#m-d-m-d1e3823-x2-punct-punct</m.rf>
-          <afun>AuxK</afun>
-          <ord>3</ord>
-        </LM>
-      </children>
-    </LM>
-    <LM id="ml_013.10-SCzechA-ml_013-d1e3823-x3-root">
-      <s.rf>m#m-d1e3823-x3</s.rf>
-      <ord>0</ord>
-      <children>
-        <LM id="ml_013.10-SCzechA-m-d1e3823-x3-1128">
-          <m.rf>m#m-d1e3823-x3-1128</m.rf>
-          <afun>AuxP</afun>
-          <ord>1</ord>
-          <children id="ml_013.10-SCzechA-m-d1t3830-1">
-            <m.rf>m#m-d1t3830-1</m.rf>
-            <afun>Adv</afun>
-            <ord>2</ord>
-          </children>
-        </LM>
-        <LM id="ml_013.10-SCzechA-m-d-m-d1e3823-x3-punct-punct">
-          <m.rf>m#m-d-m-d1e3823-x3-punct-punct</m.rf>
-          <afun>AuxK</afun>
-          <ord>3</ord>
-        </LM>
-      </children>
-    </LM>
-  </trees>
+<head>
+<schema href="adata_schema.xml" />
+<references>
+<reffile id="m" name="mdata" href="ml_013.10.m" />
+</references>
+</head>
+<trees>
+<LM id="ml_013.10-SCzechA-ml_013-d1e3819-x2-root">
+<s.rf>m#m-d1e3819-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="ml_013.10-SCzechA-m-d1t3822-1">
+<m.rf>m#m-d1t3822-1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+</LM>
+<LM id="ml_013.10-SCzechA-m-d1e3819-x2-1313">
+<m.rf>m#m-d1e3819-x2-1313</m.rf>
+<afun>AuxK</afun>
+<ord>2</ord>
+</LM>
+</children>
+</LM>
+<LM id="ml_013.10-SCzechA-ml_013-1314-root">
+<s.rf>m#m-1314</s.rf>
+<ord>0</ord>
+<children>
+<LM id="ml_013.10-SCzechA-m-d1t3822-2">
+<m.rf>m#m-d1t3822-2</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+</LM>
+<LM id="ml_013.10-SCzechA-m-d-m-d1e3819-x2-punct-punct">
+<m.rf>m#m-d-m-d1e3819-x2-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>2</ord>
+</LM>
+</children>
+</LM>
+<LM id="ml_013.10-SCzechA-ml_013-d1e3823-x2-root">
+<s.rf>m#m-d1e3823-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="ml_013.10-SCzechA-m-d1e3823-x2-1126">
+<m.rf>m#m-d1e3823-x2-1126</m.rf>
+<afun>AuxP</afun>
+<ord>1</ord>
+<children id="ml_013.10-SCzechA-m-d1t3828-1">
+<m.rf>m#m-d1t3828-1</m.rf>
+<afun>Adv</afun>
+<ord>2</ord>
+</children>
+</LM>
+<LM id="ml_013.10-SCzechA-m-d-m-d1e3823-x2-punct-punct">
+<m.rf>m#m-d-m-d1e3823-x2-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>3</ord>
+</LM>
+</children>
+</LM>
+<LM id="ml_013.10-SCzechA-ml_013-d1e3823-x3-root">
+<s.rf>m#m-d1e3823-x3</s.rf>
+<ord>0</ord>
+<children>
+<LM id="ml_013.10-SCzechA-m-d1e3823-x3-1128">
+<m.rf>m#m-d1e3823-x3-1128</m.rf>
+<afun>AuxP</afun>
+<ord>1</ord>
+<children id="ml_013.10-SCzechA-m-d1t3830-1">
+<m.rf>m#m-d1t3830-1</m.rf>
+<afun>Adv</afun>
+<ord>2</ord>
+</children>
+</LM>
+<LM id="ml_013.10-SCzechA-m-d-m-d1e3823-x3-punct-punct">
+<m.rf>m#m-d-m-d1e3823-x3-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>3</ord>
+</LM>
+</children>
+</LM>
+</trees>
 </adata>

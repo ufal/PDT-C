@@ -1380,7 +1380,7 @@
 <annot_comment>
 <type>New valency frame</type>
 <text>A CPHR({otázka})
- Existují i jiné následky, které vyvolávají závažné otázky.</text>
+Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </annot_comment>
 </LM>
 </children>
@@ -8049,7 +8049,7 @@
 <annot_comment>
 <type>New valency frame</type>
 <text>A CPHR({péče})
- Otázka, zda byla poskytnuta přiměřená péče.</text>
+Otázka, zda byla poskytnuta přiměřená péče.</text>
 </annot_comment>
 </children>
 </LM>
@@ -8057,7 +8057,7 @@
 <annot_comment>
 <type>New valency frame</type>
 <text>A CPHR({otázka})
- Následky zemětřesení vyvolávají otázky.</text>
+Následky zemětřesení vyvolávají otázky.</text>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s26a14">

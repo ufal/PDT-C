@@ -4554,7 +4554,7 @@
 <annot_comment>
 <type>New valency frame</type>
 <text>A PAT(.3)
- Příjmy se rovnají 0,92% návratnosti aktiv.</text>
+Příjmy se rovnají 0,92% návratnosti aktiv.</text>
 </annot_comment>
 </LM>
 </children>

@@ -807,7 +807,7 @@
 <annot_comment>
 <type>New valency frame</type>
 <text>A CPHR({oprávnění})
- Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
+Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 </annot_comment>
 </LM>
 </children>

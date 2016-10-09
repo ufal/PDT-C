@@ -316,7 +316,7 @@
 <annot_comment>
 <type>New valency frame</type>
 <text>A PAT(.f;že[.v]) 
- Společnost souhlasila, že koupí firmu.</text>
+Společnost souhlasila, že koupí firmu.</text>
 </annot_comment>
 </children>
 <eng_sentence>Ingersoll Publications Co. agreed to buy the New Haven Register in a transaction valued at $275 million from Goodson Newspaper Group Inc.</eng_sentence>
