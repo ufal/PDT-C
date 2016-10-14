@@ -1,7 +1,7 @@
-# OrignalData
-This is the root of the four data directories, where the ORIGNAL DATA as
+# OriginalData
+This is the root of the four data directories, where the ORIGINAL DATA as
 copied from the previous final version of the four individual projects reside.
-They have been then copied to the WorkData directory, where theyare being worked 
+They have been then copied to the WorkData directory, where theyare being worked
 on (annotation of m- and  a-layers, unification of PDT-Vallex).
 
 There are four subdirectiories for the four original treebanks.
