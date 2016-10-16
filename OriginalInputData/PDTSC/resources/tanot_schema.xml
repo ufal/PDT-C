@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pml_schema xmlns="http://ufal.mff.cuni.cz/pdt/pml/schema/" version="1.1">
+  <revision>0.3.1</revision>
+  <description>Annotation of PDT2.0-like tectogrammatic trees</description>
+  <reference name="adata" readas="trees"/>
+
+  <import schema="tdata_schema.xml" maximal_revision="1.0.9999"/>
+
+  <derive type="t-root.type">
+    <structure>
+      <member name="annot_comment">
+        <list ordered="0" type="comment.type"/>
+      </member>
+      <member name="eng_sentence" required="0">
+        <cdata format="any" />
+      </member>
+    </structure>
+  </derive>
+
+  <derive type="t-node.type">
+    <structure>
+      <member name="is_exception" type="bool.type"/>
+      <member name="annot_comment">
+        <list ordered="0" type="comment.type"/>
+      </member>
+    </structure>
+  </derive>
+
+  <type name="comment.type">
+    <structure>
+      <member name="type" required="1" type="comment_type.type"/>
+      <member name="text"><cdata format="any" /></member>
+    </structure>
+  </type>
+
+<type name="comment_type.type">
+    <choice>
+      <value>Coref</value>
+      <value>Functor</value>
+      <value>M-lemma</value>
+      <value>M-tag</value>
+      <value>Sentence segmentation</value>
+      <value>Structure</value>
+      <value>T-lemma with underscore</value>
+      <value>T-lemma</value>
+      <value>Translation</value>
+      <value>Reconstruction</value>
+      <value>Typo</value>
+      <value>Vallex</value>
+      <value>New valency frame</value>
+      <value>Word segmentation</value>
+      <value>Re-generate</value>
+      <value>Not annotated</value>
+      <value>Secondary preposition</value>
+      <value>Document split</value>
+      <value>TFA</value>
+      <value>TFA_log</value>
+      <value>Other</value>
+    </choice>
+  </type>
+
+</pml_schema>

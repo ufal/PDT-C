@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pml_schema xmlns="http://ufal.mff.cuni.cz/pdt/pml/schema/" version="1.1">
+  <revision>0.3.1</revision>
+  <description>Annotation of PDT2.0-like tectogrammatic trees</description>
+  <reference name="adata" readas="trees"/>
+
+  <import schema="tdata_schema.xml" maximal_revision="1.0.9999"/>
+
+  <derive type="t-root.type">
+    <structure>
+      <member name="annot_comment">
+        <list ordered="0" type="comment.type"/>
+      </member>
+      <member name="eng_sentence" required="0">
+        <cdata format="any" />
+      </member>
+    </structure>
+  </derive>
+
+  <derive type="t-node.type">
+    <structure>
+      <member name="is_exception" type="bool.type"/>
+      <member name="annot_comment">
+        <list ordered="0" type="comment.type"/>
+      </member>
+      <member name="bridging" required="0">
+        <list ordered="0" type="t-bridging-link.type"/>
+      </member>
+      <member name="coref_text" required="0">
+        <list ordered="0" type="t-coref_text-link.type">
+        </list>
+      </member>
+
+    </structure>
+  </derive>
+
+  <type name="comment.type">
+    <structure>
+      <member name="type" required="1" type="comment_type.type"/>
+      <member name="text"><cdata format="any" /></member>
+    </structure>
+  </type>
+
+<type name="comment_type.type">
+    <choice>
+      <value>Coref</value>
+      <value>Functor</value>
+      <value>M-lemma</value>
+      <value>M-tag</value>
+      <value>Sentence segmentation</value>
+      <value>Structure</value>
+      <value>T-lemma with underscore</value>
+      <value>T-lemma</value>
+      <value>Translation</value>
+      <value>Reconstruction</value>
+      <value>Typo</value>
+      <value>Vallex</value>
+      <value>New valency frame</value>
+      <value>Word segmentation</value>
+      <value>Re-generate</value>
+      <value>Not annotated</value>
+      <value>Secondary preposition</value>
+      <value>Document split</value>
+      <value>TFA</value>
+      <value>TFA_log</value>
+      <value>Other</value>
+    </choice>
+  </type>
+
+  <type name="t-bridging-link.type">
+    <structure>
+      <member name="target-node.rf" required="1">
+        <cdata format="PMLREF"/>
+      </member>
+      <member name="informal-type" type="t-bridging-type.type" required="1"/>
+      <member name="comment" required="0">
+        <cdata format="any"/>
+      </member>
+      <member name="str_comment" required="0">
+        <list ordered="0" type="anaph_str_comment.type">
+        </list>
+      </member>
+      <member name="src" required="0">
+        <cdata format="any"/>
+      </member>
+    </structure>
+  </type>
+
+  <type name="t-bridging-type.type">
+    <choice>
+      <value>CONTRAST</value>
+      <value>SUB_SET</value>
+      <value>SET_SUB</value>
+      <value>PART_WHOLE</value>
+      <value>WHOLE_PART</value>
+      <value>FUNCT_P</value>
+      <value>P_FUNCT</value>
+      <value>REST</value>
+      <value>ANAF</value>
+    </choice>
+  </type>
+
+  <type name="t-coref_text-link.type">
+    <structure>
+      <member name="target-node.rf" required="1">
+        <cdata format="PMLREF"/></member>
+      <member name="informal-type" required="1">
+        <choice>
+          <value>SPEC</value>
+          <value>GEN</value>
+        </choice>
+      </member>
+      <member name="comment" required="0">
+        <cdata format="any"/>
+      </member>
+      <member name="str_comment" required="0">
+        <list ordered="0" type="anaph_str_comment.type">
+        </list>
+      </member>
+      <member name="src" required="0">
+        <cdata format="any"/>
+      </member>
+    </structure>
+  </type>
+
+  <type name="anaph_str_comment.type">
+    <structure>
+      <member name="name" required="1">
+        <choice>
+          <value>AMBIG</value>
+          <value>OTHER</value>
+        </choice>
+      </member>
+      <member name="comment" required="1">
+        <cdata format="any"/>
+      </member>
+    </structure>
+  </type>
+
+</pml_schema>
