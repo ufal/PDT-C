@@ -1,0 +1,7 @@
+#!/bin/bash
+
+scriptdir=$(readlink -f $(dirname "$0"))
+
+export PERL5LIB="$scriptdir/dependencies/lib/perl5"
+
+exec perl "$@"
