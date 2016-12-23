@@ -1,0 +1,24 @@
+context: .*
+text: <? $${w/token} eq $${form} ?
+  '#{'.CustomColor('sentence').'}${w/token}' :
+  '#{-over:1}#{'.CustomColor('spell').'}['.
+     join(" ",map { $_->{token} } ListV($this->attr('w'))).
+  ']#{-over:0}#{'.CustomColor('sentence').'}${form}' ?>
+node:<? $${#name} eq "s" ? '#{gray}${id}' : 
+    ( ! $${tag/[4]} && $${tag/[1]/lemma} eq $${tag/[2]/lemma}
+                    && $${tag/[2]/lemma} eq $${tag/[3]/lemma}
+                    && $${tag/[1]/#content} eq $${tag/[2]/#content}
+                    && $${tag/[2]/#content} eq $${tag/[3]/#content}
+        ? '#{gray}'
+        : do {
+             my ($orig) = grep 'orig' eq $_->{src}, AltV($this->{tag});
+             my ($tagger) = grep 'tagger' eq $_->{src}, AltV($this->{tag});
+             "$orig->{lemma}\n$orig->{'#content'}"
+             eq "$tagger->{lemma}\n$tagger->{'#content'}"
+             ? '#{customform}'
+             : (grep "$_->{lemma}\n$_->{'#content'}" eq "$orig->{lemma}\n$_->{'#content'}",
+               grep 'orig' ne $_->{src}, AltV($this->{tag}))
+               ? '#{green}' : '#{red}'
+         } 
+    ) . '${form}' ?>
+style: #{Line-coords:n,n,n,n}
