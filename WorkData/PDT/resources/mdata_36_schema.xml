@@ -78,11 +78,17 @@
         <attribute name="lemma" required="1">
           <cdata format="any"/>
         </attribute>
-        <attribute name="src">
-          <cdata format="any"/>
-        </attribute>
+        <attribute name="src" type="m-src.type"/>
       </container>
     </alt>
+  </type>
+
+  <type name="m-src.type">
+    <choice>
+      <value>tagger</value>
+      <value>orig</value>
+      <value>final</value>
+    </choice>
   </type>
   
 </pml_schema>

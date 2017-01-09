@@ -9,13 +9,32 @@ use Encode;
 use Ufal::MorphoDiTa;
 use XML::LibXML;
 use Path::Tiny qw{ path };
+use FindBin;
 use XML::XSH2 qw{ xsh };
 
 use enum qw( NOT_NEEDED POSSIBLE IMPOSSIBLE );
 
 package XML::XSH2::Map;
-our ($PML_NS, $sentences, $tag, $form_texts, $lemma, $file, $idx, $newfile);
+our ($PML_NS, $sentences, $tag, $form_texts, $lemma, $file, $idx, $newfile,
+     $lemmas, $tags, $alemma, $atag, $unknown);
 package main;
+
+$PML_NS = 'http://ufal.mff.cuni.cz/pdt/pml/';
+
+xsh q{
+    register-namespace pml $PML_NS ;
+    quiet ;
+};
+
+my $tagger_file = $FindBin::Bin . '/models/czech-morfflex-pdt-161209-devel.tagger';
+
+my $method = shift;
+my $run = { tag => \&tag,
+            check => \&check,
+}->{$method};
+die "Unknown method '$method', use 'tag' or 'check'.\n" unless $run;
+$run->(@ARGV);
+
 
 # automatic_correction(tagger, form, lemma, tag) returns either
 # (NOT_NEEDED) -- the lemma+tag was found in the dictionary
@@ -79,126 +98,230 @@ sub automatic_correction {
     return IMPOSSIBLE
 }
 
-$PML_NS = 'http://ufal.mff.cuni.cz/pdt/pml/';
+# Use for PDT:
+# 1. keep golden analysis if present in the dictionary
+# 2. replace lemma/tag if similar alternative exists
+# 3. insert auto analyses if golden is too different
+sub check {
+    my $tagger = Ufal::MorphoDiTa::Tagger::load($tagger_file)
+        or die "Cannot load tagger from file '$tagger_file'\n";
 
-xsh q{
-    register-namespace pml $PML_NS ;
-    quiet ;
-};
+    while (defined( $file  = shift )) {
+        say STDERR $file;
+        xsh << '__XSH__';
+            $mdoc := open $file ;
+            $sentences = $mdoc//pml:s ;
+            $lemmas = $mdoc//pml:m/pml:lemma/text() ;
+            $tags = $mdoc//pml:m/pml:tag/text() ;
+__XSH__
+        $idx = 0;
+        for my $sentence (@$sentences) {
 
-my $tagger_file = 'models/czech-morfflex-pdt-161209-devel.tagger';
-my $tagger = Ufal::MorphoDiTa::Tagger::load($tagger_file)
-    or die "Cannot load tagger from file '$tagger_file'\n";
+            my $sid = $sentence->{id};
 
-while (defined( $file  = shift )) {
+            xsh('$form_texts = //pml:s[@id="' . $sid . '"]//pml:form/text()');
+            for my $i (0 .. $#$form_texts) {
+                (my $status, $alemma, $atag) = automatic_correction(
+                    $tagger, "$form_texts->[$i]",
+                    "$lemmas->[$idx]", "$tags->[$idx]"
+                );
 
-    xsh << '__XSH__';
-        $mdoc := open $file ;
-        $sentences = $mdoc//pml:s ;
-        $mnodes = $mdoc//pml:m ;
+                xsh << '__XSH__';
+                    $tag = $tags[1+$idx]/..;
+                    my $am := xinsert element pml:AM into $tag ;
+                    xmove $tag/text() into $am ;
+                    set $am/@lemma string($tag/preceding-sibling::pml:lemma) ;
+                    set $am/@src 'orig' ;
+                    rm $tag/preceding-sibling::pml:lemma ;
 __XSH__
 
-    my @results;
+                if (IMPOSSIBLE == $status) {
+                    xsh << '__XSH__';
+                        my $am := xinsert element pml:AM into $tag ;
+                        set $am/text() '---------------' ;
+                        set $am/@lemma '@unknown' ;
+__XSH__
 
-    for my $sentence (@$sentences) {
+                } elsif (POSSIBLE == $status) {
+                    xsh << '__XSH__';
+                        rm $tag/pml:AM ;
+                        my $am := xinsert element pml:AM into $tag ;
+                        set $am/text() $atag ;
+                        set $am/@lemma $alemma ;
+                        set $am/@src 'auto' ;
+                        set $am/@selected '1' ;
+__XSH__
 
-        my $sid = $sentence->{id};
+                } else {
+                    xsh 'set $tag/pml:AM[1]/@selected "1"';
+                }
+            } continue {
+                ++$idx;
+            }
 
-        xsh('$form_texts = //pml:s[@id="' . $sid . '"]//pml:form/text()');
+            xsh('$unknown = //pml:s[@id="' . $sid . '"]//@lemma[.="@unknown"]');
+            if ($XML::XSH2::Map::unknown) {
+                my $forms    = 'Ufal::MorphoDiTa::Forms'->new;
+                my $analyses = 'Ufal::MorphoDiTa::Analyses'->new;
+                my $lemma    = 'Ufal::MorphoDiTa::TaggedLemma'->new;
+                my $lemmas   = 'Ufal::MorphoDiTa::TaggedLemmas'->new;
+                my $indices  = 'Ufal::MorphoDiTa::Indices'->new;
 
-        my $forms    = 'Ufal::MorphoDiTa::Forms'->new;
-        my $lemmas_t = 'Ufal::MorphoDiTa::TaggedLemmas'->new;
-        my $lemmas_a = 'Ufal::MorphoDiTa::TaggedLemmas'->new;
+                xsh('$mnodes = //pml:s[@id="' . $sid . '"]/pml:m');
+                for $XML::XSH2::Map::mnode (@$XML::XSH2::Map::mnodes) {
+                    xsh(<< '__XSH__');
+$am = $mnode/pml:tag/pml:AM ;
+$form = $mnode/pml:form ;
+$selected = $am/pml:tag/pml:AM[@selected="1"] ;
+__XSH__
 
-        for my $m (@$form_texts) {
-            $forms->push("$m");
-        }
-        $tagger->tag($forms, $lemmas_t);
-
-        for my $i (0 .. $forms->size - 1) {
-            push @results, { map +( $_ => $lemmas_t->get($i)->{$_} ),
-                             qw{ tag lemma } };
-            $results[-1]{form} = $forms->get($i);
-
-            my $guesser_mode = $tagger->getMorpho->analyze(
-                $forms->get($i), $Ufal::MorphoDiTa::Morpho::GUESSER, $lemmas_a
-            );
-
-            $results[-1]{was_guessed}
-                = $guesser_mode == $Ufal::MorphoDiTa::Morpho::NO_GUESSER
-                ? 0 : 1;
-
-            $results[-1]{analyses} = [];
-            for my $j (0 .. $lemmas_a->size - 1) {
-                push @{ $results[-1]{analyses} }, {
-                    map +( $_ => $lemmas_a->get($j)->{$_} ), qw{ tag lemma }
-                };
+                    if ($XML::XSH2::Map::selected) {
+                        $lemma->{lemma} = $XML::XSH2::Map::selected->{lemma};
+                        $lemma->{tag} = $XML::XSH2::Map::selected->toString;
+                        $lemmas->clear;
+                        $lemmas->push($lemma);
+                    } else {
+                        $tagger->getMorpho->analyze("$XML::XSH2::Map::form",
+                                                    !! $Ufal::MorphoDiTa::Morpho::GUESSER,
+                                                    $lemmas);
+                    }
+                    $forms->push("$XML::XSH2::Map::form");
+                    $analyses->push($lemmas);
+                }
+                $tagger->tagAnalyzed($forms, $analyses, $indices);
+                for $XML::XSH2::Map::i (0 .. $forms->size - 1) {
+                    my $i = $XML::XSH2::Map::i;
+                    $XML::XSH2::Map::mnode = $XML::XSH2::Map::mnodes->[$i];
+                    xsh('$unknown = $mnode/pml:tag/pml:AM[2]');
+                    if ($XML::XSH2::Map::unknown) {
+                        xsh('rm $unknown');
+                        my $analysis = $analyses->get($i);
+                        my $index    = $indices->get($i);
+                        for my $j (0 .. $analysis->size - 1) {
+                            ($XML::XSH2::Map::lemma, $XML::XSH2::Map::tag)
+                                = @{ $analysis->get($j) }{qw{ lemma tag }};
+                            warn $XML::XSH2::Map::lemma, $XML::XSH2::Map::tag;
+                            xsh << '__XSH__';
+                                $am := xinsert element pml:AM into $mnodes[$i+1]/pml:tag ;
+                                set $am/@lemma $lemma ;
+                                xinsert text $tag into $am ;
+                                set $am/@src 'auto' ;
+__XSH__
+                            xsh('set $am/@selected "1"') if $j == $index;
+                        }
+                    }
+                }
             }
         }
-    }
 
-    for my $i (0 .. $#results) {
-        my $result = $results[$i];
+        ( $newfile = $file ) =~ s=OriginalInputData/=WorkData/=;
+        path($newfile =~ m=^(.*)/[^/]+$=)->mkpath;
 
-        $idx = $i + 1;
         xsh << '__XSH__';
-            my $tag = $mnodes[$idx]//pml:tag ;
-            my $am := xinsert element pml:AM into $tag ;
-            xmove $tag/text() into $am ;
-            xinsert attribute
-                concat("lemma=", $tag/preceding-sibling::pml:lemma/text())
-                into $am ;
-            set $am/@src 'orig' ;
-            rm $tag/preceding-sibling::pml:lemma ;
+            set /pml:mdata/pml:head/pml:schema/@href "mdata_36_schema.xml" ;
+            xinsert text {"\n"} after //pml:AM ;
+            save :f $newfile ;
+__XSH__
+    }
+}
+
+sub tag {
+    my $tagger = Ufal::MorphoDiTa::Tagger::load($tagger_file)
+        or die "Cannot load tagger from file '$tagger_file'\n";
+
+    while (defined( $file  = shift )) {
+        xsh << '__XSH__';
+            $mdoc := open $file ;
+            $sentences = $mdoc//pml:s ;
+            $mnodes = $mdoc//pml:m ;
 __XSH__
 
-        for my $analyses (@{ $result->{analyses} }) {
-            $lemma = $analyses->{lemma};
-            $tag = $analyses->{tag};
+        my @results;
+
+        for my $sentence (@$sentences) {
+
+            my $sid = $sentence->{id};
+
+            xsh('$form_texts = //pml:s[@id="' . $sid . '"]//pml:form/text()');
+
+            my $forms    = 'Ufal::MorphoDiTa::Forms'->new;
+            my $lemmas_t = 'Ufal::MorphoDiTa::TaggedLemmas'->new;
+            my $lemmas_a = 'Ufal::MorphoDiTa::TaggedLemmas'->new;
+
+            for my $m (@$form_texts) {
+                $forms->push("$m");
+            }
+            $tagger->tag($forms, $lemmas_t);
+
+            for my $i (0 .. $forms->size - 1) {
+                push @results, { map +( $_ => $lemmas_t->get($i)->{$_} ),
+                                 qw{ tag lemma } };
+                $results[-1]{form} = $forms->get($i);
+
+                my $guesser_mode = $tagger->getMorpho->analyze(
+                    $forms->get($i), $Ufal::MorphoDiTa::Morpho::GUESSER, $lemmas_a
+                );
+
+                $results[-1]{was_guessed}
+                    = $guesser_mode == $Ufal::MorphoDiTa::Morpho::NO_GUESSER
+                    ? 0 : 1;
+
+                $results[-1]{analyses} = [];
+                for my $j (0 .. $lemmas_a->size - 1) {
+                    push @{ $results[-1]{analyses} }, {
+                        map +( $_ => $lemmas_a->get($j)->{$_} ), qw{ tag lemma }
+                    };
+                }
+            }
+        }
+
+        for my $i (0 .. $#results) {
+            my $result = $results[$i];
+
+            $idx = $i + 1;
+            xsh << '__XSH__';
+                my $tag = $mnodes[$idx]//pml:tag ;
+                my $am := xinsert element pml:AM into $tag ;
+                xmove $tag/text() into $am ;
+                set $am/@lemma $tag/preceding-sibling::pml:lemma/text()) ;
+                set $am/@src 'orig' ;
+                rm $tag/preceding-sibling::pml:lemma ;
+__XSH__
+
+            for my $analyses (@{ $result->{analyses} }) {
+                $lemma = $analyses->{lemma};
+                $tag = $analyses->{tag};
+                xsh << '__XSH__';
+                    my $am := xinsert element pml:AM into $mnodes[$idx]/pml:tag ;
+                    xinsert attribute concat("lemma=", $lemma) into $am ;
+                    xinsert text $tag into $am ;
+__XSH__
+            }
+
+            ($lemma, $tag) = @{ $result }{qw{ lemma tag }};
             xsh << '__XSH__';
                 my $am := xinsert element pml:AM into $mnodes[$idx]/pml:tag ;
                 xinsert attribute concat("lemma=", $lemma) into $am ;
                 xinsert text $tag into $am ;
+                set $am/@src 'tagger' ;
 __XSH__
+
         }
 
-        ($lemma, $tag) = @{ $result }{qw{ lemma tag }};
+        ( $newfile = $file ) =~ s=OriginalInputData/=WorkData/=;
+        path($newfile =~ m=^(.*)/[^/]+$=)->mkpath;
+
         xsh << '__XSH__';
-            my $am := xinsert element pml:AM into $mnodes[$idx]/pml:tag ;
-            xinsert attribute concat("lemma=", $lemma) into $am ;
-            xinsert text $tag into $am ;
-            set $am/@src 'tagger' ;
+            set /pml:mdata/pml:head/pml:schema/@href "mdata_36_schema.xml" ;
+            xinsert text {"\n"} after //pml:AM ;
+            save :f $newfile ;
 __XSH__
 
     }
-
-    ( $newfile = $file ) =~ s=OriginalInputData/=WorkData/=;
-    path($newfile =~ m=^(.*)/[^/]+$=)->mkpath;
-
-    xsh << '__XSH__';
-        xinsert text {"\n"} after //pml:AM ;
-        save :f $newfile ;
-__XSH__
-
 }
 
 __END__
-schema:
-       <member name="tag" required="1">
-         <alt>
-           <container>
-             <cdata format="any"/>
-             <attribute name="lemma" required="1">
-               <cdata format="any"/>
-             </attribute>
-             <attribute name="src">
-               <cdata format="any"/>
-             </attribute>
-           </container>
-         </alt>
-       </member>
 
-data:
  <form>svìtlo</form>
  <tag>
    <AM lemma="svìtlo-1" src="orig">NNNS1-----A----</AM>
@@ -207,5 +330,17 @@ data:
    <AM lemma="svìtlo-1">NNNS5-----A----</AM>
    <AM lemma="svìtlo-2">Db-------------</AM>
    <AM lemma="svìtlo-1" src="tagger">NNNS1-----A----</AM>
+   <AM lemma="svìtlo-1" src="final">NNNS1-----A----</AM>
  </tag>
 
+<m id="m-cmpr9410-001-p24s3w4">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9410-001-p24s3w4</LM>
+</w.rf>
+<form>pøesto</form>
+<tag><AM lemma="pøesto" src="orig">Dg-------1A----</AM>
+<AM lemma="pøesto-1" src="auto" selected="1">Db-------------</AM>
+<AM lemma="pøesto-2" src="auto">J^-------------</AM>
+</tag>
+</m>

@@ -1,0 +1,8 @@
+#ifndef pdt_c_m
+#define pdt_c_m
+
+#binding-context pdt_c_m
+#include "pdt_c_m.mak"
+
+#endif pdt_c_m
+
