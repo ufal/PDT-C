@@ -14,7 +14,7 @@ use XML::XSH2 qw{ xsh };
 use enum qw( NOT_NEEDED POSSIBLE IMPOSSIBLE );
 
 package XML::XSH2::Map;
-our ($PML_NS, $tag, $form_texts, $lemma, $file, $idx, $newfile);
+our ($PML_NS, $sentences, $tag, $form_texts, $lemma, $file, $idx, $newfile);
 package main;
 
 # automatic_correction(tagger, form, lemma, tag) returns either
@@ -94,38 +94,46 @@ while (defined( $file  = shift )) {
 
     xsh << '__XSH__';
         $mdoc := open $file ;
-        $form_texts = $mdoc//pml:form/text() ;
+        $sentences = $mdoc//pml:s ;
         $mnodes = $mdoc//pml:m ;
 __XSH__
 
-    my $forms    = 'Ufal::MorphoDiTa::Forms'->new;
-    my $lemmas_t = 'Ufal::MorphoDiTa::TaggedLemmas'->new;
-    my $lemmas_a = 'Ufal::MorphoDiTa::TaggedLemmas'->new;
-
-    for my $m (@$form_texts) {
-        $forms->push("$m");
-    }
-    $tagger->tag($forms, $lemmas_t);
-
     my @results;
 
-    for my $i (0 .. $forms->size - 1) {
-        $results[$i] = { map +( $_ => $lemmas_t->get($i)->{$_} ),
-                         qw{ tag lemma } };
-        $results[$i]{form} = $forms->get($i);
+    for my $sentence (@$sentences) {
 
-        my $guesser_mode = $tagger->getMorpho->analyze(
-            $forms->get($i), $Ufal::MorphoDiTa::Morpho::GUESSER, $lemmas_a
-        );
+        my $sid = $sentence->{id};
 
-        $results[$i]{was_guessed}
-            = $guesser_mode == $Ufal::MorphoDiTa::Morpho::NO_GUESSER ? 0 : 1;
+        xsh('$form_texts = //pml:s[@id="' . $sid . '"]//pml:form/text()');
 
-        $results[$i]{analyses} = [];
-        for my $j (0 .. $lemmas_a->size - 1) {
-             push @{ $results[$i]{analyses} }, {
-                 map +( $_ => $lemmas_a->get($j)->{$_} ), qw{ tag lemma }
-             };
+        my $forms    = 'Ufal::MorphoDiTa::Forms'->new;
+        my $lemmas_t = 'Ufal::MorphoDiTa::TaggedLemmas'->new;
+        my $lemmas_a = 'Ufal::MorphoDiTa::TaggedLemmas'->new;
+
+        for my $m (@$form_texts) {
+            $forms->push("$m");
+        }
+        $tagger->tag($forms, $lemmas_t);
+
+        for my $i (0 .. $forms->size - 1) {
+            push @results, { map +( $_ => $lemmas_t->get($i)->{$_} ),
+                             qw{ tag lemma } };
+            $results[-1]{form} = $forms->get($i);
+
+            my $guesser_mode = $tagger->getMorpho->analyze(
+                $forms->get($i), $Ufal::MorphoDiTa::Morpho::GUESSER, $lemmas_a
+            );
+
+            $results[-1]{was_guessed}
+                = $guesser_mode == $Ufal::MorphoDiTa::Morpho::NO_GUESSER
+                ? 0 : 1;
+
+            $results[-1]{analyses} = [];
+            for my $j (0 .. $lemmas_a->size - 1) {
+                push @{ $results[-1]{analyses} }, {
+                    map +( $_ => $lemmas_a->get($j)->{$_} ), qw{ tag lemma }
+                };
+            }
         }
     }
 

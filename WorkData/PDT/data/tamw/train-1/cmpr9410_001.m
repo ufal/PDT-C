@@ -120,7 +120,7 @@
 <AM lemma="nový">AANP1----1A----</AM>
 <AM lemma="nový">AANP4----1A----</AM>
 <AM lemma="nový">AANP5----1A----</AM>
-<AM lemma="nový" src="tagger">AAFS1----1A----</AM>
+<AM lemma="nový" src="tagger">AANP1----1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p3s1w2">
@@ -157,7 +157,7 @@
 <AM lemma="striktní">AANS1----1A----</AM>
 <AM lemma="striktní">AANS4----1A----</AM>
 <AM lemma="striktní">AANS5----1A----</AM>
-<AM lemma="striktní" src="tagger">AANS1----1A----</AM>
+<AM lemma="striktní" src="tagger">AANP1----1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p3s1w3">
@@ -179,7 +179,7 @@
 <AM lemma="omezení_^(*3it)">NNNS4-----A----</AM>
 <AM lemma="omezení_^(*3it)">NNNS5-----A----</AM>
 <AM lemma="omezení_^(*3it)">NNNS6-----A----</AM>
-<AM lemma="omezení_^(*3it)" src="tagger">NNNS1-----A----</AM>
+<AM lemma="omezení_^(*3it)" src="tagger">NNNP1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p3s1w4">
@@ -1979,7 +1979,7 @@
 <AM lemma="celní">AANS1----1A----</AM>
 <AM lemma="celní">AANS4----1A----</AM>
 <AM lemma="celní">AANS5----1A----</AM>
-<AM lemma="celní" src="tagger">AAFS2----1A----</AM>
+<AM lemma="celní" src="tagger">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p8s2w2">
@@ -1995,7 +1995,7 @@
 <AM lemma="unie">NNFS1-----A----</AM>
 <AM lemma="unie">NNFS2-----A----</AM>
 <AM lemma="unie">NNFS5-----A----</AM>
-<AM lemma="unie" src="tagger">NNFS2-----A----</AM>
+<AM lemma="unie" src="tagger">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p8s2w3">
@@ -4128,7 +4128,7 @@
 <AM lemma="pravidlo">NNNP4-----A----</AM>
 <AM lemma="pravidlo">NNNP5-----A----</AM>
 <AM lemma="pravidlo">NNNS2-----A----</AM>
-<AM lemma="pravidlo" src="tagger">NNNP4-----A----</AM>
+<AM lemma="pravidlo" src="tagger">NNNP1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p12s1w2">
@@ -5736,7 +5736,7 @@
 <AM lemma="rozhodnutí_^(*3out)">NNNS4-----A----</AM>
 <AM lemma="rozhodnutí_^(*3out)">NNNS5-----A----</AM>
 <AM lemma="rozhodnutí_^(*3out)">NNNS6-----A----</AM>
-<AM lemma="rozhodnutí_^(*3out)" src="tagger">NNNS2-----A----</AM>
+<AM lemma="rozhodnutí_^(*3out)" src="tagger">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p15s1w37">
@@ -6613,7 +6613,7 @@
 <AM lemma="vydaný-4_^(platit,_př._vydat_peníze,_v._se_ze_všeho)_(*4t-4)">AANP1----1A----</AM>
 <AM lemma="vydaný-4_^(platit,_př._vydat_peníze,_v._se_ze_všeho)_(*4t-4)">AANP4----1A----</AM>
 <AM lemma="vydaný-4_^(platit,_př._vydat_peníze,_v._se_ze_všeho)_(*4t-4)">AANP5----1A----</AM>
-<AM lemma="vydaný-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*4t-2)" src="tagger">AANP4----1A----</AM>
+<AM lemma="vydaný-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*4t-2)" src="tagger">AANP1----1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p17s1w5">
@@ -6635,7 +6635,7 @@
 <AM lemma="rozhodnutí_^(*3out)">NNNS4-----A----</AM>
 <AM lemma="rozhodnutí_^(*3out)">NNNS5-----A----</AM>
 <AM lemma="rozhodnutí_^(*3out)">NNNS6-----A----</AM>
-<AM lemma="rozhodnutí_^(*3out)" src="tagger">NNNP4-----A----</AM>
+<AM lemma="rozhodnutí_^(*3out)" src="tagger">NNNP1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p17s1w6">
@@ -6710,7 +6710,7 @@
 <tag><AM lemma="platit_:T_:W" src="orig">VB-P---3P-AA---</AM>
 <AM lemma="platit_:T">VB-P---3P-AA---</AM>
 <AM lemma="platit_:T">VB-S---3P-AA---</AM>
-<AM lemma="platit_:T" src="tagger">VB-P---3P-AA---</AM>
+<AM lemma="platit_:T" src="tagger">VB-S---3P-AA---</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p17s1w11">
@@ -7861,7 +7861,7 @@
 <tag><AM lemma="tento" src="orig">PDYS1----------</AM>
 <AM lemma="tento">PDIS4----------</AM>
 <AM lemma="tento">PDYS1----------</AM>
-<AM lemma="tento" src="tagger">PDIS4----------</AM>
+<AM lemma="tento" src="tagger">PDYS1----------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p19s2w2">
@@ -7875,7 +7875,7 @@
 <AM lemma="postoupit">Vi-S---3--A---4</AM>
 <AM lemma="postup">NNIS1-----A----</AM>
 <AM lemma="postup">NNIS4-----A----</AM>
-<AM lemma="postup" src="tagger">NNIS4-----A----</AM>
+<AM lemma="postup" src="tagger">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p19s2w3">
@@ -8753,7 +8753,7 @@
 <AM lemma="Sppi_:B_,t_^(dot_per_inch)">NNNXX-----A---8</AM>
 <AM lemma="Sppi_,t">NNNXX-----A----</AM>
 <AM lemma="sppi">NNMS1-----A----</AM>
-<AM lemma="Sppi_:B_,t_^(dot_per_inch)" src="tagger">NNNXX-----A---8</AM>
+<AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="tagger">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p21s1w28">
