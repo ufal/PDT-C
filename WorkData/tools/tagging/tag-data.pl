@@ -11,58 +11,72 @@ use XML::LibXML;
 use Path::Tiny qw{ path };
 use XML::XSH2 qw{ xsh };
 
+use enum qw( NOT_NEEDED POSSIBLE IMPOSSIBLE );
 
 package XML::XSH2::Map;
 our ($PML_NS, $tag, $form_texts, $lemma, $file, $idx, $newfile);
 package main;
 
 # automatic_correction(tagger, form, lemma, tag) returns either
-# ($NOT_NEEDED) -- the lemma+tag was found in the dictionary
-# ($POSSIBLE, corrected_lemma, corrected_tag) -- unique automatic correction exists
-# ($IMPOSSIBLE) -- either multiple or no possibilities
-our ($NOT_NEEDED, $POSSIBLE, $IMPOSSIBLE) = (0, 1, 2);
+# (NOT_NEEDED) -- the lemma+tag was found in the dictionary
+# (POSSIBLE, corrected_lemma, corrected_tag)
+#     -- unique automatic correction exists
+# (IMPOSSIBLE) -- either multiple or no possibilities
+
 sub automatic_correction {
-  my ($tagger, $form, $lemma, $tag) = @_;
+    my ($tagger, $form, $lemma, $tag) = @_;
 
-  my $dictionary = $tagger->getMorpho();
-  my ($analyses, @lemmas, @tags) = (Ufal::MorphoDiTa::TaggedLemmas->new());
-  if ($dictionary->analyze($form, $Ufal::MorphoDiTa::Morpho::NO_GUESSER, $analyses) < 0) {
-    return ($IMPOSSIBLE);
-  }
-  for (my ($i, $size) = (0, $analyses->size()); $i < $size; $i++) {
-    my $lemma_tag = $analyses->get($i);
-    push @lemmas, $lemma_tag->{lemma};
-    push @tags, $lemma_tag->{tag};
-  }
+    my $dictionary = $tagger->getMorpho;
+    my $analyses = 'Ufal::MorphoDiTa::TaggedLemmas'->new;
+    my (@lemmas, @tags);
 
-  # Full match?
-  for (my $i = 0; $i < @lemmas; $i++) {
-    if ($lemmas[$i] eq $lemma && $tags[$i] eq $tag) {
-      return ($NOT_NEEDED);
+    if ($dictionary->analyze(
+        $form, $Ufal::MorphoDiTa::Morpho::NO_GUESSER, $analyses
+    ) < 0) {
+        return IMPOSSIBLE
     }
-  }
 
-  # Lemma change
-  my @match_indices = ();
-  for (my $i = 0; $i < @lemmas; $i++) {
-    next unless $tags[$i] eq $tag && $dictionary->rawLemma($lemmas[$i]) eq $dictionary->rawLemma($lemma);
-    push @match_indices, $i;
-  }
-  if (@match_indices == 1) {
-    return ($POSSIBLE, $lemmas[$match_indices[0]], $tags[$match_indices[0]]);
-  }
+    for (my ($i, $size) = (0, $analyses->size); $i < $size; $i++) {
+        my $lemma_tag = $analyses->get($i);
+        push @lemmas, $lemma_tag->{lemma};
+        push @tags, $lemma_tag->{tag};
+    }
 
-  # Tag change
-  @match_indices = ();
-  for (my $i = 0; $i < @lemmas; $i++) {
-    next unless $lemmas[$i] eq $lemma && substr($tags[$i], 0, 1) eq substr($tag, 0, 1);
-    push @match_indices, $i;
-  }
-  if (@match_indices == 1) {
-    return ($POSSIBLE, $lemmas[$match_indices[0]], $tags[$match_indices[0]]);
-  }
+    # Full match?
+    for my $i (0 .. $#lemmas) {
+        if ($lemmas[$i] eq $lemma && $tags[$i] eq $tag) {
+            return NOT_NEEDED
+        }
+    }
 
-  return ($IMPOSSIBLE);
+    # Lemma change
+    my @match_indices;
+    for my $i (0 .. $#lemmas) {
+        next unless $tags[$i] eq $tag
+            && $dictionary->rawLemma($lemmas[$i])
+               eq $dictionary->rawLemma($lemma);
+        push @match_indices, $i;
+    }
+    if (@match_indices == 1) {
+        return ( POSSIBLE,
+                 $lemmas[ $match_indices[0] ],
+                 $tags[ $match_indices[0] ])
+    }
+
+    # Tag change
+    @match_indices = ();
+    for my $i (0 .. $#lemmas) {
+        next unless $lemmas[$i] eq $lemma
+             && substr($tags[$i], 0, 1) eq substr($tag, 0, 1);
+        push @match_indices, $i;
+    }
+    if (@match_indices == 1) {
+        return ( POSSIBLE,
+                 $lemmas[ $match_indices[0] ],
+                 $tags[ $match_indices[0] ])
+    }
+
+    return IMPOSSIBLE
 }
 
 $PML_NS = 'http://ufal.mff.cuni.cz/pdt/pml/';
