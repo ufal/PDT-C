@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94208_140.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -6337,18 +6337,6 @@
 <t_lemma>#Colon</t_lemma>
 <functor>APPS</functor>
 <deepord>6</deepord>
-<discourse>
-<LM>
-<target_node.rf>t-ln94208-140-p4s8w2</target_node.rf>
-<type>discourse</type>
-<start_range>0</start_range>
-<target_range>0</target_range>
-<discourse_type>opp</discourse_type>
-<t-connectors.rf>
-<LM>t-ln94208-140-p4s9w1</LM>
-</t-connectors.rf>
-</LM>
-</discourse>
 <children>
 <LM id="t-ln94208-140-p4s9a0">
 <nodetype>qcomplex</nodetype>
@@ -8251,6 +8239,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>34</deepord>
+<secondary_NP_type>conj</secondary_NP_type>
 <val_frame.rf>v#v-w6297f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-140-p4s13w37">

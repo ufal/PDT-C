@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_86.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -2708,6 +2708,20 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94202-86-p3s3w9</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>opp</discourse_type>
+<t-connectors.rf>
+<LM>t-ln94202-86-p3s4w3</LM>
+<LM>t-ln94202-86-p3s4w2</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w6287f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-86-p3s4w7">
@@ -17097,18 +17111,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<discourse>
-<LM>
-<target_node.rf>t-ln94202-86-p16s5w3</target_node.rf>
-<type>discourse</type>
-<start_range>0</start_range>
-<target_range>0</target_range>
-<discourse_type>conj</discourse_type>
-<t-connectors.rf>
-<LM>t-ln94202-86-p16s5w8</LM>
-</t-connectors.rf>
-</LM>
-</discourse>
+<secondary_NP_type>reason</secondary_NP_type>
 <val_frame.rf>v#v-w6297f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-86-p16s5w8">
@@ -19535,6 +19538,19 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94202-86-p16s7w23</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<t-connectors.rf>
+<LM>t-ln94202-86-p18s5w26</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-86-p18s5w29">
@@ -21705,6 +21721,26 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94202-86-p20s3w2</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>explicat</discourse_type>
+<t-connectors.rf>
+<LM>t-ln94202-86-p20s3w8</LM>
+</t-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln94202-86-p20s3w10</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94202-86-p20s3w8</LM>
+<LM>t-ln94202-86-p20s3w7</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w4167f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-86-p20s3w11">

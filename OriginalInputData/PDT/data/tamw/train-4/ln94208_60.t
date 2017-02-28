@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94208_60.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -2173,6 +2173,19 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94208-60-p2s9w3</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>5</target_range>
+<discourse_type>conj</discourse_type>
+<t-connectors.rf>
+<LM>t-ln94208-60-p3s1w3</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w3765f2</val_frame.rf>
 <children>
 <LM id="t-ln94208-60-p3s1a1">
@@ -2346,6 +2359,23 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94208-60-p2s2w8</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<t-connectors.rf>
+<LM>t-ln94208-60-p3s2w2</LM>
+</t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94208-60-p3s2w1</LM>
+<LM>t-ln94208-60-p3s2w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w5882f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-60-p3s2a1">
@@ -13224,6 +13254,31 @@
 </gram>
 <tfa>f</tfa>
 <deepord>20</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94208-60-p8s2w14</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<is_negated>1</is_negated>
+<a-connectors.rf>
+<LM>a#a-ln94208-60-p8s2w19</LM>
+<LM>a#a-ln94208-60-p8s2w20</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln94208-60-p8s2w19</LM>
+<LM>a#a-ln94208-60-p8s2w20</LM>
+<LM>a#a-ln94208-60-p8s2w21</LM>
+<LM>a#a-ln94208-60-p8s2w22</LM>
+<LM>a#a-ln94208-60-p8s2w23</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94208-60-p8s2a1</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w1855f3</val_frame.rf>
 <children>
 <LM id="t-ln94208-60-p8s2a4">

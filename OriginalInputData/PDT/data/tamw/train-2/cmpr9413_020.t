@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9413_020.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -6543,6 +6543,8 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <a-connectors.rf>
+<LM>a#a-cmpr9413-020-p10s3w18</LM>
+<LM>a#a-cmpr9413-020-p10s3w19</LM>
 <LM>a#a-cmpr9413-020-p10s3w21</LM>
 </a-connectors.rf>
 </LM>

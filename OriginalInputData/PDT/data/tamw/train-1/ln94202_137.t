@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_137.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -615,6 +615,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 </LM>
 <LM id="t-ln94202-137-p2s2w3">
 <a>
@@ -1285,6 +1286,9 @@
 <t-connectors.rf>
 <LM>t-ln94202-137-p3s1w22</LM>
 </t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94202-137-p3s1w23</LM>
+</t-connectors_ext.rf>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
@@ -2899,6 +2903,19 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>19</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94202-137-p5s3w2</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>explicat</discourse_type>
+<t-connectors.rf>
+<LM>t-ln94202-137-p5s3w12</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-ln94202-137-p5s3w17">
 <a>
@@ -4552,10 +4569,17 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<a-connectors.rf>
+<LM>a#a-ln94202-137-p6s4w14</LM>
+</a-connectors.rf>
 <t-connectors.rf>
 <LM>t-ln94202-137-p6s4w12</LM>
-<LM>t-ln94202-137-p6s4w15</LM>
 </t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94202-137-p6s4w12</LM>
+<LM>t-ln94202-137-p6s4w15</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w1855f2</val_frame.rf>
@@ -5160,6 +5184,19 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94202-137-p6s4w21</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<t-connectors.rf>
+<LM>t-ln94202-137-p6s6w10</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-137-p6s6a1">

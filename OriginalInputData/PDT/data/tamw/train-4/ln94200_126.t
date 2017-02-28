@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_126.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1300,9 +1300,13 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
-<t-connectors.rf>
+<a-connectors.rf>
+<LM>a#a-ln94200-126-p2s3w1</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
 <LM>t-ln94200-126-p2s3w2</LM>
-</t-connectors.rf>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
@@ -3866,6 +3870,19 @@
 </gram>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94200-126-p4s6w5</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<t-connectors.rf>
+<LM>t-ln94200-126-p4s6w9</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w8024f2</val_frame.rf>
 <children>
 <LM id="t-ln94200-126-p4s6a1">
@@ -7703,6 +7720,19 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94200-126-p7s2w5</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>-1</target_range>
+<discourse_type>conj</discourse_type>
+<t-connectors.rf>
+<LM>t-ln94200-126-p7s4w1</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w8533f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-126-p7s4w1">
@@ -7911,6 +7941,22 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94200-126-p7s4w3</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>-6</target_range>
+<discourse_type>opp</discourse_type>
+<a-connectors.rf>
+<LM>a#a-ln94200-126-p8s1w2</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94200-126-p8s1w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-126-p8s1w2">
@@ -8290,6 +8336,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>5</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <children>
 <LM id="t-ln94200-126-p8s2w9">
 <a>

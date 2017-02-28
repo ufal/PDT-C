@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95047_005.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1090,6 +1090,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<secondary_NP_type>restr</secondary_NP_type>
 <discourse>
 <LM>
 <target_node.rf>t-ln95047-005-p3s1w14</target_node.rf>

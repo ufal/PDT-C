@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_127.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -4694,8 +4694,11 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <t-connectors.rf>
+<LM>t-mf920922-127-p8s3w4</LM>
+<LM>t-mf920922-127-p8s3w3</LM>
 <LM>t-mf920922-127-p8s3w1</LM>
 </t-connectors.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w4393f1</val_frame.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94205_10.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -250,6 +250,23 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94205-10-p2s2w4</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<a-connectors.rf>
+<LM>a#a-ln94205-10-p2s2w3</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94205-10-p2s2w3</LM>
+<LM>t-ln94205-10-p2s2w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w6496f2</val_frame.rf>
 <children>
 <LM id="t-ln94205-10-p2s1Cw1">
@@ -1563,6 +1580,26 @@
 <t_lemma>ani</t_lemma>
 <functor>CONJ</functor>
 <deepord>25</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94205-10-p4s2w1</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>explicat</discourse_type>
+<t-connectors.rf>
+<LM>t-ln94205-10-p4s3w2</LM>
+</t-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln94205-10-p4s3w4</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94205-10-p4s3w2</LM>
+<LM>t-ln94205-10-p4s3w1</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-ln94205-10-p4s3w11">
 <a>
@@ -3910,6 +3947,26 @@
 <t-connectors.rf>
 <LM>t-ln94205-10-p6s5w3</LM>
 </t-connectors.rf>
+</LM>
+<LM>
+<target_node.rf>t-ln94205-10-p7s1w7</target_node.rf>
+<type>discourse</type>
+<start_range>backward</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<comment>Entailment</comment>
+<t-connectors.rf>
+<LM>t-ln94205-10-p7s1w3</LM>
+</t-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln94205-10-p7s1w4</LM>
+<LM>a#a-ln94205-10-p7s1w5</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94205-10-p7s1w2</LM>
+<LM>t-ln94205-10-p7s1w3</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w243f193_MM</val_frame.rf>

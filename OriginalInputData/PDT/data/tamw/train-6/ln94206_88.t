@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94206_88.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -4053,19 +4053,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>20</deepord>
-<discourse>
-<LM>
-<target_node.rf>t-ln94206-88-p4s2w11</target_node.rf>
-<type>discourse</type>
-<start_range>1</start_range>
-<target_range>0</target_range>
-<discourse_type>corr</discourse_type>
-<t-connectors.rf>
-<LM>t-ln94206-88-p4s2a0</LM>
-<LM>t-ln94206-88-p4s2w23</LM>
-</t-connectors.rf>
-</LM>
-</discourse>
 <bridging>
 <LM>
 <target_node.rf>t-ln94206-88-p4s2w13</target_node.rf>
@@ -8475,19 +8462,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<discourse>
-<LM>
-<target_node.rf>t-ln94206-88-p5s16w18</target_node.rf>
-<type>discourse</type>
-<start_range>0</start_range>
-<target_range>0</target_range>
-<discourse_type>preced</discourse_type>
-<t-connectors.rf>
-<LM>t-ln94206-88-p5s16w9</LM>
-<LM>t-ln94206-88-p5s16w16</LM>
-</t-connectors.rf>
-</LM>
-</discourse>
 <val_frame.rf>v#v-w333f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-88-p5s16w9">

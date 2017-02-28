@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94208_18.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -4442,6 +4442,22 @@
 <t-connectors.rf>
 <LM>t-ln94208-18-p8s1w6</LM>
 </t-connectors.rf>
+</LM>
+<LM>
+<target_node.rf>t-ln94208-18-p8s2w12</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<comment>Regard</comment>
+<a-connectors.rf>
+<LM>a#a-ln94208-18-p8s2w11</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94208-18-p8s2w11</LM>
+<LM>t-ln94208-18-p8s2w10</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <children>

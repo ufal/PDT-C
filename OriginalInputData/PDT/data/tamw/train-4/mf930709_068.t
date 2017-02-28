@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_068.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -2933,6 +2933,24 @@
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-mf930709-068-p4s2w5</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>backward</target_range>
+<discourse_type>gener</discourse_type>
+<comment>Conclusion</comment>
+<a-connectors.rf>
+<LM>a#a-mf930709-068-p5s1w11</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-mf930709-068-p5s1w4</LM>
+<LM>t-mf930709-068-p5s1w11</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w5268f3</val_frame.rf>
 <children>
 <LM id="t-mf930709-068-p5s1w16">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_13.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -9659,6 +9659,7 @@
 <LM>t-ln94202-13-p7s1w12</LM>
 <LM>t-ln94202-13-p7s1w13</LM>
 </t-connectors.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w8815f1</val_frame.rf>

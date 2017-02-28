@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9413_035.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1543,6 +1543,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>exempl</secondary_NP_type>
 <children>
 <LM id="t-cmpr9413-035-p4s4w8">
 <a>
@@ -2020,6 +2021,24 @@
 <t_lemma>ale</t_lemma>
 <functor>ADVS</functor>
 <deepord>7</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-cmpr9413-035-p5s4w2</target_node.rf>
+<type>discourse</type>
+<start_range>backward</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<comment>Regard</comment>
+<a-connectors.rf>
+<LM>a#a-cmpr9413-035-p5s4w5</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-cmpr9413-035-p5s4w5</LM>
+<LM>t-cmpr9413-035-p5s4w4</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-cmpr9413-035-p5s3a0">
 <a>

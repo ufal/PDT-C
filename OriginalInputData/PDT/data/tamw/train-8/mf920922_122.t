@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_122.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -2572,6 +2572,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <discourse>
 <LM>
 <target_node.rf>t-mf920922-122-p2s9w14</target_node.rf>
@@ -3323,6 +3324,24 @@
 </gram>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-mf920922-122-p2s11w24</target_node.rf>
+<type>discourse</type>
+<start_range>12</start_range>
+<target_range>0</target_range>
+<discourse_type>explicat</discourse_type>
+<t-connectors.rf>
+<LM>t-mf920922-122-p2s12w1</LM>
+</t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-mf920922-122-p2s12w1</LM>
+<LM>t-mf920922-122-p2s12w2</LM>
+<LM>t-mf920922-122-p2s12w3</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w6496f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-122-p2s13w5">
@@ -6783,6 +6802,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <coref_text>
 <LM>
 <target_node.rf>t-mf920922-122-p2s18w12</target_node.rf>

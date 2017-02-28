@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94210_1.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1609,6 +1609,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 </LM>
 <LM id="t-ln94210-1-p3s2w3">
 <a>
@@ -2461,6 +2462,26 @@
 </gram>
 <tfa>f</tfa>
 <deepord>22</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94210-1-p4s2w11</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>cond</discourse_type>
+<a-connectors.rf>
+<LM>a#a-ln94210-1-p4s2w16</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln94210-1-p4s2w17</LM>
+<LM>a#a-ln94210-1-p4s2w18</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94210-1-p4s2w16</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w7255f2</val_frame.rf>
 <children>
 <LM id="t-ln94210-1-p4s2w19">
@@ -7749,6 +7770,28 @@
 <t_lemma>nebo</t_lemma>
 <functor>CONJ</functor>
 <deepord>14</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94210-1-p8s2w4</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>cond</discourse_type>
+<a-connectors.rf>
+<LM>a#a-ln94210-1-p8s2w9</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln94210-1-p8s2w10</LM>
+<LM>a#a-ln94210-1-p8s2w11</LM>
+<LM>a#a-ln94210-1-p8s2w17</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94210-1-p8s2w7</LM>
+<LM>t-ln94210-1-p8s2w9</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-ln94210-1-p8s2w12">
 <a>
@@ -10203,18 +10246,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<discourse>
-<LM>
-<target_node.rf>t-ln94210-1-p10s4w22</target_node.rf>
-<type>discourse</type>
-<start_range>0</start_range>
-<target_range>0</target_range>
-<discourse_type>preced</discourse_type>
-<t-connectors.rf>
-<LM>t-ln94210-1-p10s4w21</LM>
-</t-connectors.rf>
-</LM>
-</discourse>
 <val_frame.rf>v#v-w8212f1</val_frame.rf>
 <children>
 <LM id="t-ln94210-1-p10s4w5">

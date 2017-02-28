@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930713_044.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -8003,6 +8003,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <val_frame.rf>v#v-w7583f9</val_frame.rf>
 <children>
 <LM id="t-mf930713-044-p9s4w4">
@@ -11898,6 +11899,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<t-connectors.rf>
+<LM>t-mf930713-044-p13s2w2</LM>
+</t-connectors.rf>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w1855f4</val_frame.rf>
@@ -21365,6 +21369,26 @@
 </quot>
 <is_dsp_root>1</is_dsp_root>
 <deepord>20</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-mf930713-044-p23s6w16</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conc</discourse_type>
+<t-connectors.rf>
+<LM>t-mf930713-044-p23s6w2</LM>
+</t-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-mf930713-044-p23s6w4</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-mf930713-044-p23s6w1</LM>
+<LM>t-mf930713-044-p23s6w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-mf930713-044-p23s3w8">
 <a>
@@ -27632,6 +27656,26 @@
 </quot>
 <is_dsp_root>1</is_dsp_root>
 <deepord>8</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-mf930713-044-p29s6w5</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conc</discourse_type>
+<t-connectors.rf>
+<LM>t-mf930713-044-p29s6w2</LM>
+</t-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-mf930713-044-p29s6w4</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-mf930713-044-p29s6w1</LM>
+<LM>t-mf930713-044-p29s6w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-mf930713-044-p29s4w7">
 <a>

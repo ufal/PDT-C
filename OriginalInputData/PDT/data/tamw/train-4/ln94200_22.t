@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_22.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -3426,8 +3426,10 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <t-connectors.rf>
+<LM>t-ln94200-22-p4s2w19</LM>
 <LM>t-ln94200-22-p4s2w18</LM>
 </t-connectors.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
@@ -3997,6 +3999,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <children>
 <LM id="t-ln94200-22-p5s2w1">
 <a>

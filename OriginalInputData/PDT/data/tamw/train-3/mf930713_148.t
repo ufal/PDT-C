@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930713_148.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -3619,6 +3619,24 @@
 <t_lemma>však</t_lemma>
 <functor>ADVS</functor>
 <deepord>22</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-mf930713-148-p5s3w3</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>backward</target_range>
+<discourse_type>gener</discourse_type>
+<comment>Conclusion</comment>
+<a-connectors.rf>
+<LM>a#a-mf930713-148-p6s1w19</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-mf930713-148-p6s1w17</LM>
+<LM>t-mf930713-148-p6s1w19</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-mf930713-148-p6s1w22">
 <a>

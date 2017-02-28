@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9413_014.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -3125,16 +3125,6 @@
 <deepord>3</deepord>
 <discourse>
 <LM>
-<target_node.rf>t-cmpr9413-014-p7s3w1</target_node.rf>
-<type>discourse</type>
-<start_range>0</start_range>
-<target_range>1</target_range>
-<discourse_type>gener</discourse_type>
-<t-connectors.rf>
-<LM>t-cmpr9413-014-p7s5w2</LM>
-</t-connectors.rf>
-</LM>
-<LM>
 <target_node.rf>t-cmpr9413-014-p8s1w17</target_node.rf>
 <type>discourse</type>
 <start_range>0</start_range>
@@ -3219,6 +3209,29 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-cmpr9413-014-p7s4w1</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>-1</target_range>
+<discourse_type>gener</discourse_type>
+<comment>Conclusion</comment>
+<a-connectors.rf>
+<LM>a#a-cmpr9413-014-p7s5w4</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-cmpr9413-014-p7s5w5</LM>
+<LM>a#a-cmpr9413-014-p7s5w6</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-cmpr9413-014-p7s5w1</LM>
+<LM>t-cmpr9413-014-p7s5w2</LM>
+<LM>t-cmpr9413-014-p7s5w4</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-014-p7s5w7">

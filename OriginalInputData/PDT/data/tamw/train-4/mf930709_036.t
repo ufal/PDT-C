@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_036.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1690,10 +1690,15 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <a-connectors.rf>
-<LM>a#a-mf930709-036-p2s6w4</LM>
-<LM>a#a-mf930709-036-p2s6w1</LM>
 <LM>a#a-mf930709-036-p2s6w2</LM>
 </a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-mf930709-036-p2s6w1</LM>
+<LM>a#a-mf930709-036-p2s6w2</LM>
+<LM>a#a-mf930709-036-p2s6w3</LM>
+<LM>a#a-mf930709-036-p2s6w4</LM>
+</a-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w8617f1</val_frame.rf>

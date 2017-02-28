@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94203_4.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -3802,7 +3802,7 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <t-connectors.rf>
-<LM>t-ln94203-4-p5s3w8</LM>
+<LM>t-ln94203-4-p5s4w4</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
@@ -4458,6 +4458,22 @@
 <t-connectors.rf>
 <LM>t-ln94203-4-p5s5w11</LM>
 </t-connectors.rf>
+</LM>
+<LM>
+<target_node.rf>t-ln94203-4-p5s5w23</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<comment>Regard</comment>
+<a-connectors.rf>
+<LM>a#a-ln94203-4-p5s5w26</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94203-4-p5s5w26</LM>
+<LM>t-ln94203-4-p5s5w25</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w7167f1</val_frame.rf>
@@ -7928,6 +7944,23 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94203-4-p9s2w6</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>-1</target_range>
+<discourse_type>gener</discourse_type>
+<t-connectors.rf>
+<LM>t-ln94203-4-p9s3w2</LM>
+</t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94203-4-p9s3w1</LM>
+<LM>t-ln94203-4-p9s3w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94203-4-p9s3w2">
@@ -8550,6 +8583,26 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>13</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94203-4-p10s1w5</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>explicat</discourse_type>
+<t-connectors.rf>
+<LM>t-ln94203-4-p10s2w1</LM>
+</t-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln94203-4-p10s2w4</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94203-4-p10s2w2</LM>
+<LM>t-ln94203-4-p10s2w1</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-ln94203-4-p10s2w6">
 <a>
@@ -10716,6 +10769,23 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>27</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94203-4-p12s1w4</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>-3</target_range>
+<discourse_type>gener</discourse_type>
+<t-connectors.rf>
+<LM>t-ln94203-4-p13s1w2</LM>
+</t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94203-4-p13s1w1</LM>
+<LM>t-ln94203-4-p13s1w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-ln94203-4-p13s1w6">
 <a>

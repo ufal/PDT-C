@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_102.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -4596,6 +4596,27 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-mf920922-102-p6s6w11</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<a-connectors.rf>
+<LM>a#a-mf920922-102-p6s6w19</LM>
+</a-connectors.rf>
+<t-connectors.rf>
+<LM>t-mf920922-102-p6s6w10</LM>
+</t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-mf920922-102-p6s6w10</LM>
+<LM>t-mf920922-102-p6s6w19</LM>
+<LM>t-mf920922-102-p6s6w18</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w7884f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-102-p6s6w4">
@@ -5498,6 +5519,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<secondary_NP_type>explicat</secondary_NP_type>
 <discourse>
 <LM>
 <target_node.rf>t-mf920922-102-p6s8w17</target_node.rf>
@@ -5508,6 +5530,22 @@
 <t-connectors.rf>
 <LM>t-mf920922-102-p6s9w2</LM>
 </t-connectors.rf>
+</LM>
+<LM>
+<target_node.rf>t-mf920922-102-p6s13w4</target_node.rf>
+<type>discourse</type>
+<start_range>3</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<comment>Regard</comment>
+<a-connectors.rf>
+<LM>a#a-mf920922-102-p6s13w3</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-mf920922-102-p6s13w3</LM>
+<LM>t-mf920922-102-p6s13w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w6297f1</val_frame.rf>
@@ -7123,6 +7161,24 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-mf920922-102-p6s16w26</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<comment>Regard</comment>
+<a-connectors.rf>
+<LM>a#a-mf920922-102-p6s16w24</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-mf920922-102-p6s16w24</LM>
+<LM>t-mf920922-102-p6s16w23</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w2780f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-102-p6s16w10">

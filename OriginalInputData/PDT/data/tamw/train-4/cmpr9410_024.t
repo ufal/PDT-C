@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9410_024.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -5651,10 +5651,18 @@
 <type>discourse</type>
 <start_range>0</start_range>
 <target_range>0</target_range>
-<discourse_type>opp</discourse_type>
+<discourse_type>conc</discourse_type>
+<a-connectors.rf>
+<LM>a#a-cmpr9410-024-p12s4w19</LM>
+</a-connectors.rf>
 <t-connectors.rf>
 <LM>t-cmpr9410-024-p12s4w17</LM>
 </t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-cmpr9410-024-p12s4w17</LM>
+<LM>t-cmpr9410-024-p12s4w19</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w243f1</val_frame.rf>

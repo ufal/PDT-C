@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9410_008.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -3886,6 +3886,18 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-cmpr9410-008-p12s1w4</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>corr</discourse_type>
+<t-connectors.rf>
+<LM>t-cmpr9410-008-p12s1a0</LM>
+</t-connectors.rf>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-008-p12s2w2">
@@ -3968,6 +3980,28 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-cmpr9410-008-p12s2w3</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<a-connectors.rf>
+<LM>a#a-cmpr9410-008-p12s2w7</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-cmpr9410-008-p12s2w8</LM>
+<LM>a#a-cmpr9410-008-p12s2w9</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-cmpr9410-008-p12s2w4</LM>
+<LM>t-cmpr9410-008-p12s2w7</LM>
+<LM>t-cmpr9410-008-p12s2w6</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w9638f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-008-p12s2w12">
@@ -4105,6 +4139,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>exempl</secondary_NP_type>
 <children>
 <LM id="t-cmpr9410-008-p12s3w1">
 <a>
@@ -14534,6 +14569,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 </LM>
 <LM id="t-cmpr9410-008-p31s1w3">
 <a>
@@ -14726,11 +14762,17 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <a-connectors.rf>
-<LM>a#a-cmpr9410-008-p31s2w2</LM>
-<LM>a#a-cmpr9410-008-p31s2w5</LM>
-<LM>a#a-cmpr9410-008-p31s2w3</LM>
 <LM>a#a-cmpr9410-008-p31s2w1</LM>
+<LM>a#a-cmpr9410-008-p31s2w2</LM>
 </a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-cmpr9410-008-p31s2w1</LM>
+<LM>a#a-cmpr9410-008-p31s2w2</LM>
+<LM>a#a-cmpr9410-008-p31s2w3</LM>
+<LM>a#a-cmpr9410-008-p31s2w4</LM>
+<LM>a#a-cmpr9410-008-p31s2w5</LM>
+</a-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w681f1</val_frame.rf>

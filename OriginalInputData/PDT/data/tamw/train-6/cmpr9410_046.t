@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9410_046.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -2981,6 +2981,9 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<t-connectors.rf>
+<LM>t-cmpr9410-046-p12s3Aw3</LM>
+</t-connectors.rf>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w3533f1</val_frame.rf>
@@ -6382,6 +6385,38 @@
 <t_lemma>ale</t_lemma>
 <functor>GRAD</functor>
 <deepord>17</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-cmpr9410-046-p16s1w2</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>spec</discourse_type>
+<t-connectors.rf>
+<LM>t-cmpr9410-046-p16s2w2</LM>
+</t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-cmpr9410-046-p16s2w1</LM>
+<LM>t-cmpr9410-046-p16s2w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+<LM>
+<target_node.rf>t-cmpr9410-046-p16s3w14</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>gener</discourse_type>
+<t-connectors.rf>
+<LM>t-cmpr9410-046-p16s3w2</LM>
+</t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-cmpr9410-046-p16s3w1</LM>
+<LM>t-cmpr9410-046-p16s3w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-cmpr9410-046-p16s2a3">
 <nodetype>qcomplex</nodetype>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94206_79.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -4751,7 +4751,7 @@
 <deepord>11</deepord>
 <discourse>
 <LM>
-<target_node.rf>t-ln94206-79-p8s2w12</target_node.rf>
+<target_node.rf>t-ln94206-79-p8s2w11</target_node.rf>
 <type>discourse</type>
 <start_range>0</start_range>
 <target_range>0</target_range>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_95.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -2668,6 +2668,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<secondary_NP_type>conj</secondary_NP_type>
 <discourse>
 <LM>
 <target_node.rf>t-ln94202-95-p4s1w2</target_node.rf>

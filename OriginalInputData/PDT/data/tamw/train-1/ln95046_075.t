@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95046_075.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -2338,6 +2338,24 @@
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln95046-075-p2s8w9</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<comment>Regard</comment>
+<a-connectors.rf>
+<LM>a#a-ln95046-075-p2s8w15</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln95046-075-p2s8w15</LM>
+<LM>t-ln95046-075-p2s8w14</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w6031f1</val_frame.rf>
 <children>
 <LM id="t-ln95046-075-p2s7w1">
@@ -4633,6 +4651,21 @@
 <t-connectors.rf>
 <LM>t-ln95046-075-p4s3w13</LM>
 </t-connectors.rf>
+</LM>
+<LM>
+<target_node.rf>t-ln95046-075-p4s4w3</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<a-connectors.rf>
+<LM>a#a-ln95046-075-p4s4w6</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln95046-075-p4s4w6</LM>
+<LM>t-ln95046-075-p4s4w5</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w1855f6</val_frame.rf>

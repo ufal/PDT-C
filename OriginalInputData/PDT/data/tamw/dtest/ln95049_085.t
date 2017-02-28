@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95049_085.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1338,10 +1338,15 @@
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
 <t-connectors.rf>
-<LM>t-ln95049-085-p2s4w3</LM>
 <LM>t-ln95049-085-p2s4w2</LM>
 <LM>t-ln95049-085-p2s5w4</LM>
 </t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln95049-085-p2s4w3</LM>
+<LM>t-ln95049-085-p2s4w2</LM>
+<LM>t-ln95049-085-p2s5w4</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w727f1</val_frame.rf>
@@ -1466,6 +1471,28 @@
 </gram>
 <tfa>f</tfa>
 <deepord>22</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln95049-085-p2s1w18</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>3</target_range>
+<discourse_type>gener</discourse_type>
+<comment>Conclusion</comment>
+<a-connectors.rf>
+<LM>a#a-ln95049-085-p2s5w7</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln95049-085-p2s5w8</LM>
+<LM>a#a-ln95049-085-p2s5w9</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-ln95049-085-p2s5w5</LM>
+<LM>t-ln95049-085-p2s5w7</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln95049-085-p2s5w10">
@@ -5836,6 +5863,31 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln95049-085-p3s13a0</target_node.rf>
+<type>discourse</type>
+<start_range>-2</start_range>
+<target_range>0</target_range>
+<discourse_type>grad</discourse_type>
+<a-connectors.rf>
+<LM>a#a-ln95049-085-p3s14w2</LM>
+</a-connectors.rf>
+<t-connectors.rf>
+<LM>t-ln95049-085-p3s14w1</LM>
+</t-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln95049-085-p3s14w2</LM>
+<LM>a#a-ln95049-085-p3s14w3</LM>
+<LM>a#a-ln95049-085-p3s14w4</LM>
+<LM>a#a-ln95049-085-p3s14w5</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-ln95049-085-p3s14w1</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w3027f1</val_frame.rf>
 <children>
 <LM id="t-ln95049-085-p3s14w7">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9413_036.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1693,6 +1693,23 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>9</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-cmpr9413-036-p6s3w13</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<a-connectors.rf>
+<LM>a#a-cmpr9413-036-p6s3w3</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-cmpr9413-036-p6s3w3</LM>
+<LM>t-cmpr9413-036-p6s3w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-cmpr9413-036-p6s2w11">
 <a>
@@ -2921,9 +2938,14 @@
 <discourse_type>cond</discourse_type>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-036-p6s5w2</LM>
-<LM>a#a-cmpr9413-036-p6s5w4</LM>
-<LM>a#a-cmpr9413-036-p6s5w1</LM>
 </a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-cmpr9413-036-p6s5w1</LM>
+<LM>a#a-cmpr9413-036-p6s5w2</LM>
+<LM>a#a-cmpr9413-036-p6s5w3</LM>
+<LM>a#a-cmpr9413-036-p6s5w4</LM>
+</a-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
@@ -9029,9 +9051,18 @@
 <target_group_id>2</target_group_id>
 <target_range>group</target_range>
 <discourse_type>reason</discourse_type>
+<a-connectors.rf>
+<LM>a#a-cmpr9413-036-p14s3w29</LM>
+</a-connectors.rf>
 <t-connectors.rf>
 <LM>t-cmpr9413-036-p14s3w20</LM>
 </t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-cmpr9413-036-p14s3w20</LM>
+<LM>t-cmpr9413-036-p14s3w29</LM>
+<LM>t-cmpr9413-036-p14s3w28</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <discourse_groups>
@@ -10733,6 +10764,27 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>13</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-cmpr9413-036-p18s1w28</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<a-connectors.rf>
+<LM>a#a-cmpr9413-036-p18s1w1</LM>
+<LM>a#a-cmpr9413-036-p18s1w2</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-cmpr9413-036-p18s1w1</LM>
+<LM>a#a-cmpr9413-036-p18s1w2</LM>
+<LM>a#a-cmpr9413-036-p18s1w3</LM>
+<LM>a#a-cmpr9413-036-p18s1w4</LM>
+<LM>a#a-cmpr9413-036-p18s1w5</LM>
+</a-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-cmpr9413-036-p18s1a6">
 <nodetype>complex</nodetype>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_65.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -2948,6 +2948,23 @@
 </gram>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94207-65-p4s3w8</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>spec</discourse_type>
+<t-connectors.rf>
+<LM>t-ln94207-65-p4s3w14</LM>
+</t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94207-65-p4s3w14</LM>
+<LM>t-ln94207-65-p4s3w13</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w9227f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-65-p4s3w14">
@@ -14268,6 +14285,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>exempl</secondary_NP_type>
 </LM>
 <LM id="t-ln94207-65-p15s5a0">
 <nodetype>qcomplex</nodetype>

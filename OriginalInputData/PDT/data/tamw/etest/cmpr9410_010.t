@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9410_010.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -6048,6 +6048,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <discourse>
 <LM>
 <target_node.rf>t-cmpr9410-010-p12s4w5</target_node.rf>

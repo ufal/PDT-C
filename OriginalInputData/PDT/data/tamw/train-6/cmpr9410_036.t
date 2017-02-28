@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9410_036.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1137,6 +1137,7 @@
 <t-connectors.rf>
 <LM>t-cmpr9410-036-p4s4w19</LM>
 </t-connectors.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w9986f1</val_frame.rf>
@@ -1872,9 +1873,14 @@
 <discourse_type>cond</discourse_type>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-036-p7s1w2</LM>
-<LM>a#a-cmpr9410-036-p7s1w1</LM>
-<LM>a#a-cmpr9410-036-p7s1w4</LM>
 </a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-cmpr9410-036-p7s1w1</LM>
+<LM>a#a-cmpr9410-036-p7s1w2</LM>
+<LM>a#a-cmpr9410-036-p7s1w3</LM>
+<LM>a#a-cmpr9410-036-p7s1w4</LM>
+</a-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w7236f1</val_frame.rf>
@@ -2205,10 +2211,15 @@
 <target_range>group</target_range>
 <discourse_type>cond</discourse_type>
 <a-connectors.rf>
+<LM>a#a-cmpr9410-036-p7s1w21</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
 <LM>a#a-cmpr9410-036-p7s1w20</LM>
 <LM>a#a-cmpr9410-036-p7s1w21</LM>
+<LM>a#a-cmpr9410-036-p7s1w22</LM>
 <LM>a#a-cmpr9410-036-p7s1w23</LM>
-</a-connectors.rf>
+</a-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w7234f1</val_frame.rf>
@@ -3389,6 +3400,21 @@
 <LM>t-cmpr9410-036-p8s2w4</LM>
 </t-connectors.rf>
 </LM>
+<LM>
+<target_node.rf>t-cmpr9410-036-p8s2w6</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>cond</discourse_type>
+<a-connectors.rf>
+<LM>a#a-cmpr9410-036-p8s2w3</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-cmpr9410-036-p8s2w3</LM>
+<LM>t-cmpr9410-036-p8s2w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
 </discourse>
 <val_frame.rf>v#v-w1855f3</val_frame.rf>
 <children>
@@ -3928,6 +3954,24 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-cmpr9410-036-p9s1w4</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<comment>Regard</comment>
+<a-connectors.rf>
+<LM>a#a-cmpr9410-036-p9s1w3</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-cmpr9410-036-p9s1w3</LM>
+<LM>t-cmpr9410-036-p9s1w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w2217f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-036-p8s2w3">
@@ -4449,6 +4493,23 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>17</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-cmpr9410-036-p9s2w6</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<a-connectors.rf>
+<LM>a#a-cmpr9410-036-p9s2w3</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-cmpr9410-036-p9s2w3</LM>
+<LM>t-cmpr9410-036-p9s2w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-cmpr9410-036-p9s1w12">
 <a>
@@ -9962,6 +10023,26 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-cmpr9410-036-p21s1w4</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>explicat</discourse_type>
+<t-connectors.rf>
+<LM>t-cmpr9410-036-p21s2w2</LM>
+</t-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-cmpr9410-036-p21s2w4</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-cmpr9410-036-p21s2w1</LM>
+<LM>t-cmpr9410-036-p21s2w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w813f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-036-p21s2a1">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_1.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1082,19 +1082,6 @@
 <functor>CSQ</functor>
 <is_member>1</is_member>
 <deepord>14</deepord>
-<discourse>
-<LM>
-<target_node.rf>t-ln94200-1-p2s5w4</target_node.rf>
-<type>discourse</type>
-<start_range>0</start_range>
-<target_range>0</target_range>
-<discourse_type>corr</discourse_type>
-<t-connectors.rf>
-<LM>t-ln94200-1-p2s5a1</LM>
-<LM>t-ln94200-1-p2s5w7</LM>
-</t-connectors.rf>
-</LM>
-</discourse>
 <children>
 <LM id="t-ln94200-1-p2s5w8">
 <a>

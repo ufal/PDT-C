@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_134.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -2108,6 +2108,27 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-lnd94103-134-p1s9w1</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>cond</discourse_type>
+<a-connectors.rf>
+<LM>a#a-lnd94103-134-p1s9w6</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-lnd94103-134-p1s9w7</LM>
+<LM>a#a-lnd94103-134-p1s9w8</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-lnd94103-134-p1s9w4</LM>
+<LM>t-lnd94103-134-p1s9w6</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w1122f1</val_frame.rf>
 <children>
 <LM id="t-lnd94103-134-p1s9w11">

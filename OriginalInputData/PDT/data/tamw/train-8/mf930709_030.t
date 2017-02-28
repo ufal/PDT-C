@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_030.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -3423,9 +3423,13 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
-<t-connectors.rf>
+<a-connectors.rf>
+<LM>a#a-mf930709-030-p4s3w4</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
 <LM>t-mf930709-030-p4s3w5</LM>
-</t-connectors.rf>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w8687f1</val_frame.rf>

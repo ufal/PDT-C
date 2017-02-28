@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_039.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -5354,6 +5354,31 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-lnd94103-039-p1s18w3</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>grad</discourse_type>
+<a-connectors.rf>
+<LM>a#a-lnd94103-039-p1s18w9</LM>
+</a-connectors.rf>
+<t-connectors.rf>
+<LM>t-lnd94103-039-p1s18w8</LM>
+</t-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-lnd94103-039-p1s18w9</LM>
+<LM>a#a-lnd94103-039-p1s18w10</LM>
+<LM>a#a-lnd94103-039-p1s18w11</LM>
+<LM>a#a-lnd94103-039-p1s18w12</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-lnd94103-039-p1s18w8</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w8384f2</val_frame.rf>
 <children>
 <LM id="t-lnd94103-039-p1s18w14">

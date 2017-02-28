@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920925_061.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -4262,6 +4262,27 @@
 </LM>
 </quot>
 <deepord>12</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-mf920925-061-p1s12w7</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<t-connectors.rf>
+<LM>t-mf920925-061-p1s12w3</LM>
+</t-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-mf920925-061-p1s12w4</LM>
+<LM>a#a-mf920925-061-p1s12w5</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-mf920925-061-p1s12w1</LM>
+<LM>t-mf920925-061-p1s12w3</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-mf920925-061-p1s11w7">
 <a>

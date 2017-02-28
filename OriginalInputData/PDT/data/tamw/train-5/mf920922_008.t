@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_008.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -4684,6 +4684,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>exempl</secondary_NP_type>
 <children>
 <LM id="t-mf920922-008-p2s16w1">
 <a>
@@ -6804,10 +6805,15 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
-<t-connectors.rf>
+<a-connectors.rf>
+<LM>a#a-mf920922-008-p4s5w1</LM>
+<LM>a#a-mf920922-008-p4s5w2</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
 <LM>t-mf920922-008-p4s5w4</LM>
 <LM>t-mf920922-008-p4s5w3</LM>
-</t-connectors.rf>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w8528f1</val_frame.rf>
@@ -11410,6 +11416,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
+<secondary_NP_type>cond</secondary_NP_type>
 <val_frame.rf>v#v-w5096f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-008-p4s17w11">
@@ -13286,6 +13293,19 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-mf920922-008-p4s23w4</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<t-connectors.rf>
+<LM>t-mf920922-008-p4s25w1</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-mf920922-008-p4s25w1">
 <a>
@@ -14667,6 +14687,26 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-mf920922-008-p4s30w13</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>cond</discourse_type>
+<a-connectors.rf>
+<LM>a#a-mf920922-008-p4s30w2</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-mf920922-008-p4s30w3</LM>
+<LM>a#a-mf920922-008-p4s30w4</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-mf920922-008-p4s30w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w6054f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-008-p4s30w7">

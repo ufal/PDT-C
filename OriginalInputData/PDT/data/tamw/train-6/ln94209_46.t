@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94209_46.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -692,6 +692,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>exempl</secondary_NP_type>
 <children>
 <LM id="t-ln94209-46-p2s3w1">
 <a>
@@ -5384,6 +5385,23 @@
 <t_lemma>nebo</t_lemma>
 <functor>DISJ</functor>
 <deepord>12</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94209-46-p4s8w9</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>equiv</discourse_type>
+<t-connectors.rf>
+<LM>t-ln94209-46-p4s9w2</LM>
+</t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94209-46-p4s9w1</LM>
+<LM>t-ln94209-46-p4s9w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-ln94209-46-p4s9w2">
 <a>

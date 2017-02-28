@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94211_95.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -21817,6 +21817,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>13</deepord>
+<secondary_NP_type>restr</secondary_NP_type>
 </LM>
 <LM id="t-ln94211-95-p15s6w16">
 <a>
@@ -24453,6 +24454,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <children>
 <LM id="t-ln94211-95-p17s4w7">
 <a>
@@ -24908,6 +24910,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>restr</secondary_NP_type>
 </LM>
 <LM id="t-ln94211-95-p17s6w3">
 <a>
@@ -27994,10 +27997,15 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <a-connectors.rf>
-<LM>a#a-ln94211-95-p19s1w7</LM>
+<LM>a#a-ln94211-95-p19s1w4</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
 <LM>a#a-ln94211-95-p19s1w4</LM>
 <LM>a#a-ln94211-95-p19s1w5</LM>
-</a-connectors.rf>
+<LM>a#a-ln94211-95-p19s1w6</LM>
+<LM>a#a-ln94211-95-p19s1w7</LM>
+</a-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w5374f1</val_frame.rf>
@@ -31706,6 +31714,19 @@
 </gram>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94211-95-p21s2w10</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<t-connectors.rf>
+<LM>t-ln94211-95-p21s2w5</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w3305f1</val_frame.rf>
 <children>
 <LM id="t-ln94211-95-p21s2a1">
