@@ -594,7 +594,7 @@
       <member name="comment" required="0">
         <cdata format="any"/>
       </member>
-      <member name="src" required="0"> <!-- for annotation purposes only (not in the distributed data) -->
+      <member name="src" required="0">
         <cdata format="any"/>
       </member>
       <member name="a-connectors.rf" required="0">
