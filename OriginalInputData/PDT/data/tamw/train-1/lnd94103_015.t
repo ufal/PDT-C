@@ -90,6 +90,7 @@
 <LM>
 <type>list</type>
 <start_range>1</start_range>
+<src>pdit10</src>
 </LM>
 <LM>
 <target_node.rf>t-lnd94103-015-p1s1w1</target_node.rf>
@@ -97,6 +98,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -452,6 +454,7 @@
 <target_node.rf>t-lnd94103-015-p1s2w9</target_node.rf>
 <type>list</type>
 <start_range>1</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -542,6 +545,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-015-p1s3Bw6</LM>
 </t-connectors.rf>
@@ -822,6 +826,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-015-p1s4Aw16</LM>
 </t-connectors.rf>
@@ -925,6 +930,7 @@
 <target_node.rf>t-lnd94103-015-p1s3Bw6</target_node.rf>
 <type>list</type>
 <start_range>1</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w372f1</val_frame.rf>
@@ -1126,6 +1132,7 @@
 <target_node.rf>t-lnd94103-015-p1s4Bw1</target_node.rf>
 <type>list</type>
 <start_range>1</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w1058f1</val_frame.rf>
@@ -1461,6 +1468,7 @@
 <target_node.rf>t-lnd94103-015-p1s5Bw2</target_node.rf>
 <type>list</type>
 <start_range>1</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w7078f1</val_frame.rf>

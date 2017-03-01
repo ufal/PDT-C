@@ -619,6 +619,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-35-p3s1w11</LM>
 </a-connectors.rf>
@@ -1867,6 +1868,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-35-p4s4w20</LM>
 <LM>t-ln94200-35-p4s4w19</LM>

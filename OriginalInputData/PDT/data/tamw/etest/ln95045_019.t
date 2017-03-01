@@ -548,6 +548,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-019-p2s1Cw17</LM>
 </t-connectors.rf>
@@ -1674,6 +1675,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-019-p3s2w12</LM>
 </t-connectors.rf>
@@ -1827,6 +1829,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-019-p3s2w17</LM>
 </t-connectors.rf>
@@ -2128,6 +2131,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-019-p3s3w7</LM>
 </t-connectors.rf>
@@ -2584,6 +2588,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-019-p3s4Aw17</LM>
 </t-connectors.rf>
@@ -3035,6 +3040,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-019-p3s4Bw10</LM>
 </t-connectors.rf>
@@ -3745,6 +3751,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-019-p3s6w12</LM>
 </t-connectors.rf>
@@ -3814,6 +3821,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln95045-019-p3s6w24</LM>
 </t-connectors.rf>
@@ -4719,6 +4727,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-019-p3s8w19</LM>
 </t-connectors.rf>
@@ -5008,6 +5017,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln95045-019-p3s9w11</LM>
 <LM>t-ln95045-019-p3s9w10</LM>

@@ -192,6 +192,7 @@
 <start_range>2</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-58-p3s1w15</LM>
 </t-connectors.rf>
@@ -692,6 +693,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-58-p2s2w10</LM>
 </t-connectors.rf>
@@ -1390,6 +1392,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-58-p3s1w8</LM>
 </t-connectors.rf>
@@ -1680,6 +1683,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-58-p3s2w3</LM>
 </t-connectors.rf>
@@ -2054,6 +2058,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-58-p4s1w2</LM>
 </t-connectors.rf>
@@ -2422,6 +2427,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-58-p4s2w16</LM>
 </t-connectors.rf>
@@ -2523,6 +2529,7 @@
 <start_range>2</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-58-p5s2w3</LM>
 </t-connectors.rf>
@@ -2808,6 +2815,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-58-p4s3w16</LM>
 </t-connectors.rf>
@@ -3082,6 +3090,7 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94203-58-p5s3w5</LM>
 </t-connectors.rf>
@@ -3615,6 +3624,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94203-58-p5s3w4</LM>
 </t-connectors.rf>

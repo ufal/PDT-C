@@ -1605,6 +1605,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-mf930713-147-p4s2w7</LM>
 <LM>t-mf930713-147-p4s2w9</LM>
@@ -2295,6 +2296,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-147-p5s1w21</LM>
 </t-connectors.rf>

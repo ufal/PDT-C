@@ -473,6 +473,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-011-p1s2w3</LM>
 </t-connectors.rf>
@@ -699,6 +700,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-011-p1s2w11</LM>
 <LM>t-mf920922-011-p1s2w12</LM>
@@ -1453,6 +1455,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-011-p1s4w11</LM>
 </t-connectors.rf>
@@ -2177,6 +2180,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-011-p1s7w9</LM>
 </t-connectors.rf>
@@ -2253,6 +2257,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-011-p1s8w1</LM>
 </t-connectors.rf>
@@ -2602,6 +2607,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-011-p1s10w12</LM>
 </t-connectors.rf>
@@ -3085,6 +3091,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-011-p1s12w8</LM>
 </t-connectors.rf>
@@ -3478,6 +3485,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-011-p1s13w10</LM>
 </t-connectors.rf>
@@ -3737,6 +3745,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-011-p1s14w9</LM>
 </t-connectors.rf>
@@ -5582,6 +5591,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-011-p1s20w5</LM>
 </t-connectors.rf>

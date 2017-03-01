@@ -699,6 +699,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-51-p2s2w17</LM>
 </t-connectors.rf>
@@ -1083,6 +1084,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94205-51-p2s4w1</LM>
 </t-connectors.rf>

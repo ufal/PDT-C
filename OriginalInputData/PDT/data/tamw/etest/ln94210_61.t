@@ -434,6 +434,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-61-p2s1Cw22</LM>
 </t-connectors.rf>

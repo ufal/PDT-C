@@ -863,6 +863,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-039-p1s4w1</LM>
 <LM>t-cmpr9410-039-p1s4w2</LM>
@@ -874,6 +875,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-039-p1s4w18</LM>
 </t-connectors.rf>

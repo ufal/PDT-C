@@ -831,6 +831,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-101-p2s2w23</LM>
 <LM>a#a-ln94205-101-p2s2w21</LM>
@@ -1522,6 +1523,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-101-p2s4w10</LM>
 </t-connectors.rf>

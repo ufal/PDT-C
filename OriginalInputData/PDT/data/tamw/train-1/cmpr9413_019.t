@@ -491,6 +491,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-019-p4s1w26</LM>
 <LM>t-cmpr9413-019-p4s1w12</LM>
@@ -978,6 +979,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-019-p4s2w16</LM>
 <LM>t-cmpr9413-019-p4s2w15</LM>

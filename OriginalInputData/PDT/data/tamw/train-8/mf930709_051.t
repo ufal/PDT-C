@@ -1070,6 +1070,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930709-051-p3s1w18</LM>
 </a-connectors.rf>
@@ -1696,6 +1697,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-051-p4s1w18</LM>
 </t-connectors.rf>
@@ -2098,6 +2100,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-051-p5s1w16</LM>
 </t-connectors.rf>

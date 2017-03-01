@@ -1049,6 +1049,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-102-p2s3w26</LM>
 <LM>t-ln94211-102-p2s3w27</LM>
@@ -1268,6 +1269,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-102-p2s4w19</LM>
 </t-connectors.rf>

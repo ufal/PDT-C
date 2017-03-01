@@ -1711,6 +1711,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-43-p2s5w20</LM>
 </a-connectors.rf>
@@ -1971,6 +1972,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-43-p2s5w34</LM>
 </t-connectors.rf>

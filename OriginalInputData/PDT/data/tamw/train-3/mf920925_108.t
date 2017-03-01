@@ -1251,6 +1251,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-108-p3s4w6</LM>
 <LM>t-mf920925-108-p3s4w5</LM>
@@ -2516,6 +2517,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-108-p6s1w24</LM>
 </a-connectors.rf>

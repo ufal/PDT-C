@@ -1970,6 +1970,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-066-p1s4w23</LM>
 </t-connectors.rf>
@@ -2345,6 +2346,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-066-p1s5w9</LM>
 </t-connectors.rf>
@@ -3532,6 +3534,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-066-p1s8w25</LM>
 </t-connectors.rf>
@@ -3777,6 +3780,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-066-p1s8w32</LM>
 </t-connectors.rf>
@@ -3988,6 +3992,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-066-p1s10w1</LM>
 <LM>t-lnd94103-066-p1s10w2</LM>
@@ -4661,6 +4666,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-066-p1s11w10</LM>
 </t-connectors.rf>
@@ -5116,6 +5122,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-066-p1s12w13</LM>
 </t-connectors.rf>
@@ -5389,6 +5396,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-066-p1s13w6</LM>
 </t-connectors.rf>
@@ -5399,6 +5407,7 @@
 <start_range>-5</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-066-p1s14w4</LM>
 </a-connectors.rf>
@@ -6107,6 +6116,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-066-p1s15w3</LM>
 </a-connectors.rf>
@@ -6512,6 +6522,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-066-p1s16w2</LM>
 </t-connectors.rf>
@@ -6911,6 +6922,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-066-p1s18w7</LM>
 </t-connectors.rf>
@@ -7198,6 +7210,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-066-p1s19w1</LM>
 </t-connectors.rf>
@@ -7384,6 +7397,7 @@
 <target_range>0</target_range>
 <discourse_type>gener</discourse_type>
 <comment>Conclusion</comment>
+<src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-066-p1s18w11</LM>
 </a-connectors.rf>
@@ -7589,6 +7603,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-066-p1s18w23</LM>
 </t-connectors.rf>
@@ -7804,6 +7819,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-066-p1s20w2</LM>
 </t-connectors.rf>
@@ -8140,6 +8156,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-066-p1s20w22</LM>
 </t-connectors.rf>
@@ -8710,6 +8727,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-066-p1s22w8</LM>
 </t-connectors.rf>
@@ -9145,6 +9163,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-066-p1s23w5</LM>
 </t-connectors.rf>

@@ -2306,6 +2306,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-124-p3s1Bw9</LM>
 </t-connectors.rf>
@@ -2565,6 +2566,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-124-p3s2w11</LM>
 </t-connectors.rf>
@@ -3368,6 +3370,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-124-p4s3w11</LM>
 </t-connectors.rf>
@@ -4665,6 +4668,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95045-124-p5s3w6</LM>
 <LM>a#a-ln95045-124-p5s3w8</LM>
@@ -5394,6 +5398,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-124-p6s3w2</LM>
 </t-connectors.rf>
@@ -6228,6 +6233,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-124-p6s4w19</LM>
 </t-connectors.rf>
@@ -8158,6 +8164,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-124-p8s2w1</LM>
 </t-connectors.rf>
@@ -9345,6 +9352,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95045-124-p9s2w7</LM>
 <LM>a#a-ln95045-124-p9s2w9</LM>
@@ -9925,6 +9933,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-124-p9s3w32</LM>
 </t-connectors.rf>
@@ -10096,6 +10105,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln95045-124-p10s1w15</LM>
 <LM>t-ln95045-124-p10s1w16</LM>

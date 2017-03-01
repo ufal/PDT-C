@@ -1757,6 +1757,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-147-p1s7w12</LM>
 <LM>t-lnd94103-147-p1s7w20</LM>
@@ -2360,6 +2361,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-147-p1s8w30</LM>
 </a-connectors.rf>

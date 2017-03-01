@@ -1236,6 +1236,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-70-p2s4w7</LM>
 </t-connectors.rf>
@@ -1669,6 +1670,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94204-70-p2s5w6</LM>
 </t-connectors.rf>

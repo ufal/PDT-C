@@ -2289,6 +2289,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-021-p5s2w2</LM>
 </t-connectors.rf>
@@ -2425,6 +2426,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-021-p5s2w13</LM>
 </t-connectors.rf>
@@ -3165,6 +3167,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-021-p8s1w19</LM>
 </t-connectors.rf>
@@ -4326,6 +4329,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-021-p8s5w2</LM>
 </t-connectors.rf>
@@ -4504,6 +4508,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-021-p8s5w8</LM>
 <LM>t-cmpr9413-021-p8s5w14</LM>
@@ -4662,6 +4667,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-021-p8s6w3</LM>
 <LM>t-cmpr9413-021-p8s6w2</LM>
@@ -5166,6 +5172,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-021-p8s8Aw1</LM>
 </t-connectors.rf>
@@ -5374,6 +5381,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-021-p8s9w1</LM>
 </t-connectors.rf>
@@ -6085,6 +6093,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-021-p8s9w12</LM>
 <LM>a#a-cmpr9413-021-p8s9w14</LM>

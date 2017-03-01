@@ -699,6 +699,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-118-p4s4w2</LM>
 <LM>t-mf920922-118-p4s4w1</LM>
@@ -1357,6 +1358,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-118-p4s6w1</LM>
 </a-connectors.rf>

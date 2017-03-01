@@ -1163,6 +1163,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-94-p1s3w24</LM>
 <LM>t-ln94203-94-p1s3w11</LM>
@@ -1911,6 +1912,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94203-94-p1s5w20</LM>
 </t-connectors.rf>
@@ -1921,6 +1923,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94203-94-p1s5w23</LM>
 </t-connectors.rf>

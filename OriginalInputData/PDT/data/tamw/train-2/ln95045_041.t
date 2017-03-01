@@ -1509,6 +1509,7 @@
 <start_range>0</start_range>
 <target_range>4</target_range>
 <discourse_type>synchr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-041-p2s6w2</LM>
 </t-connectors.rf>

@@ -1037,6 +1037,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-002-p4s3w13</LM>
 </t-connectors.rf>
@@ -1826,6 +1827,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-002-p7s2w11</LM>
 </t-connectors.rf>
@@ -2545,6 +2547,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-002-p9s1w8</LM>
 </t-connectors.rf>
@@ -3288,6 +3291,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-002-p10s1w16</LM>
 </t-connectors.rf>
@@ -3395,6 +3399,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-002-p10s2w1</LM>
 </a-connectors.rf>
@@ -3530,6 +3535,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-002-p10s2w3</LM>
 </t-connectors.rf>
@@ -3902,6 +3908,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-002-p11s1w3</LM>
 </t-connectors.rf>
@@ -7661,6 +7668,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-002-p16s2w17</LM>
 <LM>t-cmpr9410-002-p16s2w18</LM>
@@ -7924,6 +7932,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-002-p17s1w8</LM>
 </t-connectors.rf>
@@ -8554,6 +8563,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-002-p18s1w10</LM>
 </t-connectors.rf>

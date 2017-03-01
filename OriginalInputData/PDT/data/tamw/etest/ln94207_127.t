@@ -2063,6 +2063,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-127-p6s2w2</LM>
 </t-connectors.rf>
@@ -3115,6 +3116,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-127-p8s2w3</LM>
 </a-connectors.rf>
@@ -4015,6 +4017,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-127-p8s5w1</LM>
 </t-connectors.rf>

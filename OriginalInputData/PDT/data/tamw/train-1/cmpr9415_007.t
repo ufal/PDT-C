@@ -1521,6 +1521,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-007-p10s1w9</LM>
 </t-connectors.rf>

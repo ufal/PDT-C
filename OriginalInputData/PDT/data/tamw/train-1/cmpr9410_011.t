@@ -1000,6 +1000,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-011-p2s3w6</LM>
 </t-connectors.rf>
@@ -1728,6 +1729,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-011-p4s3w1</LM>
 <LM>a#a-cmpr9410-011-p4s3w2</LM>
@@ -3346,6 +3348,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-011-p8s1Aw8</LM>
 </a-connectors.rf>

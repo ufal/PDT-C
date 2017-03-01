@@ -620,6 +620,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-017-p2s1Cw11</LM>
 </t-connectors.rf>
@@ -1158,6 +1159,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-017-p3s2w3</LM>
 </a-connectors.rf>
@@ -1976,6 +1978,7 @@
 <start_range>group</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-017-p4s1w7</LM>
 </t-connectors.rf>
@@ -2568,6 +2571,7 @@
 <target_group_id>2</target_group_id>
 <target_range>group</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-017-p4s1w32</LM>
 </t-connectors.rf>
@@ -2911,6 +2915,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-017-p4s2w12</LM>
 </t-connectors.rf>
@@ -3259,6 +3264,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-017-p4s3w7</LM>
 </t-connectors.rf>
@@ -3269,6 +3275,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln95047-017-p4s4w1</LM>
 </t-connectors.rf>
@@ -3787,6 +3794,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-017-p4s4a0</LM>
 <LM>t-ln95047-017-p4s4w9</LM>
@@ -4922,6 +4930,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-017-p4s7w8</LM>
 </t-connectors.rf>
@@ -5663,6 +5672,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-017-p4s8w17</LM>
 </a-connectors.rf>

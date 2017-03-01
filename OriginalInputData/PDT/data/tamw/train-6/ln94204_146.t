@@ -6215,6 +6215,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-146-p2s14w8</LM>
 </t-connectors.rf>
@@ -6588,6 +6589,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-146-p2s15Aa2</LM>
 <LM>t-ln94204-146-p2s15Aw16</LM>
@@ -8388,6 +8390,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-146-p2s18Aw1</LM>
 </a-connectors.rf>

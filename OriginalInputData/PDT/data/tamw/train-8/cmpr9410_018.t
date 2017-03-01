@@ -1660,6 +1660,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-018-p5s3w14</LM>
 </t-connectors.rf>
@@ -2110,6 +2111,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-018-p5s5w3</LM>
 <LM>a#a-cmpr9410-018-p5s5w5</LM>
@@ -4547,6 +4549,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-018-p9s2w12</LM>
 </a-connectors.rf>
@@ -5225,6 +5228,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-018-p9s4w12</LM>
 <LM>a#a-cmpr9410-018-p9s4w14</LM>
@@ -6211,6 +6215,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-018-p11s3w19</LM>
 </t-connectors.rf>
@@ -6662,6 +6667,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-018-p11s5w1</LM>
 </t-connectors.rf>
@@ -6988,6 +6994,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-018-p13s1w3</LM>
 </t-connectors.rf>
@@ -8950,6 +8957,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-018-p15s3Aw8</LM>
 </t-connectors.rf>
@@ -9328,6 +9336,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-018-p15s3Bw11</LM>
 </a-connectors.rf>
@@ -9775,6 +9784,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-018-p16s1w15</LM>
 </t-connectors.rf>

@@ -1360,6 +1360,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-017-p5s2w5</LM>
 </t-connectors.rf>
@@ -3088,6 +3089,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-017-p8s2w1</LM>
 </t-connectors.rf>
@@ -3356,6 +3358,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-017-p8s2w16</LM>
 </t-connectors.rf>
@@ -3628,6 +3631,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit20</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-017-p8s3w1</LM>
 </t-connectors.rf>
@@ -3826,6 +3830,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-017-p8s3w18</LM>
 </t-connectors.rf>
@@ -5534,6 +5539,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-017-p11s1w30</LM>
 </t-connectors.rf>
@@ -5714,6 +5720,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-017-p12s1w5</LM>
 </t-connectors.rf>
@@ -6316,6 +6323,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-017-p12s1w20</LM>
 </t-connectors.rf>
@@ -6925,6 +6933,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-017-p13s1w3</LM>
 <LM>t-cmpr9410-017-p13s1w2</LM>
@@ -8095,6 +8104,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-017-p14s1w28</LM>
 <LM>t-cmpr9410-017-p14s1w27</LM>

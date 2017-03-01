@@ -657,6 +657,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-72-p2s2w1</LM>
 </a-connectors.rf>
@@ -2197,6 +2198,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-72-p3s2w20</LM>
 </t-connectors.rf>
@@ -3694,6 +3696,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-72-p4s4w16</LM>
 </a-connectors.rf>
@@ -4401,6 +4404,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-72-p4s6w7</LM>
 </a-connectors.rf>
@@ -5324,6 +5328,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-72-p5s2w6</LM>
 <LM>a#a-ln94202-72-p5s2w4</LM>
@@ -5432,6 +5437,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-72-p5s2w16</LM>
 </a-connectors.rf>
@@ -6333,6 +6339,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-72-p6s1w36</LM>
 </t-connectors.rf>
@@ -6583,6 +6590,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-72-p6s2w5</LM>
 </t-connectors.rf>
@@ -7004,6 +7012,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-72-p6s3w12</LM>
 </t-connectors.rf>
@@ -7393,6 +7402,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-72-p6s4w19</LM>
 </t-connectors.rf>

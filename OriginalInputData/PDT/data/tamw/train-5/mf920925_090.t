@@ -546,6 +546,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-090-p2s2w1</LM>
 </a-connectors.rf>
@@ -839,6 +840,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-090-p2s4w4</LM>
 </t-connectors.rf>
@@ -1138,6 +1140,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-090-p2s6w1</LM>
 </a-connectors.rf>
@@ -2558,6 +2561,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit20</src>
 <t-connectors.rf>
 <LM>t-mf920925-090-p2s10w32</LM>
 </t-connectors.rf>
@@ -2725,6 +2729,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-090-p2s10w7</LM>
 <LM>t-mf920925-090-p2s10w22</LM>
@@ -5608,6 +5613,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-090-p2s17w33</LM>
 </a-connectors.rf>
@@ -6227,6 +6233,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-090-p2s20w20</LM>
 </a-connectors.rf>
@@ -7393,6 +7400,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-090-p2s24w9</LM>
 </t-connectors.rf>
@@ -7546,6 +7554,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-090-p2s24w14</LM>
 </t-connectors.rf>
@@ -8214,6 +8223,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-090-p2s26w12</LM>
 </a-connectors.rf>

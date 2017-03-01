@@ -929,6 +929,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-146-p1s4w18</LM>
 </t-connectors.rf>
@@ -1135,6 +1136,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-146-p1s5w4</LM>
 <LM>t-lnd94103-146-p1s5w2</LM>
@@ -1881,6 +1883,7 @@
 <start_range>0</start_range>
 <target_range>-3</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit20</src>
 <t-connectors.rf>
 <LM>t-lnd94103-146-p1s7w7</LM>
 </t-connectors.rf>
@@ -2539,6 +2542,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-146-p1s8w9</LM>
 <LM>a#a-lnd94103-146-p1s8w11</LM>
@@ -3244,6 +3248,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-146-p1s9w16</LM>
 </t-connectors.rf>
@@ -3464,6 +3469,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-146-p1s9w28</LM>
 </t-connectors.rf>

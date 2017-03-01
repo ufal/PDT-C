@@ -931,6 +931,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-126-p2s3w21</LM>
 </t-connectors.rf>
@@ -2235,6 +2236,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-126-p4s3w2</LM>
 </a-connectors.rf>
@@ -2412,6 +2414,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-126-p4s3w14</LM>
 </t-connectors.rf>

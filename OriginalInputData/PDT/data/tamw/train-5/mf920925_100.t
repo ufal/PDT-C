@@ -807,6 +807,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-100-p4s2w7</LM>
 <LM>t-mf920925-100-p4s2w8</LM>

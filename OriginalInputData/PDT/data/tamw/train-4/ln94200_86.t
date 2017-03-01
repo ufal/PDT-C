@@ -1167,6 +1167,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94200-86-p2s3w13</LM>
 <LM>t-ln94200-86-p2s3w14</LM>

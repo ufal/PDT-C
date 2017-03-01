@@ -503,6 +503,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-069-p2s2w24</LM>
 </t-connectors.rf>
@@ -1610,6 +1611,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-069-p2s4w25</LM>
 <LM>t-mf920925-069-p2s4w26</LM>

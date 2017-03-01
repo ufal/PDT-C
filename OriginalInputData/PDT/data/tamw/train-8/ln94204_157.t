@@ -1598,6 +1598,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-157-p4s1w10</LM>
 </t-connectors.rf>
@@ -2563,6 +2564,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-157-p5s2w1</LM>
 </t-connectors.rf>
@@ -3055,6 +3057,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-157-p5s4w2</LM>
 </t-connectors.rf>
@@ -3440,6 +3443,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-157-p6s1w12</LM>
 <LM>t-ln94204-157-p6s1w4</LM>
@@ -3687,6 +3691,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-157-p6s1w32</LM>
 </a-connectors.rf>
@@ -4105,6 +4110,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-157-p6s2w16</LM>
 </t-connectors.rf>
@@ -5235,6 +5241,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94204-157-p8s4w20</LM>
 </t-connectors.rf>
@@ -5468,6 +5475,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-157-p8s4w13</LM>
 </t-connectors.rf>
@@ -5934,6 +5942,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-157-p8s6w9</LM>
 </t-connectors.rf>
@@ -6941,6 +6950,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-157-p10s2w4</LM>
 </t-connectors.rf>

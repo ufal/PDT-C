@@ -1604,6 +1604,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-22-p3s3w3</LM>
 </t-connectors.rf>
@@ -2798,6 +2799,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-22-p4s3w4</LM>
 </t-connectors.rf>
@@ -2808,6 +2810,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-22-p4s2w1</LM>
 </a-connectors.rf>

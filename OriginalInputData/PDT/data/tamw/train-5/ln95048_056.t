@@ -1301,6 +1301,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-056-p3s5w2</LM>
 <LM>t-ln95048-056-p3s5w1</LM>
@@ -1474,6 +1475,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-056-p3s4w12</LM>
 <LM>t-ln95048-056-p3s4w6</LM>
@@ -1800,6 +1802,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-056-p4s1w2</LM>
 <LM>t-ln95048-056-p4s1w1</LM>
@@ -2046,6 +2049,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-056-p3s6w17</LM>
 </a-connectors.rf>
@@ -3328,6 +3332,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-056-p4s6w3</LM>
 <LM>t-ln95048-056-p4s6w1</LM>
@@ -3462,6 +3467,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-056-p4s6w6</LM>
 </t-connectors.rf>
@@ -3720,6 +3726,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-056-p4s7w7</LM>
 </t-connectors.rf>
@@ -4502,6 +4509,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-056-p4s11w6</LM>
 </t-connectors.rf>
@@ -4750,6 +4758,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln95048-056-p5s1w11</LM>
 <LM>t-ln95048-056-p5s1w12</LM>
@@ -5704,6 +5713,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-056-p6s1w3</LM>
 </a-connectors.rf>

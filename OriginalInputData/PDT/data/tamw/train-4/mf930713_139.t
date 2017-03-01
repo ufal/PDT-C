@@ -1151,6 +1151,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-139-p2s3w21</LM>
 </t-connectors.rf>
@@ -1279,6 +1280,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-139-p2s3w32</LM>
 </a-connectors.rf>

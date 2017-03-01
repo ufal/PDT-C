@@ -269,6 +269,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-140-p2s1w5</LM>
 </t-connectors.rf>
@@ -615,6 +616,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-140-p2s1w28</LM>
 </a-connectors.rf>
@@ -1808,6 +1810,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-140-p2s4w10</LM>
 </t-connectors.rf>
@@ -2626,6 +2629,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-140-p2s5w25</LM>
 </a-connectors.rf>
@@ -2756,6 +2760,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-140-p2s7w3</LM>
 </t-connectors.rf>
@@ -3223,6 +3228,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-140-p2s9w3</LM>
 </t-connectors.rf>
@@ -4757,6 +4763,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-140-p2s11a0</LM>
 <LM>t-mf930713-140-p2s13w1</LM>
@@ -4906,6 +4913,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-140-p2s13w13</LM>
 <LM>a#a-mf930713-140-p2s13w12</LM>
@@ -5031,6 +5039,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-140-p2s13w22</LM>
 </t-connectors.rf>
@@ -5290,6 +5299,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-140-p2s13w34</LM>
 </t-connectors.rf>

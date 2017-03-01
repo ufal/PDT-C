@@ -370,6 +370,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-149-p2s1Bw8</LM>
 <LM>a#a-mf930713-149-p2s1Bw10</LM>
@@ -462,6 +463,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-149-p2s1Bw16</LM>
 </a-connectors.rf>
@@ -1003,6 +1005,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-149-p5s1w18</LM>
 </a-connectors.rf>

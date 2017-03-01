@@ -2980,6 +2980,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-117-p11s1w22</LM>
 </t-connectors.rf>
@@ -3066,6 +3067,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-117-p11s1w25</LM>
 </a-connectors.rf>

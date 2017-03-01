@@ -528,6 +528,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-020-p3s4w2</LM>
 </t-connectors.rf>
@@ -1182,6 +1183,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-020-p3s7w2</LM>
 </t-connectors.rf>
@@ -1566,6 +1568,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-020-p3s9w1</LM>
 <LM>t-mf930713-020-p3s9w2</LM>
@@ -1695,6 +1698,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-020-p3s10w2</LM>
 </t-connectors.rf>
@@ -1871,6 +1875,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-020-p3s12w1</LM>
 <LM>t-mf930713-020-p3s12w2</LM>
@@ -1921,6 +1926,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-020-p3s10a1</LM>
 <LM>t-mf930713-020-p3s10w3</LM>
@@ -2084,6 +2090,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-020-p3s12w3</LM>
 </a-connectors.rf>
@@ -2175,6 +2182,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-020-p3s12w10</LM>
 <LM>a#a-mf930713-020-p3s12w12</LM>
@@ -2329,6 +2337,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-020-p3s12w18</LM>
 </t-connectors.rf>
@@ -2567,6 +2576,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-020-p3s12w31</LM>
 </t-connectors.rf>
@@ -2760,6 +2770,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-020-p3s13w6</LM>
 <LM>t-mf930713-020-p3s13w5</LM>
@@ -3001,6 +3012,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-020-p3s14w2</LM>
 </t-connectors.rf>
@@ -3594,6 +3606,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-020-p3s16w1</LM>
 </t-connectors.rf>
@@ -3806,6 +3819,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-020-p3s17w3</LM>
 </t-connectors.rf>
@@ -3960,6 +3974,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-020-p3s21w16</LM>
 </t-connectors.rf>
@@ -4450,6 +4465,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-020-p3s18w29</LM>
 </t-connectors.rf>
@@ -4530,6 +4546,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-020-p3s18w32</LM>
 </t-connectors.rf>
@@ -4756,6 +4773,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit20</src>
 <t-connectors.rf>
 <LM>t-mf930713-020-p3s19w2</LM>
 </t-connectors.rf>
@@ -4874,6 +4892,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-020-p3s20w1</LM>
 <LM>t-mf930713-020-p3s20w4</LM>

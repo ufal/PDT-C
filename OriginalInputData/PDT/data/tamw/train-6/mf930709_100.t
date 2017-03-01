@@ -965,6 +965,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-100-p2s4w1</LM>
 </t-connectors.rf>
@@ -2260,6 +2261,7 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>equiv</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-100-p2s7w12</LM>
 </t-connectors.rf>

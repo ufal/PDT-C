@@ -1156,6 +1156,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-97-p2s3w28</LM>
 </t-connectors.rf>
@@ -1228,6 +1229,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-97-p2s3w34</LM>
 </t-connectors.rf>
@@ -1510,6 +1512,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-97-p3s1w7</LM>
 </t-connectors.rf>
@@ -1649,6 +1652,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94207-97-p3s2w13</LM>
 <LM>t-ln94207-97-p3s2w15</LM>
@@ -2685,6 +2689,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-97-p4s1w19</LM>
 </t-connectors.rf>
@@ -3053,6 +3058,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-97-p4s2w1</LM>
 </a-connectors.rf>
@@ -3611,6 +3617,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-97-p4s4w2</LM>
 </t-connectors.rf>
@@ -4145,6 +4152,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-97-p5s1w9</LM>
 <LM>a#a-ln94207-97-p5s1w11</LM>
@@ -4553,6 +4561,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94207-97-p5s2w3</LM>
 </t-connectors.rf>
@@ -4936,6 +4945,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-97-p5s2w24</LM>
 <LM>a#a-ln94207-97-p5s2w25</LM>
@@ -5197,6 +5207,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-97-p6s1w10</LM>
 </t-connectors.rf>
@@ -5540,6 +5551,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-97-p6s2w4</LM>
 </a-connectors.rf>
@@ -5869,6 +5881,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-97-p6s2w27</LM>
 </t-connectors.rf>
@@ -6191,6 +6204,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-97-p6s2w50</LM>
 </t-connectors.rf>

@@ -1480,6 +1480,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-122-p3s3a0</LM>
 <LM>t-mf930709-122-p3s3w7</LM>
@@ -1604,6 +1605,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930709-122-p3s3w13</LM>
 <LM>a#a-mf930709-122-p3s3w14</LM>
@@ -2016,6 +2018,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930709-122-p3s4w12</LM>
 <LM>a#a-mf930709-122-p3s4w14</LM>

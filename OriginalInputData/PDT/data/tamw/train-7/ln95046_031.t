@@ -1377,6 +1377,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-031-p2s6w3</LM>
 </t-connectors.rf>
@@ -1539,6 +1540,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95046-031-p2s6w11</LM>
 </a-connectors.rf>

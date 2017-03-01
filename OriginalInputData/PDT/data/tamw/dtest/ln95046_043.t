@@ -2081,6 +2081,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-043-p3s4w2</LM>
 </t-connectors.rf>
@@ -2230,6 +2231,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-043-p3s4a0</LM>
 <LM>t-ln95046-043-p3s4w10</LM>
@@ -2682,6 +2684,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-043-p4s2w15</LM>
 </t-connectors.rf>
@@ -3331,6 +3334,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-043-p4s3w12</LM>
 </t-connectors.rf>
@@ -4062,6 +4066,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95046-043-p4s5w3</LM>
 </a-connectors.rf>
@@ -5284,6 +5289,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-043-p5s2w5</LM>
 <LM>t-ln95046-043-p5s2w3</LM>
@@ -5849,6 +5855,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-043-p5s4w14</LM>
 </t-connectors.rf>
@@ -6259,6 +6266,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-043-p5s4w23</LM>
 </t-connectors.rf>
@@ -6686,6 +6694,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-043-p5s6w1</LM>
 </t-connectors.rf>
@@ -6721,6 +6730,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95046-043-p5s6w2</LM>
 </a-connectors.rf>

@@ -600,6 +600,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-143-p2s1Bw25</LM>
 </t-connectors.rf>
@@ -772,6 +773,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-143-p3s1w4</LM>
 </t-connectors.rf>

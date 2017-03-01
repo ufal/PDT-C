@@ -877,6 +877,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-053-p2s2w9</LM>
 </t-connectors.rf>
@@ -1052,6 +1053,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-053-p2s2w20</LM>
 </a-connectors.rf>
@@ -1355,6 +1357,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-053-p3s1w8</LM>
 <LM>a#a-ln95049-053-p3s1w7</LM>
@@ -1500,6 +1503,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-053-p3s1w17</LM>
 <LM>t-ln95049-053-p3s1w4</LM>
@@ -1511,6 +1515,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln95049-053-p3s1w18</LM>
 </t-connectors.rf>
@@ -2306,6 +2311,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-053-p3s3w32</LM>
 <LM>a#a-ln95049-053-p3s3w30</LM>
@@ -2720,6 +2726,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-053-p3s3w8</LM>
 </a-connectors.rf>
@@ -3142,6 +3149,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-053-p4s1w12</LM>
 </t-connectors.rf>
@@ -3276,6 +3284,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-053-p4s1w19</LM>
 </t-connectors.rf>
@@ -3315,6 +3324,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-053-p4s1w35</LM>
 </t-connectors.rf>
@@ -3766,6 +3776,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln95049-053-p4s2w8</LM>
 </t-connectors.rf>
@@ -3969,6 +3980,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-053-p4s2w9</LM>
 </a-connectors.rf>
@@ -4538,6 +4550,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-053-p4s4w7</LM>
 <LM>a#a-ln95049-053-p4s4w8</LM>
@@ -4855,6 +4868,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-053-p4s5w8</LM>
 <LM>a#a-ln95049-053-p4s5w6</LM>
@@ -5281,6 +5295,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-053-p4s6w31</LM>
 </t-connectors.rf>
@@ -5840,6 +5855,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-053-p5s1w10</LM>
 </a-connectors.rf>
@@ -5951,6 +5967,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-053-p5s1w16</LM>
 </t-connectors.rf>
@@ -6256,6 +6273,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-053-p5s2w6</LM>
 </t-connectors.rf>
@@ -6581,6 +6599,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-053-p5s3w5</LM>
 </t-connectors.rf>

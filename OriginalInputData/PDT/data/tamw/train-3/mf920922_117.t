@@ -551,6 +551,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-117-p4s2w19</LM>
 <LM>a#a-mf920922-117-p4s2w17</LM>
@@ -1235,6 +1236,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-117-p4s4w16</LM>
 </t-connectors.rf>

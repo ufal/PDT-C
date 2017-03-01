@@ -756,6 +756,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-147-p2s3w9</LM>
 </a-connectors.rf>
@@ -991,6 +992,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-147-p2s4w5</LM>
 <LM>a#a-ln94200-147-p2s4w4</LM>

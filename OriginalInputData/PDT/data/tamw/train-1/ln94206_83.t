@@ -151,6 +151,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-83-p2s2w16</LM>
 </t-connectors.rf>
@@ -2163,6 +2164,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-83-p4s2w29</LM>
 </t-connectors.rf>
@@ -3032,6 +3034,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-83-p5s2w1</LM>
 </t-connectors.rf>
@@ -3606,6 +3609,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-83-p5s3w3</LM>
 </t-connectors.rf>
@@ -3930,6 +3934,7 @@
 <start_range>0</start_range>
 <target_range>8</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-83-p6s1w4</LM>
 </t-connectors.rf>
@@ -4038,6 +4043,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-83-p6s1a0</LM>
 <LM>t-ln94206-83-p6s1w10</LM>
@@ -4162,6 +4168,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-83-p6s2w8</LM>
 </t-connectors.rf>
@@ -5066,6 +5073,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-83-p6s4w12</LM>
 </t-connectors.rf>
@@ -5184,6 +5192,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-83-p7s1w3</LM>
 </t-connectors.rf>
@@ -5552,6 +5561,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-83-p7s1w26</LM>
 </t-connectors.rf>

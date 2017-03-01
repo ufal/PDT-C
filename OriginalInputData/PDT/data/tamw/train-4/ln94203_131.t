@@ -1120,6 +1120,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-131-p2s3w24</LM>
 </a-connectors.rf>
@@ -1789,6 +1790,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-131-p2s5w17</LM>
 <LM>t-ln94203-131-p2s5w13</LM>
@@ -2532,6 +2534,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-131-p2s7w11</LM>
 </a-connectors.rf>

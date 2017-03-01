@@ -808,6 +808,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-41-p2s4w6</LM>
 </t-connectors.rf>
@@ -1150,6 +1151,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-41-p2s4w42</LM>
 </a-connectors.rf>

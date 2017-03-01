@@ -980,6 +980,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-98-p2s2w14</LM>
 </t-connectors.rf>
@@ -1400,6 +1401,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-98-p2s3w3</LM>
 </t-connectors.rf>
@@ -1571,6 +1573,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-98-p2s4w3</LM>
 </t-connectors.rf>
@@ -1882,6 +1885,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-98-p3s1w7</LM>
 </t-connectors.rf>
@@ -2246,6 +2250,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-98-p3s2w9</LM>
 </t-connectors.rf>
@@ -2356,6 +2361,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-98-p3s2w14</LM>
 <LM>a#a-ln94208-98-p3s2w16</LM>
@@ -2853,6 +2859,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-98-p3s5w8</LM>
 </t-connectors.rf>
@@ -2863,6 +2870,7 @@
 <start_range>2</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-98-p3s8w4</LM>
 </t-connectors.rf>
@@ -3600,6 +3608,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-98-p3s9w3</LM>
 </t-connectors.rf>
@@ -3713,6 +3722,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-98-p3s10w1</LM>
 </a-connectors.rf>

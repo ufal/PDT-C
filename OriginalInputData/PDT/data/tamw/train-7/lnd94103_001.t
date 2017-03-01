@@ -827,6 +827,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-001-p1s3w17</LM>
 </t-connectors.rf>
@@ -1697,6 +1698,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-001-p1s6w1</LM>
 </a-connectors.rf>
@@ -3132,6 +3134,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-001-p1s9w11</LM>
 </t-connectors.rf>
@@ -3283,6 +3286,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-001-p1s9w21</LM>
 <LM>t-lnd94103-001-p1s9w17</LM>
@@ -3390,6 +3394,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-001-p1s10w1</LM>
 </t-connectors.rf>
@@ -4705,6 +4710,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-001-p1s12w24</LM>
 </t-connectors.rf>
@@ -4830,6 +4836,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-001-p1s13w1</LM>
 </t-connectors.rf>
@@ -4971,6 +4978,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-001-p1s14Aw3</LM>
 </t-connectors.rf>
@@ -5208,6 +5216,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-001-p1s14Bw3</LM>
 </t-connectors.rf>
@@ -6306,6 +6315,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-001-p1s18w6</LM>
 <LM>t-lnd94103-001-p1s18w1</LM>

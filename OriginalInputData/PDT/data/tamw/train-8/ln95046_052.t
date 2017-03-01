@@ -4056,6 +4056,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-052-p4s5a0</LM>
 <LM>t-ln95046-052-p4s5w14</LM>
@@ -4445,6 +4446,7 @@
 <start_range>0</start_range>
 <target_range>backward</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-052-p4s7w2</LM>
 </t-connectors.rf>

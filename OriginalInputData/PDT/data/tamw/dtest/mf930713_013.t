@@ -1491,6 +1491,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-013-p4s4w18</LM>
 <LM>t-mf930713-013-p4s4w8</LM>
@@ -2077,6 +2078,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-013-p4s5w1</LM>
 </a-connectors.rf>

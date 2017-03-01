@@ -1564,6 +1564,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-4-p4s2w1</LM>
 </t-connectors.rf>
@@ -2453,6 +2454,7 @@
 <target_range>4</target_range>
 <discourse_type>gener</discourse_type>
 <comment>Conclusion</comment>
+<src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94202-4-p6s1w6</LM>
 </t-connectors.rf>
@@ -3335,6 +3337,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-4-p6s3w17</LM>
 </a-connectors.rf>
@@ -4100,6 +4103,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-4-p7s2w22</LM>
 </t-connectors.rf>
@@ -4418,6 +4422,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-4-p7s3w12</LM>
 </t-connectors.rf>
@@ -6360,6 +6365,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-4-p10s4w8</LM>
 </t-connectors.rf>
@@ -7571,6 +7577,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-4-p12s2w1</LM>
 </t-connectors.rf>
@@ -8128,6 +8135,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-4-p13s2w9</LM>
 </a-connectors.rf>
@@ -10662,6 +10670,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-4-p15s3w1</LM>
 </t-connectors.rf>
@@ -11287,6 +11296,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-4-p15s5w16</LM>
 </t-connectors.rf>

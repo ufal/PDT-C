@@ -603,6 +603,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-030-p3s2w21</LM>
 <LM>t-cmpr9415-030-p3s2w19</LM>

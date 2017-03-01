@@ -1101,6 +1101,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-111-p3s2w1</LM>
 </t-connectors.rf>
@@ -2912,6 +2913,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-111-p4s4w11</LM>
 </a-connectors.rf>

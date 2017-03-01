@@ -1242,6 +1242,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-1-p3s1w1</LM>
 </a-connectors.rf>
@@ -2185,6 +2186,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-1-p4s2w1</LM>
 </t-connectors.rf>
@@ -2469,6 +2471,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-1-p4s2w16</LM>
 </a-connectors.rf>
@@ -2820,6 +2823,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-1-p4s2w38</LM>
 </t-connectors.rf>
@@ -3226,6 +3230,7 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-1-p5s5w3</LM>
 </t-connectors.rf>
@@ -3371,6 +3376,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-1-p5s1w7</LM>
 </t-connectors.rf>
@@ -3815,6 +3821,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-1-p5s3w13</LM>
 </t-connectors.rf>
@@ -4088,6 +4095,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-1-p5s4w4</LM>
 </t-connectors.rf>
@@ -4403,6 +4411,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-1-p5s5w8</LM>
 </t-connectors.rf>
@@ -5279,6 +5288,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-1-p6s2w13</LM>
 </t-connectors.rf>
@@ -5598,6 +5608,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-1-p6s3w4</LM>
 </t-connectors.rf>
@@ -6518,6 +6529,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-1-p7s3w8</LM>
 </t-connectors.rf>
@@ -6554,6 +6566,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-1-p7s2w1</LM>
 </a-connectors.rf>
@@ -7617,6 +7630,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-1-p8s2w5</LM>
 </t-connectors.rf>
@@ -7777,6 +7791,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-1-p8s2w9</LM>
 </a-connectors.rf>
@@ -7890,6 +7905,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-1-p8s2w16</LM>
 </t-connectors.rf>
@@ -8120,6 +8136,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-1-p9s1w1</LM>
 </a-connectors.rf>
@@ -9251,6 +9268,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-1-p10s1w8</LM>
 <LM>t-ln94210-1-p10s2w2</LM>
@@ -9262,6 +9280,7 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-1-p10s3w8</LM>
 </t-connectors.rf>
@@ -9757,6 +9776,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-1-p10s2w1</LM>
 </a-connectors.rf>
@@ -10802,6 +10822,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-1-p10s5w11</LM>
 </a-connectors.rf>

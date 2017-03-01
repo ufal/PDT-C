@@ -1017,6 +1017,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-078-p2s4w13</LM>
 <LM>a#a-ln95049-078-p2s4w11</LM>
@@ -1962,6 +1963,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-078-p2s6w22</LM>
 </a-connectors.rf>

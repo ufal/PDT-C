@@ -1258,6 +1258,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-084-p2s4w4</LM>
 </t-connectors.rf>

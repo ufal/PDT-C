@@ -2063,6 +2063,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-95-p3s4w3</LM>
 </t-connectors.rf>
@@ -2099,6 +2100,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-95-p3s4w1</LM>
 </a-connectors.rf>
