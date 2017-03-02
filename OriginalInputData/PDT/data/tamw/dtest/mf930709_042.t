@@ -353,6 +353,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>wrongTR? nemelo by "mj. znameho Fernetu" byt PAR?</discourse_comment>
 <children>
 <LM id="t-mf930709-042-p2s1Bw12">
 <a>

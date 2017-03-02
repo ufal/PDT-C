@@ -2228,6 +2228,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary vztah otázka_odpověď</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -9718,6 +9719,8 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>11</deepord>
+<discourse_comment>konektorem jsou i výrazy
+na jedné straně, na druhé straně</discourse_comment>
 <children>
 <LM id="t-ln94200-127-p13s1w3">
 <a>
@@ -17600,6 +17603,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>lze interpretovat i jako
+připojení pouhého NP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-127-p21s5w10</LM>
@@ -23130,6 +23135,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>mezi 86 a 87 je
+slabý vztah CORR, 
+není uzel pro negaci, necháno být</discourse_comment>
 <val_frame.rf>v#v-w1339f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-127-p29s2w2">
@@ -25922,6 +25930,9 @@
 <t_lemma>ale</t_lemma>
 <functor>GRAD</functor>
 <deepord>16</deepord>
+<discourse_comment>wrongTR  -není GRAD, 
+ale ADVS (kdyby bylo
+mezi slovesy, bylo by CORR)</discourse_comment>
 <children>
 <LM id="t-ln94200-127-p32s1a2">
 <nodetype>atom</nodetype>
@@ -26555,6 +26566,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-127-p32s3w2">
@@ -30512,6 +30524,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>poněkud nejistá interpretace, 
+chybí druhá část konektoru</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-127-p39s2w5</LM>
@@ -32085,6 +32099,11 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není konektorem
+mezivýp. význ. vztahu,
+text propojuje anaforicky,
+lze ho vynechat
+</discourse_comment>
 </LM>
 <LM id="t-ln94200-127-p41s2w3">
 <a>
@@ -32787,6 +32806,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>nejistota o rozsahu Arg1</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-127-p41s4w3</LM>
@@ -34600,6 +34620,9 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>exempl</secondary_NP_type>
+<discourse_comment>nejsem si jistá, 
+není-li to spíš mezi 
+dvěma NP</discourse_comment>
 </LM>
 <LM id="t-ln94200-127-p43s4w4">
 <a>
@@ -35954,6 +35977,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94200-127-p44s1w7">
 <a>
@@ -38223,6 +38247,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<comment>zároven přítomen 
+PRECED vztah</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-127-p46s2w17</LM>

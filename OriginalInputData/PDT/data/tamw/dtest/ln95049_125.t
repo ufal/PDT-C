@@ -7142,6 +7142,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-ln95049-125-p7s1w3">
@@ -11104,6 +11105,8 @@
 <tfa>c</tfa>
 <deepord>16</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>Vyplývání (vyvození výsledků)
+free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95049-125-p9s6w19">
 <a>

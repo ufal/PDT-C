@@ -1628,6 +1628,8 @@
 </quot>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>součást konektoru 
+na druhé straně</discourse_comment>
 <children>
 <LM id="t-mf920922-085-p2s5w9">
 <a>
@@ -2673,6 +2675,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>konektor rhem dokonce</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-085-p2s8w6</LM>

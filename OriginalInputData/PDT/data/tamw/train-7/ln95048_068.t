@@ -2711,6 +2711,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+<discourse_comment>wrongTR, není AIM</discourse_comment>
 <val_frame.rf>v#v-w8756f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-068-p2s14a0">

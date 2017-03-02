@@ -94,6 +94,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>APPS</functor>
 <deepord>3</deepord>
+<discourse_comment>wrongTR? nema byt toto rozsegmentovano do dvou stromu?</discourse_comment>
 <children>
 <LM id="t-ln94205-96-p2s1w1">
 <a>
@@ -5290,6 +5291,7 @@
 <t_lemma>či</t_lemma>
 <functor>CONJ</functor>
 <deepord>2</deepord>
+<discourse_comment>wrongTR? proc není znacena parenteze?</discourse_comment>
 <children>
 <LM id="t-ln94205-96-p5s4w7">
 <a>
@@ -5335,6 +5337,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR? proc neni znacena parenteze?</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94205-96-p4s2w20</target_node.rf>
@@ -5507,6 +5510,7 @@
 <t_lemma>či</t_lemma>
 <functor>CONJ</functor>
 <deepord>18</deepord>
+<discourse_comment>wrongTR? proc neni znacena parenteze?</discourse_comment>
 <children>
 <LM id="t-ln94205-96-p5s4a0">
 <a>
@@ -5580,6 +5584,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>20</deepord>
+<discourse_comment>wrongTR? proc neni znacena parenteze?</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94205-96-p5s1w25</target_node.rf>

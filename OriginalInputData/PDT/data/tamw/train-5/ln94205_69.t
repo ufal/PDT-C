@@ -3739,6 +3739,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w7344f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-69-p4s3w10">
@@ -3910,6 +3911,7 @@
 <t_lemma>#Dash</t_lemma>
 <functor>CONJ</functor>
 <deepord>25</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94205-69-p4s4w2">
 <a>
@@ -4596,6 +4598,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>slabší reason,
+přeformulovatelná
+"vzhledem k tomu, že"</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-69-p4s6w4</LM>

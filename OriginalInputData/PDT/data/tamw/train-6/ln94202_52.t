@@ -1622,6 +1622,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w661f2</val_frame.rf>
 <children>
 <LM id="t-ln94202-52-p3s3w6">

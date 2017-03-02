@@ -1713,6 +1713,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
+<discourse_comment>nejistota, zda se jedná
+o vztah VP  -neanotováno</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-071-p2s4a2">
@@ -2749,6 +2751,7 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>exempl</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95048-071-p2s7Bw1">
 <a>
@@ -12420,6 +12423,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>12</deepord>
+<discourse_comment>druhy argument je NP</discourse_comment>
 </LM>
 <LM id="t-ln95048-071-p5s6a2">
 <nodetype>complex</nodetype>

@@ -3048,6 +3048,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim  -MANN 
+(timto zpusobem)</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-031-p11s1w3">
 <a>
@@ -5866,6 +5868,7 @@
 <tfa>c</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-031-p17s2w4">
 <a>
@@ -10977,6 +10980,7 @@
 <t_lemma>#Dash</t_lemma>
 <functor>APPS</functor>
 <deepord>6</deepord>
+<discourse_comment>specifikace NP</discourse_comment>
 <children>
 <LM id="t-cmpr9410-031-p26s4w1">
 <a>

@@ -4446,6 +4446,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930709-119-p8s1w1">
 <a>
@@ -5722,6 +5723,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930709-119-p9s1w5">
 <a>
@@ -7205,6 +7207,7 @@
 </quot>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>nezda se mi jako diskurzni konektor</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -7251,6 +7254,7 @@
 </quot>
 <tfa>t</tfa>
 <deepord>13</deepord>
+<discourse_comment>nezda se mi jako diskurzni konektor</discourse_comment>
 </LM>
 </children>
 </LM>

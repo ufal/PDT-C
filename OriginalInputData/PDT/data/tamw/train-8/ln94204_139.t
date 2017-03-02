@@ -5904,6 +5904,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>arg1 je infinitivní fráze</discourse_comment>
 </LM>
 <LM id="t-ln94204-139-p6s1w1">
 <a>

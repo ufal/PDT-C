@@ -540,6 +540,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC, 
+ale MANN</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94211-4-p2s2w3</target_node.rf>
@@ -1394,6 +1396,10 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>11</deepord>
+<discourse_comment>wrongTR? nema "a" viset na "používat"? a na "a" 
+by viselo "instalační médium pro rozsáhlé programy",
+"především" a "pro záznam multimediálních
+pořadů"?</discourse_comment>
 <children>
 <LM id="t-ln94211-4-p3s4w12">
 <a>
@@ -2047,6 +2053,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>takže tu nemá
+dost silný reason
+význam, anotováno
+jen exempl</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-4-p4s2w11</LM>

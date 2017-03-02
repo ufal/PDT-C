@@ -1652,6 +1652,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>mohlo by byt i explicat?</discourse_comment>
 <val_frame.rf>v#v-w3569f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-35-p3s2w6">

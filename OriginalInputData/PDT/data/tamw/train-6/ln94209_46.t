@@ -8137,6 +8137,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>oslabeno casticemi  -snad, prave</discourse_comment>
 <val_frame.rf>v#v-w4827f2</val_frame.rf>
 <children>
 <LM id="t-ln94209-46-p7s1w6">

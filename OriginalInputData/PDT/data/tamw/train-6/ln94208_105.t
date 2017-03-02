@@ -3112,6 +3112,8 @@
 </quot>
 <tfa>t</tfa>
 <deepord>15</deepord>
+<discourse_comment>neanotuji, spatny tag, je to 
+uvozovaci prazdna castice</discourse_comment>
 </LM>
 <LM id="t-ln94208-105-p4s2a2">
 <a>
@@ -9494,6 +9496,7 @@
 <tfa>f</tfa>
 <deepord>9</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 <children>
 <LM id="t-ln94208-105-p7s2w16">
 <a>
@@ -9672,6 +9675,9 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>divna reason, oslabena 
+modalitnimi casticemi 
+ve vete 35</discourse_comment>
 <val_frame.rf>v#v-w2708f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-105-p7s3w16">

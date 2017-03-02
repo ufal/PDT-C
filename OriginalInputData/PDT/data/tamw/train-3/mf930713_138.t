@@ -1884,6 +1884,7 @@
 <start_range>0</start_range>
 <target_range>2</target_range>
 <discourse_type>gener</discourse_type>
+<comment>možná taky one_arg u totiž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-138-p4s1w10</LM>
@@ -3864,6 +3865,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrong_TR segmentace vět</discourse_comment>
 <val_frame.rf>v#v-w3802f1</val_frame.rf>
 <children>
 <LM id="t-mf930713-138-p5s2w22">

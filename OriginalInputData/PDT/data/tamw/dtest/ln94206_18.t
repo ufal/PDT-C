@@ -2306,6 +2306,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>implicitní složka 
+argumentu (zatím tam řád není),
+šlo by interpretovat
+i jako false_reason,
+nakonec necháno takto</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-18-p3s3w5</LM>

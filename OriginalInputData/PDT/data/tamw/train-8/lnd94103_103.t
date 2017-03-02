@@ -1033,6 +1033,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>není PREC,
+wrongTR</discourse_comment>
 </LM>
 <LM id="t-lnd94103-103-p1s3w17">
 <a>

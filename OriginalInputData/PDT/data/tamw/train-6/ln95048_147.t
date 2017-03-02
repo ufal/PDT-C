@@ -5110,6 +5110,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>secondary "s argumentací, že"</discourse_comment>
 <children>
 <LM id="t-ln95048-147-p7s2w15">
 <a>

@@ -3860,6 +3860,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>confr</discourse_type>
+<comment>arg1 má implicitní složku</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-075-p5s3w2</LM>

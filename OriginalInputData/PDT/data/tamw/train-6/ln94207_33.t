@@ -2060,6 +2060,7 @@
 <t_lemma>a</t_lemma>
 <functor>CSQ</functor>
 <deepord>20</deepord>
+<discourse_comment>wrongTR  -conj</discourse_comment>
 <children>
 <LM id="t-ln94207-33-p2s5a0">
 <nodetype>qcomplex</nodetype>
@@ -2305,6 +2306,7 @@
 <t_lemma>tak</t_lemma>
 <functor>CM</functor>
 <deepord>21</deepord>
+<discourse_comment>wrongTR  -mann</discourse_comment>
 </LM>
 <LM id="t-ln94207-33-p2s5w28">
 <a>

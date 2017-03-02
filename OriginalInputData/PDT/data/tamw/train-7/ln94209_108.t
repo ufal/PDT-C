@@ -3630,6 +3630,7 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-108-p4s6a4">
 <nodetype>complex</nodetype>
@@ -5704,6 +5705,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>může být interpretováno
+i jako backward
+v target range</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-108-p6s4w1</LM>
@@ -6447,6 +6451,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
+<discourse_comment>wrongTR?
+nemělo by být značeno 
+jako APPS  -nebezpečná
+slabost : popis slabosti?</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94209-108-p6s3w12</target_node.rf>

@@ -2671,6 +2671,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>první argument
+je NP</discourse_comment>
 </LM>
 <LM id="t-ln95047-002-p4s1w7">
 <a>
@@ -3452,6 +3454,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>wrongTR?, proč
+tu není dokopírované
+sloveso?</discourse_comment>
 <val_frame.rf>v#v-w9273f1</val_frame.rf>
 <children>
 <LM id="t-ln95047-002-p5s1w5">
@@ -3464,6 +3469,9 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>nelze anotovat,
+není dokopírované
+sloveso</discourse_comment>
 </LM>
 <LM id="t-ln95047-002-p5s1w1">
 <a>

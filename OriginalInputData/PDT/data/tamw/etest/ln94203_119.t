@@ -3014,6 +3014,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>nevím, co ta věta znamená</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-119-p2s9w16</LM>

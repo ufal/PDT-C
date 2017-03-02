@@ -2041,6 +2041,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem ani</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-35-p4s7w1</LM>
@@ -3082,6 +3083,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary jinak</discourse_comment>
 </LM>
 <LM id="t-ln94203-35-p4s12w6">
 <a>
@@ -4665,6 +4667,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>5</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-ln94203-35-p5s1w12">
@@ -5624,6 +5627,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>někde mezi EXPLICAT
+a REASON</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-35-p5s5w7</LM>

@@ -1540,6 +1540,7 @@
 <functor>CONJ</functor>
 <is_member>1</is_member>
 <deepord>19</deepord>
+<discourse_comment>dostatečná anotace na TR, není třeba kreslit diskurzní šipku</discourse_comment>
 <children>
 <LM id="t-ln95048-061-p4s3w1">
 <a>
@@ -4393,6 +4394,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-061-p6s1w2">
 <a>
@@ -6322,6 +6324,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-061-p7s6a0">
 <nodetype>complex</nodetype>

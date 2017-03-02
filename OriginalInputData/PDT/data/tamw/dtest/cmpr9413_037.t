@@ -133,6 +133,7 @@
 <src>pdit10</src>
 </LM>
 </discourse>
+<discourse_comment>wrong TR  -nektere hvezdicky na koncich radku jsou konektory radku nasledujiciho</discourse_comment>
 <children>
 <LM id="t-cmpr9413-037-p3s1Aw6">
 <a>

@@ -27,6 +27,10 @@
 <tfa>t</tfa>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR,
+špatná segmentace
+nadpis+místo+autor
+vše v jednom</discourse_comment>
 <children>
 <LM id="t-mf920922-098-p1s1w1">
 <a>

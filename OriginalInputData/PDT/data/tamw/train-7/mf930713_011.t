@@ -662,6 +662,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>24</deepord>
+<discourse_comment>wrongTR? nema byt doplnene "dokazat"? nebo nema
+na (nedoplnenem) "dokazat" viset comma a na ni 
+"potěšit" a "uspokojit"?</discourse_comment>
 <val_frame.rf>v#v-w7324f1</val_frame.rf>
 <children>
 <LM id="t-mf930713-011-p2s1Bw24">
@@ -673,6 +676,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>23</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -budto to
+neni diskurzni vztah, nebo je stejne CONJ anotovana
+na TR.</discourse_comment>
 </LM>
 <LM id="t-mf930713-011-p2s1Bw26">
 <a>
@@ -4210,6 +4216,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>13</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
+s anotaci DISJ na TR</discourse_comment>
 </LM>
 <LM id="t-mf930713-011-p2s10w15">
 <a>

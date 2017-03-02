@@ -3987,6 +3987,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>neznacim, jedna se o 
+"timto zpusobem"  -MANN</discourse_comment>
 </LM>
 <LM id="t-ln94202-72-p4s5w1">
 <a>

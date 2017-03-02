@@ -456,6 +456,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>smíšený vztah</discourse_comment>
 </LM>
 <LM id="t-ln94205-42-p2s2w5">
 <a>

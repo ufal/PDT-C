@@ -3380,6 +3380,8 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>gener</discourse_type>
+<comment>rétorická gener,
+f_gener nemáme</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-043-p8s3w2</LM>
@@ -6708,6 +6710,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-043-p11s2w1">
@@ -7087,6 +7090,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<comment>poměrně nezřetelný
+vztah</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-043-p12s2w1</LM>
@@ -13330,6 +13335,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR?
+tohle tam fakt bylo?</discourse_comment>
 <children>
 <LM id="t-cmpr9410-043-p19s1w2">
 <a>
@@ -13373,6 +13380,7 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>nadpis grafu</discourse_comment>
 <children>
 <LM id="t-cmpr9410-043-p20s1Aw3">
 <a>

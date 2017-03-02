@@ -3408,6 +3408,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>adept na seznam  -
+9 hypertéma, 
+5 polozek v 10</discourse_comment>
 <children>
 <LM id="t-mf920922-059-p4s1w2">
 <a>

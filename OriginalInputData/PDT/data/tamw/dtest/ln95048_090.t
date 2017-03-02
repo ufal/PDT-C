@@ -4691,6 +4691,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>presupozice  -kdyby se našel jiný kandidát</discourse_comment>
 </LM>
 <LM id="t-ln95048-090-p2s13w7">
 <a>

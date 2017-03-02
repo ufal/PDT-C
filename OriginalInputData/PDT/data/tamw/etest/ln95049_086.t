@@ -3100,6 +3100,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>9</deepord>
+<discourse_comment>neznacim, vztah 
+CONJ jiz zaznacen</discourse_comment>
 </LM>
 <LM id="t-ln95049-086-p3s4w11">
 <a>

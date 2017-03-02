@@ -910,6 +910,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
+<discourse_comment>wrongTR? proč se ukazuje i na i když?
+Neni zde spatny funktor?</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -8097,6 +8099,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-ln94210-74-p7s3Aa1">

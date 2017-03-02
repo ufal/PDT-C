@@ -213,6 +213,10 @@
 </a-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR,
+není COND, ale
+nějaký
+časový vztah</discourse_comment>
 <val_frame.rf>v#v-w6270f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-141-p2s1w3">
@@ -996,6 +1000,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <children>
 <LM id="t-ln94200-141-p3s2w3">
 <a>

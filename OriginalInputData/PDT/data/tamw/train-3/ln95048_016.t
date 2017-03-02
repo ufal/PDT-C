@@ -5842,6 +5842,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>13</deepord>
+<discourse_comment>secondary kvůli němuž</discourse_comment>
 <coref_gram.rf>
 <LM>t-ln95048-016-p5s2w13</LM>
 </coref_gram.rf>

@@ -5920,6 +5920,8 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>neznacim, jedna se 
+o vztah mezi NP a VP</discourse_comment>
 </LM>
 <LM id="t-ln95047-070-p6s2w6">
 <a>
@@ -7372,6 +7374,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim, clen dvojice 
+jestlize  -tak</discourse_comment>
 </LM>
 <LM id="t-ln95047-070-p8s2w2">
 <a>

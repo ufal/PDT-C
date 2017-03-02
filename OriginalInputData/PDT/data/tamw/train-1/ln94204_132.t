@@ -846,6 +846,12 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>lze interpretovat jako
+koreferenční i diskurzní,
+lze ale nahradit konektorem
+tedy, stojí na začátku věty,
+anotátor TR ho pojímal jako 
+PREC</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94204-132-p2s2w13</target_node.rf>

@@ -2740,6 +2740,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC,
+ale MANN,
+wrongTR</discourse_comment>
 </LM>
 <LM id="t-ln94204-103-p4s3a0">
 <nodetype>qcomplex</nodetype>

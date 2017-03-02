@@ -3831,6 +3831,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary  -novy vztah?</discourse_comment>
 <children>
 <LM id="t-mf920922-129-p5s2w1">
 <a>
@@ -5479,6 +5480,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>35</deepord>
+<discourse_comment>wrongTR? nema byt t-lemma velkymi pismeny?</discourse_comment>
 </LM>
 </children>
 </LM>

@@ -10970,6 +10970,12 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+<discourse_comment>wrongTR,
+špatná segmentace,
+vypadá to, že tu 
+kus textu chybí,
+tento a následující
+strom patří k sobě</discourse_comment>
 <val_frame.rf>v#v-w3468f3</val_frame.rf>
 <children>
 <LM id="t-ln95047-142-p11s3w2">
@@ -11975,6 +11981,7 @@
 <t_lemma>či</t_lemma>
 <functor>CONJ</functor>
 <deepord>31</deepord>
+<discourse_comment>mozna wrongTR</discourse_comment>
 <children>
 <LM id="t-ln95047-142-p12s3w2">
 <a>
@@ -18973,6 +18980,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<comment>časový význam slabý</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-142-p19s2w4</LM>

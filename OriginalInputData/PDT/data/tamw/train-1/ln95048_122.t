@@ -911,6 +911,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary druhá námitka</discourse_comment>
 <children>
 <LM id="t-ln95048-122-p2s4w1">
 <a>

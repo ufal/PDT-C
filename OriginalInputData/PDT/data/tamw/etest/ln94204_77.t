@@ -2470,6 +2470,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w3765f2</val_frame.rf>
 <children>
 <LM id="t-ln94204-77-p4s3a1">

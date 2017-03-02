@@ -778,6 +778,10 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR, 
+chybná segmentace,
+mají být
+dva stromy</discourse_comment>
 <children>
 <LM id="t-lnd94103-031-p1s3w2">
 <a>
@@ -2413,6 +2417,9 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR,
+proč je 11 a 12
+anotováno jinak?</discourse_comment>
 <children>
 <LM id="t-lnd94103-031-p1s9w1">
 <a>
@@ -3241,6 +3248,11 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>vztah otázky
+a odpovědi  -proč?
+protože, anotovat na
+předchozí větu nedává
+smysl</discourse_comment>
 </LM>
 <LM id="t-lnd94103-031-p1s11a0">
 <nodetype>atom</nodetype>
@@ -5466,6 +5478,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w8207f1</val_frame.rf>
 <children>
 <LM id="t-lnd94103-031-p1s18w14">

@@ -634,6 +634,8 @@
 <t_lemma>takže</t_lemma>
 <functor>CSQ</functor>
 <deepord>16</deepord>
+<discourse_comment>mluvene uziti teto spojky, 
+neco mezi reason a gener (az conj)</discourse_comment>
 <children>
 <LM id="t-ln94210-50-p2s2w10">
 <a>

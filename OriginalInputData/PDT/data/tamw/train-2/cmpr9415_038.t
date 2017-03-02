@@ -3618,6 +3618,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>19</deepord>
+<discourse_comment>secondary několik dní předtím</discourse_comment>
 </LM>
 <LM id="t-cmpr9415-038-p8s2w36">
 <a>
@@ -7558,6 +7559,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w661f2</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-038-p12s3w25">

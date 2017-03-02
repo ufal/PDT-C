@@ -2328,6 +2328,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>možná one_arg (zdurazneni)</discourse_comment>
 </LM>
 <LM id="t-ln94207-15-p2s12a1">
 <nodetype>list</nodetype>

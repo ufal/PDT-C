@@ -4584,6 +4584,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>konektor+secondary</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln95047-064-p4s1w22</LM>
@@ -10623,6 +10624,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>je třeba argument přeformulovat 
+ -modalita, negace</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln95047-064-p6s5w7</LM>
@@ -11055,6 +11058,8 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>lze vnímat
+jako SPEC NP "co"</discourse_comment>
 <val_frame.rf>v#v-w735f3</val_frame.rf>
 <children>
 <LM id="t-ln95047-064-p6s5w19">
@@ -14193,6 +14198,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>5</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln95047-064-p7s2w43</target_node.rf>

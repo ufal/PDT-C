@@ -1644,6 +1644,10 @@
 </LM>
 </quot>
 <deepord>25</deepord>
+<discourse_comment>divna forma, ale EXPLICAT 
+je dle meho nazoru nejblize
+(vysvetleni, proc je to neumerne 
+vysoke)</discourse_comment>
 <children>
 <LM id="t-mf920922-027-p2s4w28">
 <a>
@@ -5286,6 +5290,9 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>totiž zde může znamenat
+i něco jako "jak možná nevíte",
+pak by se jednalo o one_arg </discourse_comment>
 <val_frame.rf>v#v-w9504f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-027-p3s3w9">
@@ -6743,6 +6750,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-mf920922-027-p3s6Aw3">
 <a>

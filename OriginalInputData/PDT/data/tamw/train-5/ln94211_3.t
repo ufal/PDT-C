@@ -4556,6 +4556,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>Neznacim, neni diskurzni 
+vztah (anafora).</discourse_comment>
 </LM>
 <LM id="t-ln94211-3-p5s2a0">
 <nodetype>qcomplex</nodetype>
@@ -10448,6 +10450,10 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>myslim, ze to odkazuje spis 
+na NP (jako Tezaurus, proste 
+nazvy tech funkci), proto 
+neanotuji neustaleny secondary</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-ln94211-3-p6s9w2">
@@ -12661,6 +12667,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>Neznacim, dvojice -li  -pak.</discourse_comment>
 </LM>
 <LM id="t-ln94211-3-p7s7w1">
 <a>
@@ -16996,6 +17003,7 @@
 <tfa>f</tfa>
 <deepord>7</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>negativní vztah</discourse_comment>
 <children>
 <LM id="t-ln94211-3-p10s1a4">
 <nodetype>qcomplex</nodetype>

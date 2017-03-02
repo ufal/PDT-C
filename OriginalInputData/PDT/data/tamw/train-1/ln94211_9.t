@@ -9137,6 +9137,11 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg;
+ale mohlo by byt GENER,
+nemam zde ale 100% jistotu, 
+tak davam one_arg [protoze to 
+v otazkach casto davame]</discourse_comment>
 </LM>
 <LM id="t-ln94211-9-p11s1w1">
 <a>
@@ -13308,6 +13313,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
+<discourse_comment>wrongTR: chybí uzly pro
+pohyblivý úrokový sazba,
+jsou špatně připojené
+o dva stromy dál (40)</discourse_comment>
 <val_frame.rf>v#v-w4827f2</val_frame.rf>
 <children>
 <LM id="t-ln94211-9-p15s3w14">
@@ -13454,6 +13463,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>22</deepord>
+<discourse_comment>wrongTR: chybějící uzly
+z (38) špatně připojené zde</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94211-9-p13s5w26</target_node.rf>
@@ -13683,6 +13694,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>vztah s presupozicí,
+u tohoto typu ale
+podle mého normální</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-9-p15s5w2</LM>
@@ -18304,6 +18318,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>wrongTR: "na vysvětlenou"
+je v koordinaci s "pro
+pochopení"</discourse_comment>
 <val_frame.rf>v#v-w1757f1</val_frame.rf>
 <children>
 <LM id="t-ln94211-9-p22s1w3">
@@ -18316,6 +18333,7 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC</discourse_comment>
 </LM>
 <LM id="t-ln94211-9-p22s1w2">
 <a>
@@ -18877,6 +18895,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94211-9-p23s1w1">
 <a>
@@ -22599,6 +22618,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94211-9-p30s1a0">
 <nodetype>complex</nodetype>

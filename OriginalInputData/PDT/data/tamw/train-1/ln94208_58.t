@@ -3942,6 +3942,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>adept na seznam,
+hypertéma zde,
+možné položky 15
+a 24</discourse_comment>
 <val_frame.rf>v#v-w1855f2</val_frame.rf>
 <children>
 <LM id="t-ln94208-58-p6s1w1">
@@ -7758,6 +7762,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<comment>sporné, zda nejde
+jen o vztah NP a VP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-58-p8s2w17</LM>
@@ -7998,6 +8004,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>vztah k infinitivu podat</discourse_comment>
 </LM>
 <LM id="t-ln94208-58-p8s3w14">
 <a>
@@ -8486,6 +8493,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w8207f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-58-p9s2w7">

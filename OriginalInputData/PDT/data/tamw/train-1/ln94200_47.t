@@ -520,6 +520,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>20</deepord>
+<discourse_comment>není PREC, ale
+MANN, wrongTR</discourse_comment>
 </LM>
 <LM id="t-ln94200-47-p2s1Bw31">
 <a>
@@ -1071,6 +1073,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>patří ke konektoru
+v tomto stromě,
+CONJ asi nejpřesnější
+pojmenování sémantiky</discourse_comment>
 </LM>
 <LM id="t-ln94200-47-p3s2w19">
 <a>

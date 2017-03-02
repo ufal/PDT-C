@@ -51,6 +51,10 @@
 <tfa>f</tfa>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>adept na seznam?,
+soubor je složený
+z odpovědí na 
+anketní otázku</discourse_comment>
 <val_frame.rf>v#v-w6492f4</val_frame.rf>
 <children>
 <LM id="t-mf930713-066-p1s1w3">
@@ -2559,6 +2563,9 @@
 </a-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR, není
+dokopírovaná
+řídící věta</discourse_comment>
 <val_frame.rf>v#v-w9515f1</val_frame.rf>
 <children>
 <LM id="t-mf930713-066-p9s2w4">

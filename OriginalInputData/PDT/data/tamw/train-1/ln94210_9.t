@@ -2723,6 +2723,8 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR?,
+proč tu není APPS?</discourse_comment>
 <val_frame.rf>v#v-w4452f1</val_frame.rf>
 <children>
 <LM id="t-ln94210-9-p6s1w2">

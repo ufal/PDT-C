@@ -27,6 +27,7 @@
 <functor>APPS</functor>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>metatext</discourse_comment>
 <children>
 <LM id="t-cmpr9410-028-p2s1w1">
 <a>
@@ -9298,6 +9299,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>9</deepord>
+<discourse_comment>neznacim, byl by 
+stejny vztah, jaky uz je 
+zaznacen (conj)</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-028-p18s2w12">
 <a>
@@ -9308,6 +9312,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>neznacim, byl by 
+stejny vztah, jaky uz je 
+zaznacen (conj)</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-028-p18s2w34">
 <a>
@@ -17939,6 +17946,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-028-p31s4a2">
@@ -19566,6 +19574,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-028-p33s5a2">
@@ -31938,6 +31947,10 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>mohlo by byt vnimano i 
+jako GRAD, ale pro 
+me to neni dostatecne 
+gradujici</discourse_comment>
 <val_frame.rf>v#v-w1855f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-028-p49s1w18">

@@ -4588,6 +4588,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>dá se interpretovat
+jako EXPLICAT, ale úplně
+přesné to není</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-153-p4s4w13</LM>
@@ -10252,6 +10255,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>adept na hypertéma,
+adept na seznam
+v rámci 1 věty  -33</discourse_comment>
 <children>
 <LM id="t-ln94200-153-p6s3w5">
 <a>
@@ -10967,6 +10973,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-153-p6s6w4</LM>

@@ -2191,6 +2191,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>6</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94208-135-p4s1w9">
 <a>
@@ -2882,6 +2883,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>6</deepord>
+<discourse_comment>anaforické tím,
+není PREC,
+wrongTR</discourse_comment>
 </LM>
 <LM id="t-ln94208-135-p4s2a0">
 <nodetype>complex</nodetype>

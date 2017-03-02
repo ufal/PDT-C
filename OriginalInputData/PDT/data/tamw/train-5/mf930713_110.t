@@ -1523,6 +1523,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>parcelace</discourse_comment>
 <val_frame.rf>v#v-w5071f1</val_frame.rf>
 <children>
 <LM id="t-mf930713-110-p2s8a1">
@@ -8793,6 +8794,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel SYNCHR dokud</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-110-p2s29w1</LM>

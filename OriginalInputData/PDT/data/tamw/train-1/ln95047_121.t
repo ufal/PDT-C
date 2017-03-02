@@ -277,6 +277,12 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>9</deepord>
+<discourse_comment>wrongTR,
+šéf činohry ND
+a šéf opery ND,
+ne šéf činohry, 
+šéf opery a šéf
+ND</discourse_comment>
 <children>
 <LM id="t-ln95047-121-p2s1Bw7">
 <a>
@@ -2406,6 +2412,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>netypické užití
+nadále</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-121-p2s8w14</LM>

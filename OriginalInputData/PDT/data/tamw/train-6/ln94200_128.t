@@ -2649,6 +2649,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>17</deepord>
+<discourse_comment>CM, ne PREC</discourse_comment>
 </LM>
 <LM id="t-ln94200-128-p4s2a3">
 <nodetype>atom</nodetype>
@@ -4570,6 +4571,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR,
+špatná segmentace</discourse_comment>
 </LM>
 <LM id="t-ln94200-128-p5s2w1">
 <a>

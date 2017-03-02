@@ -436,6 +436,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w2012f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-120-p2s2w5">
@@ -1520,6 +1521,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-120-p4s1a0">
 <nodetype>complex</nodetype>
@@ -6559,6 +6561,8 @@
 <t_lemma>a</t_lemma>
 <functor>APPS</functor>
 <deepord>8</deepord>
+<discourse_comment>vztah spec
+NP a VP</discourse_comment>
 <children>
 <LM id="t-mf920925-120-p13s1w2">
 <a>
@@ -7385,6 +7389,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>9</deepord>
+<discourse_comment>wrongTR? nema tento uzel odkazovat take k "by"?</discourse_comment>
 <val_frame.rf>v#v-w1917f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-120-p13s4w13">
@@ -7983,6 +7988,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-120-p14s3a0">
 <nodetype>complex</nodetype>
@@ -10354,6 +10360,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>sporná anotace,
+wrongTR? způsobová věta?</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-120-p19s1w4</LM>

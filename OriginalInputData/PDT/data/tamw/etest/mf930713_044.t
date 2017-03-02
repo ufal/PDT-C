@@ -1554,6 +1554,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930713-044-p4s1w6">
 <a>
@@ -6530,6 +6531,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930713-044-p8s1w15">
 <a>
@@ -11114,6 +11116,9 @@
 </quot>
 <tfa>t</tfa>
 <deepord>27</deepord>
+<discourse_comment>Neznacim, jedna se o 
+clena dvojice
+"kdyz  -tak".</discourse_comment>
 </LM>
 <LM id="t-mf930713-044-p11s2w34">
 <a>
@@ -11648,6 +11653,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930713-044-p12s1w5">
 <a>
@@ -14640,6 +14646,7 @@
 </quot>
 <is_dsp_root>1</is_dsp_root>
 <deepord>8</deepord>
+<discourse_comment>wrong_TR</discourse_comment>
 <children>
 <LM id="t-mf930713-044-p17s4w2">
 <a>
@@ -22845,6 +22852,8 @@
 </quot>
 <tfa>t</tfa>
 <deepord>20</deepord>
+<discourse_comment>Neznacim, clen dvojice 
+"kdyz  -tak".</discourse_comment>
 </LM>
 <LM id="t-mf930713-044-p23s4w29">
 <a>
@@ -26237,6 +26246,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930713-044-p28s1a6">
 <nodetype>qcomplex</nodetype>
@@ -27519,6 +27529,8 @@
 </quot>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>Neznacim, clen dvojice 
+"kdyz  -tak".</discourse_comment>
 </LM>
 <LM id="t-mf930713-044-p29s3w8">
 <a>
@@ -27635,6 +27647,8 @@
 </quot>
 <tfa>t</tfa>
 <deepord>9</deepord>
+<discourse_comment>Neznacim, clen dvojice 
+"kdyz  -tak".</discourse_comment>
 </LM>
 <LM id="t-mf930713-044-p29s3w15">
 <a>
@@ -34451,6 +34465,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930713-044-p36s1w4">
 <a>
@@ -36813,6 +36828,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>wrong_TR</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-mf930713-044-p39s4w2">

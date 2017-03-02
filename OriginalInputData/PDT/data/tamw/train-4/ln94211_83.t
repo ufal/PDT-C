@@ -464,6 +464,7 @@
 <tfa>f</tfa>
 <deepord>3</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 <children>
 <LM id="t-ln94211-83-p1s3w5">
 <a>

@@ -1289,6 +1289,12 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>silná časová složka významu
+
+wrongTR? nemělo by být v druhé
+větvi dokopírované sloveso? visí VV 
+dobře na kdy?
+</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-125-p2s4w7</LM>
@@ -5972,6 +5978,8 @@
 <t_lemma>však</t_lemma>
 <functor>ADVS</functor>
 <deepord>28</deepord>
+<discourse_comment>stylistiky hodně
+neobratné vyjádření</discourse_comment>
 <children>
 <LM id="t-ln94200-125-p4s2w33">
 <a>
@@ -6422,6 +6430,9 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR
+měla by být elipsa 
+řídící klauze</discourse_comment>
 <children>
 <LM id="t-ln94200-125-p5s2w1">
 <a>
@@ -7050,6 +7061,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>paragraph
+6-17</discourse_comment>
 </LM>
 <LM id="t-ln94200-125-p6s1w2">
 <a>
@@ -7824,6 +7837,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>stylisticky velmi neobratné</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p6s2w4</LM>
@@ -8493,6 +8507,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>v konektoru je v tomto
+případě i hodně hodnocení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p6s5w1</LM>
@@ -11924,6 +11940,8 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>dost nejasný vztah, ironie?
+</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p8s4w3</LM>
@@ -12153,6 +12171,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>nepříliš jasné</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p8s3w1</LM>

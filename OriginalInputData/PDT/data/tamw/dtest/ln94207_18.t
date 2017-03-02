@@ -4908,6 +4908,10 @@
 <functor>APPS</functor>
 <is_parenthesis>1</is_parenthesis>
 <deepord>8</deepord>
+<discourse_comment>wrong_TR? Nemá být tady 
+nahoře "dostávat se" a 
+APPS být mezi "říci" a 
+"pokoušet se"?</discourse_comment>
 <children>
 <LM id="t-ln94207-18-p5s1w4">
 <a>
@@ -4918,6 +4922,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94207-18-p5s1w2">
 <a>

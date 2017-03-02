@@ -2301,6 +2301,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>tohle rozhodně
+není normální
+přívlastková
+věta</discourse_comment>
 <val_frame.rf>v#v-w349f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-047-p7s4w12">
@@ -8644,6 +8648,10 @@
 <t_lemma>takže</t_lemma>
 <functor>CSQ</functor>
 <deepord>8</deepord>
+<discourse_comment>tohle není 
+čistá reason,
+má něco 
+z equiv</discourse_comment>
 <children>
 <LM id="t-cmpr9413-047-p28s3w1">
 <a>
@@ -9960,6 +9968,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>odkaz na tabulku,
+která ale v textu
+není</discourse_comment>
 <val_frame.rf>v#v-w7842f5</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-047-p30s4w2">
@@ -10322,6 +10333,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>opět odkaz
+na chybějící
+tabulku</discourse_comment>
 <val_frame.rf>v#v-w1058f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-047-p40s2a0">

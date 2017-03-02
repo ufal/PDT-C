@@ -339,6 +339,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_comment>neznacim, stejny vztah (conj) 
+zaznacen u "a"</discourse_comment>
 </LM>
 <LM id="t-ln94203-67-p2s2w9">
 <a>

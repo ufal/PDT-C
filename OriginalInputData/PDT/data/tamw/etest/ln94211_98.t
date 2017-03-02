@@ -10415,6 +10415,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w2500f2</val_frame.rf>
 <children>
 <LM id="t-ln94211-98-p3s25w4">
@@ -14489,6 +14490,7 @@
 <tfa>f</tfa>
 <deepord>9</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>negativní vztah</discourse_comment>
 <children>
 <LM id="t-ln94211-98-p3s39w17">
 <a>

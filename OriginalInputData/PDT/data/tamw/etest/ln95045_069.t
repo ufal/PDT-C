@@ -2300,6 +2300,9 @@
 </a-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR? nema to byt AIM?
+jinak by se to snad muselo preanotovat 
+diskurznim vztahem purp..</discourse_comment>
 <val_frame.rf>v#v-w2264f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-069-p3s1w16">

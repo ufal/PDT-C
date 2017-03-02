@@ -4305,6 +4305,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim  -MANN</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94206-73-p5s2w29</target_node.rf>
@@ -6876,6 +6877,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>20</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94206-73-p7s5w4">
 <a>

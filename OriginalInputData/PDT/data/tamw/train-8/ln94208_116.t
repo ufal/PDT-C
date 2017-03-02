@@ -2397,6 +2397,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR,
+není PREC, 
+ale ATT</discourse_comment>
 </LM>
 <LM id="t-ln94208-116-p5s3Aw1">
 <a>
@@ -2653,6 +2656,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>vztah otázky
+a odpovědi
+neanotujeme</discourse_comment>
 </LM>
 <LM id="t-ln94208-116-p6s1w2">
 <a>

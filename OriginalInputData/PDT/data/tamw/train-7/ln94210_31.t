@@ -38,6 +38,9 @@
 <tfa>f</tfa>
 <deepord>3</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>kolekce  -nebo taky ne? od vety 9 uz se mluvi o 
+necem jinem, nez je v nadpisu, ale k predchozimu
+textu je to pripojeno konektorem.</discourse_comment>
 <val_frame.rf>v#v-w3830f1</val_frame.rf>
 <children>
 <LM id="t-ln94210-31-p1s1w1">
@@ -1596,6 +1599,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94210-31-p3s3a0">
 <nodetype>qcomplex</nodetype>

@@ -3122,6 +3122,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>modifikuje konektor
+CAUS (proto, že)
+v tomto stromě</discourse_comment>
 </LM>
 <LM id="t-mf930709-134-p4s2w2">
 <a>
@@ -4571,6 +4574,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<comment>sporná anotace -
+vazba takový  -aby
+ukazuje spíš na 
+způsobovou větu,
+wrongTR?</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930709-134-p4s5w21</LM>

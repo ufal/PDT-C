@@ -3012,6 +3012,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>neznacim, conj stejne 
+jako u "a"</discourse_comment>
 </LM>
 <LM id="t-ln94202-90-p3s6w14">
 <a>
@@ -5127,6 +5129,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>15</deepord>
+<discourse_comment>neznacim  -stejny vztah 
+jiz naznacen vyse, conj</discourse_comment>
 </LM>
 <LM id="t-ln94202-90-p4s5w17">
 <a>

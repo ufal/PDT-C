@@ -6082,6 +6082,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>17</deepord>
+<discourse_comment>patří ke konektoru
+v této větě</discourse_comment>
 </LM>
 <LM id="t-ln95049-026-p5s3w22">
 <a>

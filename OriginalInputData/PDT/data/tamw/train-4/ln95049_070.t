@@ -1976,6 +1976,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel PRECED jakmile</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-070-p4s1w2</LM>
@@ -5474,6 +5475,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-ln95049-070-p7s1w31">

@@ -2500,6 +2500,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>
+"rovněž" lze vnímat
+i jako konektor 5-10 a 11-15</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-085-p4s1w1</LM>

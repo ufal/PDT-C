@@ -3099,6 +3099,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>28</deepord>
+<discourse_comment>wrongTR? nema tento uzel viset na uzlu "příběh"?</discourse_comment>
 </LM>
 </children>
 </LM>

@@ -2729,6 +2729,11 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>wrongTR, ovšem
+visí špatně  -
+je to už dcera
+být nebo coap
+uzlu</discourse_comment>
 </LM>
 <LM id="t-ln95047-049-p4s1w15">
 <a>

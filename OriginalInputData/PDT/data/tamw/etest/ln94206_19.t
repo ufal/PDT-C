@@ -2077,6 +2077,10 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg,
+první argument se 
+vyrozumívá z kontextu,
+ale nelze ho značit</discourse_comment>
 <coref_special>segm</coref_special>
 </LM>
 <LM id="t-ln94206-19-p4s1w6">

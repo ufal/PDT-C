@@ -3144,6 +3144,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<comment>second_rel SYNCHR zatimco</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-147-p4s4w15</LM>
@@ -3762,6 +3763,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<comment>lze pojímat i jako vztah 
+mezi NP, ale slovesa a 
+konektor snad anotaci
+ospravedlňují</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-147-p5s2w1</LM>

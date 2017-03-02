@@ -654,6 +654,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-42-p3s1w5">
 <a>
@@ -1757,6 +1758,7 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-42-p4s2a0">
 <nodetype>atom</nodetype>
@@ -2576,6 +2578,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>15</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-42-p4s4w19">
 <a>

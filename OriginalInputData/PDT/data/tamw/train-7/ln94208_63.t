@@ -4916,6 +4916,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary stalo se tak</discourse_comment>
 <val_frame.rf>v#v-w6496f2</val_frame.rf>
 <children>
 <LM id="t-ln94208-63-p5s2w3">
@@ -5139,6 +5140,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>secondary nejen (předchozí strom)  -
+jedním z dalších důvodů bylo</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-63-p5s3w1">

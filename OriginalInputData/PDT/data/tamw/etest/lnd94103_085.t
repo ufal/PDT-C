@@ -6994,6 +6994,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<comment>preced sémantika nejistá</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-085-p1s23Aw12</LM>

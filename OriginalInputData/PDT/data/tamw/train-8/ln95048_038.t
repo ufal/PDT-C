@@ -5720,6 +5720,8 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>lze vnímat jako 
+SPEC NP "co"</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-038-p4s2w25">
@@ -6797,6 +6799,7 @@
 </a-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrong TR  -chybí druhá část koordinace, která chybně visí na "a" v následující větě</discourse_comment>
 <children>
 <LM id="t-ln95048-038-p4s6w20">
 <a>
@@ -8829,6 +8832,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95048-038-p5s8w13">
 <a>

@@ -3910,6 +3910,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-ln95047-115-p5s4w19">
@@ -4247,6 +4248,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w9418f1</val_frame.rf>
 <children>
 <LM id="t-ln95047-115-p6s1w1">

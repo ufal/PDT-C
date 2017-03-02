@@ -4134,6 +4134,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>neexplicitní,
+zda jmenované
+firmy jsou 
+v likvidaci</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-8-p6s3w13</LM>

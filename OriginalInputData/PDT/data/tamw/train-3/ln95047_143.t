@@ -1176,6 +1176,8 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>reason</discourse_type>
+<comment>vetsi A1, neb jen z posledni
+klauze je vyznam nejasny</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-143-p2s3w5</LM>
@@ -9129,6 +9131,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>second_rel cond</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-143-p11s3w1</LM>
@@ -9664,6 +9667,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>nic, zdá se mi
+zpusobove</discourse_comment>
 </LM>
 <LM id="t-ln95047-143-p12s1Aa0">
 <nodetype>complex</nodetype>

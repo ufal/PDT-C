@@ -1540,6 +1540,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>nejistota o typu vztahu</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95046-031-p2s6w11</LM>

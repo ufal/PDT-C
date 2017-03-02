@@ -4813,6 +4813,8 @@
 <tfa>f</tfa>
 <deepord>6</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase
+Vyplývání (vyvození výsledků)</discourse_comment>
 <children>
 <LM id="t-mf930709-148-p1s15w4">
 <a>

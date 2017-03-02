@@ -34,6 +34,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>kolekce
+is heading? is photo? (ale je to s malým písmenem na začátku)</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -58,6 +60,7 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>ale je za tím tečka</discourse_comment>
 <children>
 <LM id="t-mf920925-078-p2s1w3">
 <a>

@@ -24,6 +24,7 @@
 <t_lemma>#Separ</t_lemma>
 <functor>CONJ</functor>
 <deepord>4</deepord>
+<discourse_comment>spatne cleneni textu</discourse_comment>
 <children>
 <LM id="t-mf920922-011-p1s1w2">
 <a>

@@ -3765,6 +3765,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>sporná anotace, 
+wrongTR? má být AIM?</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-12-p5s6w7</LM>

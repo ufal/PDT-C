@@ -5472,6 +5472,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR  -nema byt odkaz na "bychom"?</discourse_comment>
 <val_frame.rf>v#v-w2696f1</val_frame.rf>
 <children>
 <LM id="t-ln94209-64-p5s10w7">
@@ -9442,6 +9443,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle me
+to neni PREC</discourse_comment>
 </LM>
 <LM id="t-ln94209-64-p6s8a0">
 <nodetype>complex</nodetype>

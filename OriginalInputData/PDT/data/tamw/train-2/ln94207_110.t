@@ -107,6 +107,8 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>ale je za tim tecka!!
+adept na seznam</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94207-110-p1s1w3</target_node.rf>

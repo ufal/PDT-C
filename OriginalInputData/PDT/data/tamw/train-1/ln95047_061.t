@@ -9156,6 +9156,10 @@
 <functor>RHEM</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neanotuju,
+NP (stejně jako
+v Oseku i v Jeníkově...)
+</discourse_comment>
 </LM>
 <LM id="t-ln95047-061-p4s4w2">
 <a>
@@ -9661,6 +9665,11 @@
 <functor>RHEM</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neanotuju, NP 
+(stejně jako lidé 
+v Oseku i lidé 
+z okolních domů 
+v Duchcově...)</discourse_comment>
 </LM>
 <LM id="t-ln95047-061-p5s2w2">
 <a>
@@ -16278,6 +16287,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95047-061-p5s28Bw1">
 <a>
@@ -17903,6 +17913,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC,
+ale MEANS</discourse_comment>
 </LM>
 <LM id="t-ln95047-061-p5s33a1">
 <nodetype>complex</nodetype>
@@ -23695,6 +23707,8 @@
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC,
+spíš ATT</discourse_comment>
 </LM>
 <LM id="t-ln95047-061-p9s3w2">
 <a>
@@ -30692,6 +30706,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+<discourse_comment>wrongTR,
+chybí dokopírované
+sloveso</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln95047-061-p14s7w2">
@@ -30709,6 +30726,9 @@
 </quot>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>není PREC,
+parcelace, špatně
+anotováno na TR</discourse_comment>
 </LM>
 <LM id="t-ln95047-061-p14s7a1">
 <nodetype>complex</nodetype>

@@ -3086,6 +3086,8 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary
+mozno i COND</discourse_comment>
 <val_frame.rf>v#v-w8589f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-013-p3s4w21">
@@ -4770,6 +4772,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-013-p4s6w11">

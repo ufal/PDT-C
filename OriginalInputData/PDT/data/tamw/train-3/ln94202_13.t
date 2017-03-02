@@ -1532,6 +1532,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
+<comment>široké vyplývání,
+zde nejblíže EQUIV</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-13-p3s1w2</LM>
@@ -4456,6 +4458,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem rovněž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-13-p3s10w19</LM>
@@ -5927,6 +5930,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>součást konektoru
+na jedné straně</discourse_comment>
 <children>
 <LM id="t-ln94202-13-p4s4w5">
 <a>
@@ -6089,6 +6094,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>13</deepord>
+<discourse_comment>součást konektoru
+na druhé straně</discourse_comment>
 <children>
 <LM id="t-ln94202-13-p4s4w14">
 <a>
@@ -10804,6 +10811,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94202-13-p8s2w4">
 <a>
@@ -11067,6 +11075,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>součást konektoru 
+pokud  -pak, ne PREC</discourse_comment>
 </LM>
 <LM id="t-ln94202-13-p8s3w3">
 <a>

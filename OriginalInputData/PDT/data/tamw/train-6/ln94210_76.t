@@ -1336,6 +1336,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>wrongTR  -spatne t-lemma</discourse_comment>
 <children>
 <LM id="t-ln94210-76-p2s3w7">
 <a>
@@ -5034,6 +5035,8 @@
 <tfa>f</tfa>
 <deepord>2</deepord>
 <secondary_NP_type>explicat</secondary_NP_type>
+<discourse_comment>mohlo by byt i REASON, 
+ale kvuli nejistosti ("zrejme") davam EXPLICAT</discourse_comment>
 <val_frame.rf>v#v-w6297f1</val_frame.rf>
 <children>
 <LM id="t-ln94210-76-p4s2w2">
@@ -5324,6 +5327,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>kus informace chybí,
+teď už je to jinak,
+spíš doplnění informace,
+než důvod, proto
+explicat</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-76-p4s3w3</LM>

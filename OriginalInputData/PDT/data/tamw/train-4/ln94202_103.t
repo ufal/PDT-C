@@ -4659,6 +4659,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>adept na hypertéma,
+adept na seznam v jedné větě</discourse_comment>
 <children>
 <LM id="t-ln94202-103-p4s6w7">
 <a>
@@ -6081,6 +6083,7 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94202-103-p5s1w3">
 <a>

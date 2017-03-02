@@ -16913,6 +16913,10 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>12</deepord>
+<discourse_comment>wrongTR?
+celé by podle
+smyslu mělo viset
+na ale</discourse_comment>
 <children>
 <LM id="t-ln95048-051-p7s1w8">
 <a>
@@ -18365,6 +18369,7 @@
 <tfa>c</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 </LM>
 <LM id="t-ln95048-051-p7s6w11">
 <a>
@@ -18563,6 +18568,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>7</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95048-051-p8s1w2">
 <a>
@@ -22810,6 +22816,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>14</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-051-p8s23w14">
 <a>
@@ -22820,6 +22827,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>15</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-051-p8s23w16">
 <a>
@@ -26174,6 +26182,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-051-p8s32w2">
 <a>
@@ -26184,6 +26193,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-051-p8s32w5">
 <a>
@@ -32305,6 +32315,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>8</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95048-051-p10s7w1">
 <a>

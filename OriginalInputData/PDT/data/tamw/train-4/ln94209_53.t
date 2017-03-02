@@ -3606,6 +3606,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary z uvedených důvodů</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-ln94209-53-p3s5w2">
@@ -5951,6 +5952,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>konektor rhem dokonce</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-53-p4s5w4</LM>
@@ -7302,6 +7304,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>konektor rhem dokonce</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-53-p4s8w16</LM>

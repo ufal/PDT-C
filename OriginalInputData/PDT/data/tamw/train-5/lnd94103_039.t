@@ -5776,6 +5776,9 @@
 </gram>
 <tfa>t</tfa>
 <deepord>9</deepord>
+<discourse_comment>wrongTR? pri kliknuti mezernikem pro zapamatovani
+se slovo reprezentovane timto uzlem v textu nezbarvi
+cervene</discourse_comment>
 </LM>
 <LM id="t-lnd94103-039-p1s19a1">
 <nodetype>atom</nodetype>
@@ -6243,6 +6246,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
+<discourse_comment>wrongTR  -spatne t-lemma</discourse_comment>
 </LM>
 </children>
 </LM>

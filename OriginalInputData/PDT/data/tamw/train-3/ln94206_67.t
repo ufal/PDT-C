@@ -3316,6 +3316,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-67-p3s7w1</LM>
@@ -9688,6 +9689,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>wrongTR  -spatne t-lemma</discourse_comment>
 <children>
 <LM id="t-ln94206-67-p7s1w12">
 <a>

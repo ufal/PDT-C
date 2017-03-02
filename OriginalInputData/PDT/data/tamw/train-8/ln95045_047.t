@@ -5572,6 +5572,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95045-047-p5s4w2">
 <a>
@@ -9094,6 +9095,13 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR,
+proč je ve 28
+v jednom stromě
+struktura, která
+v 30 a 31 je ve
+dvou stromech?
+sjednotit?</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln95045-047-p6s9Bw1</target_node.rf>

@@ -3572,6 +3572,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-cmpr9415-004-p9s5w4">
 <a>
@@ -7488,6 +7489,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>vztah s NP</discourse_comment>
 </LM>
 <LM id="t-cmpr9415-004-p17s2w6">
 <a>

@@ -2318,6 +2318,11 @@
 <target_group_id>2</target_group_id>
 <target_range>group</target_range>
 <discourse_type>spec</discourse_type>
+<comment>přemýšlela jsem
+i o reason, ale
+ta je podle mého
+v tomto kontextu
+příliš slabá</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95046-023-p2s4w23</LM>
@@ -6229,6 +6234,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>patří ke konektoru
+CONJ v tomto stromě</discourse_comment>
 </LM>
 <LM id="t-ln95046-023-p3s7w11">
 <a>

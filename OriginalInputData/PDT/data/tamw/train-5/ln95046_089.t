@@ -2233,6 +2233,7 @@
 <tfa>f</tfa>
 <deepord>9</deepord>
 <secondary_NP_type>explicat</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w6297f1</val_frame.rf>
 <children>
 <LM id="t-ln95046-089-p3s7w10">

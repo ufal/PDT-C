@@ -7335,6 +7335,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel SYNCHR dokud</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-141-p2s25w1</LM>
@@ -7581,6 +7582,9 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>nejsem si jista presnym 
+rozsahem argumentu A1 
+(u vztahu CONJ)</discourse_comment>
 <val_frame.rf>v#v-w7431f2</val_frame.rf>
 <children>
 <LM id="t-mf930713-141-p2s26w9">

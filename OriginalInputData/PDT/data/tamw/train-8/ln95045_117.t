@@ -2268,6 +2268,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>wrongTR,
+evidentně chybí
+kus textu</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-117-p2s10w2">

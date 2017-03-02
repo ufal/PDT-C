@@ -1283,6 +1283,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>27</deepord>
+<discourse_comment>neznacim, podle me je to 
+conj, stejne jako u "a"</discourse_comment>
 </LM>
 <LM id="t-ln94210-124-p2s3w34">
 <a>

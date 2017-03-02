@@ -3588,6 +3588,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>patří ke 
+konektoru 
+CONJ v tomto
+stromě</discourse_comment>
 </LM>
 <LM id="t-ln95045-077-p6s1w17">
 <a>

@@ -4688,6 +4688,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>konektor rhem dokonce</discourse_comment>
 <val_frame.rf>v#v-w1940f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-75-p7s3w13">
@@ -8408,6 +8409,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<comment>sporná anotace,
+wrongTR? není to způsobová
+věta?</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-75-p9s2w25</LM>
@@ -18266,6 +18270,8 @@
 <LM>
 <type>list</type>
 <start_range>0</start_range>
+<comment>kvůli podobnosti s ostatními
+položkami necháno jako argument</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-75-p13s20w10</LM>

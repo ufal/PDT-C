@@ -896,6 +896,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>wrongTR?
+není elipsa jít,
+CORR, konektor nýbrž
+a negace </discourse_comment>
 <val_frame.rf>v#v-w1339f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-86-p3s1w3">
@@ -1479,6 +1483,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w663f2</val_frame.rf>
 <children>
 <LM id="t-ln94206-86-p4s1w2">
@@ -3753,6 +3758,7 @@
 <start_range>0</start_range>
 <target_range>2</target_range>
 <discourse_type>conj</discourse_type>
+<comment>CONJ silnější než OPP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-86-p6s3w4</LM>
@@ -6122,6 +6128,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-86-p9s2w41">

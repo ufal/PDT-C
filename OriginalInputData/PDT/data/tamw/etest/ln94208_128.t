@@ -281,6 +281,7 @@
 <tfa>f</tfa>
 <deepord>4</deepord>
 <secondary_NP_type>explicat</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w7583f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-128-p2s2w3">

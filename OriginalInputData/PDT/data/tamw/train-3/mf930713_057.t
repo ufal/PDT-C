@@ -7068,6 +7068,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR?
+autor a pak dodatek k textu?
+nebo špatně segmentováno?</discourse_comment>
 <children>
 <LM id="t-mf930713-057-p9s1w1">
 <a>

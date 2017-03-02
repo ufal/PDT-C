@@ -4077,6 +4077,7 @@
 <tfa>c</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 </LM>
 <LM id="t-ln94204-140-p4s7w10">
 <a>

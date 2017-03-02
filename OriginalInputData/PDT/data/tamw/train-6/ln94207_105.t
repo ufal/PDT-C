@@ -902,6 +902,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>smíšený vztah conj</discourse_comment>
 </LM>
 <LM id="t-ln94207-105-p2s3w2">
 <a>
@@ -1840,6 +1841,7 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>smíšený vztah conj</discourse_comment>
 </LM>
 <LM id="t-ln94207-105-p2s5w2">
 <a>
@@ -8774,6 +8776,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>sémantická mezera-
+až v roce 1991, protože...</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-105-p4s4w7</LM>
@@ -15157,6 +15161,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>smíšený vztah explicat</discourse_comment>
 </LM>
 <LM id="t-ln94207-105-p7s6w2">
 <a>
@@ -16519,6 +16524,7 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>smíšený vztah</discourse_comment>
 </LM>
 <LM id="t-ln94207-105-p8s2w5">
 <a>

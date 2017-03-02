@@ -710,6 +710,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
+<discourse_comment>adept na seznam,
+první polozka 6-8, 
+druha 9</discourse_comment>
 <children>
 <LM id="t-ln94205-34-p2s3w15">
 <a>
@@ -3144,6 +3147,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<comment>ke konektoru patří
+také negace z předchozího stromu,
+nemá ale samostatný uzel</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-34-p4s3w2</LM>
@@ -5926,6 +5932,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>přechod k explicat</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-34-p5s6w7">

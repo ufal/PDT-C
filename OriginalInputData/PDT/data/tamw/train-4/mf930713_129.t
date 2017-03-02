@@ -34,6 +34,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>chybi nadpis</discourse_comment>
 <children>
 <LM id="t-mf930713-129-p1s1Aw3">
 <a>

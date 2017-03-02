@@ -1104,6 +1104,7 @@
 <tfa>t</tfa>
 <deepord>5</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase, negativní vztah</discourse_comment>
 <children>
 <LM id="t-ln95048-142-p2s4w9">
 <a>

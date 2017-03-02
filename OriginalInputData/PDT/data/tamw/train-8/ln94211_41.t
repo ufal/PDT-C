@@ -814,6 +814,11 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR,
+chybný tvar infinitivu,
+má být putovat,
+poputují je 
+syntetické futurum</discourse_comment>
 <val_frame.rf>v#v-w3898f1</val_frame.rf>
 <children>
 <LM id="t-ln94211-41-p2s4w1">
@@ -1165,6 +1170,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w3898f1</val_frame.rf>
 <children>
 <LM id="t-ln94211-41-p2s4w29">

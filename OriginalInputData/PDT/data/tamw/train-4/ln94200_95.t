@@ -930,6 +930,12 @@
 <t_lemma>neboť</t_lemma>
 <functor>REAS</functor>
 <deepord>29</deepord>
+<discourse_comment>wrong TR,
+vztah REAS je 
+mezi nepravou 
+přívlastkovou klauzí
+a klauzí uvedenou
+neboť</discourse_comment>
 <children>
 <LM id="t-ln94200-95-p2s3w17">
 <a>

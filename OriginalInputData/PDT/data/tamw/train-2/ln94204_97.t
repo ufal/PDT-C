@@ -3166,6 +3166,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem rovněž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-97-p3s5w14</LM>
@@ -5381,6 +5382,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94204-97-p3s1w16</target_node.rf>

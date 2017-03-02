@@ -749,6 +749,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary následkem toho</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94209-95-p2s1Cw6</target_node.rf>

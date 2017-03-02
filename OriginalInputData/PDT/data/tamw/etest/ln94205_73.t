@@ -994,6 +994,7 @@
 <tfa>f</tfa>
 <deepord>4</deepord>
 <secondary_NP_type>explicat</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w9661f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-73-p2s3w1">
@@ -7222,6 +7223,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel PRECED až do té doby než</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-73-p6s2w17</LM>

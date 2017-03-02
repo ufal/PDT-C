@@ -1988,6 +1988,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-042-p8s3w4</LM>
@@ -7431,6 +7432,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary na druhé straně</discourse_comment>
 <children>
 <LM id="t-cmpr9410-042-p14s3w2">
 <a>
@@ -8679,6 +8681,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>wrongTR  -spatne t-lemma</discourse_comment>
 <children>
 <LM id="t-cmpr9410-042-p16s1w8">
 <a>
@@ -12542,6 +12545,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>paragraph  -pripojuje odstavec 49-52 k celemu 
+predchozimu textu</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-042-p21s1w1">
 <a>
@@ -13344,6 +13349,8 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>f</tfa>
 <deepord>13</deepord>
+<discourse_comment>one_arg
+konektor rhem například</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-042-p21s3w23">
 <a>
@@ -13577,6 +13584,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-042-p21s3w35</LM>

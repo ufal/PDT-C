@@ -1152,6 +1152,7 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>11</deepord>
+<discourse_comment>rhem pouze v rámci věty</discourse_comment>
 </LM>
 <LM id="t-ln94205-39-p3s2w13">
 <a>
@@ -1488,6 +1489,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-39-p3s3w2</LM>

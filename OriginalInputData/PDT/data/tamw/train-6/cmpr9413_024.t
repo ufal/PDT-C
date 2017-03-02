@@ -2395,6 +2395,9 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>neanotuji  -tento 
+PREC nezakládá významový 
+diskurzní vztah</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-024-p5s7a1">
 <nodetype>complex</nodetype>

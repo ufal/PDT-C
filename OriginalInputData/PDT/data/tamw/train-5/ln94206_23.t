@@ -553,6 +553,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary jako další krok</discourse_comment>
 <compl.rf>
 <LM>t-ln94206-23-p2s2w11</LM>
 </compl.rf>

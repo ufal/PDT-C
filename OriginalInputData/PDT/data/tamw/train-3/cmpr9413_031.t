@@ -3794,6 +3794,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>neznačím u tohoto konektoru 
+vztah, nebot jde podle 
+me o tak = timto zpusobem</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-031-p9s4w10">
 <a>
@@ -5769,6 +5772,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>Neznacim: podle me je tohle vztah 
+jiz na tektogramatice oznacene 
+podminky  -jestlize-tak, jestlize-pak, 
+jestlize-potom. </discourse_comment>
 </LM>
 <LM id="t-cmpr9413-031-p10s3w6">
 <a>
@@ -7458,6 +7465,7 @@
 <tfa>c</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-031-p13s2w5">
 <a>

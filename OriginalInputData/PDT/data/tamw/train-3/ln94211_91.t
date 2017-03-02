@@ -5603,6 +5603,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94211-91-p7s1w6">
 <a>
@@ -7096,6 +7097,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94211-91-p8s3w3">
 <a>

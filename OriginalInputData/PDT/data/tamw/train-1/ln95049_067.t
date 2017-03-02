@@ -3887,6 +3887,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR  -spatny 
+tvar t-lemmatu</discourse_comment>
 <children>
 <LM id="t-ln95049-067-p7s1Aw8">
 <a>
@@ -4819,6 +4821,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>wrongTR? nema tento uzel viset na jinem typu 
+hrany? takhle to vypada, ze jde o souradne 
+spojeni 3 predikatu</discourse_comment>
 <val_frame.rf>v#v-w1855f9</val_frame.rf>
 <children>
 <LM id="t-ln95049-067-p7s6Bw1">

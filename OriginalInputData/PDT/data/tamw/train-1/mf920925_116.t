@@ -38,6 +38,7 @@
 <tfa>f</tfa>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>spatna segmentace textu</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-116-p1s1w1">

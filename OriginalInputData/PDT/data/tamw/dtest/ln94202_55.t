@@ -323,6 +323,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w3765f2</val_frame.rf>
 <children>
 <LM id="t-ln94202-55-p3s1Bw1">
@@ -2179,6 +2180,9 @@
 </gram>
 <tfa>c</tfa>
 <deepord>4</deepord>
+<discourse_comment>wrongTR,
+proč je u tohoto
+uzlu skryto může?</discourse_comment>
 <val_frame.rf>v#v-w5874f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-55-p5s1a2">
@@ -8868,6 +8872,12 @@
 <t_lemma>neboť</t_lemma>
 <functor>REAS</functor>
 <deepord>29</deepord>
+<discourse_comment>wrongTR?
+nepatří tohle nebot
+pouze ke 3.vetvi
+CONJ? nema byt
+tedy hierarchie
+opacne?</discourse_comment>
 <children>
 <LM id="t-ln94202-55-p9s4w25">
 <a>

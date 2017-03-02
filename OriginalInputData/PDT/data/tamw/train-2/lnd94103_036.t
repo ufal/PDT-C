@@ -2963,6 +2963,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
+<comment>široké vyplývání,
+snad nejblíž k EQUIV</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-036-p1s11w2</LM>

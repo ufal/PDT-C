@@ -3310,6 +3310,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem rovněž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-93-p3s8w7</LM>
@@ -3937,6 +3938,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>30</deepord>
+<discourse_comment>wrongTR  -nema byt odkaz na "je"?</discourse_comment>
 <val_frame.rf>v#v-w4047f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-93-p3s9w28">
@@ -4034,6 +4036,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>34</deepord>
+<discourse_comment>wrongTR  -nema byt tento uzel hranaty?</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-93-p3s9a5">

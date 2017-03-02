@@ -5472,6 +5472,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>lze uvažovat, že
+stejně tak připojuje 
+pouze NP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-107-p6s2w1</LM>
@@ -5765,6 +5768,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>stejný případ,
+opět lze považovat
+pouze za připojení NP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-107-p6s3w1</LM>
@@ -6222,6 +6228,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>nejistota o typu
+vztahu, kus argumentu
+tam chybí (je přece 
+dobře, že události...)</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-107-p6s4w18</LM>

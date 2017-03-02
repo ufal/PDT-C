@@ -1570,6 +1570,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim, znamena 
+"timto zpusobem"  -MANN</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94206-45-p4s1w10</target_node.rf>

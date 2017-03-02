@@ -4136,6 +4136,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>neznacim: dvojice 
+kdyz  -tak</discourse_comment>
 </LM>
 <LM id="t-ln95049-100-p3s12w9">
 <a>
@@ -4770,6 +4772,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>neznacim: dvojice 
+kdyby  -tak</discourse_comment>
 </LM>
 <LM id="t-ln95049-100-p3s15w16">
 <a>

@@ -1522,6 +1522,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR  -nema na "aniž" viset "Neg"?</discourse_comment>
 <children>
 <LM id="t-lnd94103-099-p1s7w3">
 <a>

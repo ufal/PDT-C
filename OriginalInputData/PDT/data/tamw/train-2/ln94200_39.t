@@ -5001,6 +5001,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>paragraph
+4-19</discourse_comment>
 </LM>
 <LM id="t-ln94200-39-p8s1w3">
 <a>

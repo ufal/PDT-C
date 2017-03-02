@@ -752,6 +752,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>divná REASON, ale
+ze všech možností
+mi přijde nejpřesnější
+právě ona</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-25-p2s2w24</LM>
@@ -2580,6 +2584,9 @@
 <start_range>0</start_range>
 <target_range>3</target_range>
 <discourse_type>gener</discourse_type>
+<comment>široké vyplývání,
+zde nejblíž gener,
+paragraph</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-25-p4s1w3</LM>
@@ -2869,6 +2876,7 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94203-25-p4s2a0">
 <nodetype>atom</nodetype>
@@ -4233,6 +4241,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>paragraph
+není ale na začátku odstavce,
+možný dosah 4-11</discourse_comment>
 </LM>
 <LM id="t-ln94203-25-p5s2w13">
 <a>

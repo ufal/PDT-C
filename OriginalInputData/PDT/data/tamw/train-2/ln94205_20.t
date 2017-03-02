@@ -1496,6 +1496,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-20-p3s1w28">
@@ -3194,6 +3195,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>konektor rhem ještě</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-20-p3s8w23</LM>

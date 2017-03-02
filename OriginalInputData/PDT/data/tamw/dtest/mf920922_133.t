@@ -38,6 +38,7 @@
 <tfa>f</tfa>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR? dvakrat stejny nadpis</discourse_comment>
 <val_frame.rf>v#v-w7686f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-133-p1s1w1">

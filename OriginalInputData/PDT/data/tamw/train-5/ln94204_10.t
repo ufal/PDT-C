@@ -3171,6 +3171,10 @@
 <start_range>2</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>nepříliš jasné, 
+zřejmě se vysvětluje
+neobvyklost
+výsledku v (12)</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-10-p5s4w4</LM>

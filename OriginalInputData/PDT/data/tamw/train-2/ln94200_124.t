@@ -2418,6 +2418,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94200-124-p4s2w3">
 <a>
@@ -2428,6 +2429,7 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94200-124-p4s2w5">
 <a>
@@ -9558,6 +9560,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>16</deepord>
+<discourse_comment>součást konektoru</discourse_comment>
 </LM>
 <LM id="t-ln94200-124-p7s4w18">
 <a>

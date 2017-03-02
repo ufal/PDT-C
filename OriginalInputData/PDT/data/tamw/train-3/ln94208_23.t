@@ -4338,6 +4338,9 @@
 <start_range>0</start_range>
 <target_range>5</target_range>
 <discourse_type>gener</discourse_type>
+<comment>čistá reason
+mi zde vidět
+nejde</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-23-p8s8w2</LM>

@@ -960,6 +960,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrong_TR cond na vadit</discourse_comment>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
 <children>
 <LM id="t-ln95047-093-p3s1Bw18">
@@ -3424,6 +3425,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_opp</discourse_type>
+<comment>neprava opp, neb je
+zahrnut nazor mluvciho</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-093-p3s11w4</LM>
@@ -3885,6 +3888,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
+<discourse_comment>wrongTR?  -nemá tu 
+být funktor ACT?</discourse_comment>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
 <children>
 <LM id="t-ln95047-093-p3s12Bw16">
@@ -3999,6 +4004,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_opp</discourse_type>
+<comment>opet divna opp, nazor mluciho,
+je to daleko.</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-093-p3s13w1</LM>

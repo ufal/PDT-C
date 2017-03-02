@@ -1943,6 +1943,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -
+nepripada mi jako diskurzni konektor</discourse_comment>
 </LM>
 <LM id="t-ln94211-76-p4s2a0">
 <nodetype>complex</nodetype>
@@ -2500,6 +2502,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel PRECED dokud</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-76-p5s1w12</LM>

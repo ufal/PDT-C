@@ -27,6 +27,9 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>kolekce,
+dva samostatné
+články</discourse_comment>
 <children>
 <LM id="t-ln94206-15-p1s1w2">
 <a>

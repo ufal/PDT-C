@@ -40,6 +40,12 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR,
+chybná segmentace, 
+tahle věta na něco navazuje,
+ale v tomto souboru to
+není, nejspíš poslední
+věta předchozího článku</discourse_comment>
 <val_frame.rf>v#v-w127f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-035-p1s1w1">
@@ -705,6 +711,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>15</deepord>
+<discourse_comment>součást konektoru DISJ</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-035-p3s3w21">
 <a>
@@ -1407,6 +1414,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>vztah spec mezi NP pláč
+a PAR</discourse_comment>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-035-p4s2a1">
@@ -1549,6 +1558,7 @@
 <tfa>c</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>exempl</secondary_NP_type>
+<discourse_comment>taková zvláštní exempl</discourse_comment>
 <children>
 <LM id="t-cmpr9413-035-p4s4w8">
 <a>

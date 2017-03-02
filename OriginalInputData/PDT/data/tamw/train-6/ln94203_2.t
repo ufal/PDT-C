@@ -38,6 +38,8 @@
 <tfa>f</tfa>
 <deepord>4</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>může být i 
+is_photo description</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94203-2-p1s1w2">

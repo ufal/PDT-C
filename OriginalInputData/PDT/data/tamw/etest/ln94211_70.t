@@ -181,6 +181,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>12</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94211-70-p2s1Bw5">
 <a>
@@ -3032,6 +3033,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>18</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94211-70-p3s6w9">
 <a>
@@ -3867,6 +3869,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<comment>po pridani negace jako konektoru se mi jako 
+konektor zobrazuje cele "ze neni"</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-70-p3s6a0</LM>
@@ -4013,6 +4017,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>4</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94211-70-p3s7w2">
 <a>
@@ -9476,6 +9481,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR chybi doplnene sloveso</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94211-70-p7s4w6</target_node.rf>
@@ -9767,6 +9773,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>21</deepord>
+<discourse_comment>wrongTR? je to spravny funktor?</discourse_comment>
 <val_frame.rf>v#v-w178f1</val_frame.rf>
 <children>
 <LM id="t-ln94211-70-p7s6w16">

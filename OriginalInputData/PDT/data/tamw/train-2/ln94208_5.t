@@ -1600,6 +1600,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>Zvazovala jsem i equiv.</discourse_comment>
 <children>
 <LM id="t-ln94208-5-p3s4w1">
 <a>
@@ -3254,6 +3255,9 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>Myslim, ze by se 
+zde klidne mohla 
+pouzit i spojka "a".</discourse_comment>
 <val_frame.rf>v#v-w6496f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-5-p3s8w17">

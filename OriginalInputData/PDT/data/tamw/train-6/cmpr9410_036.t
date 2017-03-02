@@ -27,6 +27,9 @@
 <functor>APPS</functor>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>text složený ze dvou
+textů  -normálně 
+koherentních</discourse_comment>
 <children>
 <LM id="t-cmpr9410-036-p2s1w1">
 <a>
@@ -2089,6 +2092,9 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>36</deepord>
+<discourse_comment>wrongTR?
+neměly by tu být dvě "a"
+ve stromě nad sebou?</discourse_comment>
 <children>
 <LM id="t-cmpr9410-036-p7s1w16">
 <a>
@@ -2443,6 +2449,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>25</deepord>
+<discourse_comment>PREC v rámci téhle struktury</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-036-p7s1a7">
 <nodetype>qcomplex</nodetype>
@@ -3404,6 +3411,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>kdyby nebylo ve 14
+vyjádření "v tom případě,"
+jednalo by se o COND</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-036-p8s2w4</LM>
@@ -4966,6 +4976,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary z tohoto důvodu</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-cmpr9410-036-p9s1w19</target_node.rf>
@@ -8621,6 +8632,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>CONJ snad přesnější, 
+OPP je s nevyjádřeným
+"nezaplatil mi"</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-036-p18s2w6</LM>
@@ -8891,6 +8905,9 @@
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>wrongTR, 
+není MANN, součást
+spojovacího výrazu</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-036-p18s3a2">
 <nodetype>complex</nodetype>

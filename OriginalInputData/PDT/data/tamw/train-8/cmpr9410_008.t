@@ -3994,6 +3994,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>to má antecedent někde v jiném
+textu (předpokládáme, že je verbální)</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-008-p12s2w7</LM>
@@ -14596,6 +14598,7 @@
 <tfa>c</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-008-p31s1w3">
 <a>

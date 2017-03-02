@@ -1155,6 +1155,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_comment>patří ke konektoru
+DISJALT</discourse_comment>
 </LM>
 <LM id="t-ln94209-56-p2s7w10">
 <a>
@@ -7856,6 +7858,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>second_rel COND pak</comment>
 <src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94209-56-p5s10w6</LM>
@@ -8544,6 +8547,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>prvním argumentem je
+nepřímá otázka</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-56-p5s14w7</LM>
@@ -8753,6 +8758,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>prvním argumentem 
+je nepřímá otázka</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-56-p5s15w1</LM>
@@ -17768,6 +17775,7 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-56-p7s23w1">
 <a>
@@ -19879,6 +19887,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>není PREC,
+součást konektoru 
+COND</discourse_comment>
 </LM>
 <LM id="t-ln94209-56-p7s37w9">
 <a>

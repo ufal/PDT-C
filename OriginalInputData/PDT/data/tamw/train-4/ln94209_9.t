@@ -3684,6 +3684,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-9-p5s1w3">
 <a>
@@ -6686,6 +6687,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<comment>nejistota o typu vztahu</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94209-9-p7s1w9</LM>

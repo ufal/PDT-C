@@ -3737,6 +3737,11 @@
 <t_lemma>ani</t_lemma>
 <functor>CM</functor>
 <deepord>12</deepord>
+<discourse_comment>wrongTR, to
+je RHEM,
+má viset níž
+na dokopírovaném
+představovat</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-018-p7s4a0">
 <a>

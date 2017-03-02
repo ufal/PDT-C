@@ -3015,6 +3015,8 @@
 </quot>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>součást konektoru
+COND v tomto stromě</discourse_comment>
 </LM>
 <LM id="t-ln95046-096-p4s2w7">
 <a>

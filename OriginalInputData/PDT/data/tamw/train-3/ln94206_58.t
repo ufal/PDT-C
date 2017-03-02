@@ -1484,6 +1484,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem rovněž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-58-p2s4w5</LM>

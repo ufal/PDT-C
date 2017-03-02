@@ -50,6 +50,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>jen podle původní grafiky
+by se dalo poznat,
+jestli je to nadpis,
+proto neanotováno</discourse_comment>
 <val_frame.rf>v#v-w7769f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-12-p1s1w2">

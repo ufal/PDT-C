@@ -1981,6 +1981,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse_comment>neni konektor 
+vyzn. mezivyp. vztahu,
+typ anafory</discourse_comment>
 </LM>
 <LM id="t-ln94202-7-p5s1w15">
 <a>

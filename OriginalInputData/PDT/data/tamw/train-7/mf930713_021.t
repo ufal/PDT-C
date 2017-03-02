@@ -1289,6 +1289,8 @@
 <id>1</id>
 </LM>
 </discourse_groups>
+<discourse_comment>wrongTR. "také" nemá svůj uzel, ale odkazuje na 
+něj "požádat"</discourse_comment>
 <val_frame.rf>v#v-w4227f1</val_frame.rf>
 <children>
 <LM id="t-mf930713-021-p2s5w3">
@@ -1656,6 +1658,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-mf930713-021-p2s5w24">

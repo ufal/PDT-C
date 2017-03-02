@@ -1617,6 +1617,7 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>adept na seznam  -vety 8-16</discourse_comment>
 <children>
 <LM id="t-cmpr9413-013-p11s1w1">
 <a>

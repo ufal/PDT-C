@@ -2178,6 +2178,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -3671,6 +3672,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse_comment>nemá fci TWHEN, ale CONJ</discourse_comment>
 </LM>
 <LM id="t-ln95048-026-p4s1Aw14">
 <a>
@@ -4844,6 +4846,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>ne fci TWHEN, ale CONJ</discourse_comment>
 </LM>
 <LM id="t-ln95048-026-p5s2w5">
 <a>

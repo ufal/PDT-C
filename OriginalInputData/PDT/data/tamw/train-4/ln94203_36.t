@@ -42,6 +42,8 @@
 <tfa>f</tfa>
 <deepord>12</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>může být celé i jako
+popis obrázku</discourse_comment>
 <val_frame.rf>v#v-w527f1</val_frame.rf>
 <children>
 <LM id="t-ln94203-36-p1s1w1">

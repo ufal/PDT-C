@@ -369,6 +369,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle me
+to neni PREC</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94211-21-p2s1Bw8</target_node.rf>

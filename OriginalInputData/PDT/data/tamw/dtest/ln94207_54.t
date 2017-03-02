@@ -1911,6 +1911,8 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>wrongTR? podle velkeho manualu (s. 238) ma neg 
+viset na "aniž"</discourse_comment>
 </LM>
 <LM id="t-ln94207-54-p2s5w12">
 <a>
@@ -5096,6 +5098,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94207-54-p4s2w3">
 <a>
@@ -5448,6 +5451,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_cond</discourse_type>
+<comment>chybí kus argumentu
+(kdybych to potřeboval...)</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-54-p4s4w1</LM>
@@ -7597,6 +7602,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
+s anotaci COND na TR</discourse_comment>
 </LM>
 <LM id="t-ln94207-54-p5s2w10">
 <a>

@@ -260,6 +260,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>APPS</functor>
 <deepord>4</deepord>
+<discourse_comment>wrongTR? nemelo by byt nejvyssim uzlem "a"? </discourse_comment>
 <children>
 <LM id="t-cmpr9413-027-p6s1w1">
 <a>

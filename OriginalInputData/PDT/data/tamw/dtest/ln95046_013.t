@@ -781,6 +781,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>16</deepord>
+<discourse_comment>patří ke
+konektoru
+CONJ v tomto 
+stromě</discourse_comment>
 </LM>
 <LM id="t-ln95046-013-p2s2w18">
 <a>
@@ -3310,6 +3314,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>14</deepord>
+<discourse_comment>patří ke
+konektoru
+CONJ v tomto
+stromě</discourse_comment>
 </LM>
 <LM id="t-ln95046-013-p5s2w16">
 <a>

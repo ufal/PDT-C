@@ -2952,6 +2952,8 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>18</deepord>
+<discourse_comment>wrongTR? koordinace
+má mít 2 patra</discourse_comment>
 <children>
 <LM id="t-ln94209-50-p3s7w2">
 <a>
@@ -4144,6 +4146,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary pravda je</discourse_comment>
 </LM>
 <LM id="t-ln94209-50-p5s1w8">
 <a>
@@ -6987,6 +6990,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>8</deepord>
+<discourse_comment>proč to není coap uzel?
+melo by to byt normalne
+ADVS, ne?</discourse_comment>
 </LM>
 <LM id="t-ln94209-50-p5s11w11">
 <a>

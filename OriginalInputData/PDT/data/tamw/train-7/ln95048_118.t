@@ -824,6 +824,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>4</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95048-118-p3s2w4">
 <a>
@@ -3593,6 +3594,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w9420f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-118-p4s4w2">

@@ -1649,6 +1649,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>není PREC,
+koreference</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94203-38-p2s5w6</target_node.rf>

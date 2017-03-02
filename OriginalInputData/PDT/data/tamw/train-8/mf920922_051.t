@@ -25,6 +25,7 @@
 <functor>CONJ</functor>
 <deepord>3</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>spatna segmentace</discourse_comment>
 <children>
 <LM id="t-mf920922-051-p1s1w2">
 <a>

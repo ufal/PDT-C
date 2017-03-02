@@ -666,6 +666,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>26</deepord>
+<discourse_comment>conj v tomto stomě "a navíc"</discourse_comment>
 </LM>
 <LM id="t-ln94206-133-p2s1Ba2">
 <nodetype>qcomplex</nodetype>
@@ -1785,6 +1786,7 @@
 <id>1</id>
 </LM>
 </discourse_groups>
+<discourse_comment>wrongTR</discourse_comment>
 <val_frame.rf>v#v-w7548f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-133-p5s1a0">
@@ -4658,6 +4660,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>cond v tomto stromě: když  -tak</discourse_comment>
 </LM>
 <LM id="t-ln94206-133-p8s2w3">
 <a>

@@ -5875,6 +5875,7 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary koneckonců</discourse_comment>
 </LM>
 <LM id="t-ln94208-146-p7s3w3">
 <a>

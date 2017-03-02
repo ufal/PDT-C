@@ -5708,6 +5708,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-139-p7s2a3">
@@ -6228,6 +6229,10 @@
 <functor>RHEM</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>propojuje 15 a 16,
+je to EXEMPL důvodů
+k tvrzení 15, našimi 
+prostředky nezachytitelné</discourse_comment>
 </LM>
 <LM id="t-ln94202-139-p7s4w2">
 <a>
@@ -6510,6 +6515,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-139-p7s5w3</LM>

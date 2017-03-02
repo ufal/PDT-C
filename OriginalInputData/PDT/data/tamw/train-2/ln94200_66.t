@@ -4360,6 +4360,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>je to prosté připojení
+spíše než jakákoli OPP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-66-p5s2w6</LM>

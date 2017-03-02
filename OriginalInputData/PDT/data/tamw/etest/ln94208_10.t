@@ -5794,6 +5794,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>Vyplývání (vyvození výsledků)
+free compositional phrase</discourse_comment>
 </LM>
 <LM id="t-ln94208-10-p6s3a0">
 <nodetype>atom</nodetype>

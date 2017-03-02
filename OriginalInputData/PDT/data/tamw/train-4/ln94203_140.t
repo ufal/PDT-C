@@ -2201,6 +2201,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-140-p4s2w15</LM>
@@ -2947,6 +2948,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>wrongTR?
+věta bez tečky</discourse_comment>
 <val_frame.rf>v#v-w7340f1</val_frame.rf>
 <children>
 <LM id="t-ln94203-140-p5s3Aw2">

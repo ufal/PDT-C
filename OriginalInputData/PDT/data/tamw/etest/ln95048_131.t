@@ -2111,6 +2111,8 @@
 </quot>
 <tfa>t</tfa>
 <deepord>9</deepord>
+<discourse_comment>neznacim, clen 
+dvojice kdyby  -tak</discourse_comment>
 </LM>
 <LM id="t-ln95048-131-p3s3w6">
 <a>

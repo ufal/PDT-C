@@ -2365,6 +2365,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>není zcela jasné,
+kam má šipka vést</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-23-p3s4w6</LM>
@@ -3489,6 +3491,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<comment>konektor rhem už</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-23-p4s2w13</LM>
@@ -4261,6 +4264,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-23-p4s5w6</LM>

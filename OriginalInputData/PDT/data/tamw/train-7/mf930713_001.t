@@ -2524,6 +2524,9 @@
 <id>1</id>
 </LM>
 </discourse_groups>
+<discourse_comment>wrongTR? nemaji uzly "snažit_se" a "dávat" viset
+ještě na comma? takhle to vypadá, že mezi "snažit_se"
+a "dávat" je vztah REAS</discourse_comment>
 <val_frame.rf>v#v-w374f5</val_frame.rf>
 <children>
 <LM id="t-mf930713-001-p3s9a2">

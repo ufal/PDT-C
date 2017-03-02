@@ -3918,6 +3918,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>secondary? prvé konstatování</discourse_comment>
 <val_frame.rf>v#v-w1506f1</val_frame.rf>
 <children>
 <LM id="t-lnd94103-094-p1s12a1">
@@ -4097,6 +4098,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>secondary? druhé konstatování</discourse_comment>
 <val_frame.rf>v#v-w1506f1</val_frame.rf>
 <children>
 <LM id="t-lnd94103-094-p1s13a4">
@@ -4730,6 +4732,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w9320f1</val_frame.rf>
 <children>
 <LM id="t-lnd94103-094-p1s14w1">
@@ -5414,6 +5417,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>patří ke konektoru
+cond v tomto stromě,
+víc časový význam
+než obvykle</discourse_comment>
 </LM>
 <LM id="t-lnd94103-094-p1s15w4">
 <a>
@@ -6506,6 +6513,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>tohle sloveso
+je vyjádření ATT</discourse_comment>
 <val_frame.rf>v#v-w5804f2</val_frame.rf>
 <children>
 <LM id="t-lnd94103-094-p1s17a0">

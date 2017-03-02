@@ -465,6 +465,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim, clen dvojice 
+jestlize  -pak</discourse_comment>
 </LM>
 <LM id="t-ln94204-130-p2s1Cw3">
 <a>
@@ -2025,6 +2027,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim, clen dvojice 
+i kdyz  -tak</discourse_comment>
 </LM>
 <LM id="t-ln94204-130-p3s2w5">
 <a>
@@ -2977,6 +2981,7 @@
 <tfa>c</tfa>
 <deepord>5</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94204-130-p3s5w4">
 <a>
@@ -8327,6 +8332,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim, clen dvojice 
+kdyz  -tak</discourse_comment>
 </LM>
 <LM id="t-ln94204-130-p4s21w4">
 <a>
@@ -8748,6 +8755,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_comment>wrongTR  -neni PREC, 
+ale ATT</discourse_comment>
 </LM>
 <LM id="t-ln94204-130-p4s22a0">
 <nodetype>complex</nodetype>

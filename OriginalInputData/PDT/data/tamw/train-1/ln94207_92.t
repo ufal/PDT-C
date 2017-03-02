@@ -1450,6 +1450,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>8</deepord>
+<discourse_comment>neznacim, znacila bych 
+CONJ, coz je uz zaznaceno</discourse_comment>
 </LM>
 <LM id="t-ln94207-92-p3s2w9">
 <a>
@@ -4621,6 +4623,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>9</deepord>
+<discourse_comment>retoricka otazka</discourse_comment>
 </LM>
 <LM id="t-ln94207-92-p5s2w18">
 <a>
@@ -6373,6 +6376,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>recnicka otazka</discourse_comment>
 </LM>
 <LM id="t-ln94207-92-p7s2a0">
 <nodetype>complex</nodetype>
@@ -6460,6 +6464,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94207-92-p7s3w1">
 <a>
@@ -7099,6 +7104,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94207-92-p7s5w4">
 <a>
@@ -7195,6 +7201,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>6</deepord>
+<discourse_comment>neznacim: clen dvojice 
+pokud  -potom</discourse_comment>
 </LM>
 <LM id="t-ln94207-92-p7s5w9">
 <a>
@@ -20722,6 +20730,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim: clen 
+dvojice pokud  -pak</discourse_comment>
 </LM>
 <LM id="t-ln94207-92-p25s4w2">
 <a>

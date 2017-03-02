@@ -3034,6 +3034,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>presupozice  -kdyby tohle řešilo ústavním zákonem, tak zdanení by se muselo řešit stejně  -vztah s NP</discourse_comment>
 </LM>
 <LM id="t-ln94208-45-p4s2w9">
 <a>

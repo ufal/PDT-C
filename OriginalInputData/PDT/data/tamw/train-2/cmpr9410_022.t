@@ -104,6 +104,9 @@
 <functor>CONJ</functor>
 <deepord>5</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR,
+sémanticky hypotaktické souvětí
+s asyndetickou podmínkovou klauzí</discourse_comment>
 <children>
 <LM id="t-cmpr9410-022-p3s1a0">
 <nodetype>complex</nodetype>
@@ -2261,6 +2264,10 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR,
+apozice mezi co
+ a navrhnout
+</discourse_comment>
 <children>
 <LM id="t-cmpr9410-022-p10s1w3">
 <a>
@@ -2790,6 +2797,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-022-p10s3w2">
 <a>
@@ -2800,6 +2808,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-022-p10s3w3">
 <a>

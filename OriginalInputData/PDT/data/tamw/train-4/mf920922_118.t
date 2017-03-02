@@ -119,6 +119,8 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR?
+dvakrát stejný nadpis</discourse_comment>
 <children>
 <LM id="t-mf920922-118-p3s1w2">
 <a>
@@ -699,6 +701,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>OPP je silnější
+než CONC</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-118-p4s4w2</LM>

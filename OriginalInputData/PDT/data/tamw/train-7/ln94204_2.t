@@ -13343,6 +13343,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_comment>wrongTR
+RHEM, není TWHEN </discourse_comment>
 </LM>
 <LM id="t-ln94204-2-p16s3w10">
 <a>

@@ -3386,6 +3386,10 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>s rysy confr a 
+restr (oboji tam z casti 
+vidim, ale ne 100%, 
+proto jsem dala jen opp)</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln95046-074-p4s2w3">
@@ -5649,6 +5653,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>15</deepord>
+<discourse_comment>vztah s infinitivem</discourse_comment>
 </LM>
 <LM id="t-ln95046-074-p5s2a1">
 <nodetype>complex</nodetype>
@@ -5743,6 +5748,7 @@
 <tfa>f</tfa>
 <deepord>24</deepord>
 <secondary_NP_type>explicat</secondary_NP_type>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w9661f1</val_frame.rf>
 <children>
 <LM id="t-ln95046-074-p5s2w26">
@@ -8280,6 +8286,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
+<discourse_comment>wrongTR? nemá být celé
+jeden uzel BEN?</discourse_comment>
 <val_frame.rf>v#v-w7216f1</val_frame.rf>
 <children>
 <LM id="t-ln95046-074-p6s2w22">

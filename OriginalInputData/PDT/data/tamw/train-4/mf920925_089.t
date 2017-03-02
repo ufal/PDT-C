@@ -735,6 +735,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-089-p3s2w1">
 <a>
@@ -6800,6 +6801,9 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>koreferenční šipka na NP,
+ale nelze přeformulovat
+pouze s pomocí NP, anotováno</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-mf920925-089-p4s12w13</target_node.rf>
@@ -8335,6 +8339,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<comment>netypická CONFR, 
+v kontrastu jsou jen dva
+děje (jejich ACT je stejný)</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-089-p5s3w20</LM>
@@ -10609,6 +10616,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>9</deepord>
+<discourse_comment>není PREC</discourse_comment>
 </LM>
 <LM id="t-mf920925-089-p5s9w15">
 <a>

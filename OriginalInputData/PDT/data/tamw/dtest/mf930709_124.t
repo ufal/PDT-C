@@ -38,6 +38,10 @@
 <tfa>f</tfa>
 <deepord>3</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>kolekce,
+wrongTR?, poslední zpráva
+není kompletní,
+chybná segmentace</discourse_comment>
 <val_frame.rf>v#v-w1058f1</val_frame.rf>
 <children>
 <LM id="t-mf930709-124-p1s1w1">

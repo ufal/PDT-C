@@ -13865,6 +13865,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>7</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94207-36-p20s1w1">
 <a>
@@ -16597,6 +16598,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>neznacim, clen 
+dvojice "pokud-tak"</discourse_comment>
 </LM>
 <LM id="t-ln94207-36-p21s5a4">
 <nodetype>complex</nodetype>
@@ -23235,6 +23238,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim, clen dvojice 
+"kdyz  -tak"</discourse_comment>
 </LM>
 <LM id="t-ln94207-36-p30s3w7">
 <a>

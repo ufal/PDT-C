@@ -561,6 +561,9 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR?
+vztah mezi větami je
+v podstatě APPS</discourse_comment>
 <children>
 <LM id="t-ln94205-5-p2s2w14">
 <a>
@@ -3252,6 +3255,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-5-p3s5w7</LM>

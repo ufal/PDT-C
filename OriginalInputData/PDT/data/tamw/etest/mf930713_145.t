@@ -1338,6 +1338,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR,
+špatná segmentace,
+patří do předchozí
+věty</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -3282,6 +3286,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w3540f1</val_frame.rf>
 <children>
 <LM id="t-mf930713-145-p2s11w8">

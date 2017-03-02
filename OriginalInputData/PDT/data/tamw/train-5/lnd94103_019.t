@@ -2451,6 +2451,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR, 
+(9) a (10)
+patří evidentně 
+do jednoho stromu </discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-lnd94103-019-p1s4w8</target_node.rf>

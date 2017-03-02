@@ -1910,6 +1910,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary důvod je</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-136-p4s2Bw1">
@@ -3999,6 +4000,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <children>
 <LM id="t-ln94202-136-p7s1w2">
 <a>

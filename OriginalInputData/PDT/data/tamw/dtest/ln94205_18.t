@@ -1137,6 +1137,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_comment>neznacim, znacila 
+bych conj, coz je uz 
+vyse</discourse_comment>
 </LM>
 <LM id="t-ln94205-18-p3s2w9">
 <a>

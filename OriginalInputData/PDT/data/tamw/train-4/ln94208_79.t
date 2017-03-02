@@ -1306,6 +1306,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>součást konektoru
+-li-pak, není PREC</discourse_comment>
 </LM>
 <LM id="t-ln94208-79-p3s1w11">
 <a>
@@ -4869,6 +4871,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>9</deepord>
+<discourse_comment>součást konektoru
+pokud-pak</discourse_comment>
 </LM>
 <LM id="t-ln94208-79-p5s2w18">
 <a>
@@ -6905,6 +6909,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem rovněž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-79-p6s3w2</LM>
@@ -8051,6 +8056,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>wrongTR,
+přebytečný otazník na konci
+věty  -nemá to být dvojtečka
+nebo středník?</discourse_comment>
 <val_frame.rf>v#v-w7583f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-79-p7s2w3">
@@ -9170,6 +9179,7 @@
 <functor>APPS</functor>
 <is_member>1</is_member>
 <deepord>7</deepord>
+<discourse_comment>větná APPS</discourse_comment>
 <children>
 <LM id="t-ln94208-79-p7s6w2">
 <a>
@@ -10932,6 +10942,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>adept na hypertéma, adept na seznam
+(31)-(34), hlavní uzly jsou
+ale DENOMy</discourse_comment>
 <val_frame.rf>v#v-w9258f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-79-p8s3w2">
@@ -12351,6 +12364,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>součást textu v závorce</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-79-p8s5w1">
@@ -13647,6 +13661,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>je v tom i postoj-
+plán je drahý, je ale třeba realizovat,
+protože máme důkazy, co se
+stane, kdyby se nic neřešilo</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-79-p9s2w2</LM>

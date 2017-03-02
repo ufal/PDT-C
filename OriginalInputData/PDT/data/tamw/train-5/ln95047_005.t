@@ -1788,6 +1788,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>Neznacim  -anafora, nezaklada 
+vyznamovy diskurzni vztah.</discourse_comment>
 </LM>
 <LM id="t-ln95047-005-p4s2w4">
 <a>

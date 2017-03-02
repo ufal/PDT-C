@@ -119,6 +119,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR? neni tato veta spatne nasegmentovana? 
+nema "Českomoravský profit č. 18" patrit jeste k 
+predchozimu stromu?</discourse_comment>
 <children>
 <LM id="t-lnd94103-015-p1s2w1">
 <a>
@@ -241,6 +244,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>8</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-lnd94103-015-p1s2w11">
 <a>

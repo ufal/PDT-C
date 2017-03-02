@@ -1127,6 +1127,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-016-p2s3w16</LM>

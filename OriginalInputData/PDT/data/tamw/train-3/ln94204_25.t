@@ -1523,6 +1523,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>typické pomezí
+s explicat</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-25-p4s1w13</LM>

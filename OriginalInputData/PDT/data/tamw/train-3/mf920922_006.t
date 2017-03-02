@@ -1939,6 +1939,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary původně  -později</discourse_comment>
 </LM>
 <LM id="t-mf920922-006-p1s6w4">
 <a>
@@ -2048,6 +2049,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary původně  -později,
+není to čistě časové</discourse_comment>
 </LM>
 <LM id="t-mf920922-006-p1s7w3">
 <a>

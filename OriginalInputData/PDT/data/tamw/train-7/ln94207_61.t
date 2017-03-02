@@ -1311,6 +1311,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>proč je za touhle 
+větou to O?
+špatná segmentace?
+zkratka pro otázku?</discourse_comment>
 <val_frame.rf>v#v-w3869f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-61-p3s1w24">

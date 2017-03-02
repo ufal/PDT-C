@@ -1024,6 +1024,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim  -MANN</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94205-46-p2s2w5</target_node.rf>
@@ -1670,6 +1671,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>neznacim  -MANN/MEANS</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94205-46-p3s2w9</target_node.rf>

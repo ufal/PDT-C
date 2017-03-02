@@ -4123,6 +4123,8 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>nejistota
+v sem vztahu</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-14-p6s4w1</LM>

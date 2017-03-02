@@ -7490,6 +7490,9 @@
 </gram>
 <tfa>c</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR, 
+A má být anotováno
+jako PREC.</discourse_comment>
 <val_frame.rf>v#v-w6977f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-048-p13s5w4">

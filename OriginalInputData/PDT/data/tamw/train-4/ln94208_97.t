@@ -365,6 +365,11 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>explicat mi tu
+přijde přesnější, 
+reformulace pomocí
+protože je tu
+nepřirozená</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-97-p2s2w2</LM>

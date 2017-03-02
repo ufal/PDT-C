@@ -98,6 +98,12 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrong TR,
+k podnadpisu je omylem
+přilepena první věta
+samostatného textu
+"Před námi bude zajímavý
+rok."</discourse_comment>
 <children>
 <LM id="t-ln94208-140-p2s1w4">
 <a>
@@ -2231,6 +2237,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>23</deepord>
+<discourse_comment>spíš CM než TWHEN</discourse_comment>
 </LM>
 <LM id="t-ln94208-140-p2s7a4">
 <a>
@@ -3311,6 +3318,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<comment>konektor rhem Neg, jenom</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-140-p3s3a0</LM>
@@ -6931,6 +6939,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>konektor rhem dokonce</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-140-p4s10w3</LM>
@@ -8453,6 +8462,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>součást konektoru
+-li-potom, není PREC</discourse_comment>
 </LM>
 <LM id="t-ln94208-140-p4s14w1">
 <a>

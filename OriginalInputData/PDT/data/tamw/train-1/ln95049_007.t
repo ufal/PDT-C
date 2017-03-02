@@ -658,6 +658,8 @@
 <tfa>f</tfa>
 <deepord>10</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>Vyplývání (vyvození výsledků)
+free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95049-007-p3s1w14">
 <a>
@@ -1583,6 +1585,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR? nema byt jiny funktor?</discourse_comment>
 <coref_special>segm</coref_special>
 </LM>
 <LM id="t-ln95049-007-p4s3a0">

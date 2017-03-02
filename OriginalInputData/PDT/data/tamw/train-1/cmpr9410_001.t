@@ -1132,6 +1132,11 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>není PREC,
+je dalším konektorem
+vztahu v této větě-
+otevrena podminka 
+neucinna (PMC:473)</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-001-p4s3w12">
 <a>
@@ -3023,6 +3028,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC,
+asi zesiluje vztah
+CONC v této větě,
+nadbytečné užití</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-001-p10s2w2">
 <a>

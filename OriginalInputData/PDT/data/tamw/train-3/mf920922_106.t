@@ -37,6 +37,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>popisek fotky</discourse_comment>
 <val_frame.rf>v#v-w8170f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-106-p1s1w1">

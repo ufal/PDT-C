@@ -4040,6 +4040,9 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>zmenit trasu jde urcite 
+i v pripade, ze jsou silnice 
+sjizdne, proto f_cond</discourse_comment>
 <val_frame.rf>v#v-w6496f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-003-p7s6w12">

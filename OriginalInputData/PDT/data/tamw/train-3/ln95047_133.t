@@ -1975,6 +1975,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<comment>corr bez expl. negace</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-133-p4s3w13</LM>
@@ -1989,6 +1990,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln95047-133-p4s3w13">

@@ -432,6 +432,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
+<discourse_comment>wrongTR? nema u tohoto uzlu byt odkaz na "chtěli"?
+(jinak nema smysl anotovat preced)</discourse_comment>
 <val_frame.rf>v#v-w5388f1</val_frame.rf>
 <children>
 <LM id="t-mf930709-083-p2s1Bw14">

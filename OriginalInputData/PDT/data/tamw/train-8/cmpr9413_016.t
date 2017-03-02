@@ -37,6 +37,7 @@
 <functor>APPS</functor>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>adept na seznam</discourse_comment>
 <children>
 <LM id="t-cmpr9413-016-p2s1w1">
 <a>

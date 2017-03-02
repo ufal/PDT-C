@@ -35,6 +35,10 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>adept na seznam,
+hypertéma zde,
+1.položka (2)-(9),
+2.položka (10)-(16)</discourse_comment>
 <children>
 <LM id="t-ln95048-041-p1s1w3">
 <a>

@@ -5709,6 +5709,7 @@
 <functor>RHEM</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>konektor rhem napriklad</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-051-p15s3w2">
 <a>
@@ -9152,6 +9153,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>zvazovala jsem i konfrontaci</discourse_comment>
 <children>
 <LM id="t-cmpr9413-051-p20s3w1">
 <a>

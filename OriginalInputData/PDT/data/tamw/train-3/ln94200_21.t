@@ -3217,6 +3217,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>přechod k explicat</discourse_comment>
 <val_frame.rf>v#v-w3620f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-21-p6s2w3">
@@ -3566,6 +3567,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>paragraph
+4-13</discourse_comment>
 </LM>
 <LM id="t-ln94200-21-p7s1w6">
 <a>
@@ -4141,6 +4144,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-21-p7s2w4</LM>

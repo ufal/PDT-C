@@ -1744,6 +1744,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
+s anotaci CONJ na TR</discourse_comment>
 </LM>
 <LM id="t-ln95046-010-p3s2w9">
 <a>

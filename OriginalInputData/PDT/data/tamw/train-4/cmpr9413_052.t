@@ -5065,6 +5065,7 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>pravopisna chyba  -ma byt "typ"</discourse_comment>
 <children>
 <LM id="t-cmpr9413-052-p13s1w1">
 <a>
@@ -8016,6 +8017,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>23</deepord>
+<discourse_comment>wrongTR? proc tento podstrom nevisí na a.CONJ?
+(aby rozvijel "ukradeno" i "vyvezeno")</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-cmpr9413-052-p18s1w16</target_node.rf>
@@ -11592,6 +11595,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce, protoze
+nepreanotovavam REG</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-052-p24s1w3">
 <a>
@@ -12011,6 +12016,8 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <is_negated>1</is_negated>
+<comment>není to z důvodu, je to z jiného důvodu,
+ale ten druhý důvod je jen implicitní</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-052-p24s3w5</LM>
@@ -12032,6 +12039,8 @@
 <id>2</id>
 </LM>
 </discourse_groups>
+<discourse_comment>wrongTR? nema byt "ale" nejvys a bezprostredne pod
+nim "byt", "mit" a PersPron?</discourse_comment>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-052-p24s3w2">
@@ -15043,6 +15052,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem rovněž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-052-p27s2w3</LM>
@@ -16320,6 +16330,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-cmpr9413-052-p30s1w3">
 <a>
@@ -16819,6 +16830,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-cmpr9413-052-p48s1w3">
 <a>

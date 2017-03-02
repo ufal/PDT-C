@@ -1706,6 +1706,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>naopak nějak
+zdůrazňuje 
+sémantiku slovesa,
+je to konektor?</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-122-p2s4w5</LM>
@@ -1917,6 +1921,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC,
+MANN</discourse_comment>
 </LM>
 <LM id="t-ln94210-122-p2s5w2">
 <a>
@@ -2111,6 +2117,9 @@
 <functor>CONJ</functor>
 <is_parenthesis>1</is_parenthesis>
 <deepord>15</deepord>
+<discourse_comment>wrongTR?,
+nechybí tu elipsa
+kvuli tomu predtim?</discourse_comment>
 <children>
 <LM id="t-ln94210-122-p2s5w19">
 <a>
@@ -2869,6 +2878,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>součást konektoru
+CONJ</discourse_comment>
 </LM>
 <LM id="t-ln94210-122-p3s3w19">
 <a>
@@ -7254,6 +7265,12 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>9</deepord>
+<discourse_comment>wrongTR?,
+nestalo by
+za to anotovat
+tu strukturu 
+s vedlejší časovou
+větou?</discourse_comment>
 <children>
 <LM id="t-ln94210-122-p4s10w4">
 <a>

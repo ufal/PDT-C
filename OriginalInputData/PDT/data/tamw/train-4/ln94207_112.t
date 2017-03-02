@@ -177,6 +177,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+<discourse_comment>adept na hypertéma,
+adept na seznam  -1.polozka
+(4)-(8), 2.polozka (9)-(12)</discourse_comment>
 <val_frame.rf>v#v-w6475f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-112-p2s1Bw2">
@@ -1735,6 +1738,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>je tam i něco
+z OPP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-112-p3s4w9</LM>
@@ -2390,6 +2395,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>vztah není úplně zřetelný,
+ovšem lze interpretovat i 
+jako one_arg</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-112-p3s5w11</LM>

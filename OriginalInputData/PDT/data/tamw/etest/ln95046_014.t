@@ -1320,6 +1320,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>nejednoznačné, zda jde o vztah
+mezi VP, necháno bez anotace</discourse_comment>
 <val_frame.rf>v#v-w9537f1</val_frame.rf>
 <children>
 <LM id="t-ln95046-014-p3s3a1">

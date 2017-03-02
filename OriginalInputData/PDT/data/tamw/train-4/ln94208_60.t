@@ -2269,6 +2269,7 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94208-60-p3s1w8">
 <a>
@@ -3990,6 +3991,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>8</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94208-60-p4s5w4">
 <a>
@@ -8003,6 +8005,9 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>5</deepord>
+<discourse_comment>APPS syntakticky
+ztvárněná jako běžná
+koordinační struktura</discourse_comment>
 <children>
 <LM id="t-ln94208-60-p5s6w3">
 <a>
@@ -8772,6 +8777,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>29</deepord>
+<discourse_comment>pouze specifikace NP, 
+proto neanotováno</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-60-p6s1w28">
@@ -12844,6 +12851,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-60-p8s1w1">
@@ -13469,6 +13477,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>zdůvodňování tam
+je, ale je vyjádřeno
+2x skoro to samé,
+proto explicat</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-60-p8s3w4</LM>

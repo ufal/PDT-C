@@ -5047,6 +5047,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>divny A1  -otazka</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-069-p6s2w3</LM>

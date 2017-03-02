@@ -3647,6 +3647,7 @@
 </quot>
 <tfa>t</tfa>
 <deepord>17</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930709-113-p2s12w19">
 <a>
@@ -6976,6 +6977,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>nejisté, kam patří
+to chtění celníků,
+nakonec necháno mimo
+argument</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-113-p2s24w15</LM>

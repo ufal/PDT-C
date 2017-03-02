@@ -1233,6 +1233,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94207-17-p3s1w1">
 <a>
@@ -5671,6 +5672,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>nestandardně 
+(a jakoby navíc)
+užité však</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-17-p6s4w2</LM>

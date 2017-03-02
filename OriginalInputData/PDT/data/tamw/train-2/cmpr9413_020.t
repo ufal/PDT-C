@@ -5587,6 +5587,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem rovněž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-020-p9s1w14</LM>
@@ -8234,6 +8235,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary mimo jiné</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-020-p11s1a2">
 <nodetype>qcomplex</nodetype>

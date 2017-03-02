@@ -2117,6 +2117,9 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>reason</discourse_type>
+<comment>kdyby byla součástí A1
+jen struktura 12, jednalo 
+by se o false_reason</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-003-p9s3w2</LM>

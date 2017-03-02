@@ -3913,6 +3913,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
+<comment>šlo by uvažovat i o tom,
+že se jedná o vztah mezi NPs,
+ale tomu brání předložková 
+vazba (se státy)</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-019-p10s4w1</LM>
@@ -4278,6 +4282,8 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>parcelovaná smíšená 
+apozice (20) a (21)</discourse_comment>
 <children>
 <LM id="t-cmpr9410-019-p10s5Ba4">
 <nodetype>qcomplex</nodetype>
@@ -5647,6 +5653,9 @@
 <functor>CONJ</functor>
 <is_member>1</is_member>
 <deepord>16</deepord>
+<discourse_comment>wrongTR, APPS, 
+celé by to mělo viset
+na : a pod ní až CONJ</discourse_comment>
 <children>
 <LM id="t-cmpr9410-019-p12s3w9">
 <a>
@@ -5924,6 +5933,9 @@
 </gram>
 <tfa>c</tfa>
 <deepord>17</deepord>
+<discourse_comment>wrongTR  -CM, 
+ne REG (celé:
+na druhé straně)</discourse_comment>
 <children>
 <LM id="t-cmpr9410-019-p12s3w33">
 <a>
@@ -8900,6 +8912,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-019-p18s4a0">
 <nodetype>complex</nodetype>
@@ -9267,6 +9280,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg
+</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-019-p19s1w5">
 <a>
@@ -12052,6 +12067,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>siroke vyplyvani (reason)</discourse_comment>
 <val_frame.rf>v#v-w8207f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-019-p26s1w9">
@@ -12381,6 +12397,9 @@
 </gram>
 <tfa>t</tfa>
 <deepord>25</deepord>
+<discourse_comment>wrongTR,
+patří ke konektoru
+podmínkové klauze</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-019-p26s1w27">
 <a>
@@ -17310,6 +17329,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-019-p35s1a1">
 <nodetype>complex</nodetype>

@@ -1355,6 +1355,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>čas tam není,
+dávám conj</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-054-p2s4w9</LM>
@@ -6335,6 +6337,7 @@
 <tfa>c</tfa>
 <deepord>5</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95048-054-p4s4w3">
 <a>

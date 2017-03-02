@@ -15483,6 +15483,7 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>21</deepord>
+<discourse_comment>divné užití</discourse_comment>
 </LM>
 <LM id="t-ln94207-73-p10s4w36">
 <a>
@@ -22704,6 +22705,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>30</deepord>
+<discourse_comment>patří ke konektoru
+CONJ v tomto stromě</discourse_comment>
 </LM>
 <LM id="t-ln94207-73-p13s7w38">
 <a>
@@ -41942,6 +41945,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>5</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94207-73-p21s15a1">
 <a>

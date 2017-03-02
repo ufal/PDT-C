@@ -36,6 +36,10 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>zřejmě vypadly řádky
+(viz cmpr9410_029)
+OSKAR 
+za mimořádný výkon</discourse_comment>
 <children>
 <LM id="t-cmpr9410-039-p1s1w1">
 <a>

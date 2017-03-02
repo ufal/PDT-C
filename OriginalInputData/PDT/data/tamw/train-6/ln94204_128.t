@@ -667,6 +667,9 @@
 <functor>APPS</functor>
 <is_member>1</is_member>
 <deepord>7</deepord>
+<discourse_comment>wrongTR, Chalupa 
+není čtyřkajak -
+nejedná se o APPS </discourse_comment>
 <children>
 <LM id="t-ln94204-128-p3s1w7">
 <a>
@@ -1419,6 +1422,7 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94204-128-p4s1w9">
 <a>
@@ -3633,6 +3637,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>adept na seznam-
+hypertéma 17, 
+2 položky v 18</discourse_comment>
 <val_frame.rf>v#v-w8422f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-128-p5s4w3">

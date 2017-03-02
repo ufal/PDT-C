@@ -2467,6 +2467,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-4-p6s1w16">
@@ -8925,6 +8926,7 @@
 <tfa>f</tfa>
 <deepord>8</deepord>
 <secondary_NP_type>explicat</secondary_NP_type>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w9661f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-4-p14s3w9">

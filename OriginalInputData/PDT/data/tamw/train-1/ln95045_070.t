@@ -1341,6 +1341,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>adept na seznam,
+hypertéma zde, 
+1.položka (8)-(13),
+2.položka (18)-(22)</discourse_comment>
 <val_frame.rf>v#v-w1757f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-070-p3s2w7">
@@ -4728,6 +4732,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>6</deepord>
+<discourse_comment>secondary druhou rozdílnost</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln95045-070-p3s2w11</target_node.rf>
@@ -5224,6 +5229,14 @@
 <t_lemma>a</t_lemma>
 <functor>GRAD</functor>
 <deepord>12</deepord>
+<discourse_comment>GRAD potřebuje 
+ke své smysluplnosti
+jak celek (20), 
+tak skutečnosti uvedené
+v celku (19),není
+ale způsob, jak to
+propojit  -není 
+konektor CONFR</discourse_comment>
 <children>
 <LM id="t-ln95045-070-p4s3w10">
 <a>
@@ -5592,6 +5605,7 @@
 <tfa>f</tfa>
 <deepord>3</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w9850f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-070-p4s4w2">
@@ -6535,6 +6549,7 @@
 <tfa>f</tfa>
 <deepord>2</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 <val_frame.rf>v#v-w8207f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-070-p5s2a0">

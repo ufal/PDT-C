@@ -562,6 +562,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>takhle část struktury
+je příčina k (4) i 
+druhé části (5)</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-30-p2s3w3</LM>
@@ -1711,6 +1714,9 @@
 <functor>RHEM</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neanotováno, pouze
+specifikuje paradox,
+tedy NP</discourse_comment>
 </LM>
 <LM id="t-ln94202-30-p4s3w2">
 <a>
@@ -3729,6 +3735,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem ani</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-30-p6s1w7</LM>
@@ -4189,6 +4196,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<comment>implicitní složka významu
+arg1</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-30-p6s2w1</LM>

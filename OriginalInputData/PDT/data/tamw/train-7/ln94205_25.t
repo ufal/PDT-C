@@ -2120,6 +2120,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>nepříliš jasný vztah</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-25-p3s4w5</LM>

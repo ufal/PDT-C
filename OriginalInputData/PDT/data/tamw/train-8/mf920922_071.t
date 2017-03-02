@@ -1020,6 +1020,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<comment>může být vnímáno
+i jako SPEC NP "co"</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-071-p2s2w26</LM>

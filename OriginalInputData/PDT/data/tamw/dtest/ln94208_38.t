@@ -230,6 +230,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR  -spatne t-lemma</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -3573,6 +3574,7 @@
 <tfa>f</tfa>
 <deepord>2</deepord>
 <secondary_NP_type>restr</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w6958f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-38-p4s2w1">

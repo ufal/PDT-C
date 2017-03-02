@@ -4015,6 +4015,11 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>21</deepord>
+<discourse_comment>wrongTR,
+není PREC,
+součást 
+konektoru
+CM?</discourse_comment>
 </LM>
 <LM id="t-ln94209-93-p3s6w31">
 <a>

@@ -1337,6 +1337,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary později</discourse_comment>
 </LM>
 <LM id="t-ln94206-106-p3s2w3">
 <a>

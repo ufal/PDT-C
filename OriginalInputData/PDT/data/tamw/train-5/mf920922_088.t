@@ -2261,6 +2261,7 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 </LM>
 <LM id="t-mf920922-088-p2s5w3">
 <a>
@@ -2621,6 +2622,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor se dá vypustit,
+CONJ z nedostatku
+jiné interpretace</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-088-p2s6w2</LM>

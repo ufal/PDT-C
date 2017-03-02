@@ -2119,6 +2119,7 @@
 <deepord>4</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
 <secondary_NP_negated>1</secondary_NP_negated>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w6297f1</val_frame.rf>
 <children>
 <LM id="t-ln95046-040-p2s5a0">
@@ -2262,6 +2263,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w6297f1</val_frame.rf>
 <children>
 <LM id="t-ln95046-040-p2s5w14">

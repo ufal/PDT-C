@@ -2427,6 +2427,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>několik hodin specifikuje
+konektor, ale nakonec
+nepřidáno </comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-79-p5s1w21</LM>
@@ -4902,6 +4905,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel PRECED dokud</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-79-p8s3w9</LM>

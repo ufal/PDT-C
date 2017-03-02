@@ -11667,6 +11667,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>jeden argument je vsuvka,
+úplně proto nesedí modalita</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94203-76-p11s5w12</LM>

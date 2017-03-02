@@ -2043,6 +2043,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-126-p3s2w2</LM>
@@ -2355,6 +2356,11 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary předně
+strukturuje text, 
+ve větě 30 je slovo další, 
+hodně nezřetelný 
+adept na seznam</discourse_comment>
 </LM>
 <LM id="t-ln94200-126-p4s1w3">
 <a>
@@ -4932,6 +4938,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>věta končí tečkou i
+pomlčkou  -kdyby byla
+jen pomlčka, byla by mezi 
+17 a 18 REASON</discourse_comment>
 <val_frame.rf>v#v-w1339f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-126-p5s2Aw2">
@@ -7206,6 +7216,7 @@
 <start_range>0</start_range>
 <target_range>backward</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-126-p7s2w1</LM>
@@ -9740,6 +9751,10 @@
 <start_range>0</start_range>
 <target_range>backward</target_range>
 <discourse_type>conj</discourse_type>
+<comment>výslovně ukazuje
+k větě 5, ale
+navazuje na celý text 
+od této věty</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-126-p10s1w1</LM>

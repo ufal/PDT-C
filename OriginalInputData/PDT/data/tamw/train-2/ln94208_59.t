@@ -5479,6 +5479,8 @@
 <tfa>f</tfa>
 <deepord>5</deepord>
 <secondary_NP_type>conc</secondary_NP_type>
+<discourse_comment>free compositional phrase
+konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w9661f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-59-p5s1w3">

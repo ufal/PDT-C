@@ -62,6 +62,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
+<discourse_comment>text bez nadpisu</discourse_comment>
 <val_frame.rf>v#v-w4733f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-015-p1s1w2">

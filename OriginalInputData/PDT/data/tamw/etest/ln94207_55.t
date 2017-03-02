@@ -1433,6 +1433,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>secondary dalším</discourse_comment>
 </LM>
 </children>
 </LM>

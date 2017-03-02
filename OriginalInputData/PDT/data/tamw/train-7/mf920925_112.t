@@ -35,6 +35,9 @@
 <tfa>f</tfa>
 <deepord>7</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR,
+chybná segmentace
+do větných celků</discourse_comment>
 <children>
 <LM id="t-mf920925-112-p1s1a0">
 <nodetype>qcomplex</nodetype>

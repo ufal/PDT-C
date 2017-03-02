@@ -60,6 +60,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není jasná role
+tohoto PREC,
+možná one_arg</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -1354,6 +1357,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>ironie? normální
+reason tam nevidím</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-093-p4s4w2</LM>
@@ -6241,6 +6246,11 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR,
+tohle je evidentně PREC,
+ale nějak tu jedna věta
+chybí, nebo jsou věty 
+přeházené</discourse_comment>
 </LM>
 <LM id="t-mf920925-093-p7s6w6">
 <a>
@@ -9086,6 +9096,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-093-p8s1a0">

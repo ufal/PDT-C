@@ -1729,6 +1729,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>31</deepord>
+<discourse_comment>wrongTR? proc tento podstrom nevisi na "Polsko"?</discourse_comment>
 <val_frame.rf>v#v-w6951f2</val_frame.rf>
 <children>
 <LM id="t-ln95045-065-p2s4w35">

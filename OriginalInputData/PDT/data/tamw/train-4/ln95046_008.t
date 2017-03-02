@@ -983,6 +983,10 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
+<discourse_comment>wrongTR? nema viset "comma" na "činit"? a nema na 
+"comma" viset "milión" a "být"? viz analogicky
+pripad ln95045_083, veta 9; analogicka veta ve 
+velkem TR manualu na s. 954</discourse_comment>
 <children>
 <LM id="t-ln95046-008-p3s1w8">
 <a>

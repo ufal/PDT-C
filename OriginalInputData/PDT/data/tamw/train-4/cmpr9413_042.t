@@ -12059,6 +12059,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel SYNCHR včas dokud, 
+dost nejasné</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-042-p17s7w17</LM>
@@ -12728,6 +12730,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-cmpr9413-042-p20s1w3">
 <a>
@@ -13023,6 +13026,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR</discourse_comment>
 </LM>
 </children>
 </LM>

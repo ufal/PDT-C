@@ -2316,6 +2316,7 @@
 </quot>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>vztah s NP pochodující nervy</discourse_comment>
 </LM>
 <LM id="t-mf920925-061-p1s6a0">
 <nodetype>complex</nodetype>
@@ -2923,6 +2924,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>taky možné vidět to jako 
+PAT/EFF řídící věty</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-061-p1s7w20</LM>

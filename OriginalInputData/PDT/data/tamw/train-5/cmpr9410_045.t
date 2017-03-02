@@ -1694,6 +1694,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 <val_frame.rf>v#v-w8207f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-045-p5s2w3">
@@ -3842,6 +3843,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento prec neni pripojen k zadne sipce  -pripada
+mi, ze funguje jen v ramci vety (takze to
+vlastne neni prec?): nejdriv 
+restrikce, potom naopak mirne expanzivni poloha</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-045-p10s2w1">
 <a>
@@ -4799,6 +4804,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary jde o</discourse_comment>
 <val_frame.rf>v#v-w1339f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-045-p11s2w6">

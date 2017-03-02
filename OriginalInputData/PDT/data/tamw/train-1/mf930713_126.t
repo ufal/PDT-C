@@ -53,6 +53,7 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>is_photo</discourse_comment>
 <children>
 <LM id="t-mf930713-126-p1s1w1">
 <a>

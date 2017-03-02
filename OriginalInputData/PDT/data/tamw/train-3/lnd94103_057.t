@@ -319,6 +319,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR?
+co to tu dělá?</discourse_comment>
 <children>
 <LM id="t-lnd94103-057-p1s1Cw2">
 <a>

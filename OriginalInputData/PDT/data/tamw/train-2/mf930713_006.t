@@ -3837,6 +3837,7 @@
 </quot>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930713-006-p2s11w6">
 <a>

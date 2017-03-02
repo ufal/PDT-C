@@ -2575,6 +2575,11 @@
 </a-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR,
+"a" má být značeno
+jako PREC ne jako
+součást podřadící 
+spojky pokud</discourse_comment>
 <val_frame.rf>v#v-w1339f5</val_frame.rf>
 <children>
 <LM id="t-lnd94103-062-p1s10w6">

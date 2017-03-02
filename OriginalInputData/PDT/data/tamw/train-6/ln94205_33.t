@@ -1338,6 +1338,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary  -novy vztah?</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94205-33-p2s4w14</target_node.rf>

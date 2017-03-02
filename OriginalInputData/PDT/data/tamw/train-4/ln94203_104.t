@@ -5334,6 +5334,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94203-104-p4s9w7">
 <a>
@@ -6109,6 +6110,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>spíše takové zdůvodnění</discourse_comment>
 <val_frame.rf>v#v-w2834f1</val_frame.rf>
 <children>
 <LM id="t-ln94203-104-p4s12w6">

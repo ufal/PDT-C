@@ -3557,6 +3557,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR, má být skryto u slovesa</discourse_comment>
 </LM>
 <LM id="t-ln94200-101-p4s6w2">
 <a>

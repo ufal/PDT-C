@@ -637,6 +637,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_comment>secondary z techto duvodu</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94207-128-p2s1Bw9</target_node.rf>
@@ -1306,6 +1307,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>7</deepord>
+<discourse_comment>vwrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94207-128-p3s2w3">
 <a>

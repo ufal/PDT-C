@@ -1478,6 +1478,7 @@
 <tfa>c</tfa>
 <deepord>2</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94209-45-p3s2w3">
 <a>
@@ -2955,6 +2956,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-45-p5s2w1">
 <a>
@@ -6884,6 +6886,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-45-p9s2w2">
 <a>

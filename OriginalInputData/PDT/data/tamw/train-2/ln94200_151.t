@@ -3378,6 +3378,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>14</deepord>
+<discourse_comment>patří ke konektoru 
+podmínkové klauze
+v této struktuře</discourse_comment>
 </LM>
 <LM id="t-ln94200-151-p5s5Aw20">
 <a>
@@ -4525,6 +4528,8 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary  -negované sloveso v jedné
+části, "spíše" v druhé  -vzniká OPP</discourse_comment>
 </LM>
 <LM id="t-ln94200-151-p6s4w1">
 <a>

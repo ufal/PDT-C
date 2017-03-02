@@ -94,6 +94,10 @@
 <functor>CONJ</functor>
 <deepord>5</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>parcelace?,
+jako vztah VP-VP
+to vnímat podle
+mého nejde_PJ</discourse_comment>
 <children>
 <LM id="t-cmpr9413-014-p3s1a1">
 <nodetype>qcomplex</nodetype>
@@ -3237,6 +3241,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-014-p7s5w7">
@@ -4217,6 +4222,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-014-p8s3w2">
 <a>
@@ -4227,6 +4233,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-014-p8s3a0">
 <nodetype>complex</nodetype>

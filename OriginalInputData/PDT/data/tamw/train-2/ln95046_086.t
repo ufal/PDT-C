@@ -2579,6 +2579,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>26</deepord>
+<discourse_comment>patří ke konektoru
+ADVS v tomto stromě</discourse_comment>
 </LM>
 <LM id="t-ln95046-086-p3s3a3">
 <nodetype>atom</nodetype>

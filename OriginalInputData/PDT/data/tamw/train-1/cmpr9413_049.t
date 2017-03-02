@@ -3616,6 +3616,8 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>silná pragmatická
+složka významu</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-049-p8s4w1</LM>

@@ -1434,6 +1434,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>ke konektoru vlastně
+patří i nejprve</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p3s2w18</LM>
@@ -4292,6 +4294,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>ve vždyť je i něco 
+z postoje</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p4s10w1</LM>
@@ -4411,6 +4415,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem ani</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p4s11w1</LM>
@@ -4921,6 +4926,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<comment>konektor rhem pouze</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p5s1a0</LM>
@@ -5752,6 +5758,7 @@
 <start_range>1</start_range>
 <target_range>1</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem např.</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p5s5w1</LM>
@@ -6156,6 +6163,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>součást konektoru
+pokud-pak, není PREC</discourse_comment>
 </LM>
 <LM id="t-ln94207-40-p5s6w6">
 <a>

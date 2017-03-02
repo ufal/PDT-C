@@ -282,6 +282,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
+<discourse_comment>adept na hypertéma,
+celý další text adept na seznam,
+nejasný rozsah položek, 
+bez konektorů</discourse_comment>
 <val_frame.rf>v#v-w5238f1</val_frame.rf>
 <children>
 <LM id="t-ln94210-65-p2s1Cw2">

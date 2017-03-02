@@ -2946,6 +2946,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>časovost vztahu 
+velmi slabá, proto
+anotováno takto</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-28-p4s3w7</LM>

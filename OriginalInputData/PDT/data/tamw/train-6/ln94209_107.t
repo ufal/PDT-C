@@ -1625,6 +1625,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>neznacim, pokud bych znacila, 
+byl by to vztah, ktery je uz 
+zaznacen (conj)</discourse_comment>
 </LM>
 <LM id="t-ln94209-107-p5s1w18">
 <a>

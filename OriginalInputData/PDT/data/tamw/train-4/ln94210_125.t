@@ -1023,6 +1023,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem např.</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-125-p2s3w18</LM>
@@ -1188,6 +1189,8 @@
 <start_range>0</start_range>
 <target_range>2</target_range>
 <discourse_type>conj</discourse_type>
+<comment>není jasný rozsah 
+start_range</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-125-p2s4w8</LM>

@@ -4703,6 +4703,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>28</deepord>
+<discourse_comment>patří ke konektoru
+CONJ</discourse_comment>
 </LM>
 <LM id="t-mf930713-105-p2s16w35">
 <a>

@@ -1570,6 +1570,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>secondary zásluhou toho</discourse_comment>
 <val_frame.rf>v#v-w317f1</val_frame.rf>
 <children>
 <LM id="t-ln94209-22-p4s2a3">

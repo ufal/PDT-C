@@ -1462,6 +1462,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>19</deepord>
+<discourse_comment>neznacim, znacila bych 
+CONJ, coz uz zaznacene je.</discourse_comment>
 </LM>
 <LM id="t-ln94209-14-p2s3w24">
 <a>

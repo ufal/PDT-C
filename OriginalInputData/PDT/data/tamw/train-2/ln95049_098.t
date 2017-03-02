@@ -683,6 +683,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>22</deepord>
+<discourse_comment>lze vnímat buď jako
+vztah NP, nebo jako
+součást CONJ konektoru
+> neanotováno</discourse_comment>
 </LM>
 <LM id="t-ln95049-098-p2s1Ba6">
 <a>

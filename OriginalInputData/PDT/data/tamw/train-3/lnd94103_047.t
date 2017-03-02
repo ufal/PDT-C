@@ -915,6 +915,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w9418f1</val_frame.rf>
 <children>
 <LM id="t-lnd94103-047-p1s3w2">

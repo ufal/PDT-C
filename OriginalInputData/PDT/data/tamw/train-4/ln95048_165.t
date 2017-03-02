@@ -4246,6 +4246,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95048-165-p4s1w5">
 <a>

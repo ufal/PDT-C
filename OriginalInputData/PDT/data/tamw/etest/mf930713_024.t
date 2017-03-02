@@ -2967,6 +2967,9 @@
 </gram>
 <tfa>t</tfa>
 <deepord>24</deepord>
+<discourse_comment>není čistě časové,
+spíš součást konektoru
+advs?</discourse_comment>
 </LM>
 <LM id="t-mf930713-024-p2s6w22">
 <a>

@@ -1333,6 +1333,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<comment>sporná anotace,
+wrongTR? způsobová věta?</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-59-p3s2w15</LM>
@@ -1795,6 +1797,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>6</deepord>
+<discourse_comment>není prec, patří do této věty</discourse_comment>
 </LM>
 <LM id="t-ln94205-59-p3s4w8">
 <a>

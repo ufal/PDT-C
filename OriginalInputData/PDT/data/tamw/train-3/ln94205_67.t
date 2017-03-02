@@ -4827,6 +4827,7 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94205-67-p3s12a0">
 <nodetype>qcomplex</nodetype>
@@ -4973,6 +4974,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94205-67-p4s1w4">
 <a>

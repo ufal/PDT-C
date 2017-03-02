@@ -7182,6 +7182,11 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>Dost jsem premyslela 
+mezi conj a opp  -
+namisto "pritom" 
+si dokazu totiz predstavit 
+jak "a", tak "ale".</discourse_comment>
 <children>
 <LM id="t-ln95047-084-p6s5w4">
 <a>
@@ -9786,6 +9791,8 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>Tady jsem moc nevedela, zvazovala jsem 
+i opp, chvili dokonce i corr.</discourse_comment>
 <val_frame.rf>v#v-w2132f1</val_frame.rf>
 <children>
 <LM id="t-ln95047-084-p7s5w2">
@@ -10347,6 +10354,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <children>
 <LM id="t-ln95047-084-p7s7w1">
 <a>

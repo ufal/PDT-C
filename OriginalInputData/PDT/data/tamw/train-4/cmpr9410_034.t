@@ -2796,6 +2796,7 @@
 <start_range>0</start_range>
 <target_range>2</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem též</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-034-p4s4w3</LM>
@@ -3119,6 +3120,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>secondary  -novy vztah?</discourse_comment>
 <children>
 <LM id="t-cmpr9410-034-p4s5w15">
 <a>
@@ -3405,6 +3407,7 @@
 <start_range>0</start_range>
 <target_range>9</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem ani</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-034-p4s7w1</LM>

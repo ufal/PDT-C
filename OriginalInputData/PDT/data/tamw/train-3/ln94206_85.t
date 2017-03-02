@@ -9936,6 +9936,7 @@
 <functor>CONJ</functor>
 <is_member>1</is_member>
 <deepord>23</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94206-85-p2s37w15">
 <a>
@@ -11073,6 +11074,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel PRECED dokud</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-85-p2s39w18</LM>

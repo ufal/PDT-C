@@ -7531,6 +7531,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>MANN, ne PREC</discourse_comment>
 </LM>
 <LM id="t-mf920925-028-p2s26w2">
 <a>

@@ -1027,6 +1027,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>secondary+konektor</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-112-p2s3w14</LM>
@@ -3011,6 +3012,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>17</deepord>
+<discourse_comment>one_arg dále</discourse_comment>
 </LM>
 <LM id="t-ln95048-112-p3s5w24">
 <a>
@@ -3604,6 +3606,8 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR?
+špatný funktor</discourse_comment>
 </LM>
 <LM id="t-ln95048-112-p4s1w1">
 <a>

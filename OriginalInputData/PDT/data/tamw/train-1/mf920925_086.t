@@ -519,6 +519,8 @@
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim, clen dvojice 
+kdyz  -tak</discourse_comment>
 </LM>
 <LM id="t-mf920925-086-p4s1w6">
 <a>
@@ -1119,6 +1121,10 @@
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg
+
+urcita presupozice? 
+drive se o Jugoslavii nemluvi</discourse_comment>
 </LM>
 <LM id="t-mf920925-086-p4s2w3">
 <a>
@@ -1889,6 +1895,7 @@
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-086-p4s5w4">
 <a>

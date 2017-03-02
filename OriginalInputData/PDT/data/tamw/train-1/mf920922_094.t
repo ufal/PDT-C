@@ -2801,6 +2801,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-094-p2s7w10">
@@ -4078,6 +4079,9 @@
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>prvním "argumentem"
+je jmenná fráze 
+z předchozí věty</discourse_comment>
 </LM>
 <LM id="t-mf920922-094-p2s11w3">
 <a>

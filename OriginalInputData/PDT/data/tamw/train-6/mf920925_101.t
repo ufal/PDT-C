@@ -513,6 +513,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-101-p3s2w5">
 <a>
@@ -1075,6 +1076,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_opp</discourse_type>
+<comment>místo toho = však?,
+velká mezera mezi argumenty</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-101-p4s2w23</LM>
@@ -3023,6 +3026,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>6</deepord>
+<discourse_comment>neznacim, dala bych conj, coz 
+je uz zaznacene</discourse_comment>
 </LM>
 <LM id="t-mf920925-101-p6s2w7">
 <a>

@@ -321,6 +321,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+<discourse_comment>spatna segmentace textu</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-102-p2s1Bw3">
@@ -2199,6 +2200,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94204-102-p3s3w13">
 <a>
@@ -8906,6 +8908,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>dvojznačné, 
+ale anotovaná
+možnost je pro
+mě silnější</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-102-p7s3w4</LM>

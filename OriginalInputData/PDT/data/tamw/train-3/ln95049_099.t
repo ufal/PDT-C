@@ -3281,6 +3281,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>nejisty rozsah A1</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-099-p5s1w1</LM>

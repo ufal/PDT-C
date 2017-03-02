@@ -2850,6 +2850,13 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+<discourse_comment>adept na seznam,
+hypertéma zde, 
+1.položka (14),
+2.položka (15),
+neanotováno kvůli
+"neseznamové" syntaktické
+stavbě vět</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln95048-062-p3s8w2</target_node.rf>
@@ -6410,6 +6417,9 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>netypické užití tedy,
+může být vnímáno 
+i jako OPP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s21w4</LM>
@@ -7754,6 +7764,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>21</deepord>
+<discourse_comment>secondary díky čemuž</discourse_comment>
 <coref_gram.rf>
 <LM>t-ln95048-062-p3s22w14</LM>
 </coref_gram.rf>

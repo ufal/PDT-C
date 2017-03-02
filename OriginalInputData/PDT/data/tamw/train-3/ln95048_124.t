@@ -2121,6 +2121,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_opp</discourse_type>
+<comment>ironie: Baudys je nevojak a
+chce byt ministrem obrany</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-124-p3s8w15</LM>

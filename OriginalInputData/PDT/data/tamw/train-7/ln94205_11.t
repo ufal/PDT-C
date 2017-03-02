@@ -1293,6 +1293,10 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR,
+sloveso provést
+nedává smysl,
+nahradit EmpVerb</discourse_comment>
 <val_frame.rf>v#v-w4616f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-11-p3s2w17">
@@ -3951,6 +3955,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>Vyplývání (vyvození výsledků)
+free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w8207f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-11-p6s3w2">

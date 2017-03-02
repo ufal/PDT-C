@@ -504,6 +504,8 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>9</deepord>
+<discourse_comment>prvním argumentem
+je NP</discourse_comment>
 </LM>
 <LM id="t-ln94210-97-p2s2a0">
 <nodetype>complex</nodetype>
@@ -5778,6 +5780,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>secondary? pravda</discourse_comment>
 </LM>
 <LM id="t-ln94210-97-p5s3a0">
 <nodetype>qcomplex</nodetype>

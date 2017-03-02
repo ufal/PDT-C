@@ -1724,6 +1724,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>26</deepord>
+<discourse_comment>wrongTR? podle me by na "a" melo viset "pocházet" 
+a "činit". na "činit" by mělo viset "domnívat se"
+jako ACT.</discourse_comment>
 <val_frame.rf>v#v-w327f3</val_frame.rf>
 <children>
 <LM id="t-ln94208-83-p3s2w16">
@@ -3547,6 +3550,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>parcelace, vztah mezi NP</discourse_comment>
 </LM>
 <LM id="t-ln94208-83-p4s6w2">
 <a>
@@ -5225,6 +5229,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>wrongTR? navrhuju do druhe casti teto vety 
+dokopirovat "předepsat". pak bych anotovala
+preced.</discourse_comment>
 <children>
 <LM id="t-ln94208-83-p5s4w8">
 <a>

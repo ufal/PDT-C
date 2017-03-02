@@ -6973,6 +6973,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_comment>patří ke konektoru
+této věty, není PREC</discourse_comment>
 </LM>
 <LM id="t-ln94200-46-p8s3w8">
 <a>
@@ -6983,6 +6985,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>8</deepord>
+<discourse_comment>patří ke konektoru
+této věty, není PREC</discourse_comment>
 </LM>
 <LM id="t-ln94200-46-p8s3w12">
 <a>
@@ -7921,6 +7925,12 @@
 <functor>ADVS</functor>
 <is_dsp_root>1</is_dsp_root>
 <deepord>13</deepord>
+<discourse_comment>wrongTR?
+měla by být hierarchie
+CONJ mezi prvními
+dvěma větvemi a 
+ADVS mezi CONJ a třetí
+větví</discourse_comment>
 <children>
 <LM id="t-ln94200-46-p8s9a1">
 <nodetype>complex</nodetype>

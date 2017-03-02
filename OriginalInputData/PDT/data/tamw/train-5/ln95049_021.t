@@ -1090,6 +1090,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>podle mého to lze i
+neanotovat PJ</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-021-p2s4w3</LM>
@@ -2676,6 +2678,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<comment>second_rel CONFR zatimco</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-021-p2s7w30</LM>

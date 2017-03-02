@@ -2175,6 +2175,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>25</deepord>
+<discourse_comment>strom znemožňuje anotaci vztahu VV a VH</discourse_comment>
 <val_frame.rf>v#v-w1312f1</val_frame.rf>
 <children>
 <LM id="t-ln95047-109-p5s1w24">

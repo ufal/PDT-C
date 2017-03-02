@@ -1886,6 +1886,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930709-064-p2s7w3">
 <a>
@@ -2821,6 +2822,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>secondary důvodů je</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-mf930709-064-p2s10w1">
@@ -4721,6 +4723,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>konektor+secondary</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-mf930709-064-p2s16w12</LM>

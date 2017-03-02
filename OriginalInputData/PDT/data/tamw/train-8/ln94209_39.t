@@ -1140,6 +1140,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-39-p2s4a0">
 <nodetype>complex</nodetype>

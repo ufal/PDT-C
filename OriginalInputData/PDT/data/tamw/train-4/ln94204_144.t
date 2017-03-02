@@ -2989,6 +2989,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94204-144-p2s6w1">
 <a>
@@ -10565,6 +10566,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>implicitní vztah,
+otázka jako Arg2</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-144-p7s1w3</LM>

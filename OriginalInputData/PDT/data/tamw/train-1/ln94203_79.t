@@ -815,6 +815,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>semantika PRECED 
+je dána lexikálně,
+konektorem jen
+částečně</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-79-p2s4w1</LM>
@@ -7266,6 +7270,10 @@
 <functor>ADVS</functor>
 <is_member>1</is_member>
 <deepord>15</deepord>
+<discourse_comment>podle smyslu
+by celý strom měl
+viset na tomhle
+jenže, wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94203-79-p7s6w7">
 <a>

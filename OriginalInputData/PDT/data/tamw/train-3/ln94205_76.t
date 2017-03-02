@@ -2684,6 +2684,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_comment>secondary  -zretel</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94205-76-p3s5w26</target_node.rf>
@@ -3743,6 +3744,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-76-p4s5w11">
@@ -4799,6 +4801,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-76-p4s8w2</LM>

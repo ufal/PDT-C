@@ -229,6 +229,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>nevhodně užitý konektor,
+dělá příčinu tam, kde
+žádná není</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-130-p3s1w5</LM>
@@ -1045,6 +1048,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>adept na seznam</discourse_comment>
 <val_frame.rf>v#v-w5195f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-130-p3s1w5">
@@ -1491,6 +1495,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary  -zretel</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94208-130-p3s1w24</target_node.rf>
@@ -2334,6 +2339,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem ani</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-130-p5s2w1</LM>
@@ -2979,6 +2985,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse_comment>wrongTR, tohle
+je tady spíš příslovce</discourse_comment>
 </LM>
 <LM id="t-ln94208-130-p5s3w13">
 <a>
@@ -3578,6 +3586,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>pred touto vetou chybi podnadpis (Skupina X) a 
+uvedeni, o ktere zeme jde?</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-130-p7s1w2">
@@ -4885,6 +4895,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>pred touto vetou chybi podnadpis (Skupina X) a 
+uvedeni, o ktere zeme jde?</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-130-p9s1w2">
@@ -5092,6 +5104,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem dokonce</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-130-p9s2w7</LM>
@@ -6229,6 +6242,7 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>8</deepord>
+<discourse_comment>pred touto vetou chybi podnadpis (Skupina X) a uvedeni, o ktere zeme jde?</discourse_comment>
 <children>
 <LM id="t-ln94208-130-p11s1w7">
 <a>
@@ -6527,6 +6541,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>pred touto vetou chybi podnadpis (Skupina X)
+a uvedeni, o ktere zeme jde?</discourse_comment>
 <val_frame.rf>v#v-w387f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-130-p13s1w3">
@@ -6802,6 +6818,7 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem dokonce</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-130-p13s2w11</LM>
@@ -8105,6 +8122,7 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>5</deepord>
+<discourse_comment>pred touto vetou chybi podnadpis (Skupina X)?</discourse_comment>
 <children>
 <LM id="t-ln94208-130-p14s3w1">
 <a>
@@ -9519,6 +9537,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>pred touto vetou chybi podnadpis (Skupina X) a
+uvedeni, o ktere zeme jde?</discourse_comment>
 <val_frame.rf>v#v-w9118f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-130-p17s1w2">
@@ -10433,6 +10453,8 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>8</deepord>
+<discourse_comment>pred touto vetou chybi podnadpis (Skupina X) a 
+uvedeni, o ktere zeme jde?</discourse_comment>
 <children>
 <LM id="t-ln94208-130-p19s1w1">
 <a>

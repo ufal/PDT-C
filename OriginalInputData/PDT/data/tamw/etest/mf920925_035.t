@@ -2811,6 +2811,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w9420f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-035-p2s9w22">

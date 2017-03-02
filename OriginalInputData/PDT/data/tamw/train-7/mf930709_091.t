@@ -38,6 +38,8 @@
 <tfa>f</tfa>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR? tento soubor je dost nekoherentní.
+Nechybi tady neco?</discourse_comment>
 <val_frame.rf>v#v-w4017f1</val_frame.rf>
 <children>
 <LM id="t-mf930709-091-p1s1w1">

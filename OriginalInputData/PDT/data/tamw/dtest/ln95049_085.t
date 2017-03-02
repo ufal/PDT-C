@@ -1340,6 +1340,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<comment>konektor+secondary</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-085-p2s4w2</LM>
@@ -5576,6 +5577,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<comment>lze vnímat i jako
+SPEC NP "co"_PJ</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-085-p3s12w21</LM>
@@ -5903,6 +5906,10 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>o korune se tu mluvi poprve, proto 
+je to trochu nesrozumitelne; 
+zaroven si nejsem jista rozsahem 
+prvniho argumentu</discourse_comment>
 <val_frame.rf>v#v-w3027f1</val_frame.rf>
 <children>
 <LM id="t-ln95049-085-p3s14w7">

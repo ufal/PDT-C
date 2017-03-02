@@ -43,6 +43,7 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>popisek obrázku</discourse_comment>
 <children>
 <LM id="t-ln94202-94-p1s1Aw2">
 <a>

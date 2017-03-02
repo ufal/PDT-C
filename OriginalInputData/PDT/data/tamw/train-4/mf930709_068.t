@@ -2913,6 +2913,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
+<discourse_comment>chybi mi tu ten prvni argument, 
+z ceho dosli k tomu zaveru</discourse_comment>
 <children>
 <LM id="t-mf930709-068-p5s1w18">
 <a>

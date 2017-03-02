@@ -12107,6 +12107,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>rys COND, ale ta je 
+implicitní</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-025-p18s3w7</LM>
@@ -12760,6 +12762,8 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>nejspíš nějaký reklamní vtip 
+na konec článku</discourse_comment>
 </LM>
 </children>
 </LM>

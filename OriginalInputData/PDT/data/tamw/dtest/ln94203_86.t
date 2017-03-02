@@ -2420,6 +2420,14 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
+<discourse_comment>adept na hypertéma,
+další text je
+adept na seznam:
+1.polozka 13-15
+2.polozka 16-17
+3.polozka 18-22
+4.polozka 23-29
+5.polozka 30-35</discourse_comment>
 <val_frame.rf>v#v-w9986f1</val_frame.rf>
 <children>
 <LM id="t-ln94203-86-p3s2w1">
@@ -8136,6 +8144,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w3765f2</val_frame.rf>
 <children>
 <LM id="t-ln94203-86-p8s1w3">

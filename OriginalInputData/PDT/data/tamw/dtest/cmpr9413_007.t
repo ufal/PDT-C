@@ -27,6 +27,7 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>kolekce  -zacina vetou 7</discourse_comment>
 <children>
 <LM id="t-cmpr9413-007-p2s1w2">
 <a>

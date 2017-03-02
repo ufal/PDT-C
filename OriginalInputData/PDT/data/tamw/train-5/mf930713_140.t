@@ -616,6 +616,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<comment>second_rel CONFR zatimco</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-140-p2s1w28</LM>

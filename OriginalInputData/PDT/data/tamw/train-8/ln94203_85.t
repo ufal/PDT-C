@@ -1164,6 +1164,7 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>30</deepord>
+<discourse_comment>spatna segmentace textu</discourse_comment>
 <children>
 <LM id="t-ln94203-85-p3s1w2">
 <a>
@@ -10006,6 +10007,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-ln94203-85-p8s6w13">
@@ -20217,6 +20219,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>8</deepord>
+<discourse_comment>neznacim, vztah CONJ jiz 
+zaznacen vyse</discourse_comment>
 </LM>
 <LM id="t-ln94203-85-p14s2w11">
 <a>

@@ -430,6 +430,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel PRECED dokud</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-082-p3s1w19</LM>

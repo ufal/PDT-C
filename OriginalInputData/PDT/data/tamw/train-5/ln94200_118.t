@@ -4155,6 +4155,8 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>spec</discourse_type>
+<comment>první položka nemá slovesný uzel,
+ostatní ho mají doplněný</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-118-p5s1w10</LM>

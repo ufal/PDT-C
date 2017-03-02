@@ -3833,6 +3833,11 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+<discourse_comment>má vztah k podstromu 
+zajímat se v 14, 
+ale je to příliš implicitní 
+na anotaci  -u nás se nezajímají, 
+v zahraničí ano  -například...</discourse_comment>
 <val_frame.rf>v#v-w1339f20</val_frame.rf>
 <children>
 <LM id="t-ln94202-130-p5s4w4">

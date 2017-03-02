@@ -996,6 +996,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neanotuji  -konektor nezaklada vyznamovy 
+diskurzni vztah, lze doplnit misto toho 
+"jeste", "krome Veltruskeho prisel i Cerny"</discourse_comment>
 </LM>
 <LM id="t-ln95047-025-p2s3w2">
 <a>

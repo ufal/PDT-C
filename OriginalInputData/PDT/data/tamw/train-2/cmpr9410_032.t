@@ -698,6 +698,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>špatně anotováno, součást
+spojovacího prostředku, zbytečná</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-032-p3s3w4">
 <a>
@@ -3159,6 +3161,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>14</deepord>
+<discourse_comment>GRAD, ale ne dějů, jen cen,
+proto neanotováno</discourse_comment>
 <val_frame.rf>v#v-w1949f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-032-p5s2w16">
@@ -7292,6 +7296,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>sémantická mezera 
+mezi argumenty</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-032-p10s1w12</LM>

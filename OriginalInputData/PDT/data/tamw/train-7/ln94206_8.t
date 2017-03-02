@@ -2298,6 +2298,11 @@
 </gram>
 <tfa>t</tfa>
 <deepord>26</deepord>
+<discourse_comment>koreferenční šipka
+má podle mého
+vést na vyplývat,
+toto kromě
+toho je pro mě konektorem_PJ</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94206-8-p4s2w17</target_node.rf>
@@ -7602,6 +7607,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>neladí modalita,
+je třeba přemostit
+</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-8-p7s8w1</LM>
@@ -9118,6 +9126,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary z toho důvodu</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94206-8-p8s1w6</target_node.rf>

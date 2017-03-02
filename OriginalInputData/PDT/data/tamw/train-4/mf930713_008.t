@@ -36,6 +36,8 @@
 <tfa>t</tfa>
 <deepord>3</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR  -chybna 
+segmentace</discourse_comment>
 <children>
 <LM id="t-mf930713-008-p1s1Aw1">
 <a>

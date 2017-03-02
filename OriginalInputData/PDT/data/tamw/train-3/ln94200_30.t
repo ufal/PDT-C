@@ -1456,6 +1456,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>spíš MANN než PREC</discourse_comment>
 </LM>
 <LM id="t-ln94200-30-p3s2a0">
 <nodetype>qcomplex</nodetype>

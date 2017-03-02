@@ -916,6 +916,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94202-78-p2s2a1">
 <nodetype>complex</nodetype>
@@ -3170,6 +3171,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w1940f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-78-p4s1w13">
@@ -5103,6 +5105,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>do tohoto vztahu patří 
+i širší kontext, ale tato
+anotace mi přijde nepřesnější</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-78-p5s2w4</LM>
@@ -5616,6 +5621,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-78-p5s3w1</LM>
@@ -5710,6 +5716,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>součást konektoru
+když tak</discourse_comment>
 </LM>
 <LM id="t-ln94202-78-p5s3w11">
 <a>
@@ -8359,6 +8367,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94202-78-p8s1w6">
 <a>

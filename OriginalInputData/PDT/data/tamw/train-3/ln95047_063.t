@@ -458,6 +458,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>nebo o 2 patra niz u obou arg?</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p2s2w6</LM>
@@ -3134,6 +3135,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>zda se mi,ze to nesouvisi, 
+je to soucasti autorovy ironie</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p3s4w6</LM>
@@ -6672,6 +6675,7 @@
 <t_lemma>nýbrž</t_lemma>
 <functor>ADVS</functor>
 <deepord>13</deepord>
+<discourse_comment>nic, clenske nybrz :-(</discourse_comment>
 <children>
 <LM id="t-ln95047-063-p6s2w13">
 <a>
@@ -7178,6 +7182,7 @@
 <start_range>0</start_range>
 <target_range>backward</target_range>
 <discourse_type>opp</discourse_type>
+<comment>divne nicmene</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p6s3w9</LM>
@@ -10489,6 +10494,7 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>one_arg  -u schovaného i když</discourse_comment>
 <children>
 <LM id="t-ln95047-063-p7s5w4">
 <a>

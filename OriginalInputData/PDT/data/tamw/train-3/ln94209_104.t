@@ -437,6 +437,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
+<discourse_comment>wrongTR? nema tento uzel viset na "demolice"?</discourse_comment>
 <val_frame.rf>v#v-w8784f1</val_frame.rf>
 <children>
 <LM id="t-ln94209-104-p2s1Bw16">

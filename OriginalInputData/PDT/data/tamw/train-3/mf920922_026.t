@@ -704,6 +704,10 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>obsah řeči, která
+ale není uvozena 
+žádným slovem 
+v první části struktury</discourse_comment>
 <val_frame.rf>v#v-w8208f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-026-p2s2w16">
@@ -1731,6 +1735,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>hodně divný vztah,
+velký kus chybí</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-026-p2s6Aw7</LM>
@@ -3437,6 +3443,12 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg?
+není vůbec zřejmé, 
+kam to odkazuje,
+podle mě prázdné a 
+zřejmě nevhodně 
+zkratkovité užití</discourse_comment>
 </LM>
 <LM id="t-mf920922-026-p2s10Bw2">
 <a>
@@ -3550,6 +3562,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-026-p2s11w2">

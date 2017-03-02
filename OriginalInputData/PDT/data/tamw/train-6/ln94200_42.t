@@ -6350,6 +6350,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>secondary  -zretel</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-ln94200-42-p8s2w10">

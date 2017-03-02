@@ -3789,6 +3789,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>přechod k explicat</discourse_comment>
 <val_frame.rf>v#v-w5634f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-015-p7s1w15">
@@ -4091,6 +4092,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC,
+synonymum ještě více</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-015-p7s2w3">
 <a>

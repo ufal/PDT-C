@@ -4084,6 +4084,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>dvojitá závislost-
+v rámci jedné struktury
+a zaroven textove</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-48-p4s2w1</LM>
@@ -5789,6 +5792,7 @@
 <tfa>c</tfa>
 <deepord>3</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>neustálený atlex</discourse_comment>
 <children>
 <LM id="t-ln94202-48-p4s7w3">
 <a>

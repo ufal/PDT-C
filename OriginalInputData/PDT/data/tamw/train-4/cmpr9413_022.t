@@ -352,6 +352,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>široké vyplývání</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-022-p4s2w2</LM>
@@ -966,6 +967,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>patří do věty,
+není PREC,
+nespojuje dve VP</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-022-p5s1w8">
 <a>
@@ -2755,6 +2759,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem třeba,
+lze diskutovat o tom,
+zda nenapojuje jen NP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-022-p11s1w2</LM>
@@ -3635,6 +3642,8 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>adept na seznam v jedné
+větné struktuře, hypertéma (15)</discourse_comment>
 <children>
 <LM id="t-cmpr9413-022-p12s2w1">
 <a>
@@ -4867,6 +4876,9 @@
 <id>1</id>
 </LM>
 </discourse_groups>
+<discourse_comment>wrong TR,
+CONJ je už o patro výš,
+celé by to na ní mělo viset</discourse_comment>
 <val_frame.rf>v#v-w6270f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-022-p14s3w7">
@@ -5226,6 +5238,7 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>conj</discourse_type>
+<comment>náznak REASON</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-022-p14s3w16</LM>
@@ -5989,6 +6002,9 @@
 <id>2</id>
 </LM>
 </discourse_groups>
+<discourse_comment>wrongTR
+celé by to mělo viset na coap 
+uzlu ale  -vztah CORR</discourse_comment>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-022-p16s3w2">
@@ -7003,6 +7019,9 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>nejistota o rozsahu 
+start_range, věcně
+textu nerozumím</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-022-p18s4w1</LM>
@@ -9894,6 +9913,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-022-p23s1a0">
 <nodetype>qcomplex</nodetype>
@@ -10471,6 +10491,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>slabá CONFR</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-022-p24s2w2</LM>
@@ -11160,6 +11181,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>20</deepord>
+<discourse_comment>součást konektoru
+když-tak</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-022-p25s1w32">
 <a>
@@ -12305,6 +12328,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>wrongTR, 
+tohle je spíš RHEM</discourse_comment>
 <children>
 <LM id="t-cmpr9413-022-p27s1a1">
 <nodetype>qcomplex</nodetype>
@@ -13021,6 +13046,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_comment>součást konektoru když-tak</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-022-p29s2w10">
 <a>
@@ -14248,6 +14274,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>je tam i EXEMPL,
+netypický vztah -
+do vztahu patří i ta novelizace, ale
+nemá žádný rozumný slovesný uzel, proto
+necháno takhle</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-022-p33s1w17</LM>
@@ -14534,6 +14565,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>29</deepord>
+<discourse_comment>wrongTR
+ne TWHEN, ale CM</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-022-p33s1w31">
 <a>
@@ -18249,6 +18282,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR?
+kde je ten citát</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -18285,6 +18320,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR?
+tohle je bez tečky,
+zatoulaný nadpis?</discourse_comment>
 <val_frame.rf>v#v-w5241f3</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-022-p41s1w1">

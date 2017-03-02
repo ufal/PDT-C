@@ -751,6 +751,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>může být interpretováno
+i jako vysvětlení NP
+užitečnou tradici</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-91-p2s2w4</LM>
@@ -9341,6 +9344,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94208-91-p8s3w1">
 <a>

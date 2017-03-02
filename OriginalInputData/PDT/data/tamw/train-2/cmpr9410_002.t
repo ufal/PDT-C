@@ -8480,6 +8480,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <coref_special>segm</coref_special>
 <val_frame.rf>v#v-w3111f1</val_frame.rf>
 <children>

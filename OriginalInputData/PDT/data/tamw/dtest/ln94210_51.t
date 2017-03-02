@@ -1853,6 +1853,9 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary
+
+v argumentech se meni negace</discourse_comment>
 <val_frame.rf>v#v-w3569f1</val_frame.rf>
 <children>
 <LM id="t-ln94210-51-p4s1w6">

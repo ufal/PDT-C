@@ -7104,6 +7104,8 @@
 </a-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR? tato věta rozvíjí
+obě větve koordinace_PJ</discourse_comment>
 <val_frame.rf>v#v-w5330f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-048-p14s3a1">

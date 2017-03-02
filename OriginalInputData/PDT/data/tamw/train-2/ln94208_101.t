@@ -10371,6 +10371,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>Zvazovala jsem i corr.</discourse_comment>
 <val_frame.rf>v#v-w5874f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-101-p5s14w16">

@@ -1502,6 +1502,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w9420f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-099-p4s1w1">

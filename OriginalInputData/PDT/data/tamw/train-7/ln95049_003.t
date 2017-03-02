@@ -3012,6 +3012,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary dalšími</discourse_comment>
 </LM>
 </children>
 </LM>

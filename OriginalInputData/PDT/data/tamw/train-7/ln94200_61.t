@@ -2936,6 +2936,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
+s anotaci COND na TR</discourse_comment>
 </LM>
 <LM id="t-ln94200-61-p3s9w3">
 <a>
@@ -4629,6 +4631,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim 
+s anotaci CONJ na TR, 
+PJ_koreferenční šipku
+bych vedla na mít</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94200-61-p5s3w11</target_node.rf>
@@ -5645,6 +5651,7 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94200-61-p6s1w17">
 <a>
@@ -5676,6 +5683,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
+s anotaci TWHEN na TR</discourse_comment>
 </LM>
 <LM id="t-ln94200-61-p6s1w23">
 <a>
@@ -9482,6 +9491,7 @@
 <tfa>c</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94200-61-p10s4w2">
 <a>
@@ -9632,6 +9642,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento prec neni pripojen k zadne sipce  -souhlasim
+s anotaci COND na TR</discourse_comment>
 </LM>
 <LM id="t-ln94200-61-p10s5w5">
 <a>

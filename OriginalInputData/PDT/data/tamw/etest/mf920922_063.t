@@ -27,6 +27,8 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>is_photo,
+divně necelý text</discourse_comment>
 <children>
 <LM id="t-mf920922-063-p1s1w2">
 <a>

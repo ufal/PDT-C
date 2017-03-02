@@ -597,6 +597,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<comment>second_rel SYNCHR zatimco</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-150-p4s2w1</LM>
@@ -3411,6 +3412,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 <val_frame.rf>v#v-w3299f1</val_frame.rf>
 <children>
 <LM id="t-mf930713-150-p7s2w8">
@@ -3576,6 +3578,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>13</deepord>
+<discourse_comment>wrong TR  -součástí spojovacího výrazu "-li_pak"</discourse_comment>
 </LM>
 <LM id="t-mf930713-150-p7s2w26">
 <a>

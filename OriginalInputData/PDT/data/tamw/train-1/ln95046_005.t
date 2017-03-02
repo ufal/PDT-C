@@ -1203,6 +1203,7 @@
 <tfa>f</tfa>
 <deepord>7</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95046-005-p4s1w12">
 <a>

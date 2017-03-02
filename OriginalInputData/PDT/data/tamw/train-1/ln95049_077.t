@@ -3202,6 +3202,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>adept na seznam,
+hypertéma i všechny položky
+v této větě</discourse_comment>
 <val_frame.rf>v#v-w6480f1</val_frame.rf>
 <children>
 <LM id="t-ln95049-077-p5s1w2">

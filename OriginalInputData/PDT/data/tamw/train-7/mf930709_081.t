@@ -2845,6 +2845,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>wrongTR? neni zde spatna hranice vety? ma tento
+uzel patrit do tohoto stromu?</discourse_comment>
 </LM>
 </children>
 </LM>

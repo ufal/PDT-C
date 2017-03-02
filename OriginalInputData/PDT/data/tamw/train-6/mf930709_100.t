@@ -1891,6 +1891,8 @@
 <id>1</id>
 </LM>
 </discourse_groups>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
+s anotaci CONJ na TR</discourse_comment>
 </LM>
 <LM id="t-mf930709-100-p2s6w19">
 <a>

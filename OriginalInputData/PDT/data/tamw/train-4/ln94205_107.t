@@ -398,6 +398,8 @@
 <t_lemma>především</t_lemma>
 <functor>CM</functor>
 <deepord>11</deepord>
+<discourse_comment>wrongTR, má viset
+na doplněném být</discourse_comment>
 </LM>
 <LM id="t-ln94205-107-p2s1Ba2">
 <a>
@@ -3094,6 +3096,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
+<discourse_comment>wrongTR?,
+souvětné  -být a elidované být
+mezi nimi vztah CORR, konektor
+ale a negace</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-107-p3s8w17">
@@ -5337,6 +5343,10 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>11</deepord>
+<discourse_comment>wrongTR?
+dvě vedlejší objektové
+klauze by snad byla přesnější
+interpretace</discourse_comment>
 <children>
 <LM id="t-ln94205-107-p4s7w1">
 <a>
@@ -6206,6 +6216,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>wrongTR?
+není vidět parcelace</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-107-p4s10w1">

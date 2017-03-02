@@ -340,6 +340,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<comment>otazka, zda target je cele souveti
+ci jen jeho 1. klauze</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-144-p2s2w3</LM>

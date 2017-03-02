@@ -2309,6 +2309,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<comment>lze vnímat i jako vztah
+k 5-8</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-130-p3s3w13</LM>
@@ -2547,6 +2549,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>přítomen i postojový význam
+ovšem</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-130-p3s4w4</LM>

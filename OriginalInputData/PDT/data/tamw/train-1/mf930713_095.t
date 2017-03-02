@@ -37,6 +37,11 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR,
+useknutý kus
+z konce 
+následující 
+věty</discourse_comment>
 <val_frame.rf>v#v-w6480f1</val_frame.rf>
 <children>
 <LM id="t-mf930713-095-p1s1a0">

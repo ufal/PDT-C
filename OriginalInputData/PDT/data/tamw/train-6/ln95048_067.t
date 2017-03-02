@@ -10560,6 +10560,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
+<discourse_comment>wrongTR? funktor se mi nezdá.
+ale souhlasím s anotací CONJ na TR, tak žádný
+diskurzní vztah neanotuju</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -10719,6 +10722,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -
+souhlasim s anotaci CONJ na TR</discourse_comment>
 </LM>
 <LM id="t-ln95048-067-p16s2w14">
 <a>
@@ -15682,6 +15687,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim 
+s anotaci COND na TR</discourse_comment>
 </LM>
 <LM id="t-ln95048-067-p22s2a1">
 <nodetype>complex</nodetype>
@@ -23500,6 +23507,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>parcelace, neanotováno</discourse_comment>
 <val_frame.rf>v#v-w8927f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-067-p28s9a1">
@@ -26273,6 +26281,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-067-p30s7a1">
 <nodetype>qcomplex</nodetype>

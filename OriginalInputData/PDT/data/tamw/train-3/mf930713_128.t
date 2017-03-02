@@ -3342,6 +3342,8 @@
 <start_range>0</start_range>
 <target_range>2</target_range>
 <discourse_type>f_opp</discourse_type>
+<comment>vysoká míra inference:
+recyklovaný papír znamená nízkou daň</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p5s4w1</LM>
@@ -3671,6 +3673,9 @@
 <start_range>0</start_range>
 <target_range>3</target_range>
 <discourse_type>reason</discourse_type>
+<comment>reason se mi nelibi,
+chybi mi nejaky vztah vyplyvani,
+jde az ke gener</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p5s5w3</LM>
@@ -4857,6 +4862,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>secondary zde 
+(spis PREC nez LOC)</discourse_comment>
 </LM>
 <LM id="t-mf930713-128-p6s2w12">
 <a>
@@ -7003,6 +7010,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>zdurazneni kontrastivni spojkou
+az temer ke grad</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p9s3w3</LM>

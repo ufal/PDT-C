@@ -2567,6 +2567,8 @@
 </quot>
 <tfa>t</tfa>
 <deepord>9</deepord>
+<discourse_comment>neznacim, clen dvojice 
+"pokud  -tak"</discourse_comment>
 </LM>
 <LM id="t-mf920922-050-p2s5w16">
 <a>

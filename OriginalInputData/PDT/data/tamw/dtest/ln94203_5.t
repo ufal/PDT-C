@@ -2719,6 +2719,13 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR?,
+nepatří sem 
+spíše EmpVerb?
+s dokopírovaným
+překvapit to 
+nedává smysl
+</discourse_comment>
 <val_frame.rf>v#v-w4862f1</val_frame.rf>
 <children>
 <LM id="t-ln94203-5-p4s2w12">

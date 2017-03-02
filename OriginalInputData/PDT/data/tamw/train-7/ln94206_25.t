@@ -2556,12 +2556,16 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>vysvětlení příkladem,
+vysvětlení nemá konektor,
+proto anotována exempl</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-25-p4s3w10</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>implicitni REASON/EXPLICAT</discourse_comment>
 <val_frame.rf>v#v-w9810f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-25-p4s3w8">
@@ -3716,6 +3720,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>lze interpretovat 
+i jako vztah VP a NP
+</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-25-p6s3w17</LM>

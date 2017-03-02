@@ -1464,6 +1464,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w243f3</val_frame.rf>
 <children>
 <LM id="t-ln95047-083-p2s5w4">
@@ -1680,6 +1681,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>nezda se mi ciste reason</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-083-p2s6w4</LM>
@@ -4948,6 +4950,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<comment>konektor ale + Neg</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-083-p3s8w15</LM>
@@ -5195,6 +5198,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<comment>second_rel restr</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-083-p3s9a0</LM>
@@ -6534,6 +6538,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>treti corr ci restr??</discourse_comment>
 <children>
 <LM id="t-ln95047-083-p4s4w1">
 <a>
@@ -7171,6 +7176,8 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>20</deepord>
+<discourse_comment>krasna confr, ale
+bez konektoru :(</discourse_comment>
 <children>
 <LM id="t-ln95047-083-p4s5w15">
 <a>
@@ -7446,6 +7453,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>13</deepord>
+<discourse_comment>conj souhlasí</discourse_comment>
 </LM>
 <LM id="t-ln95047-083-p4s5a2">
 <nodetype>complex</nodetype>
@@ -7825,6 +7833,8 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
+<discourse_comment>confr, ale
+bez konektoru :(</discourse_comment>
 <children>
 <LM id="t-ln95047-083-p4s6a1">
 <nodetype>complex</nodetype>

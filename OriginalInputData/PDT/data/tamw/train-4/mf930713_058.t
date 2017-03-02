@@ -9570,6 +9570,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel PRECED až</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-058-p14s5w1</LM>

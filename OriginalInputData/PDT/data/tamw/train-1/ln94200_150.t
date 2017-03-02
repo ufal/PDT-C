@@ -1627,6 +1627,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>arg1 je NP</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94200-150-p3s1w1</target_node.rf>

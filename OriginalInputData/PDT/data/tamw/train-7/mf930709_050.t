@@ -1575,6 +1575,9 @@
 </a-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR, cele by melo viset
+na dokopirovanem vzkrisit, nemelo by byt
+dokopirovano cele pokusil se vzkrisit?</discourse_comment>
 <children>
 <LM id="t-mf930709-050-p3s6a0">
 <a>
@@ -1810,6 +1813,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>má něco ze spec,
+ale moc nezřetelné
+na anotaci</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-050-p3s6w1</LM>

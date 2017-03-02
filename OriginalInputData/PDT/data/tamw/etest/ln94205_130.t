@@ -8866,6 +8866,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>adept na seznam</discourse_comment>
 <val_frame.rf>v#v-w243f193_MM</val_frame.rf>
 <children>
 <LM id="t-ln94205-130-p5s6w3">
@@ -12171,6 +12172,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>6</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -
+souhlasim s COND na TR</discourse_comment>
 </LM>
 <LM id="t-ln94205-130-p8s2Aw8">
 <a>
@@ -14095,6 +14098,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<comment>proc se jako konektor zobrazuje "nejde", kdyz jsem
+zkopirovala jen negaci?</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-130-p9s8a0</LM>

@@ -2477,6 +2477,7 @@
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-lnd94103-063-p1s7a0">
 <nodetype>complex</nodetype>
@@ -7131,6 +7132,9 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>argumenty daleko 
+od sebe, nejistá
+interpretace</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-063-p1s23w4</LM>

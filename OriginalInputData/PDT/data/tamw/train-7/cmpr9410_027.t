@@ -3780,6 +3780,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-027-p6s1w2">
 <a>
@@ -3898,6 +3899,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+<discourse_comment>hypertéma, adept na seznam 
+ve větách 20-37,
+konektor v prvé řadě v další větě
+proto neanotován</discourse_comment>
 <val_frame.rf>v#v-w1949f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-027-p6s2w1">
@@ -9022,6 +9027,7 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-027-p9s3w9">
 <a>
@@ -9584,6 +9590,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>lze interpretovat
+také jako připojení NP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-027-p11s3w1</LM>

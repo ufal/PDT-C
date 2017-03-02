@@ -956,6 +956,11 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>adept na seznam
+hypertéma: hůře dopadli dva policisté
+ pohotovostní motorizivané jednotky, kteří ji
+ přijeli zachránit
+položky seznamu: veta 6, 7</discourse_comment>
 <val_frame.rf>v#v-w647f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-63-p2s3w7">

@@ -1538,6 +1538,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>není PREC, 
+ale ?MEANS,
+wrongTR</discourse_comment>
 </LM>
 <LM id="t-ln94203-24-p3s3w6">
 <a>

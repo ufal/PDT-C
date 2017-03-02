@@ -154,6 +154,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+<discourse_comment>wrongTR spatna 
+segmentace textu</discourse_comment>
 <val_frame.rf>v#v-w9623f2</val_frame.rf>
 <children>
 <LM id="t-ln94202-106-p2s1w2">
@@ -9227,6 +9229,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-ln94202-106-p8s5w3">
@@ -14768,6 +14771,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94202-106-p11s2w20</target_node.rf>
@@ -25802,6 +25806,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>21</deepord>
+<discourse_comment>neanotuji, mohu nahradit 
+"jeste"  -nezaklada vyznamovy 
+diskurzni vztah</discourse_comment>
 </LM>
 <LM id="t-ln94202-106-p16s2w28">
 <a>

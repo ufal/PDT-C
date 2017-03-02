@@ -8738,6 +8738,7 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>32</deepord>
+<discourse_comment>arg1 je NP úsporný provoz</discourse_comment>
 </LM>
 <LM id="t-ln94203-83-p7s1a3">
 <nodetype>qcomplex</nodetype>

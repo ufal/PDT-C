@@ -1466,6 +1466,8 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>opp</discourse_type>
+<comment>parcelace jednoho
+koordinačního souvětí</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-024-p4s5w2</LM>
@@ -3016,6 +3018,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel PRECED dokud</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-024-p10s2w6</LM>
@@ -5022,6 +5025,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem třeba,
+parcelace jedné struktury</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-024-p12s3w1</LM>
@@ -5393,6 +5398,11 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>interpretace tohoto
+třeba může být i
+například, potom
+by zde byla další EXEMPL
+mezi 23 a 25</discourse_comment>
 <children>
 <LM id="t-cmpr9410-024-p12s4a6">
 <nodetype>qcomplex</nodetype>
@@ -5680,6 +5690,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-024-p12s4w19">
@@ -5925,6 +5936,7 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-024-p12s6w2">
 <a>
@@ -6749,6 +6761,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-024-p14s3w1</LM>
@@ -8074,6 +8087,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-024-p16s2w4</LM>
@@ -8498,6 +8512,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem i
+target by mohl být
+i backward</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-024-p16s3w2</LM>

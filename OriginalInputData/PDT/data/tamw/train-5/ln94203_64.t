@@ -38,6 +38,9 @@
 <tfa>f</tfa>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>dvě nezávislé zprávy
+ze stejné oblasti,
+kolekce</discourse_comment>
 <val_frame.rf>v#v-w10014f2</val_frame.rf>
 <children>
 <LM id="t-ln94203-64-p1s1w1">

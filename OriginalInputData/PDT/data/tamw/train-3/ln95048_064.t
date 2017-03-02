@@ -1920,6 +1920,8 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>opp</discourse_type>
+<comment>A1 = 4 a 5, i kdyz v 4 neni sloveso.
+Beru to, jak ze staci sloveso v 5.</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-064-p4s1w2</LM>
@@ -3976,6 +3978,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary nemluvě o</discourse_comment>
 <val_frame.rf>v#v-w1866f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-064-p5s4w4">
@@ -4391,6 +4394,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>13</deepord>
+<discourse_comment>souhlas s CONJ</discourse_comment>
 </LM>
 <LM id="t-ln95048-064-p5s5w15">
 <a>
@@ -4877,6 +4881,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary první cesta</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln95048-064-p5s6w12</target_node.rf>
@@ -5185,6 +5190,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>18</deepord>
+<discourse_comment>secondary druhá (cesta)</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -5411,6 +5417,8 @@
 <tfa>t</tfa>
 <deepord>3</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrong_TR podle me tam ma byt 
+EmpVerb a ne vybrousit</discourse_comment>
 <val_frame.rf>v#v-w7797f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-064-p5s8Aa1">
@@ -7659,6 +7667,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>jen slucovani</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-064-p5s16w3</LM>
@@ -12686,6 +12695,7 @@
 <start_range>0</start_range>
 <target_range>2</target_range>
 <discourse_type>confr</discourse_type>
+<comment>sporne, daleko</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-064-p7s12w2</LM>
@@ -14176,6 +14186,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-064-p8s2w7">
@@ -15746,6 +15757,8 @@
 <start_range>1</start_range>
 <target_range>1</target_range>
 <discourse_type>grad</discourse_type>
+<comment>smer sipky? otazka, co je nizsi stupen:
+A1, ale dokonce jenom A2.</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-064-p8s8w11</LM>
@@ -16527,6 +16540,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<comment>second_rel restr??</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-064-p9s1w16</LM>
@@ -16904,6 +16918,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
+<discourse_comment>implicitní reason na hraně anotace</discourse_comment>
 <val_frame.rf>v#v-w158f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-064-p9s2w16">
@@ -20501,6 +20516,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<comment>divna restr,chapu to tak,
+ze i s kuzi je omezeni</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-064-p10s8Aw4</LM>
@@ -20849,6 +20866,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>13</deepord>
+<discourse_comment>secondary během pár let (měsíců) = potom</discourse_comment>
 <children>
 <LM id="t-ln95048-064-p10s8Bw13">
 <a>
@@ -22591,6 +22609,7 @@
 <t_lemma>takže</t_lemma>
 <functor>CSQ</functor>
 <deepord>16</deepord>
+<discourse_comment>mozna equiv? reason se mi nezda</discourse_comment>
 <children>
 <LM id="t-ln95048-064-p11s2w14">
 <a>
@@ -23949,6 +23968,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w663f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-064-p13s1w14">
@@ -24007,6 +24027,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>nic, není jasne, k cemu
+se vztahuje jeste</discourse_comment>
 </LM>
 <LM id="t-ln95048-064-p13s1a0">
 <nodetype>qcomplex</nodetype>

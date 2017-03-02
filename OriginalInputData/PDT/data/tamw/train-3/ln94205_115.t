@@ -35,6 +35,10 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>článek o 16.kole 
+fotbalové ligy, soudržnější
+než kolekce, ale má to k ní 
+blízko</discourse_comment>
 <children>
 <LM id="t-ln94205-115-p1s1w3">
 <a>

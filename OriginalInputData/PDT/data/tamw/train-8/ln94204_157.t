@@ -5492,6 +5492,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>14</deepord>
+<discourse_comment>neznacim, prec nezaklada 
+vyznamovy diskurzni vztah</discourse_comment>
 </LM>
 <LM id="t-ln94204-157-p8s4w15">
 <a>

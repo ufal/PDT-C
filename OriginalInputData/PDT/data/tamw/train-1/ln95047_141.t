@@ -47,6 +47,7 @@
 <tfa>f</tfa>
 <deepord>4</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>to je jenom nadpis bez textu?</discourse_comment>
 <val_frame.rf>v#v-w3678f1</val_frame.rf>
 <children>
 <LM id="t-ln95047-141-p1s1w1">

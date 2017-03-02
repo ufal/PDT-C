@@ -2627,6 +2627,10 @@
 <start_range>group</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>lze vnímat i jako
+reason k NP 
+jistá nepředvídatelnost
+rozpočtu</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-73-p2s8w8</LM>
@@ -3199,6 +3203,8 @@
 <id>1</id>
 </LM>
 </discourse_groups>
+<discourse_comment>není PREC, 
+ale MANN/MEANS</discourse_comment>
 </LM>
 <LM id="t-ln94200-73-p2s9w5">
 <a>

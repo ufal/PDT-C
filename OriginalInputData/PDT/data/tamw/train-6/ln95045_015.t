@@ -2810,6 +2810,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
+<discourse_comment>wrongTR? neni to spise AIM?</discourse_comment>
 <val_frame.rf>v#v-w1743f1</val_frame.rf>
 </LM>
 <LM id="t-ln95045-015-p3s5w20">
@@ -2842,6 +2843,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
+<discourse_comment>wrongTR? neni to spise AIM?</discourse_comment>
 <val_frame.rf>v#v-w1593f1</val_frame.rf>
 </LM>
 <LM id="t-ln95045-015-p3s5w22">
@@ -2887,6 +2889,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR? neni to spise AIM?</discourse_comment>
 <val_frame.rf>v#v-w9673f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-015-p3s5a2">
@@ -5412,6 +5415,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-015-p3s14w15">

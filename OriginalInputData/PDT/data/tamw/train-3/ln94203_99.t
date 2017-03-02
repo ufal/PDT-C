@@ -798,6 +798,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-99-p2s5w3</LM>
@@ -2845,6 +2846,8 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>rozsah A1 by mohl být
+i větší  -13-16</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-99-p8s1w2</LM>
@@ -5851,6 +5854,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>wrongTR
+proč tu je autor přilepený
+k větě, když jinde je to 
+zvlášť?</discourse_comment>
 </LM>
 </children>
 </LM>

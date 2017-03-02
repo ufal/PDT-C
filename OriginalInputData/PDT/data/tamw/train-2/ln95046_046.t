@@ -774,6 +774,9 @@
 <functor>CONJ</functor>
 <is_member>1</is_member>
 <deepord>28</deepord>
+<discourse_comment>wrongTR?,
+proč tu není
+anotováno EmpVerb?</discourse_comment>
 <children>
 <LM id="t-ln95046-046-p2s4w7">
 <a>

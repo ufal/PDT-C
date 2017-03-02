@@ -870,6 +870,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-cmpr9413-008-p4s4w3">
@@ -3688,6 +3689,9 @@
 </a-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR? visi tato klauze na spravnem ridicim 
+uzlu a ma spravny funktor? Nebylo by na miste
+doplnit EmpVerb.COMPL a povesit ji na nej?</discourse_comment>
 <val_frame.rf>v#v-w7048f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-008-p5s10w17">
@@ -5360,6 +5364,9 @@
 <t_lemma>ale</t_lemma>
 <functor>GRAD</functor>
 <deepord>12</deepord>
+<discourse_comment>wrongTR? nebylo by lepsi doplnit sloveso (byt
+ochotny) a anotovat tohle jako vztah mezi klauzemi?
+pak bych anotovala diskurzni vztah corr.</discourse_comment>
 <children>
 <LM id="t-cmpr9413-008-p9s1a0">
 <nodetype>atom</nodetype>
@@ -5664,6 +5671,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim s anotaci COND na TR.</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-008-p9s2a3">
 <nodetype>qcomplex</nodetype>
@@ -6421,6 +6429,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR? nema tento uzel odkazovat na "je"?</discourse_comment>
 <val_frame.rf>v#v-w9469f2</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-008-p12s1w17">

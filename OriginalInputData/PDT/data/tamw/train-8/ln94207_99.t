@@ -3584,6 +3584,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>secondary  -zretel</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94207-99-p3s1w34</target_node.rf>
@@ -7845,6 +7846,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>gener</discourse_type>
+<comment>netypická GENER,
+ale podle mého
+nejblíž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-99-p5s6w29</LM>

@@ -756,6 +756,9 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>v této CONJ je i něco
+z explicat, ale je to 
+slabé  -proto neanotováno</discourse_comment>
 <children>
 <LM id="t-ln94203-78-p2s3w1">
 <a>
@@ -1093,6 +1096,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrong TR  -vsuvka nema viset na pomlcce, ale na koordinaci</discourse_comment>
 <children>
 <LM id="t-ln94203-78-p2s4w6">
 <a>

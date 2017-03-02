@@ -576,6 +576,13 @@
 <t_lemma>a_to</t_lemma>
 <functor>APPS</functor>
 <deepord>7</deepord>
+<discourse_comment>wrongTR?,
+proč tu není 
+dokopírované
+sloveso jako
+v těchto 
+strukturách 
+obvykle?</discourse_comment>
 <children>
 <LM id="t-mf930713-086-p2s3w7">
 <a>
@@ -1744,6 +1751,8 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>typicky na hraně
+s explicat</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-086-p2s7w4</LM>

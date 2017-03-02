@@ -2351,6 +2351,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_comment>smíšený vztah</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-046-p11s1w9">
 <a>
@@ -5735,6 +5736,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>smíšený vztah</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-046-p15s5w9">
 <a>
@@ -6300,6 +6302,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>koordinace infinitivů, 
+neznačeno</discourse_comment>
 <val_frame.rf>v#v-w5874f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-046-p16s2a6">

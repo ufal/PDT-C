@@ -398,6 +398,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
+<discourse_comment>wrongTR?,
+proč tenhle
+funktor?</discourse_comment>
 <val_frame.rf>v#v-w8561f2</val_frame.rf>
 <children>
 <LM id="t-ln95046-053-p2s1w15">

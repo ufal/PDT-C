@@ -4316,6 +4316,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>12</deepord>
+<discourse_comment>na druhé straně
+je CM</discourse_comment>
 <children>
 <LM id="t-ln94209-44-p4s2w14">
 <a>

@@ -385,6 +385,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+<discourse_comment>celý text lze chápat 
+jako adept na seznam</discourse_comment>
 <val_frame.rf>v#v-w3765f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-123-p2s1Ew8">
@@ -8241,6 +8243,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>hraničí s CONJ</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-123-p7s12w5</LM>
@@ -9540,6 +9543,11 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR, špatná segmentace
+(43)-(46), má to být minuta 
+tecka a jméno hráče, který dal 
+branku
+</discourse_comment>
 <children>
 <LM id="t-ln94202-123-p8s1w1">
 <a>
@@ -10095,6 +10103,11 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR,
+špatná segmentace, 
+49 a 50 patří do 
+jednoho stromu
+</discourse_comment>
 <children>
 <LM id="t-ln94202-123-p8s7w1">
 <a>
@@ -13064,6 +13077,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<comment>k porozumění je třeba 
+doplnit implikaci  -
+"naopak Samec se dostal 
+do šance dvakrát" (ale branka
+z toho nebyla)</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-123-p11s8w8</LM>
@@ -18217,6 +18235,10 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR, 
+špatná segmentace
+85-87 patří 
+do jednoho stromu</discourse_comment>
 <children>
 <LM id="t-ln94202-123-p16s1w1">
 <a>
@@ -21944,6 +21966,10 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR, špatná 
+segmentace
+104 a 105 
+patří do 1 stromu</discourse_comment>
 <children>
 <LM id="t-ln94202-123-p20s1w1">
 <a>

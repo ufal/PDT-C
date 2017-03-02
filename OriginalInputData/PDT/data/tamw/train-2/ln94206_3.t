@@ -5616,6 +5616,7 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>9</deepord>
+<discourse_comment>rhem funguje v ramci vety</discourse_comment>
 </LM>
 <LM id="t-ln94206-3-p8s3w11">
 <a>

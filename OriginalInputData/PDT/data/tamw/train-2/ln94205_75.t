@@ -688,6 +688,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>secondary mimo jiné</discourse_comment>
 </LM>
 <LM id="t-ln94205-75-p2s2a0">
 <nodetype>complex</nodetype>

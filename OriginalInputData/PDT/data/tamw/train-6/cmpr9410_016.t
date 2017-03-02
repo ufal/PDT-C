@@ -3215,6 +3215,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>mozna i RESTR</discourse_comment>
 <children>
 <LM id="t-cmpr9410-016-p10s2w2">
 <a>
@@ -8086,6 +8087,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w243f16</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-016-p18s2w12">

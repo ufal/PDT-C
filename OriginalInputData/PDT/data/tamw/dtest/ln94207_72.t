@@ -5197,6 +5197,9 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle me
+jde o vztah mezi NP (vzdelani) a vetou (vsak
+ studoval az v Klatovech a v Roudnici)</discourse_comment>
 </LM>
 <LM id="t-ln94207-72-p4s7a1">
 <nodetype>complex</nodetype>
@@ -7382,6 +7385,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94207-72-p5s2w2">
 <a>

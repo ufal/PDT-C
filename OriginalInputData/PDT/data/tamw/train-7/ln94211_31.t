@@ -750,6 +750,7 @@
 <tfa>f</tfa>
 <deepord>2</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94211-31-p3s1w1</target_node.rf>

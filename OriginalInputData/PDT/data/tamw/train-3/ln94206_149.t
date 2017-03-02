@@ -3062,6 +3062,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>v sem
+i něco z OPP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-149-p5s3w5</LM>
@@ -3234,6 +3236,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-149-p5s3w21">
@@ -3621,6 +3624,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>parcelace jedné 
+struktury</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-149-p5s5w1</LM>
@@ -3889,6 +3894,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem rovněž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-149-p5s6w4</LM>

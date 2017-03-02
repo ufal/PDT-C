@@ -4314,6 +4314,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel PRECED dokud</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930709-140-p5s3w7</LM>
@@ -7882,6 +7883,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>neanotuji, nebot bych 
+vlozila "conj" a tento 
+funktor je uz u carky</discourse_comment>
 </LM>
 <LM id="t-mf930709-140-p9s2w12">
 <a>

@@ -9052,6 +9052,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC,
+ale ATT</discourse_comment>
 </LM>
 <LM id="t-ln94211-92-p7s2w6">
 <a>
@@ -13151,6 +13153,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>secondary  -vyplyvani</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94211-92-p9s1w3">
@@ -14965,6 +14968,12 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>wrongTR?, čárka
+naznačuje, že je
+tam elipsa:
+může unikat,
+může unikat 
+třeba tak...</discourse_comment>
 <val_frame.rf>v#v-w7185f1</val_frame.rf>
 <children>
 <LM id="t-ln94211-92-p10s5w1">
@@ -15845,6 +15854,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94211-92-p11s1w14">
 <a>
@@ -15855,6 +15865,7 @@
 <functor>INTF</functor>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94211-92-p11s1a2">
 <nodetype>complex</nodetype>
@@ -18702,6 +18713,11 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>adept na seznam,
+hypertema zde,
+5 polozek v druhé
+větvi
+</discourse_comment>
 <val_frame.rf>v#v-w1364f1</val_frame.rf>
 <children>
 <LM id="t-ln94211-92-p12s1Bw3">
@@ -30027,6 +30043,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>13</deepord>
+<discourse_comment>wrongTR? Nemá být u slovesa?</discourse_comment>
 </LM>
 <LM id="t-ln94211-92-p16s3a4">
 <nodetype>complex</nodetype>

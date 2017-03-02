@@ -10453,6 +10453,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -nemuzu 
+najit diskurzni argumenty</discourse_comment>
 </LM>
 <LM id="t-ln94206-90-p6s3w2">
 <a>

@@ -37,6 +37,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920922-122-p1s1w8">
 <a>
@@ -6831,6 +6832,8 @@
 <tfa>c</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>Vyplývání (vyvození výsledků)
+atribut "is_negated"</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-mf920922-122-p2s18w12</target_node.rf>
@@ -7933,6 +7936,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920922-122-p2s29w16">
 <a>

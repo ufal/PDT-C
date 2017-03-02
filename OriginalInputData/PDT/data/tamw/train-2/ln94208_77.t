@@ -6587,6 +6587,11 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>Uvazovala jsem i nad corr 
+nebo opp. Celkove mi to prijde 
+zvlastni, jako parcelace, jako 
+by tato veta mela byt s tou nasledujici 
+spojena v jednu.</discourse_comment>
 <val_frame.rf>v#v-w7856f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-77-p6s4w2">
@@ -9157,6 +9162,7 @@
 <functor>RHEM</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>konektor rhem napriklad</discourse_comment>
 </LM>
 <LM id="t-ln94208-77-p7s8w3">
 <a>

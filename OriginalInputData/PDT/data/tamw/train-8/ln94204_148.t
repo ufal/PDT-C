@@ -1062,6 +1062,8 @@
 <t_lemma>nebo</t_lemma>
 <functor>DISJ</functor>
 <deepord>13</deepord>
+<discourse_comment>wrongTR  -spatne zaznacena 
+veta</discourse_comment>
 <children>
 <LM id="t-ln94204-148-p2s5a0">
 <nodetype>qcomplex</nodetype>

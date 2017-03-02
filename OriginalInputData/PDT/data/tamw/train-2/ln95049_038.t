@@ -3478,6 +3478,13 @@
 <target_group_id>2</target_group_id>
 <target_range>group</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>druhá možnost je
+SPEC, ale EXPLICAT
+podle mého lépe 
+vystihuje vztah:
+je si vědom a 
+důkaz, že si je
+vědom</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-038-p3s8w10</LM>
@@ -6051,6 +6058,9 @@
 </gram>
 <tfa>c</tfa>
 <deepord>7</deepord>
+<discourse_comment>wrongTR,
+tohle je CAUS,
+ne COND</discourse_comment>
 <children>
 <LM id="t-ln95049-038-p3s14w6">
 <a>

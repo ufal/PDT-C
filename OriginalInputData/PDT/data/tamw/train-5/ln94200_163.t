@@ -1575,6 +1575,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR, chybná segmentace,
+součást předchozí věty</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94200-163-p1s4w20</target_node.rf>

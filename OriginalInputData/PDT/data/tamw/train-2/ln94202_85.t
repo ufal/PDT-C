@@ -2183,6 +2183,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>adept na hypertema, 
+odstavce 16-19, 20-24
+adepti na polozky seznamu, 
+ale hodne nezretelne </discourse_comment>
 <val_frame.rf>v#v-w9004f2</val_frame.rf>
 <children>
 <LM id="t-ln94202-85-p4s1w6">
@@ -2733,6 +2737,8 @@
 <t_lemma>#Comma</t_lemma>
 <functor>APPS</functor>
 <deepord>5</deepord>
+<discourse_comment>wrongTR? 
+vztah mezi NP a NP</discourse_comment>
 <children>
 <LM id="t-ln94202-85-p4s3w1">
 <a>
@@ -7295,6 +7301,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>paragraph
+5-28</discourse_comment>
 </LM>
 <LM id="t-ln94202-85-p8s1w2">
 <a>

@@ -928,6 +928,10 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>ta negace je divna, v podstate
+je to tak, ze kdyby platili a podileli 
+se, pak by se to vyrovnalo... (jestli 
+jsem to spravne pochopila)</discourse_comment>
 <children>
 <LM id="t-mf920925-043-p2s3w14">
 <a>

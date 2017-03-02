@@ -963,6 +963,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>wrongTR, závislá věta rozvíjí
+obě větve koordinace, proto
+anotováno takto</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95045-090-p3s2w19</LM>

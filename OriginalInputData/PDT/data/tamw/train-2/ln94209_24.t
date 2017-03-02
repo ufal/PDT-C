@@ -789,6 +789,16 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>Nejsem si tu vubec jista 
+typem vztahu. Napadlo me i 
+reason, conj, coz ukazuje, 
+ze jsem opravdu nevedela. Ale 
+misto toho "tak" bych si tu 
+klidne dala "to znamena, ze souhlasi...", 
+coz me prave privedlo na to vysvetleni
+(VP měla explicat, já opravuji na
+equiv  -význam českého tedy, postulovaná 
+rovnost obsahů, často nějaké vyplývání)</discourse_comment>
 <val_frame.rf>v#v-w6275f1</val_frame.rf>
 <children>
 <LM id="t-ln94209-24-p3s1w2">

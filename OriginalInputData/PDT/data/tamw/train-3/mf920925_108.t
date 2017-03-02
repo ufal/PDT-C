@@ -51,6 +51,7 @@
 <tfa>f</tfa>
 <deepord>5</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR  -asi dva stromy spojene do jednoho</discourse_comment>
 <val_frame.rf>v#v-w3765f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-108-p1s1w3">
@@ -1251,6 +1252,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<comment>konektor mezitím tomu dodava casovy odstin</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-108-p3s4w6</LM>

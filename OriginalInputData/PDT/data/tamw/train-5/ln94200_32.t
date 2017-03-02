@@ -714,6 +714,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<comment>tento seznam má minimálně
+jednu další položku,
+v tomto souboru je z ní jen
+neslovesný kus, proto zůstala neanotována</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-32-p2s3w6</LM>
@@ -3347,6 +3351,8 @@
 <t_lemma>#Slash</t_lemma>
 <functor>CONJ</functor>
 <deepord>3</deepord>
+<discourse_comment>wrongTR  -tady evidentně
+chybí kus textu</discourse_comment>
 <children>
 <LM id="t-ln94200-32-p6s1w1">
 <a>

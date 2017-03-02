@@ -5996,6 +5996,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>arg1 může být
+i výrazně větší</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-151-p2s23w5</LM>
@@ -10072,6 +10074,7 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930713-151-p2s37w3">
 <a>

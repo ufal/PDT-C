@@ -5492,6 +5492,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>nejistá interpretace,
+i když se šipka propojí
+jen s CAUS klauzí</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-107-p6s10w8</LM>
@@ -11955,6 +11958,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-107-p11s4w3</LM>
@@ -14892,6 +14896,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>netypická struktura
+dvě závislé klauze
+v koordinaci -obě závisí
+na řídící klauzi 78  -ta pak
+na řídící klauzi 79</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-107-p12s9w1</LM>
@@ -16529,6 +16538,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel SYNCHR tehdy až</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-107-p13s7w28</LM>
@@ -17426,6 +17436,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem i,
+nejisté</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-107-p14s5w5</LM>
@@ -17742,6 +17754,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také,
+nejisté</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-107-p14s6w5</LM>
@@ -18667,12 +18681,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-107-p15s3w4</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w8207f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-107-p15s3w3">

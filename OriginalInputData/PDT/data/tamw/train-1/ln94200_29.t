@@ -2541,6 +2541,10 @@
 <src>pdit10</src>
 </LM>
 </discourse>
+<discourse_comment>wrongTR,
+špatná segmentace, 
+13 a 14 patří do
+jednoho stromu</discourse_comment>
 <children>
 <LM id="t-ln94200-29-p2s11w6">
 <a>

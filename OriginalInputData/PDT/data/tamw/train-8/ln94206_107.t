@@ -2212,6 +2212,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>secondary z toho duvodu</discourse_comment>
 <children>
 <LM id="t-ln94206-107-p2s5w2">
 <a>
@@ -3653,6 +3654,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<comment>sporná anotace,
+wrongTR? nemá to být 
+způsobová věta?</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-107-p3s3w28</LM>

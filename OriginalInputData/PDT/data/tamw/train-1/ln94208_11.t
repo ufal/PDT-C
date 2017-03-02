@@ -17506,6 +17506,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel PRECED jakmile</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-11-p5s11w2</LM>

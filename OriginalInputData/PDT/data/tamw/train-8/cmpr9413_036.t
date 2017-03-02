@@ -2567,6 +2567,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
+<comment>secondary předpokládá,
+což předpokládá?</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-036-p6s4w18</LM>
@@ -3658,6 +3660,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>ironie? reason jen k dát si,
+ne k být zvyklý?</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-036-p8s1w14</LM>
@@ -8837,6 +8841,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>27</deepord>
+<discourse_comment>pokud však má vztah jen k NP</discourse_comment>
 <val_frame.rf>v#v-w2340f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-036-p14s2w34">
@@ -9076,6 +9081,8 @@
 <target_group_id>2</target_group_id>
 <target_range>group</target_range>
 <discourse_type>reason</discourse_type>
+<comment>ke konektoru patří
+i secondary v tomto případě</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-036-p14s3w29</LM>
@@ -9096,6 +9103,11 @@
 <id>1</id>
 </LM>
 </discourse_groups>
+<discourse_comment>konektor+secondary
+wrongTR,
+má tu být souřadná 
+důsledková 
+struktura</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-036-p14s3w5">

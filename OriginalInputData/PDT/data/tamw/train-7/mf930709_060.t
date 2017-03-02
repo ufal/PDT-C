@@ -627,6 +627,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle
+me to neni diskursni konektor</discourse_comment>
 </LM>
 <LM id="t-mf930709-060-p3s2w1">
 <a>
@@ -1291,6 +1293,7 @@
 <tfa>f</tfa>
 <deepord>6</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w9420f1</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p4s1w1">

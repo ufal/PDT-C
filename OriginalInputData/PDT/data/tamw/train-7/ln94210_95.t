@@ -14269,6 +14269,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<comment>nelze přidat
+jen uzel
+Neg jako u
+ostatních 
+případů corr</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-95-p7s6w9</LM>
@@ -18122,6 +18127,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-ln94210-95-p8s6w9">
@@ -19517,6 +19523,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>typ vybrán
+kvůli
+možnosti 
+užít konektor
+ale současně,
+grad sémanticky
+nesedí vůbec,
+formálně lepší</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-95-p9s1Ba1</LM>
@@ -26045,6 +26059,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC, 
+ale MANN</discourse_comment>
 </LM>
 <LM id="t-ln94210-95-p12s6w5">
 <a>
@@ -32025,6 +32041,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>secondary  -vyplyvani</discourse_comment>
 <val_frame.rf>v#v-w8207f1</val_frame.rf>
 <children>
 <LM id="t-ln94210-95-p13s4w3">

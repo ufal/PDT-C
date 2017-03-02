@@ -925,6 +925,7 @@
 <tfa>c</tfa>
 <deepord>10</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94205-32-p3s1w10">
 <a>
@@ -1786,6 +1787,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94205-32-p2s1Bw13</target_node.rf>

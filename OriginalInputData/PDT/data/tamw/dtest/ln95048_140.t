@@ -1793,6 +1793,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary současně</discourse_comment>
 </LM>
 <LM id="t-ln95048-140-p2s6w4">
 <a>

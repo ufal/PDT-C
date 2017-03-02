@@ -2181,6 +2181,7 @@
 <functor>RHEM</functor>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>rhem pouze v rámci věty</discourse_comment>
 </LM>
 <LM id="t-ln94204-79-p3s4w9">
 <a>
@@ -4817,6 +4818,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>14</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94204-79-p5s3w1">
 <a>
@@ -9254,6 +9256,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>20</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w853f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-79-p6s1a3">

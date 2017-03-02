@@ -1879,6 +1879,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>není PREC,
+součást konektoru
+v tomto stromě</discourse_comment>
 </LM>
 <LM id="t-cmpr9415-016-p7s3w13">
 <a>

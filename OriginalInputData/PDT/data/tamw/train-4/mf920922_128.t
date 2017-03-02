@@ -27,6 +27,12 @@
 <functor>CONJ</functor>
 <deepord>3</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>článek strukturován
+jako výroky státníků
+o francouzském referendu,
+špatný adept na 
+seznam, ale něco takového
+tam je</discourse_comment>
 <children>
 <LM id="t-mf920922-128-p1s1w1">
 <a>
@@ -6254,6 +6260,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>čas tu je o hodně slabší 
+než u podobných vztahů</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-128-p12s3w8</LM>

@@ -1288,6 +1288,8 @@
 <start_range>4</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>není zcela jasný start range,
+lze interpretova různě</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-68-p3s4w1</LM>
@@ -1633,6 +1635,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-68-p2s7w3</LM>

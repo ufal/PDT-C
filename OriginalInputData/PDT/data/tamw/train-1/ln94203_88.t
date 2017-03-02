@@ -4440,6 +4440,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>13</deepord>
+<discourse_comment>není PREC,
+konektor CONJ 
+v tomto stromě</discourse_comment>
 </LM>
 <LM id="t-ln94203-88-p5s1a0">
 <nodetype>qcomplex</nodetype>
@@ -6844,6 +6847,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC,
+ale MANN,
+wrongTR</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94203-88-p6s3w12</target_node.rf>
@@ -7094,6 +7100,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC, 
+ale MANN,
+wrongTR</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94203-88-p6s4w2</target_node.rf>

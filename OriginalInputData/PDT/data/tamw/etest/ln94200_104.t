@@ -1504,6 +1504,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w8207f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-104-p2s5w3">
@@ -2901,6 +2902,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>free compositional phrase
+Vyplývání (vyvození výsledků)</discourse_comment>
 <val_frame.rf>v#v-w8207f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-104-p3s3w3">
@@ -5963,6 +5966,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>adept na seznam 
+"za prve"</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94200-104-p5s2w9</target_node.rf>
@@ -6324,6 +6329,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>adept na seznam 
+"za druhe"</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94200-104-p5s2w9</target_node.rf>

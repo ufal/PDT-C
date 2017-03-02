@@ -4869,6 +4869,11 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>adept na seznam,
+hypertéma zde,
+2 položky v 
+následujícím 
+stromě</discourse_comment>
 <val_frame.rf>v#v-w2561f1</val_frame.rf>
 <children>
 <LM id="t-ln95047-042-p5s1w4">
@@ -6282,6 +6287,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>wrongTR?, proč
+to není COND?</discourse_comment>
 <children>
 <LM id="t-ln95047-042-p5s6w12">
 <a>
@@ -7996,6 +8003,9 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>wrongTR?, přesnější
+je to vnímat jako
+CAUS, podle mého</discourse_comment>
 <val_frame.rf>v#v-w6492f11</val_frame.rf>
 <children>
 <LM id="t-ln95047-042-p6s1w8">

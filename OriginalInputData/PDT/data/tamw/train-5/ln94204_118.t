@@ -1916,6 +1916,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>velice slabá reason,
+nejisté</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-118-p3s3w9</LM>
@@ -6420,6 +6422,9 @@
 <t_lemma>#Comma</t_lemma>
 <functor>APPS</functor>
 <deepord>3</deepord>
+<discourse_comment>wrongTR 24 a 25
+by měly být 
+v jednom stromě</discourse_comment>
 <children>
 <LM id="t-ln94204-118-p9s1Bw2">
 <a>
@@ -6611,6 +6616,10 @@
 <t_lemma>ale</t_lemma>
 <functor>ADVS</functor>
 <deepord>9</deepord>
+<discourse_comment>wrongTR?
+proč tohle není
+anotováno pomocí elipsy,
+když tam jsou rematizátory?</discourse_comment>
 <children>
 <LM id="t-ln94204-118-p9s1Ca1">
 <nodetype>atom</nodetype>
@@ -7160,6 +7169,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>9</deepord>
+<discourse_comment>anaforické odkazování,
+ne konektor MVV</discourse_comment>
 </LM>
 <LM id="t-ln94204-118-p9s3w12">
 <a>

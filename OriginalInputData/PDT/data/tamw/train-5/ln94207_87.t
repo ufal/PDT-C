@@ -165,6 +165,8 @@
 <t_lemma>#Dash</t_lemma>
 <functor>APPS</functor>
 <deepord>5</deepord>
+<discourse_comment>neanotuji: vztah 
+mezi NP a VP</discourse_comment>
 <children>
 <LM id="t-ln94207-87-p2s1Ba0">
 <nodetype>qcomplex</nodetype>
@@ -2074,6 +2076,8 @@
 <tfa>f</tfa>
 <deepord>4</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase
+Vyplývání (vyvození výsledků)</discourse_comment>
 <val_frame.rf>v#v-w8207f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-87-p3s38w3">
@@ -5017,6 +5021,9 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>4</deepord>
+<discourse_comment>wrongTR
+
+chybí text?</discourse_comment>
 <children>
 <LM id="t-ln94207-87-p6s3w1">
 <a>
@@ -5171,6 +5178,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>wrongTR
+
+chybí text?</discourse_comment>
 <val_frame.rf>v#v-w4374f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-87-p6s15w2">
@@ -5672,6 +5682,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR
+
+chybí text?</discourse_comment>
 <val_frame.rf>v#v-w8821f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-87-p7s19a0">

@@ -524,6 +524,8 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
+<discourse_comment>wrongTR? proc v tomto strome neni doplnene "mit", 
+"rad"? Ve vetach 4, 5 to tak je.</discourse_comment>
 <children>
 <LM id="t-ln94211-120-p2s4w1">
 <a>
@@ -917,6 +919,10 @@
 </gram>
 <tfa>c</tfa>
 <deepord>3</deepord>
+<discourse_comment>myslim, ze tady se to 
+poji spis na ty NP 
+(boty, kravaty), proto 
+neanotuji</discourse_comment>
 <coref_special>segm</coref_special>
 </LM>
 <LM id="t-ln94211-120-p2s5a0">
@@ -5604,6 +5610,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR? nema byt doplnena ridici klauze?</discourse_comment>
 <val_frame.rf>v#v-w3765f2</val_frame.rf>
 <children>
 <LM id="t-ln94211-120-p5s17a0">
@@ -6440,6 +6447,7 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>ironie</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-120-p6s4w2</LM>
@@ -6780,6 +6788,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR? nema v teto vete byt doplnene sloveso?</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94211-120-p6s2a2</target_node.rf>

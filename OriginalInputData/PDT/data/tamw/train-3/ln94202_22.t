@@ -1915,6 +1915,7 @@
 <tfa>c</tfa>
 <deepord>4</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <compl.rf>
 <LM>t-ln94202-22-p3s5w10</LM>
 </compl.rf>

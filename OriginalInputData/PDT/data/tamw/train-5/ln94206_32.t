@@ -6249,6 +6249,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>vzhledem ke kontextu
+lze interpretovat
+i jako gener</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-32-p8s2w1</LM>
@@ -6266,6 +6269,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>6</deepord>
+<discourse_comment>tento prec neni pripojen k sipce  -na TR uz je 
+anotovano COND</discourse_comment>
 </LM>
 <LM id="t-ln94206-32-p8s1w14">
 <a>
@@ -6795,6 +6800,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>wrongTR? má být AIM?</discourse_comment>
 <val_frame.rf>v#v-w9616f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-32-p8s2w12">

@@ -1083,6 +1083,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>mozne reason mezi konjunkty</discourse_comment>
 <children>
 <LM id="t-ln95046-107-p2s5w19">
 <a>
@@ -1229,6 +1230,8 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>conc teto klauze a te prvni? 
+(konektor sice jeste  -vsak)</discourse_comment>
 <val_frame.rf>v#v-w3515f1</val_frame.rf>
 <children>
 <LM id="t-ln95046-107-p2s5w24">
@@ -1361,6 +1364,7 @@
 <start_range>0</start_range>
 <target_range>3</target_range>
 <discourse_type>conj</discourse_type>
+<comment>nebo pouze na větu 2?</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-107-p2s6w4</LM>
@@ -1516,6 +1520,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<comment>wrong_TR ne podminka ale confr 
+(v tekto by mel byt funktor CONTRD)
+
+</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95046-107-p2s7w1</LM>
@@ -2570,6 +2578,8 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrong_TR ma byt aktualni elipsa,
+dokopirovane sloveso a ramec, nic = PAT</discourse_comment>
 <children>
 <LM id="t-ln95046-107-p3s3w1">
 <a>
@@ -2884,6 +2894,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>take by mohl byt secondary znamenalo
+ to a napr. explicat</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95046-107-p4s1w1</LM>
@@ -5817,6 +5829,7 @@
 <start_range>0</start_range>
 <target_range>3</target_range>
 <discourse_type>opp</discourse_type>
+<comment>nebo start_range 1?</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-107-p7s1w4</LM>

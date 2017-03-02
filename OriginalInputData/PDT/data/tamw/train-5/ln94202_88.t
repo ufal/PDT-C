@@ -2092,6 +2092,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg 
+je další interpretace</discourse_comment>
 </LM>
 <LM id="t-ln94202-88-p3s4w2">
 <a>
@@ -2102,6 +2104,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg je další
+interpretace</discourse_comment>
 </LM>
 <LM id="t-ln94202-88-p3s4w5">
 <a>

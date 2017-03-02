@@ -1501,6 +1501,10 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>mezera mezi argumenty-
+musí to prosazovat ODS, 
+protože SN a SL to na 
+program nezařadily</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-110-p2s4w3</LM>

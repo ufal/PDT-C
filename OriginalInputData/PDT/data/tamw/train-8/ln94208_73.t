@@ -1246,6 +1246,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-73-p2s3w43">
@@ -1665,6 +1666,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w2934f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-73-p3s2w1">

@@ -2595,6 +2595,10 @@
 <id>1</id>
 </LM>
 </discourse_groups>
+<discourse_comment>wrongTR? tady by mělo
+být dokopírované druhé sloveso
+nebyl zvolen  -byl zvolen, anotace
+se proto nedá udělat úplně dobře</discourse_comment>
 <val_frame.rf>v#v-w9986f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-90-p3s3w5">
@@ -9060,6 +9064,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94205-90-p8s3w2">
 <a>
@@ -16163,6 +16168,10 @@
 <LM>
 <type>list</type>
 <start_range>0</start_range>
+<comment>vypadá to jako seznam,
+ale druhá položka není
+v textu uvedena, možná
+stylistická chyba _PJ</comment>
 <src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94205-90-p12s4w1</LM>

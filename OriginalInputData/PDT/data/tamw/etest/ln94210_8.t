@@ -203,6 +203,7 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>6</deepord>
+<discourse_comment>adept na seznam</discourse_comment>
 <children>
 <LM id="t-ln94210-8-p2s1w1">
 <a>
@@ -2150,6 +2151,11 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce, souhlasim
+s anotaci CONJ na TR. ale zaroven si kladu otazku,
+jestli je nutne doplnovat "být" (v druhem 
+podstromu) a jestli "dále" a "pak" nemuzou
+spojovat jen NP.</discourse_comment>
 </LM>
 <LM id="t-ln94210-8-p3s2w22">
 <a>
@@ -2160,6 +2166,11 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce, souhlasim
+s anotaci CONJ na TR. ale zaroven si kladu otazku,
+jestli je nutne doplnovat "být" (v druhem 
+podstromu) a jestli "dále" a "pak" nemuzou
+spojovat jen NP.</discourse_comment>
 </LM>
 <LM id="t-ln94210-8-p3s2w1">
 <a>
@@ -6816,6 +6827,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
+s anotaci COND na TR</discourse_comment>
 </LM>
 <LM id="t-ln94210-8-p7s4w3">
 <a>

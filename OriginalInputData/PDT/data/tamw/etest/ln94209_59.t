@@ -4763,6 +4763,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>secondary další</discourse_comment>
 </LM>
 </children>
 </LM>

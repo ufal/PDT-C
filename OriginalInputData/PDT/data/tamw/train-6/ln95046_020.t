@@ -41,6 +41,7 @@
 <tfa>t</tfa>
 <deepord>3</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR  -proc je tady EmpVerb?</discourse_comment>
 <children>
 <LM id="t-ln95046-020-p1s1w2">
 <a>
@@ -1432,6 +1433,9 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>18</deepord>
+<discourse_comment>wrongTR? Rekla bych, ze nejvys by melo byt
+ "odehrat" a ze na "Keenan" by melo viset "a" a 
+na nem "působit" a "vidět".</discourse_comment>
 <children>
 <LM id="t-ln95046-020-p2s4w3">
 <a>

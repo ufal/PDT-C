@@ -97,6 +97,7 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR? nemaji vety 2 a 3 byt jeden strom?</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-mf920922-139-p1s1w1</target_node.rf>

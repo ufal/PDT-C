@@ -2851,6 +2851,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>13</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94205-102-p4s1w12">
 <a>
@@ -3839,6 +3840,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel SYNCHR dokud</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-102-p4s3w14</LM>

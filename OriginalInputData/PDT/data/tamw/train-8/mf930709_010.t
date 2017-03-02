@@ -1424,6 +1424,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>wrongTR?
+spíše není PREC</discourse_comment>
 </LM>
 <LM id="t-mf930709-010-p1s6w18">
 <a>

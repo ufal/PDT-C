@@ -577,6 +577,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC,
+anafora</discourse_comment>
 </LM>
 <LM id="t-ln94204-138-p3s1w1">
 <a>
@@ -3959,6 +3961,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>není PREC,
+anafora</discourse_comment>
 </LM>
 <LM id="t-ln94204-138-p6s2w2">
 <a>
@@ -6519,6 +6523,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94204-138-p8s1w7">
 <a>
@@ -9395,6 +9400,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>není PREC,
+součást konektoru
+když  -potom</discourse_comment>
 </LM>
 <LM id="t-ln94204-138-p10s5w5">
 <a>
@@ -10200,6 +10208,9 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>nejsem si jista rozsahem 
+prvniho argumentu (A1), 
+ani kam presne to vede </discourse_comment>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
 <children>
 <LM id="t-ln94204-138-p10s7w1">
@@ -10582,6 +10593,7 @@
 <id>1</id>
 </LM>
 </discourse_groups>
+<discourse_comment>wrongTR</discourse_comment>
 <val_frame.rf>v#v-w4354f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-138-p10s9w18">

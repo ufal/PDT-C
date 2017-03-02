@@ -232,6 +232,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>naprosto netypické
+pořadí argumentů</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-101-p2s3w1</LM>

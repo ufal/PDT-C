@@ -1139,6 +1139,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>wrongTR? nema tento uzel byt hranaty?</discourse_comment>
 <val_frame.rf>v#v-w5104f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-3-p3s1a4">
@@ -1532,6 +1533,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>30</deepord>
+<discourse_comment>wrongTR? proc je tento uzel hranaty?</discourse_comment>
 <val_frame.rf>v#v-w5104f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-3-p3s1w9">
@@ -2185,6 +2187,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem rovněž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-3-p3s3w3</LM>
@@ -2387,6 +2390,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-3-p3s3w17</LM>
@@ -7936,6 +7940,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem ještě</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-3-p5s2w5</LM>

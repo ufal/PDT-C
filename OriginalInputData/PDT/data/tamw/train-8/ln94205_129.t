@@ -3506,6 +3506,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>14</deepord>
+<discourse_comment>neznacim, byl by stejny 
+vztah [conj], jenz je 
+uz zaznacen vyse</discourse_comment>
 </LM>
 <LM id="t-ln94205-129-p4s1w20">
 <a>

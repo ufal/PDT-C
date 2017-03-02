@@ -3061,6 +3061,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>15</deepord>
+<discourse_comment>konektor CONJ
+v této struktuře</discourse_comment>
 </LM>
 <LM id="t-ln94203-29-p4s3a1">
 <nodetype>complex</nodetype>

@@ -4401,6 +4401,8 @@
 </a-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>silná implicitní
+složka významu</discourse_comment>
 <val_frame.rf>v#v-w1480f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-038-p3s5w22">
@@ -4418,6 +4420,9 @@
 </quot>
 <tfa>t</tfa>
 <deepord>26</deepord>
+<discourse_comment>modifikuje význam
+COND spojky,
+zdůraznění</discourse_comment>
 </LM>
 <LM id="t-ln95045-038-p3s5w21">
 <a>
@@ -5399,6 +5404,7 @@
 </quot>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>arg1 je NP</discourse_comment>
 </LM>
 <LM id="t-ln95045-038-p4s3w2">
 <a>
@@ -5603,6 +5609,7 @@
 <tfa>t</tfa>
 <deepord>7</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95045-038-p4s4w1">
 <a>

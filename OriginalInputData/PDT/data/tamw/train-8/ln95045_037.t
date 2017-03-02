@@ -4410,6 +4410,9 @@
 </gram>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>wrongTR,
+součást konektoru
+CONJ, ne TWHEN</discourse_comment>
 </LM>
 <LM id="t-ln95045-037-p3s6w12">
 <a>

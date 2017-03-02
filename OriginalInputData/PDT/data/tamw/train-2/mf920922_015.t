@@ -1730,6 +1730,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>CONJ spíš než SYNCHR</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-015-p2s4w4</LM>
@@ -2662,6 +2663,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary to je v rozporu</discourse_comment>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
 <children>
 <LM id="t-mf920922-015-p2s6w1">
@@ -10580,6 +10582,11 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>5</deepord>
+<discourse_comment>wrongTR
+nesouvisející segment
+textu, chyba? nebo autoři
+předešlé části a 30  -37
+je samostatný text?</discourse_comment>
 <children>
 <LM id="t-mf920922-015-p3s1Aw2">
 <a>

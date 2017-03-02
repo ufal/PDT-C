@@ -4026,6 +4026,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také
+dá se interpretovat
+i jako paragraph
+s nejasným dosahem
+(nejspíš 8-11)</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-40-p6s1w3</LM>

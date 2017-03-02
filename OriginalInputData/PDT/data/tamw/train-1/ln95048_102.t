@@ -10924,6 +10924,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>muzu byt i vztah 
+mezi 33-39 a 40</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-102-p9s8w4</LM>

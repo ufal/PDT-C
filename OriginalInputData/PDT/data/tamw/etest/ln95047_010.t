@@ -7193,6 +7193,7 @@
 <t_lemma>tak</t_lemma>
 <functor>CM</functor>
 <deepord>23</deepord>
+<discourse_comment>toto je MANN, ne?</discourse_comment>
 </LM>
 <LM id="t-ln95047-010-p7s2w25">
 <a>
@@ -9048,6 +9049,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>lze chápat jako secondary, ale komplikováno atribucí</discourse_comment>
 <children>
 <LM id="t-ln95047-010-p8s4w9">
 <a>

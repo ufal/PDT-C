@@ -727,6 +727,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>7</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95045-079-p3s1w4">
 <a>
@@ -2273,6 +2274,7 @@
 <functor>CONJ</functor>
 <is_member>1</is_member>
 <deepord>7</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95045-079-p3s7w3">
 <a>
@@ -2854,6 +2856,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95045-079-p3s8w16">
 <a>

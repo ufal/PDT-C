@@ -1504,6 +1504,9 @@
 </LM>
 </quot>
 <deepord>9</deepord>
+<discourse_comment>wrongTR? na "ale" bych povesila "a" a na nej "Mel
+jsem pocit, ze motor je obsahem handicapovan" a 
+"nasadil dvojite zapalovani"</discourse_comment>
 <children>
 <LM id="t-mf920925-044-p2s7w9">
 <a>
@@ -5428,6 +5431,8 @@
 </quot>
 <tfa>t</tfa>
 <deepord>6</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
+s anotaci COND na TR</discourse_comment>
 </LM>
 <LM id="t-mf920925-044-p2s20a1">
 <nodetype>complex</nodetype>

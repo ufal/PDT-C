@@ -52,6 +52,7 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR  -dva nadpisy sloucene do jednoho stromu?</discourse_comment>
 <children>
 <LM id="t-mf920925-118-p1s1w4">
 <a>

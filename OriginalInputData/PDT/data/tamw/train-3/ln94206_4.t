@@ -2045,6 +2045,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR? nema byt odkaz na "mohou"?</discourse_comment>
 <val_frame.rf>v#v-w4277f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-4-p4s1w12">

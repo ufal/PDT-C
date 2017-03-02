@@ -1251,6 +1251,7 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>8</deepord>
+<discourse_comment>adept na seznam</discourse_comment>
 <children>
 <LM id="t-ln95049-083-p3s1w2">
 <a>

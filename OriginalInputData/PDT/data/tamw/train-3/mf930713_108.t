@@ -2366,6 +2366,7 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>opp</discourse_type>
+<comment>dle mého bez VH u obou Arg</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-108-p2s8w1</LM>

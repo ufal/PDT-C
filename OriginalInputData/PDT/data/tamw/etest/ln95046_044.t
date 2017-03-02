@@ -2215,6 +2215,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>secondary svedci o tom i fakt ?</discourse_comment>
 <children>
 <LM id="t-ln95046-044-p2s8w14">
 <a>
@@ -10815,6 +10816,11 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>16</deepord>
+<discourse_comment>neznacim GRAD, protoze 
+je to podle me mezi NP a VP
+(mlada ucitelka na cirkevni 
+skole + ktera ma navic 
+pred svatbou)</discourse_comment>
 </LM>
 <LM id="t-ln95046-044-p5s12w16">
 <a>
@@ -13285,6 +13291,7 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 </LM>
 <LM id="t-ln95046-044-p6s3w10">
 <a>

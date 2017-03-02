@@ -2670,6 +2670,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
+<discourse_comment>adept na seznam </discourse_comment>
 <val_frame.rf>v#v-w1480f1</val_frame.rf>
 <children>
 <LM id="t-ln94211-106-p3s6w1">

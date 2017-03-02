@@ -1819,6 +1819,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim, vztah 
+otazka-odpoved 
+(proc-protoze)</discourse_comment>
 </LM>
 <LM id="t-ln94202-27-p5s1w4">
 <a>

@@ -810,6 +810,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>podmínkově-přípustkový
+vztah, podle PMČ neúčinná
+otevřená podmínka (s. 473)</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-138-p3s1w1</LM>
@@ -850,6 +853,7 @@
 <t_lemma>ať_nebo</t_lemma>
 <functor>DISJ</functor>
 <deepord>3</deepord>
+<discourse_comment>wrongTR, tady má být jen nebo</discourse_comment>
 <children>
 <LM id="t-ln94207-138-p3s1a1">
 <a>

@@ -1967,6 +1967,7 @@
 <tfa>t</tfa>
 <deepord>4</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95048-084-p3s3w6">
 <a>
@@ -2105,6 +2106,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>souhlas s conj</discourse_comment>
 </LM>
 <LM id="t-ln95048-084-p3s3w12">
 <a>

@@ -3293,6 +3293,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>13</deepord>
+<discourse_comment>patří ke konektoru
+CONJ v této větě, 
+není PREC</discourse_comment>
 </LM>
 <LM id="t-ln94202-56-p4s3a1">
 <nodetype>complex</nodetype>
@@ -6161,6 +6164,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>konektor+secondary</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-56-p5s6w3</LM>

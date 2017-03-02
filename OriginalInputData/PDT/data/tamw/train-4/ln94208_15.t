@@ -676,6 +676,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w8207f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-15-p3s1w3">
@@ -2646,6 +2647,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>velká mezera mezi
+argumenty  -zřejmě
+prodá i navíc spoustu
+dalších, protože...</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-15-p5s3w5</LM>

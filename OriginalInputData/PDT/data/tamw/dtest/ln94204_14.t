@@ -789,6 +789,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim, prec nezaklada 
+vyznamovy diskurzni vztah 
+("timto zpusobem")</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94204-14-p2s1w9</target_node.rf>
@@ -1637,6 +1640,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim, prec nezaklada 
+vyznamovy diskurzni vztah 
+("timto zpusobem")</discourse_comment>
 </LM>
 <LM id="t-ln94204-14-p5s1w2">
 <a>
@@ -3171,6 +3177,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>falešná časová věta, plány
+nejspíš jsou už teď</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-14-p8s1w1</LM>

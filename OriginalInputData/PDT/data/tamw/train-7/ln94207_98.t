@@ -4545,6 +4545,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>adept na seznam 
+v rámci jedné věty</discourse_comment>
 <children>
 <LM id="t-ln94207-98-p4s2Bw11">
 <a>
@@ -5914,6 +5916,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>silná presupoziční 
+složka významu</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-98-p4s6w10</LM>

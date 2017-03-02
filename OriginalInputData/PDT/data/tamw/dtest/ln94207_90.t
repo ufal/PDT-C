@@ -1075,6 +1075,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w1446f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-90-p2s1Ca4">
@@ -5563,6 +5564,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>wrongTR  -spatne t-lemma</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p4s6w12">
 <a>
@@ -5861,6 +5863,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR? proc je zde doplneno sloveso?</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p4s7w13">
 <a>
@@ -7211,6 +7214,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>23</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
+s anotaci ADVS na TR</discourse_comment>
 </LM>
 <LM id="t-ln94207-90-p4s9a4">
 <nodetype>qcomplex</nodetype>
@@ -7608,6 +7613,8 @@
 <t_lemma>buď_nebo</t_lemma>
 <functor>DISJ</functor>
 <deepord>65</deepord>
+<discourse_comment>wrongTR? t-lemma je bud_nebo, ale v textu neni
+zadne nebo (to "aneb" uz visi jinde ve strome)</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p4s9a12">
 <a>
@@ -9888,6 +9895,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+<discourse_comment>secondary? nedlouho předtím</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p5s6w9">
 <a>
@@ -13013,6 +13021,8 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR? nema tento uzel odkazovat take na 
+"bychom"?</discourse_comment>
 <val_frame.rf>v#v-w5355f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-90-p6s6w17">
@@ -13740,6 +13750,8 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>15</deepord>
+<discourse_comment>wrongTR? nemelo by v tomto strome byt jenom
+jedno "a" a na nem vsechny predikaty?</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p7s3w7">
 <a>
@@ -15632,6 +15644,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle me
+to neni PREC</discourse_comment>
 </LM>
 <LM id="t-ln94207-90-p8s3Aa7">
 <nodetype>qcomplex</nodetype>
@@ -17610,6 +17624,8 @@
 <t_lemma>kdežto</t_lemma>
 <functor>CONFR</functor>
 <deepord>6</deepord>
+<discourse_comment>wrongTR? proc jsou tady z nasledujici vety
+jenom tecky?</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p9s3Aw3">
 <a>
@@ -19226,6 +19242,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>7</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p10s4w4">
 <a>
@@ -19950,6 +19967,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR? spatna segmentace? text konci strednikem</discourse_comment>
 <val_frame.rf>v#v-w3987f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-90-p10s7a0">

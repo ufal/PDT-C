@@ -1480,6 +1480,7 @@
 <tfa>f</tfa>
 <deepord>4</deepord>
 <secondary_NP_type>conc</secondary_NP_type>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w9661f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-009-p3s2w3">
@@ -2438,6 +2439,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel PRECED tehdy když</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-009-p5s1w29</LM>

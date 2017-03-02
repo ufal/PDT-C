@@ -1502,6 +1502,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>secondary další skupinou</discourse_comment>
 </LM>
 <LM id="t-ln94211-33-p3s5w7">
 <a>

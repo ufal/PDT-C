@@ -101,6 +101,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR  -chybna segmentace, 
+podle me to ma byt spojene s 
+prvni vetou</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-cmpr9415-021-p2s1w3</target_node.rf>

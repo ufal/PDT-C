@@ -600,6 +600,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>neznacim, clen 
+dvojice dokud  -tak</discourse_comment>
 </LM>
 <LM id="t-ln94207-10-p2s1Cw11">
 <a>

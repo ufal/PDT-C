@@ -2608,6 +2608,9 @@
 <id>2</id>
 </LM>
 </discourse_groups>
+<discourse_comment>wrongTR? nemaji "zameškat"i "vykloubit" viset na 
+Comma a nema "Comma" viset na "a"?
+</discourse_comment>
 <children>
 <LM id="t-ln95048-082-p3s6w5">
 <a>

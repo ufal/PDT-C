@@ -2488,6 +2488,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>neznacim, nebot je to dle 
+meho nazoru "conj", stejne 
+jako vyse</discourse_comment>
 </LM>
 <LM id="t-mf930709-087-p2s9w14">
 <a>

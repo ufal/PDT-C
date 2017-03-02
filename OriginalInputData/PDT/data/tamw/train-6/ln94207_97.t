@@ -3029,6 +3029,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neanotuji, vztah CONC jiz oanotovan 
+u "ackoli", neanotujeme jiz spravne 
+oanotovane semanticke vztahy jen 
+kvuli konektorum</discourse_comment>
 </LM>
 <LM id="t-ln94207-97-p4s2w10">
 <a>

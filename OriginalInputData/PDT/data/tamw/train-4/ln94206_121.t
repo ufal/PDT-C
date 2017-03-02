@@ -794,6 +794,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>nejasné, zda vůbec
+někam odkazuje,
+možná one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94206-121-p2s2w14">
 <a>
@@ -1004,6 +1007,11 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>lze uvažovat, že (4)
+je CONC k (5), ale je to
+velmi slabe, navic "i tak"
+lze nahradit "i bez nich" -
+proto neanotováno</discourse_comment>
 <val_frame.rf>v#v-w9091f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-121-p3s1w1">
@@ -1268,6 +1276,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>spojuje jen dve NP, lze
+nahradit např. především</discourse_comment>
 <children>
 <LM id="t-ln94206-121-p3s2w2">
 <a>
@@ -4059,6 +4069,10 @@
 <functor>CONJ</functor>
 <is_dsp_root>1</is_dsp_root>
 <deepord>10</deepord>
+<discourse_comment>náznak REASON, 
+ale moc slabé na to,
+aby to mohlo být 
+bezpečně anotováno</discourse_comment>
 <children>
 <LM id="t-ln94206-121-p4s6w6">
 <a>

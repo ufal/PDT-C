@@ -472,6 +472,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<comment>second_rel CONFR zatimco</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-76-p2s1w3</LM>
@@ -875,6 +876,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<comment>možno vnímat
+jako SPEC NP "co"?</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-76-p2s1w28</LM>
@@ -2820,6 +2823,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94202-76-p4s5w3">
 <a>
@@ -7357,6 +7361,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94202-76-p9s2w9">
 <a>

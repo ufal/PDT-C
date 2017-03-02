@@ -2243,6 +2243,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>15</deepord>
+<discourse_comment>wrongTR,
+není PREC,
+ATT?</discourse_comment>
 </LM>
 <LM id="t-ln94208-64-p4s1a9">
 <nodetype>qcomplex</nodetype>

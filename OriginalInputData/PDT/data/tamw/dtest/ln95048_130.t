@@ -2913,6 +2913,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>sporná anotace,
+dvojice tak  -aby ukazuje
+spíš na způsobovou větu,
+wrongTR? má tu být AIM
+funktor?</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-130-p4s3w13</LM>

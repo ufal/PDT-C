@@ -968,6 +968,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>14</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -
+souhlasim s anotaci CONJ na TR</discourse_comment>
 </LM>
 <LM id="t-ln94211-58-p2s2w17">
 <a>

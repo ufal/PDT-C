@@ -3051,6 +3051,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor není
+ve stromě vidět</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-056-p2s6Aw1</LM>

@@ -529,6 +529,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<comment>konektor rhem alespoň</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-063-p2s2w1</LM>
@@ -1622,6 +1623,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-063-p2s6w27</LM>

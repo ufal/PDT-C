@@ -1527,6 +1527,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg
+prázdné</discourse_comment>
 </LM>
 <LM id="t-mf920922-105-p2s8a2">
 <nodetype>complex</nodetype>
@@ -4220,6 +4222,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem i
+váhání, jestli tu vůbec 
+má diskurzní šipka být</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-105-p2s20w1</LM>
@@ -4828,6 +4833,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-mf920922-105-p2s22w5">
@@ -4922,6 +4928,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>paragraph</discourse_comment>
 </LM>
 <LM id="t-mf920922-105-p2s23Aw2">
 <a>
@@ -6089,6 +6096,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>přikloníme-li se k této interpretaci, 
+je tu wrongTR</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-105-p2s25w7</LM>

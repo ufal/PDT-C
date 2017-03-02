@@ -2444,6 +2444,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>neznacim, vztah (conj) 
+zaznacen jiz u "a"</discourse_comment>
 </LM>
 <LM id="t-ln94203-58-p4s2w18">
 <a>
@@ -2454,6 +2456,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse_comment>neznacim, vztah (conj) 
+zaznacen jiz u "a"</discourse_comment>
 </LM>
 <LM id="t-ln94203-58-p4s2w20">
 <a>

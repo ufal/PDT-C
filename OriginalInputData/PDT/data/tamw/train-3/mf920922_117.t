@@ -122,6 +122,8 @@
 <tfa>t</tfa>
 <deepord>3</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>2x stejný nadpis?
+popisek fotky?</discourse_comment>
 <children>
 <LM id="t-mf920922-117-p3s1w1">
 <a>

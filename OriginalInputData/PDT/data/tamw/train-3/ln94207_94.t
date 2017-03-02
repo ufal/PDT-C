@@ -27,6 +27,8 @@
 <functor>CONJ</functor>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>kolekce  -posledni veta vypada jako nadpis k
+jinemu clanku</discourse_comment>
 <children>
 <LM id="t-ln94207-94-p1s1w1">
 <a>
@@ -4481,6 +4483,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-94-p5s4w10</LM>
@@ -7044,6 +7047,7 @@
 <target_group_id>5</target_group_id>
 <target_range>group</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem rovněž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-94-p7s2w14</LM>
@@ -7354,6 +7358,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<comment>konektor rhem i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-94-p8s1w1</LM>

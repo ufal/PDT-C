@@ -1040,6 +1040,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento prec neni pripojen k zadne sipce
+podle me by slo o vztah NP (zacleneni postizenych
+obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 </LM>
 <LM id="t-ln94205-1-p3s2w3">
 <a>

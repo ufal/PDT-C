@@ -3289,6 +3289,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>wrongTR?
+rozhodně není
+přípustka</discourse_comment>
 <val_frame.rf>v#v-w1866f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-062-p2s8w10">

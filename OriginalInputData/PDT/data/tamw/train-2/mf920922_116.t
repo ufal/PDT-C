@@ -2688,6 +2688,9 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>opp</discourse_type>
+<comment>konektor může mít 
+i větší rozsah,
+nejasný paragraph</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-116-p4s8w4</LM>
@@ -3248,6 +3251,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-116-p4s10w1</LM>

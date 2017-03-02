@@ -1985,6 +1985,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>25</deepord>
+<discourse_comment>konektor CONJ
+v tomto podstromě</discourse_comment>
 </LM>
 <LM id="t-ln94206-134-p2s6w16">
 <a>

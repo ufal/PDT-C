@@ -932,6 +932,7 @@
 <tfa>f</tfa>
 <deepord>5</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w9418f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-142-p3s2w2">
@@ -1346,6 +1347,7 @@
 <start_range>0</start_range>
 <target_range>2</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-142-p4s1w3</LM>

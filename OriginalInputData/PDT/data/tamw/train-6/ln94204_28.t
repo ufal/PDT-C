@@ -3230,6 +3230,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>konektor+secondary</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94204-28-p5s3w12</LM>

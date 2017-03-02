@@ -1349,6 +1349,7 @@
 <deepord>6</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
 <secondary_NP_negated>1</secondary_NP_negated>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w9850f1</val_frame.rf>
 <children>
 <LM id="t-ln94210-41-p2s4w5">
@@ -1494,6 +1495,7 @@
 <tfa>t</tfa>
 <deepord>12</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94210-41-p2s4w15">
 <a>

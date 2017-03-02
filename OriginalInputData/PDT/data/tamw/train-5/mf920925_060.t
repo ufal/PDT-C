@@ -788,6 +788,7 @@
 </quot>
 <tfa>t</tfa>
 <deepord>21</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-060-p3s1w8">
 <a>
@@ -4345,6 +4346,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-060-p5s3Aw3">
 <a>
@@ -4696,6 +4698,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-060-p5s3Bw1">
 <a>
@@ -7808,6 +7811,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-060-p7s2w2">
 <a>

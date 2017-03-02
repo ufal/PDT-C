@@ -1073,6 +1073,7 @@
 <tfa>f</tfa>
 <deepord>5</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w9420f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-019-p2s3w2">
@@ -1435,6 +1436,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>18</deepord>
+<discourse_comment>velmi netypický konektor</discourse_comment>
 <coref_gram.rf>
 <LM>t-mf920922-019-p2s3w6</LM>
 </coref_gram.rf>

@@ -437,6 +437,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>11</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94209-52-p2s1Cw7">
 <a>
@@ -1571,6 +1572,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>zvazovala jsem i confr</discourse_comment>
 <val_frame.rf>v#v-w8528f1</val_frame.rf>
 <children>
 <LM id="t-ln94209-52-p3s2w2">

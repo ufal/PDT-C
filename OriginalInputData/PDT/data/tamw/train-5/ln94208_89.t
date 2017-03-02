@@ -945,6 +945,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94208-89-p2s3a2">
 <nodetype>complex</nodetype>
@@ -1989,6 +1990,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>23</deepord>
+<discourse_comment>wrongTR  -tohle je spíš REG, ne?</discourse_comment>
 <val_frame.rf>v#v-w1339f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-89-p2s4w10">

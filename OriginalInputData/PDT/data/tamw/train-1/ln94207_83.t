@@ -71,6 +71,8 @@
 <tfa>f</tfa>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR spatna segmentace 
+textu</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-83-p2s1Aw2">
@@ -1479,6 +1481,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94207-83-p3s1w4">
 <a>
@@ -4298,6 +4301,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>kombinováno s cond, ale
+čas silnější</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-83-p5s2w13</LM>
@@ -7563,6 +7568,7 @@
 <functor>RHEM</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>konektor rhem teprve</discourse_comment>
 </LM>
 <LM id="t-ln94207-83-p7s5w2">
 <a>

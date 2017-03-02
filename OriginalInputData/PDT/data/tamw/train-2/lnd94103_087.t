@@ -8447,6 +8447,7 @@
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-lnd94103-087-p1s43w4">
 <a>
@@ -12670,6 +12671,9 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>Premyslela jsem i nad "corr", 
+celkove jsem si tu moc 
+nevedela rady..</discourse_comment>
 <children>
 <LM id="t-lnd94103-087-p1s60w13">
 <a>
@@ -22276,6 +22280,7 @@
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-lnd94103-087-p1s102w3">
 <a>
@@ -24151,6 +24156,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>sémanticky je to spolu
+s AIM jeden predikát</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-lnd94103-087-p1s109Aa0">

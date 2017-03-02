@@ -898,6 +898,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>14</deepord>
+<discourse_comment>neznacim, patri do dvojice -li  -pak 
+(tj. pokud  -pak)</discourse_comment>
 </LM>
 <LM id="t-ln94200-138-p2s2a0">
 <nodetype>complex</nodetype>

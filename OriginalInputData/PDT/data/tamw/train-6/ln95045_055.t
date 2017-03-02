@@ -642,6 +642,8 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>podle me spojuje NP ("poznatky", veta 3) a vetu 4,
+proto neanotuju</discourse_comment>
 </LM>
 <LM id="t-ln95045-055-p2s2a0">
 <nodetype>atom</nodetype>
@@ -979,6 +981,8 @@
 <t_lemma>nýbrž</t_lemma>
 <functor>ADVS</functor>
 <deepord>18</deepord>
+<discourse_comment>wrongTR? nema se to anotovat jako elipsa slovesa?
+Pak bych značila diskurzni vztah corr.</discourse_comment>
 <children>
 <LM id="t-ln95045-055-p2s3w6">
 <a>
@@ -2527,6 +2531,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -zda se 
+mi, ze to neni diskurzni konektor</discourse_comment>
 </LM>
 <LM id="t-ln95045-055-p4s2w6">
 <a>
@@ -2664,6 +2670,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle me
+by slo o vztah NP ("napadite triky", veta 9) a 
+veta 10.</discourse_comment>
 </LM>
 <LM id="t-ln95045-055-p4s3w2">
 <a>

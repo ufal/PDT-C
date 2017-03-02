@@ -4019,6 +4019,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94208-25-p6s5a0">
 <nodetype>qcomplex</nodetype>

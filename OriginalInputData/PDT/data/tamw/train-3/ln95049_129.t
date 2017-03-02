@@ -2993,6 +2993,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>7</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95049-129-p4s3w4">
 <a>
@@ -3091,6 +3092,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>secondary následující</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -3761,6 +3763,7 @@
 </quot>
 <tfa>t</tfa>
 <deepord>14</deepord>
+<discourse_comment>one_arg (odkazuje do jineho textu)</discourse_comment>
 </LM>
 <LM id="t-ln95049-129-p5s1w21">
 <a>
@@ -4521,6 +4524,7 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>vztah NP a VP</discourse_comment>
 </LM>
 <LM id="t-ln95049-129-p5s3w5">
 <a>
@@ -5324,6 +5328,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>secondary Jiným důležitým poznatkem je...</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln95049-129-p6s1w3">
@@ -5925,6 +5930,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln95049-129-p6s2w16">

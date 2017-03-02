@@ -5184,6 +5184,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<comment>lze jistě anotovat
+i OPP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-162-p5s5w5</LM>

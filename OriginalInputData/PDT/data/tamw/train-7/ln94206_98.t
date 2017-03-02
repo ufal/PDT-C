@@ -4048,6 +4048,9 @@
 <tfa>f</tfa>
 <deepord>5</deepord>
 <secondary_NP_type>restr</secondary_NP_type>
+<discourse_comment>mohlo by ale být 
+vnímáno i jako vztah 
+mezi dvěma NP</discourse_comment>
 <children>
 <LM id="t-ln94206-98-p3s8w6">
 <a>
@@ -4748,6 +4751,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>není PREC,
+wrongTR, špatný
+funktor  -MANN</discourse_comment>
 </LM>
 <LM id="t-ln94206-98-p4s1w25">
 <a>

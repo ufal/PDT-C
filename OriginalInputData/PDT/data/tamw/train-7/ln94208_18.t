@@ -4448,6 +4448,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>velmi málo 
+specifická
+exempl</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-18-p8s1w6</LM>

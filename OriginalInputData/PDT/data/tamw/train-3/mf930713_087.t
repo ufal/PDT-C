@@ -1316,6 +1316,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>možné i jen mezi 
+slovy pokles a zrušit</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-087-p3s4w2</LM>
@@ -2145,6 +2147,7 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>f_opp</discourse_type>
+<comment>moc velká míra inference na opp</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-087-p4s2w2</LM>

@@ -3694,6 +3694,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
+<discourse_comment>wrongTR,
+není MANN,
+one_arg</discourse_comment>
 </LM>
 </children>
 </LM>

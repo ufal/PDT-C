@@ -4028,6 +4028,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR?  -neměl by tento uzel být nejvýš a 
+nemělo by až na něm viset "nebo"?</discourse_comment>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
 <children>
 <LM id="t-ln95047-091-p4s5w2">

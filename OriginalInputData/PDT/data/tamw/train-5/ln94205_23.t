@@ -43,6 +43,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR  -t-lemma ma byt"Žoska"</discourse_comment>
 </LM>
 <LM id="t-ln94205-23-p1s1w3">
 <a>
@@ -753,6 +754,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>wrongTR  -t-lemma ma byt"Žoska"</discourse_comment>
 <children>
 <LM id="t-ln94205-23-p3s1w7">
 <a>
@@ -2298,6 +2300,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR  -t-lemma ma byt"Žoska"</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94205-23-p4s2w7</target_node.rf>
@@ -2493,6 +2496,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR  -t-lemma ma byt"Žoska"</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94205-23-p4s3w5</target_node.rf>

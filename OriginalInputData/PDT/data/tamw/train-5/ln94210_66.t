@@ -918,6 +918,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>8</deepord>
+<discourse_comment>neznacim, nebot vztah mezi "poklesnout" 
+a "stoupnout" je vyjadren uz funktorem 
+CONTRD</discourse_comment>
 </LM>
 <LM id="t-ln94210-66-p2s3w12">
 <a>

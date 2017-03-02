@@ -219,6 +219,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR,
+tohle je nějaká metapoznámka,
+nebo to v textu opravdu je?</discourse_comment>
 <children>
 <LM id="t-lnd94103-028-p1s1w13">
 <a>
@@ -520,6 +523,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>spíš MANN než PREC</discourse_comment>
 </LM>
 <LM id="t-lnd94103-028-p1s4w2">
 <a>

@@ -2407,6 +2407,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>21</deepord>
+<discourse_comment>neanotuji, MANN</discourse_comment>
 </LM>
 <LM id="t-ln94208-114-p3s5a2">
 <nodetype>complex</nodetype>

@@ -2532,6 +2532,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>8</deepord>
+<discourse_comment>neznacim, podle me 
+je to MANN</discourse_comment>
 </LM>
 <LM id="t-mf930709-008-p4s2w12">
 <a>

@@ -4075,6 +4075,7 @@
 </a-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR? nemel by tento uzel viset na "stretnuti" ?</discourse_comment>
 <val_frame.rf>v#v-w7049f1</val_frame.rf>
 <children>
 <LM id="t-ln94209-100-p4s1w31">

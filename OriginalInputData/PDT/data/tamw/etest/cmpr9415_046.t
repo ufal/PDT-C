@@ -5366,6 +5366,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <children>
 <LM id="t-cmpr9415-046-p13s1w2">
 <a>

@@ -8689,6 +8689,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94207-76-p4s1a0">
 <nodetype>complex</nodetype>
@@ -10619,6 +10620,7 @@
 <functor>RHEM</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>rhem fungujici v ramci vety</discourse_comment>
 </LM>
 <LM id="t-ln94207-76-p4s5w3">
 <a>
@@ -12453,6 +12455,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>poslední část koordinace
+lze interpretovat jako synchr, 
+kvůli jednoduchosti
+anotace a sémantické jednotě celé 
+koordinace necháno takto</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-76-p6s1w11</LM>
@@ -16569,6 +16576,10 @@
 <t_lemma>také</t_lemma>
 <functor>CM</functor>
 <deepord>7</deepord>
+<discourse_comment>wrong TR,
+spíše modifikuje
+konektivní prostředek
+VV</discourse_comment>
 </LM>
 <LM id="t-ln94207-76-p7s8a1">
 <a>
@@ -25783,6 +25794,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<comment>konektor rhem aspoň</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-76-p9s9w4</LM>
@@ -29530,6 +29542,9 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>wrongTR?,
+proč to není schované
+u slovesa?</discourse_comment>
 </LM>
 <LM id="t-ln94207-76-p10s1a2">
 <nodetype>complex</nodetype>
@@ -35350,6 +35365,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-76-p12s5w1">
@@ -39806,6 +39822,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary přibližně v téže době</discourse_comment>
 <children>
 <LM id="t-ln94207-76-p13s3w3">
 <a>

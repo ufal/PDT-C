@@ -2306,6 +2306,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse_comment>neanotuji, toto PREC nezaklada 
+vyznamovy diskurzni vztah, lze namisto 
+toho doplnit "jeste" ci "krome Ciny"</discourse_comment>
 </LM>
 <LM id="t-ln94211-129-p4s4w17">
 <a>
@@ -6224,6 +6227,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>Neznacim, jedna se o 
+dvojici "kdyz  -tak".</discourse_comment>
 </LM>
 <LM id="t-ln94211-129-p8s1w1">
 <a>

@@ -3207,6 +3207,9 @@
 <t_lemma>#Comma</t_lemma>
 <functor>ADVS</functor>
 <deepord>11</deepord>
+<discourse_comment>premyslela jsem o CONFR, 
+citim tam neco vic nez obyc. OPP, 
+ale ne na 100%, proto nechavam</discourse_comment>
 <children>
 <LM id="t-ln95046-024-p4s4w5">
 <a>

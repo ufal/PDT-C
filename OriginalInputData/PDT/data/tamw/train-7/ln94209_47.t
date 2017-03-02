@@ -7322,6 +7322,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-47-p4s10w1">
 <a>
@@ -8886,6 +8887,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
+<discourse_comment>wrongTR</discourse_comment>
 <val_frame.rf>v#v-w4140f1</val_frame.rf>
 <children>
 <LM id="t-ln94209-47-p4s14w14">

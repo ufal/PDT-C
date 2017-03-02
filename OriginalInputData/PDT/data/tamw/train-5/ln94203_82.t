@@ -2234,6 +2234,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>32</deepord>
+<discourse_comment>nějaký typ zeugmatu v textu,
+wrongTR</discourse_comment>
 <val_frame.rf>v#v-w2294f1</val_frame.rf>
 <children>
 <LM id="t-ln94203-82-p2s5w27">
@@ -2783,6 +2785,8 @@
 <start_range>backward</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>velmi slabá REASON, 
+ale sém. snad nejblíž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-82-p3s2w2</LM>
@@ -3109,6 +3113,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<comment>netypická CORR  -
+zdůraznění kontrastu
+obou argumentů, 
+GRAD v tom je též</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-82-p3s1a0</LM>
@@ -4471,6 +4479,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>připojuje (11)
+k podstromu uzlu poskytnout v (10)-
+nejedná se o VF, proto
+neanotováno</discourse_comment>
 </LM>
 <LM id="t-ln94203-82-p3s4w3">
 <a>

@@ -4121,6 +4121,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>k přesné interpretaci
+je potřeba znát
+faktické pozadí případu,
+takto interpretace 
+nejasná</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-138-p6s2w3</LM>
@@ -4398,6 +4403,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>opět poněkud
+nejasné bez
+znalostí faktů</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-138-p6s3w3</LM>

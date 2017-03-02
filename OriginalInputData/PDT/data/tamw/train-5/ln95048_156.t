@@ -1932,6 +1932,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<comment>časovost hodně
+vystupuje uvedením
+rozdělené formy
+konektoru</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-156-p4s2w7</LM>

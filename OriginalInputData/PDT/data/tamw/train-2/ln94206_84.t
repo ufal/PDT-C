@@ -2205,6 +2205,8 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR,
+proč tu není EmpVerb?</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-84-p3s4w1">
@@ -2736,6 +2738,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94206-84-p4s1w5">
 <a>
@@ -4220,6 +4223,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>rekla bych ze to je rhem a ze pusobi jen v ramci
+vety</discourse_comment>
 </LM>
 <LM id="t-ln94206-84-p4s6w7">
 <a>
@@ -4656,6 +4661,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>rekla bych ze to je rhem a ze pusobi jen v ramci
+vety</discourse_comment>
 </LM>
 <LM id="t-ln94206-84-p4s7w5">
 <a>

@@ -2881,6 +2881,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel SYNCHR tehdy když</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-137-p2s10w15</LM>

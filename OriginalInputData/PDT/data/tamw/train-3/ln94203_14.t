@@ -1742,6 +1742,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>proč tahle věta nemá tečku?
+asi to není nadpis</discourse_comment>
 <val_frame.rf>v#v-w8756f2</val_frame.rf>
 <children>
 <LM id="t-ln94203-14-p3s4w2">
@@ -2491,6 +2493,13 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>velká mezera mezi
+argumenty  -proč je
+to důležité, že dokáže
+pružně reagovat,
+lze vnímat i jako vztah
+s NP  -velké výkyvy -
+jak vznikají</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-14-p4s3w5</LM>

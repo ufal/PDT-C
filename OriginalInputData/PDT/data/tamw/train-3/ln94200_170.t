@@ -1025,6 +1025,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg
+</discourse_comment>
 </LM>
 <LM id="t-ln94200-170-p2s5w2">
 <a>
@@ -5243,6 +5245,8 @@
 <start_range>0</start_range>
 <target_range>5</target_range>
 <discourse_type>opp</discourse_type>
+<comment>konektor je 
+typický paragraph</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-170-p6s1w3</LM>

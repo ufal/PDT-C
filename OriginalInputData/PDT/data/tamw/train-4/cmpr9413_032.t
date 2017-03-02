@@ -136,6 +136,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>katafora k nejvyššímu
+uzlu následující věty</discourse_comment>
 <coref_special>segm</coref_special>
 </LM>
 <LM id="t-cmpr9413-032-p3s1Aw6">
@@ -1127,6 +1129,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>CM, ne CNCS</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-032-p4s1w20">
 <a>
@@ -5035,6 +5038,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>hodně zastřený vztah
+kvůli modalitě</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-032-p12s2w1</LM>
@@ -5406,6 +5411,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>poměrně implicitní</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-032-p13s3Aw1</LM>

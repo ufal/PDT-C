@@ -1741,6 +1741,10 @@
 </gram>
 <tfa>t</tfa>
 <deepord>21</deepord>
+<discourse_comment>wrongTR?, 
+součást konektoru
+COND v tomto stromě,
+čas až druhotně</discourse_comment>
 </LM>
 <LM id="t-ln95047-062-p3s2a0">
 <nodetype>atom</nodetype>
@@ -5191,6 +5195,11 @@
 </gram>
 <tfa>t</tfa>
 <deepord>19</deepord>
+<discourse_comment>wrongTR?,
+součást konektoru
+COND v tomto
+stromě, čas až
+druhotně</discourse_comment>
 </LM>
 <LM id="t-ln95047-062-p5s4a0">
 <nodetype>atom</nodetype>
@@ -7084,6 +7093,8 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>14</deepord>
+<discourse_comment>první argument
+je NP</discourse_comment>
 </LM>
 <LM id="t-ln95047-062-p7s2w17">
 <a>

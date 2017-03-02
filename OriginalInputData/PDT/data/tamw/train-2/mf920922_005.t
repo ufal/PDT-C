@@ -1926,6 +1926,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem taky
+slabá conj</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-005-p2s6w3</LM>
@@ -2415,6 +2417,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>RESTR jako další možnost,
+ale OPP mi přijde přesnější</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-005-p2s7a1</LM>

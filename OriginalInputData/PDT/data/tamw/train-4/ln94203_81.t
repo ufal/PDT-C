@@ -1867,6 +1867,7 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94203-81-p3s1w2">
 <a>
@@ -5530,6 +5531,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>konektor rhem též</discourse_comment>
 <val_frame.rf>v#v-w4019f1</val_frame.rf>
 <children>
 <LM id="t-ln94203-81-p4s1w2">
@@ -5805,6 +5807,7 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94203-81-p4s2w1">
 <a>

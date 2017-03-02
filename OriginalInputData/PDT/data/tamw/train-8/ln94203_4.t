@@ -5168,6 +5168,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neanotuji, anaforicke</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94203-4-p6s1w19</target_node.rf>
@@ -5837,6 +5838,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>neanotuji, anaforicke "tak"</discourse_comment>
 </LM>
 <LM id="t-ln94203-4-p7s3a0">
 <nodetype>qcomplex</nodetype>
@@ -11728,6 +11730,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>13</deepord>
+<discourse_comment>neznacim, vztah (conj) 
+zaznacen jiz u "a"</discourse_comment>
 </LM>
 <LM id="t-ln94203-4-p13s2w20">
 <a>

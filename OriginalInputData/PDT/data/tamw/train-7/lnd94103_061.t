@@ -3379,6 +3379,9 @@
 <t_lemma>a_to</t_lemma>
 <functor>APPS</functor>
 <deepord>5</deepord>
+<discourse_comment>wrongTR  -"a to" moc vysoko  -
+patří ke skupině snaha udržet  -
+(elipsa snaha udržet) často i těm... </discourse_comment>
 <children>
 <LM id="t-lnd94103-061-p1s11w3">
 <a>

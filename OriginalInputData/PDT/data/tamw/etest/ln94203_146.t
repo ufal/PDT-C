@@ -2130,6 +2130,7 @@
 <tfa>t</tfa>
 <deepord>5</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94203-146-p4s1w6">
 <a>
@@ -3477,6 +3478,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>6</deepord>
+<discourse_comment>wrongTR, REG</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94203-146-p5s2w2</target_node.rf>
@@ -6570,6 +6572,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94203-146-p5s3w20</target_node.rf>

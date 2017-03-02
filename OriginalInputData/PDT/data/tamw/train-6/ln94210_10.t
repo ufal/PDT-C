@@ -3399,6 +3399,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg  -nebo spis 1,5 argumentu  -vime, ze 
+se objevily akcie SETUZA (veta 10), ale o MILO
+ nebyla rec</discourse_comment>
 </LM>
 <LM id="t-ln94210-10-p4s4a0">
 <nodetype>qcomplex</nodetype>

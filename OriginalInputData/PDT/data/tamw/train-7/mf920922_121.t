@@ -956,6 +956,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není VP, ke které
+by šlo napojit</discourse_comment>
 </LM>
 <LM id="t-mf920922-121-p2s3a0">
 <a>

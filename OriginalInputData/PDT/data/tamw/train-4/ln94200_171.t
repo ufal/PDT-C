@@ -1819,6 +1819,8 @@
 <functor>APPS</functor>
 <is_member>1</is_member>
 <deepord>7</deepord>
+<discourse_comment>neanotuji, 
+vztah mezi NP a NP</discourse_comment>
 <children>
 <LM id="t-ln94200-171-p2s8a0">
 <a>
@@ -3528,6 +3530,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-ln94200-171-p2s12w11">
@@ -3789,6 +3792,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-171-p2s13w2</LM>

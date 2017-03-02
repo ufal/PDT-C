@@ -2278,6 +2278,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>20</deepord>
+<discourse_comment>připojuje jen NP</discourse_comment>
 </LM>
 <LM id="t-ln95045-100-p4s1a2">
 <a>

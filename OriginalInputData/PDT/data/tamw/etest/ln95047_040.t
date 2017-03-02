@@ -3608,6 +3608,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>3</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95047-040-p3s17w3">
 <a>
@@ -3899,6 +3900,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>17</deepord>
+<discourse_comment>neznacim, nezaklada 
+vyznamovy diskurzni vztah</discourse_comment>
 </LM>
 <LM id="t-ln95047-040-p3s17w24">
 <a>

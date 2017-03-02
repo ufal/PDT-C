@@ -836,6 +836,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>špatná formulace
+a ani není jasné,
+co vlastně chtěl říct</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-144-p2s2w8</LM>
@@ -1039,6 +1042,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94208-144-p2s3a0">
 <nodetype>qcomplex</nodetype>
@@ -2021,6 +2025,11 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR,
+normální 
+hypotaktická spojka,
+patří skrýt k uzlu CAUS
+výše</discourse_comment>
 </LM>
 <LM id="t-ln94208-144-p4s1w3">
 <a>
@@ -3238,6 +3247,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>13</deepord>
+<discourse_comment>secondary 
+je tomu naopak</discourse_comment>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
 <children>
 <LM id="t-ln94208-144-p4s5w14">
@@ -6643,6 +6654,11 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>wrongTR,
+podle sémantiky CNCS,
+úplně netypické užití
+vazby s "vzhledem k
+tomu"</discourse_comment>
 <val_frame.rf>v#v-w1949f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-144-p7s4w8">
@@ -8738,6 +8754,7 @@
 <tfa>f</tfa>
 <deepord>8</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94208-144-p7s12w6</target_node.rf>

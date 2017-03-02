@@ -2570,6 +2570,8 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>8</deepord>
+<discourse_comment>wrongTR. Navrhuju povesit "a" na "vařit". Na "a" 
+by podle me melo viset "voda" a "surovina.ORIG"</discourse_comment>
 <children>
 <LM id="t-ln94204-27-p4s1w8">
 <a>
@@ -3868,6 +3870,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle me
+jde o vztah NP (privatizace nedalekeho
+pelhrimovskeho pivovaru, ve vete 16) a vety 17</discourse_comment>
 </LM>
 <LM id="t-ln94204-27-p5s4w2">
 <a>

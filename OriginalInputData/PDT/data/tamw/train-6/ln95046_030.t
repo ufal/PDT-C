@@ -6166,6 +6166,8 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>3</deepord>
+<discourse_comment>parcelace jedné
+struktury_PJ</discourse_comment>
 <children>
 <LM id="t-ln95046-030-p4s4a1">
 <nodetype>qcomplex</nodetype>

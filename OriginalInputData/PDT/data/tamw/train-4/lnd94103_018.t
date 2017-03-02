@@ -1475,6 +1475,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektro rhem rovněž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-018-p1s7w1</LM>

@@ -3471,6 +3471,13 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>poměrně implicitní vztah,
+vyrozumívá se, že policie
+nezasáhla, nebyl tedy ohrožen  
+majetek ani život a chování
+lze proto vnímat
+jen jako přestupek proti
+návštěvnímu řádu</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-105-p4s6w6</LM>
@@ -5633,6 +5640,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>konektor rhem dokonce</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-105-p5s6w4</LM>

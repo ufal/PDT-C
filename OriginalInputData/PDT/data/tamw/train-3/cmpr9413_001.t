@@ -2350,6 +2350,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-001-p9s1a0">
 <nodetype>complex</nodetype>
@@ -2765,6 +2766,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w8957f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-001-p11s1w9">
@@ -8325,6 +8327,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>secondary neplatí to v případě</discourse_comment>
 <val_frame.rf>v#v-w3468f2</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-001-p23s1w8">

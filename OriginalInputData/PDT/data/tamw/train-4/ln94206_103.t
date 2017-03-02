@@ -2232,6 +2232,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>je tam i něco z CONFR,
+ale je to málo syntakticky 
+paralelní</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-103-p2s7w13</LM>
@@ -2726,6 +2729,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>konektor rhem dokonce</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-103-p2s8w1</LM>
@@ -3018,6 +3022,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94206-103-p3s1w6">
 <a>
@@ -4058,6 +4063,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-103-p4s2w4</LM>
@@ -4409,6 +4415,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94206-103-p4s3w2">
 <a>

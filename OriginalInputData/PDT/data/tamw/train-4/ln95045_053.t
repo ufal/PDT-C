@@ -1500,6 +1500,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>8</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce, protoze
+CONJ uz je na TR</discourse_comment>
 </LM>
 <LM id="t-ln95045-053-p3s3w11">
 <a>
@@ -3314,6 +3316,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-053-p5s2w7</LM>

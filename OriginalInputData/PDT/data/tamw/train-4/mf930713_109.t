@@ -2300,6 +2300,7 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>cond</discourse_type>
+<comment>wrongTR? tehdy nepatří do uzlu VV?</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-109-p2s7w14</LM>

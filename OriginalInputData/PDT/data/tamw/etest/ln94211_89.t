@@ -3298,6 +3298,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>wrongTR? nemelo by se to anotovat jako PAR?</discourse_comment>
 <children>
 <LM id="t-ln94211-89-p4s2w8">
 <a>
@@ -8625,6 +8626,7 @@
 <tfa>f</tfa>
 <deepord>3</deepord>
 <secondary_NP_type>spec</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w9661f1</val_frame.rf>
 <children>
 <LM id="t-ln94211-89-p8s4w2">

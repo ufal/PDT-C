@@ -4544,6 +4544,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>neznacim, vztah pokud-pak</discourse_comment>
 </LM>
 <LM id="t-ln94203-126-p7s2w22">
 <a>
@@ -4916,6 +4917,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim, vztah kdyz  -tak</discourse_comment>
 </LM>
 <LM id="t-ln94203-126-p8s1w4">
 <a>

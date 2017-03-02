@@ -10994,6 +10994,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel PRECED až tehdy až</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930709-118-p9s5w29</LM>
@@ -11421,6 +11422,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>chybi cast vety? wrongTR?</discourse_comment>
 <val_frame.rf>v#v-w3468f2</val_frame.rf>
 <children>
 <LM id="t-mf930709-118-p9s7w2">

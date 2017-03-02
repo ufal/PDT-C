@@ -1584,6 +1584,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR  -nemá Uhlíř viset na "ale" a rozvíjet 
+oba predikáty?</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln95048-132-p2s2w9</target_node.rf>

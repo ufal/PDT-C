@@ -1626,6 +1626,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<comment>lze vnímat i jako
+SPEC NP "co"_PJ</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-114-p2s8w1</LM>

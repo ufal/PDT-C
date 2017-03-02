@@ -1019,6 +1019,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<comment>přítomna i sémantika
+CONFR, kvůli negaci
+anotováno jako CORR</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-16-p3s2w11</LM>
@@ -3536,6 +3539,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-16-p7s2w18">

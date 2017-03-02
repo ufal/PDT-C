@@ -877,6 +877,12 @@
 <t_lemma>ale</t_lemma>
 <functor>ADVS</functor>
 <deepord>16</deepord>
+<discourse_comment>wrongTR? nemelo by "ale" viset na "připravenost"
+a na "ale" by nemelo viset "obnovit" a doplnene 
+"obnovit"?
+Tady neanotuju restr, protoze se mi zda, ze by 
+to nebyl diskurzni vztah  -ze by to bylo mezi 
+"obnovit" a doplnenym "obnovit"</discourse_comment>
 <children>
 <LM id="t-ln95046-068-p2s3w1">
 <a>
@@ -1256,6 +1262,11 @@
 </gram>
 <tfa>f</tfa>
 <deepord>20</deepord>
+<discourse_comment>neznacim, protoze leva strana 
+by bylo NP (obnovit), ale neni 
+to podmet, coz pak tedy neni 
+podle nasich pravidel pro NP 
+v ramci jedne vety</discourse_comment>
 <children>
 <LM id="t-ln95046-068-p2s3w26">
 <a>

@@ -1004,6 +1004,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>secondary další</discourse_comment>
 </LM>
 </children>
 </LM>

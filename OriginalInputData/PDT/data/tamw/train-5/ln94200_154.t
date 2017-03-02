@@ -35,6 +35,9 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>kolekce,
+určitě vyřadit,
+chybí tabulky</discourse_comment>
 <children>
 <LM id="t-ln94200-154-p1s1w1">
 <a>

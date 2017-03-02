@@ -58,6 +58,8 @@
 <tfa>f</tfa>
 <deepord>6</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>může být taky
+popisek fotky</discourse_comment>
 <val_frame.rf>v#v-w5331f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-129-p1s1Aw5">

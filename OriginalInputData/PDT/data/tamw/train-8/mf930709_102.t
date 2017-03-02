@@ -32,6 +32,8 @@
 <tfa>t</tfa>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>divně nekoherentní
+text</discourse_comment>
 <children>
 <LM id="t-mf930709-102-p1s1w1">
 <a>

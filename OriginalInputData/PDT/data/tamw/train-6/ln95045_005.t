@@ -1924,6 +1924,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>wrongTR? proc tento podstrom nevisi na "a_to"
+a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <val_frame.rf>v#v-w6958f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p3s1w1">
@@ -5020,6 +5022,7 @@
 <id>1</id>
 </LM>
 </discourse_groups>
+<discourse_comment>wrongTR? proc ma tento podstrom is_parenthesis=1?</discourse_comment>
 <val_frame.rf>v#v-w1981f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s3w24">
@@ -5573,6 +5576,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s3w48">

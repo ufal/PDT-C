@@ -503,6 +503,8 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>součást konektoru
+podmínkové struktury</discourse_comment>
 </LM>
 <LM id="t-ln94200-105-p2s2w10">
 <a>
@@ -1844,6 +1846,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>přechod k explicat</discourse_comment>
 <val_frame.rf>v#v-w2604f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-105-p2s3a0">
@@ -4969,6 +4972,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary jinou otázkou</discourse_comment>
 <children>
 <LM id="t-ln94200-105-p4s1w1">
 <a>

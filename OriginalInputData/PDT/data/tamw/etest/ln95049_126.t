@@ -5069,6 +5069,9 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>11</deepord>
+<discourse_comment>wrongTR? nemelo by to byt 
+napojeno spis nejak na 
+tu cestu (specifikace)??</discourse_comment>
 <children>
 <LM id="t-ln95049-126-p6s3w5">
 <a>
@@ -7710,6 +7713,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse_comment>neznacim, vztah 
+CONJ jiz zaznacen</discourse_comment>
 </LM>
 <LM id="t-ln95049-126-p9s2w16">
 <a>
@@ -7963,6 +7968,7 @@
 <tfa>c</tfa>
 <deepord>6</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95049-126-p9s3w3">
 <a>

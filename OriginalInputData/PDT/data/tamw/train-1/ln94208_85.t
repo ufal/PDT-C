@@ -2108,6 +2108,13 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>myslim,ze je zde nejake 
+implicitni "reason" (/f_reason)  -
+jako by zde ale chybelo 
+"protoze" (..)  -nemyslim, 
+ze by "prece" bylo konektorem, 
+spis jen nejakym zduraznenim, 
+samotny konektor mi tu chybi</discourse_comment>
 <val_frame.rf>v#v-w7548f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-85-p3s2w3">
@@ -7484,6 +7491,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>25</deepord>
+<discourse_comment>wrongTR</discourse_comment>
 <val_frame.rf>v#v-w6958f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-85-p6s1w29">

@@ -2261,6 +2261,9 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>Nejsem si tu tim "conj" 
+uplne jista, ale nic 
+jineho se mi sem nehodilo..</discourse_comment>
 <val_frame.rf>v#v-w1855f4</val_frame.rf>
 <children>
 <LM id="t-ln94208-148-p5s2w8">

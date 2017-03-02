@@ -3803,6 +3803,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>
+</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -7686,6 +7688,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<comment>disjalt s podmínkou,
+sémanticky bohatý konektor</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-015-p17s3w1</LM>
@@ -7703,6 +7707,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>
+</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-015-p17s3w4">
 <a>
@@ -7845,6 +7851,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>má i rysy CONC, ale
+očekávání, že výrobci
+budou mít zájem hradit 
+školení, které vyžadují, 
+je příliš slabé</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-015-p17s4w1</LM>
@@ -9683,6 +9694,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel PRECED jakmile</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-015-p20s2w1</LM>

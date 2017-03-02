@@ -661,6 +661,7 @@
 <tfa>c</tfa>
 <deepord>3</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95049-128-p2s2w3">
 <a>
@@ -2330,6 +2331,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>Arg2 je NP 
+v předchozím
+stromě (20.05)</discourse_comment>
 </LM>
 <LM id="t-ln95049-128-p5s2a1">
 <nodetype>qcomplex</nodetype>
@@ -3697,6 +3701,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>secondary bude následovat</discourse_comment>
 <val_frame.rf>v#v-w2217f2</val_frame.rf>
 <children>
 <LM id="t-ln95049-128-p7s2a2">

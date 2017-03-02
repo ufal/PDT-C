@@ -27,6 +27,7 @@
 <functor>CONJ</functor>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>nebo taky popis fotky</discourse_comment>
 <children>
 <LM id="t-ln94200-40-p1s1w1">
 <a>

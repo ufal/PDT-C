@@ -44,6 +44,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>kratky text bez nadpisu</discourse_comment>
 <children>
 <LM id="t-mf920925-041-p1s1w1">
 <a>

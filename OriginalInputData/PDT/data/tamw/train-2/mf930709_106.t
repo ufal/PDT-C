@@ -1499,6 +1499,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>chybí tam informace,
+např. že je to pro
+ně výhodné ty zkoušky 
+mít</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-106-p2s5w2</LM>

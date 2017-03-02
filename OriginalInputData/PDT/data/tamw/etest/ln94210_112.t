@@ -1152,6 +1152,8 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>25</deepord>
+<discourse_comment>wrongTR -tady mají zřetelně
+být 2 patra koordinace</discourse_comment>
 <children>
 <LM id="t-ln94210-112-p2s4w1">
 <a>

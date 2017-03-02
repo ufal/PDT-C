@@ -2770,6 +2770,10 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>tady je blbě koreferenční
+šipka  -z kontextu je 
+jasné, že na klub se obrátil
+Jílek, ne Havel</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln95049-106-p4s1w15</target_node.rf>

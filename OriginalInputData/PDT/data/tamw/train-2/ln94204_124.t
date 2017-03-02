@@ -3673,6 +3673,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR
+špatně nasegmentovaný text,
+16, 17 a 18 tvoří
+dohromady evidentně jednu větu</discourse_comment>
 <children>
 <LM id="t-ln94204-124-p4s2Aw1">
 <a>
@@ -3713,6 +3717,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR
+špatně nasegmentovaný text,
+16, 17 a 18 tvoří
+dohromady evidentně jednu větu</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -3742,6 +3750,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR
+špatně nasegmentovaný text,
+16, 17 a 18 tvoří
+dohromady evidentně jednu větu</discourse_comment>
 <val_frame.rf>v#v-w1855f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-124-p4s2Cw1">
@@ -4870,6 +4882,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>slabá OPP, ale čistá CONJ
+to není</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-124-p4s7w6</LM>

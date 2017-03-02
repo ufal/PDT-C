@@ -1202,6 +1202,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>secondary  z tohoto důvodu</discourse_comment>
 <children>
 <LM id="t-ln94208-141-p3s3w3">
 <a>

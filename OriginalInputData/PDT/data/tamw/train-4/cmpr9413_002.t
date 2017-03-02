@@ -755,6 +755,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>hodně divný vztah,
+v první větě už bylo 
+všechno, co se dozvěděli</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-002-p4s3w1</LM>
@@ -2146,6 +2149,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>není PREC</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-002-p6s4a1">
 <nodetype>complex</nodetype>
@@ -3724,6 +3728,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-002-p8s5w4</LM>
@@ -4329,6 +4334,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-002-p10s3w3</LM>
@@ -5018,6 +5024,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-002-p12s3w1</LM>

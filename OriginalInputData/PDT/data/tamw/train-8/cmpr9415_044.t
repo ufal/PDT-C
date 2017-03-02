@@ -3214,6 +3214,8 @@
 <t_lemma>#Dash</t_lemma>
 <functor>APPS</functor>
 <deepord>12</deepord>
+<discourse_comment>vztah NP a VP,
+spec</discourse_comment>
 <children>
 <LM id="t-cmpr9415-044-p13s4w1">
 <a>

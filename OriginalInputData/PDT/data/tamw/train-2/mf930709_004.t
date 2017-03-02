@@ -1381,6 +1381,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w9420f1</val_frame.rf>
 <children>
 <LM id="t-mf930709-004-p2s6w3">
@@ -2814,6 +2815,8 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>Hodne jsem premyslela i 
+nad conc.</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-mf930709-004-p2s12w3">

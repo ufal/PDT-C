@@ -747,6 +747,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>20</deepord>
+<discourse_comment>wrongTR  -má být PAT (viz Vallex)</discourse_comment>
 <val_frame.rf>v#v-w736f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-136-p2s2w24">

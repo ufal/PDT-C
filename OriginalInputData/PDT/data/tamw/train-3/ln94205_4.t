@@ -1993,6 +1993,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>kdyby zde nebylo
+naopak, šlo by
+interpretovat i 
+jako CONJ</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-4-p3s2w13</LM>

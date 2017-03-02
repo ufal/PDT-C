@@ -353,6 +353,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR? nemely by vety 3 a 4 byt jeden strom?</discourse_comment>
 <val_frame.rf>v#v-w9760f1</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p2s2w3">
@@ -802,6 +803,11 @@
 </gram>
 <tfa>t</tfa>
 <deepord>18</deepord>
+<discourse_comment>one_arg
+patrne neznamena casovou naslednost, ale spis
+vysledek nevyslovene podminky  -jestli se vratim
+do Teplic, pak bych prosil o vetsi sal. Proto by
+snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </LM>
 <LM id="t-ln94209-76-p2s3a1">
 <nodetype>complex</nodetype>

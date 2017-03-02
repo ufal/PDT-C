@@ -10122,6 +10122,7 @@
 <t_lemma>jako</t_lemma>
 <functor>APPS</functor>
 <deepord>24</deepord>
+<discourse_comment>vztah NP a VP</discourse_comment>
 <children>
 <LM id="t-ln94202-3-p11s1w23">
 <a>

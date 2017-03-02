@@ -1572,6 +1572,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>wrongTR?, 
+graficky porušený
+strom  -spodní patro
+pod uzlem sice</discourse_comment>
 <val_frame.rf>v#v-w5874f1</val_frame.rf>
 <children>
 <LM id="t-lnd94103-147-p1s7w3">

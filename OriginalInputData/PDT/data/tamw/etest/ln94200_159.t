@@ -3216,6 +3216,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary? pravda
+CM vztahu ADVS</discourse_comment>
 </LM>
 <LM id="t-ln94200-159-p3s2w3">
 <a>

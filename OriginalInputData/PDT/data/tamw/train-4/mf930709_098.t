@@ -615,6 +615,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>wrongTR? nema byt odkaz take na "byla"?</discourse_comment>
 <val_frame.rf>v#v-w4163f1</val_frame.rf>
 <children>
 <LM id="t-mf930709-098-p2s2w9">

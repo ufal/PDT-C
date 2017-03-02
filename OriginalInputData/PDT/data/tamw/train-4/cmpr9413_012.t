@@ -7816,6 +7816,8 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>11</deepord>
+<discourse_comment>wrongTR
+měla by být jmenná APPS</discourse_comment>
 <children>
 <LM id="t-cmpr9413-012-p15s1w6">
 <a>
@@ -9810,6 +9812,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse_comment>není PREC, ale 
+koreferenční</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-012-p17s7w15">
 <a>
@@ -12792,6 +12796,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR?</discourse_comment>
 <children>
 <LM id="t-cmpr9413-012-p21s1Aw3">
 <a>

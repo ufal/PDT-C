@@ -2914,6 +2914,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>specifikace NP</discourse_comment>
 <children>
 <LM id="t-ln94210-34-p4s1a3">
 <a>

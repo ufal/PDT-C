@@ -6945,6 +6945,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>13</deepord>
+<discourse_comment>secondary chvilku nato</discourse_comment>
 <children>
 <LM id="t-ln94210-119-p4s9w12">
 <a>

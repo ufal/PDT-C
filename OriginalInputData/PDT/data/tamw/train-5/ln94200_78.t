@@ -2748,6 +2748,9 @@
 <t_lemma>ale</t_lemma>
 <functor>ADVS</functor>
 <deepord>22</deepord>
+<discourse_comment>tahle ADVS má blízko
+ke CONJ, ale jednoznačně
+to rozhodnout nelze</discourse_comment>
 <children>
 <LM id="t-ln94200-78-p4s2w26">
 <a>

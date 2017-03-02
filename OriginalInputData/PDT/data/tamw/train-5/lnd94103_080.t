@@ -3473,6 +3473,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR
+
+patří k předchozímu stromu</discourse_comment>
 </LM>
 </children>
 </LM>

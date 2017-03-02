@@ -69,6 +69,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>bez nadpisu</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-11-p1s1w2">
@@ -1328,6 +1329,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>16</deepord>
+<discourse_comment>v tomhle kontextu
+secondary později za potom</discourse_comment>
 </LM>
 <LM id="t-ln94200-11-p3s2w21">
 <a>

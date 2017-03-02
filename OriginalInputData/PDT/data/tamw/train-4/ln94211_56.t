@@ -55,6 +55,10 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR? co to "o" na konci nadpisu? (na a-rovine
+znaceno jako AuxK)
+Nemelo by to byt az na zacatku dalsi vety  -jako 
+oznaceni reci novinare?</discourse_comment>
 <children>
 <LM id="t-ln94211-56-p1s1w8">
 <a>

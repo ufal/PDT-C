@@ -73,6 +73,11 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR,
+mylně rozdělená
+struktura  -
+stromy 1 a 2
+patří dohromady</discourse_comment>
 <children>
 <LM id="t-cmpr9415-005-p3s1w3">
 <a>
@@ -7188,6 +7193,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>wrongTR?
+stromy 30 a 31
+patří dohromady</discourse_comment>
 <val_frame.rf>v#v-w3411f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-005-p16s1Cw6">

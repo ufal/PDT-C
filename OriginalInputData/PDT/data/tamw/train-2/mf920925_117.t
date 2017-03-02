@@ -3029,6 +3029,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>20</deepord>
+<discourse_comment>secondary s oduvodnenim</discourse_comment>
 <val_frame.rf>v#v-w2933f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-117-p11s1a1">

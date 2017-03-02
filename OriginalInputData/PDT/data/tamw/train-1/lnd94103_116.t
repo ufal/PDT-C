@@ -134,6 +134,8 @@
 <tfa>f</tfa>
 <deepord>3</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR?,co dělá 
+v té větě to O?</discourse_comment>
 <val_frame.rf>v#v-w7476f3</val_frame.rf>
 <children>
 <LM id="t-lnd94103-116-p1s1Bw1">
@@ -6615,6 +6617,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>adept na seznam</discourse_comment>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
 <children>
 <LM id="t-lnd94103-116-p1s13Cw1">
@@ -6652,6 +6655,7 @@
 <tfa>f</tfa>
 <deepord>4</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-lnd94103-116-p1s13Cw5">
 <a>
@@ -12339,6 +12343,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w5104f2</val_frame.rf>
 <children>
 <LM id="t-lnd94103-116-p1s29a3">

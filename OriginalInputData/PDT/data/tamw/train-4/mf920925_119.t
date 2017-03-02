@@ -4995,6 +4995,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>konektor rhem dokonce</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-119-p8s2w4</LM>
@@ -9896,6 +9897,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>target range může být
+i 21-25</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-119-p13s1w4</LM>

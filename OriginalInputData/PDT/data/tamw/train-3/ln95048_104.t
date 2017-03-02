@@ -11895,6 +11895,7 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
+<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-ln95048-104-p14s3w1">
 <a>

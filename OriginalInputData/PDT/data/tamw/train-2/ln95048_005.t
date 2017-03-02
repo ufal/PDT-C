@@ -1877,6 +1877,11 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>gener</discourse_type>
+<comment>má i něco
+z reason,
+ale gener
+mi přijde
+silnější</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-005-p3s3w2</LM>

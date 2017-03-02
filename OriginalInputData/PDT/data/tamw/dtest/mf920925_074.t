@@ -4826,6 +4826,8 @@
 </quot>
 <tfa>t</tfa>
 <deepord>8</deepord>
+<discourse_comment>neznacim, clen dvojice 
+kdyz-tak</discourse_comment>
 </LM>
 <LM id="t-mf920925-074-p7s4w9">
 <a>

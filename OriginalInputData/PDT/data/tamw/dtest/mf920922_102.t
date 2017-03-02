@@ -4132,6 +4132,11 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>15</deepord>
+<discourse_comment>patří ke konektoru 
+CONJ v této větě-
+naprosto netypický
+konektor CONJ  -
+"sice  -na druhé straně"</discourse_comment>
 <children>
 <LM id="t-mf920922-102-p6s5w18">
 <a>
@@ -4612,6 +4617,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>konektor+secondary</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-102-p6s6w19</LM>
@@ -5539,6 +5545,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>implicitní informace,
+že divocí žáci by 
+působili problémy, 
+zvláštní formulace</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-102-p6s9w2</LM>
@@ -7389,6 +7399,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>15</deepord>
+<discourse_comment>secondary  -zretel</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-mf920922-102-p6s16w14</target_node.rf>

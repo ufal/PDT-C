@@ -4376,6 +4376,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>6</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -spis mi 
+pripada, ze to neni diskurzni konektor; a i kdyby
+byl, souhlasila bych s CONJ na TR a nic bych
+neanotovala</discourse_comment>
 </LM>
 <LM id="t-ln94211-5-p5s4w7">
 <a>
@@ -4424,6 +4428,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-ln94211-5-p5s4a1">
@@ -7054,6 +7059,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle me
+to neni diskurzni konektor</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94211-5-p6s4w3</target_node.rf>
@@ -8741,6 +8748,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>jeden z důvodů, ale vztah zřejmý</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-5-p8s1w3</LM>

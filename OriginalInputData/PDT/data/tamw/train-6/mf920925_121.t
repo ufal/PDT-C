@@ -2305,6 +2305,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
+<discourse_comment>wrongTR, to není AIM</discourse_comment>
 <val_frame.rf>v#v-w7486f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-121-p4s1w17">

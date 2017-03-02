@@ -1010,6 +1010,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>16</deepord>
+<discourse_comment>tento prec neni pripojen k zadne sipce, protoze
+CONJ uz je na TR</discourse_comment>
 </LM>
 <LM id="t-ln95045-023-p3s1w22">
 <a>
@@ -2171,6 +2173,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w2839f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-023-p5s1w3">

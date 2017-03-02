@@ -2347,6 +2347,12 @@
 <id>1</id>
 </LM>
 </discourse_groups>
+<discourse_comment>wrongTR,
+dvě souřadné 
+vedlejší objektové klauze
+z uzlu na této úrovni, ne
+níž
+</discourse_comment>
 <val_frame.rf>v#v-w7228f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-097-p2s6Bw6">
@@ -3207,6 +3213,8 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>je mozne to chapat 
+i jako RESTR</discourse_comment>
 <val_frame.rf>v#v-w7393f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-097-p2s8w15">

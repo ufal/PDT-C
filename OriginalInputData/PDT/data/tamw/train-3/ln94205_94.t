@@ -3530,6 +3530,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>je v tom i CONJ,
+sém OPP posiluje 
+slovo "původně" v 13</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-94-p5s2w2</LM>
@@ -3954,6 +3957,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>součást konektoru
+když tak</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p5s4a0">
 <nodetype>qcomplex</nodetype>
@@ -4374,6 +4379,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>součást konektoru
+kdyby tak</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p6s1w8">
 <a>
@@ -7288,6 +7295,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>parcelace; navic 
+A1 by byla NP</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p7s2a2">
 <nodetype>complex</nodetype>
@@ -8464,6 +8473,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p9s2w2">
 <a>
@@ -8838,6 +8848,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p9s4w4">
 <a>
@@ -9314,6 +9325,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>součást konektoru
+když tak</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p9s5w3">
 <a>
@@ -10330,6 +10343,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>parcelace</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p11s3a1">
 <nodetype>complex</nodetype>
@@ -11761,6 +11775,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>lze interpretovat
+také jako CONJ</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-94-p12s4w2</LM>
@@ -14196,6 +14212,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR
+proč je to tady
+najednou segmentováno
+jinak než ve zbytku textu? </discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94205-94-p12s1w2</target_node.rf>
@@ -14405,6 +14425,9 @@
 <src>pdit10</src>
 </LM>
 </discourse>
+<discourse_comment>wrongTR?
+proč tu není
+EmpVerb?</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94205-94-p14s1Bw7</target_node.rf>
@@ -15632,6 +15655,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
+<discourse_comment>adept na hypertéma,
+63-65 adept na seznam</discourse_comment>
 <val_frame.rf>v#v-w6148f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-94-p16s1a0">
@@ -17081,6 +17106,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>16</deepord>
+<discourse_comment>není časové</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p16s4w23">
 <a>
@@ -17357,6 +17383,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>adept na hypertéma,
+adept na seznam 1položka
+68-77, 2položka 78-84,
+nezřetelné</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-94-p18s1w5">
@@ -17552,6 +17582,9 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim, protoze 
+A1 by byla NP 
+("tzv. patologie treti generace")</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p18s3w7">
 <a>
@@ -18544,6 +18577,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p18s5w1">
 <a>
@@ -19009,6 +19043,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>součást konektoru
+když tak</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p19s1w5">
 <a>
@@ -19545,6 +19581,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>9</deepord>
+<discourse_comment>není MANN</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p20s1w12">
 <a>
@@ -20527,6 +20564,7 @@
 <tfa>f</tfa>
 <deepord>3</deepord>
 <secondary_NP_type>conj</secondary_NP_type>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w6297f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-94-p22s2w1">
@@ -21167,6 +21205,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>wrongTR?
+proč tu není 
+druhé hledat jako
+EmpVerb?</discourse_comment>
 <val_frame.rf>v#v-w1058f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-94-p23s3a2">
@@ -21359,6 +21401,12 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>opět lze diskutovat,
+zda se jedná o vztah
+diskurzní nebo jen 
+mezi NP
+
+konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-94-p23s5w1</LM>
@@ -22888,6 +22936,7 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>11</deepord>
+<discourse_comment>wrongTR, tohle je TIME</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p24s5w11">
 <a>
@@ -23238,6 +23287,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>součást konektoru 
+když tak</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p25s1w12">
 <a>
@@ -23588,6 +23639,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>komplikováno vztahem otázky a odpovědi</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-94-p27s2w26</LM>

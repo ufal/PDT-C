@@ -26,6 +26,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>4</deepord>
+<discourse_comment>popis obrázku</discourse_comment>
 <children>
 <LM id="t-lnd94103-008-p1s1a0">
 <nodetype>qcomplex</nodetype>

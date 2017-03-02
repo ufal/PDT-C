@@ -724,6 +724,7 @@
 <tfa>f</tfa>
 <deepord>20</deepord>
 <secondary_NP_type>explicat</secondary_NP_type>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w9661f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-11-p2s2w21">

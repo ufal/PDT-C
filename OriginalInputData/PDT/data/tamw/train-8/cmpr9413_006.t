@@ -3363,6 +3363,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-006-p6s1a0">
 <nodetype>complex</nodetype>
@@ -3903,6 +3904,10 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>mohlo by byt brano i jako 
+vztah mezi NP-VP, ale 
+to sloveso mi zde (u A1) 
+prijde dulezite</discourse_comment>
 <val_frame.rf>v#v-w4904f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-006-p7s4w1">
@@ -7932,6 +7937,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>sporná anotace,
+wrongTR? způsobová věta?</comment>
 <src>pdit10</src>
 </LM>
 </discourse>
@@ -9814,6 +9821,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-006-p19s1w4">
 <a>

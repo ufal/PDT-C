@@ -816,6 +816,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>26</deepord>
+<discourse_comment>neznacim, ma zde 
+byt MANN</discourse_comment>
 </LM>
 <LM id="t-ln94208-129-p2s1Cw38">
 <a>
@@ -2948,6 +2950,8 @@
 <t_lemma>ale</t_lemma>
 <functor>ADVS</functor>
 <deepord>18</deepord>
+<discourse_comment>wrongTR; spatne 
+zaznacen cely strom</discourse_comment>
 <children>
 <LM id="t-ln94208-129-p4s2w2">
 <a>
@@ -3798,6 +3802,8 @@
 <t_lemma>jenže</t_lemma>
 <functor>ADVS</functor>
 <deepord>14</deepord>
+<discourse_comment>wrongTR, ale diskurzní šipka
+povede stejně vždycky nejvýš</discourse_comment>
 <children>
 <LM id="t-ln94208-129-p4s4Aw4">
 <a>

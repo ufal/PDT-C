@@ -2040,6 +2040,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>19</deepord>
+<discourse_comment>není PREC,
+patří ke konektoru
+CNCS v této větě</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-011-p4s3w22">
 <a>

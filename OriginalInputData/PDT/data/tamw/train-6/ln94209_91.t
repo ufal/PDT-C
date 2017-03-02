@@ -27,6 +27,8 @@
 <tfa>t</tfa>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>kolekce  -znaky kolekce ma hlavne konec clanku
+ -vety 22-30</discourse_comment>
 <children>
 <LM id="t-ln94209-91-p1s1w1">
 <a>
@@ -5107,6 +5109,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
+s anotaci COND na TR</discourse_comment>
 </LM>
 <LM id="t-ln94209-91-p4s9w3">
 <a>

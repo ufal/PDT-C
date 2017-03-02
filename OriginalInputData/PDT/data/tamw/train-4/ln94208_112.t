@@ -1362,6 +1362,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>CONJ snad nejpřesnější,
+je tam něco z REASON, ale
+lze interpretovat různě,
+wrongTR  -vedlejší klauze
+nejsou COND</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-112-p2s4w7</LM>

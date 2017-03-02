@@ -5141,6 +5141,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>obsahuje víc
+presupozice,
+než je u totiž
+běžné</discourse_comment>
 </LM>
 <LM id="t-ln94202-60-p4s1w5">
 <a>
@@ -5441,6 +5445,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>velký sémantický skok  -
+kondicional v ARG1
+vytváří presupozici, že
+ODS si absurdnost návrhu
+dobře uvědomuje</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-60-p4s2w8</LM>

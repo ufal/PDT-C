@@ -1515,6 +1515,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>součást konektoru
+kdyby tak</discourse_comment>
 </LM>
 <LM id="t-ln94206-130-p2s5w4">
 <a>
@@ -1887,6 +1889,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+dodal</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-130-p2s6w25">
@@ -1923,6 +1926,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>13</deepord>
+<discourse_comment>součást konektoru 
+když tak</discourse_comment>
 </LM>
 <LM id="t-ln94206-130-p2s6w14">
 <a>

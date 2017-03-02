@@ -2367,6 +2367,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>20</deepord>
+<discourse_comment>secondary o dva roky později</discourse_comment>
 <children>
 <LM id="t-ln94210-109-p3s5w22">
 <a>

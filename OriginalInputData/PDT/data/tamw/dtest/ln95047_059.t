@@ -68,6 +68,10 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>3</deepord>
+<discourse_comment>wrongTR? různé instance
+tohoto žánru(recenze filmu/
+výstavy/hudby)jsou v PDT 
+segmentovány různě</discourse_comment>
 <children>
 <LM id="t-ln95047-059-p2s1w1">
 <a>

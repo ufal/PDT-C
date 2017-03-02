@@ -6993,6 +6993,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
+<discourse_comment>wrongTR? nemá tu 
+být tak TWHEN.nr?</discourse_comment>
 <val_frame.rf>v#v-w4167f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-122-p4s3w17">
@@ -8507,6 +8509,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<comment>odstin preced</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-122-p4s5w16</LM>

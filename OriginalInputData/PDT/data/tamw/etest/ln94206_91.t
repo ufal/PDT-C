@@ -2364,6 +2364,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>19</deepord>
+<discourse_comment>neznacim, bylo by CONJ 
+a to je jiz zaznaceno 
+vyse (a)</discourse_comment>
 </LM>
 <LM id="t-ln94206-91-p3s5a3">
 <a>
@@ -11864,6 +11867,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>16</deepord>
+<discourse_comment>neznacim, clen 
+dvojice kdyz-tak</discourse_comment>
 </LM>
 <LM id="t-ln94206-91-p9s4a3">
 <nodetype>complex</nodetype>
@@ -12957,6 +12962,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim, je v tom 
+spise nejaky postoj, 
+modifikace vypovedi</discourse_comment>
 </LM>
 <LM id="t-ln94206-91-p10s4a0">
 <nodetype>complex</nodetype>

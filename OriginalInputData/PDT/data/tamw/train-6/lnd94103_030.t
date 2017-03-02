@@ -46,6 +46,11 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>osamocená věta,
+není nadpis
+špatná segmentace?
+část lnd94103_010?
+</discourse_comment>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
 <children>
 <LM id="t-lnd94103-030-p1s1w1">

@@ -1813,6 +1813,7 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-057-p2s8w24">
@@ -2122,6 +2123,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<comment>konektor rhem spíš</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-057-p2s10Aw1</LM>

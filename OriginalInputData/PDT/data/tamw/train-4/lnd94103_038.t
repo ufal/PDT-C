@@ -756,6 +756,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR
+není PREC, koreferenční</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-lnd94103-038-p1s3w25</target_node.rf>
@@ -3431,6 +3433,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR
+není PREC, koreferenční</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-lnd94103-038-p1s10w5</target_node.rf>

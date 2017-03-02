@@ -269,6 +269,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>adept na seznam</discourse_comment>
 <children>
 <LM id="t-lnd94103-056-p1s2Aw4">
 <a>
@@ -2715,6 +2716,7 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR? v analogickych pripadech je funktor APPS</discourse_comment>
 <children>
 <LM id="t-lnd94103-056-p1s15w1">
 <a>
@@ -5851,6 +5853,8 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR? v analogickych pripadech pomlcka 
+nema uzel</discourse_comment>
 <children>
 <LM id="t-lnd94103-056-p1s35w1">
 <a>

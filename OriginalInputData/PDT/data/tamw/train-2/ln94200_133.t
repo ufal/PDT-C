@@ -476,6 +476,7 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>11</deepord>
+<discourse_comment>wrongTR? není to čas?</discourse_comment>
 </LM>
 <LM id="t-ln94200-133-p2s2w16">
 <a>

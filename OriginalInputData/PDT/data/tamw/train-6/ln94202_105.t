@@ -50,6 +50,7 @@
 <tfa>f</tfa>
 <deepord>10</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>zřejmě is_photo description</discourse_comment>
 <val_frame.rf>v#v-w4995f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-105-p1s1Aw7">

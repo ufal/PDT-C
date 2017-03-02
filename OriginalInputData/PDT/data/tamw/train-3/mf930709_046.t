@@ -758,6 +758,8 @@
 <t_lemma>#Comma</t_lemma>
 <functor>APPS</functor>
 <deepord>11</deepord>
+<discourse_comment>neanotuji, 
+vztah mezi NP  -NP</discourse_comment>
 <children>
 <LM id="t-mf930709-046-p2s3w3">
 <a>

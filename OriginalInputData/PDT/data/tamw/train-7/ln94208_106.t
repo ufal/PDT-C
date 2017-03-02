@@ -349,6 +349,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR  -špatný
+funktor</discourse_comment>
 <val_frame.rf>v#v-w1835f1</val_frame.rf>
 </LM>
 <LM id="t-ln94208-106-p2s1Bw6">
@@ -386,6 +388,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR, špatný funktor</discourse_comment>
 <val_frame.rf>v#v-w2366f1</val_frame.rf>
 </LM>
 </children>
@@ -1899,6 +1902,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>v celém textu každá 
+otázka označena malým o
+na začátku, na t-rovině 
+nezachyceno</discourse_comment>
 <val_frame.rf>v#v-w4666f2</val_frame.rf>
 <children>
 <LM id="t-ln94208-106-p3s1a0">
@@ -2518,6 +2525,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není prec, 
+jen uvozovací částice</discourse_comment>
 </LM>
 <LM id="t-ln94208-106-p4s3a1">
 <nodetype>complex</nodetype>
@@ -4428,6 +4437,9 @@
 </a-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR,
+špatný funktor,
+má být TWHEN</discourse_comment>
 <val_frame.rf>v#v-w2999f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-106-p5s4Ba2">
@@ -8080,6 +8092,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<comment>sporná anotace,
+má být na TR AIM?
+wrongTR?</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-106-p9s2w6</LM>

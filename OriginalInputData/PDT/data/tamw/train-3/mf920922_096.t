@@ -8030,6 +8030,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>v tomto ale
+je i postoj (je v otázce), 
+návaznost na předchozí
+kontext je však silná</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-096-p2s17w2</LM>

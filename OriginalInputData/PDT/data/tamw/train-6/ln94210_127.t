@@ -664,6 +664,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>mozna je to ale conj, nemuzu posoudit, kdyz 
+neznam chronologii udalosti, o kteych se mluvi</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-127-p2s2w22</LM>
@@ -5879,6 +5881,8 @@
 <functor>CNCS</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>wrongTR? nema odkaz na "ať" byt u EmpVerb 
+(misto u "pozitivní" a "negativní")?</discourse_comment>
 <children>
 <LM id="t-ln94210-127-p4s2w14">
 <a>
