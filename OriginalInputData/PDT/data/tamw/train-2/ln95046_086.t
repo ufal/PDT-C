@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95046_086.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1325,6 +1325,27 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln95046-086-p2s1Bw15</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>opp</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln95046-086-p3s1w12</LM>
+</t-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln95046-086-p3s1w16</LM>
+<LM>a#a-ln95046-086-p3s1w14</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-ln95046-086-p3s1w12</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <discourse_groups>
 <LM>
 <id>1</id>
@@ -1545,6 +1566,7 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95046-086-p3s1w24</LM>
 </a-connectors.rf>
@@ -1848,6 +1870,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-086-p3s2w15</LM>
 </t-connectors.rf>
@@ -2075,6 +2098,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-086-p3s3w3</LM>
 </t-connectors.rf>
@@ -2538,6 +2562,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-086-p3s3w35</LM>
 </t-connectors.rf>
@@ -2554,6 +2579,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>26</deepord>
+<discourse_comment>patří ke konektoru
+ADVS v tomto stromě</discourse_comment>
 </LM>
 <LM id="t-ln95046-086-p3s3a3">
 <nodetype>atom</nodetype>
@@ -2939,6 +2966,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-086-p3s4w9</LM>
 </t-connectors.rf>
@@ -4490,6 +4518,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-086-p5s1w3</LM>
 </t-connectors.rf>

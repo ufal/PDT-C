@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_103.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1016,6 +1016,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-103-p1s3w11</LM>
 </t-connectors.rf>
@@ -1032,6 +1033,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>není PREC,
+wrongTR</discourse_comment>
 </LM>
 <LM id="t-lnd94103-103-p1s3w17">
 <a>
@@ -3156,6 +3159,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-103-p1s10w12</LM>
 </t-connectors.rf>
@@ -3728,6 +3732,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-103-p1s11w23</LM>
 </t-connectors.rf>
@@ -4139,6 +4144,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-103-p1s12w16</LM>
 </t-connectors.rf>
@@ -5838,6 +5844,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-103-p1s16w13</LM>
 </a-connectors.rf>
@@ -6061,6 +6068,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-103-p1s17Aw3</LM>
 </t-connectors.rf>

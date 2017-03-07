@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94203_47.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -661,6 +661,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-47-p2s1Cw22</LM>
 </a-connectors.rf>
@@ -979,6 +980,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-47-p2s1Cw43</LM>
 </t-connectors.rf>
@@ -1573,6 +1575,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-47-p3s1w28</LM>
 </t-connectors.rf>
@@ -1700,6 +1703,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-47-p3s1w37</LM>
 </a-connectors.rf>
@@ -1716,6 +1720,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>29</deepord>
+<discourse_comment>arg1 je NP 
+pro přílišnou obecnost,
+proto neanotováno</discourse_comment>
 </LM>
 <LM id="t-ln94203-47-p3s1a2">
 <nodetype>complex</nodetype>

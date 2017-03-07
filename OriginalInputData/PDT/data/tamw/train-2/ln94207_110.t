@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_110.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -107,6 +107,8 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>ale je za tim tecka!!
+adept na seznam</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94207-110-p1s1w3</target_node.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_12.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -50,6 +50,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>jen podle původní grafiky
+by se dalo poznat,
+jestli je to nadpis,
+proto neanotováno</discourse_comment>
 <val_frame.rf>v#v-w7769f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-12-p1s1w2">
@@ -194,6 +198,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-12-p1s2w21</LM>
 </t-connectors.rf>
@@ -623,6 +628,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-12-p1s3w7</LM>
 </t-connectors.rf>
@@ -886,6 +892,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-12-p1s3w19</LM>
 </a-connectors.rf>

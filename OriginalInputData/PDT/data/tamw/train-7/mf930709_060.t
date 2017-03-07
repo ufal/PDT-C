@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_060.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -627,6 +627,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle
+me to neni diskursni konektor</discourse_comment>
 </LM>
 <LM id="t-mf930709-060-p3s2w1">
 <a>
@@ -1290,6 +1292,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w9420f1</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p4s1w1">

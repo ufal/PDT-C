@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95045_050.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -719,6 +719,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-050-p2s2w1</LM>
 </t-connectors.rf>
@@ -835,6 +836,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-050-p2s2w6</LM>
 </t-connectors.rf>
@@ -1401,6 +1403,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-050-p3s2w3</LM>
 </t-connectors.rf>
@@ -2013,6 +2016,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-050-p3s3w16</LM>
 </t-connectors.rf>
@@ -2180,6 +2184,11 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>6</deepord>
+<discourse_comment>adept na seznam,
+hypertéma zde, 
+3 položky 
+v dalších 3 
+stromech</discourse_comment>
 <children>
 <LM id="t-ln95045-050-p3s4a0">
 <nodetype>complex</nodetype>
@@ -2314,6 +2323,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-050-p3s4w8</LM>
 </t-connectors.rf>
@@ -3252,6 +3262,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-050-p3s8w5</LM>
 </t-connectors.rf>
@@ -4616,6 +4627,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-050-p4s3w5</LM>
 </t-connectors.rf>
@@ -5351,6 +5363,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-050-p4s6w8</LM>
 <LM>t-ln95045-050-p4s6w6</LM>

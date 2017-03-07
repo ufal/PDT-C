@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_091.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -38,6 +38,8 @@
 <tfa>f</tfa>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR? tento soubor je dost nekoherentní.
+Nechybi tady neco?</discourse_comment>
 <val_frame.rf>v#v-w4017f1</val_frame.rf>
 <children>
 <LM id="t-mf930709-091-p1s1w1">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94206_57.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1796,6 +1796,7 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-57-p4s1w20</LM>
 </t-connectors.rf>

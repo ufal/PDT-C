@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95046_002.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1277,6 +1277,24 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln95046-002-p3s2w8</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln95046-002-p3s2w4</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln95046-002-p3s2w4</LM>
+<LM>t-ln95046-002-p3s2w3</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w6826f1</val_frame.rf>
 <children>
 <LM id="t-ln95046-002-p3s1w7">
@@ -1771,6 +1789,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-002-p3s2w8</LM>
 </t-connectors.rf>
@@ -2355,6 +2374,11 @@
 <functor>ADDR</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR,
+větev patří 
+k předchozímu 
+stromu
+</discourse_comment>
 </LM>
 <LM id="t-ln95046-002-p4s2w8">
 <a>
@@ -2998,6 +3022,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95046-002-p5s1w19</LM>
 </a-connectors.rf>
@@ -3232,6 +3257,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-002-p5s1w34</LM>
 </t-connectors.rf>
@@ -4637,6 +4663,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-002-p7s2w3</LM>
 </t-connectors.rf>
@@ -4809,6 +4836,7 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95046-002-p7s2w8</LM>
 </a-connectors.rf>
@@ -4817,6 +4845,11 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR,
+není anotována
+ACMP závislá klauze
+jako obvykle,
+proč?</discourse_comment>
 <val_frame.rf>v#v-w311f1</val_frame.rf>
 <children>
 <LM id="t-ln95046-002-p7s2w9">
@@ -6076,6 +6109,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-002-p9s1w15</LM>
 </t-connectors.rf>
@@ -6155,6 +6189,10 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>wrongTR,
+má viset 
+určitě někde
+níž</discourse_comment>
 </LM>
 <LM id="t-ln95046-002-p9s1w8">
 <a>
@@ -7837,6 +7875,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-ln95046-002-p10s4a1">
@@ -8533,6 +8572,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-002-p11s1w20</LM>
 </t-connectors.rf>

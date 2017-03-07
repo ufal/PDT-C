@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930713_105.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -401,6 +401,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-105-p2s2w5</LM>
 </t-connectors.rf>
@@ -586,6 +587,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-105-p2s3w13</LM>
 </t-connectors.rf>
@@ -890,6 +892,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>gener</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-105-p2s4w1</LM>
 </t-connectors.rf>
@@ -1149,6 +1152,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-105-p2s5w2</LM>
 </t-connectors.rf>
@@ -1807,6 +1811,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-105-p2s8w2</LM>
 </t-connectors.rf>
@@ -2410,6 +2415,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-105-p2s10w2</LM>
 </t-connectors.rf>
@@ -2420,6 +2426,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-mf930713-105-p2s10w1</LM>
 </t-connectors.rf>
@@ -3165,6 +3172,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-105-p2s12w14</LM>
 </t-connectors.rf>
@@ -3704,6 +3712,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-105-p2s14w10</LM>
 </t-connectors.rf>
@@ -4633,6 +4642,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-105-p2s16w29</LM>
 </t-connectors.rf>
@@ -4693,6 +4703,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>28</deepord>
+<discourse_comment>patří ke konektoru
+CONJ</discourse_comment>
 </LM>
 <LM id="t-mf930713-105-p2s16w35">
 <a>
@@ -5148,6 +5160,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-105-p2s18w2</LM>
 </t-connectors.rf>
@@ -5317,6 +5330,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-105-p2s18w11</LM>
 </t-connectors.rf>
@@ -5870,6 +5884,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-105-p2s19w11</LM>
 </t-connectors.rf>
@@ -6576,6 +6591,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-105-p2s22w4</LM>
 <LM>a#a-mf930713-105-p2s22w2</LM>
@@ -6878,6 +6894,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-105-p2s24w5</LM>
 </t-connectors.rf>
@@ -7144,6 +7161,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-105-p2s25w2</LM>
 </a-connectors.rf>
@@ -7615,6 +7633,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-105-p2s27w7</LM>
 </t-connectors.rf>
@@ -7842,6 +7861,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-105-p2s28w1</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920925_040.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -250,6 +250,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p2s2w4</LM>
 </t-connectors.rf>
@@ -913,6 +914,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
+<discourse_comment>parcelace  -ptali jsme 
+se: na co</discourse_comment>
 <val_frame.rf>v#v-w3751f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p3s1w4">
@@ -1779,6 +1782,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p4s3w11</LM>
 </t-connectors.rf>
@@ -2240,11 +2244,16 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>gener</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p4s4w2</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR? nema se to anotovat jako elipsa? 
+(nema byt dokopirovano "jít"?)
+pak bych anotovala corr mezi "nejde tedy o
+rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</discourse_comment>
 <val_frame.rf>v#v-w1339f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p4s4w2">
@@ -3103,6 +3112,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p6s1w5</LM>
 </t-connectors.rf>
@@ -3844,6 +3854,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p6s2w17</LM>
 </t-connectors.rf>
@@ -4011,11 +4022,18 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p6s3w7</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR? nema se to anotovat jako elipsa? 
+(nema byt dokopirovano "být", "výsledek"?)
+pak bych anotovala corr mezi "nemohou být
+ výsledkem nějakých osobních přání" a
+ "demokratických tajných voleb na našich
+ konferencích" s doplněným "být", "výsledek")</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s3w7">
@@ -5271,6 +5289,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p6s6w1</LM>
 <LM>t-mf920925-040-p6s6w6</LM>
@@ -5805,6 +5824,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p6s7w16</LM>
 </t-connectors.rf>
@@ -6690,6 +6710,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p8s2w7</LM>
 </t-connectors.rf>
@@ -7577,6 +7598,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>wrongTR? neni spatne funktor?</discourse_comment>
 <val_frame.rf>v#v-w4877f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p9s1w11">
@@ -8452,6 +8474,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p10s2a0</LM>
 </t-connectors.rf>
@@ -8629,6 +8652,10 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -zda se 
+mi to jako vztah NP (návrat k autentickým hodnotám 
+konzervatismu) + věta (a v tom je blízko
+ klasickým liberálům)</discourse_comment>
 </LM>
 <LM id="t-mf920925-040-p10s3a0">
 <nodetype>complex</nodetype>
@@ -10167,6 +10194,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p12s2w1</LM>
 </t-connectors.rf>
@@ -11015,6 +11043,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
+s anotaci COND na TR</discourse_comment>
 </LM>
 <LM id="t-mf920925-040-p14s1w10">
 <a>
@@ -12116,6 +12146,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p14s3w4</LM>
 </t-connectors.rf>
@@ -12126,6 +12157,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p14s3w1</LM>
 </t-connectors.rf>
@@ -12168,6 +12200,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-040-p14s3w7</LM>
 </a-connectors.rf>
@@ -13080,6 +13113,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <val_frame.rf>v#v-w7583f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p14s4w1">
@@ -13525,6 +13559,10 @@
 </LM>
 </quot>
 <deepord>9</deepord>
+<discourse_comment>wrongTR? nema se to anotovat jako elipsa? 
+(nema byt dokopirovano "jít"?)
+pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či doleva" a
+ "o postup vpřed" s doplněným "jít")</discourse_comment>
 <children>
 <LM id="t-mf920925-040-p14s5w5">
 <a>
@@ -13741,6 +13779,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p15s1w5</LM>
 </t-connectors.rf>
@@ -14395,6 +14434,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p16s2w1</LM>
 </t-connectors.rf>
@@ -15184,6 +15224,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p18s1w5</LM>
 </t-connectors.rf>

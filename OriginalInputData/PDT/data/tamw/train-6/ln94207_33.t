@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_33.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -2060,6 +2060,7 @@
 <t_lemma>a</t_lemma>
 <functor>CSQ</functor>
 <deepord>20</deepord>
+<discourse_comment>wrongTR  -conj</discourse_comment>
 <children>
 <LM id="t-ln94207-33-p2s5a0">
 <nodetype>qcomplex</nodetype>
@@ -2305,6 +2306,7 @@
 <t_lemma>tak</t_lemma>
 <functor>CM</functor>
 <deepord>21</deepord>
+<discourse_comment>wrongTR  -mann</discourse_comment>
 </LM>
 <LM id="t-ln94207-33-p2s5w28">
 <a>
@@ -2325,18 +2327,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>22</deepord>
-<discourse>
-<LM>
-<target_node.rf>t-ln94207-33-p2s5w10</target_node.rf>
-<type>discourse</type>
-<start_range>0</start_range>
-<target_range>0</target_range>
-<discourse_type>conj</discourse_type>
-<t-connectors.rf>
-<LM>t-ln94207-33-p2s5w27</LM>
-</t-connectors.rf>
-</LM>
-</discourse>
 <val_frame.rf>v#v-w4708f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-33-p2s5w31">

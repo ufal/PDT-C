@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_109.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -54,6 +54,7 @@
 <LM>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 <LM>
 <target_node.rf>t-mf920922-109-p1s1w1</target_node.rf>
@@ -61,6 +62,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -188,6 +190,7 @@
 <target_node.rf>t-mf920922-109-p3s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -296,6 +299,7 @@
 <target_node.rf>t-mf920922-109-p4s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -391,6 +395,7 @@
 <target_node.rf>t-mf920922-109-p5s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -485,6 +490,7 @@
 <target_node.rf>t-mf920922-109-p6s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -584,6 +590,7 @@
 <target_node.rf>t-mf920922-109-p7s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -685,6 +692,7 @@
 <target_node.rf>t-mf920922-109-p12s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -795,6 +803,7 @@
 <target_node.rf>t-mf920922-109-p13s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -989,6 +998,7 @@
 <target_node.rf>t-mf920922-109-p14s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -1068,6 +1078,7 @@
 <target_node.rf>t-mf920922-109-p15s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -1167,6 +1178,7 @@
 <target_node.rf>t-mf920922-109-p17s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -1265,6 +1277,7 @@
 <target_node.rf>t-mf920922-109-p18s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -1370,6 +1383,7 @@
 <target_node.rf>t-mf920922-109-p24s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -1449,6 +1463,7 @@
 <target_node.rf>t-mf920922-109-p25s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -1548,6 +1563,7 @@
 <target_node.rf>t-mf920922-109-p26s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -1616,6 +1632,7 @@
 <target_node.rf>t-mf920922-109-p27s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -1684,6 +1701,7 @@
 <target_node.rf>t-mf920922-109-p28s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -1752,6 +1770,7 @@
 <target_node.rf>t-mf920922-109-p30s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -1867,6 +1886,7 @@
 <target_node.rf>t-mf920922-109-p31s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -2039,6 +2059,7 @@
 <target_node.rf>t-mf920922-109-p32s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -2133,6 +2154,7 @@
 <target_node.rf>t-mf920922-109-p33s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -2222,6 +2244,7 @@
 <target_node.rf>t-mf920922-109-p34s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -2312,6 +2335,7 @@
 <target_node.rf>t-mf920922-109-p39s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -2392,6 +2416,7 @@
 <target_node.rf>t-mf920922-109-p40s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -2478,6 +2503,7 @@
 <target_node.rf>t-mf920922-109-p41s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -2546,6 +2572,7 @@
 <target_node.rf>t-mf920922-109-p42s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -2648,6 +2675,7 @@
 <target_node.rf>t-mf920922-109-p43s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -2786,6 +2814,7 @@
 <target_node.rf>t-mf920922-109-p48s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -2894,6 +2923,7 @@
 <target_node.rf>t-mf920922-109-p49s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -2990,6 +3020,7 @@
 <target_node.rf>t-mf920922-109-p50s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -3121,6 +3152,7 @@
 <target_node.rf>t-mf920922-109-p51s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -3237,6 +3269,7 @@
 <target_node.rf>t-mf920922-109-p53s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -3334,6 +3367,7 @@
 <target_node.rf>t-mf920922-109-p57s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -3432,6 +3466,7 @@
 <target_node.rf>t-mf920922-109-p60s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -3522,6 +3557,7 @@
 <target_node.rf>t-mf920922-109-p67s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -3602,6 +3638,7 @@
 <target_node.rf>t-mf920922-109-p68s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -3700,6 +3737,7 @@
 <target_node.rf>t-mf920922-109-p70s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -3815,6 +3853,7 @@
 <target_node.rf>t-mf920922-109-p71s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -3910,6 +3949,7 @@
 <target_node.rf>t-mf920922-109-p76s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -4005,6 +4045,7 @@
 <target_node.rf>t-mf920922-109-p77s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -4106,6 +4147,7 @@
 <target_node.rf>t-mf920922-109-p78s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -4205,6 +4247,7 @@
 <target_node.rf>t-mf920922-109-p79s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -4301,6 +4344,7 @@
 <target_node.rf>t-mf920922-109-p82s1a0</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>

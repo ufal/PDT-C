@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95049_135.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -554,6 +554,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-135-p2s2w12</LM>
 </a-connectors.rf>
@@ -824,6 +825,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>9</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95049-135-p3s1w5">
 <a>
@@ -1247,6 +1249,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-135-p3s1w27</LM>
 </t-connectors.rf>
@@ -1702,6 +1705,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95049-135-p4s1w2">
 <a>
@@ -1974,6 +1979,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-135-p4s2w16</LM>
 <LM>t-ln95049-135-p4s2w4</LM>
@@ -2222,6 +2228,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-135-p4s3w1</LM>
 </a-connectors.rf>
@@ -2795,6 +2802,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <discourse>
 <LM>
 <target_node.rf>t-ln95049-135-p4s5w8</target_node.rf>
@@ -2802,6 +2810,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-135-p4s5w12</LM>
 </t-connectors.rf>

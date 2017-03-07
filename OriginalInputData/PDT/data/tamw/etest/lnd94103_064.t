@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_064.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1214,6 +1214,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s3w20</LM>
 <LM>t-lnd94103-064-p1s3w21</LM>
@@ -2392,6 +2393,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s4w12</LM>
 </t-connectors.rf>
@@ -2847,6 +2849,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s4w44</LM>
 </t-connectors.rf>
@@ -4327,6 +4330,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s6Bw3</LM>
 </t-connectors.rf>
@@ -4575,6 +4579,12 @@
 </gram>
 <tfa>f</tfa>
 <deepord>18</deepord>
+<discourse_comment>pripadalo by v uvahu anotovat spec mezi casti
+tohoto stromu pred dvojteckou a druhou casti 
+stromu+nekolika dalsimi stromy. Neanotuju ale nic,
+protoze se mi to jevi spis jako vztah NP ("dusledky
+takoveho dialogu pro mladou Ceskou republiku) a 
+vet.</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-lnd94103-064-p1s6Bw19">
@@ -5641,6 +5651,10 @@
 <start_range>0</start_range>
 <target_range>2</target_range>
 <discourse_type>conj</discourse_type>
+<comment>vedu sipku k 12-14 a ne jenom k 14, protoze vyraz
+"v neposledni rade" podle me evokuje navaznost
+na vice drive zminenych faktu</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s10w3</LM>
 <LM>t-lnd94103-064-p1s10w2</LM>
@@ -6443,6 +6457,9 @@
 <t_lemma>nicméně</t_lemma>
 <functor>ADVS</functor>
 <deepord>11</deepord>
+<discourse_comment>vztah ADVS je podle me mezi NP (dusledky takoveho
+kroku pro Ceskou republiku) a vetou (podstromem, 
+jehoz vrcholem je Colon)</discourse_comment>
 <children>
 <LM id="t-lnd94103-064-p1s11Bw6">
 <a>
@@ -6644,6 +6661,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s11Bw14</LM>
 </t-connectors.rf>
@@ -6942,6 +6960,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-064-p1s11Bw34</LM>
 </a-connectors.rf>
@@ -7120,6 +7139,7 @@
 <start_range>6</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s11Bw44</LM>
 </t-connectors.rf>
@@ -7402,6 +7422,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s11Bw58</LM>
 </t-connectors.rf>
@@ -7627,6 +7648,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s12w20</LM>
 <LM>t-lnd94103-064-p1s12w22</LM>
@@ -7669,6 +7691,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-064-p1s12w1</LM>
 </a-connectors.rf>
@@ -8418,6 +8441,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-064-p1s13w1</LM>
 </a-connectors.rf>
@@ -8746,6 +8770,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s13w19</LM>
 <LM>t-lnd94103-064-p1s13w14</LM>
@@ -8769,6 +8794,8 @@
 </quot>
 <tfa>t</tfa>
 <deepord>17</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -
+souhlasim s anotaci ADVS na TR</discourse_comment>
 </LM>
 <LM id="t-lnd94103-064-p1s13w24">
 <a>
@@ -9047,6 +9074,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s13w33</LM>
 </t-connectors.rf>
@@ -9882,6 +9910,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s15w1</LM>
 </t-connectors.rf>
@@ -10192,6 +10221,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s15w12</LM>
 </t-connectors.rf>
@@ -10485,6 +10515,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-064-p1s16w1</LM>
 </a-connectors.rf>
@@ -10809,6 +10840,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s16w22</LM>
 <LM>t-lnd94103-064-p1s16w16</LM>
@@ -11016,6 +11048,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-064-p1s17Aw1</LM>
 </a-connectors.rf>
@@ -11811,6 +11844,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-064-p1s19w10</LM>
 <LM>a#a-lnd94103-064-p1s19w13</LM>
@@ -12766,6 +12800,28 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>13</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-lnd94103-064-p1s22w47</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-lnd94103-064-p1s22w1</LM>
+<LM>a#a-lnd94103-064-p1s22w2</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-lnd94103-064-p1s22w1</LM>
+<LM>a#a-lnd94103-064-p1s22w2</LM>
+<LM>a#a-lnd94103-064-p1s22w3</LM>
+<LM>a#a-lnd94103-064-p1s22w4</LM>
+<LM>a#a-lnd94103-064-p1s22w5</LM>
+</a-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-lnd94103-064-p1s22w12">
 <a>
@@ -13015,6 +13071,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s22w19</LM>
 <LM>t-lnd94103-064-p1s22w20</LM>
@@ -13597,6 +13654,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s23w23</LM>
 </t-connectors.rf>
@@ -13632,6 +13690,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-064-p1s23w1</LM>
 </a-connectors.rf>
@@ -14073,6 +14132,32 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-lnd94103-064-p1s23w26</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-lnd94103-064-p1s24w1</LM>
+</a-connectors.rf>
+<t-connectors.rf>
+<LM>t-lnd94103-064-p1s24w2</LM>
+</t-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-lnd94103-064-p1s24w1</LM>
+<LM>a#a-lnd94103-064-p1s24w3</LM>
+<LM>a#a-lnd94103-064-p1s24w4</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-lnd94103-064-p1s24w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
+<discourse_comment>přechod k explicat</discourse_comment>
 <val_frame.rf>v#v-w6496f1</val_frame.rf>
 <children>
 <LM id="t-lnd94103-064-p1s24w5">
@@ -14149,6 +14234,7 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>16</deepord>
+<discourse_comment>wrongTR? nemelo by byt APPS?</discourse_comment>
 <children>
 <LM id="t-lnd94103-064-p1s24w11">
 <a>
@@ -15096,6 +15182,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-064-p1s25Aw10</LM>
 </a-connectors.rf>
@@ -15253,6 +15340,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s25Bw8</LM>
 </t-connectors.rf>

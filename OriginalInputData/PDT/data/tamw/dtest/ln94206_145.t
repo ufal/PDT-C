@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94206_145.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1087,6 +1087,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-145-p3s2w3</LM>
 </t-connectors.rf>
@@ -1453,6 +1454,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse_comment>neznacim, znacila bych CONJ, 
+coz je uz zaznacene</discourse_comment>
 </LM>
 <LM id="t-ln94206-145-p3s3w16">
 <a>
@@ -2286,6 +2289,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-145-p4s2w19</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_37.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -962,6 +962,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-37-p2s3w20</LM>
 </t-connectors.rf>
@@ -3328,6 +3329,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>Arg2 je pouze NP
+"své nadšení" atd.</discourse_comment>
 </LM>
 <LM id="t-ln94200-37-p3s5a0">
 <nodetype>complex</nodetype>
@@ -4039,6 +4042,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-37-p3s7w30</LM>
 </t-connectors.rf>
@@ -4626,6 +4630,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-37-p3s7w35</LM>
 </t-connectors.rf>

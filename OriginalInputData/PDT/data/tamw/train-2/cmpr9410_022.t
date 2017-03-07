@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9410_022.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -104,6 +104,9 @@
 <functor>CONJ</functor>
 <deepord>5</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR,
+sémanticky hypotaktické souvětí
+s asyndetickou podmínkovou klauzí</discourse_comment>
 <children>
 <LM id="t-cmpr9410-022-p3s1a0">
 <nodetype>complex</nodetype>
@@ -2180,6 +2183,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-022-p9s2w9</LM>
 </t-connectors.rf>
@@ -2254,11 +2258,16 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-022-p10s1w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR,
+apozice mezi co
+ a navrhnout
+</discourse_comment>
 <children>
 <LM id="t-cmpr9410-022-p10s1w3">
 <a>
@@ -2788,6 +2797,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-022-p10s3w2">
 <a>
@@ -2798,6 +2808,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-022-p10s3w3">
 <a>

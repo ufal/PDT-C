@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9415_005.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -73,6 +73,11 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR,
+mylně rozdělená
+struktura  -
+stromy 1 a 2
+patří dohromady</discourse_comment>
 <children>
 <LM id="t-cmpr9415-005-p3s1w3">
 <a>
@@ -387,6 +392,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9415-005-p5s1w1</LM>
 </a-connectors.rf>
@@ -1450,6 +1456,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-005-p9s2w1</LM>
 </t-connectors.rf>
@@ -1460,6 +1467,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9415-005-p9s1w1</LM>
 </a-connectors.rf>
@@ -1763,6 +1771,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-005-p9s1w21</LM>
 </t-connectors.rf>
@@ -3163,6 +3172,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-005-p11s3w14</LM>
 </t-connectors.rf>
@@ -4931,6 +4941,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-005-p13s5w1</LM>
 </t-connectors.rf>
@@ -5178,6 +5189,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-005-p13s5w15</LM>
 </t-connectors.rf>
@@ -6333,6 +6345,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-005-p14s5w2</LM>
 </t-connectors.rf>
@@ -7180,6 +7193,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>wrongTR?
+stromy 30 a 31
+patří dohromady</discourse_comment>
 <val_frame.rf>v#v-w3411f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-005-p16s1Cw6">

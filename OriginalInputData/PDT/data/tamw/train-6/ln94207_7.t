@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_7.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1809,6 +1809,7 @@
 <t_lemma>#Dash</t_lemma>
 <functor>CONJ</functor>
 <deepord>12</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94207-7-p2s5w4">
 <a>
@@ -1837,6 +1838,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-7-p2s5w3</LM>
 </t-connectors.rf>
@@ -2256,6 +2258,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-7-p2s5w31</LM>
 </a-connectors.rf>
@@ -2763,6 +2766,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-7-p3s1w17</LM>
 </t-connectors.rf>

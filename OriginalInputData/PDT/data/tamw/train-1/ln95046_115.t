@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95046_115.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -990,6 +990,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<comment>veta 6 by se mohla pripojit i k vete 3, vete 4
+nebo ke skupine 3-5
+uvazovala jsem take o conj</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-115-p3s3w3</LM>
 </t-connectors.rf>

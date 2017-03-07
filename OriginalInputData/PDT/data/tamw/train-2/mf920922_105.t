@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_105.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -394,6 +394,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-105-p2s2w4</LM>
 </t-connectors.rf>
@@ -706,6 +707,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-105-p2s3w1</LM>
 </t-connectors.rf>
@@ -1017,6 +1019,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-105-p2s7w1</LM>
 </t-connectors.rf>
@@ -1524,6 +1527,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg
+prázdné</discourse_comment>
 </LM>
 <LM id="t-mf920922-105-p2s8a2">
 <nodetype>complex</nodetype>
@@ -2679,6 +2684,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-105-p2s13w9</LM>
 </a-connectors.rf>
@@ -3167,6 +3173,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-105-p2s16w16</LM>
 </t-connectors.rf>
@@ -3272,6 +3279,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-105-p2s16w22</LM>
 </t-connectors.rf>
@@ -3347,6 +3355,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-105-p2s17w3</LM>
 </t-connectors.rf>
@@ -3471,6 +3480,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-105-p2s18w1</LM>
 </t-connectors.rf>
@@ -3890,6 +3900,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-105-p2s19w8</LM>
 </t-connectors.rf>
@@ -4211,6 +4222,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem i
+váhání, jestli tu vůbec 
+má diskurzní šipka být</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-105-p2s20w1</LM>
 </t-connectors.rf>
@@ -4387,6 +4402,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-105-p2s21w6</LM>
 </a-connectors.rf>
@@ -4817,6 +4833,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-mf920922-105-p2s22w5">
@@ -4911,6 +4928,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>paragraph</discourse_comment>
 </LM>
 <LM id="t-mf920922-105-p2s23Aw2">
 <a>
@@ -5190,6 +5208,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-105-p2s23Bw2</LM>
 </a-connectors.rf>
@@ -5346,6 +5365,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-105-p2s23Bw7</LM>
 </t-connectors.rf>
@@ -5750,6 +5770,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-105-p2s24w11</LM>
 </t-connectors.rf>
@@ -5807,6 +5828,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-105-p2s24w14</LM>
 </a-connectors.rf>
@@ -6074,6 +6096,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>přikloníme-li se k této interpretaci, 
+je tu wrongTR</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-105-p2s25w7</LM>
 </t-connectors.rf>
@@ -6503,6 +6528,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-105-p2s27w2</LM>
 <LM>a#a-mf920922-105-p2s27w1</LM>

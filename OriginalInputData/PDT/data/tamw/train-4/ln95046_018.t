@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95046_018.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -114,6 +114,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95046-018-p1s1w7</LM>
 </a-connectors.rf>
@@ -834,6 +835,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-018-p2s4w19</LM>
 </t-connectors.rf>
@@ -1007,6 +1009,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-018-p2s3w9</LM>
 </t-connectors.rf>
@@ -1229,11 +1232,17 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
-<LM>a#a-ln95046-018-p2s4w5</LM>
+<LM>a#a-ln95046-018-p2s4w2</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
 <LM>a#a-ln95046-018-p2s4w2</LM>
 <LM>a#a-ln95046-018-p2s4w3</LM>
-</a-connectors.rf>
+<LM>a#a-ln95046-018-p2s4w4</LM>
+<LM>a#a-ln95046-018-p2s4w5</LM>
+</a-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <children>
@@ -1346,6 +1355,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-018-p2s4w10</LM>
 </t-connectors.rf>
@@ -2312,6 +2322,8 @@
 </quot>
 <is_dsp_root>1</is_dsp_root>
 <deepord>29</deepord>
+<discourse_comment>wrongTR? nebylo by lepsi povesit "dash" na "a" 
+a na "dash" povesit "být" a "vést"?</discourse_comment>
 <children>
 <LM id="t-ln95046-018-p3s3w6">
 <a>
@@ -2491,6 +2503,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-018-p3s3w6</LM>
 </t-connectors.rf>
@@ -2601,6 +2614,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-018-p3s3w11</LM>
 </t-connectors.rf>
@@ -2972,6 +2986,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-018-p3s4w10</LM>
 </t-connectors.rf>
@@ -3156,6 +3171,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-018-p3s5w9</LM>
 </t-connectors.rf>
@@ -3994,6 +4010,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-018-p3s7w16</LM>
 <LM>t-ln95046-018-p3s7w12</LM>
@@ -4215,6 +4232,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR? nemaji stromy 14 a 15 byt jeden strom?</discourse_comment>
 <children>
 <LM id="t-ln95046-018-p4s1Aw1">
 <a>

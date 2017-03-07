@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_031.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -609,6 +609,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-031-p2s2w9</LM>
 </t-connectors.rf>
@@ -631,6 +632,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>12</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-mf930709-031-p2s2w14">
 <a>
@@ -1233,6 +1236,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-031-p3s2w2</LM>
 </t-connectors.rf>
@@ -1759,6 +1763,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-031-p3s4w9</LM>
 </t-connectors.rf>
@@ -2653,6 +2658,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-031-p4s2w12</LM>
 </t-connectors.rf>

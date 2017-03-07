@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_100.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -965,6 +965,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-100-p2s4w1</LM>
 </t-connectors.rf>
@@ -1890,6 +1891,8 @@
 <id>1</id>
 </LM>
 </discourse_groups>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
+s anotaci CONJ na TR</discourse_comment>
 </LM>
 <LM id="t-mf930709-100-p2s6w19">
 <a>
@@ -2260,6 +2263,7 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>equiv</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-100-p2s7w12</LM>
 </t-connectors.rf>

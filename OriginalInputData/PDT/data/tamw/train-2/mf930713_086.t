@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930713_086.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -576,6 +576,13 @@
 <t_lemma>a_to</t_lemma>
 <functor>APPS</functor>
 <deepord>7</deepord>
+<discourse_comment>wrongTR?,
+proč tu není 
+dokopírované
+sloveso jako
+v těchto 
+strukturách 
+obvykle?</discourse_comment>
 <children>
 <LM id="t-mf930713-086-p2s3w7">
 <a>
@@ -952,6 +959,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-086-p2s4w15</LM>
 </t-connectors.rf>
@@ -1743,6 +1751,9 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>typicky na hraně
+s explicat</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-086-p2s7w4</LM>
 </t-connectors.rf>
@@ -2512,6 +2523,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-086-p2s9w25</LM>
 </t-connectors.rf>
@@ -2637,6 +2649,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-086-p2s9w34</LM>
 </t-connectors.rf>
@@ -2861,6 +2874,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-086-p2s12w4</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95048_154.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -92,6 +92,7 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrong_TR spatna segmentace na vety</discourse_comment>
 <children>
 <LM id="t-ln95048-154-p1s1Bw3">
 <a>
@@ -828,6 +829,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-154-p2s2w11</LM>
 </t-connectors.rf>
@@ -1594,6 +1596,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-154-p2s5w7</LM>
 </t-connectors.rf>
@@ -2158,6 +2161,7 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary Více na straně 10. (celá věta)</discourse_comment>
 <children>
 <LM id="t-ln95048-154-p2s7w1">
 <a>

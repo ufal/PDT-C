@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94208_127.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -622,6 +622,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle
+me je to vztah NP (na pripravnem utkani) a vety 
+(kdy navic hrozil poradny lijak)</discourse_comment>
 </LM>
 <LM id="t-ln94208-127-p2s2w7">
 <a>
@@ -1538,6 +1541,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-127-p3s2w7</LM>
 </t-connectors.rf>
@@ -2004,6 +2008,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-127-p3s4w1</LM>
 </a-connectors.rf>
@@ -2561,6 +2566,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-127-p3s6w1</LM>
 </a-connectors.rf>
@@ -2677,6 +2683,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-127-p3s6w5</LM>
 </t-connectors.rf>
@@ -3397,6 +3404,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-127-p4s2w5</LM>
 </t-connectors.rf>
@@ -3513,6 +3521,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-127-p4s2w11</LM>
 </a-connectors.rf>
@@ -3618,6 +3627,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-127-p4s4w1</LM>
 </t-connectors.rf>
@@ -4079,11 +4089,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-127-p4s5w11</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>mohlo by se brat 
+i jako NP</discourse_comment>
 <val_frame.rf>v#v-w9020f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-127-p4s5w10">
@@ -4362,6 +4375,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-127-p4s6a0</LM>
 <LM>t-ln94208-127-p4s6w7</LM>
@@ -4586,6 +4600,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-127-p4s7w1</LM>
 </a-connectors.rf>

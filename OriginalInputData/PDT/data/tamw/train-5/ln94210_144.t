@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94210_144.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -541,6 +541,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-144-p2s2w7</LM>
 </t-connectors.rf>
@@ -573,6 +574,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>9</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <children>
 <LM id="t-ln94210-144-p2s2w6">
 <a>
@@ -981,6 +983,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-144-p2s3w11</LM>
 </t-connectors.rf>
@@ -1121,6 +1124,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94210-144-p2s4w6">
 <a>
@@ -2194,6 +2198,7 @@
 <t_lemma>ale</t_lemma>
 <functor>ADVS</functor>
 <deepord>8</deepord>
+<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94210-144-p2s8w5">
 <a>
@@ -2349,6 +2354,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-144-p2s8w8</LM>
 </t-connectors.rf>
@@ -2770,6 +2776,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-144-p2s9w13</LM>
 </t-connectors.rf>

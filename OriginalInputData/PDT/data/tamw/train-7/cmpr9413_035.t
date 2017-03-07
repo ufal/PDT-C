@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9413_035.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -40,6 +40,12 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR,
+chybná segmentace, 
+tahle věta na něco navazuje,
+ale v tomto souboru to
+není, nejspíš poslední
+věta předchozího článku</discourse_comment>
 <val_frame.rf>v#v-w127f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-035-p1s1w1">
@@ -447,6 +453,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-035-p3s3w7</LM>
 </t-connectors.rf>
@@ -687,6 +694,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-035-p3s3w15</LM>
 </t-connectors.rf>
@@ -703,6 +711,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>15</deepord>
+<discourse_comment>součást konektoru DISJ</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-035-p3s3w21">
 <a>
@@ -874,6 +883,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-035-p3s4w3</LM>
 </a-connectors.rf>
@@ -979,6 +989,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-035-p3s4w11</LM>
 <LM>t-cmpr9413-035-p3s4w12</LM>
@@ -1248,6 +1259,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-035-p4s3w1</LM>
 <LM>t-cmpr9413-035-p4s3w2</LM>
@@ -1402,6 +1414,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>vztah spec mezi NP pláč
+a PAR</discourse_comment>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-035-p4s2a1">
@@ -1543,6 +1557,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>exempl</secondary_NP_type>
+<discourse_comment>taková zvláštní exempl</discourse_comment>
 <children>
 <LM id="t-cmpr9413-035-p4s4w8">
 <a>
@@ -2020,6 +2036,25 @@
 <t_lemma>ale</t_lemma>
 <functor>ADVS</functor>
 <deepord>7</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-cmpr9413-035-p5s4w2</target_node.rf>
+<type>discourse</type>
+<start_range>backward</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<comment>Regard</comment>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-cmpr9413-035-p5s4w5</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-cmpr9413-035-p5s4w5</LM>
+<LM>t-cmpr9413-035-p5s4w4</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-cmpr9413-035-p5s3a0">
 <a>
@@ -2146,6 +2181,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-035-p5s3w7</LM>
 </t-connectors.rf>
@@ -2452,6 +2488,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-035-p5s4w7</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_61.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -151,6 +151,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-61-p2s1Aw1</LM>
 </a-connectors.rf>
@@ -495,6 +496,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-61-p2s1Cw11</LM>
 </t-connectors.rf>
@@ -634,6 +636,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-61-p2s1Cw25</LM>
 </t-connectors.rf>
@@ -747,6 +750,20 @@
 <is_member>1</is_member>
 <tfa>t</tfa>
 <deepord>26</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94207-61-p2s1Cw20</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94207-61-p2s1Cw27</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-ln94207-61-p2s1Cw27">
 <a>
@@ -1144,6 +1161,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-61-p2s2w16</LM>
 <LM>t-ln94207-61-p2s2w15</LM>
@@ -1293,6 +1311,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>proč je za touhle 
+větou to O?
+špatná segmentace?
+zkratka pro otázku?</discourse_comment>
 <val_frame.rf>v#v-w3869f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-61-p3s1w24">
@@ -1566,6 +1588,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-61-p3s1w9</LM>
 </t-connectors.rf>
@@ -1969,6 +1992,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94207-61-p5s2w10</LM>
 </t-connectors.rf>
@@ -3418,6 +3442,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-61-p6s3Aw16</LM>
 </t-connectors.rf>
@@ -3868,6 +3893,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-61-p7s2Aw10</LM>
 </t-connectors.rf>
@@ -4479,6 +4505,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-61-p8s1w8</LM>
 </t-connectors.rf>
@@ -4697,6 +4724,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-61-p8s2w5</LM>
 </t-connectors.rf>

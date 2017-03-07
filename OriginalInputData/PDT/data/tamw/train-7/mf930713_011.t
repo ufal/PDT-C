@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930713_011.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -368,6 +368,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-011-p2s1Bw8</LM>
 </t-connectors.rf>
@@ -661,6 +662,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>24</deepord>
+<discourse_comment>wrongTR? nema byt doplnene "dokazat"? nebo nema
+na (nedoplnenem) "dokazat" viset comma a na ni 
+"potěšit" a "uspokojit"?</discourse_comment>
 <val_frame.rf>v#v-w7324f1</val_frame.rf>
 <children>
 <LM id="t-mf930713-011-p2s1Bw24">
@@ -672,6 +676,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>23</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -budto to
+neni diskurzni vztah, nebo je stejne CONJ anotovana
+na TR.</discourse_comment>
 </LM>
 <LM id="t-mf930713-011-p2s1Bw26">
 <a>
@@ -1556,6 +1563,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-011-p2s4w16</LM>
 <LM>t-mf930713-011-p2s4w3</LM>
@@ -2071,6 +2079,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-011-p2s5w19</LM>
 <LM>t-mf930713-011-p2s5w2</LM>
@@ -2679,6 +2688,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-011-p2s7w1</LM>
 </t-connectors.rf>
@@ -2768,6 +2778,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-011-p2s7w8</LM>
 <LM>t-mf930713-011-p2s7a0</LM>
@@ -3586,6 +3597,7 @@
 <start_range>0</start_range>
 <target_range>2</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-011-p2s9w3</LM>
 </t-connectors.rf>
@@ -4187,6 +4199,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-011-p2s10w12</LM>
 </t-connectors.rf>
@@ -4203,6 +4216,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>13</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
+s anotaci DISJ na TR</discourse_comment>
 </LM>
 <LM id="t-mf930713-011-p2s10w15">
 <a>
@@ -4364,6 +4379,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-011-p2s10w26</LM>
 </t-connectors.rf>
@@ -4539,6 +4555,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-011-p2s11w3</LM>
 </t-connectors.rf>
@@ -4660,6 +4677,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-011-p2s11w7</LM>
 </t-connectors.rf>
@@ -4671,6 +4689,7 @@
 <start_range>group</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-011-p2s11w10</LM>
 </a-connectors.rf>
@@ -5074,6 +5093,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-011-p2s11w32</LM>
 </a-connectors.rf>
@@ -5898,6 +5918,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-011-p2s14w7</LM>
 <LM>t-mf930713-011-p2s14w8</LM>

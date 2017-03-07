@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95047_132.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1346,6 +1346,28 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln95047-132-p2s4Bw21</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln95047-132-p2s4Bw1</LM>
+<LM>a#a-ln95047-132-p2s4Bw2</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln95047-132-p2s4Bw1</LM>
+<LM>a#a-ln95047-132-p2s4Bw2</LM>
+<LM>a#a-ln95047-132-p2s4Bw3</LM>
+<LM>a#a-ln95047-132-p2s4Bw4</LM>
+<LM>a#a-ln95047-132-p2s4Bw5</LM>
+</a-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w2561f1</val_frame.rf>
 <children>
 <LM id="t-ln95047-132-p2s4Bw7">
@@ -2870,6 +2892,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-132-p4s1w17</LM>
 </t-connectors.rf>
@@ -4363,6 +4386,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary? posledním
+(důležitým sdělení)</discourse_comment>
 <val_frame.rf>v#v-w5917f2</val_frame.rf>
 <children>
 <LM id="t-ln95047-132-p6s1w2">
@@ -4726,6 +4751,12 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>lze vnímat jako konektor, 
+ale také jako odkaz
+na nominální fráze popisující,
+co všechno má zápočtový
+list obsahovat, necháno bez
+anotace</discourse_comment>
 <coref_special>segm</coref_special>
 </LM>
 <LM id="t-ln95047-132-p6s2w5">
@@ -5198,6 +5229,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-132-p7s1w8</LM>
 </t-connectors.rf>
@@ -5788,6 +5820,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-132-p7s4w6</LM>
 </t-connectors.rf>

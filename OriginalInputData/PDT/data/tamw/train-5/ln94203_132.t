@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94203_132.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -571,6 +571,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-132-p3s1w1</LM>
 </t-connectors.rf>
@@ -2330,6 +2331,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-132-p4s3w37</LM>
 <LM>t-ln94203-132-p4s3w38</LM>
@@ -2506,6 +2508,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-132-p4s4w4</LM>
 </t-connectors.rf>
@@ -2858,6 +2861,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-132-p4s5w7</LM>
 </a-connectors.rf>
@@ -2947,6 +2951,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-132-p4s5w15</LM>
 <LM>a#a-ln94203-132-p4s5w13</LM>
@@ -3057,6 +3062,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-132-p4s6w2</LM>
 </t-connectors.rf>
@@ -3206,11 +3212,17 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
-<LM>a#a-ln94203-132-p4s6w14</LM>
 <LM>a#a-ln94203-132-p4s6w12</LM>
-<LM>a#a-ln94203-132-p4s6w11</LM>
 </a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln94203-132-p4s6w11</LM>
+<LM>a#a-ln94203-132-p4s6w12</LM>
+<LM>a#a-ln94203-132-p4s6w13</LM>
+<LM>a#a-ln94203-132-p4s6w14</LM>
+</a-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w2319f1</val_frame.rf>

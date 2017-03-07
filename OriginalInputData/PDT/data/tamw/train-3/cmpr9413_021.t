@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9413_021.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -383,6 +383,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR? neni to rhem? fungujici jen v ramci 
+vety?</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-021-p4s2a0">
 <nodetype>qcomplex</nodetype>
@@ -410,6 +412,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>secondary souběžně s tím</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-cmpr9413-021-p4s1w5</target_node.rf>
@@ -832,6 +835,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>neustalený secondary</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-cmpr9413-021-p4s3w4</target_node.rf>
@@ -2289,6 +2293,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-021-p5s2w2</LM>
 </t-connectors.rf>
@@ -2425,6 +2430,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem rovněž</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-021-p5s2w13</LM>
 </t-connectors.rf>
@@ -3165,6 +3172,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-021-p8s1w19</LM>
 </t-connectors.rf>
@@ -3803,6 +3811,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-cmpr9413-021-p8s4w4">
 <a>
@@ -4326,6 +4335,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-021-p8s5w2</LM>
 </t-connectors.rf>
@@ -4504,6 +4514,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-021-p8s5w8</LM>
 <LM>t-cmpr9413-021-p8s5w14</LM>
@@ -4662,6 +4673,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-021-p8s6w3</LM>
 <LM>t-cmpr9413-021-p8s6w2</LM>
@@ -5166,6 +5178,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-021-p8s8Aw1</LM>
 </t-connectors.rf>
@@ -5374,6 +5387,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-021-p8s9w1</LM>
 </t-connectors.rf>
@@ -5750,6 +5764,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>24</deepord>
+<secondary_NP_type>gener</secondary_NP_type>
 <val_frame.rf>v#v-w5874f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-021-p8s8Ba3">
@@ -6084,6 +6099,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-021-p8s9w12</LM>
 <LM>a#a-cmpr9413-021-p8s9w14</LM>

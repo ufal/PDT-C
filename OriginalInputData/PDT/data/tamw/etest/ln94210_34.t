@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94210_34.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1054,6 +1054,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-34-p2s3w7</LM>
 </t-connectors.rf>
@@ -1360,6 +1361,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-34-p2s4w16</LM>
 </t-connectors.rf>
@@ -2906,11 +2908,13 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-34-p4s1w27</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>specifikace NP</discourse_comment>
 <children>
 <LM id="t-ln94210-34-p4s1a3">
 <a>
@@ -3429,6 +3433,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-34-p4s2w5</LM>
 </t-connectors.rf>
@@ -3639,6 +3644,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-34-p4s3w7</LM>
 </t-connectors.rf>
@@ -4432,6 +4438,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-34-p4s5w7</LM>
 </t-connectors.rf>
@@ -4604,6 +4611,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-34-p4s5w16</LM>
 </t-connectors.rf>
@@ -5284,6 +5292,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-34-p4s8w17</LM>
 </t-connectors.rf>
@@ -6246,6 +6255,25 @@
 <functor>CONJ</functor>
 <is_member>1</is_member>
 <deepord>12</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94210-34-p4s9w2</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>-6</target_range>
+<discourse_type>explicat</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94210-34-p5s1w6</LM>
+</t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94210-34-p5s1w4</LM>
+<LM>t-ln94210-34-p5s1w6</LM>
+<LM>t-ln94210-34-p5s1w7</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-ln94210-34-p5s1w10">
 <a>
@@ -6341,6 +6369,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-34-p5s1w12</LM>
 </t-connectors.rf>
@@ -6452,6 +6481,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-34-p5s2w3</LM>
 <LM>t-ln94210-34-p5s2w4</LM>
@@ -7257,6 +7287,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-34-p5s7w1</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94208_135.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1241,6 +1241,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-135-p3s4w3</LM>
 </t-connectors.rf>
@@ -2190,6 +2191,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>6</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94208-135-p4s1w9">
 <a>
@@ -2527,6 +2529,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-135-p4s1w31</LM>
 </t-connectors.rf>
@@ -2581,6 +2584,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-135-p4s1w35</LM>
 <LM>a#a-ln94208-135-p4s1w37</LM>
@@ -2879,6 +2883,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>6</deepord>
+<discourse_comment>anaforické tím,
+není PREC,
+wrongTR</discourse_comment>
 </LM>
 <LM id="t-ln94208-135-p4s2a0">
 <nodetype>complex</nodetype>

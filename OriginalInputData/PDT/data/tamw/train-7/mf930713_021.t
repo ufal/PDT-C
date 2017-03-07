@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930713_021.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -771,6 +771,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-021-p2s2w17</LM>
 </t-connectors.rf>
@@ -1288,6 +1289,8 @@
 <id>1</id>
 </LM>
 </discourse_groups>
+<discourse_comment>wrongTR. "také" nemá svůj uzel, ale odkazuje na 
+něj "požádat"</discourse_comment>
 <val_frame.rf>v#v-w4227f1</val_frame.rf>
 <children>
 <LM id="t-mf930713-021-p2s5w3">
@@ -1655,6 +1658,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-mf930713-021-p2s5w24">
@@ -1717,6 +1721,7 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-021-p2s5w22</LM>
 <LM>a#a-mf930713-021-p2s5w23</LM>
@@ -1759,6 +1764,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-021-p2s5w28</LM>
 </a-connectors.rf>
@@ -2385,6 +2391,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-021-p2s8w1</LM>
 </a-connectors.rf>

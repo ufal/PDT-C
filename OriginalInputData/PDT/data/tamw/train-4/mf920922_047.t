@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_047.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -45,6 +45,7 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>tabulka převedená do textu?</discourse_comment>
 <children>
 <LM id="t-mf920922-047-p1s1w1">
 <a>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94204_146.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -6215,6 +6215,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-146-p2s14w8</LM>
 </t-connectors.rf>
@@ -6588,6 +6589,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-146-p2s15Aa2</LM>
 <LM>t-ln94204-146-p2s15Aw16</LM>
@@ -7118,6 +7120,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>smíšený vztah,
+nařídit a VP</discourse_comment>
 </LM>
 <LM id="t-ln94204-146-p2s16a0">
 <nodetype>qcomplex</nodetype>
@@ -7397,6 +7401,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>smíšený vztah</discourse_comment>
 </LM>
 <LM id="t-ln94204-146-p2s17Aw1">
 <a>
@@ -8388,6 +8393,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-146-p2s18Aw1</LM>
 </a-connectors.rf>

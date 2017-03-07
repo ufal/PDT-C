@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9410_035.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -109,6 +109,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-035-p3s1w6</LM>
 <LM>t-cmpr9410-035-p3s1w7</LM>
@@ -326,6 +327,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-035-p3s1w12</LM>
 </t-connectors.rf>
@@ -389,6 +391,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-035-p3s1w15</LM>
 </a-connectors.rf>
@@ -397,6 +400,9 @@
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR?-
+proc je to zachycene
+jinak nez prime reci?</discourse_comment>
 <val_frame.rf>v#v-w9877f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-035-p3s1w16">
@@ -661,6 +667,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-035-p3s5w1</LM>
 </t-connectors.rf>
@@ -876,6 +883,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-035-p3s5w5</LM>
 </t-connectors.rf>
@@ -978,6 +986,7 @@
 <t_lemma>#Dash</t_lemma>
 <functor>CONJ</functor>
 <deepord>6</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-cmpr9410-035-p4s1a0">
 <nodetype>complex</nodetype>
@@ -1281,6 +1290,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-035-p4s2w5</LM>
 </t-connectors.rf>
@@ -2940,6 +2950,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-035-p6s3w1</LM>
 </t-connectors.rf>
@@ -2966,6 +2977,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>není prec,
+koreferenční tak</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-035-p6s3w4">
 <a>
@@ -3230,6 +3243,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>dá se interpretovat
+i jako CONJ</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-035-p6s4w12</LM>
 <LM>t-cmpr9410-035-p6s4w11</LM>

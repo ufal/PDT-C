@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_60.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -675,6 +675,24 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94202-60-p2s3a1</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln94202-60-p2s3w3</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94202-60-p2s3w3</LM>
+<LM>t-ln94202-60-p2s3w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w4128f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-60-p2s3a3">
@@ -1269,6 +1287,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-60-p2s4w14</LM>
 </t-connectors.rf>
@@ -1306,6 +1325,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-60-p2s4w15</LM>
 </a-connectors.rf>
@@ -2653,6 +2673,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-60-p3s3w7</LM>
 </t-connectors.rf>
@@ -2728,6 +2749,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-60-p3s2w9</LM>
 </a-connectors.rf>
@@ -3117,6 +3139,7 @@
 <start_range>0</start_range>
 <target_range>2</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-60-p3s4w1</LM>
 </t-connectors.rf>
@@ -3855,6 +3878,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-60-p3s5w11</LM>
 </t-connectors.rf>
@@ -4563,6 +4587,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-60-p3s8w1</LM>
 </t-connectors.rf>
@@ -4808,6 +4833,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-60-p3s9w2</LM>
 </t-connectors.rf>
@@ -5098,6 +5124,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-60-p4s1w3</LM>
 </t-connectors.rf>
@@ -5114,6 +5141,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>obsahuje víc
+presupozice,
+než je u totiž
+běžné</discourse_comment>
 </LM>
 <LM id="t-ln94202-60-p4s1w5">
 <a>
@@ -5414,6 +5445,12 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>velký sémantický skok  -
+kondicional v ARG1
+vytváří presupozici, že
+ODS si absurdnost návrhu
+dobře uvědomuje</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-60-p4s2w8</LM>
 </t-connectors.rf>
@@ -5675,6 +5712,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-60-p4s2a0</LM>
 <LM>t-ln94202-60-p4s2w14</LM>
@@ -5952,6 +5990,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-60-p4s3w10</LM>
 </t-connectors.rf>
@@ -6001,6 +6040,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-60-p4s3w15</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94211_30.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -541,6 +541,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-30-p2s3w2</LM>
 </t-connectors.rf>
@@ -1618,6 +1619,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-30-p2s7w26</LM>
 </t-connectors.rf>
@@ -1975,6 +1977,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-30-p3s2w4</LM>
 <LM>a#a-ln94211-30-p3s2w2</LM>
@@ -2443,6 +2446,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-30-p4s2w3</LM>
 </t-connectors.rf>
@@ -2642,6 +2646,13 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR?  -chybi dokopirovane ridici klauze?
+ (podle me "tezko rici" (strom 12) a "pokud v tom
+ nejsou stare dobre zvyky (strom 13)); pak by se
+ "přesvědčit" (věta 14) neanotovalo jako PRED  
+Po doplneni klauzi bych anotovala bud spec, 
+nebo bych to videla jako vztah mezi NP a neanotovala
+bych nic</discourse_comment>
 </LM>
 <LM id="t-ln94211-30-p4s3w3">
 <a>
@@ -2806,6 +2817,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-30-p4s3w12</LM>
 </a-connectors.rf>
@@ -2841,6 +2853,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-30-p4s3w13</LM>
 </a-connectors.rf>
@@ -3020,6 +3033,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-30-p4s3w28</LM>
 </a-connectors.rf>
@@ -3098,6 +3112,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-30-p4s3w29</LM>
 </a-connectors.rf>
@@ -4298,6 +4313,10 @@
 <t_lemma>či</t_lemma>
 <functor>DISJ</functor>
 <deepord>4</deepord>
+<discourse_comment>wrongTR? nema byt dokopirovany nejaky ridici 
+uzel? nemaji mit "být" a doplnene "být" jiny
+funtor nez PRED? nema doplnene "byt" odkazovat jen
+na prvni "zda" a ne na obe? </discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94211-30-p5s4w9</target_node.rf>
@@ -4390,6 +4409,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-30-p5s5w4</LM>
 </t-connectors.rf>
@@ -4940,6 +4960,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-30-p5s6w27</LM>
 </t-connectors.rf>
@@ -5305,6 +5326,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-30-p5s8w1</LM>
 </t-connectors.rf>
@@ -5499,6 +5521,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-30-p5s8w13</LM>
 </a-connectors.rf>
@@ -5594,6 +5617,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-30-p5s8w19</LM>
 </a-connectors.rf>
@@ -6176,6 +6200,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-30-p6s2w1</LM>
 </t-connectors.rf>
@@ -6356,11 +6381,13 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-30-p6s3w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR  -neni dokopirovana ridici klauze</discourse_comment>
 <val_frame.rf>v#v-w409f21</val_frame.rf>
 <children>
 <LM id="t-ln94211-30-p6s3w1">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_34.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1537,6 +1537,12 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>vztah mezi 8 a 9+10
+je REASON  -například
+tu dělá EXEMPL toho 
+REASON  -konektor pro
+REASON není, proto 
+neanotováno</discourse_comment>
 </LM>
 <LM id="t-ln94202-34-p4s2w4">
 <a>
@@ -1659,6 +1665,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-34-p4s2w11</LM>
 </t-connectors.rf>
@@ -1675,6 +1682,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>patří ke konektoru
+ale, vztah sém.
+odpovídá, proto
+nepřidáno</discourse_comment>
 </LM>
 <LM id="t-ln94202-34-p4s2w14">
 <a>
@@ -2157,6 +2168,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-34-p4s4w10</LM>
 </t-connectors.rf>
@@ -2451,6 +2463,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-34-p5s1w10</LM>
 <LM>t-ln94202-34-p5s1w5</LM>
@@ -3108,6 +3121,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94202-34-p5s3w18</LM>
 <LM>t-ln94202-34-p5s3w19</LM>

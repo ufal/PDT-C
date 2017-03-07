@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_116.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -136,6 +136,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-116-p1s1w9</LM>
 </t-connectors.rf>
@@ -364,6 +365,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-116-p3s1Aw9</LM>
 </t-connectors.rf>
@@ -1012,6 +1014,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-116-p4s2w12</LM>
 </t-connectors.rf>
@@ -2335,6 +2338,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-116-p4s6w6</LM>
 </t-connectors.rf>
@@ -2684,6 +2688,10 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>opp</discourse_type>
+<comment>konektor může mít 
+i větší rozsah,
+nejasný paragraph</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-116-p4s8w4</LM>
 </t-connectors.rf>
@@ -3243,6 +3251,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem i</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-116-p4s10w1</LM>
 </t-connectors.rf>
@@ -4064,6 +4074,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-116-p4s12w18</LM>
 </t-connectors.rf>
@@ -4678,6 +4689,7 @@
 <start_range>1</start_range>
 <target_range>1</target_range>
 <discourse_type>equiv</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-116-p4s14w4</LM>
 </t-connectors.rf>
@@ -4899,6 +4911,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-116-p4s15w5</LM>
 </t-connectors.rf>
@@ -5361,6 +5374,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-116-p4s17w2</LM>
 </t-connectors.rf>

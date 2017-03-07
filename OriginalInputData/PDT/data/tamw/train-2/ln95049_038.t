@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95049_038.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -614,6 +614,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-038-p2s2w11</LM>
 </t-connectors.rf>
@@ -925,6 +926,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-038-p2s2w20</LM>
 </t-connectors.rf>
@@ -1566,6 +1568,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln95049-038-p3s2w7</LM>
 <LM>t-ln95049-038-p3s2w8</LM>
@@ -1926,6 +1929,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln95049-038-p3s3w7</LM>
 <LM>t-ln95049-038-p3s3w8</LM>
@@ -2560,6 +2564,7 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-038-p3s4w21</LM>
 </a-connectors.rf>
@@ -2816,6 +2821,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-038-p3s5w8</LM>
 </t-connectors.rf>
@@ -3017,6 +3023,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-038-p3s7w1</LM>
 </t-connectors.rf>
@@ -3471,6 +3478,14 @@
 <target_group_id>2</target_group_id>
 <target_range>group</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>druhá možnost je
+SPEC, ale EXPLICAT
+podle mého lépe 
+vystihuje vztah:
+je si vědom a 
+důkaz, že si je
+vědom</comment>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-038-p3s8w10</LM>
 </a-connectors.rf>
@@ -3769,6 +3784,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-038-p3s9w5</LM>
 </t-connectors.rf>
@@ -5109,6 +5125,7 @@
 <target_group_id>3</target_group_id>
 <target_range>group</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-038-p3s13w27</LM>
 </a-connectors.rf>
@@ -5350,6 +5367,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-038-p3s13w35</LM>
 </t-connectors.rf>
@@ -5538,6 +5556,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln95049-038-p3s13w3</LM>
 <LM>t-ln95049-038-p3s13w4</LM>
@@ -6006,6 +6025,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-038-p3s14w4</LM>
 </t-connectors.rf>
@@ -6038,6 +6058,9 @@
 </gram>
 <tfa>c</tfa>
 <deepord>7</deepord>
+<discourse_comment>wrongTR,
+tohle je CAUS,
+ne COND</discourse_comment>
 <children>
 <LM id="t-ln95049-038-p3s14w6">
 <a>

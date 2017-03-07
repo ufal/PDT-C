@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930713_114.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -380,6 +380,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-114-p2s3w12</LM>
 </t-connectors.rf>
@@ -962,6 +963,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-114-p2s7w3</LM>
 </t-connectors.rf>
@@ -1624,6 +1626,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<comment>lze vnímat i jako
+SPEC NP "co"_PJ</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-114-p2s8w1</LM>
 </t-connectors.rf>
@@ -2622,6 +2627,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-114-p2s12w3</LM>
 </t-connectors.rf>
@@ -3722,6 +3728,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-114-p2s15w1</LM>
 </t-connectors.rf>
@@ -4063,6 +4070,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-114-p2s16w15</LM>
 </t-connectors.rf>
@@ -4206,6 +4214,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-114-p2s17w3</LM>
 </t-connectors.rf>

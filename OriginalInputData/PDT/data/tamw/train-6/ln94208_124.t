@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94208_124.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -674,6 +674,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94208-124-p2s2w2">
 <a>
@@ -792,6 +793,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-124-p2s2w9</LM>
 </t-connectors.rf>
@@ -1375,6 +1377,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-124-p2s4w7</LM>
 </t-connectors.rf>
@@ -2100,6 +2103,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-124-p3s2w21</LM>
 </t-connectors.rf>
@@ -2685,6 +2689,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-124-p4s1w12</LM>
 </t-connectors.rf>
@@ -2990,11 +2995,15 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-124-p4s2w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>premyslela jsem i nad grad, 
+ale neprislo mi to jako 
+tak silna gradace</discourse_comment>
 <val_frame.rf>v#v-w5135f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-124-p4s2w1">
@@ -4051,6 +4060,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-124-p4s5w6</LM>
 </t-connectors.rf>
@@ -4720,6 +4730,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-124-p5s2w17</LM>
 </t-connectors.rf>
@@ -5082,6 +5093,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-124-p5s2w39</LM>
 </t-connectors.rf>
@@ -5422,6 +5434,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>neznacim, protoze bych zde 
+znacila vztah CONJ, ktery 
+uz je zaznacen</discourse_comment>
 </LM>
 <LM id="t-ln94208-124-p5s3w14">
 <a>

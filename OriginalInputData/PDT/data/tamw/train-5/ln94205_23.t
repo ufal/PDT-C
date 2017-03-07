@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94205_23.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -43,6 +43,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR  -t-lemma ma byt"Žoska"</discourse_comment>
 </LM>
 <LM id="t-ln94205-23-p1s1w3">
 <a>
@@ -753,6 +754,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>wrongTR  -t-lemma ma byt"Žoska"</discourse_comment>
 <children>
 <LM id="t-ln94205-23-p3s1w7">
 <a>
@@ -1600,6 +1602,20 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94205-23-p3s5w8</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94205-23-p3s6w1</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-23-p3s6a0">
@@ -1813,6 +1829,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-23-p3s6w12</LM>
 </t-connectors.rf>
@@ -2283,6 +2300,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR  -t-lemma ma byt"Žoska"</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94205-23-p4s2w7</target_node.rf>
@@ -2478,6 +2496,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR  -t-lemma ma byt"Žoska"</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94205-23-p4s3w5</target_node.rf>

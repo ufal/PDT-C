@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_172.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -858,6 +858,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-172-p2s3w8</LM>
 </t-connectors.rf>
@@ -1379,6 +1380,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-172-p2s4w21</LM>
 </t-connectors.rf>
@@ -1414,6 +1416,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-172-p2s4w22</LM>
 </a-connectors.rf>
@@ -2013,6 +2016,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-172-p2s5w11</LM>
 </t-connectors.rf>
@@ -2159,6 +2163,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-172-p2s5w18</LM>
 </t-connectors.rf>
@@ -2434,6 +2439,9 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>nemá dva slovesné argumenty,
+dá se vypustit, one_arg to
+uplne neni</discourse_comment>
 </LM>
 <LM id="t-ln94200-172-p3s1w9">
 <a>
@@ -3332,6 +3340,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-172-p3s2w3</LM>
 </t-connectors.rf>
@@ -3540,6 +3549,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-172-p3s2a1</LM>
 <LM>t-ln94200-172-p3s2w11</LM>
@@ -4131,6 +4141,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-172-p4s1w17</LM>
 </a-connectors.rf>
@@ -4494,6 +4505,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-172-p4s2w15</LM>
 </t-connectors.rf>
@@ -5182,6 +5194,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-172-p4s4w19</LM>
 </t-connectors.rf>
@@ -6331,6 +6344,7 @@
 <start_range>0</start_range>
 <target_range>12</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-172-p5s1w2</LM>
 </t-connectors.rf>
@@ -6637,6 +6651,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-172-p5s1w20</LM>
 <LM>t-ln94200-172-p5s1w21</LM>
@@ -8243,6 +8258,7 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-172-p6s1w14</LM>
 </t-connectors.rf>
@@ -8442,6 +8458,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-172-p6s2w2</LM>
 </t-connectors.rf>

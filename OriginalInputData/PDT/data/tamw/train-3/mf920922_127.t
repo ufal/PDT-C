@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_127.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -603,6 +603,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-127-p2s2w18</LM>
 </t-connectors.rf>
@@ -1363,6 +1364,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-127-p3s2w6</LM>
 </t-connectors.rf>
@@ -1552,6 +1554,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-127-p3s2w19</LM>
 </t-connectors.rf>
@@ -2376,6 +2379,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-127-p5s1w12</LM>
 </t-connectors.rf>
@@ -2778,6 +2782,8 @@
 <t_lemma>ale</t_lemma>
 <functor>GRAD</functor>
 <deepord>7</deepord>
+<discourse_comment>wrongTR?
+proč tady není EmpVerb?</discourse_comment>
 <children>
 <LM id="t-mf920922-127-p6s1a0">
 <nodetype>atom</nodetype>
@@ -3511,6 +3517,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>sémantická mezera
+mezi argumenty, názor
+autora</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-127-p7s1w24</LM>
 </t-connectors.rf>
@@ -3827,6 +3837,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-127-p7s1a0</LM>
 <LM>t-mf920922-127-p7s1w40</LM>
@@ -4122,6 +4133,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-127-p8s1w3</LM>
 </a-connectors.rf>
@@ -4693,11 +4705,16 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
+<LM>t-mf920922-127-p8s3w4</LM>
+<LM>t-mf920922-127-p8s3w3</LM>
 <LM>t-mf920922-127-p8s3w1</LM>
 </t-connectors.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w4393f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-127-p8s3w1">
@@ -5614,6 +5631,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-127-p8s5w9</LM>
 </t-connectors.rf>
@@ -6515,6 +6533,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-127-p10s2w10</LM>
 </t-connectors.rf>
@@ -7495,6 +7514,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-127-p12s1w1</LM>
 </t-connectors.rf>

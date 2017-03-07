@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930713_001.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -897,6 +897,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-001-p3s4w6</LM>
 <LM>t-mf930713-001-p3s4w8</LM>
@@ -1574,6 +1575,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-001-p3s6w1</LM>
 </a-connectors.rf>
@@ -2233,6 +2235,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-001-p3s8w15</LM>
 </a-connectors.rf>
@@ -2521,6 +2524,9 @@
 <id>1</id>
 </LM>
 </discourse_groups>
+<discourse_comment>wrongTR? nemaji uzly "snažit_se" a "dávat" viset
+ještě na comma? takhle to vypadá, že mezi "snažit_se"
+a "dávat" je vztah REAS</discourse_comment>
 <val_frame.rf>v#v-w374f5</val_frame.rf>
 <children>
 <LM id="t-mf930713-001-p3s9a2">
@@ -2708,6 +2714,7 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-001-p3s9w15</LM>
 </t-connectors.rf>

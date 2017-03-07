@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94203_82.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -739,6 +739,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-82-p2s2w15</LM>
 </t-connectors.rf>
@@ -994,6 +995,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-82-p2s3w2</LM>
 </t-connectors.rf>
@@ -1389,6 +1391,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-82-p2s4w2</LM>
 </t-connectors.rf>
@@ -1543,6 +1546,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-82-p2s4w13</LM>
 </a-connectors.rf>
@@ -1791,6 +1795,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-82-p2s5w3</LM>
 </t-connectors.rf>
@@ -2229,6 +2234,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>32</deepord>
+<discourse_comment>nějaký typ zeugmatu v textu,
+wrongTR</discourse_comment>
 <val_frame.rf>v#v-w2294f1</val_frame.rf>
 <children>
 <LM id="t-ln94203-82-p2s5w27">
@@ -2342,6 +2349,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-82-p2s5w28</LM>
 </t-connectors.rf>
@@ -2777,6 +2785,9 @@
 <start_range>backward</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>velmi slabá REASON, 
+ale sém. snad nejblíž</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-82-p3s2w2</LM>
 </t-connectors.rf>
@@ -2875,6 +2886,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-82-p3s1w8</LM>
 </t-connectors.rf>
@@ -3101,6 +3113,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<comment>netypická CORR  -
+zdůraznění kontrastu
+obou argumentů, 
+GRAD v tom je též</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-82-p3s1a0</LM>
 <LM>t-ln94203-82-p3s1w23</LM>
@@ -3586,6 +3603,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-82-p3s2w17</LM>
 </t-connectors.rf>
@@ -4461,6 +4479,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>připojuje (11)
+k podstromu uzlu poskytnout v (10)-
+nejedná se o VF, proto
+neanotováno</discourse_comment>
 </LM>
 <LM id="t-ln94203-82-p3s4w3">
 <a>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94211_4.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -540,6 +540,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC, 
+ale MANN</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94211-4-p2s2w3</target_node.rf>
@@ -1394,6 +1396,10 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>11</deepord>
+<discourse_comment>wrongTR? nema "a" viset na "používat"? a na "a" 
+by viselo "instalační médium pro rozsáhlé programy",
+"především" a "pro záznam multimediálních
+pořadů"?</discourse_comment>
 <children>
 <LM id="t-ln94211-4-p3s4w12">
 <a>
@@ -1588,6 +1594,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94211-4-p4s1w11</LM>
 </t-connectors.rf>
@@ -1690,6 +1697,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-4-p4s1w8</LM>
 </t-connectors.rf>
@@ -1954,6 +1962,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-4-p4s2w1</LM>
 </a-connectors.rf>
@@ -2044,6 +2053,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>takže tu nemá
+dost silný reason
+význam, anotováno
+jen exempl</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-4-p4s2w11</LM>
 <LM>t-ln94211-4-p4s2w14</LM>
@@ -2202,6 +2216,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-4-p4s2w19</LM>
 </t-connectors.rf>
@@ -2652,6 +2667,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-4-p4s3w23</LM>
 </t-connectors.rf>

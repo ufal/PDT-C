@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920925_074.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -479,6 +479,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-074-p2s2w11</LM>
 </t-connectors.rf>
@@ -1576,6 +1577,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-074-p3s2w23</LM>
 </t-connectors.rf>
@@ -4801,6 +4803,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-074-p7s4w7</LM>
 </t-connectors.rf>
@@ -4823,6 +4826,8 @@
 </quot>
 <tfa>t</tfa>
 <deepord>8</deepord>
+<discourse_comment>neznacim, clen dvojice 
+kdyz-tak</discourse_comment>
 </LM>
 <LM id="t-mf920925-074-p7s4w9">
 <a>
@@ -4859,6 +4864,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-074-p7s4w8</LM>
 </a-connectors.rf>

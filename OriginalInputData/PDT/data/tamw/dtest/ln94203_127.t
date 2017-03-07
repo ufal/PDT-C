@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94203_127.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -729,6 +729,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94203-127-p2s1Bw14</target_node.rf>
@@ -1955,6 +1956,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC,
+wrongTR,
+MANN</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94203-127-p3s1w23</target_node.rf>

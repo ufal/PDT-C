@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94205_20.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -697,6 +697,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-20-p2s3w6</LM>
 </t-connectors.rf>
@@ -1480,6 +1481,22 @@
 </gram>
 <tfa>f</tfa>
 <deepord>20</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94205-20-p3s1w24</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94205-20-p3s1w26</LM>
+<LM>t-ln94205-20-p3s1w25</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-20-p3s1w28">
@@ -3178,6 +3195,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>konektor rhem ještě</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-20-p3s8w23</LM>
 <LM>t-ln94205-20-p3s8w24</LM>
@@ -3253,6 +3272,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-20-p3s9w4</LM>
 </t-connectors.rf>
@@ -3446,6 +3466,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 </LM>
 <LM id="t-ln94205-20-p3s10w5">
 <a>
@@ -3518,6 +3539,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-20-p3s11w3</LM>
 </t-connectors.rf>

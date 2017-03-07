@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94211_21.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -369,6 +369,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle me
+to neni PREC</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94211-21-p2s1Bw8</target_node.rf>
@@ -1144,6 +1146,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-21-p2s4w2</LM>
 </t-connectors.rf>
@@ -1433,6 +1436,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-21-p2s6w3</LM>
 </t-connectors.rf>
@@ -1700,6 +1704,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <val_frame.rf>v#v-w7583f1</val_frame.rf>
 <children>
 <LM id="t-ln94211-21-p2s7w3">
@@ -1876,6 +1881,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-21-p2s7w16</LM>
 </t-connectors.rf>
@@ -1972,6 +1978,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-21-p2s7w21</LM>
 </t-connectors.rf>
@@ -2096,6 +2103,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-21-p2s8w3</LM>
 </t-connectors.rf>

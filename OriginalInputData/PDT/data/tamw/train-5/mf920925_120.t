@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920925_120.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -422,12 +422,21 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
+<a-connectors.rf>
+<LM>a#a-mf920925-120-p2s2w12</LM>
+</a-connectors.rf>
 <t-connectors.rf>
 <LM>t-mf920925-120-p2s2w11</LM>
-<LM>t-mf920925-120-p2s2w13</LM>
 </t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-mf920925-120-p2s2w13</LM>
+<LM>t-mf920925-120-p2s2w11</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w2012f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-120-p2s2w5">
@@ -1111,6 +1120,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-120-p3s3w4</LM>
 </t-connectors.rf>
@@ -1208,6 +1218,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-120-p3s4w1</LM>
 <LM>t-mf920925-120-p3s4w2</LM>
@@ -1510,6 +1521,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-120-p4s1a0">
 <nodetype>complex</nodetype>
@@ -1855,6 +1867,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-120-p5s3w4</LM>
 </t-connectors.rf>
@@ -1914,6 +1927,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-120-p5s3a0</LM>
 </t-connectors.rf>
@@ -2439,6 +2453,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-120-p5s5w11</LM>
 </t-connectors.rf>
@@ -2745,6 +2760,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-120-p7s1w1</LM>
 </a-connectors.rf>
@@ -3579,6 +3595,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-120-p8s1w21</LM>
 </t-connectors.rf>
@@ -3921,6 +3938,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-120-p9s2w3</LM>
 </t-connectors.rf>
@@ -3957,6 +3975,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-120-p9s2w1</LM>
 </a-connectors.rf>
@@ -4224,6 +4243,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-120-p9s2w18</LM>
 </t-connectors.rf>
@@ -4546,6 +4566,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-120-p9s3w10</LM>
 </t-connectors.rf>
@@ -5234,6 +5255,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-120-p10s2w22</LM>
 </t-connectors.rf>
@@ -5424,6 +5446,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-120-p11s1w9</LM>
 <LM>a#a-mf920925-120-p11s1w7</LM>
@@ -5574,6 +5597,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-120-p11s1w6</LM>
 <LM>t-mf920925-120-p11s1a1</LM>
@@ -5974,6 +5998,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-120-p11s3w13</LM>
 </a-connectors.rf>
@@ -6192,6 +6217,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-120-p12s1w7</LM>
 </a-connectors.rf>
@@ -6535,6 +6561,8 @@
 <t_lemma>a</t_lemma>
 <functor>APPS</functor>
 <deepord>8</deepord>
+<discourse_comment>vztah spec
+NP a VP</discourse_comment>
 <children>
 <LM id="t-mf920925-120-p13s1w2">
 <a>
@@ -7231,6 +7259,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-120-p13s4w6</LM>
 <LM>t-mf920925-120-p13s4w12</LM>
@@ -7360,6 +7389,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>9</deepord>
+<discourse_comment>wrongTR? nema tento uzel odkazovat take k "by"?</discourse_comment>
 <val_frame.rf>v#v-w1917f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-120-p13s4w13">
@@ -7489,6 +7519,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-120-p14s1w10</LM>
 </t-connectors.rf>
@@ -7957,6 +7988,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-120-p14s3a0">
 <nodetype>complex</nodetype>
@@ -8660,6 +8692,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-120-p15s4w5</LM>
 </t-connectors.rf>
@@ -9142,6 +9175,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-120-p17s2w13</LM>
 </t-connectors.rf>
@@ -9373,6 +9407,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-120-p17s3w4</LM>
 </t-connectors.rf>
@@ -10325,6 +10360,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>sporná anotace,
+wrongTR? způsobová věta?</comment>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-120-p19s1w4</LM>
 <LM>a#a-mf920925-120-p19s1w5</LM>
@@ -10735,6 +10773,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-120-p19s3w1</LM>
 </t-connectors.rf>
@@ -11087,6 +11126,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-120-p21s1w4</LM>
 </a-connectors.rf>

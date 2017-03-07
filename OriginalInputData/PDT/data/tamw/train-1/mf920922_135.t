@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_135.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -840,6 +840,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-135-p2s3w1</LM>
 </a-connectors.rf>
@@ -1201,6 +1202,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-135-p2s4w8</LM>
 <LM>t-mf920922-135-p2s4w9</LM>
@@ -1282,6 +1284,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-135-p2s6w2</LM>
 </t-connectors.rf>
@@ -1848,6 +1851,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-135-p2s6w17</LM>
 </t-connectors.rf>
@@ -1980,11 +1984,13 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-135-p2s7w1</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>secondary když vezme člověk v úvahu tyto skutečnosti</discourse_comment>
 <val_frame.rf>v#v-w8657f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-135-p2s7w3">
@@ -3138,6 +3144,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>adept na seznam</discourse_comment>
 <val_frame.rf>v#v-w1855f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-135-p2s11w1">
@@ -3582,6 +3589,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-135-p2s13w2</LM>
 </t-connectors.rf>
@@ -4047,6 +4055,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-135-p2s14w19</LM>
 </t-connectors.rf>
@@ -4207,6 +4216,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-135-p2s15w1</LM>
 </t-connectors.rf>

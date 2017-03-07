@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94205_88.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -359,6 +359,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-88-p2s2w4</LM>
 </t-connectors.rf>
@@ -530,6 +531,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-88-p2s2w10</LM>
 </t-connectors.rf>
@@ -1050,6 +1052,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-88-p2s3w27</LM>
 </t-connectors.rf>
@@ -1111,6 +1114,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-88-p2s4w3</LM>
 <LM>t-ln94205-88-p2s4w27</LM>
@@ -1306,6 +1310,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-88-p2s4w12</LM>
 </t-connectors.rf>
@@ -1713,6 +1718,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-88-p2s5w9</LM>
 </a-connectors.rf>
@@ -1831,6 +1837,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-88-p2s5w14</LM>
 </t-connectors.rf>
@@ -2416,6 +2423,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-88-p3s1w22</LM>
 <LM>t-ln94205-88-p3s1w21</LM>
@@ -3321,6 +3329,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-88-p4s1w37</LM>
 <LM>t-ln94205-88-p4s1w39</LM>
@@ -5362,6 +5371,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-88-p6s2w2</LM>
 </t-connectors.rf>
@@ -6373,6 +6383,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-88-p7s2w12</LM>
 </t-connectors.rf>
@@ -6433,6 +6444,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-88-p7s2w18</LM>
 </a-connectors.rf>
@@ -8134,6 +8146,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-88-p9s2w27</LM>
 </t-connectors.rf>
@@ -8349,6 +8362,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-88-p9s2w40</LM>
 </t-connectors.rf>
@@ -9261,6 +9275,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-88-p10s2w11</LM>
 </t-connectors.rf>
@@ -9631,6 +9646,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-88-p10s4w1</LM>
 <LM>t-ln94205-88-p10s4w2</LM>
@@ -9762,6 +9778,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-88-p10s4w8</LM>
 </a-connectors.rf>
@@ -9908,6 +9925,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94205-88-p10s5w2">
 <a>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95045_005.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -450,6 +450,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95045-005-p2s2w1</LM>
 </a-connectors.rf>
@@ -1923,6 +1924,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>wrongTR? proc tento podstrom nevisi na "a_to"
+a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <val_frame.rf>v#v-w6958f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p3s1w1">
@@ -2219,6 +2222,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-005-p3s1w25</LM>
 </t-connectors.rf>
@@ -2910,6 +2914,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-005-p3s2w28</LM>
 </t-connectors.rf>
@@ -3333,6 +3338,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-005-p4s3w2</LM>
 </t-connectors.rf>
@@ -3608,6 +3614,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-005-p4s2w15</LM>
 </t-connectors.rf>
@@ -4673,6 +4680,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95045-005-p5s2w15</LM>
 </a-connectors.rf>
@@ -4999,6 +5007,7 @@
 <start_range>group</start_range>
 <target_range>0</target_range>
 <discourse_type>f_opp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95045-005-p5s3w2</LM>
 <LM>a#a-ln95045-005-p5s3w3</LM>
@@ -5013,6 +5022,7 @@
 <id>1</id>
 </LM>
 </discourse_groups>
+<discourse_comment>wrongTR? proc ma tento podstrom is_parenthesis=1?</discourse_comment>
 <val_frame.rf>v#v-w1981f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s3w24">
@@ -5248,6 +5258,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-005-p5s3w15</LM>
 </t-connectors.rf>
@@ -5557,11 +5568,15 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
+<LM>t-ln95045-005-p5s3w42</LM>
 <LM>t-ln95045-005-p5s3w41</LM>
 </t-connectors.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s3w48">
@@ -5586,6 +5601,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>34</deepord>
+<secondary_NP_type>spec</secondary_NP_type>
 <val_frame.rf>v#v-w6958f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s3w45">

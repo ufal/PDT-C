@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_081.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -699,6 +699,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-081-p1s4w6</LM>
 </t-connectors.rf>
@@ -1147,6 +1148,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930709-081-p1s4w16</LM>
 </a-connectors.rf>
@@ -1496,6 +1498,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-081-p1s6w4</LM>
 </t-connectors.rf>
@@ -2120,6 +2123,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-081-p1s8w10</LM>
 </t-connectors.rf>
@@ -2412,6 +2416,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-081-p1s9w13</LM>
 </t-connectors.rf>
@@ -2642,6 +2647,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-081-p1s10w8</LM>
 </t-connectors.rf>
@@ -2839,6 +2845,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>wrongTR? neni zde spatna hranice vety? ma tento
+uzel patrit do tohoto stromu?</discourse_comment>
 </LM>
 </children>
 </LM>

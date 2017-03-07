@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95048_009.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1314,6 +1314,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-009-p3s1w16</LM>
 </t-connectors.rf>
@@ -1478,18 +1479,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse>
-<LM>
-<target_node.rf>t-ln95048-009-p3s1w16</target_node.rf>
-<type>discourse</type>
-<start_range>0</start_range>
-<target_range>0</target_range>
-<discourse_type>opp</discourse_type>
-<t-connectors.rf>
-<LM>t-ln95048-009-p3s2w4</LM>
-</t-connectors.rf>
-</LM>
-</discourse>
+<secondary_NP_type>conc</secondary_NP_type>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w9661f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-009-p3s2w3">
@@ -2380,6 +2371,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-009-p5s1w26</LM>
 </t-connectors.rf>
@@ -2447,6 +2439,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel PRECED tehdy když</comment>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-009-p5s1w29</LM>
 <LM>a#a-ln95048-009-p5s1w31</LM>
@@ -3023,6 +3017,20 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln95048-009-p5s1w40</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln95048-009-p6s3w17</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-009-p6s3w20">

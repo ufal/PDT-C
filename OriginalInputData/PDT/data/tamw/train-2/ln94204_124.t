@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94204_124.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -416,6 +416,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-124-p2s1Cw1</LM>
 </a-connectors.rf>
@@ -991,6 +992,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-124-p2s2w17</LM>
 </t-connectors.rf>
@@ -1786,6 +1788,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-124-p3s1w26</LM>
 </t-connectors.rf>
@@ -2153,6 +2156,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-124-p3s3w2</LM>
 </t-connectors.rf>
@@ -2315,6 +2319,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-124-p3s3w7</LM>
 </t-connectors.rf>
@@ -2460,6 +2465,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-124-p3s4w5</LM>
 </t-connectors.rf>
@@ -3136,6 +3142,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-124-p3s6w10</LM>
 </t-connectors.rf>
@@ -3666,6 +3673,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR
+špatně nasegmentovaný text,
+16, 17 a 18 tvoří
+dohromady evidentně jednu větu</discourse_comment>
 <children>
 <LM id="t-ln94204-124-p4s2Aw1">
 <a>
@@ -3706,6 +3717,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR
+špatně nasegmentovaný text,
+16, 17 a 18 tvoří
+dohromady evidentně jednu větu</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -3735,6 +3750,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR
+špatně nasegmentovaný text,
+16, 17 a 18 tvoří
+dohromady evidentně jednu větu</discourse_comment>
 <val_frame.rf>v#v-w1855f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-124-p4s2Cw1">
@@ -4128,6 +4147,20 @@
 </gram>
 <tfa>t</tfa>
 <deepord>8</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94204-124-p4s3w3</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94204-124-p4s3w11</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w2608f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-124-p4s3w11">
@@ -4849,6 +4882,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>slabá OPP, ale čistá CONJ
+to není</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-124-p4s7w6</LM>
 </t-connectors.rf>
@@ -4987,6 +5023,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-124-p4s7w16</LM>
 </a-connectors.rf>
@@ -5378,6 +5415,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-124-p4s8w6</LM>
 </t-connectors.rf>

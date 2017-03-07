@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94206_147.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -279,6 +279,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-147-p2s1Bw1</LM>
 </a-connectors.rf>
@@ -807,6 +808,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
+<discourse_comment>wrongTR?
+proč tu není doplněné
+sloveso?</discourse_comment>
 <val_frame.rf>v#v-w5100f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-147-p3s1w9">
@@ -1378,6 +1382,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-147-p3s3w15</LM>
 </t-connectors.rf>

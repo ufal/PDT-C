@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_058.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -888,6 +888,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-lnd94103-058-p1s1Cw7</target_node.rf>
@@ -1341,6 +1342,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-058-p1s4w20</LM>
 </t-connectors.rf>
@@ -1448,6 +1450,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-058-p1s5w12</LM>
 <LM>t-lnd94103-058-p1s5w13</LM>
@@ -1983,6 +1986,7 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-058-p1s7w3</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920925_118.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -52,6 +52,7 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR  -dva nadpisy sloucene do jednoho stromu?</discourse_comment>
 <children>
 <LM id="t-mf920925-118-p1s1w4">
 <a>
@@ -766,6 +767,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-118-p3s1w13</LM>
 <LM>a#a-mf920925-118-p3s1w15</LM>
@@ -1402,6 +1404,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-118-p4s2w2</LM>
 </t-connectors.rf>
@@ -2388,6 +2391,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-118-p5s2w5</LM>
 </t-connectors.rf>

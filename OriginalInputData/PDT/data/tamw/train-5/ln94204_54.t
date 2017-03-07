@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94204_54.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -831,6 +831,24 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94204-54-p2s1Bw8</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln94204-54-p2s3w3</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94204-54-p2s3w3</LM>
+<LM>t-ln94204-54-p2s3w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w7449f3</val_frame.rf>
 <children>
 <LM id="t-ln94204-54-p2s3w3">
@@ -921,6 +939,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<secondary_NP_type>exempl</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94204-54-p2s3w8">
 <a>
@@ -1138,6 +1158,8 @@
 <t_lemma>tak</t_lemma>
 <functor>CM</functor>
 <deepord>18</deepord>
+<discourse_comment>wrongTR? nema byt jiny funktor  -treba MANN?
+A nema tento uzel viset jinde?</discourse_comment>
 </LM>
 <LM id="t-ln94204-54-p2s3w24">
 <a>
@@ -1168,6 +1190,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-54-p2s3w23</LM>
 </t-connectors.rf>
@@ -1586,6 +1609,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-54-p2s4w15</LM>
 </t-connectors.rf>

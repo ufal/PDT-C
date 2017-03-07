@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94210_138.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -696,6 +696,7 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-138-p3s1w2</LM>
 </t-connectors.rf>
@@ -818,6 +819,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-138-p2s2w22</LM>
 <LM>t-ln94210-138-p2s2w23</LM>
@@ -1225,6 +1227,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-138-p2s3w3</LM>
 </t-connectors.rf>
@@ -2493,6 +2496,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-138-p4s2w4</LM>
 </t-connectors.rf>
@@ -3765,6 +3769,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-138-p6s1w3</LM>
 </t-connectors.rf>
@@ -4116,6 +4121,12 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>k přesné interpretaci
+je potřeba znát
+faktické pozadí případu,
+takto interpretace 
+nejasná</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-138-p6s2w3</LM>
 </t-connectors.rf>
@@ -4392,6 +4403,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>opět poněkud
+nejasné bez
+znalostí faktů</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-138-p6s3w3</LM>
 </t-connectors.rf>
@@ -4690,6 +4705,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-138-p6s3w20</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920925_054.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -123,6 +123,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>wrongTR  -spatna segmentace 
+textu (3+4 maji byt 
+dohromady)</discourse_comment>
 <val_frame.rf>v#v-w7929f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-054-p2s2w3">

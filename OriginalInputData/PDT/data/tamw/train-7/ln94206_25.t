@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94206_25.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1365,6 +1365,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-25-p3s1w13</LM>
 </t-connectors.rf>
@@ -1839,6 +1840,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-25-p3s4w1</LM>
 </t-connectors.rf>
@@ -2265,6 +2267,7 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-25-p5s1w2</LM>
 </t-connectors.rf>
@@ -2458,6 +2461,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-25-p4s3w4</LM>
 </t-connectors.rf>
@@ -2552,11 +2556,16 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>vysvětlení příkladem,
+vysvětlení nemá konektor,
+proto anotována exempl</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-25-p4s3w10</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>implicitni REASON/EXPLICAT</discourse_comment>
 <val_frame.rf>v#v-w9810f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-25-p4s3w8">
@@ -2853,6 +2862,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-25-p5s1w7</LM>
 </t-connectors.rf>
@@ -3710,6 +3720,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>lze interpretovat 
+i jako vztah VP a NP
+</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-25-p6s3w17</LM>
 </t-connectors.rf>
@@ -4518,6 +4532,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-25-p7s1w11</LM>
 </t-connectors.rf>

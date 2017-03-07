@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94204_113.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -581,6 +581,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-113-p2s1Cw19</LM>
 </t-connectors.rf>
@@ -1113,6 +1114,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-113-p2s2w21</LM>
 </t-connectors.rf>
@@ -1715,6 +1717,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-113-p3s2w9</LM>
 </t-connectors.rf>
@@ -2665,6 +2668,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-113-p4s2w13</LM>
 </t-connectors.rf>
@@ -3126,6 +3130,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-113-p4s4w3</LM>
 </t-connectors.rf>
@@ -3245,6 +3250,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-113-p4s4w10</LM>
 </a-connectors.rf>
@@ -3692,6 +3698,20 @@
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94204-113-p5s2w3</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94204-113-p5s2w5</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w6374f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-113-p5s2a3">
@@ -3853,6 +3873,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-113-p5s2w16</LM>
 </a-connectors.rf>

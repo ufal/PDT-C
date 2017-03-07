@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_90.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -751,6 +751,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p2s1Ca0</LM>
 <LM>t-ln94207-90-p2s1Cw8</LM>
@@ -1061,11 +1062,20 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
+<LM>t-ln94207-90-p2s1Cw31</LM>
 <LM>t-ln94207-90-p2s1Cw29</LM>
 </t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94207-90-p2s1Cw30</LM>
+<LM>t-ln94207-90-p2s1Cw31</LM>
+<LM>t-ln94207-90-p2s1Cw29</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w1446f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-90-p2s1Ca4">
@@ -1615,6 +1625,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p2s2w26</LM>
 </t-connectors.rf>
@@ -1727,6 +1738,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-90-p2s2w34</LM>
 </a-connectors.rf>
@@ -5552,6 +5564,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>wrongTR  -spatne t-lemma</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p4s6w12">
 <a>
@@ -5844,11 +5857,13 @@
 <start_range>3</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p4s7w11</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR? proc je zde doplneno sloveso?</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p4s7w13">
 <a>
@@ -6116,6 +6131,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-90-p4s8w14</LM>
 </a-connectors.rf>
@@ -7150,6 +7166,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p4s9w27</LM>
 </t-connectors.rf>
@@ -7197,6 +7214,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>23</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
+s anotaci ADVS na TR</discourse_comment>
 </LM>
 <LM id="t-ln94207-90-p4s9a4">
 <nodetype>qcomplex</nodetype>
@@ -7325,6 +7344,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p4s9w37</LM>
 </t-connectors.rf>
@@ -7536,6 +7556,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p4s9w54</LM>
 </t-connectors.rf>
@@ -7592,6 +7613,8 @@
 <t_lemma>buď_nebo</t_lemma>
 <functor>DISJ</functor>
 <deepord>65</deepord>
+<discourse_comment>wrongTR? t-lemma je bud_nebo, ale v textu neni
+zadne nebo (to "aneb" uz visi jinde ve strome)</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p4s9a12">
 <a>
@@ -7835,6 +7858,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-90-p4s9w61</LM>
 <LM>a#a-ln94207-90-p4s9w70</LM>
@@ -7983,6 +8007,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-90-p4s9w80</LM>
 </a-connectors.rf>
@@ -8142,6 +8167,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-90-p4s9w90</LM>
 </a-connectors.rf>
@@ -8994,6 +9020,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p5s3w8</LM>
 </t-connectors.rf>
@@ -9203,6 +9230,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p5s3w22</LM>
 </t-connectors.rf>
@@ -9744,6 +9772,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-90-p5s6w12</LM>
 </a-connectors.rf>
@@ -9866,6 +9895,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+<discourse_comment>secondary? nedlouho předtím</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p5s6w9">
 <a>
@@ -10942,6 +10972,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p6s3w1</LM>
 </t-connectors.rf>
@@ -11130,6 +11161,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p6s3w9</LM>
 </t-connectors.rf>
@@ -11520,6 +11552,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p6s4w1</LM>
 </t-connectors.rf>
@@ -11707,6 +11740,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p6s4a0</LM>
 <LM>t-ln94207-90-p6s4w4</LM>
@@ -11934,6 +11968,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-90-p6s4w23</LM>
 </a-connectors.rf>
@@ -12502,6 +12537,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-90-p6s5w11</LM>
 </a-connectors.rf>
@@ -12681,6 +12717,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p6s5w24</LM>
 </t-connectors.rf>
@@ -12978,11 +13015,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p6s6w12</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR? nema tento uzel odkazovat take na 
+"bychom"?</discourse_comment>
 <val_frame.rf>v#v-w5355f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-90-p6s6w17">
@@ -13168,6 +13208,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p6s6w31</LM>
 </t-connectors.rf>
@@ -13709,6 +13750,8 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>15</deepord>
+<discourse_comment>wrongTR? nemelo by v tomto strome byt jenom
+jedno "a" a na nem vsechny predikaty?</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p7s3w7">
 <a>
@@ -13839,6 +13882,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p7s3w7</LM>
 </t-connectors.rf>
@@ -14013,6 +14057,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p7s3w16</LM>
 </t-connectors.rf>
@@ -14582,6 +14627,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-90-p7s6w1</LM>
 </a-connectors.rf>
@@ -15085,6 +15131,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p8s1w9</LM>
 </t-connectors.rf>
@@ -15597,6 +15644,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle me
+to neni PREC</discourse_comment>
 </LM>
 <LM id="t-ln94207-90-p8s3Aa7">
 <nodetype>qcomplex</nodetype>
@@ -15784,6 +15833,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-90-p8s3Aw15</LM>
 </a-connectors.rf>
@@ -15942,6 +15992,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p8s3Aw27</LM>
 </t-connectors.rf>
@@ -16425,6 +16476,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p8s3Ba0</LM>
 </t-connectors.rf>
@@ -16590,6 +16642,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p8s3Bw20</LM>
 </t-connectors.rf>
@@ -16661,6 +16714,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p8s3Bw23</LM>
 </t-connectors.rf>
@@ -17570,6 +17624,8 @@
 <t_lemma>kdežto</t_lemma>
 <functor>CONFR</functor>
 <deepord>6</deepord>
+<discourse_comment>wrongTR? proc jsou tady z nasledujici vety
+jenom tecky?</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p9s3Aw3">
 <a>
@@ -17598,6 +17654,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p9s3Aw2</LM>
 </t-connectors.rf>
@@ -17703,6 +17760,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p9s3Aw8</LM>
 </t-connectors.rf>
@@ -18166,6 +18224,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p10s1w17</LM>
 </t-connectors.rf>
@@ -18565,6 +18624,20 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94207-90-p10s2w4</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94207-90-p10s2w1</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w8670f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-90-p10s2w3">
@@ -19169,6 +19242,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>7</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p10s4w4">
 <a>
@@ -19200,6 +19274,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p10s4w2</LM>
 </t-connectors.rf>
@@ -19892,6 +19967,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR? spatna segmentace? text konci strednikem</discourse_comment>
 <val_frame.rf>v#v-w3987f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-90-p10s7a0">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94203_128.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -418,6 +418,7 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary? maximálně</discourse_comment>
 </LM>
 <LM id="t-ln94203-128-p2s2a0">
 <nodetype>qcomplex</nodetype>
@@ -1749,6 +1750,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-128-p4s3w11</LM>
 <LM>t-ln94203-128-p4s3w14</LM>
@@ -1790,6 +1792,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>arg1 je infinitiv</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94203-128-p4s2w5</target_node.rf>
@@ -2391,6 +2394,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-128-p4s4w23</LM>
 </t-connectors.rf>
@@ -3596,6 +3600,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-128-p6s1w9</LM>
 </t-connectors.rf>
@@ -3795,6 +3800,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-128-p6s2a0</LM>
 <LM>t-ln94203-128-p6s3w3</LM>
@@ -4107,6 +4113,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-128-p6s3w21</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95045_055.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -331,6 +331,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-055-p2s1Bw14</LM>
 </t-connectors.rf>
@@ -641,6 +642,8 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>podle me spojuje NP ("poznatky", veta 3) a vetu 4,
+proto neanotuju</discourse_comment>
 </LM>
 <LM id="t-ln95045-055-p2s2a0">
 <nodetype>atom</nodetype>
@@ -679,6 +682,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-055-p2s2w10</LM>
 <LM>t-ln95045-055-p2s2a0</LM>
@@ -884,6 +888,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-055-p2s3w4</LM>
 </t-connectors.rf>
@@ -976,6 +981,8 @@
 <t_lemma>nýbrž</t_lemma>
 <functor>ADVS</functor>
 <deepord>18</deepord>
+<discourse_comment>wrongTR? nema se to anotovat jako elipsa slovesa?
+Pak bych značila diskurzni vztah corr.</discourse_comment>
 <children>
 <LM id="t-ln95045-055-p2s3w6">
 <a>
@@ -1740,6 +1747,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-055-p3s2w20</LM>
 </t-connectors.rf>
@@ -2371,6 +2379,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-055-p4s1w22</LM>
 </t-connectors.rf>
@@ -2522,6 +2531,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -zda se 
+mi, ze to neni diskurzni konektor</discourse_comment>
 </LM>
 <LM id="t-ln95045-055-p4s2w6">
 <a>
@@ -2659,6 +2670,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle me
+by slo o vztah NP ("napadite triky", veta 9) a 
+veta 10.</discourse_comment>
 </LM>
 <LM id="t-ln95045-055-p4s3w2">
 <a>
@@ -3041,6 +3055,7 @@
 <start_range>0</start_range>
 <target_range>7</target_range>
 <discourse_type>gener</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-055-p4s4w5</LM>
 </t-connectors.rf>
@@ -3371,6 +3386,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95045-055-p4s5w3</LM>
 </a-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_027.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -520,6 +520,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-027-p2s2w11</LM>
 </t-connectors.rf>
@@ -596,6 +597,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-027-p2s2w15</LM>
 </a-connectors.rf>
@@ -964,6 +966,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-027-p2s3w2</LM>
 </t-connectors.rf>
@@ -1301,6 +1304,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-027-p2s4w8</LM>
 </t-connectors.rf>
@@ -1505,6 +1509,30 @@
 </gram>
 <tfa>f</tfa>
 <deepord>18</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-mf920922-027-p2s4w30</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<comment>Regard</comment>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-mf920922-027-p2s4w23</LM>
+<LM>a#a-mf920922-027-p2s4w24</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-mf920922-027-p2s4w23</LM>
+<LM>a#a-mf920922-027-p2s4w24</LM>
+<LM>a#a-mf920922-027-p2s4w25</LM>
+<LM>a#a-mf920922-027-p2s4w26</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-mf920922-027-p2s4w27</LM>
+</t-connectors_ext.rf>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-027-p2s4w18">
@@ -1616,6 +1644,10 @@
 </LM>
 </quot>
 <deepord>25</deepord>
+<discourse_comment>divna forma, ale EXPLICAT 
+je dle meho nazoru nejblize
+(vysvetleni, proc je to neumerne 
+vysoke)</discourse_comment>
 <children>
 <LM id="t-mf920922-027-p2s4w28">
 <a>
@@ -1739,6 +1771,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-027-p2s4w30</LM>
 </t-connectors.rf>
@@ -2846,6 +2879,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-027-p2s7w2</LM>
 </t-connectors.rf>
@@ -2980,6 +3014,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-027-p2s7w5</LM>
 </t-connectors.rf>
@@ -3219,6 +3254,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-027-p2s7w14</LM>
 </t-connectors.rf>
@@ -3758,6 +3794,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-027-p2s9w8</LM>
 </t-connectors.rf>
@@ -5247,11 +5284,15 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-027-p3s3w9</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>totiž zde může znamenat
+i něco jako "jak možná nevíte",
+pak by se jednalo o one_arg </discourse_comment>
 <val_frame.rf>v#v-w9504f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-027-p3s3w9">
@@ -5615,6 +5656,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-027-p3s4w13</LM>
 </t-connectors.rf>
@@ -6070,6 +6112,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-027-p3s5w7</LM>
 </t-connectors.rf>
@@ -6389,6 +6432,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-027-p3s5w25</LM>
 </t-connectors.rf>
@@ -6537,18 +6581,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>26</deepord>
-<discourse>
-<LM>
-<target_node.rf>t-mf920922-027-p3s5w28</target_node.rf>
-<type>discourse</type>
-<start_range>0</start_range>
-<target_range>0</target_range>
-<discourse_type>conj</discourse_type>
-<t-connectors.rf>
-<LM>t-mf920922-027-p3s5w31</LM>
-</t-connectors.rf>
-</LM>
-</discourse>
+<secondary_NP_type>explicat</secondary_NP_type>
 <val_frame.rf>v#v-w9661f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-027-p3s5w31">
@@ -6717,6 +6750,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-mf920922-027-p3s6Aw3">
 <a>
@@ -7205,6 +7239,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-027-p3s6Aw26</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_031.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -73,6 +73,8 @@
 <tfa>f</tfa>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>kolekce; spatna 
+segmentace textu</discourse_comment>
 </LM>
 <LM id="t-mf920922-031-p1s1w20">
 <a>

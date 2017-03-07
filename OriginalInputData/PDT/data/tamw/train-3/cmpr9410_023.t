@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9410_023.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -35,6 +35,9 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>kolekce, představení
+dvou knih z ekonomické
+oblasti</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -169,6 +172,12 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
+<discourse_comment>dvojtečka na konci této věty
+neanotována jako diskurzní 
+konektor, vztahy mezi touto
+strukturou a následujícími
+dvěma jsou již příliš 
+implicitní</discourse_comment>
 <val_frame.rf>v#v-w2163f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-023-p4s1Aw1">
@@ -1592,6 +1601,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem například</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-023-p5s1w3</LM>
 </t-connectors.rf>
@@ -2010,6 +2021,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-023-p5s2Aw1</LM>
 </a-connectors.rf>
@@ -2540,6 +2552,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-023-p5s2Bw9</LM>
 </t-connectors.rf>
@@ -3097,6 +3110,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-023-p5s2Dw1</LM>
 </a-connectors.rf>
@@ -4415,6 +4429,7 @@
 <LM>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-023-p8s4w2</LM>
 </t-connectors.rf>
@@ -4425,6 +4440,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w8746f1</val_frame.rf>
@@ -4672,6 +4688,7 @@
 <target_node.rf>t-cmpr9410-023-p8s4w4</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-023-p8s5w1</LM>
 </t-connectors.rf>
@@ -4692,6 +4709,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR 
+proč tu není elipsa za část?</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-cmpr9410-023-p8s3w5</target_node.rf>
@@ -4926,6 +4945,7 @@
 <target_node.rf>t-cmpr9410-023-p8s5w3</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-023-p8s6w1</LM>
 </t-connectors.rf>
@@ -5079,6 +5099,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-023-p8s6w7</LM>
 </t-connectors.rf>

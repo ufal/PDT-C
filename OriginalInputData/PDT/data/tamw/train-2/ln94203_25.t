@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94203_25.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -412,6 +412,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-25-p2s2w6</LM>
 </t-connectors.rf>
@@ -751,6 +752,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>divná REASON, ale
+ze všech možností
+mi přijde nejpřesnější
+právě ona</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-25-p2s2w24</LM>
 </t-connectors.rf>
@@ -761,6 +767,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94203-25-p2s2w29</LM>
 <LM>t-ln94203-25-p2s2w30</LM>
@@ -1336,6 +1343,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94203-25-p3s1w6</LM>
 <LM>t-ln94203-25-p3s1w7</LM>
@@ -2437,6 +2445,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-25-p3s3w15</LM>
 </t-connectors.rf>
@@ -2575,6 +2584,13 @@
 <start_range>0</start_range>
 <target_range>3</target_range>
 <discourse_type>gener</discourse_type>
+<comment>široké vyplývání,
+zde nejblíž gener,
+paragraph</comment>
+<src>pdit10</src>
+<t-connectors.rf>
+<LM>t-ln94203-25-p4s1w3</LM>
+</t-connectors.rf>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w9378f1</val_frame.rf>
@@ -2860,6 +2876,7 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94203-25-p4s2a0">
 <nodetype>atom</nodetype>
@@ -3423,6 +3440,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-25-p4s3w17</LM>
 <LM>a#a-ln94203-25-p4s3w15</LM>
@@ -3601,6 +3619,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-25-p5s1w3</LM>
 </a-connectors.rf>
@@ -4177,6 +4196,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-25-p5s2w3</LM>
 </a-connectors.rf>
@@ -4221,6 +4241,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>paragraph
+není ale na začátku odstavce,
+možný dosah 4-11</discourse_comment>
 </LM>
 <LM id="t-ln94203-25-p5s2w13">
 <a>
@@ -5375,6 +5398,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-25-p6s2w14</LM>
 </t-connectors.rf>

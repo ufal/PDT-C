@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94210_66.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -607,6 +607,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-66-p2s2w11</LM>
 </t-connectors.rf>
@@ -792,6 +793,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-66-p2s3w1</LM>
 </a-connectors.rf>
@@ -916,6 +918,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>8</deepord>
+<discourse_comment>neznacim, nebot vztah mezi "poklesnout" 
+a "stoupnout" je vyjadren uz funktorem 
+CONTRD</discourse_comment>
 </LM>
 <LM id="t-ln94210-66-p2s3w12">
 <a>
@@ -1819,6 +1824,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-66-p2s8w9</LM>
 </t-connectors.rf>

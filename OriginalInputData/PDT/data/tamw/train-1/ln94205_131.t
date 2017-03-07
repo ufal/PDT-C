@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94205_131.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -677,6 +677,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-131-p2s3w12</LM>
 <LM>t-ln94205-131-p2s3w13</LM>
@@ -688,6 +689,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-131-p2s1Ca1</LM>
 <LM>t-ln94205-131-p2s3w3</LM>
@@ -1421,6 +1423,7 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-131-p2s4w21</LM>
 </a-connectors.rf>
@@ -1457,6 +1460,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-131-p2s4w22</LM>
 </a-connectors.rf>
@@ -1920,6 +1924,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-131-p2s6Aw8</LM>
 </a-connectors.rf>
@@ -2372,6 +2377,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>5</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94205-131-p3s2w1">
 <a>
@@ -2400,6 +2406,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-131-p3s2w4</LM>
 </t-connectors.rf>
@@ -2585,6 +2592,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-131-p3s2w12</LM>
 </t-connectors.rf>
@@ -3103,6 +3111,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-131-p5s3w5</LM>
 </t-connectors.rf>
@@ -3376,6 +3385,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-131-p5s2w19</LM>
 </a-connectors.rf>
@@ -3511,6 +3521,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-131-p5s3w1</LM>
 </a-connectors.rf>
@@ -3991,6 +4002,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-131-p5s4w1</LM>
 </a-connectors.rf>
@@ -4182,6 +4194,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-131-p5s4w15</LM>
 </t-connectors.rf>
@@ -4519,6 +4532,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-131-p7s2w4</LM>
 <LM>t-ln94205-131-p7s2w5</LM>
@@ -4598,6 +4612,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<comment>sporná anotace
+wrongTR? jde vnímat
+jako způsobová věta</comment>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-131-p7s2w10</LM>
 </a-connectors.rf>
@@ -4697,6 +4715,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-131-p7s2w14</LM>
 <LM>t-ln94205-131-p7s2w15</LM>
@@ -4803,6 +4822,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-131-p7s4w2</LM>
 </t-connectors.rf>

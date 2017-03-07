@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_142.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -2164,6 +2164,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>6</deepord>
+<discourse_comment>wrongTR? proc "ještě před čtvrtstoletím" nerozviji
+oba predikaty?</discourse_comment>
 </LM>
 <LM id="t-mf930709-142-p4s1w9">
 <a>
@@ -2260,6 +2262,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-142-p4s1w14</LM>
 <LM>t-mf930709-142-p4s1w8</LM>
@@ -2354,6 +2357,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-142-p4s2w2</LM>
 </t-connectors.rf>
@@ -2549,6 +2553,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-142-p4s2w11</LM>
 </t-connectors.rf>
@@ -3784,6 +3789,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-142-p5s1w24</LM>
 </t-connectors.rf>
@@ -4140,6 +4146,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-142-p5s3w2</LM>
 <LM>t-mf930709-142-p5s3w3</LM>
@@ -6188,6 +6195,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
+<discourse_comment>wrongTR? nema tento podstrom viset jako spolecne
+rozviti uzlu "hranice" a "tvar"?</discourse_comment>
 <val_frame.rf>v#v-w8984f1</val_frame.rf>
 <children>
 <LM id="t-mf930709-142-p7s1w12">
@@ -6440,9 +6449,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
-<t-connectors.rf>
+<src>pdit10</src>
+<a-connectors.rf>
+<LM>a#a-mf930709-142-p7s2w1</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
 <LM>t-mf930709-142-p7s2w2</LM>
-</t-connectors.rf>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w243f193_MM</val_frame.rf>
@@ -6605,6 +6619,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-142-p7s2w12</LM>
 </t-connectors.rf>
@@ -6869,6 +6884,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-142-p7s3w3</LM>
 <LM>t-mf930709-142-p7s3w6</LM>
@@ -7855,6 +7871,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-142-p8s1w4</LM>
 </t-connectors.rf>
@@ -8071,6 +8088,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-142-p8s1w11</LM>
 </t-connectors.rf>
@@ -8356,6 +8374,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-142-p8s1w23</LM>
 </t-connectors.rf>
@@ -8592,6 +8611,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-142-p9s1w6</LM>
 </t-connectors.rf>
@@ -8806,6 +8826,33 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-mf930709-142-p9s2w22</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conc</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-mf930709-142-p9s2w1</LM>
+<LM>a#a-mf930709-142-p9s2w2</LM>
+<LM>a#a-mf930709-142-p9s2w3</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-mf930709-142-p9s2w1</LM>
+<LM>a#a-mf930709-142-p9s2w2</LM>
+<LM>a#a-mf930709-142-p9s2w3</LM>
+<LM>a#a-mf930709-142-p9s2w4</LM>
+<LM>a#a-mf930709-142-p9s2w5</LM>
+<LM>a#a-mf930709-142-p9s2w6</LM>
+</a-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
+<discourse_comment>lze chapat i jako CONFR, ale 
+ja tu vidim spise CONC 
+(ackoli si nekteri mysli ... je o ...)</discourse_comment>
 <val_frame.rf>v#v-w1920f1</val_frame.rf>
 <children>
 <LM id="t-mf930709-142-p9s2w9">

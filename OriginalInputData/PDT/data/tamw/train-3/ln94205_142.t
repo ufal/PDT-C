@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94205_142.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -931,6 +931,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w9418f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-142-p3s2w2">
@@ -1345,6 +1347,8 @@
 <start_range>0</start_range>
 <target_range>2</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem například</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-142-p4s1w3</LM>
 </t-connectors.rf>
@@ -1817,6 +1821,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-142-p4s3w5</LM>
 </t-connectors.rf>
@@ -2217,6 +2222,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-142-p4s4w5</LM>
 </a-connectors.rf>

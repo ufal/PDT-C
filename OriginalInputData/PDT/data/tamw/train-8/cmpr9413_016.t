@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9413_016.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -37,6 +37,7 @@
 <functor>APPS</functor>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>adept na seznam</discourse_comment>
 <children>
 <LM id="t-cmpr9413-016-p2s1w1">
 <a>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94208_42.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -797,6 +797,11 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_comment>one_arg,
+zřejmě se tu vysvětluje,
+proč se čekalo, že budou 
+incidenty, ale zcela jasné
+to není</discourse_comment>
 </LM>
 <LM id="t-ln94208-42-p2s2a0">
 <nodetype>qcomplex</nodetype>
@@ -897,6 +902,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-42-p2s2w14</LM>
 </t-connectors.rf>
@@ -1213,6 +1219,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-42-p2s3a2</LM>
 </t-connectors.rf>

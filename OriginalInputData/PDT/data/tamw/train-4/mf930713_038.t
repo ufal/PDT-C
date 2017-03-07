@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930713_038.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -2244,6 +2244,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neanotuji  -je to anafora, 
+nezaklada vyznamovy 
+diskurzni vztah</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-mf930713-038-p2s9w21</target_node.rf>

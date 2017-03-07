@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_17.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -305,6 +305,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-17-p2s1w10</LM>
 </t-connectors.rf>
@@ -555,6 +556,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-17-p2s1w25</LM>
 </t-connectors.rf>
@@ -756,6 +758,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-17-p2s1w40</LM>
 </t-connectors.rf>
@@ -1230,6 +1233,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94207-17-p3s1w1">
 <a>
@@ -1762,6 +1766,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-17-p3s2w5</LM>
 </t-connectors.rf>
@@ -2223,6 +2228,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-17-p4s1w7</LM>
 </t-connectors.rf>
@@ -2824,6 +2830,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-17-p4s3w9</LM>
 </t-connectors.rf>
@@ -3139,6 +3146,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-17-p5s2w1</LM>
 <LM>a#a-ln94207-17-p5s2w2</LM>
@@ -4150,6 +4158,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-17-p5s4w36</LM>
 </t-connectors.rf>
@@ -5047,6 +5056,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-17-p6s2w24</LM>
 </t-connectors.rf>
@@ -5142,6 +5152,7 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-17-p6s3w2</LM>
 </t-connectors.rf>
@@ -5661,6 +5672,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>nestandardně 
+(a jakoby navíc)
+užité však</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-17-p6s4w2</LM>
 </t-connectors.rf>
@@ -6375,6 +6390,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-17-p6s5w10</LM>
 </t-connectors.rf>
@@ -6535,6 +6551,10 @@
 <start_range>0</start_range>
 <target_range>4</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
+<t-connectors.rf>
+<LM>t-ln94207-17-p7s1w2</LM>
+</t-connectors.rf>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w1339f1</val_frame.rf>
@@ -7122,6 +7142,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-17-p7s2w30</LM>
 </t-connectors.rf>
@@ -7157,6 +7178,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-17-p7s2w31</LM>
 </a-connectors.rf>
@@ -7455,6 +7477,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-17-p7s3w1</LM>
 </t-connectors.rf>
@@ -8312,6 +8335,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-17-p8s1w1</LM>
 </a-connectors.rf>

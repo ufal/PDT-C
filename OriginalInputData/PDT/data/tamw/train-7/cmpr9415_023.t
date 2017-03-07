@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9415_023.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -833,6 +833,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-023-p5s1w5</LM>
 </t-connectors.rf>
@@ -1798,6 +1799,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-cmpr9415-023-p6s1w4</target_node.rf>
@@ -2031,6 +2033,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-023-p7s2w6</LM>
 </t-connectors.rf>
@@ -2625,6 +2628,7 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR? nemaji byt 13 a 14 jeden strom?</discourse_comment>
 <children>
 <LM id="t-cmpr9415-023-p7s4w3">
 <a>
@@ -2835,6 +2839,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9415-023-p8s1w9</LM>
 </a-connectors.rf>
@@ -2972,6 +2977,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9415-023-p8s1w17</LM>
 </a-connectors.rf>

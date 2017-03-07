@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95049_129.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -678,6 +678,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-129-p2s2w6</LM>
 </t-connectors.rf>
@@ -1383,6 +1384,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-129-p2s4w13</LM>
 </a-connectors.rf>
@@ -1780,6 +1782,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-129-p3s1w21</LM>
 </t-connectors.rf>
@@ -2915,6 +2918,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-129-p4s2w13</LM>
 </t-connectors.rf>
@@ -2989,6 +2993,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>7</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95049-129-p4s3w4">
 <a>
@@ -3087,6 +3092,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>secondary následující</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -3405,6 +3411,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-129-p4s3w22</LM>
 </t-connectors.rf>
@@ -3756,6 +3763,7 @@
 </quot>
 <tfa>t</tfa>
 <deepord>14</deepord>
+<discourse_comment>one_arg (odkazuje do jineho textu)</discourse_comment>
 </LM>
 <LM id="t-ln95049-129-p5s1w21">
 <a>
@@ -4516,6 +4524,7 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>vztah NP a VP</discourse_comment>
 </LM>
 <LM id="t-ln95049-129-p5s3w5">
 <a>
@@ -4835,6 +4844,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-129-p5s3w20</LM>
 </t-connectors.rf>
@@ -5174,6 +5184,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-129-p5s4w18</LM>
 </t-connectors.rf>
@@ -5317,6 +5328,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>secondary Jiným důležitým poznatkem je...</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln95049-129-p6s1w3">
@@ -5903,13 +5915,22 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
+<a-connectors.rf>
+<LM>a#a-ln95049-129-p6s2w15</LM>
+</a-connectors.rf>
 <t-connectors.rf>
-<LM>t-ln95049-129-p6s2w1</LM>
 <LM>t-ln95049-129-p6s2w14</LM>
-<LM>t-ln95049-129-p6s2w16</LM>
 </t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln95049-129-p6s2w16</LM>
+<LM>t-ln95049-129-p6s2w14</LM>
+<LM>t-ln95049-129-p6s2w1</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln95049-129-p6s2w16">

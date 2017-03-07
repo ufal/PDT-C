@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94206_103.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -236,6 +236,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-103-p2s1w1</LM>
 </a-connectors.rf>
@@ -409,6 +410,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-103-p2s1w9</LM>
 </t-connectors.rf>
@@ -797,6 +799,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-103-p2s2w11</LM>
 </t-connectors.rf>
@@ -1154,6 +1157,24 @@
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94206-103-p2s4w4</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>cond</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln94206-103-p2s4w3</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94206-103-p2s4w3</LM>
+<LM>t-ln94206-103-p2s4w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-103-p2s3w22">
@@ -1642,6 +1663,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-103-p2s5w2</LM>
 </t-connectors.rf>
@@ -1677,6 +1699,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-103-p2s5w1</LM>
 </a-connectors.rf>
@@ -2209,6 +2232,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>je tam i něco z CONFR,
+ale je to málo syntakticky 
+paralelní</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-103-p2s7w13</LM>
 </t-connectors.rf>
@@ -2702,6 +2729,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>konektor rhem dokonce</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-103-p2s8w1</LM>
 </t-connectors.rf>
@@ -2888,6 +2917,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-103-p2s8w12</LM>
 </t-connectors.rf>
@@ -2992,6 +3022,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94206-103-p3s1w6">
 <a>
@@ -3107,6 +3138,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-103-p3s1w12</LM>
 </a-connectors.rf>
@@ -3618,6 +3650,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-103-p3s3w7</LM>
 </t-connectors.rf>
@@ -3812,6 +3845,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-103-p4s1w3</LM>
 </t-connectors.rf>
@@ -4029,6 +4063,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem například</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-103-p4s2w4</LM>
 </t-connectors.rf>
@@ -4379,6 +4415,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94206-103-p4s3w2">
 <a>
@@ -4463,6 +4500,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-103-p4s3w7</LM>
 </t-connectors.rf>

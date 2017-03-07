@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9413_031.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -398,6 +398,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-031-p5s2w1</LM>
 </t-connectors.rf>
@@ -607,6 +608,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-031-p5s1w12</LM>
 </t-connectors.rf>
@@ -1505,6 +1507,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-031-p7s2w9</LM>
 <LM>t-cmpr9413-031-p7s2a0</LM>
@@ -2001,6 +2004,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-031-p7s4w21</LM>
 </t-connectors.rf>
@@ -2036,6 +2040,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-031-p7s4w1</LM>
 </a-connectors.rf>
@@ -3772,6 +3777,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-031-p9s4w9</LM>
 </t-connectors.rf>
@@ -3788,6 +3794,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>neznačím u tohoto konektoru 
+vztah, nebot jde podle 
+me o tak = timto zpusobem</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-031-p9s4w10">
 <a>
@@ -4281,6 +4290,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-031-p9s7w1</LM>
 </t-connectors.rf>
@@ -5574,6 +5584,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-031-p10s2w18</LM>
 </t-connectors.rf>
@@ -5761,6 +5772,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>Neznacim: podle me je tohle vztah 
+jiz na tektogramatice oznacene 
+podminky  -jestlize-tak, jestlize-pak, 
+jestlize-potom. </discourse_comment>
 </LM>
 <LM id="t-cmpr9413-031-p10s3w6">
 <a>
@@ -5790,6 +5805,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-031-p10s3w1</LM>
 </a-connectors.rf>
@@ -6556,6 +6572,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-031-p11s2w12</LM>
 <LM>t-cmpr9413-031-p11s2w5</LM>
@@ -7082,6 +7099,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-031-p13s1w1</LM>
 </a-connectors.rf>
@@ -7446,6 +7464,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-031-p13s2w5">
 <a>
@@ -8347,6 +8367,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-031-p15s1w4</LM>
 </t-connectors.rf>
@@ -8533,6 +8554,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-031-p15s1w11</LM>
 </t-connectors.rf>

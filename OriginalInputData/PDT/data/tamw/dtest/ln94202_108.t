@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_108.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -366,6 +366,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-108-p2s2w2</LM>
 </t-connectors.rf>
@@ -1172,6 +1173,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-108-p3s2w15</LM>
 <LM>t-ln94202-108-p3s2w18</LM>
@@ -1770,6 +1772,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-108-p3s3w15</LM>
 </t-connectors.rf>
@@ -2736,6 +2739,11 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
+<discourse_comment>wrongTR,
+měla by být
+souřadná struktura 
+visící na čárce
+a celá na EmpVerb</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-108-p4s2w10">
@@ -2753,6 +2761,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-108-p4s2w2</LM>
 <LM>a#a-ln94202-108-p4s2w1</LM>
@@ -2764,6 +2773,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-108-p4s2w2</LM>
 <LM>a#a-ln94202-108-p4s2w1</LM>
@@ -2919,6 +2929,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-108-p4s2w10</LM>
 </t-connectors.rf>
@@ -3275,6 +3286,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-108-p4s3w6</LM>
 </t-connectors.rf>

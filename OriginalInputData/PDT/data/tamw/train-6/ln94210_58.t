@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94210_58.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -538,6 +538,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <compl.rf>
 <LM>t-ln94210-58-p2s2w4</LM>
 </compl.rf>
@@ -1437,6 +1438,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-58-p4s2w3</LM>
 <LM>t-ln94210-58-p4s3w4</LM>
@@ -1530,6 +1532,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-58-p4s2w5</LM>
 </t-connectors.rf>
@@ -1680,6 +1683,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
+s anotaci CNCS na TR</discourse_comment>
 </LM>
 <LM id="t-ln94210-58-p4s3w10">
 <a>
@@ -1720,6 +1725,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-58-p4s3w1</LM>
 <LM>a#a-ln94210-58-p4s3w2</LM>
@@ -1917,6 +1923,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-58-p4s4w1</LM>
 <LM>t-ln94210-58-p4s4w2</LM>
@@ -3123,6 +3130,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-58-p6s3w12</LM>
 </t-connectors.rf>
@@ -3901,6 +3909,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle me
+to je spis MANN</discourse_comment>
 </LM>
 <LM id="t-ln94210-58-p8s1a0">
 <nodetype>complex</nodetype>
@@ -4142,6 +4152,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-58-p8s1w10</LM>
 </t-connectors.rf>
@@ -4701,6 +4712,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-58-p8s2w13</LM>
 </t-connectors.rf>
@@ -4980,6 +4992,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-58-p8s3w8</LM>
 </t-connectors.rf>

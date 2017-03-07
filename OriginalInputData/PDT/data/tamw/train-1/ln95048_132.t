@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95048_132.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -456,6 +456,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-132-p2s1Bw17</LM>
 </t-connectors.rf>
@@ -1583,6 +1584,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR  -nemá Uhlíř viset na "ale" a rozvíjet 
+oba predikáty?</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln95048-132-p2s2w9</target_node.rf>
@@ -1672,6 +1675,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-132-p2s5w10</LM>
 </t-connectors.rf>
@@ -1866,6 +1870,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-132-p2s6w7</LM>
 </a-connectors.rf>
@@ -2033,6 +2038,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-132-p2s6w20</LM>
 </a-connectors.rf>

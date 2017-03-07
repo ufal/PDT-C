@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9410_039.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -36,6 +36,10 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>zřejmě vypadly řádky
+(viz cmpr9410_029)
+OSKAR 
+za mimořádný výkon</discourse_comment>
 <children>
 <LM id="t-cmpr9410-039-p1s1w1">
 <a>
@@ -863,6 +867,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-039-p1s4w1</LM>
 <LM>t-cmpr9410-039-p1s4w2</LM>
@@ -874,6 +879,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-039-p1s4w18</LM>
 </t-connectors.rf>

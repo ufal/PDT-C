@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95046_068.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -464,6 +464,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-068-p2s1Bw19</LM>
 </t-connectors.rf>
@@ -876,6 +877,12 @@
 <t_lemma>ale</t_lemma>
 <functor>ADVS</functor>
 <deepord>16</deepord>
+<discourse_comment>wrongTR? nemelo by "ale" viset na "připravenost"
+a na "ale" by nemelo viset "obnovit" a doplnene 
+"obnovit"?
+Tady neanotuju restr, protoze se mi zda, ze by 
+to nebyl diskurzni vztah  -ze by to bylo mezi 
+"obnovit" a doplnenym "obnovit"</discourse_comment>
 <children>
 <LM id="t-ln95046-068-p2s3w1">
 <a>
@@ -1255,6 +1262,11 @@
 </gram>
 <tfa>f</tfa>
 <deepord>20</deepord>
+<discourse_comment>neznacim, protoze leva strana 
+by bylo NP (obnovit), ale neni 
+to podmet, coz pak tedy neni 
+podle nasich pravidel pro NP 
+v ramci jedne vety</discourse_comment>
 <children>
 <LM id="t-ln95046-068-p2s3w26">
 <a>

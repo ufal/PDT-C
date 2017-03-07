@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94203_14.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1742,6 +1742,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>proč tahle věta nemá tečku?
+asi to není nadpis</discourse_comment>
 <val_frame.rf>v#v-w8756f2</val_frame.rf>
 <children>
 <LM id="t-ln94203-14-p3s4w2">
@@ -2076,6 +2078,24 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94203-14-p4s1w2</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln94203-14-p4s1w11</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94203-14-p4s1w11</LM>
+<LM>t-ln94203-14-p4s1w10</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-ln94203-14-p4s2w1">
 <a>
@@ -2259,6 +2279,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-14-p4s2w11</LM>
 </t-connectors.rf>
@@ -2472,6 +2493,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>velká mezera mezi
+argumenty  -proč je
+to důležité, že dokáže
+pružně reagovat,
+lze vnímat i jako vztah
+s NP  -velké výkyvy -
+jak vznikají</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-14-p4s3w5</LM>
 </t-connectors.rf>

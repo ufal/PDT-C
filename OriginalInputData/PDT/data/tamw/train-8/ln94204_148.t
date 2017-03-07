@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94204_148.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1062,6 +1062,8 @@
 <t_lemma>nebo</t_lemma>
 <functor>DISJ</functor>
 <deepord>13</deepord>
+<discourse_comment>wrongTR  -spatne zaznacena 
+veta</discourse_comment>
 <children>
 <LM id="t-ln94204-148-p2s5a0">
 <nodetype>qcomplex</nodetype>
@@ -1307,6 +1309,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-148-p2s5w17</LM>
 </t-connectors.rf>

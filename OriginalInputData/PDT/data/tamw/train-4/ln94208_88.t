@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94208_88.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -563,6 +563,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-88-p2s2w15</LM>
 </t-connectors.rf>
@@ -1264,6 +1265,8 @@
 <t_lemma>#Dash</t_lemma>
 <functor>APPS</functor>
 <deepord>19</deepord>
+<discourse_comment>spec pouze NP, tedy
+?wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94208-88-p3s1w18">
 <a>
@@ -1339,6 +1342,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-88-p3s1w1</LM>
 <LM>a#a-ln94208-88-p3s1w2</LM>
@@ -2040,6 +2044,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-88-p3s3w10</LM>
 </t-connectors.rf>
@@ -2704,6 +2709,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-88-p4s3w9</LM>
 </t-connectors.rf>
@@ -2868,6 +2874,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-88-p4s3w19</LM>
 </t-connectors.rf>
@@ -3576,6 +3583,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-88-p4s4w30</LM>
 <LM>t-ln94208-88-p4s4a0</LM>
@@ -3801,6 +3809,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-88-p4s5w3</LM>
 </a-connectors.rf>
@@ -4547,6 +4556,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-88-p4s5w44</LM>
 </t-connectors.rf>
@@ -5176,6 +5186,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94208-88-p4s7w2">
 <a>
@@ -5370,6 +5381,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-88-p4s7w14</LM>
 </t-connectors.rf>
@@ -5565,6 +5577,7 @@
 <start_range>0</start_range>
 <target_range>7</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-88-p4s9w5</LM>
 </t-connectors.rf>
@@ -5925,6 +5938,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-88-p4s10w12</LM>
 </t-connectors.rf>
@@ -6561,6 +6575,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>konektor rhem ještě
+sémantiku GRAD nese jistě
+i sloveso</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-88-p4s12w3</LM>
 </t-connectors.rf>
@@ -7033,6 +7051,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-88-p4s14w7</LM>
 </t-connectors.rf>
@@ -7229,6 +7248,10 @@
 <start_range>0</start_range>
 <target_range>4</target_range>
 <discourse_type>gener</discourse_type>
+<comment>široké vyplývání,
+nejistá sémantika,
+snad nejblíž je EQUIV</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-88-p4s15w3</LM>
 </t-connectors.rf>
@@ -7365,6 +7388,10 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>wrongTR
+mělo by být rozděleno jinak,
+srov. s ostatními řádky dál, 
+zejména s (26)</discourse_comment>
 <children>
 <LM id="t-ln94208-88-p4s16Aw4">
 <a>

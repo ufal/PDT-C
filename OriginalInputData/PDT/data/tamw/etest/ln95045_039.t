@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95045_039.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -138,6 +138,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR? nema tento uzel mit samostatny strom, 
+neni to neco jako nadpis?</discourse_comment>
 </LM>
 <LM id="t-ln95045-039-p2s1Bw15">
 <a>
@@ -1377,6 +1379,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p3s3w10</LM>
 <LM>t-ln95045-039-p3s3w2</LM>
@@ -1687,6 +1690,7 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p3s4w6</LM>
 </t-connectors.rf>
@@ -1697,10 +1701,12 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p3s4w7</LM>
 <LM>t-ln95045-039-p3s5w1</LM>
 </t-connectors.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w2301f1</val_frame.rf>
@@ -1969,6 +1975,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p3s5w3</LM>
 </t-connectors.rf>
@@ -2404,6 +2411,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p3s6w13</LM>
 </t-connectors.rf>
@@ -2538,6 +2546,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p3s7w1</LM>
 </t-connectors.rf>
@@ -2677,6 +2686,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p3s7w7</LM>
 </t-connectors.rf>
@@ -3044,6 +3054,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>3</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 </LM>
 <LM id="t-ln95045-039-p4s2a2">
 <nodetype>qcomplex</nodetype>
@@ -3663,6 +3674,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95045-039-p4s4w14</LM>
 </a-connectors.rf>
@@ -3833,6 +3845,9 @@
 <t_lemma>#Dash</t_lemma>
 <functor>APPS</functor>
 <deepord>11</deepord>
+<discourse_comment>wrongTR? jestli dash spojuje NP "téma lhostejnosti
+a pokrytectví" a podstrom pod uzlem "odehrávat se",
+nema tento strom vypadat jinak?</discourse_comment>
 <children>
 <LM id="t-ln95045-039-p4s5w9">
 <a>
@@ -4414,6 +4429,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p4s5w40</LM>
 </t-connectors.rf>
@@ -4535,9 +4551,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
-<t-connectors.rf>
+<src>pdt30</src>
+<a-connectors.rf>
+<LM>a#a-ln95045-039-p5s2w1</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
 <LM>t-ln95045-039-p5s2w2</LM>
-</t-connectors.rf>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
@@ -4607,6 +4628,11 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>neanotuju zadny vztah. snad to muze byt nejaky 
+kontrastivni vztah mezi "dalsim problemem" 
+(=problem je jeden) a "odviji se rada dalsich". 
+Nebo je to jen zdurazneni? 
+Rozumny diskurzni vztah nevidim.</discourse_comment>
 </LM>
 <LM id="t-ln95045-039-p5s1w5">
 <a>
@@ -5325,6 +5351,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p5s3w13</LM>
 </t-connectors.rf>
@@ -5360,6 +5387,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95045-039-p5s3w14</LM>
 </a-connectors.rf>
@@ -5605,6 +5633,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p5s3w30</LM>
 </t-connectors.rf>
@@ -5665,6 +5694,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95045-039-p5s4w3">
 <a>
@@ -5805,6 +5835,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p5s4w8</LM>
 </t-connectors.rf>
@@ -6091,6 +6122,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p5s5w11</LM>
 </t-connectors.rf>
@@ -6408,6 +6440,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p5s5w31</LM>
 </t-connectors.rf>
@@ -6907,6 +6940,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p6s1w26</LM>
 </t-connectors.rf>
@@ -7041,6 +7075,7 @@
 <start_range>group</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p6s2w12</LM>
 </t-connectors.rf>
@@ -7125,6 +7160,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p6s2w4</LM>
 </t-connectors.rf>
@@ -7756,6 +7792,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p6s3w6</LM>
 </t-connectors.rf>
@@ -7938,6 +7975,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-039-p6s4w15</LM>
 <LM>t-ln95045-039-p6s4w14</LM>

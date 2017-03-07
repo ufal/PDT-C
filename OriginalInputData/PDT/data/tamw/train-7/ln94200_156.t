@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_156.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -460,6 +460,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-156-p2s2w1</LM>
 <LM>t-ln94200-156-p2s2w2</LM>
@@ -506,6 +507,26 @@
 <t_lemma>takže</t_lemma>
 <functor>CSQ</functor>
 <deepord>21</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94200-156-p2s1Bw8</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conc</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln94200-156-p2s2w3</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln94200-156-p2s2w3</LM>
+<LM>a#a-ln94200-156-p2s2w4</LM>
+<LM>a#a-ln94200-156-p2s2w5</LM>
+<LM>a#a-ln94200-156-p2s2w6</LM>
+</a-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-ln94200-156-p2s2w18">
 <a>
@@ -592,6 +613,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94200-156-p2s2w29</LM>
 </t-connectors.rf>
@@ -1160,6 +1182,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-156-p2s3w6</LM>
 </t-connectors.rf>
@@ -1502,6 +1525,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-156-p2s4w1</LM>
 </t-connectors.rf>
@@ -2050,6 +2074,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-156-p2s6w10</LM>
 </t-connectors.rf>
@@ -2131,6 +2156,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-156-p2s6w13</LM>
 </t-connectors.rf>

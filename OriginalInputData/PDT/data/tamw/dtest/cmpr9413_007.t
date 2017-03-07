@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9413_007.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -27,6 +27,7 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>kolekce  -zacina vetou 7</discourse_comment>
 <children>
 <LM id="t-cmpr9413-007-p2s1w2">
 <a>
@@ -1014,6 +1015,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-007-p5s2w15</LM>
 </t-connectors.rf>
@@ -1658,6 +1660,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-007-p6s3w5</LM>
 </t-connectors.rf>
@@ -4830,6 +4833,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-007-p9s2w7</LM>
 </t-connectors.rf>

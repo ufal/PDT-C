@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94205_102.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -461,6 +461,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-102-p2s2w3</LM>
 </t-connectors.rf>
@@ -910,6 +911,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-102-p2s2w27</LM>
 </t-connectors.rf>
@@ -2849,6 +2851,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>13</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94205-102-p4s1w12">
 <a>
@@ -3837,6 +3840,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel SYNCHR dokud</comment>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-102-p4s3w14</LM>
 </a-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94211_116.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -214,6 +214,11 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>adept na seznam,
+hypertéma zde,
+1. položka (5)-(9),
+2.položka (10),
+3.položka (11)-(13)</discourse_comment>
 <val_frame.rf>v#v-w3583f1</val_frame.rf>
 <children>
 <LM id="t-ln94211-116-p2s1Bw3">
@@ -302,6 +307,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-116-p2s1Bw6</LM>
 </t-connectors.rf>
@@ -925,6 +931,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-116-p3s1w10</LM>
 <LM>t-ln94211-116-p3s1w11</LM>
@@ -1482,6 +1489,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-116-p3s3w4</LM>
 </t-connectors.rf>
@@ -1638,6 +1646,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-116-p3s3w8</LM>
 </t-connectors.rf>
@@ -1714,6 +1723,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-116-p3s3w14</LM>
 </a-connectors.rf>
@@ -1930,6 +1940,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-116-p3s4w6</LM>
 </t-connectors.rf>
@@ -2197,6 +2208,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-116-p3s5w5</LM>
 </t-connectors.rf>
@@ -2337,6 +2349,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-116-p3s5w11</LM>
 </t-connectors.rf>
@@ -2539,6 +2552,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary druhou skupinu</discourse_comment>
 <children>
 <LM id="t-ln94211-116-p4s1w1">
 <a>
@@ -2945,6 +2959,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary třetí kategorii</discourse_comment>
 <children>
 <LM id="t-ln94211-116-p5s1w1">
 <a>
@@ -3042,6 +3057,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-116-p5s2w3</LM>
 </t-connectors.rf>
@@ -3266,6 +3282,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<comment>druhá interpretace: conj</comment>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-116-p5s1w21</LM>
 </a-connectors.rf>
@@ -3588,6 +3606,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-116-p5s3w4</LM>
 </t-connectors.rf>

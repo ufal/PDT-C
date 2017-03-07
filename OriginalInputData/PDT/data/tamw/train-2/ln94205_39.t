@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94205_39.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1152,6 +1152,7 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>11</deepord>
+<discourse_comment>rhem pouze v rámci věty</discourse_comment>
 </LM>
 <LM id="t-ln94205-39-p3s2w13">
 <a>
@@ -1385,6 +1386,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-39-p3s2w19</LM>
 <LM>t-ln94205-39-p3s2w2</LM>
@@ -1487,6 +1489,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem například</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-39-p3s3w2</LM>
 </t-connectors.rf>
@@ -1768,6 +1772,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-39-p3s4w4</LM>
 </t-connectors.rf>
@@ -2117,6 +2122,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-39-p4s2w2</LM>
 </t-connectors.rf>
@@ -2514,6 +2520,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-39-p4s3w14</LM>
 <LM>t-ln94205-39-p4s3w15</LM>

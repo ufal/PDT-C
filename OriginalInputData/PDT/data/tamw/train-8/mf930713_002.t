@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930713_002.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -45,6 +45,11 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>celý text je 
+adept na seznam,
+většinou neslovesné
+položky, nechávám
+bez anotace</discourse_comment>
 <children>
 <LM id="t-mf930713-002-p1s1w1">
 <a>
@@ -19910,6 +19915,12 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR,
+proč jsou u některých položek
+jména nakladatelství zvlášt 
+a u některých v jednom stromě
+s názvem knihy a autorem
+(138-142)</discourse_comment>
 <children>
 <LM id="t-mf930713-002-p68s1w2">
 <a>
@@ -23407,6 +23418,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-002-p82s2w6</LM>
 </t-connectors.rf>

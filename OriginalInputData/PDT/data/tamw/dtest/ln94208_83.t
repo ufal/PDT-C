@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94208_83.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -617,6 +617,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <children>
 <LM id="t-ln94208-83-p2s2w6">
 <a>
@@ -825,6 +826,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p2s2w16</LM>
 </t-connectors.rf>
@@ -994,6 +996,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p2s3w3</LM>
 </t-connectors.rf>
@@ -1721,6 +1724,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>26</deepord>
+<discourse_comment>wrongTR? podle me by na "a" melo viset "pocházet" 
+a "činit". na "činit" by mělo viset "domnívat se"
+jako ACT.</discourse_comment>
 <val_frame.rf>v#v-w327f3</val_frame.rf>
 <children>
 <LM id="t-ln94208-83-p3s2w16">
@@ -3252,6 +3258,7 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p4s4w14</LM>
 </t-connectors.rf>
@@ -3543,6 +3550,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>parcelace, vztah mezi NP</discourse_comment>
 </LM>
 <LM id="t-ln94208-83-p4s6w2">
 <a>
@@ -4073,6 +4081,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-83-p4s9w3</LM>
 </a-connectors.rf>
@@ -4470,6 +4479,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p4s10w6</LM>
 </t-connectors.rf>
@@ -4553,6 +4563,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p4s10w12</LM>
 </t-connectors.rf>
@@ -5063,6 +5074,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p5s3w8</LM>
 </t-connectors.rf>
@@ -5217,6 +5229,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_comment>wrongTR? navrhuju do druhe casti teto vety 
+dokopirovat "předepsat". pak bych anotovala
+preced.</discourse_comment>
 <children>
 <LM id="t-ln94208-83-p5s4w8">
 <a>
@@ -5582,6 +5597,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p5s6w10</LM>
 </t-connectors.rf>
@@ -5740,6 +5756,7 @@
 <start_range>0</start_range>
 <target_range>2</target_range>
 <discourse_type>gener</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p5s7w4</LM>
 </t-connectors.rf>
@@ -6261,6 +6278,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p5s8w8</LM>
 </t-connectors.rf>
@@ -6964,6 +6982,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p6s1w26</LM>
 </t-connectors.rf>
@@ -7502,6 +7521,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p7s1w15</LM>
 </t-connectors.rf>
@@ -7822,6 +7842,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p7s1w34</LM>
 </t-connectors.rf>
@@ -8549,6 +8570,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p8s2w1</LM>
 </t-connectors.rf>
@@ -9867,6 +9889,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p8s6w1</LM>
 </t-connectors.rf>
@@ -9989,6 +10012,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p8s6w1</LM>
 </t-connectors.rf>
@@ -9999,6 +10023,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p9s1w2</LM>
 </t-connectors.rf>
@@ -10686,6 +10711,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p9s2w13</LM>
 <LM>t-ln94208-83-p9s2w1</LM>
@@ -11005,6 +11031,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-83-p9s2w19</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94204_56.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -632,6 +632,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-56-p2s2w1</LM>
 <LM>a#a-ln94204-56-p2s2w2</LM>
@@ -1126,6 +1127,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-56-p3s1w1</LM>
 </a-connectors.rf>
@@ -1219,6 +1221,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>6</deepord>
+<discourse_comment>wrongTR,
+součást konektoru</discourse_comment>
 </LM>
 <LM id="t-ln94204-56-p3s1w12">
 <a>
@@ -1479,6 +1483,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-56-p3s2w8</LM>
 </t-connectors.rf>
@@ -1668,6 +1673,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-56-p4s1w2</LM>
 </t-connectors.rf>
@@ -3598,6 +3604,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-56-p6s2w1</LM>
 </t-connectors.rf>
@@ -3921,6 +3928,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>divný slovosled</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-56-p6s4w2</LM>
 </t-connectors.rf>
@@ -4138,6 +4147,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-56-p6s4w14</LM>
 </t-connectors.rf>
@@ -4747,6 +4757,12 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>mezi 21 a 22
+je REASON smíšená
+s EXEMPL, ale
+REASON nemá konektor,
+EXEMPL samotná to zase
+není, proto neanotováno</discourse_comment>
 <val_frame.rf>v#v-w5164f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-56-p7s1w2">
@@ -4874,6 +4890,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-56-p7s2w2</LM>
 </t-connectors.rf>
@@ -5396,6 +5413,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-56-p7s3w15</LM>
 </t-connectors.rf>

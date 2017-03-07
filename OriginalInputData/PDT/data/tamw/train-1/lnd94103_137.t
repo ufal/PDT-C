@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_137.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -873,6 +873,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-137-p1s4w8</LM>
 </t-connectors.rf>
@@ -1214,6 +1215,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-137-p1s5Aw12</LM>
 </t-connectors.rf>
@@ -1527,6 +1529,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-137-p1s5Bw15</LM>
 </t-connectors.rf>
@@ -1743,6 +1746,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-lnd94103-137-p1s6Aw10</LM>
 </t-connectors.rf>
@@ -2091,6 +2095,7 @@
 <start_range>group</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-137-p1s6Bw3</LM>
 </t-connectors.rf>
@@ -2152,6 +2157,23 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-lnd94103-137-p1s4w14</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-lnd94103-137-p1s6Bw5</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-lnd94103-137-p1s6Bw5</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-lnd94103-137-p1s6Bw3">
@@ -2472,6 +2494,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-137-p1s6Bw14</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_21.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1991,6 +1991,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-21-p4s3w6</LM>
 </t-connectors.rf>
@@ -2681,6 +2682,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-21-p5s1w6</LM>
 </t-connectors.rf>
@@ -3188,6 +3190,34 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94200-21-p6s1w6</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln94200-21-p6s2w5</LM>
+<LM>a#a-ln94200-21-p6s2w4</LM>
+</a-connectors.rf>
+<t-connectors.rf>
+<LM>t-ln94200-21-p6s2w6</LM>
+</t-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln94200-21-p6s2w4</LM>
+<LM>a#a-ln94200-21-p6s2w5</LM>
+<LM>a#a-ln94200-21-p6s2w7</LM>
+<LM>a#a-ln94200-21-p6s2w8</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94200-21-p6s2w6</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
+<discourse_comment>přechod k explicat</discourse_comment>
 <val_frame.rf>v#v-w3620f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-21-p6s2w3">
@@ -3537,6 +3567,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>paragraph
+4-13</discourse_comment>
 </LM>
 <LM id="t-ln94200-21-p7s1w6">
 <a>
@@ -4112,6 +4144,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-21-p7s2w4</LM>
 </t-connectors.rf>

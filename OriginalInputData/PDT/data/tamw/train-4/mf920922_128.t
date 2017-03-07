@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_128.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -27,6 +27,12 @@
 <functor>CONJ</functor>
 <deepord>3</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>článek strukturován
+jako výroky státníků
+o francouzském referendu,
+špatný adept na 
+seznam, ale něco takového
+tam je</discourse_comment>
 <children>
 <LM id="t-mf920922-128-p1s1w1">
 <a>
@@ -333,6 +339,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-128-p2s3w3</LM>
 <LM>t-mf920922-128-p2s3w1</LM>
@@ -2832,6 +2839,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-128-p6s1w16</LM>
 </t-connectors.rf>
@@ -5272,6 +5280,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-128-p11s2w5</LM>
 </t-connectors.rf>
@@ -6128,6 +6137,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-128-p12s4w2</LM>
 </t-connectors.rf>
@@ -6250,6 +6260,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>čas tu je o hodně slabší 
+než u podobných vztahů</comment>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-128-p12s3w8</LM>
 </a-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95047_059.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -68,6 +68,10 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>3</deepord>
+<discourse_comment>wrongTR? různé instance
+tohoto žánru(recenze filmu/
+výstavy/hudby)jsou v PDT 
+segmentovány různě</discourse_comment>
 <children>
 <LM id="t-ln95047-059-p2s1w1">
 <a>
@@ -351,6 +355,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-059-p2s1w17</LM>
 </t-connectors.rf>
@@ -1666,6 +1671,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-059-p3s4w5</LM>
 </t-connectors.rf>
@@ -3038,6 +3044,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-059-p4s2w17</LM>
 </t-connectors.rf>
@@ -3796,6 +3803,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-059-p4s5w7</LM>
 </t-connectors.rf>

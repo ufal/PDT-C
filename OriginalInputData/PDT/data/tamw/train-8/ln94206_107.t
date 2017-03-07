@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94206_107.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1158,6 +1158,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-107-p2s3w1</LM>
 </t-connectors.rf>
@@ -1458,6 +1459,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-107-p2s3w25</LM>
 </t-connectors.rf>
@@ -1643,6 +1645,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-107-p2s4w1</LM>
 </a-connectors.rf>
@@ -1837,6 +1840,24 @@
 </gram>
 <tfa>f</tfa>
 <deepord>22</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94206-107-p2s5w7</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln94206-107-p2s5w3</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94206-107-p2s5w3</LM>
+<LM>t-ln94206-107-p2s5w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w9661f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-107-p2s4w18">
@@ -2191,6 +2212,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>secondary z toho duvodu</discourse_comment>
 <children>
 <LM id="t-ln94206-107-p2s5w2">
 <a>
@@ -2700,6 +2722,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-107-p3s1w1</LM>
 </t-connectors.rf>
@@ -3631,6 +3654,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<comment>sporná anotace,
+wrongTR? nemá to být 
+způsobová věta?</comment>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-107-p3s3w28</LM>
 </a-connectors.rf>
@@ -4214,6 +4241,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94206-107-p4s2w17</LM>
 <LM>t-ln94206-107-p4s2w19</LM>
@@ -6061,6 +6089,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-107-p5s6w2</LM>
 </t-connectors.rf>

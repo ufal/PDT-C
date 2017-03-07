@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94211_24.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1165,6 +1165,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>anotováno grad
+stejně jako
+nejen ale i
+v celém PDT</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-24-p2s3w19</LM>
 </t-connectors.rf>
@@ -1212,6 +1217,27 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94211-24-p2s4w24</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>cond</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln94211-24-p2s4w2</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln94211-24-p2s4w3</LM>
+<LM>a#a-ln94211-24-p2s4w4</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94211-24-p2s4w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w4313f1</val_frame.rf>
 <children>
 <LM id="t-ln94211-24-p2s4w7">

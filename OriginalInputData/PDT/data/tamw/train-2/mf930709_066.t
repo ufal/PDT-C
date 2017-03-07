@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_066.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -2730,6 +2730,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-066-p4s2w9</LM>
 </t-connectors.rf>
@@ -2950,6 +2951,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-066-p4s2w24</LM>
 </t-connectors.rf>
@@ -3700,6 +3702,7 @@
 <LM>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 <LM>
 <target_node.rf>t-mf930709-066-p6s2Aw1</target_node.rf>
@@ -3707,6 +3710,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930709-066-p6s2Aw2</LM>
 </a-connectors.rf>
@@ -3968,6 +3972,7 @@
 <target_node.rf>t-mf930709-066-p6s2Bw2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -4126,6 +4131,7 @@
 <target_node.rf>t-mf930709-066-p6s3w3</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -4283,6 +4289,7 @@
 <target_node.rf>t-mf930709-066-p6s4w3</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -4415,6 +4422,7 @@
 <target_node.rf>t-mf930709-066-p6s5w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -4533,6 +4541,7 @@
 <target_node.rf>t-mf930709-066-p6s6w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -4686,6 +4695,7 @@
 <target_node.rf>t-mf930709-066-p6s7w4</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -4804,6 +4814,7 @@
 <target_node.rf>t-mf930709-066-p6s8w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -4930,6 +4941,7 @@
 <target_node.rf>t-mf930709-066-p6s9w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -5062,6 +5074,7 @@
 <target_node.rf>t-mf930709-066-p6s10w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -5225,6 +5238,7 @@
 <target_node.rf>t-mf930709-066-p6s11w4</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -5366,6 +5380,7 @@
 <target_node.rf>t-mf930709-066-p6s12w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -5533,6 +5548,7 @@
 <target_node.rf>t-mf930709-066-p6s13w4</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -5731,6 +5747,7 @@
 <LM>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 <LM>
 <target_node.rf>t-mf930709-066-p7s1w1</target_node.rf>
@@ -5738,6 +5755,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -5857,6 +5875,7 @@
 <target_node.rf>t-mf930709-066-p8s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -5976,6 +5995,7 @@
 <target_node.rf>t-mf930709-066-p9s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -6096,6 +6116,7 @@
 <target_node.rf>t-mf930709-066-p10s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -6215,6 +6236,7 @@
 <target_node.rf>t-mf930709-066-p11s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -6334,6 +6356,7 @@
 <target_node.rf>t-mf930709-066-p12s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -6454,6 +6477,7 @@
 <target_node.rf>t-mf930709-066-p13s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -6573,6 +6597,7 @@
 <target_node.rf>t-mf930709-066-p14s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -6692,6 +6717,7 @@
 <target_node.rf>t-mf930709-066-p15s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -6812,6 +6838,7 @@
 <target_node.rf>t-mf930709-066-p16s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -6931,6 +6958,7 @@
 <target_node.rf>t-mf930709-066-p17s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -7051,6 +7079,7 @@
 <target_node.rf>t-mf930709-066-p18s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -7170,6 +7199,7 @@
 <target_node.rf>t-mf930709-066-p19s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -7289,6 +7319,7 @@
 <target_node.rf>t-mf930709-066-p20s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -7415,6 +7446,7 @@
 <target_node.rf>t-mf930709-066-p21s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -7551,6 +7583,7 @@
 <target_node.rf>t-mf930709-066-p22s1w3</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -7671,6 +7704,7 @@
 <target_node.rf>t-mf930709-066-p23s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -7790,6 +7824,7 @@
 <target_node.rf>t-mf930709-066-p24s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -7909,6 +7944,7 @@
 <target_node.rf>t-mf930709-066-p25s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -8028,6 +8064,7 @@
 <target_node.rf>t-mf930709-066-p26s1w2</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>

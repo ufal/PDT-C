@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920925_086.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -519,6 +519,8 @@
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neznacim, clen dvojice 
+kdyz  -tak</discourse_comment>
 </LM>
 <LM id="t-mf920925-086-p4s1w6">
 <a>
@@ -541,6 +543,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-086-p4s1w2</LM>
 </a-connectors.rf>
@@ -659,6 +662,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-086-p4s1w6</LM>
 </t-connectors.rf>
@@ -755,6 +759,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-086-p4s1w10</LM>
 </a-connectors.rf>
@@ -1116,6 +1121,10 @@
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg
+
+urcita presupozice? 
+drive se o Jugoslavii nemluvi</discourse_comment>
 </LM>
 <LM id="t-mf920925-086-p4s2w3">
 <a>
@@ -1750,6 +1759,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-086-p4s4w10</LM>
 </a-connectors.rf>
@@ -1885,6 +1895,7 @@
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-086-p4s5w4">
 <a>
@@ -2312,6 +2323,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-086-p4s5w20</LM>
 </a-connectors.rf>

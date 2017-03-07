@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9410_012.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -409,6 +409,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p4s1w6</LM>
 </t-connectors.rf>
@@ -664,6 +665,12 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>zvláštní CONJ  -platí něco, 
+a když se na to podíváme jinak, 
+platí stejně tak něco jiného
+
+v TR není vidět závorka</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p4s1w25</LM>
 </t-connectors.rf>
@@ -859,6 +866,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p4s1w39</LM>
 <LM>t-cmpr9410-012-p4s1w14</LM>
@@ -1204,6 +1212,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p5s2w4</LM>
 </t-connectors.rf>
@@ -2400,6 +2409,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p7s1w23</LM>
 <LM>t-cmpr9410-012-p7s1w31</LM>
@@ -2749,6 +2759,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>z kontextu není
+zcela zřejmé, zda
+se nejedná o OPP</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p7s3w3</LM>
 <LM>t-cmpr9410-012-p7s3w2</LM>
@@ -3100,6 +3114,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p8s1w14</LM>
 </t-connectors.rf>
@@ -3216,6 +3231,8 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>7</deepord>
+<discourse_comment>před a je čárka, přesto je CONJ
+sémanticky přesnější interpretace</discourse_comment>
 <children>
 <LM id="t-cmpr9410-012-p8s2w8">
 <a>
@@ -3365,6 +3382,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p8s2w10</LM>
 </t-connectors.rf>
@@ -4524,6 +4542,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p12s1w9</LM>
 </t-connectors.rf>
@@ -4946,6 +4965,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p12s3w4</LM>
 </t-connectors.rf>
@@ -5131,6 +5151,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p12s3w12</LM>
 </t-connectors.rf>
@@ -5343,6 +5364,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p12s4w12</LM>
 <LM>t-cmpr9410-012-p12s4w13</LM>
@@ -5809,6 +5831,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p12s5w3</LM>
 </t-connectors.rf>
@@ -6008,6 +6031,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p12s5w16</LM>
 </t-connectors.rf>
@@ -6401,6 +6425,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p13s1w5</LM>
 </t-connectors.rf>
@@ -7112,6 +7137,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p14s1w14</LM>
 </t-connectors.rf>
@@ -8052,6 +8078,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p16s3w1</LM>
 </t-connectors.rf>
@@ -8157,6 +8184,20 @@
 </gram>
 <tfa>t</tfa>
 <deepord>6</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-cmpr9410-012-p16s2w21</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-cmpr9410-012-p16s2w7</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w1855f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-012-p16s2a2">
@@ -8622,6 +8663,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p16s2w42</LM>
 </t-connectors.rf>

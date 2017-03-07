@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_062.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -451,6 +451,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-062-p1s2w10</LM>
 </t-connectors.rf>
@@ -461,6 +462,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-062-p1s2w1</LM>
 </t-connectors.rf>
@@ -721,6 +723,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-062-p1s4w1</LM>
 </t-connectors.rf>
@@ -876,10 +879,12 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-062-p1s4w6</LM>
 <LM>t-lnd94103-062-p1s4w5</LM>
 </t-connectors.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <children>
@@ -969,6 +974,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-062-p1s8w1</LM>
 </t-connectors.rf>
@@ -1289,6 +1295,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-062-p1s5w13</LM>
 </t-connectors.rf>
@@ -1393,6 +1400,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-062-p1s6w1</LM>
 </t-connectors.rf>
@@ -1513,6 +1521,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-062-p1s6w11</LM>
 </a-connectors.rf>
@@ -1591,6 +1600,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-062-p1s6w16</LM>
 </t-connectors.rf>
@@ -2234,6 +2244,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-062-p1s8w19</LM>
 </t-connectors.rf>
@@ -2520,6 +2531,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-062-p1s10w1</LM>
 </a-connectors.rf>
@@ -2556,12 +2568,18 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-062-p1s10w2</LM>
 <LM>a#a-lnd94103-062-p1s10w1</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR,
+"a" má být značeno
+jako PREC ne jako
+součást podřadící 
+spojky pokud</discourse_comment>
 <val_frame.rf>v#v-w1339f5</val_frame.rf>
 <children>
 <LM id="t-lnd94103-062-p1s10w6">

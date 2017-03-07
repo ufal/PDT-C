@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_039.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -654,6 +654,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-039-p1s4w3</LM>
 </t-connectors.rf>
@@ -689,6 +690,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-039-p1s3w3</LM>
 </a-connectors.rf>
@@ -2924,6 +2926,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-lnd94103-039-p1s11w16</LM>
 </t-connectors.rf>
@@ -3370,6 +3373,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-039-p1s12w8</LM>
 </t-connectors.rf>
@@ -3637,6 +3641,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-039-p1s12w24</LM>
 </t-connectors.rf>
@@ -3807,6 +3812,7 @@
 <start_range>0</start_range>
 <target_range>6</target_range>
 <discourse_type>gener</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-039-p1s13w4</LM>
 </t-connectors.rf>
@@ -3843,6 +3849,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-039-p1s13w3</LM>
 </a-connectors.rf>
@@ -4004,6 +4011,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-039-p1s14w2</LM>
 </t-connectors.rf>
@@ -4832,6 +4840,7 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-039-p1s16w17</LM>
 </t-connectors.rf>
@@ -5354,6 +5363,32 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-lnd94103-039-p1s18w3</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>grad</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-lnd94103-039-p1s18w9</LM>
+</a-connectors.rf>
+<t-connectors.rf>
+<LM>t-lnd94103-039-p1s18w8</LM>
+</t-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-lnd94103-039-p1s18w9</LM>
+<LM>a#a-lnd94103-039-p1s18w10</LM>
+<LM>a#a-lnd94103-039-p1s18w11</LM>
+<LM>a#a-lnd94103-039-p1s18w12</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-lnd94103-039-p1s18w8</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w8384f2</val_frame.rf>
 <children>
 <LM id="t-lnd94103-039-p1s18w14">
@@ -5719,6 +5754,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-039-p1s19w7</LM>
 </t-connectors.rf>
@@ -5740,6 +5776,9 @@
 </gram>
 <tfa>t</tfa>
 <deepord>9</deepord>
+<discourse_comment>wrongTR? pri kliknuti mezernikem pro zapamatovani
+se slovo reprezentovane timto uzlem v textu nezbarvi
+cervene</discourse_comment>
 </LM>
 <LM id="t-lnd94103-039-p1s19a1">
 <nodetype>atom</nodetype>
@@ -5777,6 +5816,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-039-p1s19w11</LM>
 </a-connectors.rf>
@@ -6027,6 +6067,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-039-p1s20w3</LM>
 <LM>t-lnd94103-039-p1s20w2</LM>
@@ -6205,6 +6246,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
+<discourse_comment>wrongTR  -spatne t-lemma</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -6630,6 +6672,7 @@
 <start_range>0</start_range>
 <target_range>2</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-039-p1s22w5</LM>
 </t-connectors.rf>

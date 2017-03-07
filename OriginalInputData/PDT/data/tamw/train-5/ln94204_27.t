@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94204_27.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1391,6 +1391,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-27-p2s3w25</LM>
 </t-connectors.rf>
@@ -2569,6 +2570,8 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>8</deepord>
+<discourse_comment>wrongTR. Navrhuju povesit "a" na "vařit". Na "a" 
+by podle me melo viset "voda" a "surovina.ORIG"</discourse_comment>
 <children>
 <LM id="t-ln94204-27-p4s1w8">
 <a>
@@ -3116,6 +3119,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-27-p5s2w7</LM>
 </t-connectors.rf>
@@ -3866,6 +3870,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle me
+jde o vztah NP (privatizace nedalekeho
+pelhrimovskeho pivovaru, ve vete 16) a vety 17</discourse_comment>
 </LM>
 <LM id="t-ln94204-27-p5s4w2">
 <a>
@@ -4130,6 +4137,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-27-p5s5w3</LM>
 </t-connectors.rf>
@@ -4926,6 +4934,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-27-p6s3a1</LM>
 <LM>t-ln94204-27-p6s3w7</LM>
@@ -5860,6 +5869,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-27-p7s3w6</LM>
 <LM>t-ln94204-27-p7s3w2</LM>
@@ -5971,6 +5981,20 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94204-27-p7s3w6</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>-1</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94204-27-p7s4w14</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-27-p7s4w17">
@@ -7674,6 +7698,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-27-p10s1w7</LM>
 </t-connectors.rf>

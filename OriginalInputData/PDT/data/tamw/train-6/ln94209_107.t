@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94209_107.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1625,6 +1625,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>neznacim, pokud bych znacila, 
+byl by to vztah, ktery je uz 
+zaznacen (conj)</discourse_comment>
 </LM>
 <LM id="t-ln94209-107-p5s1w18">
 <a>
@@ -2327,6 +2330,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-107-p6s2w5</LM>
 </t-connectors.rf>
@@ -2571,6 +2575,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <children>
 <LM id="t-ln94209-107-p7s1w4">
 <a>
@@ -2892,6 +2897,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-107-p7s2w4</LM>
 </t-connectors.rf>
@@ -3071,6 +3077,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94209-107-p7s2w14</LM>
 </a-connectors.rf>

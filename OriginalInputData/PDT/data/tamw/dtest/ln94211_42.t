@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94211_42.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1527,6 +1527,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-42-p2s5w17</LM>
 <LM>t-ln94211-42-p2s5w16</LM>
@@ -2028,6 +2029,9 @@
 <t_lemma>#Comma</t_lemma>
 <functor>APPS</functor>
 <deepord>4</deepord>
+<discourse_comment>wrongTR? strukturně stejné věty
+jsou někdy anotovány s VV závislou
+na dnes</discourse_comment>
 <children>
 <LM id="t-ln94211-42-p2s6w1">
 <a>
@@ -2060,6 +2064,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>second_rel PRECED kdy, příčinné
+čtení není jisté</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-42-p2s6w3</LM>
 </t-connectors.rf>
@@ -2184,6 +2191,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-42-p2s6w5</LM>
 <LM>t-ln94211-42-p2s6w8</LM>

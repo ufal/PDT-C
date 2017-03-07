@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930713_128.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1093,6 +1093,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p4s1w2</LM>
 </t-connectors.rf>
@@ -1368,6 +1369,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p4s2w4</LM>
 </t-connectors.rf>
@@ -2020,6 +2022,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p4s3w1</LM>
 </t-connectors.rf>
@@ -2290,6 +2293,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p4s5w2</LM>
 <LM>t-mf930713-128-p4s5w3</LM>
@@ -2644,6 +2648,7 @@
 <start_range>0</start_range>
 <target_range>2</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p5s1w11</LM>
 </t-connectors.rf>
@@ -2961,6 +2966,7 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p5s2w3</LM>
 </t-connectors.rf>
@@ -3336,6 +3342,9 @@
 <start_range>0</start_range>
 <target_range>2</target_range>
 <discourse_type>f_opp</discourse_type>
+<comment>vysoká míra inference:
+recyklovaný papír znamená nízkou daň</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p5s4w1</LM>
 </t-connectors.rf>
@@ -3664,6 +3673,10 @@
 <start_range>0</start_range>
 <target_range>3</target_range>
 <discourse_type>reason</discourse_type>
+<comment>reason se mi nelibi,
+chybi mi nejaky vztah vyplyvani,
+jde az ke gener</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p5s5w3</LM>
 </t-connectors.rf>
@@ -4275,6 +4288,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p6s1w8</LM>
 </t-connectors.rf>
@@ -4848,6 +4862,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>secondary zde 
+(spis PREC nez LOC)</discourse_comment>
 </LM>
 <LM id="t-mf930713-128-p6s2w12">
 <a>
@@ -4926,6 +4942,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p7s1w8</LM>
 </t-connectors.rf>
@@ -5234,6 +5251,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p7s2w4</LM>
 </t-connectors.rf>
@@ -6002,6 +6020,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>gener</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p8s3w3</LM>
 </t-connectors.rf>
@@ -6295,6 +6314,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p9s1w8</LM>
 </t-connectors.rf>
@@ -6990,6 +7010,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>zdurazneni kontrastivni spojkou
+az temer ke grad</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p9s3w3</LM>
 <LM>t-mf930713-128-p9s3w1</LM>
@@ -7981,22 +8004,17 @@
 <deepord>22</deepord>
 <discourse>
 <LM>
-<target_node.rf>t-mf930713-128-p10s1w4</target_node.rf>
+<target_node.rf>t-mf930713-128-p10s1w9</target_node.rf>
 <type>discourse</type>
-<start_group_id>2</start_group_id>
-<start_range>group</start_range>
+<start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit20</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p10s1w24</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_groups>
-<LM>
-<id>2</id>
-</LM>
-</discourse_groups>
 <val_frame.rf>v#v-w5634f1</val_frame.rf>
 <children>
 <LM id="t-mf930713-128-p10s1w4">
@@ -8018,11 +8036,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_groups>
-<LM>
-<id>2</id>
-</LM>
-</discourse_groups>
 <children>
 <LM id="t-mf930713-128-p10s1w3">
 <a>
@@ -8038,11 +8051,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_groups>
-<LM>
-<id>2</id>
-</LM>
-</discourse_groups>
 <children>
 <LM id="t-mf930713-128-p10s1w1">
 <a>
@@ -8053,11 +8061,6 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_groups>
-<LM>
-<id>2</id>
-</LM>
-</discourse_groups>
 </LM>
 </children>
 </LM>
@@ -8369,11 +8372,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>23</deepord>
-<discourse_groups>
-<LM>
-<id>2</id>
-</LM>
-</discourse_groups>
 <bridging>
 <LM>
 <target_node.rf>t-mf930713-128-p10s1a4</target_node.rf>
@@ -8395,11 +8393,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>24</deepord>
-<discourse_groups>
-<LM>
-<id>2</id>
-</LM>
-</discourse_groups>
 </LM>
 </children>
 </LM>
@@ -8422,11 +8415,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>26</deepord>
-<discourse_groups>
-<LM>
-<id>2</id>
-</LM>
-</discourse_groups>
 <coref_text>
 <LM>
 <target_node.rf>t-mf930713-128-p10s1w17</target_node.rf>
@@ -8442,11 +8430,6 @@
 <functor>ACT</functor>
 <tfa>t</tfa>
 <deepord>25</deepord>
-<discourse_groups>
-<LM>
-<id>2</id>
-</LM>
-</discourse_groups>
 </LM>
 <LM id="t-mf930713-128-p10s1w26">
 <a>
@@ -8462,11 +8445,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>27</deepord>
-<discourse_groups>
-<LM>
-<id>2</id>
-</LM>
-</discourse_groups>
 </LM>
 <LM id="t-mf930713-128-p10s1w28">
 <a>
@@ -8483,11 +8461,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>28</deepord>
-<discourse_groups>
-<LM>
-<id>2</id>
-</LM>
-</discourse_groups>
 <children>
 <LM id="t-mf930713-128-p10s1w29">
 <a>
@@ -8504,11 +8477,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>29</deepord>
-<discourse_groups>
-<LM>
-<id>2</id>
-</LM>
-</discourse_groups>
 <children>
 <LM id="t-mf930713-128-p10s1w32">
 <a>
@@ -8528,11 +8496,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>30</deepord>
-<discourse_groups>
-<LM>
-<id>2</id>
-</LM>
-</discourse_groups>
 <coref_text>
 <LM>
 <target_node.rf>t-mf930713-128-p9s1w7</target_node.rf>
@@ -8554,11 +8517,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>31</deepord>
-<discourse_groups>
-<LM>
-<id>2</id>
-</LM>
-</discourse_groups>
 </LM>
 </children>
 </LM>
@@ -9266,6 +9224,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-128-p11s1w21</LM>
 </a-connectors.rf>

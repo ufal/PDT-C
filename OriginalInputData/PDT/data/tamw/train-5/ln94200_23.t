@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_23.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1197,6 +1197,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR, chybná segmentace,
+zřetelně patří do předchozí věty</discourse_comment>
 <children>
 <LM id="t-ln94200-23-p3s2w2">
 <a>
@@ -2570,6 +2572,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-23-p4s3w6</LM>
 </a-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94206_19.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -785,6 +785,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-19-p2s1Bw31</LM>
 </t-connectors.rf>
@@ -2076,6 +2077,10 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg,
+první argument se 
+vyrozumívá z kontextu,
+ale nelze ho značit</discourse_comment>
 <coref_special>segm</coref_special>
 </LM>
 <LM id="t-ln94206-19-p4s1w6">
@@ -2321,15 +2326,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse>
-<LM>
-<target_node.rf>t-ln94206-19-p4s1w3</target_node.rf>
-<type>discourse</type>
-<start_range>0</start_range>
-<target_range>0</target_range>
-<discourse_type>conj</discourse_type>
-</LM>
-</discourse>
 <val_frame.rf>v#v-w3416f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-19-p4s2w2">
@@ -3795,6 +3791,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-19-p6s1w16</LM>
 </t-connectors.rf>
@@ -3977,6 +3974,28 @@
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94206-19-p6s2w19</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln94206-19-p6s2w2</LM>
+<LM>a#a-ln94206-19-p6s2w1</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln94206-19-p6s2w1</LM>
+<LM>a#a-ln94206-19-p6s2w2</LM>
+<LM>a#a-ln94206-19-p6s2w3</LM>
+<LM>a#a-ln94206-19-p6s2w4</LM>
+<LM>a#a-ln94206-19-p6s2w5</LM>
+</a-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w10009f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-19-p6s2a1">
@@ -4156,6 +4175,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-19-p6s4w2</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94203_119.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -864,6 +864,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-119-p2s2w8</LM>
 </t-connectors.rf>
@@ -1233,6 +1234,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-119-p2s4w15</LM>
 </t-connectors.rf>
@@ -1422,6 +1424,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-119-p2s5w7</LM>
 </a-connectors.rf>
@@ -1513,6 +1516,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-119-p2s6w13</LM>
 </a-connectors.rf>
@@ -2215,6 +2219,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-119-p2s7w9</LM>
 </t-connectors.rf>
@@ -2306,6 +2311,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-119-p2s7w17</LM>
 </t-connectors.rf>
@@ -2417,6 +2423,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-119-p2s8w6</LM>
 </a-connectors.rf>
@@ -2685,6 +2692,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-119-p2s8w17</LM>
 </t-connectors.rf>
@@ -3006,6 +3014,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>nevím, co ta věta znamená</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-119-p2s9w16</LM>
 </t-connectors.rf>
@@ -3632,6 +3642,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-119-p2s11w10</LM>
 </t-connectors.rf>

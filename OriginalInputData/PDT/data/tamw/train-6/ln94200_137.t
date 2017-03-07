@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_137.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -384,6 +384,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-137-p2s1Cw14</LM>
 </t-connectors.rf>
@@ -774,6 +775,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse_comment>adept na seznam,
+hypertéma zde,
+položky věty 
+8, 9, 10</discourse_comment>
 <val_frame.rf>v#v-w4129f2</val_frame.rf>
 <children>
 <LM id="t-ln94200-137-p3s2w2">
@@ -902,6 +907,12 @@
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>druhý argument 
+se vyrozumívá
+z kontextu, ale
+není vyjádřen, 
+one_arg? jiného
+typu</discourse_comment>
 </LM>
 <LM id="t-ln94200-137-p3s2w12">
 <a>
@@ -2372,6 +2383,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-137-p3s6w1</LM>
 <LM>t-ln94200-137-p3s6w4</LM>
@@ -2491,6 +2503,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<comment>anotováno analogicky
+jako struktury s a_to</comment>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-137-p3s6w8</LM>
 </a-connectors.rf>
@@ -2680,6 +2695,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-137-p3s6w19</LM>
 </t-connectors.rf>
@@ -3167,6 +3183,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-137-p4s1w15</LM>
 </t-connectors.rf>
@@ -4264,6 +4281,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-137-p4s5w14</LM>
 </t-connectors.rf>
@@ -4498,6 +4516,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-137-p4s7w1</LM>
 <LM>t-ln94200-137-p4s7w2</LM>
@@ -4509,6 +4528,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-137-p4s8w1</LM>
 </t-connectors.rf>
@@ -4959,6 +4979,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-137-p4s8w19</LM>
 </t-connectors.rf>
@@ -5286,6 +5307,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-137-p5s1w1</LM>
 </a-connectors.rf>

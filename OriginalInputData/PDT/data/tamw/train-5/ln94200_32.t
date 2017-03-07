@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_32.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -714,6 +714,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<comment>tento seznam má minimálně
+jednu další položku,
+v tomto souboru je z ní jen
+neslovesný kus, proto zůstala neanotována</comment>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-32-p2s3w6</LM>
 </a-connectors.rf>
@@ -721,6 +726,7 @@
 <LM>
 <type>list</type>
 <start_range>1</start_range>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-32-p2s3w7</LM>
 </a-connectors.rf>
@@ -1095,6 +1101,7 @@
 <target_node.rf>t-ln94200-32-p2s3w10</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-32-p3s1w6</LM>
 </a-connectors.rf>
@@ -1987,6 +1994,7 @@
 <target_node.rf>t-ln94200-32-p3s1w9</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-32-p4s1w6</LM>
 </a-connectors.rf>
@@ -2450,6 +2458,7 @@
 <target_node.rf>t-ln94200-32-p4s1w9</target_node.rf>
 <type>list</type>
 <start_range>3</start_range>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-32-p5s1w6</LM>
 </a-connectors.rf>
@@ -3342,6 +3351,8 @@
 <t_lemma>#Slash</t_lemma>
 <functor>CONJ</functor>
 <deepord>3</deepord>
+<discourse_comment>wrongTR  -tady evidentně
+chybí kus textu</discourse_comment>
 <children>
 <LM id="t-ln94200-32-p6s1w1">
 <a>

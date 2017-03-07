@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95047_039.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -791,6 +791,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-039-p2s3w4</LM>
 </t-connectors.rf>
@@ -890,6 +891,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-039-p2s3w8</LM>
 </a-connectors.rf>
@@ -1523,6 +1525,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-039-p3s1w18</LM>
 </t-connectors.rf>
@@ -2904,6 +2907,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-039-p5s2w15</LM>
 </a-connectors.rf>
@@ -3226,6 +3230,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-039-p5s2w21</LM>
 </t-connectors.rf>
@@ -3433,6 +3438,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95047-039-p5s3w4">
 <a>
@@ -3616,6 +3622,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-039-p5s3w14</LM>
 </t-connectors.rf>
@@ -3822,6 +3829,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-039-p6s1w6</LM>
 </t-connectors.rf>
@@ -4829,6 +4837,10 @@
 <target_group_id>2</target_group_id>
 <target_range>group</target_range>
 <discourse_type>reason</discourse_type>
+<comment>implicitní složky
+významu, ale
+f_reason to není</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-039-p6s4w24</LM>
 </t-connectors.rf>
@@ -5276,6 +5288,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-039-p7s1w1</LM>
 </a-connectors.rf>

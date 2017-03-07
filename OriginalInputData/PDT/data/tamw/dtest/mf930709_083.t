@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_083.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -325,6 +325,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-083-p2s1Bw13</LM>
 <LM>t-mf930709-083-p2s1Bw14</LM>
@@ -431,6 +432,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
+<discourse_comment>wrongTR? nema u tohoto uzlu byt odkaz na "chtěli"?
+(jinak nema smysl anotovat preced)</discourse_comment>
 <val_frame.rf>v#v-w5388f1</val_frame.rf>
 <children>
 <LM id="t-mf930709-083-p2s1Bw14">
@@ -1571,6 +1574,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-083-p3s2w13</LM>
 <LM>t-mf930709-083-p3s2w5</LM>
@@ -1716,6 +1720,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-083-p3s3w5</LM>
 </t-connectors.rf>
@@ -2557,6 +2562,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-083-p3s6w9</LM>
 </t-connectors.rf>

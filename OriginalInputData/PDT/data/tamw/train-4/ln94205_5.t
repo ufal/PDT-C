@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94205_5.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -555,11 +555,15 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-5-p2s2w10</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR?
+vztah mezi větami je
+v podstatě APPS</discourse_comment>
 <children>
 <LM id="t-ln94205-5-p2s2w14">
 <a>
@@ -724,6 +728,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-5-p2s2w20</LM>
 </t-connectors.rf>
@@ -1114,6 +1119,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-5-p2s3w21</LM>
 </t-connectors.rf>
@@ -1547,6 +1553,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-5-p2s4w19</LM>
 </t-connectors.rf>
@@ -1741,6 +1748,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-5-p2s5w3</LM>
 </t-connectors.rf>
@@ -1872,6 +1880,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-5-p2s5w6</LM>
 <LM>t-ln94205-5-p2s5w7</LM>
@@ -2983,6 +2992,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-5-p3s3w20</LM>
 </t-connectors.rf>
@@ -3245,6 +3255,8 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem i</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-5-p3s5w7</LM>
 </t-connectors.rf>
@@ -3452,6 +3464,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-5-p3s5w15</LM>
 <LM>t-ln94205-5-p3s5w11</LM>
@@ -4220,6 +4233,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-5-p4s1w14</LM>
 <LM>t-ln94205-5-p4s1w8</LM>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_126.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1300,9 +1300,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
-<t-connectors.rf>
+<src>pdit10</src>
+<a-connectors.rf>
+<LM>a#a-ln94200-126-p2s3w1</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
 <LM>t-ln94200-126-p2s3w2</LM>
-</t-connectors.rf>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
@@ -2038,6 +2043,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-126-p3s2w2</LM>
 </t-connectors.rf>
@@ -2161,6 +2168,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-126-p3s2a0</LM>
 <LM>t-ln94200-126-p3s2w8</LM>
@@ -2348,6 +2356,11 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary předně
+strukturuje text, 
+ve větě 30 je slovo další, 
+hodně nezřetelný 
+adept na seznam</discourse_comment>
 </LM>
 <LM id="t-ln94200-126-p4s1w3">
 <a>
@@ -2798,6 +2811,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-126-p4s2a0</LM>
 <LM>t-ln94200-126-p4s2w12</LM>
@@ -3123,6 +3137,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-126-p4s4w7</LM>
 </t-connectors.rf>
@@ -3453,6 +3468,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-126-p4s4w17</LM>
 </t-connectors.rf>
@@ -3866,6 +3882,20 @@
 </gram>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94200-126-p4s6w5</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94200-126-p4s6w9</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w8024f2</val_frame.rf>
 <children>
 <LM id="t-ln94200-126-p4s6a1">
@@ -4054,6 +4084,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-126-p4s7w2</LM>
 </t-connectors.rf>
@@ -4907,6 +4938,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>věta končí tečkou i
+pomlčkou  -kdyby byla
+jen pomlčka, byla by mezi 
+17 a 18 REASON</discourse_comment>
 <val_frame.rf>v#v-w1339f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-126-p5s2Aw2">
@@ -5618,6 +5653,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-126-p5s3w14</LM>
 </a-connectors.rf>
@@ -5941,6 +5977,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-126-p5s4w2</LM>
 </t-connectors.rf>
@@ -6249,6 +6286,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-126-p6s1w10</LM>
 </t-connectors.rf>
@@ -6721,6 +6759,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-126-p6s3w5</LM>
 </t-connectors.rf>
@@ -7177,6 +7216,8 @@
 <start_range>0</start_range>
 <target_range>backward</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-126-p7s2w1</LM>
 </t-connectors.rf>
@@ -7540,6 +7581,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-126-p7s3w1</LM>
 </t-connectors.rf>
@@ -7703,6 +7745,20 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94200-126-p7s2w5</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>-1</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94200-126-p7s4w1</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w8533f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-126-p7s4w1">
@@ -7803,6 +7859,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-126-p7s4w9</LM>
 </a-connectors.rf>
@@ -7911,6 +7968,23 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94200-126-p7s4w3</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>-6</target_range>
+<discourse_type>opp</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln94200-126-p8s1w2</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94200-126-p8s1w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-126-p8s1w2">
@@ -8242,6 +8316,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-126-p8s2w2</LM>
 <LM>a#a-ln94200-126-p8s2w1</LM>
@@ -8290,6 +8365,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>5</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <children>
 <LM id="t-ln94200-126-p8s2w9">
 <a>
@@ -9213,6 +9289,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-126-p9s3w16</LM>
 </t-connectors.rf>
@@ -9674,6 +9751,11 @@
 <start_range>0</start_range>
 <target_range>backward</target_range>
 <discourse_type>conj</discourse_type>
+<comment>výslovně ukazuje
+k větě 5, ale
+navazuje na celý text 
+od této věty</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-126-p10s1w1</LM>
 </t-connectors.rf>
@@ -10872,6 +10954,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-126-p10s3w27</LM>
 </a-connectors.rf>
@@ -11292,6 +11375,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-126-p11s2a0</LM>
 <LM>t-ln94200-126-p11s2w9</LM>

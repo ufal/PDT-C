@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_019.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1500,6 +1500,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-019-p1s6a0</LM>
 </t-connectors.rf>
@@ -1783,6 +1784,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-019-p1s7w11</LM>
 </t-connectors.rf>
@@ -2449,6 +2451,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR, 
+(9) a (10)
+patří evidentně 
+do jednoho stromu </discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-lnd94103-019-p1s4w8</target_node.rf>
@@ -2677,6 +2683,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-019-p1s10w11</LM>
 </t-connectors.rf>

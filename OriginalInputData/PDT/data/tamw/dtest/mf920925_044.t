@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920925_044.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -874,6 +874,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s4w1</LM>
 </t-connectors.rf>
@@ -988,6 +989,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s5w6</LM>
 </t-connectors.rf>
@@ -1393,6 +1395,7 @@
 <start_range>group</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s7w10</LM>
 </t-connectors.rf>
@@ -1501,6 +1504,9 @@
 </LM>
 </quot>
 <deepord>9</deepord>
+<discourse_comment>wrongTR? na "ale" bych povesila "a" a na nej "Mel
+jsem pocit, ze motor je obsahem handicapovan" a 
+"nasadil dvojite zapalovani"</discourse_comment>
 <children>
 <LM id="t-mf920925-044-p2s7w9">
 <a>
@@ -1763,6 +1769,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s7w15</LM>
 </t-connectors.rf>
@@ -2236,6 +2243,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s8Bw5</LM>
 </t-connectors.rf>
@@ -2828,6 +2836,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-044-p2s10w4</LM>
 </a-connectors.rf>
@@ -3317,6 +3326,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s12w1</LM>
 <LM>t-mf920925-044-p2s12w5</LM>
@@ -3738,6 +3748,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s14Aw7</LM>
 </t-connectors.rf>
@@ -4024,6 +4035,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s15w3</LM>
 </t-connectors.rf>
@@ -5259,6 +5271,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s20w3</LM>
 </t-connectors.rf>
@@ -5300,6 +5313,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-044-p2s20w1</LM>
 </a-connectors.rf>
@@ -5417,6 +5431,8 @@
 </quot>
 <tfa>t</tfa>
 <deepord>6</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
+s anotaci COND na TR</discourse_comment>
 </LM>
 <LM id="t-mf920925-044-p2s20a1">
 <nodetype>complex</nodetype>
@@ -5546,6 +5562,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s21w1</LM>
 </t-connectors.rf>
@@ -5679,6 +5696,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s21w7</LM>
 </t-connectors.rf>
@@ -5805,6 +5823,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s21w11</LM>
 </t-connectors.rf>
@@ -6070,6 +6089,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-044-p2s22w7</LM>
 </a-connectors.rf>
@@ -6496,6 +6516,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s23Aw5</LM>
 </t-connectors.rf>
@@ -6698,6 +6719,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s23Aw9</LM>
 </t-connectors.rf>
@@ -7868,6 +7890,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s29w1</LM>
 </t-connectors.rf>
@@ -8714,6 +8737,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s32w7</LM>
 </t-connectors.rf>
@@ -8798,6 +8822,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <children>
 <LM id="t-mf920925-044-p2s32w12">
 <a>
@@ -9122,6 +9147,7 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s34w2</LM>
 </t-connectors.rf>
@@ -9132,6 +9158,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-044-p2s34w1</LM>
 </a-connectors.rf>
@@ -9718,6 +9745,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s36Bw1</LM>
 <LM>t-mf920925-044-p2s36Bw5</LM>
@@ -10264,6 +10292,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s38w7</LM>
 </t-connectors.rf>

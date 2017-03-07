@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95048_081.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -624,6 +624,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-081-p2s1Cw20</LM>
 </t-connectors.rf>
@@ -894,6 +895,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>restr</secondary_NP_type>
 </LM>
 <LM id="t-ln95048-081-p3s2w3">
 <a>
@@ -1516,6 +1518,25 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln95048-081-p3s4w8</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<comment>Regard</comment>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln95048-081-p3s4w6</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln95048-081-p3s4w6</LM>
+<LM>t-ln95048-081-p3s4w5</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w3462f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-081-p3s3a0">
@@ -1988,6 +2009,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-081-p3s4w14</LM>
 </a-connectors.rf>
@@ -2149,6 +2171,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-081-p3s5w2</LM>
 </t-connectors.rf>
@@ -2604,6 +2627,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-081-p4s1w8</LM>
 </t-connectors.rf>
@@ -3296,6 +3320,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-081-p4s1w49</LM>
 </t-connectors.rf>

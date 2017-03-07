@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94206_87.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -925,6 +925,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-87-p2s1Bw38</LM>
 </a-connectors.rf>
@@ -1790,6 +1791,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p3s1w4</LM>
 </t-connectors.rf>
@@ -1836,6 +1838,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-87-p3s1w7</LM>
 </a-connectors.rf>
@@ -2818,6 +2821,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>27</deepord>
+<discourse_comment>wrongTR? nema "produkt" viset na dash? nema dash
+viset na "procento"?</discourse_comment>
 <children>
 <LM id="t-ln94206-87-p3s3w35">
 <a>
@@ -3166,6 +3171,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
+<discourse_comment>wrongTR? nema "naakumulovat" viset na "fakt"?
+nema "a" viset na "dluh"  -a na "a" by viselo 
+"blížit se" a "překročit"?</discourse_comment>
 <val_frame.rf>v#v-w1929f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-87-p3s4w9">
@@ -3460,6 +3468,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p3s4w27</LM>
 <LM>t-ln94206-87-p3s4w36</LM>
@@ -3685,6 +3694,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-87-p3s5w7</LM>
 </a-connectors.rf>
@@ -3918,6 +3928,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p4s1w14</LM>
 </t-connectors.rf>
@@ -4012,6 +4023,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p4s1w4</LM>
 </t-connectors.rf>
@@ -5263,6 +5275,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p4s4w1</LM>
 </t-connectors.rf>
@@ -5567,6 +5580,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p4s6w8</LM>
 </t-connectors.rf>
@@ -5982,6 +5996,8 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>23</deepord>
+<discourse_comment>wrongTR, má viset
+na uzlu s tedy</discourse_comment>
 <children>
 <LM id="t-ln94206-87-p4s7w15">
 <a>
@@ -6080,11 +6096,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-87-p4s7w3</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR? nemela by tato vedlejsi veta rozvijet
+vsechny pritomne vety hlavni?</discourse_comment>
 <val_frame.rf>v#v-w6496f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-87-p4s7w5">
@@ -6373,6 +6392,7 @@
 <target_group_id>2</target_group_id>
 <target_range>group</target_range>
 <discourse_type>equiv</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p4s7w25</LM>
 </t-connectors.rf>
@@ -6676,6 +6696,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p4s7w41</LM>
 </t-connectors.rf>
@@ -6702,6 +6723,9 @@
 <id>3</id>
 </LM>
 </discourse_groups>
+<discourse_comment>je to vubec PREC?,
+tady je rozhodně 
+CONJ_PJ</discourse_comment>
 </LM>
 <LM id="t-ln94206-87-p4s7w43">
 <a>
@@ -6824,6 +6848,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p5s1w2</LM>
 </t-connectors.rf>
@@ -7615,6 +7640,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p5s3w3</LM>
 </t-connectors.rf>
@@ -8196,6 +8222,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
+<comment>lze vnímat i jako
+explicat, ale bez
+konektoru je těžké
+jasně rozhodnout</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p6s1w22</LM>
 </t-connectors.rf>
@@ -8519,6 +8550,24 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>11</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94206-87-p6s1w1</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>exempl</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94206-87-p6s2w2</LM>
+</t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94206-87-p6s2w1</LM>
+<LM>t-ln94206-87-p6s2w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-ln94206-87-p6s3w2">
 <a>
@@ -8718,6 +8767,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p6s3w14</LM>
 </t-connectors.rf>
@@ -8890,6 +8940,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>9</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94206-87-p6s4w6">
 <a>
@@ -9073,6 +9124,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p6s4w9</LM>
 </t-connectors.rf>
@@ -9224,6 +9276,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p6s4w22</LM>
 </t-connectors.rf>
@@ -9486,6 +9539,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 </LM>
 <LM id="t-ln94206-87-p6s5w4">
 <a>
@@ -9670,6 +9725,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p6s5w14</LM>
 </t-connectors.rf>
@@ -10281,6 +10337,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p6s7w8</LM>
 </t-connectors.rf>
@@ -10386,6 +10443,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p7s1w8</LM>
 </t-connectors.rf>
@@ -10415,6 +10473,24 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94206-87-p7s2w1</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln94206-87-p7s2w12</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94206-87-p7s2w12</LM>
+<LM>t-ln94206-87-p7s2w11</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w7583f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-87-p7s1w2">
@@ -10641,6 +10717,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
+<discourse_comment>wrongTR? nemaji mit vyrazy v zavorce 
+is_parenthesis = 1?</discourse_comment>
 <val_frame.rf>v#v-w1261f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-87-p7s1a2">
@@ -10732,6 +10810,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p7s1w23</LM>
 </t-connectors.rf>
@@ -10876,6 +10955,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p7s2w2</LM>
 </t-connectors.rf>
@@ -11461,6 +11541,7 @@
 <start_range>0</start_range>
 <target_range>13</target_range>
 <discourse_type>gener</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p8s1w2</LM>
 </t-connectors.rf>
@@ -11632,6 +11713,23 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94206-87-p8s1w10</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>explicat</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln94206-87-p8s2w4</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94206-87-p8s2w4</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w7583f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-87-p8s2w4">
@@ -11830,6 +11928,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p8s3w8</LM>
 </t-connectors.rf>
@@ -12462,6 +12561,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p8s5w11</LM>
 </t-connectors.rf>
@@ -12478,6 +12578,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>9</deepord>
+<discourse_comment>tento prec neni pripojen k zadne sipce  -souhlasim
+s anotaci CONJ na TR.</discourse_comment>
 </LM>
 <LM id="t-ln94206-87-p8s5w16">
 <a>

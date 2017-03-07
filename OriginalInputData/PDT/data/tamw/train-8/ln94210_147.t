@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94210_147.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -846,6 +846,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-147-p2s2w7</LM>
 </t-connectors.rf>
@@ -1147,6 +1148,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-147-p2s3w13</LM>
 </t-connectors.rf>
@@ -1615,6 +1617,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-147-p3s1w18</LM>
 </t-connectors.rf>
@@ -2686,6 +2689,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-147-p4s3w1</LM>
 <LM>a#a-ln94210-147-p4s3w2</LM>
@@ -3045,6 +3049,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-147-p4s4w7</LM>
 </t-connectors.rf>
@@ -3139,6 +3144,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<comment>second_rel SYNCHR zatimco</comment>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-147-p4s4w15</LM>
 </a-connectors.rf>
@@ -3318,6 +3325,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-147-p4s5w2</LM>
 </t-connectors.rf>
@@ -3755,6 +3763,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<comment>lze pojímat i jako vztah 
+mezi NP, ale slovesa a 
+konektor snad anotaci
+ospravedlňují</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-147-p5s2w1</LM>
 </t-connectors.rf>
@@ -4315,6 +4328,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-147-p6s2w3</LM>
 </t-connectors.rf>
@@ -5754,6 +5768,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-147-p7s2w9</LM>
 </t-connectors.rf>

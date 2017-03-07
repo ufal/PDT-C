@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_015.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -157,6 +157,7 @@
 <start_range>group</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-015-p2s5w13</LM>
 </t-connectors.rf>
@@ -1228,6 +1229,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-015-p2s2w31</LM>
 <LM>t-mf920922-015-p2s2w34</LM>
@@ -1459,6 +1461,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-015-p2s3w3</LM>
 </t-connectors.rf>
@@ -1727,6 +1730,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>CONJ spíš než SYNCHR</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-015-p2s4w4</LM>
 </t-connectors.rf>
@@ -2270,6 +2275,7 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-015-p2s7w2</LM>
 </t-connectors.rf>
@@ -2657,6 +2663,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary to je v rozporu</discourse_comment>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
 <children>
 <LM id="t-mf920922-015-p2s6w1">
@@ -4028,6 +4035,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-015-p2s9Aw2</LM>
 <LM>t-mf920922-015-p2s9Aw3</LM>
@@ -4369,6 +4377,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-015-p2s9Aw22</LM>
 <LM>t-mf920922-015-p2s9Aw21</LM>
@@ -4758,6 +4767,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-015-p2s9Bw3</LM>
 </t-connectors.rf>
@@ -5604,6 +5614,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-015-p2s11Aw14</LM>
 </t-connectors.rf>
@@ -8315,6 +8326,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-015-p2s19w2</LM>
 </t-connectors.rf>
@@ -9520,6 +9532,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-015-p2s22w9</LM>
 </t-connectors.rf>
@@ -9642,6 +9655,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-015-p2s23w9</LM>
 </t-connectors.rf>
@@ -9963,6 +9977,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-015-p2s24w1</LM>
 </t-connectors.rf>
@@ -10567,6 +10582,11 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>5</deepord>
+<discourse_comment>wrongTR
+nesouvisející segment
+textu, chyba? nebo autoři
+předešlé části a 30  -37
+je samostatný text?</discourse_comment>
 <children>
 <LM id="t-mf920922-015-p3s1Aw2">
 <a>

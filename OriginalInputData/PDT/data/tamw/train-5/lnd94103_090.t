@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_090.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -668,6 +668,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-090-p1s3w3</LM>
 </a-connectors.rf>
@@ -2665,6 +2666,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-090-p1s9w2</LM>
 <LM>t-lnd94103-090-p1s9w3</LM>
@@ -3319,6 +3321,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>exempl</secondary_NP_type>
 </LM>
 <LM id="t-lnd94103-090-p1s10w4">
 <a>
@@ -6310,6 +6313,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-090-p1s17w1</LM>
 </a-connectors.rf>
@@ -6437,6 +6441,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-090-p1s17w18</LM>
 </t-connectors.rf>
@@ -6552,6 +6557,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-090-p1s18w8</LM>
 </t-connectors.rf>
@@ -6562,6 +6568,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-090-p1s19w5</LM>
 </t-connectors.rf>
@@ -7449,6 +7456,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-lnd94103-090-p1s21w27">
@@ -7773,6 +7781,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-090-p1s21w16</LM>
 </t-connectors.rf>

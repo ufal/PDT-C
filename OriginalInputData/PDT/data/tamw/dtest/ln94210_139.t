@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94210_139.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -944,6 +944,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-139-p2s9w8</LM>
 </t-connectors.rf>
@@ -1127,6 +1128,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-139-p2s10w6</LM>
 </t-connectors.rf>
@@ -2928,6 +2930,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-139-p4s1w1</LM>
 </t-connectors.rf>
@@ -3135,6 +3138,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR? nemaji 22 a 23 byt jeden strom?</discourse_comment>
 <val_frame.rf>v#v-w3333f1</val_frame.rf>
 <children>
 <LM id="t-ln94210-139-p4s2w3">
@@ -3254,6 +3258,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-139-p4s2w10</LM>
 </a-connectors.rf>
@@ -3510,6 +3515,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR? nemaji vety 24 a 25 byt jeden strom?</discourse_comment>
 <val_frame.rf>v#v-w5874f1</val_frame.rf>
 <children>
 <LM id="t-ln94210-139-p4s4a1">
@@ -4051,6 +4057,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-139-p4s5w31</LM>
 </a-connectors.rf>
@@ -4180,6 +4187,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-139-p4s5w39</LM>
 </a-connectors.rf>
@@ -4382,6 +4390,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-139-p4s5w51</LM>
 </a-connectors.rf>
@@ -4786,6 +4795,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-139-p4s7w9</LM>
 </a-connectors.rf>
@@ -5172,6 +5182,11 @@
 </gram>
 <tfa>t</tfa>
 <deepord>11</deepord>
+<discourse_comment>"pak" je konektor implicitni podminky  -"pokud
+by se zeptali, padla by pak otazka"
+vztah reason je mezi podstromy "padnout" a 
+"ptat se", ten ale nema konektor, tak neni 
+anotovan.</discourse_comment>
 </LM>
 <LM id="t-ln94210-139-p4s8w17">
 <a>
@@ -5345,6 +5360,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-139-p4s9w2</LM>
 </t-connectors.rf>

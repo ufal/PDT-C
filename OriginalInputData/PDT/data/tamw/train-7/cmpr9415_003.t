@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9415_003.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1130,6 +1130,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-003-p4s4w6</LM>
 </t-connectors.rf>
@@ -1893,6 +1894,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <val_frame.rf>v#v-w5281f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-003-p5s3w1">
@@ -3223,6 +3225,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-003-p7s3w12</LM>
 </t-connectors.rf>
@@ -3341,6 +3344,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-003-p7s5w4</LM>
 </t-connectors.rf>
@@ -3514,6 +3518,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-003-p7s4w13</LM>
 </t-connectors.rf>
@@ -4014,6 +4019,30 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-cmpr9415-003-p7s6w1</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>f_cond</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-cmpr9415-003-p7s6w7</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-cmpr9415-003-p7s6w8</LM>
+<LM>a#a-cmpr9415-003-p7s6w9</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-cmpr9415-003-p7s6w7</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
+<discourse_comment>zmenit trasu jde urcite 
+i v pripade, ze jsou silnice 
+sjizdne, proto f_cond</discourse_comment>
 <val_frame.rf>v#v-w6496f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-003-p7s6w12">
@@ -4657,6 +4686,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-003-p9s2w13</LM>
 </t-connectors.rf>
@@ -5091,6 +5121,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-003-p9s3w14</LM>
 </t-connectors.rf>
@@ -6398,6 +6429,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-003-p11s3w3</LM>
 </t-connectors.rf>
@@ -6408,6 +6440,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-003-p12s1w1</LM>
 </t-connectors.rf>
@@ -6900,6 +6933,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-003-p12s2w2</LM>
 </t-connectors.rf>

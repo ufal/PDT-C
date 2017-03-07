@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94209_96.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -981,6 +981,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-96-p2s3w1</LM>
 <LM>t-ln94209-96-p2s3w2</LM>
@@ -1239,6 +1240,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>
+</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-96-p2s4w6</LM>
 </t-connectors.rf>
@@ -1740,6 +1744,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94209-96-p2s5w19</LM>
 <LM>t-ln94209-96-p2s5w20</LM>
@@ -1978,6 +1983,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-96-p2s6w3</LM>
 </t-connectors.rf>

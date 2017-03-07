@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94211_108.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1012,6 +1012,20 @@
 </gram>
 <tfa>t</tfa>
 <deepord>8</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94211-108-p2s3w12</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94211-108-p2s3w3</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w417f3</val_frame.rf>
 <children>
 <LM id="t-ln94211-108-p2s3w8">
@@ -3059,6 +3073,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase
+Vyplývání (vyvození výsledků)</discourse_comment>
 <val_frame.rf>v#v-w8207f1</val_frame.rf>
 <children>
 <LM id="t-ln94211-108-p4s2w5">
@@ -3195,6 +3212,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-108-p4s2w4</LM>
 <LM>t-ln94211-108-p4s2w12</LM>
@@ -4236,6 +4254,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-108-p4s3w34</LM>
 </t-connectors.rf>
@@ -5488,6 +5507,7 @@
 <t_lemma>ale</t_lemma>
 <functor>ADVS</functor>
 <deepord>17</deepord>
+<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94211-108-p6s2w6">
 <a>
@@ -5521,6 +5541,7 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-108-p6s2w12</LM>
 </t-connectors.rf>

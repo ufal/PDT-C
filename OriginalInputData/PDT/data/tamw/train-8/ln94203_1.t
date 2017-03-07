@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94203_1.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -686,6 +686,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-1-p2s2w4</LM>
 </t-connectors.rf>
@@ -1970,6 +1971,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-1-p3s3w19</LM>
 </t-connectors.rf>
@@ -2088,6 +2090,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-1-p3s4w1</LM>
 </a-connectors.rf>
@@ -3160,6 +3163,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-1-p4s3w3</LM>
 </t-connectors.rf>
@@ -3437,9 +3441,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
-<t-connectors.rf>
+<src>pdit10</src>
+<a-connectors.rf>
+<LM>a#a-ln94203-1-p4s4w5</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
 <LM>t-ln94203-1-p4s4w6</LM>
-</t-connectors.rf>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w198f1</val_frame.rf>
@@ -5590,6 +5599,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-1-p6s2w11</LM>
 </t-connectors.rf>
@@ -5869,6 +5879,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-1-p6s3w11</LM>
 </a-connectors.rf>
@@ -5998,6 +6009,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-1-p6s4w2</LM>
 </t-connectors.rf>
@@ -6068,6 +6080,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-1-p6s4w1</LM>
 </a-connectors.rf>
@@ -6308,6 +6321,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-1-p6s4w19</LM>
 </t-connectors.rf>
@@ -6537,6 +6551,7 @@
 <start_range>4</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-1-p9s1w3</LM>
 </t-connectors.rf>
@@ -6553,6 +6568,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neanotuji, vztah exempl je 
+mezi NP "mnozstvi potencionalnich 
+ekologickych bomb" a vetou (23)</discourse_comment>
 </LM>
 <LM id="t-ln94203-1-p7s1w2">
 <a>
@@ -7629,6 +7647,8 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>kromě celých ponorek...
+odkaz k NP, neanotováno</discourse_comment>
 <coref_special>segm</coref_special>
 </LM>
 <LM id="t-ln94203-1-p8s1w5">
@@ -8136,9 +8156,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-1-p8s2w19</LM>
 </t-connectors.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w4085f1</val_frame.rf>
@@ -8503,6 +8525,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-1-p9s1w12</LM>
 </t-connectors.rf>

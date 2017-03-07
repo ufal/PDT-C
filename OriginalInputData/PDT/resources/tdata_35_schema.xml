@@ -4,7 +4,7 @@
   <description>PDT 3.5 tectogrammatic trees</description>
   <reference name="adata" readas="trees"/>
 
-  <import schema="wdata_35_schema.xml" type="bool.type"/>
+  <import schema="wdata_30_schema.xml" type="bool.type"/>
 
   <root name="tdata" type="t-tdata.type"/>
 
@@ -140,11 +140,16 @@
         <cdata format="nonNegativeInteger"/>
       </member>
       <member name="discourse_special" type="t-discourse-special.type" required="0"/>
+      <member name="secondary_NP_type" type="t-discourse-type.type" required="0"/> <!-- a provisional attribute for annotating disc. type of secondary connectives connecting a non-verbal argument -->
+      <member name="secondary_NP_negated" type="bool.type" required="0"/> <!-- a provisional attribute for marking a negated NP secondary connectives connecting a non-verbal argument -->
       <member name="discourse" required="0">
         <list ordered="0" type="t-discourse-link.type"/>
       </member>
       <member name="discourse_groups" required="0">
         <list ordered="0" type="t-discourse-groups.type"/>
+      </member>
+      <member name="discourse_comment" required="0">
+        <cdata format="any"/>
       </member>
       <member name="bridging" required="0">
         <list ordered="0" type="t-bridging-link.type"/>
@@ -586,10 +591,10 @@
       </member>
       <member name="discourse_type"  type="t-discourse-type.type" required="0"/>
       <member name="is_negated" type="bool.type" required="0"/>
-      <member name="comment" required="0"> <!-- for annotation purposes only (not in the distributed data) -->
+      <member name="comment" required="0">
         <cdata format="any"/>
       </member>
-      <member name="src" required="0"> <!-- for annotation purposes only (not in the distributed data) -->
+      <member name="src" required="0">
         <cdata format="any"/>
       </member>
       <member name="a-connectors.rf" required="0">
@@ -612,8 +617,7 @@
           <cdata format="PMLREF"/>
         </list>
       </member>
-      <member name="is_altlex" type="bool.type" required="0"/>
-      <member name="is_compositional" type="bool.type" required="0"/> <!-- EVALD -->
+      <member name="is_secondary" type="bool.type" required="0"/>
       <member name="all_a-connectors.rf" required="0"> <!-- for searching in PML-TQ only (not in the distributed data) -->
         <list ordered="0">
           <cdata format="PMLREF"/>

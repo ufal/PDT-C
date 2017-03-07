@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_031.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -778,6 +778,10 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR, 
+chybná segmentace,
+mají být
+dva stromy</discourse_comment>
 <children>
 <LM id="t-lnd94103-031-p1s3w2">
 <a>
@@ -1658,6 +1662,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-031-p1s6w23</LM>
 <LM>a#a-lnd94103-031-p1s6w33</LM>
@@ -1966,6 +1971,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-031-p1s7w1</LM>
 </a-connectors.rf>
@@ -2411,6 +2417,9 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>wrongTR,
+proč je 11 a 12
+anotováno jinak?</discourse_comment>
 <children>
 <LM id="t-lnd94103-031-p1s9w1">
 <a>
@@ -3199,6 +3208,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-031-p1s11w1</LM>
 </a-connectors.rf>
@@ -3238,6 +3248,11 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>vztah otázky
+a odpovědi  -proč?
+protože, anotovat na
+předchozí větu nedává
+smysl</discourse_comment>
 </LM>
 <LM id="t-lnd94103-031-p1s11a0">
 <nodetype>atom</nodetype>
@@ -3442,6 +3457,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-031-p1s12w1</LM>
 </t-connectors.rf>
@@ -3554,6 +3570,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-031-p1s12w8</LM>
 </a-connectors.rf>
@@ -4497,6 +4514,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-031-p1s16w1</LM>
 </a-connectors.rf>
@@ -5460,6 +5478,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w8207f1</val_frame.rf>
 <children>
 <LM id="t-lnd94103-031-p1s18w14">
@@ -6606,6 +6625,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-031-p1s23w1</LM>
 </a-connectors.rf>
@@ -6981,6 +7001,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-031-p1s24a0</LM>
 </t-connectors.rf>
@@ -7673,6 +7694,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-031-p1s26w15</LM>
 </t-connectors.rf>

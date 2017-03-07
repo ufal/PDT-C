@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94211_11.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -460,6 +460,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-11-p2s1w26</LM>
 </t-connectors.rf>
@@ -2156,6 +2157,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>8</deepord>
+<discourse_comment>secondary od té doby</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94211-11-p3s5w6</target_node.rf>

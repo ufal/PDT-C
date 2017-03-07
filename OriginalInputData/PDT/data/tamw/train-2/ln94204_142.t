@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94204_142.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -591,6 +591,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-142-p2s2w3</LM>
 </t-connectors.rf>
@@ -913,6 +914,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-142-p2s3Aw11</LM>
 </a-connectors.rf>
@@ -1130,6 +1132,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-142-p2s3Aw25</LM>
 </t-connectors.rf>
@@ -1320,6 +1323,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-142-p2s3Aw36</LM>
 </t-connectors.rf>
@@ -1758,6 +1762,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-142-p2s5w2</LM>
 </t-connectors.rf>
@@ -2032,6 +2037,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-142-p2s5w6</LM>
 </a-connectors.rf>
@@ -2664,6 +2670,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>nadbytečný konektor,
+divné užití</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-142-p2s8w2</LM>
 </t-connectors.rf>
@@ -2875,6 +2884,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-142-p2s8w12</LM>
 </t-connectors.rf>
@@ -2895,6 +2905,10 @@
 </gram>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse_comment>zde to není následnost po ději
+první části struktury,
+ale "po uplynutí 48 hodin," proto
+neanotováno</discourse_comment>
 </LM>
 <LM id="t-ln94204-142-p2s8w17">
 <a>
@@ -4801,6 +4815,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-142-p2s13w8</LM>
 </t-connectors.rf>
@@ -4905,6 +4920,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-142-p2s13w14</LM>
 </t-connectors.rf>
@@ -5148,6 +5164,24 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94204-142-p2s15w11</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94204-142-p2s15w2</LM>
+</t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94204-142-p2s15w2</LM>
+<LM>t-ln94204-142-p2s15w1</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w9531f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-142-p2s14w9">
@@ -5443,6 +5477,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-142-p2s15w8</LM>
 </a-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94205_107.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -128,6 +128,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-107-p1s1a1</LM>
 <LM>t-ln94205-107-p1s1w5</LM>
@@ -397,6 +398,8 @@
 <t_lemma>především</t_lemma>
 <functor>CM</functor>
 <deepord>11</deepord>
+<discourse_comment>wrongTR, má viset
+na doplněném být</discourse_comment>
 </LM>
 <LM id="t-ln94205-107-p2s1Ba2">
 <a>
@@ -426,6 +429,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-107-p2s1Ba0</LM>
 <LM>t-ln94205-107-p2s1Bw14</LM>
@@ -437,6 +441,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-107-p2s2w1</LM>
 </t-connectors.rf>
@@ -3091,6 +3096,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
+<discourse_comment>wrongTR?,
+souvětné  -být a elidované být
+mezi nimi vztah CORR, konektor
+ale a negace</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-107-p3s8w17">
@@ -3301,6 +3310,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-107-p3s9w4</LM>
 </t-connectors.rf>
@@ -4573,6 +4583,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-107-p4s3w12</LM>
 <LM>a#a-ln94205-107-p4s3w14</LM>
@@ -4812,6 +4823,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-107-p4s4w8</LM>
 </t-connectors.rf>
@@ -4964,6 +4976,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-107-p4s5w5</LM>
 </t-connectors.rf>
@@ -5330,6 +5343,10 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>11</deepord>
+<discourse_comment>wrongTR?
+dvě vedlejší objektové
+klauze by snad byla přesnější
+interpretace</discourse_comment>
 <children>
 <LM id="t-ln94205-107-p4s7w1">
 <a>
@@ -5536,6 +5553,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-107-p4s7a1</LM>
 </t-connectors.rf>
@@ -5971,6 +5989,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-107-p4s9w8</LM>
 </t-connectors.rf>
@@ -6094,6 +6113,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-107-p4s9a1</LM>
 </t-connectors.rf>
@@ -6196,6 +6216,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>wrongTR?
+není vidět parcelace</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-107-p4s10w1">
@@ -6622,6 +6644,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-107-p4s12w10</LM>
 </t-connectors.rf>
@@ -6841,6 +6864,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-107-p4s13w6</LM>
 </t-connectors.rf>

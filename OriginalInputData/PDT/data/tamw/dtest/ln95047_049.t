@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95047_049.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -812,6 +812,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-049-p2s2w17</LM>
 </t-connectors.rf>
@@ -1850,6 +1851,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-049-p3s2w14</LM>
 </t-connectors.rf>
@@ -2540,6 +2542,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-049-p4s1w7</LM>
 </t-connectors.rf>
@@ -2709,6 +2712,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-049-p4s1w10</LM>
 </t-connectors.rf>
@@ -2725,6 +2729,11 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>wrongTR, ovšem
+visí špatně  -
+je to už dcera
+být nebo coap
+uzlu</discourse_comment>
 </LM>
 <LM id="t-ln95047-049-p4s1w15">
 <a>
@@ -2977,6 +2986,7 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-049-p4s2w2</LM>
 </t-connectors.rf>
@@ -3190,6 +3200,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-049-p4s2w19</LM>
 </t-connectors.rf>
@@ -3971,6 +3982,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-049-p4s4w23</LM>
 </t-connectors.rf>
@@ -4163,6 +4175,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-049-p4s5w4</LM>
 </t-connectors.rf>

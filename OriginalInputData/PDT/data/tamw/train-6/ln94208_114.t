@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94208_114.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -391,6 +391,28 @@
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94208-114-p2s1Bw16</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln94208-114-p2s1Bw17</LM>
+<LM>a#a-ln94208-114-p2s1Bw18</LM>
+</a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln94208-114-p2s1Bw17</LM>
+<LM>a#a-ln94208-114-p2s1Bw18</LM>
+<LM>a#a-ln94208-114-p2s1Bw19</LM>
+<LM>a#a-ln94208-114-p2s1Bw20</LM>
+<LM>a#a-ln94208-114-p2s1Bw21</LM>
+</a-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w1855f2</val_frame.rf>
 <children>
 <LM id="t-ln94208-114-p2s1Bw23">
@@ -1047,6 +1069,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94208-114-p3s1w26</LM>
 <LM>t-ln94208-114-p3s1w27</LM>
@@ -1921,6 +1944,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-114-p3s4w9</LM>
 </t-connectors.rf>
@@ -2079,6 +2103,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-114-p3s5w9</LM>
 </t-connectors.rf>
@@ -2365,6 +2390,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-114-p3s5w25</LM>
 </t-connectors.rf>
@@ -2381,6 +2407,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>21</deepord>
+<discourse_comment>neanotuji, MANN</discourse_comment>
 </LM>
 <LM id="t-ln94208-114-p3s5a2">
 <nodetype>complex</nodetype>
@@ -2544,6 +2571,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-114-p3s6w3</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95048_144.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -340,6 +340,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<comment>otazka, zda target je cele souveti
+ci jen jeho 1. klauze</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-144-p2s2w3</LM>
 </t-connectors.rf>
@@ -872,6 +875,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-144-p2s2a0</LM>
 <LM>t-ln95048-144-p2s2w10</LM>

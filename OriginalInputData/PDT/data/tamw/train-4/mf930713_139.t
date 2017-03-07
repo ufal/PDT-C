@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930713_139.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -405,6 +405,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>4</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-mf930713-139-p2s2w4">
 <a>
@@ -1150,6 +1152,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-139-p2s3w21</LM>
 </t-connectors.rf>
@@ -1278,6 +1281,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-139-p2s3w32</LM>
 </a-connectors.rf>

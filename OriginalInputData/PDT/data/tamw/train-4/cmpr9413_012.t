@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9413_012.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -125,6 +125,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-012-p2s1w6</LM>
 </t-connectors.rf>
@@ -1398,6 +1399,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-012-p8s1w1</LM>
 </a-connectors.rf>
@@ -3207,6 +3209,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-012-p10s5w4</LM>
 </t-connectors.rf>
@@ -6532,6 +6535,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-012-p13s4w5</LM>
 </t-connectors.rf>
@@ -7812,6 +7816,8 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>11</deepord>
+<discourse_comment>wrongTR
+měla by být jmenná APPS</discourse_comment>
 <children>
 <LM id="t-cmpr9413-012-p15s1w6">
 <a>
@@ -7970,6 +7976,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-012-p15s3w1</LM>
 </t-connectors.rf>
@@ -8908,6 +8915,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-012-p17s4w1</LM>
 <LM>a#a-cmpr9413-012-p17s4w3</LM>
@@ -9303,6 +9311,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-012-p17s6w13</LM>
 </a-connectors.rf>
@@ -9803,6 +9812,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse_comment>není PREC, ale 
+koreferenční</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-012-p17s7w15">
 <a>
@@ -10306,6 +10317,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-012-p18s1w14</LM>
 </t-connectors.rf>
@@ -11169,6 +11181,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-012-p20s2w4</LM>
 </t-connectors.rf>
@@ -11375,6 +11388,7 @@
 <start_range>2</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-012-p20s6w1</LM>
 </t-connectors.rf>
@@ -11643,6 +11657,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-012-p20s4w4</LM>
 </t-connectors.rf>
@@ -12316,6 +12331,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-012-p20s7w3</LM>
 </t-connectors.rf>
@@ -12439,6 +12455,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-012-p20s8w3</LM>
 </t-connectors.rf>
@@ -12617,6 +12634,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-012-p20s8w14</LM>
 </t-connectors.rf>
@@ -12778,6 +12796,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR?</discourse_comment>
 <children>
 <LM id="t-cmpr9413-012-p21s1Aw3">
 <a>
@@ -12975,6 +12994,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-012-p21s1Bw8</LM>
 </t-connectors.rf>

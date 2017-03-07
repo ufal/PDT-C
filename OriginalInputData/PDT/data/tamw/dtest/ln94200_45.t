@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_45.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -342,6 +342,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-45-p2s2w3</LM>
 </t-connectors.rf>
@@ -1166,9 +1167,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
-<t-connectors.rf>
+<src>pdit10</src>
+<a-connectors.rf>
+<LM>a#a-ln94200-45-p3s2w1</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
 <LM>t-ln94200-45-p3s2w2</LM>
-</t-connectors.rf>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w1855f4</val_frame.rf>
@@ -1469,6 +1475,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94200-45-p3s2w12</LM>
 <LM>t-ln94200-45-p3s2w16</LM>
@@ -2048,6 +2055,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-45-p3s3w1</LM>
 </t-connectors.rf>
@@ -2058,9 +2066,15 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
-<t-connectors.rf>
+<src>pdit10</src>
+<a-connectors.rf>
+<LM>a#a-ln94200-45-p3s4w1</LM>
+<LM>a#a-ln94200-45-p3s4w2</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
 <LM>t-ln94200-45-p3s4w3</LM>
-</t-connectors.rf>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w7548f2</val_frame.rf>
@@ -2908,6 +2922,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-45-p4s2a0</LM>
 <LM>t-ln94200-45-p4s2w12</LM>
@@ -3263,6 +3278,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-45-p4s4w2</LM>
 </t-connectors.rf>
@@ -5163,6 +5179,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-45-p6s3w3</LM>
 </t-connectors.rf>
@@ -5931,6 +5948,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-45-p6s4w22</LM>
 </t-connectors.rf>
@@ -6052,6 +6070,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-45-p6s5w1</LM>
 </t-connectors.rf>
@@ -6251,6 +6270,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-45-p6s5w10</LM>
 </t-connectors.rf>
@@ -7840,6 +7860,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-45-p7s7w1</LM>
 </t-connectors.rf>
@@ -8169,12 +8190,19 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
-<LM>a#a-ln94200-45-p8s1w2</LM>
-<LM>a#a-ln94200-45-p8s1w5</LM>
 <LM>a#a-ln94200-45-p8s1w1</LM>
-<LM>a#a-ln94200-45-p8s1w3</LM>
+<LM>a#a-ln94200-45-p8s1w2</LM>
 </a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln94200-45-p8s1w1</LM>
+<LM>a#a-ln94200-45-p8s1w2</LM>
+<LM>a#a-ln94200-45-p8s1w3</LM>
+<LM>a#a-ln94200-45-p8s1w4</LM>
+<LM>a#a-ln94200-45-p8s1w5</LM>
+</a-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
@@ -8842,6 +8870,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-45-p8s4w17">

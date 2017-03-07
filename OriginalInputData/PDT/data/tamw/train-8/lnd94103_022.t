@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_022.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -68,6 +68,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
+<discourse_comment>text bez nadpisu</discourse_comment>
 <val_frame.rf>v#v-w8778f1</val_frame.rf>
 <children>
 <LM id="t-lnd94103-022-p1s3w3">

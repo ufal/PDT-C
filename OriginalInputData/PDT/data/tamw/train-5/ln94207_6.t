@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_6.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1161,6 +1161,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94207-6-p3s2w8</LM>
 <LM>t-ln94207-6-p3s2w13</LM>
@@ -1991,6 +1992,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-6-p4s1w19</LM>
 </t-connectors.rf>
@@ -2454,6 +2456,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-6-p4s3w8</LM>
 </t-connectors.rf>
@@ -2838,6 +2841,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>další možnost: 
+wrong TR  -tohle je přívlastková VV</comment>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-6-p4s4w19</LM>
 </a-connectors.rf>
@@ -3257,6 +3263,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-6-p5s1w15</LM>
 </t-connectors.rf>
@@ -3411,6 +3418,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-6-p5s3w1</LM>
 </t-connectors.rf>
@@ -4048,6 +4056,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-6-p5s5w1</LM>
 </a-connectors.rf>
@@ -5116,6 +5125,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-6-p6s1w26</LM>
 </a-connectors.rf>
@@ -5292,6 +5302,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-6-p6s2w10</LM>
 <LM>a#a-ln94207-6-p6s2w8</LM>
@@ -5422,6 +5433,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-6-p6s3w2</LM>
 </t-connectors.rf>

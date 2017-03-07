@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95047_062.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -127,6 +127,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-062-p2s2w1</LM>
 <LM>t-ln95047-062-p2s2w2</LM>
@@ -1244,6 +1245,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-062-p3s1w43</LM>
 <LM>a#a-ln95047-062-p3s1w44</LM>
@@ -1381,6 +1383,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-062-p3s2w3</LM>
 </a-connectors.rf>
@@ -1738,6 +1741,10 @@
 </gram>
 <tfa>t</tfa>
 <deepord>21</deepord>
+<discourse_comment>wrongTR?, 
+součást konektoru
+COND v tomto stromě,
+čas až druhotně</discourse_comment>
 </LM>
 <LM id="t-ln95047-062-p3s2a0">
 <nodetype>atom</nodetype>
@@ -2211,6 +2218,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-062-p4s1w13</LM>
 </t-connectors.rf>
@@ -3301,6 +3309,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-062-p4s3w1</LM>
 </t-connectors.rf>
@@ -3883,6 +3892,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-062-p5s2w17</LM>
 <LM>a#a-ln95047-062-p5s2w16</LM>
@@ -4288,6 +4298,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-062-p5s3w3</LM>
 </a-connectors.rf>
@@ -4520,6 +4531,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-062-p5s3w20</LM>
 <LM>t-ln95047-062-p5s3a0</LM>
@@ -4817,6 +4829,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-062-p5s4w2</LM>
 </t-connectors.rf>
@@ -4852,6 +4865,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-062-p5s4w1</LM>
 </a-connectors.rf>
@@ -5069,6 +5083,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-062-p5s4w15</LM>
 </t-connectors.rf>
@@ -5180,6 +5195,11 @@
 </gram>
 <tfa>t</tfa>
 <deepord>19</deepord>
+<discourse_comment>wrongTR?,
+součást konektoru
+COND v tomto
+stromě, čas až
+druhotně</discourse_comment>
 </LM>
 <LM id="t-ln95047-062-p5s4a0">
 <nodetype>atom</nodetype>
@@ -5503,6 +5523,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-062-p6s1w4</LM>
 </t-connectors.rf>
@@ -6000,6 +6021,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-062-p6s3w4</LM>
 </t-connectors.rf>
@@ -6145,6 +6167,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-062-p7s1w4</LM>
 </t-connectors.rf>
@@ -6191,6 +6214,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-062-p6s4w1</LM>
 </a-connectors.rf>
@@ -6489,6 +6513,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-062-p7s1w3</LM>
 </a-connectors.rf>
@@ -6827,6 +6852,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-062-p7s1a0</LM>
 <LM>t-ln95047-062-p7s2w1</LM>
@@ -7067,6 +7093,8 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>14</deepord>
+<discourse_comment>první argument
+je NP</discourse_comment>
 </LM>
 <LM id="t-ln95047-062-p7s2w17">
 <a>
@@ -7345,6 +7373,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-062-p7s2w36</LM>
 <LM>t-ln95047-062-p7s2w37</LM>

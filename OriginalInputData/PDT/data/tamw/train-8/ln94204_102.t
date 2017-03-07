@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94204_102.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -321,6 +321,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+<discourse_comment>spatna segmentace textu</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-102-p2s1Bw3">
@@ -1021,6 +1022,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-102-p2s2w26</LM>
 </t-connectors.rf>
@@ -1701,6 +1703,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-102-p3s2w2</LM>
 </t-connectors.rf>
@@ -2197,6 +2200,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94204-102-p3s3w13">
 <a>
@@ -6549,6 +6553,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-102-p6s1w24</LM>
 </t-connectors.rf>
@@ -6757,6 +6762,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-102-p6s2w1</LM>
 </a-connectors.rf>
@@ -8564,6 +8570,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-102-p7s2w8</LM>
 </t-connectors.rf>
@@ -8901,6 +8908,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>dvojznačné, 
+ale anotovaná
+možnost je pro
+mě silnější</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-102-p7s3w4</LM>
 </t-connectors.rf>

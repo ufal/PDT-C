@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_139.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -97,6 +97,7 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR? nemaji vety 2 a 3 byt jeden strom?</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-mf920922-139-p1s1w1</target_node.rf>
@@ -256,6 +257,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-139-p3s2w6</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94205_115.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -35,6 +35,10 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>článek o 16.kole 
+fotbalové ligy, soudržnější
+než kolekce, ale má to k ní 
+blízko</discourse_comment>
 <children>
 <LM id="t-ln94205-115-p1s1w3">
 <a>
@@ -930,6 +934,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-115-p2s2w21</LM>
 </t-connectors.rf>

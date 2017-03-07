@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_94.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -43,6 +43,7 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse_comment>popisek obrázku</discourse_comment>
 <children>
 <LM id="t-ln94202-94-p1s1Aw2">
 <a>

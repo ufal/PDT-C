@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95049_128.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -660,6 +660,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>3</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95049-128-p2s2w3">
 <a>
@@ -1138,6 +1140,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-128-p3s1w18</LM>
 </a-connectors.rf>
@@ -2311,6 +2314,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln95049-128-p5s2w12</LM>
 </t-connectors.rf>
@@ -2327,6 +2331,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>Arg2 je NP 
+v předchozím
+stromě (20.05)</discourse_comment>
 </LM>
 <LM id="t-ln95049-128-p5s2a1">
 <nodetype>qcomplex</nodetype>
@@ -3688,11 +3695,13 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-128-p7s2w7</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>secondary bude následovat</discourse_comment>
 <val_frame.rf>v#v-w2217f2</val_frame.rf>
 <children>
 <LM id="t-ln95049-128-p7s2a2">
@@ -4198,6 +4207,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-128-p8s1w2</LM>
 </t-connectors.rf>
@@ -4492,6 +4502,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-128-p8s1w27</LM>
 </t-connectors.rf>

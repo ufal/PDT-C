@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9410_011.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1000,6 +1000,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-011-p2s3w6</LM>
 </t-connectors.rf>
@@ -1728,6 +1729,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-011-p4s3w1</LM>
 <LM>a#a-cmpr9410-011-p4s3w2</LM>
@@ -2038,6 +2040,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>19</deepord>
+<discourse_comment>není PREC,
+patří ke konektoru
+CNCS v této větě</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-011-p4s3w22">
 <a>
@@ -2321,6 +2326,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<secondary_NP_type>cond</secondary_NP_type>
 <val_frame.rf>v#v-w7167f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-011-p4s5w1">
@@ -3345,6 +3351,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-011-p8s1Aw8</LM>
 </a-connectors.rf>

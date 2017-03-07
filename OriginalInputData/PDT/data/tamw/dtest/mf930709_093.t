@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_093.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -666,6 +666,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-093-p2s2w20</LM>
 </t-connectors.rf>
@@ -1821,6 +1822,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-093-p2s8w9</LM>
 </t-connectors.rf>
@@ -1997,6 +1999,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>APPS</functor>
 <deepord>4</deepord>
+<discourse_comment>vztah NP a EmpVerb</discourse_comment>
 <children>
 <LM id="t-mf930709-093-p2s9a3">
 <nodetype>qcomplex</nodetype>
@@ -2788,6 +2791,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-093-p2s13w2</LM>
 </t-connectors.rf>
@@ -3052,6 +3056,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-093-p2s12w14</LM>
 </t-connectors.rf>

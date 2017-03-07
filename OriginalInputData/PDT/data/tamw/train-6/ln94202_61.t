@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_61.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -58,6 +58,9 @@
 <tfa>f</tfa>
 <deepord>10</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>zároven 
+is_photo 
+description</discourse_comment>
 <val_frame.rf>v#v-w8784f1</val_frame.rf>
 <children>
 <LM id="t-ln94202-61-p1s1Aw4">

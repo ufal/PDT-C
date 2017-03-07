@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95047_008.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1935,6 +1935,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-008-p2s4w14</LM>
 </t-connectors.rf>
@@ -3693,6 +3694,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-008-p4s1w32</LM>
 </t-connectors.rf>
@@ -6017,6 +6019,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-008-p6s1w22</LM>
 </t-connectors.rf>
@@ -8460,6 +8463,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>secondary NP_VP, free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w2933f1</val_frame.rf>
 <children>
 <LM id="t-ln95047-008-p8s3a2">
@@ -9094,6 +9098,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-008-p9s1w27</LM>
 </t-connectors.rf>
@@ -9609,6 +9614,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-008-p9s2w19</LM>
 </t-connectors.rf>
@@ -10289,6 +10295,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-008-p9s3w26</LM>
 </t-connectors.rf>

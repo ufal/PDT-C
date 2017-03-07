@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94210_5.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -947,6 +947,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-5-p2s2w13</LM>
 </t-connectors.rf>
@@ -1104,6 +1105,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-5-p2s2w24</LM>
 </t-connectors.rf>
@@ -1236,6 +1238,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-5-p2s3w2</LM>
 </t-connectors.rf>
@@ -2205,6 +2208,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-5-p3s1a0</LM>
 </t-connectors.rf>
@@ -2435,6 +2439,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>divná reason
+kvůli té modalitě</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-5-p3s3w3</LM>
 </t-connectors.rf>
@@ -2763,6 +2770,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-5-p3s4w7</LM>
 </t-connectors.rf>
@@ -2982,6 +2990,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>6</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase, negativní vztah</discourse_comment>
 <children>
 <LM id="t-ln94210-5-p4s1w7">
 <a>
@@ -3250,6 +3260,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-5-p4s1w22</LM>
 </t-connectors.rf>
@@ -3416,6 +3427,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-5-p4s2w13</LM>
 </t-connectors.rf>
@@ -4143,6 +4155,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-5-p4s2w67</LM>
 <LM>t-ln94210-5-p4s2w41</LM>
@@ -4516,6 +4529,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-5-p4s2w81</LM>
 </t-connectors.rf>
@@ -5173,6 +5187,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-5-p5s1w31</LM>
 </t-connectors.rf>
@@ -5327,6 +5342,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-5-p5s1w38</LM>
 </t-connectors.rf>
@@ -5734,6 +5750,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-5-p5s2w15</LM>
 </t-connectors.rf>
@@ -6336,6 +6353,25 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94210-5-p6s2w2</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<comment>Regard</comment>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln94210-5-p6s2w9</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94210-5-p6s2w9</LM>
+<LM>t-ln94210-5-p6s2w8</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94210-5-p6s1w2">
@@ -6381,6 +6417,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-5-p6s2w1</LM>
 </t-connectors.rf>

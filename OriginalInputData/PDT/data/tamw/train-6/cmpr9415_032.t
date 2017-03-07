@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9415_032.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -949,6 +949,25 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>5</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-cmpr9415-032-p5s1w5</target_node.rf>
+<type>discourse</type>
+<start_range>3</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-cmpr9415-032-p5s1w10</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-cmpr9415-032-p5s1w10</LM>
+<LM>t-cmpr9415-032-p5s1w7</LM>
+<LM>t-cmpr9415-032-p5s1w9</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-cmpr9415-032-p5s2w1">
 <a>
@@ -1064,6 +1083,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-032-p5s2w5</LM>
 </t-connectors.rf>
@@ -1292,6 +1312,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-032-p5s3w5</LM>
 </t-connectors.rf>
@@ -1510,6 +1531,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9415-032-p5s4w1</LM>
 </a-connectors.rf>
@@ -1782,6 +1804,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9415-032-p5s5w1</LM>
 </a-connectors.rf>
@@ -2075,6 +2098,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-032-p5s5w23</LM>
 </t-connectors.rf>

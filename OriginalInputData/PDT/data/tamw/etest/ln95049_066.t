@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95049_066.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1523,6 +1523,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary bude navazovat</discourse_comment>
 <val_frame.rf>v#v-w2294f1</val_frame.rf>
 <children>
 <LM id="t-ln95049-066-p3s4w2">
@@ -3664,6 +3665,20 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln95049-066-p6s1w22</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>preced</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln95049-066-p6s1w22</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w8756f2</val_frame.rf>
 <children>
 <LM id="t-ln95049-066-p6s1w18">
@@ -3853,6 +3868,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-066-p6s1w28</LM>
 </t-connectors.rf>
@@ -4363,6 +4379,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-066-p7s2w14</LM>
 </a-connectors.rf>
@@ -4768,6 +4785,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-066-p7s3w18</LM>
 <LM>t-ln95049-066-p7s3w19</LM>
@@ -5858,6 +5876,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC, 
+ale MANN</discourse_comment>
 </LM>
 <LM id="t-ln95049-066-p8s3a0">
 <nodetype>complex</nodetype>
@@ -6453,6 +6473,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_comment>prvním argumentem
+je jenom NP</discourse_comment>
 </LM>
 <LM id="t-ln95049-066-p9s2w7">
 <a>
@@ -6817,6 +6839,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-066-p10s1w17</LM>
 </t-connectors.rf>
@@ -7289,6 +7312,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-066-p11s1w22</LM>
 </t-connectors.rf>
@@ -7579,6 +7603,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-066-p11s2w8</LM>
 </t-connectors.rf>
@@ -7979,6 +8004,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>15</deepord>
+<discourse_comment>wrong TR,smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95049-066-p12s1w7">
 <a>
@@ -8403,11 +8429,16 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<comment>second_rel CONFR zatímco </comment>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-066-p12s1w31</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>
+
+</discourse_comment>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
 <children>
 <LM id="t-ln95049-066-p12s1w33">
@@ -9416,6 +9447,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-066-p13s2w2</LM>
 </t-connectors.rf>
@@ -9697,6 +9729,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-066-p13s2w19</LM>
 </t-connectors.rf>
@@ -9765,6 +9798,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-066-p13s2w23</LM>
 </t-connectors.rf>
@@ -10143,6 +10177,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-066-p13s3w16</LM>
 </t-connectors.rf>

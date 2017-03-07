@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930713_082.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -893,6 +893,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-082-p3s1w3</LM>
 </t-connectors.rf>
@@ -1055,6 +1056,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-082-p3s1w8</LM>
 </t-connectors.rf>
@@ -1451,6 +1453,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 <children>
 <LM id="t-mf930713-082-p3s3w4">
 <a>
@@ -1513,6 +1517,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_comment>secondary dalším</discourse_comment>
 </LM>
 </children>
 </LM>

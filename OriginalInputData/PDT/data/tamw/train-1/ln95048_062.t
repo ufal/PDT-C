@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95048_062.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1868,6 +1868,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s3w12</LM>
 </t-connectors.rf>
@@ -1955,6 +1956,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s3w10</LM>
 </t-connectors.rf>
@@ -2055,6 +2057,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s5w1</LM>
 </t-connectors.rf>
@@ -2847,6 +2850,13 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+<discourse_comment>adept na seznam,
+hypertéma zde, 
+1.položka (14),
+2.položka (15),
+neanotováno kvůli
+"neseznamové" syntaktické
+stavbě vět</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln95048-062-p3s8w2</target_node.rf>
@@ -3252,6 +3262,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s9w22</LM>
 </t-connectors.rf>
@@ -3418,6 +3429,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s10w5</LM>
 </t-connectors.rf>
@@ -3648,6 +3660,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s10w14</LM>
 </t-connectors.rf>
@@ -4767,6 +4780,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s15w3</LM>
 <LM>t-ln95048-062-p3s15w1</LM>
@@ -5393,6 +5407,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s17a0</LM>
 <LM>t-ln95048-062-p3s17w11</LM>
@@ -5636,10 +5651,12 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s18w6</LM>
 <LM>t-ln95048-062-p3s18w9</LM>
 </t-connectors.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <children>
@@ -5884,6 +5901,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s18w25</LM>
 <LM>t-ln95048-062-p3s18w14</LM>
@@ -6014,6 +6032,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s18a2</LM>
 <LM>t-ln95048-062-p3s18w29</LM>
@@ -6182,6 +6201,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s18w42</LM>
 <LM>t-ln95048-062-p3s18w37</LM>
@@ -6397,6 +6417,10 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>netypické užití tedy,
+může být vnímáno 
+i jako OPP</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s21w4</LM>
 </t-connectors.rf>
@@ -6407,6 +6431,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s19w8</LM>
 </t-connectors.rf>
@@ -6539,6 +6564,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s19w12</LM>
 </t-connectors.rf>
@@ -6811,6 +6837,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s20w12</LM>
 </t-connectors.rf>
@@ -7737,6 +7764,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>21</deepord>
+<discourse_comment>secondary díky čemuž</discourse_comment>
 <coref_gram.rf>
 <LM>t-ln95048-062-p3s22w14</LM>
 </coref_gram.rf>
@@ -8346,6 +8374,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s23w32</LM>
 <LM>t-ln95048-062-p3s23w30</LM>
@@ -9316,6 +9345,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s27w3</LM>
 </t-connectors.rf>
@@ -10155,6 +10185,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s29w2</LM>
 <LM>t-ln95048-062-p3s29w12</LM>
@@ -10957,6 +10988,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-062-p3s31w3</LM>
 </t-connectors.rf>

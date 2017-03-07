@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_046.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -758,6 +758,8 @@
 <t_lemma>#Comma</t_lemma>
 <functor>APPS</functor>
 <deepord>11</deepord>
+<discourse_comment>neanotuji, 
+vztah mezi NP  -NP</discourse_comment>
 <children>
 <LM id="t-mf930709-046-p2s3w3">
 <a>
@@ -1600,6 +1602,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930709-046-p2s5w16</LM>
 </a-connectors.rf>

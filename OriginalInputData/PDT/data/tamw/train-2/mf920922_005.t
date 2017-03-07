@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_005.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1440,6 +1440,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-005-p2s4a2</LM>
 </t-connectors.rf>
@@ -1512,6 +1513,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-005-p2s4w11</LM>
 <LM>a#a-mf920922-005-p2s4w10</LM>
@@ -1924,6 +1926,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem taky
+slabá conj</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-005-p2s6w3</LM>
 </t-connectors.rf>
@@ -2412,6 +2417,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>RESTR jako další možnost,
+ale OPP mi přijde přesnější</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-005-p2s7a1</LM>
 <LM>t-mf920922-005-p2s7w18</LM>

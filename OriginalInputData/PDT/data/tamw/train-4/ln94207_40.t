@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_40.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -402,6 +402,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-40-p2s1w18</LM>
 </a-connectors.rf>
@@ -981,6 +982,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p3s1w20</LM>
 </t-connectors.rf>
@@ -1182,6 +1184,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p3s1w34</LM>
 </t-connectors.rf>
@@ -1431,6 +1434,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<comment>ke konektoru vlastně
+patří i nejprve</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p3s2w18</LM>
 <LM>t-ln94207-40-p3s2w16</LM>
@@ -1689,6 +1695,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p3s2w25</LM>
 </t-connectors.rf>
@@ -2818,6 +2825,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-40-p4s4w1</LM>
 <LM>a#a-ln94207-40-p4s4w2</LM>
@@ -3770,6 +3778,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p4s8w1</LM>
 </t-connectors.rf>
@@ -4157,6 +4166,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-40-p4s9w8</LM>
 <LM>a#a-ln94207-40-p4s9w7</LM>
@@ -4284,6 +4294,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<comment>ve vždyť je i něco 
+z postoje</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p4s10w1</LM>
 </t-connectors.rf>
@@ -4402,6 +4415,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem ani</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p4s11w1</LM>
 </t-connectors.rf>
@@ -4571,6 +4586,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>equiv</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p4s12w2</LM>
 </t-connectors.rf>
@@ -4910,6 +4926,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<comment>konektor rhem pouze</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p5s1a0</LM>
 <LM>t-ln94207-40-p5s2w1</LM>
@@ -5076,6 +5094,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p5s2w11</LM>
 </t-connectors.rf>
@@ -5564,6 +5583,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>gener</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p5s4w2</LM>
 </t-connectors.rf>
@@ -5738,6 +5758,8 @@
 <start_range>1</start_range>
 <target_range>1</target_range>
 <discourse_type>exempl</discourse_type>
+<comment>konektor rhem např.</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p5s5w1</LM>
 </t-connectors.rf>
@@ -6114,6 +6136,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p5s6w1</LM>
 </t-connectors.rf>
@@ -6140,6 +6163,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>součást konektoru
+pokud-pak, není PREC</discourse_comment>
 </LM>
 <LM id="t-ln94207-40-p5s6w6">
 <a>
@@ -6156,6 +6181,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-40-p5s6w2</LM>
 </a-connectors.rf>
@@ -6266,6 +6292,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p5s6w6</LM>
 </t-connectors.rf>
@@ -7127,6 +7154,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p5s7w1</LM>
 </t-connectors.rf>
@@ -7172,6 +7200,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-40-p5s7w2</LM>
 </a-connectors.rf>
@@ -7783,6 +7812,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p6s2w9</LM>
 </t-connectors.rf>
@@ -7979,6 +8009,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p6s3w1</LM>
 <LM>t-ln94207-40-p6s3w2</LM>
@@ -8269,6 +8300,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-40-p6s4w2</LM>
 </t-connectors.rf>

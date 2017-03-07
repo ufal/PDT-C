@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95046_008.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -887,6 +887,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-008-p2s3w12</LM>
 </t-connectors.rf>
@@ -982,6 +983,10 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
+<discourse_comment>wrongTR? nema viset "comma" na "činit"? a nema na 
+"comma" viset "milión" a "být"? viz analogicky
+pripad ln95045_083, veta 9; analogicka veta ve 
+velkem TR manualu na s. 954</discourse_comment>
 <children>
 <LM id="t-ln95046-008-p3s1w8">
 <a>
@@ -1181,6 +1186,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-008-p3s1w13</LM>
 </t-connectors.rf>
@@ -1397,6 +1403,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-008-p3s2w2</LM>
 </t-connectors.rf>

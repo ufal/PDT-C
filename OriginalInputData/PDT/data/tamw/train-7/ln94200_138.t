@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_138.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -641,6 +641,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-138-p2s2w3</LM>
 </a-connectors.rf>
@@ -897,6 +898,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>14</deepord>
+<discourse_comment>neznacim, patri do dvojice -li  -pak 
+(tj. pokud  -pak)</discourse_comment>
 </LM>
 <LM id="t-ln94200-138-p2s2a0">
 <nodetype>complex</nodetype>

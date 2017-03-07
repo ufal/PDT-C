@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930713_066.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -51,6 +51,10 @@
 <tfa>f</tfa>
 <deepord>2</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>adept na seznam?,
+soubor je složený
+z odpovědí na 
+anketní otázku</discourse_comment>
 <val_frame.rf>v#v-w6492f4</val_frame.rf>
 <children>
 <LM id="t-mf930713-066-p1s1w3">
@@ -1320,6 +1324,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-066-p5s3w6</LM>
 </t-connectors.rf>
@@ -2108,6 +2113,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-066-p9s1w14</LM>
 </a-connectors.rf>
@@ -2551,11 +2557,15 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-066-p9s2w1</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR, není
+dokopírovaná
+řídící věta</discourse_comment>
 <val_frame.rf>v#v-w9515f1</val_frame.rf>
 <children>
 <LM id="t-mf930713-066-p9s2w4">
@@ -2587,6 +2597,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-066-p9s2w2</LM>
 <LM>a#a-mf930713-066-p9s2w1</LM>
@@ -2857,6 +2868,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-066-p9s2w20</LM>
 </t-connectors.rf>

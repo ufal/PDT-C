@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_12.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1314,6 +1314,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-12-p2s3w23</LM>
 </t-connectors.rf>
@@ -1359,6 +1360,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-12-p2s3w24</LM>
 </a-connectors.rf>
@@ -1564,6 +1566,25 @@
 </gram>
 <tfa>f</tfa>
 <deepord>23</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94207-12-p2s3w23</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>exempl</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94207-12-p2s4w2</LM>
+</t-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94207-12-p2s4w4</LM>
+<LM>t-ln94207-12-p2s4w2</LM>
+<LM>t-ln94207-12-p2s4w1</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w4508f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-12-p2s4w9">
@@ -1667,6 +1688,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-12-p2s4w10</LM>
 <LM>a#a-ln94207-12-p2s4w12</LM>
@@ -1837,6 +1859,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-12-p2s4w20</LM>
 </t-connectors.rf>
@@ -2254,6 +2277,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-12-p3s1w19</LM>
 <LM>t-ln94207-12-p3s1w5</LM>
@@ -2535,6 +2559,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-12-p3s2w11</LM>
 <LM>t-ln94207-12-p3s2w19</LM>

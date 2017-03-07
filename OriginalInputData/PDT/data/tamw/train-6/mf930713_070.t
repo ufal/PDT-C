@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930713_070.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -693,6 +693,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<secondary_NP_type>explicat</secondary_NP_type>
 <discourse>
 <LM>
 <target_node.rf>t-mf930713-070-p3s1Bw5</target_node.rf>
@@ -701,6 +702,7 @@
 <start_range>group</start_range>
 <target_range>0</target_range>
 <discourse_type>gener</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-070-p4s1w4</LM>
 </t-connectors.rf>
@@ -845,6 +847,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-070-p4s1w10</LM>
 </t-connectors.rf>
@@ -1098,6 +1101,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-070-p4s2w4</LM>
 </t-connectors.rf>
@@ -1298,6 +1302,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-070-p4s2w20</LM>
 </t-connectors.rf>
@@ -2495,6 +2500,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-070-p6s1w1</LM>
 </a-connectors.rf>
@@ -3272,6 +3278,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-070-p7s1w1</LM>
 </a-connectors.rf>

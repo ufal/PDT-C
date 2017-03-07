@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94204_16.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -954,6 +954,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-16-p3s4w6</LM>
 <LM>a#a-ln94204-16-p3s4w7</LM>
@@ -1051,6 +1052,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-16-p3s4w11</LM>
 </t-connectors.rf>
@@ -1217,6 +1219,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w7167f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-16-p4s1w2">
@@ -1424,6 +1427,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-16-p4s1w14</LM>
 </t-connectors.rf>
@@ -2257,6 +2261,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrong TR?,
+významově coordinace
+mezi zakazky z Malajsie, SRN, Nizozemi, 
+na tepelnou elekt. pro Australii atd.</discourse_comment>
 <val_frame.rf>v#v-w2451f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-16-p5s1w3">
@@ -3610,6 +3618,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-16-p7s2w12</LM>
 </t-connectors.rf>
@@ -3632,6 +3641,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>11</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 </LM>
 <LM id="t-ln94204-16-p7s2w16">
 <a>

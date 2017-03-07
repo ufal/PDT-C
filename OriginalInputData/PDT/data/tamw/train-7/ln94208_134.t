@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94208_134.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -639,6 +639,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC, 
+spíš MANN</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94208-134-p2s1Bw17</target_node.rf>
@@ -881,6 +883,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-134-p2s4w11</LM>
 </t-connectors.rf>

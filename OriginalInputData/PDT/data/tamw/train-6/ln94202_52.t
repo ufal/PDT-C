@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_52.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -615,6 +615,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-52-p2s2w7</LM>
 </t-connectors.rf>
@@ -1127,6 +1128,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-52-p3s2w3</LM>
 </t-connectors.rf>
@@ -1620,6 +1622,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w661f2</val_frame.rf>
 <children>
 <LM id="t-ln94202-52-p3s3w6">
@@ -1933,6 +1936,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-52-p3s3w23</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_056.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -269,6 +269,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>adept na seznam</discourse_comment>
 <children>
 <LM id="t-lnd94103-056-p1s2Aw4">
 <a>
@@ -908,6 +909,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-056-p1s3w7</LM>
 </t-connectors.rf>
@@ -2714,6 +2716,7 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR? v analogickych pripadech je funktor APPS</discourse_comment>
 <children>
 <LM id="t-lnd94103-056-p1s15w1">
 <a>
@@ -5850,6 +5853,8 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>wrongTR? v analogickych pripadech pomlcka 
+nema uzel</discourse_comment>
 <children>
 <LM id="t-lnd94103-056-p1s35w1">
 <a>

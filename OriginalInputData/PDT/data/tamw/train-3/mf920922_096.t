@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_096.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1365,6 +1365,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-096-p2s3w12</LM>
 </t-connectors.rf>
@@ -1665,6 +1666,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-096-p2s4w2</LM>
 </a-connectors.rf>
@@ -4176,6 +4178,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-096-p2s8w9</LM>
 </t-connectors.rf>
@@ -5808,6 +5811,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-096-p2s12Aw13</LM>
 </t-connectors.rf>
@@ -6596,6 +6600,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-096-p2s13w1</LM>
 </a-connectors.rf>
@@ -7314,6 +7319,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-096-p2s14w15</LM>
 </t-connectors.rf>
@@ -7633,6 +7639,7 @@
 <start_range>group</start_range>
 <target_range>1</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-096-p2s16w3</LM>
 </t-connectors.rf>
@@ -8012,6 +8019,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-096-p2s18w2</LM>
 </t-connectors.rf>
@@ -8022,6 +8030,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>v tomto ale
+je i postoj (je v otázce), 
+návaznost na předchozí
+kontext je však silná</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-096-p2s17w2</LM>
 <LM>t-mf920922-096-p2s17w3</LM>
@@ -8449,6 +8462,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-096-p2s17w27</LM>
 <LM>t-mf920922-096-p2s17w26</LM>
@@ -9167,6 +9181,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-096-p2s18w20</LM>
 </t-connectors.rf>

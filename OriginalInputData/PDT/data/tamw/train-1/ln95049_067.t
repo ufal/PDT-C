@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95049_067.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1375,6 +1375,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-067-p3s3w11</LM>
 </t-connectors.rf>
@@ -2844,6 +2845,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-067-p5s1Bw6</LM>
 </a-connectors.rf>
@@ -3098,6 +3100,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-067-p5s2w9</LM>
 </t-connectors.rf>
@@ -3689,6 +3692,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-067-p6s3w1</LM>
 </t-connectors.rf>
@@ -3883,6 +3887,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR  -spatny 
+tvar t-lemmatu</discourse_comment>
 <children>
 <LM id="t-ln95049-067-p7s1Aw8">
 <a>
@@ -4553,6 +4559,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-067-p7s5w6</LM>
 </t-connectors.rf>
@@ -4814,6 +4821,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_comment>wrongTR? nema tento uzel viset na jinem typu 
+hrany? takhle to vypada, ze jde o souradne 
+spojeni 3 predikatu</discourse_comment>
 <val_frame.rf>v#v-w1855f9</val_frame.rf>
 <children>
 <LM id="t-ln95049-067-p7s6Bw1">
@@ -4971,6 +4981,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-067-p7s6Bw12</LM>
 </t-connectors.rf>
@@ -5781,6 +5792,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-067-p9s2w13</LM>
 </a-connectors.rf>
@@ -5844,6 +5856,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-067-p9s3w2</LM>
 </t-connectors.rf>
@@ -5898,6 +5911,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-067-p9s3w10</LM>
 <LM>t-ln95049-067-p9s3w11</LM>
@@ -5980,6 +5994,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-067-p9s3w5</LM>
 </t-connectors.rf>
@@ -6659,6 +6674,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-067-p10s1Bw6</LM>
 </t-connectors.rf>

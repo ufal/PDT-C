@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95045_015.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1613,6 +1613,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-015-p3s2w7</LM>
 </t-connectors.rf>
@@ -1845,6 +1846,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-015-p3s2w14</LM>
 </t-connectors.rf>
@@ -2207,6 +2209,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-015-p3s4w3</LM>
 </t-connectors.rf>
@@ -2507,6 +2510,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-015-p3s6w6</LM>
 </t-connectors.rf>
@@ -2741,6 +2745,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95045-015-p3s5w15</LM>
 <LM>a#a-ln95045-015-p3s5w13</LM>
@@ -2805,6 +2810,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
+<discourse_comment>wrongTR? neni to spise AIM?</discourse_comment>
 <val_frame.rf>v#v-w1743f1</val_frame.rf>
 </LM>
 <LM id="t-ln95045-015-p3s5w20">
@@ -2837,6 +2843,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
+<discourse_comment>wrongTR? neni to spise AIM?</discourse_comment>
 <val_frame.rf>v#v-w1593f1</val_frame.rf>
 </LM>
 <LM id="t-ln95045-015-p3s5w22">
@@ -2876,11 +2883,13 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-015-p3s5w21</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR? neni to spise AIM?</discourse_comment>
 <val_frame.rf>v#v-w9673f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-015-p3s5a2">
@@ -3090,6 +3099,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-015-p3s6w8</LM>
 </t-connectors.rf>
@@ -3670,6 +3680,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-015-p3s8w2</LM>
 </t-connectors.rf>
@@ -3943,6 +3954,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-015-p3s9w4</LM>
 </t-connectors.rf>
@@ -4045,6 +4057,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-015-p3s9w8</LM>
 </t-connectors.rf>
@@ -4486,6 +4499,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-015-p3s11w9</LM>
 <LM>t-ln95045-015-p3s11w12</LM>
@@ -4643,6 +4657,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-015-p3s11w16</LM>
 </t-connectors.rf>
@@ -4959,6 +4974,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-015-p3s12w15</LM>
 </t-connectors.rf>
@@ -5399,6 +5415,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
+<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-015-p3s14w15">

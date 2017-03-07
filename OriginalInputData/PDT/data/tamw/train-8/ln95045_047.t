@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95045_047.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1019,6 +1019,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-047-p3s2w1</LM>
 <LM>t-ln95045-047-p3s2w2</LM>
@@ -1901,6 +1902,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-047-p3s2w14</LM>
 </t-connectors.rf>
@@ -3604,6 +3606,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95045-047-p4s2w12</LM>
 <LM>a#a-ln95045-047-p4s2w14</LM>
@@ -3809,6 +3812,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95045-047-p4s3w3</LM>
 </a-connectors.rf>
@@ -3935,6 +3939,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-047-p4s3w11</LM>
 </t-connectors.rf>
@@ -4832,6 +4837,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-047-p5s1w23</LM>
 </t-connectors.rf>
@@ -5326,6 +5332,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-047-p5s2w22</LM>
 </t-connectors.rf>
@@ -5565,6 +5572,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95045-047-p5s4w2">
 <a>
@@ -5728,6 +5736,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95045-047-p5s5w6</LM>
 </a-connectors.rf>
@@ -6505,10 +6514,15 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
-<t-connectors.rf>
+<src>pdit10</src>
+<a-connectors.rf>
+<LM>a#a-ln95045-047-p6s2w7</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
 <LM>t-ln95045-047-p6s2w6</LM>
 <LM>t-ln95045-047-p6s2w8</LM>
-</t-connectors.rf>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w536f3</val_frame.rf>
@@ -7103,6 +7117,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-047-p6s4w6</LM>
 </t-connectors.rf>
@@ -7406,6 +7421,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-047-p6s5w3</LM>
 </t-connectors.rf>
@@ -7416,6 +7432,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln95045-047-p6s5w10</LM>
 <LM>t-ln95045-047-p6s5w12</LM>
@@ -7846,6 +7863,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-047-p6s6w16</LM>
 </t-connectors.rf>
@@ -7856,6 +7874,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-047-p6s7w1</LM>
 <LM>t-ln95045-047-p6s7w2</LM>
@@ -8364,6 +8383,7 @@
 <start_range>0</start_range>
 <target_range>2</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-047-p6s8w5</LM>
 </t-connectors.rf>
@@ -9075,6 +9095,13 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR,
+proč je ve 28
+v jednom stromě
+struktura, která
+v 30 a 31 je ve
+dvou stromech?
+sjednotit?</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln95045-047-p6s9Bw1</target_node.rf>

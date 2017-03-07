@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_112.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -177,6 +177,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+<discourse_comment>adept na hypertéma,
+adept na seznam  -1.polozka
+(4)-(8), 2.polozka (9)-(12)</discourse_comment>
 <val_frame.rf>v#v-w6475f1</val_frame.rf>
 <children>
 <LM id="t-ln94207-112-p2s1Bw2">
@@ -1526,6 +1529,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-112-p3s3w37</LM>
 </t-connectors.rf>
@@ -1734,6 +1738,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>je tam i něco
+z OPP</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-112-p3s4w9</LM>
 </t-connectors.rf>
@@ -2388,6 +2395,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>vztah není úplně zřetelný,
+ovšem lze interpretovat i 
+jako one_arg</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-112-p3s5w11</LM>
 </t-connectors.rf>
@@ -3161,6 +3172,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-112-p4s2w11</LM>
 </t-connectors.rf>
@@ -3216,6 +3228,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-112-p4s2w13</LM>
 </t-connectors.rf>
@@ -3652,6 +3665,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-112-p4s3w10</LM>
 </t-connectors.rf>

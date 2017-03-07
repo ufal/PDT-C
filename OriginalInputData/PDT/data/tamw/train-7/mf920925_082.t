@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920925_082.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -430,6 +430,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>second_rel PRECED dokud</comment>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-082-p3s1w19</LM>
 </a-connectors.rf>

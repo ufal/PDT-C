@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95045_063.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -318,6 +318,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-063-p2s1w14</LM>
 </t-connectors.rf>
@@ -528,6 +529,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<comment>konektor rhem alespoň</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-063-p2s2w1</LM>
 </t-connectors.rf>
@@ -1269,6 +1272,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-063-p2s5w8</LM>
 </t-connectors.rf>
@@ -1466,6 +1470,7 @@
 <start_range>0</start_range>
 <target_range>4</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-063-p2s6w2</LM>
 </t-connectors.rf>
@@ -1618,6 +1623,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>konektor rhem také</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-063-p2s6w27</LM>
 </t-connectors.rf>

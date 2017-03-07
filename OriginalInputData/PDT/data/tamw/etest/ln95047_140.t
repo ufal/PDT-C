@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95047_140.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -130,6 +130,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln95047-140-p2s1Aw7</LM>
 <LM>t-ln95047-140-p2s1Aw11</LM>
@@ -842,6 +843,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-140-p2s2w9</LM>
 </t-connectors.rf>
@@ -2414,6 +2416,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-140-p5s2w1</LM>
 </t-connectors.rf>
@@ -2687,6 +2690,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-140-p5s1w21</LM>
 </t-connectors.rf>
@@ -3757,10 +3761,12 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 </LM>
 <LM>
 <type>list</type>
 <start_range>2</start_range>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-140-p7s2w1</LM>
 </t-connectors.rf>
@@ -4391,6 +4397,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-140-p7s4w1</LM>
 </t-connectors.rf>
@@ -4510,6 +4517,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-140-p7s6w13</LM>
 </t-connectors.rf>
@@ -4518,6 +4526,7 @@
 <target_node.rf>t-ln95047-140-p7s2w7</target_node.rf>
 <type>list</type>
 <start_range>1</start_range>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-140-p7s5w1</LM>
 </t-connectors.rf>
@@ -4702,6 +4711,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-140-p7s5w8</LM>
 </t-connectors.rf>
@@ -4875,6 +4885,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>vztah mezi NP (nejlepší absolventi) a VP (splní požadavky)</discourse_comment>
 </LM>
 <LM id="t-ln95047-140-p7s6w4">
 <a>
@@ -5094,6 +5105,7 @@
 <target_node.rf>t-ln95047-140-p7s5w8</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-140-p7s7w1</LM>
 </t-connectors.rf>
@@ -5922,6 +5934,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln95047-140-p9s1w7</LM>
 <LM>t-ln95047-140-p9s1w11</LM>

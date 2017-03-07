@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_119.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -884,6 +884,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-119-p2s3w8</LM>
 <LM>t-ln94207-119-p2s3w10</LM>
@@ -1064,6 +1065,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94207-119-p2s3w21</LM>
 <LM>t-ln94207-119-p2s3w24</LM>
@@ -1187,6 +1189,8 @@
 <t_lemma>tak</t_lemma>
 <functor>CM</functor>
 <deepord>19</deepord>
+<discourse_comment>wrongTR  -ma byt MANN
+a u "a" CONJ</discourse_comment>
 </LM>
 <LM id="t-ln94207-119-p2s3w22">
 <a>

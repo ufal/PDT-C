@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_39.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -670,6 +670,10 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR, 
+není PREC, ale
+?MEANS
+</discourse_comment>
 </LM>
 <LM id="t-ln94202-39-p2s2w1">
 <a>

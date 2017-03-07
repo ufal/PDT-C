@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94208_97.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -365,6 +365,12 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<comment>explicat mi tu
+přijde přesnější, 
+reformulace pomocí
+protože je tu
+nepřirozená</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-97-p2s2w2</LM>
 </t-connectors.rf>
@@ -509,6 +515,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-97-p2s2w13</LM>
 </t-connectors.rf>
@@ -737,6 +744,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-97-p3s1w1</LM>
 </a-connectors.rf>
@@ -1185,6 +1193,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-97-p3s2w9</LM>
 </t-connectors.rf>
@@ -1529,6 +1538,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-97-p4s1w16</LM>
 </t-connectors.rf>
@@ -1657,6 +1667,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-97-p4s1w21</LM>
 </t-connectors.rf>
@@ -2089,6 +2100,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-97-p4s2w18</LM>
 </t-connectors.rf>

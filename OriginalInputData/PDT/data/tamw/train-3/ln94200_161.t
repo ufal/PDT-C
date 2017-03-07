@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_161.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -35,6 +35,12 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>kolekce?
+poslední odstavec
+jsou jiné zprávy 
+ze stejných her, ke
+kterým se vztahuje
+nadpis</discourse_comment>
 <children>
 <LM id="t-ln94200-161-p1s1w1">
 <a>
@@ -840,6 +846,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-161-p2s2w17</LM>
 </t-connectors.rf>
@@ -1029,6 +1036,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-161-p2s3w1</LM>
 </t-connectors.rf>
@@ -1903,6 +1911,20 @@
 </gram>
 <tfa>t</tfa>
 <deepord>9</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94200-161-p3s2w7</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94200-161-p3s2w8</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w7641f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-161-p3s2w11">
@@ -2334,6 +2356,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-161-p3s4w6</LM>
 </t-connectors.rf>
@@ -2813,6 +2836,20 @@
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94200-161-p3s6w9</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94200-161-p3s6w2</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94200-161-p3s6a2">
@@ -3682,6 +3719,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-161-p4s3w3</LM>
 </t-connectors.rf>

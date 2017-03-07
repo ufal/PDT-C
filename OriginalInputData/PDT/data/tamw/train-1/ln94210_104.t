@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94210_104.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1142,6 +1142,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-104-p2s5w8</LM>
 </t-connectors.rf>
@@ -1597,6 +1598,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-104-p2s7Aw10</LM>
 </a-connectors.rf>
@@ -1701,6 +1703,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-104-p2s7Ba0</LM>
 </t-connectors.rf>
@@ -2049,6 +2052,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-104-p2s8w14</LM>
 </t-connectors.rf>
@@ -2141,6 +2145,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-104-p2s9w3</LM>
 </t-connectors.rf>
@@ -2367,6 +2372,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-104-p2s9a0</LM>
 </t-connectors.rf>
@@ -2940,6 +2946,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-104-p2s13w1</LM>
 </a-connectors.rf>
@@ -3167,6 +3174,11 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>reason</discourse_type>
+<comment>kus informace je
+v presupozici, ale
+nepravá mi ta 
+reason nepřijde</comment>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-104-p2s13w16</LM>
 </a-connectors.rf>
@@ -3303,6 +3315,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-104-p2s13w23</LM>
 </t-connectors.rf>
@@ -3540,6 +3553,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-104-p2s14w10</LM>
 <LM>t-ln94210-104-p2s14w11</LM>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94210_8.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -203,6 +203,7 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>6</deepord>
+<discourse_comment>adept na seznam</discourse_comment>
 <children>
 <LM id="t-ln94210-8-p2s1w1">
 <a>
@@ -322,6 +323,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-8-p2s1w6</LM>
 </t-connectors.rf>
@@ -1350,6 +1352,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-8-p2s1w83</LM>
 </t-connectors.rf>
@@ -2148,6 +2151,11 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce, souhlasim
+s anotaci CONJ na TR. ale zaroven si kladu otazku,
+jestli je nutne doplnovat "být" (v druhem 
+podstromu) a jestli "dále" a "pak" nemuzou
+spojovat jen NP.</discourse_comment>
 </LM>
 <LM id="t-ln94210-8-p3s2w22">
 <a>
@@ -2158,6 +2166,11 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce, souhlasim
+s anotaci CONJ na TR. ale zaroven si kladu otazku,
+jestli je nutne doplnovat "být" (v druhem 
+podstromu) a jestli "dále" a "pak" nemuzou
+spojovat jen NP.</discourse_comment>
 </LM>
 <LM id="t-ln94210-8-p3s2w1">
 <a>
@@ -2174,6 +2187,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>3</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 </LM>
 <LM id="t-ln94210-8-p3s2w2">
 <a>
@@ -2752,6 +2766,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
+<secondary_NP_type>restr</secondary_NP_type>
 <discourse_groups>
 <LM>
 <id>1</id>
@@ -3205,6 +3220,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-8-p4s2w4</LM>
 </t-connectors.rf>
@@ -3949,6 +3965,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-8-p4s3w18</LM>
 </t-connectors.rf>
@@ -4169,9 +4186,14 @@
 <target_group_id>1</target_group_id>
 <target_range>group</target_range>
 <discourse_type>confr</discourse_type>
-<t-connectors.rf>
+<src>pdit10</src>
+<a-connectors.rf>
+<LM>a#a-ln94210-8-p5s1w1</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
 <LM>t-ln94210-8-p5s1w2</LM>
-</t-connectors.rf>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
@@ -4802,6 +4824,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-8-p6s2w2</LM>
 </t-connectors.rf>
@@ -5475,6 +5498,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-8-p6s4w26</LM>
 </t-connectors.rf>
@@ -6803,6 +6827,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
+s anotaci COND na TR</discourse_comment>
 </LM>
 <LM id="t-ln94210-8-p7s4w3">
 <a>
@@ -6832,6 +6858,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-8-p7s4w1</LM>
 </a-connectors.rf>
@@ -8234,6 +8261,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-8-p9s1w41</LM>
 </t-connectors.rf>
@@ -9242,6 +9270,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-8-p10s4w6</LM>
 </a-connectors.rf>
@@ -9674,6 +9703,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94210-8-p11s2w14</LM>
 <LM>t-ln94210-8-p11s2w16</LM>
@@ -10300,6 +10330,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-8-p11s4w1</LM>
 </a-connectors.rf>
@@ -10625,6 +10656,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-8-p11s4w24</LM>
 </t-connectors.rf>

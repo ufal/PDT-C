@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920925_098.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -244,6 +244,7 @@
 <LM>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 <LM>
 <target_node.rf>t-mf920925-098-p1s1w1</target_node.rf>
@@ -251,6 +252,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w5202f1</val_frame.rf>
@@ -464,6 +466,7 @@
 <target_node.rf>t-mf920925-098-p2s2Bw4</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w5202f1</val_frame.rf>
@@ -768,6 +771,7 @@
 <target_node.rf>t-mf920925-098-p2s2Cw8</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w5202f1</val_frame.rf>
@@ -1124,6 +1128,7 @@
 <target_node.rf>t-mf920925-098-p2s3w6</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w5202f1</val_frame.rf>
@@ -1333,6 +1338,7 @@
 <target_node.rf>t-mf920925-098-p2s4w6</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w5202f1</val_frame.rf>
@@ -1561,6 +1567,7 @@
 <target_node.rf>t-mf920925-098-p2s5w6</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w5202f1</val_frame.rf>
@@ -1755,6 +1762,7 @@
 <target_node.rf>t-mf920925-098-p2s6w8</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w5202f1</val_frame.rf>
@@ -2060,6 +2068,7 @@
 <target_node.rf>t-mf920925-098-p2s7w8</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w5202f1</val_frame.rf>
@@ -2254,6 +2263,7 @@
 <target_node.rf>t-mf920925-098-p2s8w8</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w5202f1</val_frame.rf>
@@ -2557,6 +2567,7 @@
 <target_node.rf>t-mf920925-098-p2s9w8</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w5202f1</val_frame.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_130.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1544,6 +1544,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-130-p3s2w10</LM>
 </a-connectors.rf>
@@ -1764,6 +1765,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-130-p3s3w13</LM>
 </t-connectors.rf>
@@ -2260,6 +2262,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-130-p3s4w16</LM>
 </t-connectors.rf>
@@ -2431,6 +2434,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94200-130-p3s5w2">
 <a>
@@ -2845,6 +2849,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-130-p3s5w30</LM>
 </t-connectors.rf>
@@ -3380,6 +3385,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-130-p4s1a0</LM>
 <LM>t-ln94200-130-p4s2w3</LM>
@@ -3558,6 +3564,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-130-p4s2w11</LM>
 </t-connectors.rf>
@@ -3753,6 +3760,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>gener</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-130-p4s2w22</LM>
 <LM>t-ln94200-130-p4s2w24</LM>
@@ -4488,6 +4496,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-130-p4s4w3</LM>
 </t-connectors.rf>
@@ -4891,6 +4900,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-130-p4s5w3</LM>
 </t-connectors.rf>
@@ -4901,6 +4911,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-130-p4s5w15</LM>
 </t-connectors.rf>
@@ -5528,6 +5539,7 @@
 <target_group_id>2</target_group_id>
 <target_range>group</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-130-p4s6w24</LM>
 </t-connectors.rf>
@@ -6288,6 +6300,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-130-p5s1w22</LM>
 </t-connectors.rf>
@@ -6729,6 +6742,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-130-p5s2w25</LM>
 <LM>t-ln94200-130-p5s2w22</LM>
@@ -7138,6 +7152,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<comment>implicitní složka
+arg1</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-130-p5s4w2</LM>
 </t-connectors.rf>

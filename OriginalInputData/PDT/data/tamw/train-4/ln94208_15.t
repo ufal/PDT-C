@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94208_15.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -676,6 +676,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v-w8207f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-15-p3s1w3">
@@ -907,6 +908,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-15-p3s1w17</LM>
 </t-connectors.rf>
@@ -1673,6 +1675,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94208-15-p5s1w19</LM>
 </t-connectors.rf>
@@ -2110,6 +2113,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94208-15-p5s2w12</LM>
 <LM>t-ln94208-15-p5s2w14</LM>
@@ -2535,6 +2539,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-15-p5s2w27</LM>
 </t-connectors.rf>
@@ -2642,6 +2647,11 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>velká mezera mezi
+argumenty  -zřejmě
+prodá i navíc spoustu
+dalších, protože...</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-15-p5s3w5</LM>
 </t-connectors.rf>

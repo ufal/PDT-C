@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_079.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -732,6 +732,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s3w13</LM>
 </t-connectors.rf>
@@ -942,6 +943,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s4w8</LM>
 </t-connectors.rf>
@@ -1314,6 +1316,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s5w12</LM>
 </t-connectors.rf>
@@ -1432,6 +1435,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s6w4</LM>
 </t-connectors.rf>
@@ -1633,6 +1637,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s6w15</LM>
 </t-connectors.rf>
@@ -1791,6 +1796,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 </LM>
 <LM id="t-lnd94103-079-p1s7w2">
 <a>
@@ -1934,6 +1940,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s7w9</LM>
 </t-connectors.rf>
@@ -2137,6 +2144,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>neni pripojeno k zadne sipce  -zda se mi to jako 
+NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discourse_comment>
 </LM>
 <LM id="t-lnd94103-079-p1s8w13">
 <a>
@@ -2147,6 +2156,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
+<discourse_comment>neni pripojeno k zadne sipce  -zda se mi to jako 
+NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discourse_comment>
 </LM>
 <LM id="t-lnd94103-079-p1s8w1">
 <a>
@@ -2920,6 +2931,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s11w6</LM>
 </t-connectors.rf>
@@ -3092,6 +3104,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s11w16</LM>
 </t-connectors.rf>
@@ -3258,6 +3271,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s12w3</LM>
 </t-connectors.rf>
@@ -3983,6 +3997,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s15w3</LM>
 </t-connectors.rf>
@@ -3993,6 +4008,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s14w13</LM>
 </t-connectors.rf>
@@ -4419,6 +4435,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s16w4</LM>
 </t-connectors.rf>
@@ -4594,6 +4611,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s16w10</LM>
 </t-connectors.rf>

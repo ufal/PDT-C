@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_154.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -35,6 +35,9 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>kolekce,
+určitě vyřadit,
+chybí tabulky</discourse_comment>
 <children>
 <LM id="t-ln94200-154-p1s1w1">
 <a>
@@ -2973,6 +2976,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-154-p13s1w34</LM>
 </t-connectors.rf>
@@ -3541,6 +3545,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-154-p13s2w30</LM>
 </t-connectors.rf>

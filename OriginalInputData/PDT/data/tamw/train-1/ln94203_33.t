@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94203_33.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -691,6 +691,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-33-p2s6w2</LM>
 </t-connectors.rf>
@@ -1112,6 +1113,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-33-p2s3w15</LM>
 </t-connectors.rf>
@@ -1458,6 +1460,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
 <val_frame.rf>v#v-w6297f1</val_frame.rf>
 <children>
 <LM id="t-ln94203-33-p2s4w2">
@@ -1750,6 +1753,20 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94203-33-p2s4w18</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94203-33-p2s5w1</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w536f1</val_frame.rf>
 <children>
 <LM id="t-ln94203-33-p2s5a0">
@@ -2492,6 +2509,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-33-p2s6w20</LM>
 </t-connectors.rf>
@@ -2603,6 +2621,23 @@
 <t_lemma>neboť</t_lemma>
 <functor>REAS</functor>
 <deepord>11</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94203-33-p2s6w4</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>spec</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln94203-33-p2s7w2</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94203-33-p2s7w2</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-ln94203-33-p2s7w2">
 <a>
@@ -2830,6 +2865,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-33-p2s7w13</LM>
 </t-connectors.rf>

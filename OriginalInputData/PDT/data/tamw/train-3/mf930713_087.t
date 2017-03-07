@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930713_087.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -461,6 +461,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-087-p2s1Bw13</LM>
 </a-connectors.rf>
@@ -1052,6 +1053,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-087-p3s2w14</LM>
 </t-connectors.rf>
@@ -1314,6 +1316,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<comment>možné i jen mezi 
+slovy pokles a zrušit</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-087-p3s4w2</LM>
 </t-connectors.rf>
@@ -2142,6 +2147,8 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>f_opp</discourse_type>
+<comment>moc velká míra inference na opp</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-087-p4s2w2</LM>
 </t-connectors.rf>
@@ -2560,6 +2567,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-087-p4s4w1</LM>
 </t-connectors.rf>
@@ -3208,6 +3216,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-087-p5s1w1</LM>
 </a-connectors.rf>
@@ -4157,6 +4166,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-087-p6s2w6</LM>
 </t-connectors.rf>
@@ -4458,6 +4468,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-087-p6s4w10</LM>
 </t-connectors.rf>

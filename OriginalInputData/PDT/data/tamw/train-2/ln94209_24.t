@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94209_24.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -783,11 +783,22 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-24-p3s1w2</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>Nejsem si tu vubec jista 
+typem vztahu. Napadlo me i 
+reason, conj, coz ukazuje, 
+ze jsem opravdu nevedela. Ale 
+misto toho "tak" bych si tu 
+klidne dala "to znamena, ze souhlasi...", 
+coz me prave privedlo na to vysvetleni
+(VP měla explicat, já opravuji na
+equiv  -význam českého tedy, postulovaná 
+rovnost obsahů, často nějaké vyplývání)</discourse_comment>
 <val_frame.rf>v#v-w6275f1</val_frame.rf>
 <children>
 <LM id="t-ln94209-24-p3s1w2">
@@ -1286,6 +1297,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-24-p3s3w4</LM>
 </t-connectors.rf>
@@ -1571,6 +1583,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-24-p3s3w18</LM>
 </t-connectors.rf>
@@ -1758,6 +1771,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-24-p3s3w28</LM>
 </t-connectors.rf>
@@ -2370,6 +2384,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-24-p4s2w2</LM>
 </t-connectors.rf>
@@ -3030,6 +3045,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-24-p5s1w21</LM>
 </t-connectors.rf>
@@ -3160,6 +3176,20 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94209-24-p5s1w9</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94209-24-p5s2w16</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w531f1</val_frame.rf>
 <children>
 <LM id="t-ln94209-24-p5s2a0">
@@ -3383,6 +3413,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-24-p5s2w11</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95047_005.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1090,6 +1090,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<secondary_NP_type>restr</secondary_NP_type>
 <discourse>
 <LM>
 <target_node.rf>t-ln95047-005-p3s1w14</target_node.rf>
@@ -1097,6 +1098,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-005-p3s2w5</LM>
 </t-connectors.rf>
@@ -1786,6 +1788,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>Neznacim  -anafora, nezaklada 
+vyznamovy diskurzni vztah.</discourse_comment>
 </LM>
 <LM id="t-ln95047-005-p4s2w4">
 <a>

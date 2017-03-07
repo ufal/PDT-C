@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920925_032.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -984,6 +984,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>chyba v článku,
+informátor
+není uveden</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-032-p2s4w2</LM>
 </t-connectors.rf>
@@ -1319,6 +1323,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-032-p2s4w24</LM>
 </t-connectors.rf>
@@ -1482,6 +1487,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-032-p2s5w4</LM>
 </t-connectors.rf>
@@ -1647,6 +1653,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-032-p3s1w4</LM>
 </t-connectors.rf>
@@ -2208,6 +2215,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-032-p4s1w2</LM>
 </t-connectors.rf>
@@ -2458,6 +2466,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-032-p4s1w16</LM>
 </a-connectors.rf>
@@ -2586,6 +2595,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-032-p5s1w24</LM>
 </t-connectors.rf>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94206_4.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1145,6 +1145,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-4-p3s2w3</LM>
 </t-connectors.rf>
@@ -2038,11 +2039,13 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-4-p4s1w11</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR? nema byt odkaz na "mohou"?</discourse_comment>
 <val_frame.rf>v#v-w4277f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-4-p4s1w12">

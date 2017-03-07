@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94209_104.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -437,6 +437,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
+<discourse_comment>wrongTR? nema tento uzel viset na "demolice"?</discourse_comment>
 <val_frame.rf>v#v-w8784f1</val_frame.rf>
 <children>
 <LM id="t-ln94209-104-p2s1Bw16">
@@ -1390,6 +1391,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94209-104-p3s1w22</LM>
 <LM>a#a-ln94209-104-p3s1w24</LM>
@@ -1566,6 +1568,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94209-104-p3s2w1</LM>
 <LM>a#a-ln94209-104-p3s2w3</LM>
@@ -2054,6 +2057,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-104-p3s3w7</LM>
 </t-connectors.rf>
@@ -2292,6 +2296,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94209-104-p4s1w10</LM>
 <LM>t-ln94209-104-p4s1w11</LM>
@@ -3211,6 +3216,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-104-p5s1w12</LM>
 </t-connectors.rf>

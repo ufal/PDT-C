@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_118.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -119,6 +119,8 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR?
+dvakrát stejný nadpis</discourse_comment>
 <children>
 <LM id="t-mf920922-118-p3s1w2">
 <a>
@@ -699,6 +701,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>OPP je silnější
+než CONC</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-118-p4s4w2</LM>
 <LM>t-mf920922-118-p4s4w1</LM>
@@ -1357,6 +1362,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-118-p4s6w1</LM>
 </a-connectors.rf>

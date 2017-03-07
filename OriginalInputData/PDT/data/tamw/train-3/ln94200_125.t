@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_125.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1289,6 +1289,13 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<comment>silná časová složka významu
+
+wrongTR? nemělo by být v druhé
+větvi dokopírované sloveso? visí VV 
+dobře na kdy?
+</comment>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-125-p2s4w7</LM>
 </a-connectors.rf>
@@ -1729,6 +1736,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p2s4w39</LM>
 </t-connectors.rf>
@@ -2218,6 +2226,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p2s5w27</LM>
 </t-connectors.rf>
@@ -2476,6 +2485,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p2s6w1</LM>
 </t-connectors.rf>
@@ -4103,6 +4113,25 @@
 <t_lemma>aniž</t_lemma>
 <functor>CONJ</functor>
 <deepord>19</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94200-125-p3s3w1</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>1</target_range>
+<discourse_type>confr</discourse_type>
+<src>pdit20</src>
+<a-connectors.rf>
+<LM>a#a-ln94200-125-p3s5w1</LM>
+<LM>a#a-ln94200-125-p3s5w2</LM>
+<LM>a#a-ln94200-125-p3s5w3</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94200-125-p3s5w4</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <children>
 <LM id="t-ln94200-125-p3s5w5">
 <a>
@@ -4457,6 +4486,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p3s5w27</LM>
 </t-connectors.rf>
@@ -4960,6 +4990,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p4s1w12</LM>
 </t-connectors.rf>
@@ -5947,6 +5978,8 @@
 <t_lemma>však</t_lemma>
 <functor>ADVS</functor>
 <deepord>28</deepord>
+<discourse_comment>stylistiky hodně
+neobratné vyjádření</discourse_comment>
 <children>
 <LM id="t-ln94200-125-p4s2w33">
 <a>
@@ -6097,6 +6130,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p4s2w37</LM>
 </t-connectors.rf>
@@ -6390,11 +6424,15 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p5s2w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
+<discourse_comment>wrongTR
+měla by být elipsa 
+řídící klauze</discourse_comment>
 <children>
 <LM id="t-ln94200-125-p5s2w1">
 <a>
@@ -6613,6 +6651,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p5s2w16</LM>
 </t-connectors.rf>
@@ -7022,6 +7061,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>paragraph
+6-17</discourse_comment>
 </LM>
 <LM id="t-ln94200-125-p6s1w2">
 <a>
@@ -7791,14 +7832,16 @@
 <deepord>13</deepord>
 <discourse>
 <LM>
-<target_node.rf>t-ln94200-125-p6s2w7</target_node.rf>
+<target_node.rf>t-ln94200-125-p6s2w3</target_node.rf>
 <type>discourse</type>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<comment>stylisticky velmi neobratné</comment>
+<src>pdit20</src>
 <t-connectors.rf>
-<LM>t-ln94200-125-p6s2w12</LM>
 <LM>t-ln94200-125-p6s2w4</LM>
+<LM>t-ln94200-125-p6s2w12</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
@@ -8181,6 +8224,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p6s3w19</LM>
 </t-connectors.rf>
@@ -8463,6 +8507,9 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>v konektoru je v tomto
+případě i hodně hodnocení</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p6s5w1</LM>
 </t-connectors.rf>
@@ -9538,6 +9585,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-125-p7s1w1</LM>
 </a-connectors.rf>
@@ -10173,6 +10221,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-125-p7s3w1</LM>
 </a-connectors.rf>
@@ -10335,6 +10384,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p7s3w11</LM>
 </t-connectors.rf>
@@ -10639,6 +10689,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p7s3w30</LM>
 </t-connectors.rf>
@@ -11111,6 +11162,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-125-p8s1w1</LM>
 </a-connectors.rf>
@@ -11475,6 +11527,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p8s1w20</LM>
 </t-connectors.rf>
@@ -11876,6 +11929,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p8s2w5</LM>
 </t-connectors.rf>
@@ -11886,6 +11940,9 @@
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<comment>dost nejasný vztah, ironie?
+</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p8s4w3</LM>
 </t-connectors.rf>
@@ -12114,6 +12171,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<comment>nepříliš jasné</comment>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p8s3w1</LM>
 </t-connectors.rf>

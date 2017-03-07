@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_015.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -90,6 +90,7 @@
 <LM>
 <type>list</type>
 <start_range>1</start_range>
+<src>pdit10</src>
 </LM>
 <LM>
 <target_node.rf>t-lnd94103-015-p1s1w1</target_node.rf>
@@ -97,6 +98,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -117,6 +119,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>wrongTR? neni tato veta spatne nasegmentovana? 
+nema "Českomoravský profit č. 18" patrit jeste k 
+predchozimu stromu?</discourse_comment>
 <children>
 <LM id="t-lnd94103-015-p1s2w1">
 <a>
@@ -239,6 +244,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>8</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-lnd94103-015-p1s2w11">
 <a>
@@ -452,6 +458,7 @@
 <target_node.rf>t-lnd94103-015-p1s2w9</target_node.rf>
 <type>list</type>
 <start_range>1</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <children>
@@ -542,6 +549,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-015-p1s3Bw6</LM>
 </t-connectors.rf>
@@ -822,6 +830,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-015-p1s4Aw16</LM>
 </t-connectors.rf>
@@ -925,6 +934,7 @@
 <target_node.rf>t-lnd94103-015-p1s3Bw6</target_node.rf>
 <type>list</type>
 <start_range>1</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w372f1</val_frame.rf>
@@ -1126,6 +1136,7 @@
 <target_node.rf>t-lnd94103-015-p1s4Bw1</target_node.rf>
 <type>list</type>
 <start_range>1</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w1058f1</val_frame.rf>
@@ -1461,6 +1472,7 @@
 <target_node.rf>t-lnd94103-015-p1s5Bw2</target_node.rf>
 <type>list</type>
 <start_range>1</start_range>
+<src>pdit10</src>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w7078f1</val_frame.rf>

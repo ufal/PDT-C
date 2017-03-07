@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9413_018.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -660,6 +660,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-018-p4s2w14</LM>
 </t-connectors.rf>
@@ -941,6 +942,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-018-p4s3w9</LM>
 </a-connectors.rf>
@@ -3227,9 +3229,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
-<t-connectors.rf>
+<src>pdit10</src>
+<a-connectors.rf>
+<LM>a#a-cmpr9413-018-p8s2w1</LM>
+</a-connectors.rf>
+<t-connectors_ext.rf>
 <LM>t-cmpr9413-018-p8s2w2</LM>
-</t-connectors.rf>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w3978f2</val_frame.rf>
@@ -3963,6 +3970,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-018-p8s4w2</LM>
 </t-connectors.rf>
@@ -4226,11 +4234,17 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-018-p8s5w2</LM>
-<LM>a#a-cmpr9413-018-p8s5w1</LM>
-<LM>a#a-cmpr9413-018-p8s5w4</LM>
 </a-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-cmpr9413-018-p8s5w1</LM>
+<LM>a#a-cmpr9413-018-p8s5w2</LM>
+<LM>a#a-cmpr9413-018-p8s5w3</LM>
+<LM>a#a-cmpr9413-018-p8s5w4</LM>
+</a-connectors_ext.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w7315f1</val_frame.rf>
@@ -5852,6 +5866,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-018-p10s4w7</LM>
 </a-connectors.rf>

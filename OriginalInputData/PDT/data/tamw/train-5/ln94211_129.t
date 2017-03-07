@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94211_129.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -252,6 +252,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-129-p2s1Bw1</LM>
 </a-connectors.rf>
@@ -771,6 +772,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-129-p3s1w5</LM>
 </t-connectors.rf>
@@ -1247,6 +1249,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-129-p3s2w19</LM>
 </a-connectors.rf>
@@ -1532,6 +1535,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-129-p4s2w9</LM>
 </t-connectors.rf>
@@ -1973,6 +1977,10 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
+<t-connectors.rf>
+<LM>t-ln94211-129-p4s3w2</LM>
+</t-connectors.rf>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w1395f1</val_frame.rf>
@@ -2298,6 +2306,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse_comment>neanotuji, toto PREC nezaklada 
+vyznamovy diskurzni vztah, lze namisto 
+toho doplnit "jeste" ci "krome Ciny"</discourse_comment>
 </LM>
 <LM id="t-ln94211-129-p4s4w17">
 <a>
@@ -2771,6 +2782,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-129-p4s5w20</LM>
 </t-connectors.rf>
@@ -2966,6 +2978,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-129-p4s5w34</LM>
 </a-connectors.rf>
@@ -3260,6 +3273,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-129-p4s7w12</LM>
 <LM>t-ln94211-129-p4s7w13</LM>
@@ -4074,6 +4088,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-129-p5s2w12</LM>
 </a-connectors.rf>
@@ -5549,6 +5564,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-129-p6s3w1</LM>
 </t-connectors.rf>
@@ -5784,6 +5800,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-129-p6s3w14</LM>
 <LM>t-ln94211-129-p6s3w16</LM>
@@ -6210,6 +6227,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>Neznacim, jedna se o 
+dvojici "kdyz  -tak".</discourse_comment>
 </LM>
 <LM id="t-ln94211-129-p8s1w1">
 <a>
@@ -6361,6 +6380,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-129-p8s1w9</LM>
 </a-connectors.rf>

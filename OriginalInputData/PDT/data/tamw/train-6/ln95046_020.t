@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95046_020.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -41,6 +41,7 @@
 <tfa>t</tfa>
 <deepord>3</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>wrongTR  -proc je tady EmpVerb?</discourse_comment>
 <children>
 <LM id="t-ln95046-020-p1s1w2">
 <a>
@@ -964,6 +965,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-020-p2s2w29</LM>
 <LM>t-ln95046-020-p2s2w30</LM>
@@ -1282,6 +1284,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-020-p2s3w3</LM>
 </t-connectors.rf>
@@ -1430,6 +1433,9 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>18</deepord>
+<discourse_comment>wrongTR? Rekla bych, ze nejvys by melo byt
+ "odehrat" a ze na "Keenan" by melo viset "a" a 
+na nem "působit" a "vidět".</discourse_comment>
 <children>
 <LM id="t-ln95046-020-p2s4w3">
 <a>
@@ -1790,6 +1796,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-020-p2s4w21</LM>
 </t-connectors.rf>

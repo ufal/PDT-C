@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94210_83.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1159,6 +1159,8 @@
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
+<secondary_NP_type>reason</secondary_NP_type>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94210-83-p2s4w2">
 <a>
@@ -1254,6 +1256,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-83-p2s4w6</LM>
 <LM>t-ln94210-83-p2s4a0</LM>
@@ -1433,6 +1436,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-83-p2s5w7</LM>
 </t-connectors.rf>
@@ -1944,6 +1948,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>tento prec neni pripojen k zadne sipce; zda se mi
+totiz, ze by to mel byt spis MANN (timto zpusobem
+ukazala...)</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94210-83-p2s6w5</target_node.rf>
@@ -2099,6 +2106,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-83-p2s7w8</LM>
 </t-connectors.rf>

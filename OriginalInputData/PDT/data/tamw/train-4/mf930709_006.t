@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_006.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -37,6 +37,9 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>kolekce
+Tohle vypada jako konec nakeho clanku, neni
+jasne, o cem se mluvi.</discourse_comment>
 <val_frame.rf>v#v-w7970f2</val_frame.rf>
 <children>
 <LM id="t-mf930709-006-p2s2w1">

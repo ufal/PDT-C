@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_151.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1038,6 +1038,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-151-p4s3w4</LM>
 </t-connectors.rf>
@@ -1352,6 +1353,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-151-p4s5w5</LM>
 </t-connectors.rf>
@@ -1478,6 +1480,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-151-p4s6w3</LM>
 </a-connectors.rf>
@@ -2242,6 +2245,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-151-p5s1w12</LM>
 <LM>t-ln94200-151-p5s1w11</LM>
@@ -2822,6 +2826,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-151-p5s4w7</LM>
 </t-connectors.rf>
@@ -3135,6 +3140,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-151-p5s5Aw1</LM>
 </a-connectors.rf>
@@ -3372,6 +3378,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>14</deepord>
+<discourse_comment>patří ke konektoru 
+podmínkové klauze
+v této struktuře</discourse_comment>
 </LM>
 <LM id="t-ln94200-151-p5s5Aw20">
 <a>
@@ -4146,6 +4155,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-151-p6s2w14</LM>
 </t-connectors.rf>
@@ -4319,6 +4329,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-151-p6s3w6</LM>
 </t-connectors.rf>
@@ -4517,6 +4528,8 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>2</deepord>
+<discourse_comment>secondary  -negované sloveso v jedné
+části, "spíše" v druhé  -vzniká OPP</discourse_comment>
 </LM>
 <LM id="t-ln94200-151-p6s4w1">
 <a>

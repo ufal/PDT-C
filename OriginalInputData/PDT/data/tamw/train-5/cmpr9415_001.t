@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9415_001.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -3293,6 +3293,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-001-p6s4w6</LM>
 </t-connectors.rf>
@@ -5279,6 +5280,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>10</deepord>
+<secondary_NP_type>cond</secondary_NP_type>
 <children>
 <LM id="t-cmpr9415-001-p8s1w12">
 <a>
@@ -8628,6 +8630,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-001-p10s3w6</LM>
 </t-connectors.rf>
@@ -8755,6 +8758,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9415-001-p10s4w2</LM>
 <LM>a#a-cmpr9415-001-p10s4w1</LM>
@@ -9062,6 +9066,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-001-p10s4w19</LM>
 </t-connectors.rf>

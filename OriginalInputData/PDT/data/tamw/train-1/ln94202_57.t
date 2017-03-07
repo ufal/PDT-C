@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_57.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -413,6 +413,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-57-p2s1Cw22</LM>
 </a-connectors.rf>
@@ -740,6 +741,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-57-p3s1w15</LM>
 <LM>a#a-ln94202-57-p3s1w17</LM>
@@ -872,6 +874,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-57-p3s1a0</LM>
 <LM>t-ln94202-57-p3s2w2</LM>
@@ -1038,6 +1041,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-57-p3s2w13</LM>
 </a-connectors.rf>
@@ -1322,6 +1326,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-57-p3s3w16</LM>
 </t-connectors.rf>
@@ -1338,6 +1343,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>12</deepord>
+<discourse_comment>soucast konektoru
+v této strukture,
+CM misto PREC?</discourse_comment>
 </LM>
 <LM id="t-ln94202-57-p3s3w19">
 <a>
@@ -1600,6 +1608,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94202-57-p3s4w5">
 <a>

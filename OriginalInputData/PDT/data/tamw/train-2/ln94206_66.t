@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94206_66.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -828,6 +828,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-66-p2s2w18</LM>
 <LM>t-ln94206-66-p2s2w14</LM>
@@ -1497,6 +1498,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
+<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94206-66-p3s3w1">
 <a>
@@ -1868,6 +1870,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-66-p3s4w2</LM>
 </t-connectors.rf>
@@ -2307,10 +2310,12 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-66-p3s6w1</LM>
 <LM>t-ln94206-66-p3s6w2</LM>
 </t-connectors.rf>
+<is_secondary>1</is_secondary>
 </LM>
 </discourse>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
@@ -2679,6 +2684,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-66-p3s7w1</LM>
 </t-connectors.rf>
@@ -3915,6 +3921,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-66-p4s2w33</LM>
 </t-connectors.rf>
@@ -4034,6 +4041,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-66-p4s3w24</LM>
 </t-connectors.rf>
@@ -4427,6 +4435,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+<discourse_comment>adept na seznam
+takhle struktura hypertéma,
+16-26 první položka, 27-32
+druhá položka</discourse_comment>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-66-p5s1w1">
@@ -4444,6 +4456,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>6</deepord>
+<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94206-66-p5s1w9">
 <a>
@@ -5468,6 +5481,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-66-p6s3w1</LM>
 </t-connectors.rf>
@@ -5898,6 +5912,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-66-p6s4w5</LM>
 </t-connectors.rf>
@@ -6573,6 +6588,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-66-p6s6w12</LM>
 </t-connectors.rf>
@@ -7342,6 +7358,9 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
+<discourse_comment>prázdné, rozhodně
+ne čistá časová následnost, 
+?one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94206-66-p6s8w19">
 <a>
@@ -8423,6 +8442,7 @@
 <start_range>0</start_range>
 <target_range>2</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-66-p6s11w3</LM>
 </t-connectors.rf>
@@ -10319,6 +10339,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-66-p7s4w6</LM>
 </t-connectors.rf>
@@ -12635,6 +12656,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-66-p8s2w39</LM>
 <LM>t-ln94206-66-p8s2w36</LM>
@@ -12907,6 +12929,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-66-p8s2w67</LM>
 <LM>t-ln94206-66-p8s2w65</LM>
@@ -13222,6 +13245,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>není PREC, ale MANN</discourse_comment>
 </LM>
 <LM id="t-ln94206-66-p8s3w11">
 <a>
@@ -13267,6 +13291,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-66-p8s3w6</LM>
 </a-connectors.rf>
@@ -13825,6 +13850,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-66-p8s4w24</LM>
 <LM>t-ln94206-66-p8s4w19</LM>
@@ -14005,6 +14031,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-66-p8s4w38</LM>
 </t-connectors.rf>

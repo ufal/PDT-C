@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_109.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -35,6 +35,11 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_special>heading</discourse_special>
+<discourse_comment>defektní soubor,
+mnoho případů špatné segmentace,
+48-51 a 55 jsou jen interpunkční 
+znaménka  -prázdné rooty, 
+možná is_photo, wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94202-109-p1s1w1">
 <a>
@@ -1120,6 +1125,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>označení vítěze,
+není seznam</discourse_comment>
 </LM>
 <LM id="t-ln94202-109-p2s42w1">
 <a>
@@ -1282,6 +1289,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>označení vítěze,
+není seznam</discourse_comment>
 </LM>
 <LM id="t-ln94202-109-p2s45w1">
 <a>
@@ -1747,6 +1756,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>označení vítěze, 
+není seznam</discourse_comment>
 </LM>
 <LM id="t-ln94202-109-p2s57w1">
 <a>
@@ -2043,6 +2054,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>označení vítěze,
+není seznam</discourse_comment>
 </LM>
 <LM id="t-ln94202-109-p2s64w1">
 <a>
@@ -2267,6 +2280,8 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>označení vítěze,
+není seznam</discourse_comment>
 </LM>
 <LM id="t-ln94202-109-p2s71w1">
 <a>

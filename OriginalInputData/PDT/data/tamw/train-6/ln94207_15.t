@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_15.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -1142,6 +1142,7 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>gener</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-15-p2s6w5</LM>
 </t-connectors.rf>
@@ -1255,6 +1256,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-15-p2s6w9</LM>
 </t-connectors.rf>
@@ -1594,6 +1596,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-15-p2s7w7</LM>
 </t-connectors.rf>
@@ -1830,6 +1833,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-15-p2s8w5</LM>
 </t-connectors.rf>
@@ -2249,6 +2253,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-15-p2s11w7</LM>
 <LM>t-ln94207-15-p2s11w8</LM>
@@ -2306,6 +2311,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-15-p2s12w7</LM>
 </t-connectors.rf>
@@ -2322,6 +2328,7 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>možná one_arg (zdurazneni)</discourse_comment>
 </LM>
 <LM id="t-ln94207-15-p2s12a1">
 <nodetype>list</nodetype>

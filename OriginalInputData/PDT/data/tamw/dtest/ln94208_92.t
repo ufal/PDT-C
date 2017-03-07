@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94208_92.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -264,6 +264,20 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94208-92-p3s1w5</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>preced</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94208-92-p3s1w5</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
 <val_frame.rf>v#v-w8756f2</val_frame.rf>
 <children>
 <LM id="t-ln94208-92-p2s1w1">
@@ -1317,6 +1331,8 @@
 <t_lemma>#Amp</t_lemma>
 <functor>CONJ</functor>
 <deepord>25</deepord>
+<discourse_comment>tento znak neni v textu zleva oddelen mezerou 
+(na m-rovine mezera je)</discourse_comment>
 <children>
 <LM id="t-ln94208-92-p3s1w25">
 <a>
@@ -1430,6 +1446,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-92-p3s2w3</LM>
 </t-connectors.rf>
@@ -1501,6 +1518,22 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln94208-92-p3s2w18</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>preced</discourse_type>
+<src>pdit20</src>
+<t-connectors.rf>
+<LM>t-ln94208-92-p3s2w18</LM>
+<LM>t-ln94208-92-p3s2w17</LM>
+</t-connectors.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
+<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v-w8756f2</val_frame.rf>
 <children>
 <LM id="t-ln94208-92-p3s2w3">
@@ -1675,18 +1708,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<discourse>
-<LM>
-<target_node.rf>t-ln94208-92-p3s2w4</target_node.rf>
-<type>discourse</type>
-<start_range>0</start_range>
-<target_range>0</target_range>
-<discourse_type>conj</discourse_type>
-<t-connectors.rf>
-<LM>t-ln94208-92-p3s2w17</LM>
-</t-connectors.rf>
-</LM>
-</discourse>
 <val_frame.rf>v#v-w3765f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-92-p3s2w27">
@@ -1768,6 +1789,8 @@
 <t_lemma>#Amp</t_lemma>
 <functor>CONJ</functor>
 <deepord>19</deepord>
+<discourse_comment>tento znak neni v textu zleva oddelen mezerou
+(na m-rovine mezera je)</discourse_comment>
 <children>
 <LM id="t-ln94208-92-p3s2w24">
 <a>
@@ -2173,6 +2196,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-92-p4s2w3</LM>
 </t-connectors.rf>
@@ -2560,6 +2584,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-92-p4s2w23</LM>
 </t-connectors.rf>
@@ -2746,6 +2771,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-92-p4s2w36</LM>
 </t-connectors.rf>

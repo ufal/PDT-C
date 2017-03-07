@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_30_schema.xml" />
+<schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95048_122.a" />
 <reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
@@ -911,6 +911,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_comment>secondary druhá námitka</discourse_comment>
 <children>
 <LM id="t-ln95048-122-p2s4w1">
 <a>
@@ -1401,6 +1402,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-122-p2s6w9</LM>
 </t-connectors.rf>
