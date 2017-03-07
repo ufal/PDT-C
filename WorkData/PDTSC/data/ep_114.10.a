@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="adata_schema.xml" />
+<references>
+<reffile id="m" name="mdata" href="ep_114.10.m" />
+</references>
+</head>
+<trees>
+<LM id="ep_114.10-SCzechA-ep_114-d1e2783-x3-root">
+<s.rf>m#m-d1e2783-x3</s.rf>
+<ord>0</ord>
+<children>
+<LM id="ep_114.10-SCzechA-m-d1t2790-7">
+<m.rf>m#m-d1t2790-7</m.rf>
+<afun>Pred</afun>
+<ord>7</ord>
+<children>
+<LM id="ep_114.10-SCzechA-m-d1t2790-2">
+<m.rf>m#m-d1t2790-2</m.rf>
+<afun>Adv</afun>
+<ord>2</ord>
+<children id="ep_114.10-SCzechA-m-d1t2790-1">
+<m.rf>m#m-d1t2790-1</m.rf>
+<afun>Adv</afun>
+<ord>1</ord>
+</children>
+</LM>
+<LM id="ep_114.10-SCzechA-m-d1t2790-3">
+<m.rf>m#m-d1t2790-3</m.rf>
+<afun>AuxT</afun>
+<ord>3</ord>
+</LM>
+<LM id="ep_114.10-SCzechA-m-d1t2790-4">
+<m.rf>m#m-d1t2790-4</m.rf>
+<afun>Obj</afun>
+<ord>4</ord>
+</LM>
+<LM id="ep_114.10-SCzechA-m-d1t2790-5">
+<m.rf>m#m-d1t2790-5</m.rf>
+<afun>AuxP</afun>
+<ord>5</ord>
+<children id="ep_114.10-SCzechA-m-d1t2790-6">
+<m.rf>m#m-d1t2790-6</m.rf>
+<afun>Obj</afun>
+<ord>6</ord>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="ep_114.10-SCzechA-m-d-m-d1e2783-x3-punct-punct">
+<m.rf>m#m-d-m-d1e2783-x3-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>8</ord>
+</LM>
+</children>
+</LM>
+<LM id="ep_114.10-SCzechA-ep_114-d1e2792-x2-root">
+<s.rf>m#m-d1e2792-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="ep_114.10-SCzechA-m-d1t2795-3">
+<m.rf>m#m-d1t2795-3</m.rf>
+<afun>Coord</afun>
+<ord>3</ord>
+<children id="ep_114.10-SCzechA-m-d1t2795-4">
+<m.rf>m#m-d1t2795-4</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>4</ord>
+<children>
+<LM id="ep_114.10-SCzechA-m-d1t2795-1">
+<m.rf>m#m-d1t2795-1</m.rf>
+<afun>Obj</afun>
+<ord>1</ord>
+</LM>
+<LM id="ep_114.10-SCzechA-m-d1t2795-2">
+<m.rf>m#m-d1t2795-2</m.rf>
+<afun>Adv</afun>
+<ord>2</ord>
+</LM>
+</children>
+</children>
+</LM>
+<LM id="ep_114.10-SCzechA-m-d-m-d1e2792-x2-punct-punct">
+<m.rf>m#m-d-m-d1e2792-x2-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>5</ord>
+</LM>
+</children>
+</LM>
+<LM id="ep_114.10-SCzechA-ep_114-d1e2796-x2-root">
+<s.rf>m#m-d1e2796-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="ep_114.10-SCzechA-m-d1e2796-x2-1716">
+<m.rf>m#m-d1e2796-x2-1716</m.rf>
+<afun>AuxP</afun>
+<ord>1</ord>
+<children id="ep_114.10-SCzechA-m-d1t2799-1">
+<m.rf>m#m-d1t2799-1</m.rf>
+<afun>Adv</afun>
+<ord>2</ord>
+</children>
+</LM>
+<LM id="ep_114.10-SCzechA-m-d-m-d1e2796-x2-punct-punct">
+<m.rf>m#m-d-m-d1e2796-x2-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>3</ord>
+</LM>
+</children>
+</LM>
+<LM id="ep_114.10-SCzechA-ep_114-d1e2800-x2-root">
+<s.rf>m#m-d1e2800-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="ep_114.10-SCzechA-m-d1e2800-x2-1717">
+<m.rf>m#m-d1e2800-x2-1717</m.rf>
+<afun>AuxP</afun>
+<ord>1</ord>
+<children id="ep_114.10-SCzechA-m-d1t2803-1">
+<m.rf>m#m-d1t2803-1</m.rf>
+<afun>Adv</afun>
+<ord>2</ord>
+</children>
+</LM>
+<LM id="ep_114.10-SCzechA-m-d-m-d1e2800-x2-punct-punct">
+<m.rf>m#m-d-m-d1e2800-x2-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>3</ord>
+</LM>
+</children>
+</LM>
+</trees>
+</adata>

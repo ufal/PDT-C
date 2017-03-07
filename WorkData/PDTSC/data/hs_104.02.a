@@ -1,0 +1,2975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="adata_schema.xml" />
+<references>
+<reffile id="m" name="mdata" href="hs_104.02.m" />
+</references>
+</head>
+<trees>
+<LM id="hs_104.02-SCzechA-hs_104-476-root">
+<s.rf>m#m-476</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d-id73021-punct">
+<m.rf>m#m-d-id73021-punct</m.rf>
+<afun>Pred</afun>
+<ord>1</ord>
+<children id="hs_104.02-SCzechA-m-d1t297-60">
+<m.rf>m#m-d1t297-60</m.rf>
+<afun>Coord</afun>
+<ord>8</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-476-482">
+<m.rf>m#m-476-482</m.rf>
+<afun>AuxX</afun>
+<is_member>1</is_member>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t297-52">
+<m.rf>m#m-d1t297-52</m.rf>
+<afun>AuxC</afun>
+<is_member>1</is_member>
+<ord>3</ord>
+<children id="hs_104.02-SCzechA-m-d1t297-53">
+<m.rf>m#m-d1t297-53</m.rf>
+<afun>Obj</afun>
+<ord>4</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t297-54">
+<m.rf>m#m-d1t297-54</m.rf>
+<afun>Adv</afun>
+<ord>5</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t297-55">
+<m.rf>m#m-d1t297-55</m.rf>
+<afun>AuxP</afun>
+<ord>6</ord>
+<children id="hs_104.02-SCzechA-m-d1t297-57">
+<m.rf>m#m-d1t297-57</m.rf>
+<afun>Adv</afun>
+<ord>7</ord>
+</children>
+</LM>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t297-61">
+<m.rf>m#m-d1t297-61</m.rf>
+<afun>AuxC</afun>
+<is_member>1</is_member>
+<ord>9</ord>
+<children id="hs_104.02-SCzechA-m-d1t297-65">
+<m.rf>m#m-d1t297-65</m.rf>
+<afun>Sb</afun>
+<ord>13</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t297-63">
+<m.rf>m#m-d1t297-63</m.rf>
+<afun>AuxV</afun>
+<ord>10</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t297-62">
+<m.rf>m#m-d1t297-62</m.rf>
+<afun>Adv</afun>
+<ord>12</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t297-66">
+<m.rf>m#m-d1t297-66</m.rf>
+<afun>Obj</afun>
+<ord>14</ord>
+<children id="hs_104.02-SCzechA-m-d1t297-64">
+<m.rf>m#m-d1t297-64</m.rf>
+<afun>AuxT</afun>
+<ord>11</ord>
+</children>
+</LM>
+</children>
+</children>
+</LM>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-476-495">
+<m.rf>m#m-476-495</m.rf>
+<afun>AuxK</afun>
+<ord>15</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e283-x4-root">
+<s.rf>m#m-d1e283-x4</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t299-9">
+<m.rf>m#m-d1t299-9</m.rf>
+<afun>Coord</afun>
+<ord>6</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t299-5">
+<m.rf>m#m-d1t299-5</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>2</ord>
+<children id="hs_104.02-SCzechA-m-d1t299-4">
+<m.rf>m#m-d1t299-4</m.rf>
+<afun>Sb</afun>
+<ord>1</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t299-7">
+<m.rf>m#m-d1t299-7</m.rf>
+<afun>Atr</afun>
+<is_member>1</is_member>
+<ord>4</ord>
+<children id="hs_104.02-SCzechA-m-d1t299-6">
+<m.rf>m#m-d1t299-6</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-id73381-punct">
+<m.rf>m#m-d-id73381-punct</m.rf>
+<afun>AuxX</afun>
+<ord>5</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-id73436-punct">
+<m.rf>m#m-d-id73436-punct</m.rf>
+<afun>Coord</afun>
+<is_member>1</is_member>
+<ord>9</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t299-11">
+<m.rf>m#m-d1t299-11</m.rf>
+<afun>Pnom</afun>
+<is_member>1</is_member>
+<ord>8</ord>
+<children id="hs_104.02-SCzechA-m-d1t299-10">
+<m.rf>m#m-d1t299-10</m.rf>
+<afun>Adv</afun>
+<ord>7</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t299-13">
+<m.rf>m#m-d1t299-13</m.rf>
+<afun>Pnom</afun>
+<is_member>1</is_member>
+<ord>10</ord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1e283-x4-496">
+<m.rf>m#m-d1e283-x4-496</m.rf>
+<afun>AuxK</afun>
+<ord>11</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-497-root">
+<s.rf>m#m-497</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t299-18">
+<m.rf>m#m-d1t299-18</m.rf>
+<afun>Coord</afun>
+<ord>4</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t299-15">
+<m.rf>m#m-d1t299-15</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>1</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t299-16">
+<m.rf>m#m-d1t299-16</m.rf>
+<afun>AuxV</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t299-17">
+<m.rf>m#m-d1t299-17</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t299-20">
+<m.rf>m#m-d1t299-20</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>6</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t299-19">
+<m.rf>m#m-d1t299-19</m.rf>
+<afun>Adv</afun>
+<ord>5</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t299-22">
+<m.rf>m#m-d1t299-22</m.rf>
+<afun>AuxP</afun>
+<ord>7</ord>
+<children id="hs_104.02-SCzechA-m-d1t299-25">
+<m.rf>m#m-d1t299-25</m.rf>
+<afun>Adv</afun>
+<ord>8</ord>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-497-498">
+<m.rf>m#m-497-498</m.rf>
+<afun>AuxK</afun>
+<ord>9</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-499-root">
+<s.rf>m#m-499</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t299-28">
+<m.rf>m#m-d1t299-28</m.rf>
+<afun>Coord</afun>
+<ord>1</ord>
+<children id="hs_104.02-SCzechA-m-d1t299-34">
+<m.rf>m#m-d1t299-34</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>5</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t299-32">
+<m.rf>m#m-d1t299-32</m.rf>
+<afun>Adv</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t299-30">
+<m.rf>m#m-d1t299-30</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t299-31">
+<m.rf>m#m-d1t299-31</m.rf>
+<afun>AuxV</afun>
+<ord>4</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t299-37">
+<m.rf>m#m-d1t299-37</m.rf>
+<afun>Obj</afun>
+<ord>8</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t299-35">
+<m.rf>m#m-d1t299-35</m.rf>
+<afun>Atr</afun>
+<ord>6</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t299-36">
+<m.rf>m#m-d1t299-36</m.rf>
+<afun>Atr</afun>
+<ord>7</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t299-39">
+<m.rf>m#m-d1t299-39</m.rf>
+<afun>AuxC</afun>
+<ord>10</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d-id73813-punct">
+<m.rf>m#m-d-id73813-punct</m.rf>
+<afun>AuxX</afun>
+<ord>9</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t299-42">
+<m.rf>m#m-d1t299-42</m.rf>
+<afun>Adv</afun>
+<ord>13</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t299-40">
+<m.rf>m#m-d1t299-40</m.rf>
+<afun>AuxP</afun>
+<ord>11</ord>
+<children id="hs_104.02-SCzechA-m-d1t299-41">
+<m.rf>m#m-d1t299-41</m.rf>
+<afun>Adv</afun>
+<ord>12</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t299-43">
+<m.rf>m#m-d1t299-43</m.rf>
+<afun>Obj</afun>
+<ord>14</ord>
+<children id="hs_104.02-SCzechA-m-d1t299-45">
+<m.rf>m#m-d1t299-45</m.rf>
+<afun>Pnom</afun>
+<ord>16</ord>
+<children id="hs_104.02-SCzechA-m-d1t299-44">
+<m.rf>m#m-d1t299-44</m.rf>
+<afun>Adv</afun>
+<ord>15</ord>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-499-500">
+<m.rf>m#m-499-500</m.rf>
+<afun>AuxK</afun>
+<ord>17</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-501-root">
+<s.rf>m#m-501</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t301-1">
+<m.rf>m#m-d1t301-1</m.rf>
+<afun>Pred</afun>
+<ord>1</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t301-2">
+<m.rf>m#m-d1t301-2</m.rf>
+<afun>Sb</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t301-3">
+<m.rf>m#m-d1t301-3</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t301-8">
+<m.rf>m#m-d1t301-8</m.rf>
+<afun>Obj</afun>
+<ord>8</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d-id74001-punct">
+<m.rf>m#m-d-id74001-punct</m.rf>
+<afun>AuxX</afun>
+<ord>4</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t301-5">
+<m.rf>m#m-d1t301-5</m.rf>
+<afun>Adv</afun>
+<ord>5</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t301-6">
+<m.rf>m#m-d1t301-6</m.rf>
+<afun>Adv</afun>
+<ord>6</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t301-7">
+<m.rf>m#m-d1t301-7</m.rf>
+<afun>AuxV</afun>
+<ord>7</ord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-m-d1e283-x4-punct-punct">
+<m.rf>m#m-d-m-d1e283-x4-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>9</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e302-x2-root">
+<s.rf>m#m-d1e302-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t307-2">
+<m.rf>m#m-d1t307-2</m.rf>
+<afun>Pred</afun>
+<ord>1</ord>
+<children id="hs_104.02-SCzechA-m-d1t307-3">
+<m.rf>m#m-d1t307-3</m.rf>
+<afun>Sb</afun>
+<ord>2</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-m-d1e302-x2-punct-punct">
+<m.rf>m#m-d-m-d1e302-x2-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>3</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e302-x3-root">
+<s.rf>m#m-d1e302-x3</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t309-1">
+<m.rf>m#m-d1t309-1</m.rf>
+<afun>Pred</afun>
+<ord>1</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t309-2">
+<m.rf>m#m-d1t309-2</m.rf>
+<afun>Adv</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t309-4">
+<m.rf>m#m-d1t309-4</m.rf>
+<afun>Obj</afun>
+<ord>4</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t309-3">
+<m.rf>m#m-d1t309-3</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t309-5">
+<m.rf>m#m-d1t309-5</m.rf>
+<afun>AuxP</afun>
+<ord>5</ord>
+<children id="hs_104.02-SCzechA-m-d1t309-6">
+<m.rf>m#m-d1t309-6</m.rf>
+<afun>Atr</afun>
+<ord>6</ord>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-id74278-punct">
+<m.rf>m#m-d-id74278-punct</m.rf>
+<afun>AuxK</afun>
+<ord>7</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e311-x2-root">
+<s.rf>m#m-d1e311-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t314-3">
+<m.rf>m#m-d1t314-3</m.rf>
+<afun>ExD</afun>
+<ord>2</ord>
+<children id="hs_104.02-SCzechA-m-d1t314-2">
+<m.rf>m#m-d1t314-2</m.rf>
+<afun>Atr</afun>
+<ord>1</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1e311-x2-513">
+<m.rf>m#m-d1e311-x2-513</m.rf>
+<afun>AuxK</afun>
+<ord>3</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-514-root">
+<s.rf>m#m-514</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t314-7">
+<m.rf>m#m-d1t314-7</m.rf>
+<afun>Pred</afun>
+<ord>2</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t314-8">
+<m.rf>m#m-d1t314-8</m.rf>
+<afun>AuxZ</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t314-9">
+<m.rf>m#m-d1t314-9</m.rf>
+<afun>AuxC</afun>
+<ord>4</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-514-515">
+<m.rf>m#m-514-515</m.rf>
+<afun>AuxX</afun>
+<ord>3</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t314-19">
+<m.rf>m#m-d1t314-19</m.rf>
+<afun>Atr</afun>
+<ord>11</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t314-11">
+<m.rf>m#m-d1t314-11</m.rf>
+<afun>Sb</afun>
+<ord>6</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t314-10">
+<m.rf>m#m-d1t314-10</m.rf>
+<afun>Atr</afun>
+<ord>5</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t314-12">
+<m.rf>m#m-d1t314-12</m.rf>
+<afun>AuxP</afun>
+<ord>7</ord>
+<children id="hs_104.02-SCzechA-m-d1t314-16">
+<m.rf>m#m-d1t314-16</m.rf>
+<afun>Atr</afun>
+<ord>9</ord>
+<children id="hs_104.02-SCzechA-m-d1t314-15">
+<m.rf>m#m-d1t314-15</m.rf>
+<afun>Atr</afun>
+<ord>8</ord>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t314-18">
+<m.rf>m#m-d1t314-18</m.rf>
+<afun>Adv</afun>
+<ord>10</ord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-514-516">
+<m.rf>m#m-514-516</m.rf>
+<afun>AuxK</afun>
+<ord>12</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-517-root">
+<s.rf>m#m-517</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t314-25">
+<m.rf>m#m-d1t314-25</m.rf>
+<afun>Pred</afun>
+<ord>6</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t314-22">
+<m.rf>m#m-d1t314-22</m.rf>
+<afun>Sb</afun>
+<ord>2</ord>
+<children id="hs_104.02-SCzechA-m-d1t314-21">
+<m.rf>m#m-d1t314-21</m.rf>
+<afun>Atr</afun>
+<ord>1</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t314-24">
+<m.rf>m#m-d1t314-24</m.rf>
+<afun>Adv</afun>
+<ord>4</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t314-23">
+<m.rf>m#m-d1t314-23</m.rf>
+<afun>AuxZ</afun>
+<ord>3</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-517-518">
+<m.rf>m#m-517-518</m.rf>
+<afun>Atr</afun>
+<ord>5</ord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-517-519">
+<m.rf>m#m-517-519</m.rf>
+<afun>AuxK</afun>
+<ord>7</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-520-root">
+<s.rf>m#m-520</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-520-521">
+<m.rf>m#m-520-521</m.rf>
+<afun>Pred</afun>
+<ord>6</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t314-31">
+<m.rf>m#m-d1t314-31</m.rf>
+<afun>AuxP</afun>
+<ord>1</ord>
+<children id="hs_104.02-SCzechA-m-d1t314-33">
+<m.rf>m#m-d1t314-33</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+<children id="hs_104.02-SCzechA-m-d1t314-32">
+<m.rf>m#m-d1t314-32</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t314-29">
+<m.rf>m#m-d1t314-29</m.rf>
+<afun>AuxV</afun>
+<ord>4</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t314-30">
+<m.rf>m#m-d1t314-30</m.rf>
+<afun>AuxT</afun>
+<ord>5</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t314-36">
+<m.rf>m#m-d1t314-36</m.rf>
+<afun>AuxC</afun>
+<ord>9</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-520-526">
+<m.rf>m#m-520-526</m.rf>
+<afun>AuxX</afun>
+<ord>7</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t314-35">
+<m.rf>m#m-d1t314-35</m.rf>
+<afun>AuxY</afun>
+<ord>8</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t314-39">
+<m.rf>m#m-d1t314-39</m.rf>
+<afun>Adv</afun>
+<ord>12</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t314-37">
+<m.rf>m#m-d1t314-37</m.rf>
+<afun>AuxV</afun>
+<ord>10</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t314-38">
+<m.rf>m#m-d1t314-38</m.rf>
+<afun>Adv</afun>
+<ord>11</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t314-40">
+<m.rf>m#m-d1t314-40</m.rf>
+<afun>AuxP</afun>
+<ord>13</ord>
+<children id="hs_104.02-SCzechA-m-d1t314-43">
+<m.rf>m#m-d1t314-43</m.rf>
+<afun>Adv</afun>
+<ord>16</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t314-41">
+<m.rf>m#m-d1t314-41</m.rf>
+<afun>Atr</afun>
+<ord>14</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t314-42">
+<m.rf>m#m-d1t314-42</m.rf>
+<afun>Atr</afun>
+<ord>15</ord>
+</LM>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t314-45">
+<m.rf>m#m-d1t314-45</m.rf>
+<afun>Adv</afun>
+<ord>18</ord>
+<children id="hs_104.02-SCzechA-m-d1t314-44">
+<m.rf>m#m-d1t314-44</m.rf>
+<afun>Adv</afun>
+<ord>17</ord>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-523-524">
+<m.rf>m#m-523-524</m.rf>
+<afun>AuxK</afun>
+<ord>19</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-525-root">
+<s.rf>m#m-525</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t314-50">
+<m.rf>m#m-d1t314-50</m.rf>
+<afun>Pred</afun>
+<ord>2</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t314-48">
+<m.rf>m#m-d1t314-48</m.rf>
+<afun>Adv</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t316-2">
+<m.rf>m#m-d1t316-2</m.rf>
+<afun>Sb</afun>
+<ord>5</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t316-3">
+<m.rf>m#m-d1t316-3</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t316-1">
+<m.rf>m#m-d1t316-1</m.rf>
+<afun>Atr</afun>
+<ord>4</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t316-7">
+<m.rf>m#m-d1t316-7</m.rf>
+<afun>Atr</afun>
+<ord>9</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d-id75124-punct">
+<m.rf>m#m-d-id75124-punct</m.rf>
+<afun>AuxX</afun>
+<ord>6</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t316-5">
+<m.rf>m#m-d1t316-5</m.rf>
+<afun>AuxP</afun>
+<ord>7</ord>
+<children id="hs_104.02-SCzechA-m-d1t316-6">
+<m.rf>m#m-d1t316-6</m.rf>
+<afun>Obj</afun>
+<ord>8</ord>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-525-527">
+<m.rf>m#m-525-527</m.rf>
+<afun>AuxK</afun>
+<ord>10</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-528-root">
+<s.rf>m#m-528</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t318-14">
+<m.rf>m#m-d1t318-14</m.rf>
+<afun>Pred</afun>
+<ord>6</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t318-13">
+<m.rf>m#m-d1t318-13</m.rf>
+<afun>Adv</afun>
+<ord>7</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-17">
+<m.rf>m#m-d1t318-17</m.rf>
+<afun>Coord</afun>
+<ord>10</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t318-16">
+<m.rf>m#m-d1t318-16</m.rf>
+<afun>Obj</afun>
+<is_member>1</is_member>
+<ord>9</ord>
+<children id="hs_104.02-SCzechA-m-d1t318-15">
+<m.rf>m#m-d1t318-15</m.rf>
+<afun>Atr</afun>
+<ord>8</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-20">
+<m.rf>m#m-d1t318-20</m.rf>
+<afun>Atr</afun>
+<ord>13</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t318-6">
+<m.rf>m#m-d1t318-6</m.rf>
+<afun>AuxC</afun>
+<ord>1</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t318-7">
+<m.rf>m#m-d1t318-7</m.rf>
+<afun>Adv</afun>
+<ord>2</ord>
+<children id="hs_104.02-SCzechA-m-d1t318-8">
+<m.rf>m#m-d1t318-8</m.rf>
+<afun>AuxP</afun>
+<ord>3</ord>
+<children id="hs_104.02-SCzechA-m-d1t318-10">
+<m.rf>m#m-d1t318-10</m.rf>
+<afun>Adv</afun>
+<ord>4</ord>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-id75342-punct">
+<m.rf>m#m-d-id75342-punct</m.rf>
+<afun>AuxX</afun>
+<ord>5</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-18">
+<m.rf>m#m-d1t318-18</m.rf>
+<afun>Adv</afun>
+<ord>12</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-23">
+<m.rf>m#m-d1t318-23</m.rf>
+<afun>Adv</afun>
+<ord>14</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-24">
+<m.rf>m#m-d1t318-24</m.rf>
+<afun>Adv</afun>
+<ord>15</ord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-22">
+<m.rf>m#m-d1t318-22</m.rf>
+<afun>Obj</afun>
+<ord>11</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-25">
+<m.rf>m#m-d1t318-25</m.rf>
+<afun>Obj</afun>
+<ord>21</ord>
+<children id="hs_104.02-SCzechA-m-d1t318-29">
+<m.rf>m#m-d1t318-29</m.rf>
+<afun>Pred</afun>
+<ord>19</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d-id75568-punct">
+<m.rf>m#m-d-id75568-punct</m.rf>
+<afun>AuxX</afun>
+<ord>16</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-27">
+<m.rf>m#m-d1t318-27</m.rf>
+<afun>Adv</afun>
+<ord>17</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-28">
+<m.rf>m#m-d1t318-28</m.rf>
+<afun>AuxR</afun>
+<ord>18</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-528-545">
+<m.rf>m#m-528-545</m.rf>
+<afun>AuxX</afun>
+<ord>20</ord>
+</LM>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-528-544">
+<m.rf>m#m-528-544</m.rf>
+<afun>AuxK</afun>
+<ord>22</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e311-x3-root">
+<s.rf>m#m-d1e311-x3</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t318-44">
+<m.rf>m#m-d1t318-44</m.rf>
+<afun>Pred</afun>
+<ord>4</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t318-33">
+<m.rf>m#m-d1t318-33</m.rf>
+<afun>Adv</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-40">
+<m.rf>m#m-d1t318-40</m.rf>
+<afun>Obj</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-39">
+<m.rf>m#m-d1t318-39</m.rf>
+<afun>Sb</afun>
+<ord>3</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-42">
+<m.rf>m#m-d1t318-42</m.rf>
+<afun>AuxP</afun>
+<ord>5</ord>
+<children id="hs_104.02-SCzechA-m-d1t318-43">
+<m.rf>m#m-d1t318-43</m.rf>
+<afun>Obj</afun>
+<ord>6</ord>
+<children id="hs_104.02-SCzechA-m-d1t318-46">
+<m.rf>m#m-d1t318-46</m.rf>
+<afun>AuxC</afun>
+<ord>8</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d-id75848-punct">
+<m.rf>m#m-d-id75848-punct</m.rf>
+<afun>AuxX</afun>
+<ord>7</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-47">
+<m.rf>m#m-d1t318-47</m.rf>
+<afun>Adv</afun>
+<ord>9</ord>
+<children id="hs_104.02-SCzechA-m-d1t318-48">
+<m.rf>m#m-d1t318-48</m.rf>
+<afun>AuxP</afun>
+<ord>10</ord>
+<children id="hs_104.02-SCzechA-m-d1t318-49">
+<m.rf>m#m-d1t318-49</m.rf>
+<afun>Obj</afun>
+<ord>11</ord>
+</children>
+</children>
+</LM>
+</children>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1e311-x3-546">
+<m.rf>m#m-d1e311-x3-546</m.rf>
+<afun>AuxK</afun>
+<ord>12</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-547-root">
+<s.rf>m#m-547</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t318-52">
+<m.rf>m#m-d1t318-52</m.rf>
+<afun>Pred</afun>
+<ord>1</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t318-57">
+<m.rf>m#m-d1t318-57</m.rf>
+<afun>Adv</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-53">
+<m.rf>m#m-d1t318-53</m.rf>
+<afun>AuxP</afun>
+<ord>3</ord>
+<children id="hs_104.02-SCzechA-m-d1t318-55">
+<m.rf>m#m-d1t318-55</m.rf>
+<afun>Adv</afun>
+<ord>4</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-547-549">
+<m.rf>m#m-547-549</m.rf>
+<afun>Coord</afun>
+<ord>9</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t318-59">
+<m.rf>m#m-d1t318-59</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>7</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-547-548">
+<m.rf>m#m-547-548</m.rf>
+<afun>AuxX</afun>
+<ord>5</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-58">
+<m.rf>m#m-d1t318-58</m.rf>
+<afun>Pnom</afun>
+<ord>6</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-61">
+<m.rf>m#m-d1t318-61</m.rf>
+<afun>Sb</afun>
+<ord>8</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-63">
+<m.rf>m#m-d1t318-63</m.rf>
+<afun>AuxP</afun>
+<ord>10</ord>
+<children id="hs_104.02-SCzechA-m-d1t318-65">
+<m.rf>m#m-d1t318-65</m.rf>
+<afun>Adv</afun>
+<ord>11</ord>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-547-550">
+<m.rf>m#m-547-550</m.rf>
+<afun>AuxK</afun>
+<ord>12</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-551-root">
+<s.rf>m#m-551</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t318-72">
+<m.rf>m#m-d1t318-72</m.rf>
+<afun>Pred</afun>
+<ord>5</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t318-68">
+<m.rf>m#m-d1t318-68</m.rf>
+<afun>Adv</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-69">
+<m.rf>m#m-d1t318-69</m.rf>
+<afun>AuxP</afun>
+<ord>2</ord>
+<children id="hs_104.02-SCzechA-m-d1t318-71">
+<m.rf>m#m-d1t318-71</m.rf>
+<afun>Adv</afun>
+<ord>4</ord>
+<children id="hs_104.02-SCzechA-m-d1t318-70">
+<m.rf>m#m-d1t318-70</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-73">
+<m.rf>m#m-d1t318-73</m.rf>
+<afun>Sb</afun>
+<ord>6</ord>
+<children id="hs_104.02-SCzechA-m-d1t318-78">
+<m.rf>m#m-d1t318-78</m.rf>
+<afun>Atr</afun>
+<ord>11</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d-id76244-punct">
+<m.rf>m#m-d-id76244-punct</m.rf>
+<afun>AuxX</afun>
+<ord>7</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-75">
+<m.rf>m#m-d1t318-75</m.rf>
+<afun>AuxP</afun>
+<ord>8</ord>
+<children id="hs_104.02-SCzechA-m-d1t318-76">
+<m.rf>m#m-d1t318-76</m.rf>
+<afun>Adv</afun>
+<ord>9</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-77">
+<m.rf>m#m-d1t318-77</m.rf>
+<afun>Obj</afun>
+<ord>10</ord>
+</LM>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-551-552">
+<m.rf>m#m-551-552</m.rf>
+<afun>AuxK</afun>
+<ord>12</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-553-root">
+<s.rf>m#m-553</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t318-82">
+<m.rf>m#m-d1t318-82</m.rf>
+<afun>Pred</afun>
+<ord>7</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t318-80">
+<m.rf>m#m-d1t318-80</m.rf>
+<afun>Adv</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-81">
+<m.rf>m#m-d1t318-81</m.rf>
+<afun>AuxV</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-86">
+<m.rf>m#m-d1t318-86</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-83">
+<m.rf>m#m-d1t318-83</m.rf>
+<afun>AuxP</afun>
+<ord>4</ord>
+<children id="hs_104.02-SCzechA-m-d1t318-84">
+<m.rf>m#m-d1t318-84</m.rf>
+<afun>Adv</afun>
+<ord>5</ord>
+<children id="hs_104.02-SCzechA-m-d1t318-85">
+<m.rf>m#m-d1t318-85</m.rf>
+<afun>Atr</afun>
+<ord>6</ord>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t318-87">
+<m.rf>m#m-d1t318-87</m.rf>
+<afun>Pnom</afun>
+<ord>8</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-553-554">
+<m.rf>m#m-553-554</m.rf>
+<afun>AuxK</afun>
+<ord>9</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-555-root">
+<s.rf>m#m-555</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t320-6">
+<m.rf>m#m-d1t320-6</m.rf>
+<afun>Pred</afun>
+<ord>5</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t320-3">
+<m.rf>m#m-d1t320-3</m.rf>
+<afun>Obj</afun>
+<ord>2</ord>
+<children id="hs_104.02-SCzechA-m-d1t320-2">
+<m.rf>m#m-d1t320-2</m.rf>
+<afun>Atr</afun>
+<ord>1</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t320-4">
+<m.rf>m#m-d1t320-4</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t320-5">
+<m.rf>m#m-d1t320-5</m.rf>
+<afun>AuxV</afun>
+<ord>4</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t320-10">
+<m.rf>m#m-d1t320-10</m.rf>
+<afun>AtvV</afun>
+<ord>6</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t320-7">
+<m.rf>m#m-d1t320-7</m.rf>
+<afun>AuxP</afun>
+<ord>8</ord>
+<children id="hs_104.02-SCzechA-m-d1t320-8">
+<m.rf>m#m-d1t320-8</m.rf>
+<afun>Adv</afun>
+<ord>9</ord>
+<children id="hs_104.02-SCzechA-m-d1t320-9">
+<m.rf>m#m-d1t320-9</m.rf>
+<afun>AuxZ</afun>
+<ord>7</ord>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-555-556">
+<m.rf>m#m-555-556</m.rf>
+<afun>AuxK</afun>
+<ord>10</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e311-x4-root">
+<s.rf>m#m-d1e311-x4</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t325-7">
+<m.rf>m#m-d1t325-7</m.rf>
+<afun>Coord</afun>
+<ord>7</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t325-1">
+<m.rf>m#m-d1t325-1</m.rf>
+<afun>AuxY</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t325-4">
+<m.rf>m#m-d1t325-4</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>3</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t325-2">
+<m.rf>m#m-d1t325-2</m.rf>
+<afun>AuxV</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t325-3">
+<m.rf>m#m-d1t325-3</m.rf>
+<afun>Obj</afun>
+<ord>5</ord>
+<children id="hs_104.02-SCzechA-m-d1t325-5">
+<m.rf>m#m-d1t325-5</m.rf>
+<afun>Atr</afun>
+<ord>4</ord>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-id76827-punct">
+<m.rf>m#m-d-id76827-punct</m.rf>
+<afun>AuxX</afun>
+<ord>6</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t325-12">
+<m.rf>m#m-d1t325-12</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>12</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t325-8">
+<m.rf>m#m-d1t325-8</m.rf>
+<afun>Adv</afun>
+<ord>8</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t325-9">
+<m.rf>m#m-d1t325-9</m.rf>
+<afun>AuxV</afun>
+<ord>9</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t325-10">
+<m.rf>m#m-d1t325-10</m.rf>
+<afun>AuxT</afun>
+<ord>10</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t325-11">
+<m.rf>m#m-d1t325-11</m.rf>
+<afun>Adv</afun>
+<ord>11</ord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-m-d1e311-x4-punct-punct">
+<m.rf>m#m-d-m-d1e311-x4-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>13</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e326-x2-root">
+<s.rf>m#m-d1e326-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t329-2">
+<m.rf>m#m-d1t329-2</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<children id="hs_104.02-SCzechA-m-d1t329-4">
+<m.rf>m#m-d1t329-4</m.rf>
+<afun>ExD</afun>
+<ord>3</ord>
+<children id="hs_104.02-SCzechA-m-d1t329-3">
+<m.rf>m#m-d1t329-3</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-m-d1e326-x2-punct-punct">
+<m.rf>m#m-d-m-d1e326-x2-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>4</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e330-x3-root">
+<s.rf>m#m-d1e330-x3</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t337-2">
+<m.rf>m#m-d1t337-2</m.rf>
+<afun>Pred</afun>
+<ord>2</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t337-1">
+<m.rf>m#m-d1t337-1</m.rf>
+<afun>Sb</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t337-3">
+<m.rf>m#m-d1t337-3</m.rf>
+<afun>AuxP</afun>
+<ord>3</ord>
+<children id="hs_104.02-SCzechA-m-d1t337-4">
+<m.rf>m#m-d1t337-4</m.rf>
+<afun>Adv</afun>
+<ord>4</ord>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-id77186-punct">
+<m.rf>m#m-d-id77186-punct</m.rf>
+<afun>AuxK</afun>
+<ord>5</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e338-x2-root">
+<s.rf>m#m-d1e338-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t341-4">
+<m.rf>m#m-d1t341-4</m.rf>
+<afun>Pred</afun>
+<ord>2</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t341-3">
+<m.rf>m#m-d1t341-3</m.rf>
+<afun>Sb</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t341-6">
+<m.rf>m#m-d1t341-6</m.rf>
+<afun>Pnom</afun>
+<ord>4</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t341-5">
+<m.rf>m#m-d1t341-5</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t341-7">
+<m.rf>m#m-d1t341-7</m.rf>
+<afun>AuxP</afun>
+<ord>5</ord>
+<children id="hs_104.02-SCzechA-m-d1t341-11">
+<m.rf>m#m-d1t341-11</m.rf>
+<afun>Atr</afun>
+<ord>7</ord>
+<children id="hs_104.02-SCzechA-m-d1t341-10">
+<m.rf>m#m-d1t341-10</m.rf>
+<afun>Atr</afun>
+<ord>6</ord>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1e338-x2-563">
+<m.rf>m#m-d1e338-x2-563</m.rf>
+<afun>AuxK</afun>
+<ord>8</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-564-root">
+<s.rf>m#m-564</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t343-1">
+<m.rf>m#m-d1t343-1</m.rf>
+<afun>Pred</afun>
+<ord>1</ord>
+<children id="hs_104.02-SCzechA-m-d1t343-5">
+<m.rf>m#m-d1t343-5</m.rf>
+<afun>Pnom</afun>
+<ord>5</ord>
+<children id="hs_104.02-SCzechA-m-d1t343-2">
+<m.rf>m#m-d1t343-2</m.rf>
+<afun>AuxP</afun>
+<ord>2</ord>
+<children id="hs_104.02-SCzechA-m-d1t343-3">
+<m.rf>m#m-d1t343-3</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+<children id="hs_104.02-SCzechA-m-d1t343-4">
+<m.rf>m#m-d1t343-4</m.rf>
+<afun>Atr</afun>
+<ord>4</ord>
+</children>
+</children>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-564-565">
+<m.rf>m#m-564-565</m.rf>
+<afun>AuxK</afun>
+<ord>6</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-566-root">
+<s.rf>m#m-566</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t345-2">
+<m.rf>m#m-d1t345-2</m.rf>
+<afun>AuxC</afun>
+<ord>1</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t345-4">
+<m.rf>m#m-d1t345-4</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t345-3">
+<m.rf>m#m-d1t345-3</m.rf>
+<afun>Obj</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t345-6">
+<m.rf>m#m-d1t345-6</m.rf>
+<afun>AuxP</afun>
+<ord>5</ord>
+<children id="hs_104.02-SCzechA-m-566-567">
+<m.rf>m#m-566-567</m.rf>
+<afun>Adv</afun>
+<ord>6</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t345-5">
+<m.rf>m#m-d1t345-5</m.rf>
+<afun>AuxZ</afun>
+<ord>4</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t345-7">
+<m.rf>m#m-d1t345-7</m.rf>
+<afun>Atr</afun>
+<ord>7</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t345-12">
+<m.rf>m#m-d1t345-12</m.rf>
+<afun>Atr</afun>
+<ord>12</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t345-10">
+<m.rf>m#m-d1t345-10</m.rf>
+<afun>Adv</afun>
+<ord>10</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t345-11">
+<m.rf>m#m-d1t345-11</m.rf>
+<afun>Adv</afun>
+<ord>11</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t345-13">
+<m.rf>m#m-d1t345-13</m.rf>
+<afun>Sb</afun>
+<ord>13</ord>
+<children id="hs_104.02-SCzechA-m-d1t345-15">
+<m.rf>m#m-d1t345-15</m.rf>
+<afun>Atr</afun>
+<ord>14</ord>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t345-8">
+<m.rf>m#m-d1t345-8</m.rf>
+<afun>Sb</afun>
+<ord>8</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-id77652-punct">
+<m.rf>m#m-d-id77652-punct</m.rf>
+<afun>AuxX</afun>
+<ord>9</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-m-d1e338-x2-punct-punct">
+<m.rf>m#m-d-m-d1e338-x2-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>15</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e350-x2-root">
+<s.rf>m#m-d1e350-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t353-5">
+<m.rf>m#m-d1t353-5</m.rf>
+<afun>Pred</afun>
+<ord>5</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t353-2">
+<m.rf>m#m-d1t353-2</m.rf>
+<afun>Adv</afun>
+<ord>2</ord>
+<children id="hs_104.02-SCzechA-m-d1t353-1">
+<m.rf>m#m-d1t353-1</m.rf>
+<afun>Adv</afun>
+<ord>1</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t353-3">
+<m.rf>m#m-d1t353-3</m.rf>
+<afun>AuxV</afun>
+<ord>3</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t353-4">
+<m.rf>m#m-d1t353-4</m.rf>
+<afun>AuxT</afun>
+<ord>4</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-id77908-punct">
+<m.rf>m#m-d-id77908-punct</m.rf>
+<afun>AuxK</afun>
+<ord>6</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e354-x2-root">
+<s.rf>m#m-d1e354-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d-id78047-punct">
+<m.rf>m#m-d-id78047-punct</m.rf>
+<afun>Coord</afun>
+<ord>7</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1e354-x2-573">
+<m.rf>m#m-d1e354-x2-573</m.rf>
+<afun>Coord</afun>
+<ord>2</ord>
+<children id="hs_104.02-SCzechA-m-d1t357-2">
+<m.rf>m#m-d1t357-2</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>1</ord>
+<children id="hs_104.02-SCzechA-m-d1t357-7">
+<m.rf>m#m-d1t357-7</m.rf>
+<afun>AuxP</afun>
+<ord>8</ord>
+<children id="hs_104.02-SCzechA-m-d1t357-8">
+<m.rf>m#m-d1t357-8</m.rf>
+<afun>Adv</afun>
+<ord>9</ord>
+</children>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1e354-x2-574">
+<m.rf>m#m-d1e354-x2-574</m.rf>
+<afun>ExD</afun>
+<is_member>1</is_member>
+<ord>3</ord>
+<children id="hs_104.02-SCzechA-m-d1t357-3">
+<m.rf>m#m-d1t357-3</m.rf>
+<afun>AuxP</afun>
+<ord>4</ord>
+<children id="hs_104.02-SCzechA-m-d1t357-4">
+<m.rf>m#m-d1t357-4</m.rf>
+<afun>Adv</afun>
+<ord>5</ord>
+<children id="hs_104.02-SCzechA-m-d1t357-5">
+<m.rf>m#m-d1t357-5</m.rf>
+<afun>Atr</afun>
+<ord>6</ord>
+</children>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1e354-x2-575">
+<m.rf>m#m-d1e354-x2-575</m.rf>
+<afun>AuxK</afun>
+<ord>10</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-576-root">
+<s.rf>m#m-576</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t357-10">
+<m.rf>m#m-d1t357-10</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+<children id="hs_104.02-SCzechA-m-576-577">
+<m.rf>m#m-576-577</m.rf>
+<afun>Coord</afun>
+<ord>2</ord>
+<children id="hs_104.02-SCzechA-m-d1t357-14">
+<m.rf>m#m-d1t357-14</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>6</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t357-12">
+<m.rf>m#m-d1t357-12</m.rf>
+<afun>Obj</afun>
+<ord>4</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t357-13">
+<m.rf>m#m-d1t357-13</m.rf>
+<afun>Sb</afun>
+<ord>5</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t359-1">
+<m.rf>m#m-d1t359-1</m.rf>
+<afun>Obj</afun>
+<ord>7</ord>
+<children id="hs_104.02-SCzechA-m-d1t357-11">
+<m.rf>m#m-d1t357-11</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+</children>
+</LM>
+</children>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-m-d1e354-x2-punct-punct">
+<m.rf>m#m-d-m-d1e354-x2-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>8</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e360-x2-root">
+<s.rf>m#m-d1e360-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t363-1">
+<m.rf>m#m-d1t363-1</m.rf>
+<afun>Pred</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1e360-x2-578">
+<m.rf>m#m-d1e360-x2-578</m.rf>
+<afun>AuxK</afun>
+<ord>2</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-579-root">
+<s.rf>m#m-579</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t363-4">
+<m.rf>m#m-d1t363-4</m.rf>
+<afun>Pred</afun>
+<ord>2</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t363-3">
+<m.rf>m#m-d1t363-3</m.rf>
+<afun>Adv</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t363-5">
+<m.rf>m#m-d1t363-5</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t363-7">
+<m.rf>m#m-d1t363-7</m.rf>
+<afun>Sb</afun>
+<ord>5</ord>
+<children id="hs_104.02-SCzechA-m-d1t363-6">
+<m.rf>m#m-d1t363-6</m.rf>
+<afun>Atr</afun>
+<ord>4</ord>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-m-d1e360-x2-punct-punct">
+<m.rf>m#m-d-m-d1e360-x2-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>6</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e364-x3-root">
+<s.rf>m#m-d1e364-x3</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t371-2">
+<m.rf>m#m-d1t371-2</m.rf>
+<afun>Pred</afun>
+<ord>2</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t371-1">
+<m.rf>m#m-d1t371-1</m.rf>
+<afun>Sb</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t371-3">
+<m.rf>m#m-d1t371-3</m.rf>
+<afun>AuxP</afun>
+<ord>3</ord>
+<children id="hs_104.02-SCzechA-m-d1t371-5">
+<m.rf>m#m-d1t371-5</m.rf>
+<afun>Adv</afun>
+<ord>5</ord>
+<children id="hs_104.02-SCzechA-m-d1t371-4">
+<m.rf>m#m-d1t371-4</m.rf>
+<afun>Atr</afun>
+<ord>4</ord>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-id78547-punct">
+<m.rf>m#m-d-id78547-punct</m.rf>
+<afun>AuxK</afun>
+<ord>6</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e372-x2-root">
+<s.rf>m#m-d1e372-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t375-4">
+<m.rf>m#m-d1t375-4</m.rf>
+<afun>Pred</afun>
+<ord>4</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t375-1">
+<m.rf>m#m-d1t375-1</m.rf>
+<afun>AuxP</afun>
+<ord>1</ord>
+<children id="hs_104.02-SCzechA-m-d1t375-3">
+<m.rf>m#m-d1t375-3</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+<children id="hs_104.02-SCzechA-m-d1t375-2">
+<m.rf>m#m-d1t375-2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t375-6">
+<m.rf>m#m-d1t375-6</m.rf>
+<afun>Sb</afun>
+<ord>6</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t375-5">
+<m.rf>m#m-d1t375-5</m.rf>
+<afun>Atr</afun>
+<ord>5</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t375-10">
+<m.rf>m#m-d1t375-10</m.rf>
+<afun>Atr</afun>
+<ord>10</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d-id78695-punct">
+<m.rf>m#m-d-id78695-punct</m.rf>
+<afun>AuxX</afun>
+<ord>7</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t375-8">
+<m.rf>m#m-d1t375-8</m.rf>
+<afun>AuxP</afun>
+<ord>8</ord>
+<children id="hs_104.02-SCzechA-m-d1t375-9">
+<m.rf>m#m-d1t375-9</m.rf>
+<afun>Obj</afun>
+<ord>9</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t375-11">
+<m.rf>m#m-d1t375-11</m.rf>
+<afun>Obj</afun>
+<ord>11</ord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1e372-x2-590">
+<m.rf>m#m-d1e372-x2-590</m.rf>
+<afun>AuxK</afun>
+<ord>12</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-591-root">
+<s.rf>m#m-591</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-591-90">
+<m.rf>m#m-591-90</m.rf>
+<afun>Pred</afun>
+<ord>1</ord>
+<children id="hs_104.02-SCzechA-m-d1t377-2">
+<m.rf>m#m-d1t377-2</m.rf>
+<afun>Sb</afun>
+<ord>2</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t377-1">
+<m.rf>m#m-d1t377-1</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-591-91">
+<m.rf>m#m-591-91</m.rf>
+<afun>Apos</afun>
+<ord>4</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t377-7">
+<m.rf>m#m-d1t377-7</m.rf>
+<afun>Atr</afun>
+<ord>8</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t377-4">
+<m.rf>m#m-d1t377-4</m.rf>
+<afun>AuxP</afun>
+<ord>5</ord>
+<children id="hs_104.02-SCzechA-m-d1t377-6">
+<m.rf>m#m-d1t377-6</m.rf>
+<afun>Adv</afun>
+<ord>7</ord>
+<children id="hs_104.02-SCzechA-m-d1t377-5">
+<m.rf>m#m-d1t377-5</m.rf>
+<afun>Atr</afun>
+<ord>6</ord>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t377-8">
+<m.rf>m#m-d1t377-8</m.rf>
+<afun>AuxC</afun>
+<ord>9</ord>
+<children id="hs_104.02-SCzechA-m-d1t377-9">
+<m.rf>m#m-d1t377-9</m.rf>
+<afun>ExD</afun>
+<ord>10</ord>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-591-592">
+<m.rf>m#m-591-592</m.rf>
+<afun>AuxK</afun>
+<ord>11</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-593-root">
+<s.rf>m#m-593</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t379-2">
+<m.rf>m#m-d1t379-2</m.rf>
+<afun>Pred</afun>
+<ord>1</ord>
+<children id="hs_104.02-SCzechA-m-d1t379-3">
+<m.rf>m#m-d1t379-3</m.rf>
+<afun>Obj</afun>
+<ord>2</ord>
+<children id="hs_104.02-SCzechA-m-d1t379-6">
+<m.rf>m#m-d1t379-6</m.rf>
+<afun>Atr</afun>
+<ord>5</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-593-594">
+<m.rf>m#m-593-594</m.rf>
+<afun>Coord</afun>
+<ord>3</ord>
+<children id="hs_104.02-SCzechA-m-d1t379-9">
+<m.rf>m#m-d1t379-9</m.rf>
+<afun>Coord</afun>
+<is_member>1</is_member>
+<ord>7</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t379-8">
+<m.rf>m#m-d1t379-8</m.rf>
+<afun>Atr</afun>
+<is_member>1</is_member>
+<ord>6</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t379-12">
+<m.rf>m#m-d1t379-12</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>10</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t379-10">
+<m.rf>m#m-d1t379-10</m.rf>
+<afun>Obj</afun>
+<ord>8</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t379-11">
+<m.rf>m#m-d1t379-11</m.rf>
+<afun>Adv</afun>
+<ord>9</ord>
+</LM>
+</children>
+</LM>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t379-5">
+<m.rf>m#m-d1t379-5</m.rf>
+<afun>Adv</afun>
+<ord>4</ord>
+</LM>
+</children>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-593-595">
+<m.rf>m#m-593-595</m.rf>
+<afun>AuxK</afun>
+<ord>11</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-596-root">
+<s.rf>m#m-596</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t381-7">
+<m.rf>m#m-d1t381-7</m.rf>
+<afun>Pred</afun>
+<ord>6</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t381-5">
+<m.rf>m#m-d1t381-5</m.rf>
+<afun>Pred</afun>
+<ord>4</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t381-2">
+<m.rf>m#m-d1t381-2</m.rf>
+<afun>Adv</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t381-3">
+<m.rf>m#m-d1t381-3</m.rf>
+<afun>AuxT</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t381-4">
+<m.rf>m#m-d1t381-4</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-id79208-punct">
+<m.rf>m#m-d-id79208-punct</m.rf>
+<afun>AuxX</afun>
+<ord>5</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t381-8">
+<m.rf>m#m-d1t381-8</m.rf>
+<afun>AuxP</afun>
+<ord>7</ord>
+<children id="hs_104.02-SCzechA-m-d1t381-10">
+<m.rf>m#m-d1t381-10</m.rf>
+<afun>Adv</afun>
+<ord>8</ord>
+<children id="hs_104.02-SCzechA-m-d1t381-13">
+<m.rf>m#m-d1t381-13</m.rf>
+<afun>Atr</afun>
+<ord>11</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-596-597">
+<m.rf>m#m-596-597</m.rf>
+<afun>AuxX</afun>
+<ord>9</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t381-12">
+<m.rf>m#m-d1t381-12</m.rf>
+<afun>Adv</afun>
+<ord>10</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t381-14">
+<m.rf>m#m-d1t381-14</m.rf>
+<afun>Obj</afun>
+<ord>12</ord>
+<children id="hs_104.02-SCzechA-m-d1t381-16">
+<m.rf>m#m-d1t381-16</m.rf>
+<afun>Atr</afun>
+<ord>13</ord>
+</children>
+</LM>
+</children>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-596-598">
+<m.rf>m#m-596-598</m.rf>
+<afun>AuxK</afun>
+<ord>14</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-599-root">
+<s.rf>m#m-599</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t381-19">
+<m.rf>m#m-d1t381-19</m.rf>
+<afun>Pred</afun>
+<ord>1</ord>
+<children id="hs_104.02-SCzechA-m-d1t381-21">
+<m.rf>m#m-d1t381-21</m.rf>
+<afun>Obj</afun>
+<ord>3</ord>
+<children id="hs_104.02-SCzechA-m-d1t381-20">
+<m.rf>m#m-d1t381-20</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-599-600">
+<m.rf>m#m-599-600</m.rf>
+<afun>AuxK</afun>
+<ord>4</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-601-root">
+<s.rf>m#m-601</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t381-23">
+<m.rf>m#m-d1t381-23</m.rf>
+<afun>Coord</afun>
+<ord>1</ord>
+<children id="hs_104.02-SCzechA-m-d1t381-26">
+<m.rf>m#m-d1t381-26</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>3</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t381-24">
+<m.rf>m#m-d1t381-24</m.rf>
+<afun>Adv</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t381-27">
+<m.rf>m#m-d1t381-27</m.rf>
+<afun>Sb</afun>
+<ord>5</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t381-25">
+<m.rf>m#m-d1t381-25</m.rf>
+<afun>AuxZ</afun>
+<ord>4</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t381-28">
+<m.rf>m#m-d1t381-28</m.rf>
+<afun>Atr</afun>
+<ord>6</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t381-29">
+<m.rf>m#m-d1t381-29</m.rf>
+<afun>AuxP</afun>
+<ord>7</ord>
+<children id="hs_104.02-SCzechA-m-d1t381-30">
+<m.rf>m#m-d1t381-30</m.rf>
+<afun>Atr</afun>
+<ord>8</ord>
+</children>
+</LM>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-m-d1e372-x2-punct-punct">
+<m.rf>m#m-d-m-d1e372-x2-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>9</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e382-x2-root">
+<s.rf>m#m-d1e382-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t385-3">
+<m.rf>m#m-d1t385-3</m.rf>
+<afun>Pred</afun>
+<ord>3</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t385-1">
+<m.rf>m#m-d1t385-1</m.rf>
+<afun>Adv</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t385-2">
+<m.rf>m#m-d1t385-2</m.rf>
+<afun>AuxV</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t385-4">
+<m.rf>m#m-d1t385-4</m.rf>
+<afun>Obj</afun>
+<ord>4</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-id79671-punct">
+<m.rf>m#m-d-id79671-punct</m.rf>
+<afun>AuxK</afun>
+<ord>5</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e386-x2-root">
+<s.rf>m#m-d1e386-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t391-3">
+<m.rf>m#m-d1t391-3</m.rf>
+<afun>Pred</afun>
+<ord>3</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t391-1">
+<m.rf>m#m-d1t391-1</m.rf>
+<afun>Obj</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t391-2">
+<m.rf>m#m-d1t391-2</m.rf>
+<afun>AuxV</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t391-4">
+<m.rf>m#m-d1t391-4</m.rf>
+<afun>AuxP</afun>
+<ord>4</ord>
+<children id="hs_104.02-SCzechA-m-d1t391-6">
+<m.rf>m#m-d1t391-6</m.rf>
+<afun>Adv</afun>
+<ord>5</ord>
+<children id="hs_104.02-SCzechA-m-d1t391-5">
+<m.rf>m#m-d1t391-5</m.rf>
+<afun>Atr</afun>
+<ord>6</ord>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1e386-x2-604">
+<m.rf>m#m-d1e386-x2-604</m.rf>
+<afun>AuxK</afun>
+<ord>7</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-605-root">
+<s.rf>m#m-605</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t391-12">
+<m.rf>m#m-d1t391-12</m.rf>
+<afun>Pred</afun>
+<ord>5</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t391-9">
+<m.rf>m#m-d1t391-9</m.rf>
+<afun>AuxP</afun>
+<ord>1</ord>
+<children id="hs_104.02-SCzechA-m-d1t391-10">
+<m.rf>m#m-d1t391-10</m.rf>
+<afun>Adv</afun>
+<ord>2</ord>
+<children id="hs_104.02-SCzechA-m-d1t391-8">
+<m.rf>m#m-d1t391-8</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t391-11">
+<m.rf>m#m-d1t391-11</m.rf>
+<afun>AuxT</afun>
+<ord>4</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t391-13">
+<m.rf>m#m-d1t391-13</m.rf>
+<afun>Sb</afun>
+<ord>6</ord>
+<children id="hs_104.02-SCzechA-m-d1t391-17">
+<m.rf>m#m-d1t391-17</m.rf>
+<afun>Atr</afun>
+<ord>10</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d-id79943-punct">
+<m.rf>m#m-d-id79943-punct</m.rf>
+<afun>AuxX</afun>
+<ord>7</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t391-15">
+<m.rf>m#m-d1t391-15</m.rf>
+<afun>Sb</afun>
+<ord>8</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t391-16">
+<m.rf>m#m-d1t391-16</m.rf>
+<afun>Adv</afun>
+<ord>9</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t391-18">
+<m.rf>m#m-d1t391-18</m.rf>
+<afun>Adv</afun>
+<ord>11</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t391-19">
+<m.rf>m#m-d1t391-19</m.rf>
+<afun>Sb</afun>
+<ord>12</ord>
+<children id="hs_104.02-SCzechA-m-d1t391-21">
+<m.rf>m#m-d1t391-21</m.rf>
+<afun>Atr</afun>
+<ord>13</ord>
+</children>
+</LM>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-m-d1e386-x2-punct-punct">
+<m.rf>m#m-d-m-d1e386-x2-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>14</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e393-x2-root">
+<s.rf>m#m-d1e393-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t396-5">
+<m.rf>m#m-d1t396-5</m.rf>
+<afun>Pred</afun>
+<ord>5</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t396-1">
+<m.rf>m#m-d1t396-1</m.rf>
+<afun>Obj</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t396-2">
+<m.rf>m#m-d1t396-2</m.rf>
+<afun>AuxP</afun>
+<ord>2</ord>
+<children id="hs_104.02-SCzechA-m-d1t396-4">
+<m.rf>m#m-d1t396-4</m.rf>
+<afun>Adv</afun>
+<ord>4</ord>
+<children id="hs_104.02-SCzechA-m-d1t396-3">
+<m.rf>m#m-d1t396-3</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t396-7">
+<m.rf>m#m-d1t396-7</m.rf>
+<afun>Sb</afun>
+<ord>7</ord>
+<children id="hs_104.02-SCzechA-m-d1t396-6">
+<m.rf>m#m-d1t396-6</m.rf>
+<afun>Atr</afun>
+<ord>6</ord>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-id80222-punct">
+<m.rf>m#m-d-id80222-punct</m.rf>
+<afun>AuxK</afun>
+<ord>8</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e397-x2-root">
+<s.rf>m#m-d1e397-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t400-4">
+<m.rf>m#m-d1t400-4</m.rf>
+<afun>AuxC</afun>
+<ord>3</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1e397-x2-615">
+<m.rf>m#m-d1e397-x2-615</m.rf>
+<afun>AuxX</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t400-5">
+<m.rf>m#m-d1t400-5</m.rf>
+<afun>Adv</afun>
+<ord>4</ord>
+<children id="hs_104.02-SCzechA-m-d1t400-3">
+<m.rf>m#m-d1t400-3</m.rf>
+<afun>Adv</afun>
+<ord>1</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t400-9">
+<m.rf>m#m-d1t400-9</m.rf>
+<afun>Coord</afun>
+<ord>7</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t400-6">
+<m.rf>m#m-d1t400-6</m.rf>
+<afun>AuxP</afun>
+<ord>5</ord>
+<children id="hs_104.02-SCzechA-m-d1t400-8">
+<m.rf>m#m-d1t400-8</m.rf>
+<afun>Adv</afun>
+<ord>6</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t400-10">
+<m.rf>m#m-d1t400-10</m.rf>
+<afun>AuxP</afun>
+<ord>8</ord>
+<children id="hs_104.02-SCzechA-m-d1t400-11">
+<m.rf>m#m-d1t400-11</m.rf>
+<afun>Atr</afun>
+<ord>9</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t400-17">
+<m.rf>m#m-d1t400-17</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>13</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t400-14">
+<m.rf>m#m-d1t400-14</m.rf>
+<afun>AuxV</afun>
+<ord>11</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t400-18">
+<m.rf>m#m-d1t400-18</m.rf>
+<afun>Pred</afun>
+<ord>14</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t400-15">
+<m.rf>m#m-d1t400-15</m.rf>
+<afun>AuxR</afun>
+<ord>12</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t400-20">
+<m.rf>m#m-d1t400-20</m.rf>
+<afun>Sb</afun>
+<ord>16</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t400-19">
+<m.rf>m#m-d1t400-19</m.rf>
+<afun>Atr</afun>
+<ord>15</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t400-21">
+<m.rf>m#m-d1t400-21</m.rf>
+<afun>AuxP</afun>
+<ord>17</ord>
+<children id="hs_104.02-SCzechA-m-d1t400-25">
+<m.rf>m#m-d1t400-25</m.rf>
+<afun>Atr</afun>
+<ord>19</ord>
+<children id="hs_104.02-SCzechA-m-d1t400-24">
+<m.rf>m#m-d1t400-24</m.rf>
+<afun>Atr</afun>
+<ord>18</ord>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d-id80454-punct">
+<m.rf>m#m-d-id80454-punct</m.rf>
+<afun>AuxX</afun>
+<ord>10</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1e397-x2-616">
+<m.rf>m#m-d1e397-x2-616</m.rf>
+<afun>AuxK</afun>
+<ord>20</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-617-root">
+<s.rf>m#m-617</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t402-3">
+<m.rf>m#m-d1t402-3</m.rf>
+<afun>Coord</afun>
+<ord>1</ord>
+<children id="hs_104.02-SCzechA-m-d1t402-15">
+<m.rf>m#m-d1t402-15</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>2</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t402-16">
+<m.rf>m#m-d1t402-16</m.rf>
+<afun>AuxV</afun>
+<ord>3</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t402-17">
+<m.rf>m#m-d1t402-17</m.rf>
+<afun>AuxT</afun>
+<ord>4</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t402-18">
+<m.rf>m#m-d1t402-18</m.rf>
+<afun>Coord</afun>
+<ord>6</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-617-618">
+<m.rf>m#m-617-618</m.rf>
+<afun>Coord</afun>
+<is_member>1</is_member>
+<ord>5</ord>
+<children id="hs_104.02-SCzechA-m-d1t402-23">
+<m.rf>m#m-d1t402-23</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>13</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t402-12">
+<m.rf>m#m-d1t402-12</m.rf>
+<afun>Obj</afun>
+<ord>11</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t402-7">
+<m.rf>m#m-d1t402-7</m.rf>
+<afun>Atr</afun>
+<ord>8</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t402-11">
+<m.rf>m#m-d1t402-11</m.rf>
+<afun>Atr</afun>
+<ord>9</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t402-9">
+<m.rf>m#m-d1t402-9</m.rf>
+<afun>Atr</afun>
+<ord>10</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t402-20">
+<m.rf>m#m-d1t402-20</m.rf>
+<afun>Obj</afun>
+<ord>12</ord>
+</LM>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t402-21">
+<m.rf>m#m-d1t402-21</m.rf>
+<afun>AuxP</afun>
+<is_member>1</is_member>
+<ord>7</ord>
+</LM>
+</children>
+</LM>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-617-619">
+<m.rf>m#m-617-619</m.rf>
+<afun>AuxK</afun>
+<ord>14</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-620-root">
+<s.rf>m#m-620</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t404-3">
+<m.rf>m#m-d1t404-3</m.rf>
+<afun>Pred</afun>
+<ord>6</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t404-1">
+<m.rf>m#m-d1t404-1</m.rf>
+<afun>Adv</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t404-2">
+<m.rf>m#m-d1t404-2</m.rf>
+<afun>AuxV</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t404-8">
+<m.rf>m#m-d1t404-8</m.rf>
+<afun>AuxP</afun>
+<ord>3</ord>
+<children id="hs_104.02-SCzechA-m-d1t404-9">
+<m.rf>m#m-d1t404-9</m.rf>
+<afun>Adv</afun>
+<ord>4</ord>
+<children id="hs_104.02-SCzechA-m-d1t404-10">
+<m.rf>m#m-d1t404-10</m.rf>
+<afun>Atr</afun>
+<ord>5</ord>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t404-4">
+<m.rf>m#m-d1t404-4</m.rf>
+<afun>AuxP</afun>
+<ord>7</ord>
+<children id="hs_104.02-SCzechA-m-d1t404-5">
+<m.rf>m#m-d1t404-5</m.rf>
+<afun>Adv</afun>
+<ord>8</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t404-6">
+<m.rf>m#m-d1t404-6</m.rf>
+<afun>AuxP</afun>
+<ord>9</ord>
+<children id="hs_104.02-SCzechA-m-d1t404-7">
+<m.rf>m#m-d1t404-7</m.rf>
+<afun>Adv</afun>
+<ord>10</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t404-11">
+<m.rf>m#m-d1t404-11</m.rf>
+<afun>AuxP</afun>
+<ord>11</ord>
+<children id="hs_104.02-SCzechA-m-d1t404-12">
+<m.rf>m#m-d1t404-12</m.rf>
+<afun>Obj</afun>
+<ord>12</ord>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-620-621">
+<m.rf>m#m-620-621</m.rf>
+<afun>AuxK</afun>
+<ord>13</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-622-root">
+<s.rf>m#m-622</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t404-15">
+<m.rf>m#m-d1t404-15</m.rf>
+<afun>Pred</afun>
+<ord>2</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t404-14">
+<m.rf>m#m-d1t404-14</m.rf>
+<afun>Sb</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t404-19">
+<m.rf>m#m-d1t404-19</m.rf>
+<afun>Pnom</afun>
+<ord>3</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t404-16">
+<m.rf>m#m-d1t404-16</m.rf>
+<afun>AuxP</afun>
+<ord>4</ord>
+<children id="hs_104.02-SCzechA-m-d1t404-17">
+<m.rf>m#m-d1t404-17</m.rf>
+<afun>Adv</afun>
+<ord>5</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-622-623">
+<m.rf>m#m-622-623</m.rf>
+<afun>Coord</afun>
+<ord>6</ord>
+<children id="hs_104.02-SCzechA-m-d1t404-18">
+<m.rf>m#m-d1t404-18</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>7</ord>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-622-624">
+<m.rf>m#m-622-624</m.rf>
+<afun>AuxK</afun>
+<ord>8</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-625-root">
+<s.rf>m#m-625</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t404-23">
+<m.rf>m#m-d1t404-23</m.rf>
+<afun>Pred</afun>
+<ord>3</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t404-21">
+<m.rf>m#m-d1t404-21</m.rf>
+<afun>Sb</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t404-22">
+<m.rf>m#m-d1t404-22</m.rf>
+<afun>Adv</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t404-24">
+<m.rf>m#m-d1t404-24</m.rf>
+<afun>AuxP</afun>
+<ord>4</ord>
+<children id="hs_104.02-SCzechA-m-d1t404-25">
+<m.rf>m#m-d1t404-25</m.rf>
+<afun>Adv</afun>
+<ord>5</ord>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-625-93">
+<m.rf>m#m-625-93</m.rf>
+<afun>AuxK</afun>
+<ord>6</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-108-root">
+<s.rf>m#m-108</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t404-31">
+<m.rf>m#m-d1t404-31</m.rf>
+<afun>Pred</afun>
+<ord>4</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t404-28">
+<m.rf>m#m-d1t404-28</m.rf>
+<afun>Adv</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t404-35">
+<m.rf>m#m-d1t404-35</m.rf>
+<afun>Obj</afun>
+<ord>5</ord>
+<children id="hs_104.02-SCzechA-m-d1t404-32">
+<m.rf>m#m-d1t404-32</m.rf>
+<afun>AuxP</afun>
+<ord>2</ord>
+<children id="hs_104.02-SCzechA-m-d1t404-33">
+<m.rf>m#m-d1t404-33</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-625-643">
+<m.rf>m#m-625-643</m.rf>
+<afun>AuxK</afun>
+<ord>6</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-d1e397-x3-root">
+<s.rf>m#m-d1e397-x3</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t404-43">
+<m.rf>m#m-d1t404-43</m.rf>
+<afun>Pred</afun>
+<ord>6</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t404-37">
+<m.rf>m#m-d1t404-37</m.rf>
+<afun>Adv</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t404-38">
+<m.rf>m#m-d1t404-38</m.rf>
+<afun>Obj</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t404-40">
+<m.rf>m#m-d1t404-40</m.rf>
+<afun>AuxP</afun>
+<ord>4</ord>
+<children id="hs_104.02-SCzechA-m-d1t404-41">
+<m.rf>m#m-d1t404-41</m.rf>
+<afun>Adv</afun>
+<ord>5</ord>
+<children id="hs_104.02-SCzechA-m-d1t404-39">
+<m.rf>m#m-d1t404-39</m.rf>
+<afun>AuxZ</afun>
+<ord>3</ord>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t404-44">
+<m.rf>m#m-d1t404-44</m.rf>
+<afun>AuxP</afun>
+<ord>7</ord>
+<children id="hs_104.02-SCzechA-m-d1t404-45">
+<m.rf>m#m-d1t404-45</m.rf>
+<afun>Adv</afun>
+<ord>8</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t404-46">
+<m.rf>m#m-d1t404-46</m.rf>
+<afun>AuxP</afun>
+<ord>9</ord>
+<children id="hs_104.02-SCzechA-m-d1t404-47">
+<m.rf>m#m-d1t404-47</m.rf>
+<afun>Atr</afun>
+<ord>10</ord>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1e397-x3-644">
+<m.rf>m#m-d1e397-x3-644</m.rf>
+<afun>AuxK</afun>
+<ord>11</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-645-root">
+<s.rf>m#m-645</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t404-52">
+<m.rf>m#m-d1t404-52</m.rf>
+<afun>Pred</afun>
+<ord>4</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t404-49">
+<m.rf>m#m-d1t404-49</m.rf>
+<afun>Adv</afun>
+<ord>1</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t404-50">
+<m.rf>m#m-d1t404-50</m.rf>
+<afun>Sb</afun>
+<ord>2</ord>
+<children id="hs_104.02-SCzechA-m-d1t406-2">
+<m.rf>m#m-d1t406-2</m.rf>
+<afun>Coord</afun>
+<ord>7</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-645-646">
+<m.rf>m#m-645-646</m.rf>
+<afun>AuxG</afun>
+<ord>5</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t406-1">
+<m.rf>m#m-d1t406-1</m.rf>
+<afun>Sb</afun>
+<is_member>1</is_member>
+<ord>6</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t406-3">
+<m.rf>m#m-d1t406-3</m.rf>
+<afun>AuxY</afun>
+<ord>8</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t406-4">
+<m.rf>m#m-d1t406-4</m.rf>
+<afun>ExD</afun>
+<is_member>1</is_member>
+<ord>9</ord>
+</LM>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t404-51">
+<m.rf>m#m-d1t404-51</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-645-647">
+<m.rf>m#m-645-647</m.rf>
+<afun>AuxK</afun>
+<ord>10</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-648-root">
+<s.rf>m#m-648</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d-id81999-punct">
+<m.rf>m#m-d-id81999-punct</m.rf>
+<afun>Coord</afun>
+<ord>3</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t411-1">
+<m.rf>m#m-d1t411-1</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>1</ord>
+<children id="hs_104.02-SCzechA-m-d1t413-1">
+<m.rf>m#m-d1t413-1</m.rf>
+<afun>Obj</afun>
+<ord>2</ord>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t413-4">
+<m.rf>m#m-d1t413-4</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>4</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-648-649">
+<m.rf>m#m-648-649</m.rf>
+<afun>AuxK</afun>
+<ord>5</ord>
+</LM>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-hs_104-650-root">
+<s.rf>m#m-650</s.rf>
+<ord>0</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t415-1">
+<m.rf>m#m-d1t415-1</m.rf>
+<afun>Pred</afun>
+<ord>1</ord>
+<children id="hs_104.02-SCzechA-m-d1t415-3">
+<m.rf>m#m-d1t415-3</m.rf>
+<afun>AuxC</afun>
+<ord>3</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d-id82070-punct">
+<m.rf>m#m-d-id82070-punct</m.rf>
+<afun>AuxX</afun>
+<ord>2</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t415-4">
+<m.rf>m#m-d1t415-4</m.rf>
+<afun>Atr</afun>
+<ord>4</ord>
+<children id="hs_104.02-SCzechA-m-d1t415-6">
+<m.rf>m#m-d1t415-6</m.rf>
+<afun>Obj</afun>
+<ord>6</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d1t415-5">
+<m.rf>m#m-d1t415-5</m.rf>
+<afun>Atr</afun>
+<ord>5</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t415-12">
+<m.rf>m#m-d1t415-12</m.rf>
+<afun>Atr</afun>
+<ord>11</ord>
+<children>
+<LM id="hs_104.02-SCzechA-m-d-id82141-punct">
+<m.rf>m#m-d-id82141-punct</m.rf>
+<afun>AuxX</afun>
+<ord>7</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t415-11">
+<m.rf>m#m-d1t415-11</m.rf>
+<afun>Obj</afun>
+<ord>8</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t415-9">
+<m.rf>m#m-d1t415-9</m.rf>
+<afun>AuxT</afun>
+<ord>9</ord>
+</LM>
+<LM id="hs_104.02-SCzechA-m-d1t415-8">
+<m.rf>m#m-d1t415-8</m.rf>
+<afun>Adv</afun>
+<ord>10</ord>
+</LM>
+</children>
+</LM>
+</children>
+</children>
+</LM>
+</children>
+</children>
+</LM>
+<LM id="hs_104.02-SCzechA-m-650-651">
+<m.rf>m#m-650-651</m.rf>
+<afun>AuxK</afun>
+<ord>12</ord>
+</LM>
+</children>
+</LM>
+</trees>
+</adata>
