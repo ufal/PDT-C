@@ -1,0 +1,1 @@
+../../../../../OriginalInputData/PDT/data/tamw/etest/mf930709_074.t

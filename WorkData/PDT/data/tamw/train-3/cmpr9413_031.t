@@ -1,0 +1,1 @@
+../../../../../OriginalInputData/PDT/data/tamw/train-3/cmpr9413_031.t

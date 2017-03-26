@@ -1,0 +1,1 @@
+../../../../../OriginalInputData/PDT/data/tamw/train-2/mf930709_106.w

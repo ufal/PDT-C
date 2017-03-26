@@ -1,0 +1,1 @@
+../../../../../OriginalInputData/PDT/data/tamw/dtest/ln94206_72.t

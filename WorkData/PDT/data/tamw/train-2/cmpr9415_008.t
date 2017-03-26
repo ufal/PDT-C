@@ -1,0 +1,1 @@
+../../../../../OriginalInputData/PDT/data/tamw/train-2/cmpr9415_008.t

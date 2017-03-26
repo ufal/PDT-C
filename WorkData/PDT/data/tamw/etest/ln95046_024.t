@@ -1,0 +1,1 @@
+../../../../../OriginalInputData/PDT/data/tamw/etest/ln95046_024.t

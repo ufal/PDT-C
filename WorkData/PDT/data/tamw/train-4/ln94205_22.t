@@ -1,0 +1,1 @@
+../../../../../OriginalInputData/PDT/data/tamw/train-4/ln94205_22.t

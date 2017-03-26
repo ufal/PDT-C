@@ -1,0 +1,1 @@
+../../../../../OriginalInputData/PDT/data/tamw/train-3/mf930713_027.w
