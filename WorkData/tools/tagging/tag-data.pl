@@ -200,14 +200,13 @@ __XSH__
                         for my $j (0 .. $analysis->size - 1) {
                             ($XML::XSH2::Map::lemma, $XML::XSH2::Map::tag)
                                 = @{ $analysis->get($j) }{qw{ lemma tag }};
-                            warn $XML::XSH2::Map::lemma, $XML::XSH2::Map::tag;
                             xsh << '__XSH__';
                                 $am := xinsert element pml:AM into $mnodes[$i+1]/pml:tag ;
                                 set $am/@lemma $lemma ;
                                 xinsert text $tag into $am ;
                                 set $am/@src 'auto' ;
 __XSH__
-                            xsh('set $am/@selected "1"') if $j == $index;
+                            xsh('set $am/@recommended "1"') if $j == $index;
                         }
                     }
                 }
@@ -340,7 +339,7 @@ __END__
 </w.rf>
 <form>pøesto</form>
 <tag><AM lemma="pøesto" src="orig">Dg-------1A----</AM>
-<AM lemma="pøesto-1" src="auto" selected="1">Db-------------</AM>
+<AM lemma="pøesto-1" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="pøesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>

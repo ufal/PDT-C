@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="mdata_36_schema.xml"/>
+<references>
+<reffile id="w" name="wdata" href="cmpr9413_041.w"/>
+</references>
+</head>
+<meta>
+<lang>cs</lang>
+<annotation_info id="manual">
+<desc>Manual annotation</desc>
+</annotation_info>
+</meta>
+<s id="m-cmpr9413-041-p1s1">
+<m id="m-cmpr9413-041-p1s1w1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p1s1w1</LM>
+</w.rf>
+<form>Nové</form>
+<tag><AM lemma="nový" src="orig" selected="1">AAFP1----1A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p1s1w2">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p1s1w2</LM>
+</w.rf>
+<form>sazby</form>
+<tag><AM lemma="sazba" src="orig" selected="1">NNFP1-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p1s1w3">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p1s1w3</LM>
+</w.rf>
+<form>stravného</form>
+<tag><AM lemma="stravné_^(poplatek)" src="orig" selected="1">NNNS2-----A----</AM>
+</tag>
+</m>
+</s>
+<s id="m-cmpr9413-041-p2s1">
+<m id="m-cmpr9413-041-p2s1w1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w1</LM>
+</w.rf>
+<form>Na</form>
+<tag><AM lemma="na-1" src="orig" selected="1">RR--6----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w2">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w2</LM>
+</w.rf>
+<form>straně</form>
+<tag><AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w3">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w3</LM>
+</w.rf>
+<form>6</form>
+<tag><AM lemma="6" src="orig" selected="1">C=-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w4">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w4</LM>
+</w.rf>
+<form>v</form>
+<tag><AM lemma="v-1" src="orig" selected="1">RR--6----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w5">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w5</LM>
+</w.rf>
+<form>příloze</form>
+<tag><AM lemma="příloha" src="orig" selected="1">NNFS6-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w6">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w6</LM>
+</w.rf>
+<form>Profit</form>
+<tag><AM lemma="profit" src="orig" selected="1">NNIS1-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w7">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w7</LM>
+</w.rf>
+<form>Rádce</form>
+<tag><AM lemma="rádce" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w8">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w8</LM>
+</w.rf>
+<form>uveřejňujeme</form>
+<tag><AM lemma="uveřejňovat_:T" src="orig" selected="1">VB-P---1P-AA---</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w9">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w9</LM>
+</w.rf>
+<form>změny</form>
+<tag><AM lemma="změna" src="orig" selected="1">NNFP4-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w10">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w10</LM>
+</w.rf>
+<form>výše</form>
+<tag><AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="orig" selected="1">NNFS2-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w11">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w11</LM>
+</w.rf>
+<form>stravného</form>
+<tag><AM lemma="stravné_^(poplatek)" src="orig" selected="1">NNNS2-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w12">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w12</LM>
+</w.rf>
+<form>při</form>
+<tag><AM lemma="při-1" src="orig" selected="1">RR--6----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w13">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w13</LM>
+</w.rf>
+<form>zahraničních</form>
+<tag><AM lemma="zahraniční" src="orig" selected="1">AAFP6----1A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w14">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w14</LM>
+</w.rf>
+<form>pracovních</form>
+<tag><AM lemma="pracovní" src="orig" selected="1">AAFP6----1A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w15">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w15</LM>
+</w.rf>
+<form>cestách</form>
+<tag><AM lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP6-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w16">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w16</LM>
+</w.rf>
+<form>,</form>
+<tag><AM lemma="," src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w17">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w17</LM>
+</w.rf>
+<form>které</form>
+<tag><AM lemma="který" src="orig" selected="1">P4FP1----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w18">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w18</LM>
+</w.rf>
+<form>platí</form>
+<tag><AM lemma="platit_:T" src="auto" selected="1">VB-P---3P-AA---</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w19">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w19</LM>
+</w.rf>
+<form>od</form>
+<tag><AM lemma="od-1" src="orig" selected="1">RR--2----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w20">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w20</LM>
+</w.rf>
+<form>15</form>
+<tag><AM lemma="15" src="orig" selected="1">C=-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w21">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w21</LM>
+</w.rf>
+<form>.</form>
+<tag><AM lemma="." src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w22">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w22</LM>
+</w.rf>
+<form>března</form>
+<tag><AM lemma="březen" src="orig" selected="1">NNIS2-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w23">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w23</LM>
+</w.rf>
+<form>1994</form>
+<tag><AM lemma="1994" src="orig" selected="1">C=-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p2s1w24">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p2s1w24</LM>
+</w.rf>
+<form>.</form>
+<tag><AM lemma="." src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+</s>
+<s id="m-cmpr9413-041-p3s1">
+<m id="m-cmpr9413-041-p3s1w1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s1w1</LM>
+</w.rf>
+<form>Pro</form>
+<tag><AM lemma="pro-1" src="orig" selected="1">RR--4----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s1w2">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s1w2</LM>
+</w.rf>
+<form>doplnění</form>
+<tag><AM lemma="doplnění_^(*3it)" src="orig" selected="1">NNNS4-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s1w3">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s1w3</LM>
+</w.rf>
+<form>uvádíme</form>
+<tag><AM lemma="uvádět_:T" src="orig" selected="1">VB-P---1P-AA---</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s1w4">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s1w4</LM>
+</w.rf>
+<form>,</form>
+<tag><AM lemma="," src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s1w5">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s1w5</LM>
+</w.rf>
+<form>že</form>
+<tag><AM lemma="že-1" src="auto" selected="1">J,-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s1w6">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s1w6</LM>
+</w.rf>
+<form>s</form>
+<tag><AM lemma="s-1" src="orig" selected="1">RR--7----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s1w7">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s1w7</LM>
+</w.rf>
+<form>účinností</form>
+<tag><AM lemma="účinnost_^(*3ý)" src="orig" selected="1">NNFS7-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s1w8">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s1w8</LM>
+</w.rf>
+<form>od</form>
+<tag><AM lemma="od-1" src="orig" selected="1">RR--2----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s1w9">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s1w9</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>1</form>
+<tag><AM lemma="1" src="orig" selected="1">C=-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s1w32">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s1w9</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>.</form>
+<tag><AM lemma="." src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s1w31">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s1w9</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>1</form>
+<tag><AM lemma="1" src="orig" selected="1">C=-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s1w10">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s1w10</LM>
+</w.rf>
+<form>.</form>
+<tag><AM lemma="." src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w1</LM>
+</w.rf>
+<form>1991</form>
+<tag><AM lemma="1991" src="orig" selected="1">C=-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w2">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w2</LM>
+</w.rf>
+<form>platí</form>
+<tag><AM lemma="platit_:T" src="auto" selected="1">VB-S---3P-AA---</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w3">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w3</LM>
+</w.rf>
+<form>Opatření</form>
+<tag><AM lemma="opatření_^(*3it)" src="orig" selected="1">NNNS1-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w4">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w4</LM>
+</w.rf>
+<form>MF</form>
+<tag><AM lemma="MF-2_:B_;K_;b_;p_^(min._financí)" src="orig" selected="1">NNNXX-----A---8</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w5">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w5</LM>
+</w.rf>
+<form>ČR</form>
+<tag><AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w6">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w6</LM>
+</w.rf>
+<form>k</form>
+<tag><AM lemma="k-1" src="orig" selected="1">RR--3----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w7">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w7</LM>
+</w.rf>
+<form>zamezení</form>
+<tag><AM lemma="zamezení_^(*3it)" src="orig" selected="1">NNNS3-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w8">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w8</LM>
+</w.rf>
+<form>tvrdosti</form>
+<tag><AM lemma="tvrdost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w9">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w9</LM>
+</w.rf>
+<form>při</form>
+<tag><AM lemma="při-1" src="orig" selected="1">RR--6----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w10">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w10</LM>
+</w.rf>
+<form>uplatňování</form>
+<tag><AM lemma="uplatňování_^(*3at)" src="orig" selected="1">NNNS6-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w11">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w11</LM>
+</w.rf>
+<form>cestovních</form>
+<tag><AM lemma="cestovní" src="orig" selected="1">AAFP2----1A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w12">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w12</LM>
+</w.rf>
+<form>náhrad</form>
+<tag><AM lemma="náhrada" src="orig" selected="1">NNFP2-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w13">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w13</LM>
+</w.rf>
+<form>podnikatelů</form>
+<tag><AM lemma="podnikatel" src="orig" selected="1">NNMP2-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w14">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w14</LM>
+</w.rf>
+<form>a</form>
+<tag><AM lemma="a-1" src="orig" selected="1">J^-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w15">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w15</LM>
+</w.rf>
+<form>umožňuje</form>
+<tag><AM lemma="umožňovat_:T" src="orig" selected="1">VB-S---3P-AA---</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w16">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w16</LM>
+</w.rf>
+<form>účtovat</form>
+<tag><AM lemma="účtovat_:T" src="orig" selected="1">Vf--------A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w17">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w17</LM>
+</w.rf>
+<form>do</form>
+<tag><AM lemma="do-1" src="orig" selected="1">RR--2----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w18">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w18</LM>
+</w.rf>
+<form>nákladů</form>
+<tag><AM lemma="náklad" src="orig" selected="1">NNIP2-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w19">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w19</LM>
+</w.rf>
+<form>stravné</form>
+<tag><AM lemma="stravné_^(poplatek)" src="orig" selected="1">NNNS4-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w20">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w20</LM>
+</w.rf>
+<form>a</form>
+<tag><AM lemma="a-1" src="orig" selected="1">J^-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w21">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w21</LM>
+</w.rf>
+<form>k</form>
+<tag><AM lemma="k-1" src="orig" selected="1">RR--3----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w22">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w22</LM>
+</w.rf>
+<form>tomu</form>
+<tag><AM lemma="ten" src="orig" selected="1">PDZS3----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w23">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w23</LM>
+</w.rf>
+<form>ještě</form>
+<tag><AM lemma="ještě-1" src="auto" selected="1">Db-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w24">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w24</LM>
+</w.rf>
+<form>kapesné</form>
+<tag><AM lemma="kapesné_^(peníze)" src="orig" selected="1">NNNS4-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w25">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w25</LM>
+</w.rf>
+<form>do</form>
+<tag><AM lemma="do-1" src="orig" selected="1">RR--2----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w26">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w26</LM>
+</w.rf>
+<form>výše</form>
+<tag><AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="orig" selected="1">NNFS2-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w27">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w27</LM>
+</w.rf>
+<form>40</form>
+<tag><AM lemma="40" src="orig" selected="1">C=-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w28">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w28</LM>
+</w.rf>
+<form>%</form>
+<tag><AM lemma="%" src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w29">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w29</LM>
+</w.rf>
+<form>stravného</form>
+<tag><AM lemma="stravné_^(poplatek)" src="orig" selected="1">NNNS2-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s2w30">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s2w30</LM>
+</w.rf>
+<form>.</form>
+<tag><AM lemma="." src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+</s>
+<s id="m-cmpr9413-041-p3s3">
+<m id="m-cmpr9413-041-p3s3w1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w1</LM>
+</w.rf>
+<form>Tato</form>
+<tag><AM lemma="tento" src="orig" selected="1">PDFS1----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w2">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w2</LM>
+</w.rf>
+<form>skutečnost</form>
+<tag><AM lemma="skutečnost_^(*3ý)" src="orig" selected="1">NNFS1-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w3">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w3</LM>
+</w.rf>
+<form>je</form>
+<tag><AM lemma="být" src="orig" selected="1">VB-S---3P-AA---</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w4">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w4</LM>
+</w.rf>
+<form>zakotvena</form>
+<tag><AM lemma="zakotvit_:W" src="orig" selected="1">VsQW---XX-AP---</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w5">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w5</LM>
+</w.rf>
+<form>i</form>
+<tag><AM lemma="i-1" src="orig" selected="1">J^-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w6">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w6</LM>
+</w.rf>
+<form>v</form>
+<tag><AM lemma="v-1" src="orig" selected="1">RR--6----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w34">
+<src.rf>manual</src.rf>
+<form_change>insert</form_change>
+<form>§</form>
+<tag><AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w7">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w7</LM>
+</w.rf>
+<form>24</form>
+<tag><AM lemma="24" src="orig" selected="1">C=-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w8">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w8</LM>
+</w.rf>
+<form>,</form>
+<tag><AM lemma="," src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w9">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w9</LM>
+</w.rf>
+<form>odst</form>
+<tag><AM lemma="odstavec_:B" src="orig" selected="1">NNIXX-----A---8</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w10">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w10</LM>
+</w.rf>
+<form>.</form>
+<tag><AM lemma="." src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w11">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w11</LM>
+</w.rf>
+<form>2</form>
+<tag><AM lemma="2" src="orig" selected="1">C=-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w12">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w12</LM>
+</w.rf>
+<form>k</form>
+<tag><AM lemma="k-3_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w13">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w13</LM>
+</w.rf>
+<form>a</form>
+<tag><AM lemma="a-1" src="orig" selected="1">J^-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w14">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w14</LM>
+</w.rf>
+<form>v</form>
+<tag><AM lemma="v-1" src="orig" selected="1">RR--6----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w35">
+<src.rf>manual</src.rf>
+<form_change>insert</form_change>
+<form>§</form>
+<tag><AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w15">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w15</LM>
+</w.rf>
+<form>25</form>
+<tag><AM lemma="25" src="orig" selected="1">C=-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w16">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w16</LM>
+</w.rf>
+<form>zákona</form>
+<tag><AM lemma="zákon" src="orig" selected="1">NNIS2-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w17">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w17</LM>
+</w.rf>
+<form>č</form>
+<tag><AM lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w18">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w18</LM>
+</w.rf>
+<form>.</form>
+<tag><AM lemma="." src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w19">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w19</LM>
+</w.rf>
+<form>586</form>
+<tag><AM lemma="586" src="orig" selected="1">C=-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w20">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w20</LM>
+</w.rf>
+<form>/</form>
+<tag><AM lemma="/" src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w21">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w21</LM>
+</w.rf>
+<form>1992</form>
+<tag><AM lemma="1992" src="orig" selected="1">C=-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w22">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w22</LM>
+</w.rf>
+<form>Sb</form>
+<tag><AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w23">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w23</LM>
+</w.rf>
+<form>.</form>
+<tag><AM lemma="." src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w24">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w24</LM>
+</w.rf>
+<form>,</form>
+<tag><AM lemma="," src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w25">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w25</LM>
+</w.rf>
+<form>o</form>
+<tag><AM lemma="o-1" src="orig" selected="1">RR--6----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w26">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w26</LM>
+</w.rf>
+<form>dani</form>
+<tag><AM lemma="daň_^(peněžní/naturální_dávka)" src="orig" selected="1">NNFS6-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w27">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w27</LM>
+</w.rf>
+<form>z</form>
+<tag><AM lemma="z-1" src="orig" selected="1">RR--2----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w28">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w28</LM>
+</w.rf>
+<form>příjmů</form>
+<tag><AM lemma="příjem" src="orig" selected="1">NNIP2-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w29">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w29</LM>
+</w.rf>
+<form>ve</form>
+<tag><AM lemma="v-1" src="orig" selected="1">RV--6----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w30">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w30</LM>
+</w.rf>
+<form>znění</form>
+<tag><AM lemma="znění_^(*3ít)" src="orig" selected="1">NNNS6-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w31">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w31</LM>
+</w.rf>
+<form>pozdějších</form>
+<tag><AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIP2----2A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w32">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w32</LM>
+</w.rf>
+<form>předpisů</form>
+<tag><AM lemma="předpis" src="orig" selected="1">NNIP2-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s3w33">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s3w33</LM>
+</w.rf>
+<form>.</form>
+<tag><AM lemma="." src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+</s>
+<s id="m-cmpr9413-041-p3s4">
+<m id="m-cmpr9413-041-p3s4w1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s4w1</LM>
+</w.rf>
+<form>V</form>
+<tag><AM lemma="v-1" src="orig" selected="1">RR--6----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s4w2">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s4w2</LM>
+</w.rf>
+<form>případě</form>
+<tag><AM lemma="případ" src="orig" selected="1">NNIS6-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s4w3">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s4w3</LM>
+</w.rf>
+<form>,</form>
+<tag><AM lemma="," src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s4w4">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s4w4</LM>
+</w.rf>
+<form>že</form>
+<tag><AM lemma="že-1" src="auto" selected="1">J,-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s4w5">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s4w5</LM>
+</w.rf>
+<form>si</form>
+<tag><AM lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s4w6">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s4w6</LM>
+</w.rf>
+<form>podnikatel</form>
+<tag><AM lemma="podnikatel" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s4w7">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s4w7</LM>
+</w.rf>
+<form>vyplatí</form>
+<tag><AM lemma="vyplatit_:W" src="orig" selected="1">VB-S---3P-AA---</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s4w8">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s4w8</LM>
+</w.rf>
+<form>vyšší</form>
+<tag><AM lemma="vysoký" src="orig" selected="1">AAFP4----2A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s4w9">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s4w9</LM>
+</w.rf>
+<form>sazby</form>
+<tag><AM lemma="sazba" src="orig" selected="1">NNFP4-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s4w10">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s4w10</LM>
+</w.rf>
+<form>,</form>
+<tag><AM lemma="," src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s4w11">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s4w11</LM>
+</w.rf>
+<form>platí</form>
+<tag><AM lemma="platit_:T" src="auto" selected="1">VB-P---3P-AA---</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s4w12">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s4w12</LM>
+</w.rf>
+<form>je</form>
+<tag><AM lemma="on-1_^(oni/ono)" src="orig" selected="1">PPXP4--3-------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s4w13">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s4w13</LM>
+</w.rf>
+<form>ze</form>
+<tag><AM lemma="z-1" src="orig" selected="1">RV--2----------</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s4w14">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s4w14</LM>
+</w.rf>
+<form>zisku</form>
+<tag><AM lemma="zisk" src="orig" selected="1">NNIS2-----A----</AM>
+</tag>
+</m>
+<m id="m-cmpr9413-041-p3s4w15">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-cmpr9413-041-p3s4w15</LM>
+</w.rf>
+<form>.</form>
+<tag><AM lemma="." src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+</s>
+</mdata>

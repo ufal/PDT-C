@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="mdata_36_schema.xml"/>
+<references>
+<reffile id="w" name="wdata" href="ln95047_057.w"/>
+</references>
+</head>
+<meta>
+<lang>cs</lang>
+<annotation_info id="manual">
+<desc>Manual annotation</desc>
+</annotation_info>
+</meta>
+<s id="m-ln95047-057-p1s1">
+<m id="m-ln95047-057-p1s1w1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95047-057-p1s1w1</LM>
+</w.rf>
+<form>Baskytarista</form>
+<tag><AM lemma="baskytarista" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
+<m id="m-ln95047-057-p1s1w2">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95047-057-p1s1w2</LM>
+</w.rf>
+<form>Severin</form>
+<tag><AM lemma="Severin_;S" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
+<m id="m-ln95047-057-p1s1w3">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95047-057-p1s1w3</LM>
+</w.rf>
+<form>(</form>
+<tag><AM lemma="(" src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m-ln95047-057-p1s1w4">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95047-057-p1s1w4</LM>
+</w.rf>
+<form>vlastním</form>
+<tag><AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS7----1A----</AM>
+</tag>
+</m>
+<m id="m-ln95047-057-p1s1w5">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95047-057-p1s1w5</LM>
+</w.rf>
+<form>jménem</form>
+<tag><AM lemma="jméno" src="orig" selected="1">NNNS7-----A----</AM>
+</tag>
+</m>
+<m id="m-ln95047-057-p1s1w6">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95047-057-p1s1w6</LM>
+</w.rf>
+<form>Steven</form>
+<tag><AM lemma="Steven_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
+<m id="m-ln95047-057-p1s1w7">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95047-057-p1s1w7</LM>
+</w.rf>
+<form>Bailey</form>
+<tag><AM lemma="Bailey_;S" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
+<m id="m-ln95047-057-p1s1w8">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95047-057-p1s1w8</LM>
+</w.rf>
+<form>)</form>
+<tag><AM lemma=")" src="orig" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m-ln95047-057-p1s1w9">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95047-057-p1s1w9</LM>
+</w.rf>
+<form>při</form>
+<tag><AM lemma="při-1" src="orig" selected="1">RR--6----------</AM>
+</tag>
+</m>
+<m id="m-ln95047-057-p1s1w10">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95047-057-p1s1w10</LM>
+</w.rf>
+<form>pražském</form>
+<tag><AM lemma="pražský" src="orig" selected="1">AAIS6----1A----</AM>
+</tag>
+</m>
+<m id="m-ln95047-057-p1s1w11">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95047-057-p1s1w11</LM>
+</w.rf>
+<form>koncertě</form>
+<tag><AM lemma="koncert" src="orig" selected="1">NNIS6-----A----</AM>
+</tag>
+</m>
+<m id="m-ln95047-057-p1s1w12">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95047-057-p1s1w12</LM>
+</w.rf>
+<form>Siouxsie</form>
+<tag><AM lemma="Siouxsie_;Y_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Siouxsie_;K" src="auto">NNFP1-----A----</AM>
+<AM lemma="Siouxsie_;K" src="auto">NNFP4-----A----</AM>
+<AM lemma="Siouxsie_;K" src="auto">NNFP5-----A----</AM>
+<AM lemma="Siouxsie_;K" src="auto">NNFS1-----A----</AM>
+<AM lemma="Siouxsie_;K" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Siouxsie_;K" src="auto">NNFS5-----A----</AM>
+</tag>
+</m>
+<m id="m-ln95047-057-p1s1w13">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95047-057-p1s1w13</LM>
+</w.rf>
+<form>And</form>
+<tag><AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" selected="1">J^-------------</AM>
+</tag>
+</m>
+<m id="m-ln95047-057-p1s1w14">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95047-057-p1s1w14</LM>
+</w.rf>
+<form>The</form>
+<tag><AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</AM>
+</tag>
+</m>
+<m id="m-ln95047-057-p1s1w15">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95047-057-p1s1w15</LM>
+</w.rf>
+<form>Banshees</form>
+<tag><AM lemma="Banshee_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Banshee_;K_,t" src="auto">NNMPX-----A----</AM>
+<AM lemma="Banshee_;K_,t" src="auto" recommended="1">NNFPX-----A----</AM>
+<AM lemma="Banshees_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Banshees" src="auto">NNIS4-----A----</AM>
+<AM lemma="Banshee_,t" src="auto">NNFPX-----A----</AM>
+<AM lemma="Banshees" src="auto">NNIS1-----A----</AM>
+<AM lemma="Banshees_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Banshees_;K_,t" src="auto">NNMPX-----A----</AM>
+<AM lemma="banshees" src="auto">NNMS1-----A----</AM>
+</tag>
+</m>
+</s>
+</mdata>

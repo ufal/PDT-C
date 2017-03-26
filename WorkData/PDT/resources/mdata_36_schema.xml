@@ -6,8 +6,8 @@
   <description>PDT 3.6 morphological annotation</description>
   <reference name="wdata" readas="pml"/>
 
-  <import schema="wdata_35_schema.xml" type="w-node.type" minimal_revision="1.0.0"/>
-  <import schema="wdata_35_schema.xml" type="bool.type"/>
+  <import schema="wdata_30_schema.xml" type="w-node.type" minimal_revision="1.0.0"/>
+  <import schema="wdata_30_schema.xml" type="bool.type"/>
 
   <derive type="w-node.type">
     <structure name="w-node">
@@ -79,15 +79,17 @@
           <cdata format="any"/>
         </attribute>
         <attribute name="src" type="m-src.type"/>
+        <attribute name="recommended" type="bool.type"/>
+        <attribute name="selected" type="bool.type"/>
       </container>
     </alt>
   </type>
 
   <type name="m-src.type">
     <choice>
-      <value>tagger</value>
+      <value>auto</value>
       <value>orig</value>
-      <value>final</value>
+      <value>manual</value>
     </choice>
   </type>
   
