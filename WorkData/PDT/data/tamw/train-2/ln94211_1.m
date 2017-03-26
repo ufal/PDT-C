@@ -2140,8 +2140,6 @@
 <tag><AM lemma="-" src="orig" selected="1">Z:-------------</AM>
 </tag>
 </m>
-</s>
-<s id="m-ln94211-1-p4s4B">
 <m id="m-ln94211-1-p4s4Bw1">
 <src.rf>manual</src.rf>
 <w.rf>

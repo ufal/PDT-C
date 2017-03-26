@@ -1,11 +1,11 @@
-# mode: org
+# -*- mode: org -*-
 
 * Segmentace
 
-** tamw [1/8]
+** tamw [2/8]
 
 - [X] tamw/train-5/lnd94103_080.m##{11,12} "a.s. Vítkovice"
-- [ ] tamw/train-2/ln94211_1.m##{14,15} "Nixdorf-Siemens" (bylo rozděleno ručně na 4A a 4B)
+- [X] tamw/train-2/ln94211_1.m##{14,15} "Nixdorf-Siemens" (bylo rozděleno ručně na 4A a 4B)
 - [ ] tamw/train-5/ln94206_6.m##{2,3} (nadpis, podnadpis)
 - [ ] tamw/train-5/ln94206_6.m##{11,12} (nadpis, podnadpis)
 - [ ] tamw/train-5/ln94206_6.m##{17,18} (nadpis, podnadpis)
