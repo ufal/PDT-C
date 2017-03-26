@@ -2106,9 +2106,7 @@
 <tag><AM lemma="." src="orig" selected="1">Z:-------------</AM>
 </tag>
 </m>
-</s>
-<s id="m-lnd94103-080-p1s15">
-<m id="m-lnd94103-080-p1s15w1">
+<m id="m-lnd94103-080-p1s15aw1">
 <src.rf>manual</src.rf>
 <w.rf>
 <LM>w#w-lnd94103-080-p1s15w1</LM>
@@ -2117,7 +2115,7 @@
 <tag><AM lemma="Vítkovice_;G" src="orig" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
-<m id="m-lnd94103-080-p1s15w2">
+<m id="m-lnd94103-080-p1s15aw2">
 <src.rf>manual</src.rf>
 <w.rf>
 <LM>w#w-lnd94103-080-p1s15w2</LM>

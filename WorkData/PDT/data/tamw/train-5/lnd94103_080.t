@@ -3443,28 +3443,13 @@
 <tfa>f</tfa>
 <deepord>21</deepord>
 </LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="t-lnd94103-080-p1s15">
-<atree.rf>a#a-lnd94103-080-p1s15</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="t-lnd94103-080-p1s15w1">
+<LM id="t-lnd94103-080-p1s15aw1">
 <a>
-<lex.rf>a#a-lnd94103-080-p1s15w1</lex.rf>
+<lex.rf>a#a-lnd94103-080-p1s15aw1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Vítkovice</t_lemma>
-<functor>DENOM</functor>
-<sentmod>enunc</sentmod>
+<functor>ID</functor>
 <gram>
 <sempos>n.denot</sempos>
 <gender>fem</gender>
@@ -3472,10 +3457,15 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>1</deepord>
-<discourse_comment>wrongTR
-
-patří k předchozímu stromu</discourse_comment>
+<deepord>22</deepord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
