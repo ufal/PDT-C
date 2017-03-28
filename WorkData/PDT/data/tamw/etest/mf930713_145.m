@@ -794,9 +794,9 @@
 </w.rf>
 <form>Maina</form>
 <tag><AM lemma="Maina_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Main-2_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Main-2_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Main-2_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Maina-1_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Maina-1_;Y" src="auto">NNFS1-----A----</AM>
 <AM lemma="Maina-2_;S" src="auto">NNMSX-----A----</AM>
 </tag>
 </m>
