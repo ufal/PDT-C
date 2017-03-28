@@ -9571,8 +9571,6 @@
 <tag><AM lemma="." src="orig" selected="1">Z:-------------</AM>
 </tag>
 </m>
-</s>
-<s id="m-vesm9303-046-p35s2">
 <m id="m-vesm9303-046-p35s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
