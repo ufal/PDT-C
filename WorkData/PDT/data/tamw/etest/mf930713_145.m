@@ -787,8 +787,6 @@
 <AM lemma="hosea" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
-</s>
-<s id="m-mf930713-145-p2s4">
 <m id="m-mf930713-145-p2s4w1">
 <src.rf>manual</src.rf>
 <w.rf>

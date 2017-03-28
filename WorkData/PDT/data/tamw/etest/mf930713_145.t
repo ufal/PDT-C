@@ -1248,6 +1248,23 @@
 <tfa>f</tfa>
 <deepord>8</deepord>
 <children>
+<LM id="t-mf930713-145-p2s4w1">
+<a>
+<lex.rf>a#a-mf930713-145-p2s4w1</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>Maina</t_lemma>
+<functor>RSTR</functor>
+<is_name_of_person>1</is_name_of_person>
+<gram>
+<sempos>n.denot</sempos>
+<gender>anim</gender>
+<number>sg</number>
+<typgroup>single</typgroup>
+</gram>
+<tfa>f</tfa>
+<deepord>9</deepord>
+</LM>
 <LM id="t-mf930713-145-p2s3w9">
 <a>
 <lex.rf>a#a-mf930713-145-p2s3w9</lex.rf>
@@ -1262,7 +1279,7 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>9</deepord>
+<deepord>10</deepord>
 <children>
 <LM id="t-mf930713-145-p2s3w10">
 <a>
@@ -1278,7 +1295,7 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>10</deepord>
+<deepord>11</deepord>
 <coref_text>
 <LM>
 <target_node.rf>t-mf930713-145-p2s2w27</target_node.rf>
@@ -1299,7 +1316,7 @@
 <negation>neg0</negation>
 </gram>
 <tfa>f</tfa>
-<deepord>11</deepord>
+<deepord>12</deepord>
 <coref_text>
 <LM>
 <target_node.rf>t-mf930713-145-p2s2w20</target_node.rf>
@@ -1314,34 +1331,6 @@
 </children>
 </LM>
 </children>
-</LM>
-</children>
-</LM>
-<LM id="t-mf930713-145-p2s4">
-<atree.rf>a#a-mf930713-145-p2s4</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="t-mf930713-145-p2s4w1">
-<a>
-<lex.rf>a#a-mf930713-145-p2s4w1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>Maina</t_lemma>
-<functor>DENOM</functor>
-<sentmod>enunc</sentmod>
-<is_name_of_person>1</is_name_of_person>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<typgroup>single</typgroup>
-</gram>
-<tfa>f</tfa>
-<deepord>1</deepord>
-<discourse_comment>wrongTR,
-špatná segmentace,
-patří do předchozí
-věty</discourse_comment>
 </LM>
 </children>
 </LM>
