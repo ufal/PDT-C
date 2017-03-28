@@ -415,22 +415,34 @@
 <tag><AM lemma="Odeon_;Y" src="auto" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
-<m id="m-ln95048-045-p2s2w45">
+<m id="m-ln95048-045-p2s2w45a">
 <src.rf>manual</src.rf>
 <w.rf>
 <LM>w#w-ln95048-045-p2s2w45</LM>
 </w.rf>
-<form>sHand</form>
-<tag><AM lemma="sHand_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="sHand_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="sHand_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="sHand_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sHand_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="sHanda_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="sHand_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="sHand_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="sHando" src="auto">NNNP2-----A----</AM>
-<AM lemma="shand" src="auto">NNMS1-----A----</AM>
+<form_change>spell</form_change>
+<form>s</form>
+<tag><AM lemma="s-1" src="orig" selected="1">RR--7----------</AM>
+</tag>
+</m>
+<m id="m-ln95048-045-p2s2w45b">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95048-045-p2s2w45</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>H</form>
+<tag><AM lemma="h-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</AM>
+</tag>
+</m>
+<m id="m-ln95048-045-p2s2w45c">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95048-045-p2s2w45</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>and</form>
+<tag><AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="orig" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-045-p2s2w46">
