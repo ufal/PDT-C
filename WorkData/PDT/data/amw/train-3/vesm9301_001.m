@@ -31,8 +31,6 @@
 <tag><AM lemma="růst-1" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
-</s>
-<s id="m-vesm9301-001-p2s1">
 <m id="m-vesm9301-001-p2s1w1">
 <src.rf>manual</src.rf>
 <w.rf>

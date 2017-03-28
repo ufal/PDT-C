@@ -6,18 +6,18 @@
 
 - [X] tamw/train-5/lnd94103_080.m##{11,12} "a.s. Vítkovice"
 - [X] tamw/train-2/ln94211_1.m##{14,15} "Nixdorf-Siemens" (bylo rozděleno ručně na 4A a 4B)
-- [ ] tamw/train-5/ln94206_6.m##{2,3} (nadpis, podnadpis)
-- [ ] tamw/train-5/ln94206_6.m##{11,12} (nadpis, podnadpis)
-- [ ] tamw/train-5/ln94206_6.m##{17,18} (nadpis, podnadpis)
-- [ ] tamw/train-5/ln94207_96.m##{2,3} (nadpis, podnadpis)
-- [ ] tamw/etest/mf920925_095.m##{51,52} (rozhlasový pořad "Vadí?...Nevadí")
+- [-] tamw/train-5/ln94206_6.m##{2,3} (nadpis, podnadpis)
+- [-] tamw/train-5/ln94206_6.m##{11,12} (nadpis, podnadpis)
+- [-] tamw/train-5/ln94206_6.m##{17,18} (nadpis, podnadpis)
+- [-] tamw/train-5/ln94207_96.m##{2,3} (nadpis, podnadpis)
+- [-] tamw/etest/mf920925_095.m##{51,52} (rozhlasový pořad "Vadí?...Nevadí")
 - [X] tamw/etest/mf930713_145.m##{5,6} (segmentace mezi křestním j. a příjmením, žádná tečka, pomlčka!)
 
-** amw [0/3]
+** amw [3/3]
 
-- [ ] amw/etest/vesm9303_046.a##{60,61}
-- [ ] amw/train-1/vesm9301_009.m##{9,10}
-- [ ] amw/train-3/vesm9301_001.a##{1,2}
+- [X] amw/etest/vesm9303_046.a##{60,61}
+- [X] amw/train-1/vesm9301_009.m##{9,10}
+- [X] amw/train-3/vesm9301_001.a##{1,2}
 
 ** Tokenizace [1/1]
 
