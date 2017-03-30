@@ -41,7 +41,10 @@ sub EditMorphology {
     ChangingFile(0);
     my $selected = select_morph($this);
     return unless $selected;
-    warn "SEL: @$selected";
+
+    ChangingFile(1);
+    delete $_->{selected} for @{ $this->attr('tag') };
+    $this->attr('tag')->[ $selected->[0] ]{selected} = 1;
 }
 
 sub select_morph {
@@ -49,40 +52,34 @@ sub select_morph {
     my $form = TredMacro::QueryString('Form:', 'Form:', $this->attr('form'));
     return unless defined $form;
 
-    my @tags = grep ! defined $_->get_attribute('src'),
-               AltV($this->attr('tag'));
-
-    my ($orig_tag, $recommended_tag, $final_tag)
-        = grep $_->get_attribute('src') =~ /orig|tagger|final/,
-          AltV($this->attr('tag'));
-
-    for my $tag ($orig_tag, $recommended_tag, $final_tag) {
-        next unless defined $tag;
-
-        unshift @tags, $tag
-            unless any {
-                $_->value eq $tag->value
-                && $_->get_attribute('lemma') eq $tag->get_attribute('lemma')
-            } @tags;
-    }
-
-    my $was_form_wrong = $form ne $this->attr('form');
-    my @val = map tag2selection(), @tags;
-    if ($was_form_wrong) {
-        s/\\/\\\\/g, s/'/\\'/g for $form;
-        @val = ();
-    }
-
-    my @sel = map tag2selection(), grep defined, $orig_tag, $recommended_tag, $final_tag;
-
     return TredMacro::ListQuery("Select lemma and tag for $form",
                                 'browse',
-                                \@val,
-                                \@sel
+                                [ map tag2selection(), AltV($this->attr('tag')) ],
     )
 }
 
 sub tag2selection { $_->get_attribute('lemma') . "  " . $_->value }
+
+
+#bind NextUnknown to space menu Find Next Unknown
+sub NextUnknown {
+    ChangingFile(0);
+    my $old;
+    { do {
+        $this = $this->following;
+        unless ($this) {
+            TredMacro::NextTree() or last;
+
+            $this = $root;
+        }
+    } while $this
+        && (! $this->attr('tag')
+            || $this->attr('tag')->isa('Treex::PML::Container'))}
+    Redraw();
+    EditMorphology() if $this->attr('tag')
+                     && ! grep $_->get_attribute('selected'), AltV($this->attr('tag'));
+}
+
 
 #include <contrib/support/unbind_edit.inc>
 
