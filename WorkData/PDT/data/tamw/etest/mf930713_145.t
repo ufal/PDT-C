@@ -1230,12 +1230,12 @@
 </LM>
 </children>
 </LM>
-<LM id="t-mf930713-145-p2s3w11">
+<LM id="t-mf930713-145-p2s4w1">
 <a>
-<lex.rf>a#a-mf930713-145-p2s3w11</lex.rf>
+<lex.rf>a#a-mf930713-145-p2s4w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>Hosea</t_lemma>
+<t_lemma>Maina</t_lemma>
 <functor>PAT</functor>
 <is_member>1</is_member>
 <is_name_of_person>1</is_name_of_person>
@@ -1246,14 +1246,14 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>8</deepord>
+<deepord>9</deepord>
 <children>
-<LM id="t-mf930713-145-p2s4w1">
+<LM id="t-mf930713-145-p2s3w11">
 <a>
-<lex.rf>a#a-mf930713-145-p2s4w1</lex.rf>
+<lex.rf>a#a-mf930713-145-p2s3w11</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>Maina</t_lemma>
+<t_lemma>Hosea</t_lemma>
 <functor>RSTR</functor>
 <is_name_of_person>1</is_name_of_person>
 <gram>
@@ -1263,7 +1263,7 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>9</deepord>
+<deepord>8</deepord>
 </LM>
 <LM id="t-mf930713-145-p2s3w9">
 <a>
