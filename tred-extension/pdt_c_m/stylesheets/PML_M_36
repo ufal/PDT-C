@@ -5,9 +5,11 @@ text: <? $${w/token} eq $${form} ?
      join(" ",map { $_->{token} } ListV($this->attr('w'))).
   ']#{-over:0}#{'.CustomColor('sentence').'}${form}' ?>
 node:<? $${#name} eq "s" ? '#{gray}${id}' :
-    ( $this->attr('tag')->isa('Treex::PML::Alt') ? '#{red}'
-    : $this->attr('tag/src') eq 'orig'           ? '#{black}'
-    :                                              '#{green}'
+    ( $this->attr('tag')->isa('Treex::PML::Alt')
+    ? ((grep $_->get_attribute('selected'), AltV($this->attr('tag')))
+        ? '#{brown}' : '#{red}' )
+    : $this->attr('tag/src') eq 'orig' ? '#{black}'
+    :                                    '#{green}'
     ) . '${form}' ?>
 node: <?
     if ($this->attr('tag')->isa('Treex::PML::Alt')) {

@@ -64,20 +64,50 @@ sub tag2selection { $_->get_attribute('lemma') . "  " . $_->value }
 #bind NextUnknown to space menu Find Next Unknown
 sub NextUnknown {
     ChangingFile(0);
-    my $old;
-    { do {
+    do {
         $this = $this->following;
         unless ($this) {
-            TredMacro::NextTree() or last;
+            TredMacro::NextTree() or return;
 
             $this = $root;
         }
-    } while $this
-        && (! $this->attr('tag')
-            || $this->attr('tag')->isa('Treex::PML::Container'))}
+    } while $this && unambiguous_node();
     Redraw();
     EditMorphology() if $this->attr('tag')
                      && ! grep $_->get_attribute('selected'), AltV($this->attr('tag'));
+}
+
+
+#bind PrevUnknown to Shift+space menu Find Previous Unknown
+sub PrevUnknown {
+    ChangingFile(0);
+    $this = $this->previous;
+    while ($this->previous && unambiguous_node()) {
+        $this = $this->previous;
+        if ($this == $root) {
+            TredMacro::PrevTree() or return;
+
+            $this = $this->following while $this->following;
+        }
+    }
+}
+
+
+sub unambiguous_node {
+    (! $this->attr('tag')
+     || $this->attr('tag')->isa('Treex::PML::Container'))
+}
+
+
+#bind DeleteM to Delete menu Delete Analysis
+sub DeleteM {
+    ChangingFile(0);
+    return if $this->attr('tag')->isa('Treex::PML::Container');
+    for my $tag (@{ $this->attr('tag') }) {
+        next unless $tag->{selected};
+        delete $tag->{selected};
+        ChangingFile(1);
+    }
 }
 
 
