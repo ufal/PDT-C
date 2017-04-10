@@ -131,7 +131,7 @@ sub unambiguous_node {
 sub DeleteM {
     ChangingFile(0);
     return if $this->attr('tag')->isa('Treex::PML::Container');
-    for my $tag (@{ $this->attr('tag') }) {
+    for my $tag (AltV($this->attr('tag'))) {
         next unless $tag->{selected};
         delete $tag->{selected};
         ChangingFile(1);
