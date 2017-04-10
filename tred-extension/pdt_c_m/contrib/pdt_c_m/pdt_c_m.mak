@@ -32,6 +32,7 @@ sub detect {
 
 sub switch_context_hook {
     SetCurrentStylesheet($STYLESHEET);
+    TrEd::MinorModes::enable_minor_mode($grp, 'Show_Neighboring_Sentences');
     Redraw() if GUI();
 }
 
