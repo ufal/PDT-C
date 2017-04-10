@@ -18,6 +18,7 @@ Macros for annotation of the morphological layer of PDT-C.
 package pdt_c_m;
 use strict;
 use List::MoreUtils qw{ any };
+use TrEd::Config qw( $font );
 
 BEGIN { 'PML_M'->import }
 
@@ -68,14 +69,40 @@ sub NextUnknown {
     do {
         $this = $this->following;
         unless ($this) {
-            TredMacro::NextTree() or return;
+            TredMacro::NextTree() or return check_last();
 
             $this = $root;
         }
     } while $this && unambiguous_node();
     Redraw();
     EditMorphology() if $this->attr('tag')
-                     && ! grep $_->get_attribute('selected'), AltV($this->attr('tag'));
+                     && ! grep $_->get_attribute('selected'),
+                          AltV($this->attr('tag'));
+}
+
+
+sub check_last {
+    TredMacro::GotoTree(1);
+    my $done = 1;
+    { do {
+        undef $done if $this->attr('tag')
+                    && ! grep $_->get_attribute('selected'),
+                         AltV($this->attr('tag'));
+        $this = $this->following;
+        unless ($this) {
+            TredMacro::NextTree() or last;
+
+            $this = $root;
+        }
+    } while $this; }
+    $grp->toplevel->Dialog(-title   => 'End of file',
+                           -text    => 'End of file reached. There are '
+                                       . ($done ? 'no ' : q())
+                                       . 'unfinished nodes.',
+                           -font    => $font,
+                           -bitmap  => $done ? 'info' : 'warning',
+                           -buttons => [ 'OK' ]
+                          )->Show;
 }
 
 
