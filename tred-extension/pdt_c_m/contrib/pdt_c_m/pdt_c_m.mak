@@ -49,19 +49,107 @@ sub EditMorphology {
     $this->attr('tag')->[ $selected->[0] ]{selected} = 1;
 }
 
+
+sub bind_button {
+    my ($button, $key, $dialog) = @_;
+    $dialog->bind(all => $key, sub {
+        $dialog->Walk(sub {
+            my $widget = shift;
+            $widget->invoke if 'Button' eq $widget->class
+                            && $button eq $widget->cget('-text')
+        })
+    });
+}
+
+sub bind_dialog {
+    my ($dialog) = @_;
+    $dialog->bind(all => '<Tab>', sub { shift->focusNext });
+    $dialog->bind(all => '<Shift-Tab>', sub { shift->focusPrev });
+    bind_button(Cancel => '<Escape>', $dialog);
+}
+
 sub select_morph {
     my ($node) = @_;
-    my $form = TredMacro::QueryString('Form:', 'Form:', $this->attr('form'));
+    my $form = TredMacro::QueryString('Form:', 'Form:', $node->attr('form'));
     return unless defined $form;
 
-    return TredMacro::ListQuery("Select lemma and tag for $form",
-                                'browse',
-                                [ map tag2selection(), AltV($this->attr('tag')) ],
-    )
+    my $db = ToplevelFrame()->DialogBox(
+        -title => 'Select lemma and tag',
+        -buttons => ['OK', 'New', 'Cancel'],
+    );
+    bind_dialog($db);
+    bind_button(New => '<Control-n>', $db);
+
+    my @alt = AltV($node->attr('tag'));
+    my @list = map tag2selection(), @alt;
+    my $lb = $db->add(ScrlListbox =>
+        -font => $font,
+        -selectmode => 'browse',
+        -width => -1,
+        -height => (@list > 20 ? 20 : scalar @list),
+        -scrollbars => 'oe',
+        -listvariable => \ my $selected,
+    )->pack(-fill => 'y');
+    $lb->insert('end', @list);
+    $lb->focus;
+    $lb->activate(0);
+    for my $i (0 .. $lb->size - 1) {
+        if ($alt[$i]->get_attribute('recommended')) {
+            $lb->itemconfigure($i, -foreground => 'red');
+        } elsif ('orig' eq $alt[$i]->get_attribute('src')) {
+            $lb->itemconfigure($i, -foreground => 'green');
+        }
+        if ($alt[$i]->get_attribute('selected')) {
+            $lb->activate($i);
+            $lb->itemconfigure($i, -background => 'yellow');
+        }
+    }
+    $lb->see($lb->index('active'));
+
+    my $answer = $db->Show;
+
+    return $lb->curselection if 'OK' eq $answer;
+
+    if ('New' eq $answer) {
+        my ($result, $lemma, $tag) = new_lemma_tag($node, $form);
+        if ('OK' eq $result) {
+            AddToAlt($this, 'tag', Treex::PML::Container->new($tag, {
+                lemma => $lemma, '#content' => $tag, src => 'manual'
+            }, 1));
+            $lb->insert(end => "$lemma  $tag");
+            return [ $lb->size - 1 ]
+        }
+    }
+
+    return
 }
 
 sub tag2selection { $_->get_attribute('lemma') . "  " . $_->value }
 
+sub new_lemma_tag {
+    my ($node, $form) = @_;
+    my $dialog = ToplevelFrame()->DialogBox(
+        -title => 'New lemma and tag',
+        -buttons => [ 'OK', 'Cancel' ],
+    );
+    bind_dialog($dialog);
+    $dialog->add(Label => -text => "New lemma and tag for $form")->pack;
+
+    my $lf = $dialog->Frame->pack;
+    $lf->Label(-text => 'Lemma')->pack(-side => 'left');
+    my $le = $lf->Entry(-textvariable => \ (my $lemma = $form))
+        ->pack(-side => 'right');
+    $le->focus;
+    $dialog->bind('<Alt-l>' => sub { $le->focus });
+
+    my $tf = $dialog->Frame->pack;
+    $tf->Label(-text => 'Tag')->pack(-side => 'left');
+    my $te = $tf->Entry(-textvariable => \(my $tag = '-' x 15))
+        ->pack(-side => 'right');
+    $dialog->bind('<Alt-t>' => sub { $te->focus });
+
+    return $dialog->Show, $lemma, $tag
+}
 
 #bind NextUnknown to space menu Find Next Unknown
 sub NextUnknown {

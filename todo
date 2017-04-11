@@ -2,11 +2,12 @@
 
 * Anotovatko PDT
 
-- [ ] obarvit tabulku: orig, recommended
+- [X] obarvit tabulku: orig, recommended, selected
 - [X] nemazat recommended
 - [X] na konci makro, že nic nezbylo
 - [ ] anotátorská poznámka
 - [ ] oprava formy: přegenerovat větu
+- [X] vlastní lemma + tag
 - [X] zvětšit kontext
 
 * Segmentace
