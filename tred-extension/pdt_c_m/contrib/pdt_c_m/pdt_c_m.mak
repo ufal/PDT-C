@@ -38,6 +38,39 @@ sub switch_context_hook {
 }
 
 
+#bind AddComment to ! menu Add Comment
+sub AddComment {
+    ChangingFile(0);
+    my $text = QueryString('Comment text', 'Text:');
+    return unless defined $text;
+    my %comment = (type => 'Other',
+                   text => $text);
+    AddToList($this, 'comment', \%comment);
+    ChangingFile(1);
+}
+
+
+#bind EditComment to ? menu Edit Comment
+sub EditComment {
+    ChangingFile(0);
+    my @comments = grep 'New Form' ne $_->{type},
+                   ListV($this->attr('comment'));
+    my $remove = TredMacro::ListQuery('Remove comments',
+                                      'multiple',
+                                      [ map $_->{text}, @comments ],
+                                      [],
+                                      { label => 'Select comments to remove' });
+    return unless $remove;
+
+    my %r; undef @r{@$remove};
+    my @keep = grep ! exists $r{$_}, 0 .. $#comments;
+    $this->{comment} = List(@comments[@keep],
+                            grep $_->{type} eq 'New Form',
+                            ListV($this->attr('comment')));
+    ChangingFile(1);
+}
+
+
 #bind EditMorphology to m menu Edit Morphology
 sub EditMorphology {
     ChangingFile(0);
@@ -70,8 +103,23 @@ sub bind_dialog {
 
 sub select_morph {
     my ($node) = @_;
-    my $form = TredMacro::QueryString('Form:', 'Form:', $node->attr('form'));
+    my $alt_form = (grep 'New Form' eq $_->{type}, ListV($node->attr('comment'))
+                   )[-1];
+    $alt_form &&= $alt_form->{text};
+    my $old_form = $node->attr('form');
+    my $form = TredMacro::QueryString('Form:', 'Form:', $alt_form // $old_form);
     return unless defined $form;
+
+    if ($form ne $old_form) {
+        return if grep 'New Form' eq $_->{type} && $_->{text} eq $form,
+                       ListV($this->attr('comment'));
+        AddToList($node, 'comment',
+                  { type => 'New Form', text => $form });
+        $node->{tag} = Alt(map { delete $_->{selected}; $_ }
+                                 AltV($node->attr('tag')));
+        ChangingFile(1);
+        return
+    }
 
     my $db = ToplevelFrame()->DialogBox(
         -title => 'Select lemma and tag',
@@ -95,9 +143,9 @@ sub select_morph {
     $lb->activate(0);
     for my $i (0 .. $lb->size - 1) {
         if ($alt[$i]->get_attribute('recommended')) {
-            $lb->itemconfigure($i, -foreground => 'red');
-        } elsif ('orig' eq $alt[$i]->get_attribute('src')) {
             $lb->itemconfigure($i, -foreground => 'green');
+        } elsif ('orig' eq $alt[$i]->get_attribute('src')) {
+            $lb->itemconfigure($i, -foreground => 'red');
         }
         if ($alt[$i]->get_attribute('selected')) {
             $lb->activate($i);
@@ -108,12 +156,19 @@ sub select_morph {
 
     my $answer = $db->Show;
 
-    return $lb->curselection if 'OK' eq $answer;
+    if ('Cancel' ne $answer) {
+        $node->{comment} = List(grep 'New Form' ne $_->{type},
+                                ListV($node->attr('comment')));
+    }
+
+    if ('OK' eq $answer) {
+        return $lb->curselection;
+    }
 
     if ('New' eq $answer) {
-        my ($result, $lemma, $tag) = new_lemma_tag($node, $form);
+        my ($result, $lemma, $tag) = new_lemma_tag($form);
         if ('OK' eq $result) {
-            AddToAlt($this, 'tag', Treex::PML::Container->new($tag, {
+            AddToAlt($node, 'tag', Treex::PML::Container->new($tag, {
                 lemma => $lemma, '#content' => $tag, src => 'manual'
             }, 1));
             $lb->insert(end => "$lemma  $tag");
@@ -127,7 +182,7 @@ sub select_morph {
 sub tag2selection { $_->get_attribute('lemma') . "  " . $_->value }
 
 sub new_lemma_tag {
-    my ($node, $form) = @_;
+    my ($form) = @_;
     my $dialog = ToplevelFrame()->DialogBox(
         -title => 'New lemma and tag',
         -buttons => [ 'OK', 'Cancel' ],
@@ -218,7 +273,20 @@ sub unambiguous_node {
 #bind DeleteM to Delete menu Delete Analysis
 sub DeleteM {
     ChangingFile(0);
-    return if $this->attr('tag')->isa('Treex::PML::Container');
+    if (grep 'New Form' eq $_->{type}, ListV($this->attr('comment'))) {
+        ChangingFile(1);
+        $this->{comment} = List(grep 'New Form' ne $_->{type},
+                                ListV($this->attr('comment')));
+    }
+
+    if (grep 'manual' eq $_->{src}, AltV($this->attr('tag'))) {
+        ChangingFile(1);
+        $this->{tag} = Alt(grep 'manual' ne $_->{src},
+                           AltV($this->attr('tag')));
+    }
+
+    return unless grep $_->{selected}, AltV($this->attr('tag'));
+
     for my $tag (AltV($this->attr('tag'))) {
         next unless $tag->{selected};
         delete $tag->{selected};

@@ -5,12 +5,15 @@ text: <? $${w/token} eq $${form} ?
      join(" ",map { $_->{token} } ListV($this->attr('w'))).
   ']#{-over:0}#{'.CustomColor('sentence').'}${form}' ?>
 node:<? $${#name} eq "s" ? '#{gray}${id}' :
-    ( $this->attr('tag')->isa('Treex::PML::Alt')
+   (((grep 'New Form' ne $_->{type}, ListV($this->attr('comment'))) ? '#{pink}! ' : q()) .
+   ((grep 'New Form' eq $_->{type}, ListV($this->attr('comment')))
+    ? ('#{orange}' . (grep 'New Form' eq $_->{type}, ListV($this->attr('comment')))[-1]{text}) :
+    ((grep $_->get_attribute('recommended'), AltV($this->attr('tag')))
     ? ((grep $_->get_attribute('selected'), AltV($this->attr('tag')))
         ? '#{brown}' : '#{red}' )
     : $this->attr('tag/src') eq 'orig' ? '#{black}'
     :                                    '#{green}'
-    ) . '${form}' ?>
+    ) . '${form}')) ?>
 node: <?
     if ($this->attr('tag')->isa('Treex::PML::Alt')) {
         my ($sel) = grep $_->get_attribute('selected'), AltV($this->attr('tag'));
