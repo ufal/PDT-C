@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="mf920925_041.w"/>
+<reffile id="w" name="wdata" href="mf920925_041.w" />
 </references>
 </head>
 <meta>
@@ -19,8 +19,7 @@
 <LM>w#w-mf920925-041-p1s1w1</LM>
 </w.rf>
 <form>kursovní</form>
-<tag><AM lemma="kursovní" src="orig" selected="1">AAIS1----1A----</AM>
-</tag>
+<tag lemma="kursovní" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf920925-041-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +27,7 @@
 <LM>w#w-mf920925-041-p1s1w2</LM>
 </w.rf>
 <form>lístek</form>
-<tag><AM lemma="lístek" src="orig" selected="1">NNIS1-----A----</AM>
-</tag>
+<tag lemma="lístek" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 </mdata>

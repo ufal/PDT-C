@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="ln95048_065.w"/>
+<reffile id="w" name="wdata" href="ln95048_065.w" />
 </references>
 </head>
 <meta>
@@ -19,8 +19,7 @@
 <LM>w#w-ln95048-065-p1s1w1</LM>
 </w.rf>
 <form>Kromě</form>
-<tag><AM lemma="kromě" src="orig" selected="1">RR--2----------</AM>
-</tag>
+<tag lemma="kromě" src="orig" selected="1">RR--2----------</tag>
 </m>
 <m id="m-ln95048-065-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +27,7 @@
 <LM>w#w-ln95048-065-p1s1w2</LM>
 </w.rf>
 <form>politických</form>
-<tag><AM lemma="politický" src="orig" selected="1">AAIP2----1A----</AM>
-</tag>
+<tag lemma="politický" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln95048-065-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +35,7 @@
 <LM>w#w-ln95048-065-p1s1w3</LM>
 </w.rf>
 <form>motivů</form>
-<tag><AM lemma="motiv" src="orig" selected="1">NNIP2-----A----</AM>
-</tag>
+<tag lemma="motiv" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95048-065-p1s1w4">
 <src.rf>manual</src.rf>
@@ -46,8 +43,7 @@
 <LM>w#w-ln95048-065-p1s1w4</LM>
 </w.rf>
 <form>si</form>
-<tag><AM lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</AM>
-</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
 </m>
 <m id="m-ln95048-065-p1s1w5">
 <src.rf>manual</src.rf>
@@ -55,8 +51,7 @@
 <LM>w#w-ln95048-065-p1s1w5</LM>
 </w.rf>
 <form>zákazník</form>
-<tag><AM lemma="zákazník" src="orig" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="zákazník" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-065-p1s1w6">
 <src.rf>manual</src.rf>
@@ -64,8 +59,7 @@
 <LM>w#w-ln95048-065-p1s1w6</LM>
 </w.rf>
 <form>může</form>
-<tag><AM lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AA---</AM>
-</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AA---</tag>
 </m>
 <m id="m-ln95048-065-p1s1w7">
 <src.rf>manual</src.rf>
@@ -73,8 +67,7 @@
 <LM>w#w-ln95048-065-p1s1w7</LM>
 </w.rf>
 <form>nechat</form>
-<tag><AM lemma="nechat_:T" src="orig" selected="1">Vf--------A----</AM>
-</tag>
+<tag lemma="nechat_:T" src="orig" selected="1">Vf--------A----</tag>
 </m>
 <m id="m-ln95048-065-p1s1w8">
 <src.rf>manual</src.rf>
@@ -82,8 +75,7 @@
 <LM>w#w-ln95048-065-p1s1w8</LM>
 </w.rf>
 <form>do</form>
-<tag><AM lemma="do-1" src="orig" selected="1">RR--2----------</AM>
-</tag>
+<tag lemma="do-1" src="orig" selected="1">RR--2----------</tag>
 </m>
 <m id="m-ln95048-065-p1s1w9">
 <src.rf>manual</src.rf>
@@ -91,8 +83,7 @@
 <LM>w#w-ln95048-065-p1s1w9</LM>
 </w.rf>
 <form>své</form>
-<tag><AM lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</AM>
-</tag>
+<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln95048-065-p1s1w10">
 <src.rf>manual</src.rf>
@@ -100,8 +91,7 @@
 <LM>w#w-ln95048-065-p1s1w10</LM>
 </w.rf>
 <form>kůže</form>
-<tag><AM lemma="kůže" src="orig" selected="1">NNFS2-----A----</AM>
-</tag>
+<tag lemma="kůže" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-065-p1s1w11">
 <src.rf>manual</src.rf>
@@ -109,8 +99,7 @@
 <LM>w#w-ln95048-065-p1s1w11</LM>
 </w.rf>
 <form>vytetovat</form>
-<tag><AM lemma="vytetovat_:W" src="orig" selected="1">Vf--------A----</AM>
-</tag>
+<tag lemma="vytetovat_:W" src="orig" selected="1">Vf--------A----</tag>
 </m>
 <m id="m-ln95048-065-p1s1w12">
 <src.rf>manual</src.rf>
@@ -118,8 +107,7 @@
 <LM>w#w-ln95048-065-p1s1w12</LM>
 </w.rf>
 <form>prakticky</form>
-<tag><AM lemma="prakticky_^(*1ý)" src="orig" selected="1">Dg-------1A----</AM>
-</tag>
+<tag lemma="prakticky_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95048-065-p1s1w13">
 <src.rf>manual</src.rf>
@@ -127,7 +115,8 @@
 <LM>w#w-ln95048-065-p1s1w13</LM>
 </w.rf>
 <form>cokoli</form>
-<tag><AM lemma="cokoliv" src="orig">PZ--4---------1</AM>
+<tag>
+<AM lemma="cokoliv" src="orig">PZ--4---------1</AM>
 <AM lemma="cokoli" src="auto">PZ--1----------</AM>
 <AM lemma="cokoli" src="auto" recommended="1">PZ--4----------</AM>
 <AM lemma="cokoli" src="auto">PZ--5----------</AM>

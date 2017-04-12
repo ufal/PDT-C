@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="ln94208_149.w"/>
+<reffile id="w" name="wdata" href="ln94208_149.w" />
 </references>
 </head>
 <meta>
@@ -19,8 +19,7 @@
 <LM>w#w-ln94208-149-p1s1Aw1</LM>
 </w.rf>
 <form>Výstava</form>
-<tag><AM lemma="výstava" src="orig" selected="1">NNFS1-----A----</AM>
-</tag>
+<tag lemma="výstava" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-149-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -28,8 +27,7 @@
 <LM>w#w-ln94208-149-p1s1Aw2</LM>
 </w.rf>
 <form>zajímala</form>
-<tag><AM lemma="zajímat_:T" src="orig" selected="1">VpQW---XR-AA---</AM>
-</tag>
+<tag lemma="zajímat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
 </m>
 <m id="m-ln94208-149-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -37,8 +35,7 @@
 <LM>w#w-ln94208-149-p1s1Aw3</LM>
 </w.rf>
 <form>především</form>
-<tag><AM lemma="především-1" src="auto" selected="1">Db-------------</AM>
-</tag>
+<tag lemma="především-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94208-149-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -46,8 +43,7 @@
 <LM>w#w-ln94208-149-p1s1Aw4</LM>
 </w.rf>
 <form>soukromé</form>
-<tag><AM lemma="soukromý" src="orig" selected="1">AAMP4----1A----</AM>
-</tag>
+<tag lemma="soukromý" src="orig" selected="1">AAMP4----1A----</tag>
 </m>
 <m id="m-ln94208-149-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -55,8 +51,7 @@
 <LM>w#w-ln94208-149-p1s1Aw5</LM>
 </w.rf>
 <form>zemědělce</form>
-<tag><AM lemma="zemědělec" src="orig" selected="1">NNMP4-----A----</AM>
-</tag>
+<tag lemma="zemědělec" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 </s>
 <s id="m-ln94208-149-p1s1B">
@@ -66,8 +61,7 @@
 <LM>w#w-ln94208-149-p1s1Bw1</LM>
 </w.rf>
 <form>Foto</form>
-<tag><AM lemma="foto" src="orig" selected="1">NNNS1-----A----</AM>
-</tag>
+<tag lemma="foto" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94208-149-p1s1Bw2">
 <src.rf>manual</src.rf>
@@ -75,8 +69,7 @@
 <LM>w#w-ln94208-149-p1s1Bw2</LM>
 </w.rf>
 <form>ČTK</form>
-<tag><AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</AM>
-</tag>
+<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 </s>
 </mdata>

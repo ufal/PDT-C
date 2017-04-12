@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="ln95049_034.w"/>
+<reffile id="w" name="wdata" href="ln95049_034.w" />
 </references>
 </head>
 <meta>
@@ -19,8 +19,7 @@
 <LM>w#w-ln95049-034-p1s1w1</LM>
 </w.rf>
 <form>Jaroslav</form>
-<tag><AM lemma="Jaroslav-1_;Y" src="auto" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jaroslav-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-034-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +27,7 @@
 <LM>w#w-ln95049-034-p1s1w2</LM>
 </w.rf>
 <form>Nedvěd</form>
-<tag><AM lemma="Nedvěd_;S" src="orig" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nedvěd_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

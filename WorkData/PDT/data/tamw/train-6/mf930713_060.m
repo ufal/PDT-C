@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="mf930713_060.w"/>
+<reffile id="w" name="wdata" href="mf930713_060.w" />
 </references>
 </head>
 <meta>
@@ -19,8 +19,7 @@
 <LM>w#w-mf930713-060-p1s1w1</LM>
 </w.rf>
 <form>Čerstvý</form>
-<tag><AM lemma="čerstvý" src="orig" selected="1">AAMS1----1A----</AM>
-</tag>
+<tag lemma="čerstvý" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-mf930713-060-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +27,7 @@
 <LM>w#w-mf930713-060-p1s1w2</LM>
 </w.rf>
 <form>osmdesátník</form>
-<tag><AM lemma="osmdesátník" src="orig" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="osmdesátník" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-060-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +35,7 @@
 <LM>w#w-mf930713-060-p1s1w3</LM>
 </w.rf>
 <form>na</form>
-<tag><AM lemma="na-1" src="orig" selected="1">RR--6----------</AM>
-</tag>
+<tag lemma="na-1" src="orig" selected="1">RR--6----------</tag>
 </m>
 <m id="m-mf930713-060-p1s1w4">
 <src.rf>manual</src.rf>
@@ -46,7 +43,8 @@
 <LM>w#w-mf930713-060-p1s1w4</LM>
 </w.rf>
 <form>autokarikatuře</form>
-<tag><AM lemma="autokarikatura" src="orig">NNFS6-----A----</AM>
+<tag>
+<AM lemma="autokarikatura" src="orig">NNFS6-----A----</AM>
 <AM lemma="autokarikatura" src="auto">NNFS3-----A----</AM>
 <AM lemma="autokarikatura" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="autokarikatura_;G" src="auto">NNFS6-----A----</AM>

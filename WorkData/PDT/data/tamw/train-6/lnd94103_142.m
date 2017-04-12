@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="lnd94103_142.w"/>
+<reffile id="w" name="wdata" href="lnd94103_142.w" />
 </references>
 </head>
 <meta>
@@ -19,8 +19,7 @@
 <LM>w#w-lnd94103-142-p1s1w1</LM>
 </w.rf>
 <form>Zítra</form>
-<tag><AM lemma="zítra" src="orig" selected="1">Db-------------</AM>
-</tag>
+<tag lemma="zítra" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94103-142-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +27,7 @@
 <LM>w#w-lnd94103-142-p1s1w2</LM>
 </w.rf>
 <form>v</form>
-<tag><AM lemma="v-1" src="orig" selected="1">RR--6----------</AM>
-</tag>
+<tag lemma="v-1" src="orig" selected="1">RR--6----------</tag>
 </m>
 <m id="m-lnd94103-142-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +35,7 @@
 <LM>w#w-lnd94103-142-p1s1w3</LM>
 </w.rf>
 <form>LN</form>
-<tag><AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</AM>
-</tag>
+<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
 </m>
 <m id="m-lnd94103-142-p1s1w4">
 <src.rf>manual</src.rf>
@@ -46,8 +43,7 @@
 <LM>w#w-lnd94103-142-p1s1w4</LM>
 </w.rf>
 <form>:</form>
-<tag><AM lemma=":" src="orig" selected="1">Z:-------------</AM>
-</tag>
+<tag lemma=":" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-lnd94103-142-p1s1w5">
 <src.rf>manual</src.rf>
@@ -55,8 +51,7 @@
 <LM>w#w-lnd94103-142-p1s1w5</LM>
 </w.rf>
 <form>Galerie</form>
-<tag><AM lemma="galerie" src="orig" selected="1">NNFS1-----A----</AM>
-</tag>
+<tag lemma="galerie" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-142-p1s1w6">
 <src.rf>manual</src.rf>
@@ -64,8 +59,7 @@
 <LM>w#w-lnd94103-142-p1s1w6</LM>
 </w.rf>
 <form>světových</form>
-<tag><AM lemma="světový" src="orig" selected="1">AAMP2----1A----</AM>
-</tag>
+<tag lemma="světový" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-lnd94103-142-p1s1w7">
 <src.rf>manual</src.rf>
@@ -73,8 +67,7 @@
 <LM>w#w-lnd94103-142-p1s1w7</LM>
 </w.rf>
 <form>ekonomů</form>
-<tag><AM lemma="ekonom" src="orig" selected="1">NNMP2-----A----</AM>
-</tag>
+<tag lemma="ekonom" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94103-142-p1s1w8">
 <src.rf>manual</src.rf>
@@ -82,8 +75,7 @@
 <LM>w#w-lnd94103-142-p1s1w8</LM>
 </w.rf>
 <form>-</form>
-<tag><AM lemma="-" src="orig" selected="1">Z:-------------</AM>
-</tag>
+<tag lemma="-" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-lnd94103-142-p1s1w9">
 <src.rf>manual</src.rf>
@@ -91,8 +83,7 @@
 <LM>w#w-lnd94103-142-p1s1w9</LM>
 </w.rf>
 <form>Karl</form>
-<tag><AM lemma="Karl_;Y_,t" src="auto" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Karl_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-142-p1s1w10">
 <src.rf>manual</src.rf>
@@ -100,8 +91,7 @@
 <LM>w#w-lnd94103-142-p1s1w10</LM>
 </w.rf>
 <form>Marx</form>
-<tag><AM lemma="Marx_;S" src="orig" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Marx_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-142-p1s1w11">
 <src.rf>manual</src.rf>
@@ -109,8 +99,7 @@
 <LM>w#w-lnd94103-142-p1s1w11</LM>
 </w.rf>
 <form>-</form>
-<tag><AM lemma="-" src="orig" selected="1">Z:-------------</AM>
-</tag>
+<tag lemma="-" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-lnd94103-142-p1s1w12">
 <src.rf>manual</src.rf>
@@ -118,8 +107,7 @@
 <LM>w#w-lnd94103-142-p1s1w12</LM>
 </w.rf>
 <form>Finanční</form>
-<tag><AM lemma="finanční" src="orig" selected="1">AAFP1----1A----</AM>
-</tag>
+<tag lemma="finanční" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-lnd94103-142-p1s1w13">
 <src.rf>manual</src.rf>
@@ -127,8 +115,7 @@
 <LM>w#w-lnd94103-142-p1s1w13</LM>
 </w.rf>
 <form>noviny</form>
-<tag><AM lemma="noviny_^(tisk)" src="orig" selected="1">NNFP1-----A----</AM>
-</tag>
+<tag lemma="noviny_^(tisk)" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 </s>
 </mdata>

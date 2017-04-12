@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="ln94209_43.w"/>
+<reffile id="w" name="wdata" href="ln94209_43.w" />
 </references>
 </head>
 <meta>
@@ -19,8 +19,7 @@
 <LM>w#w-ln94209-43-p1s1Aw1</LM>
 </w.rf>
 <form>Na</form>
-<tag><AM lemma="na-1" src="orig" selected="1">RR--6----------</AM>
-</tag>
+<tag lemma="na-1" src="orig" selected="1">RR--6----------</tag>
 </m>
 <m id="m-ln94209-43-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -28,8 +27,7 @@
 <LM>w#w-ln94209-43-p1s1Aw2</LM>
 </w.rf>
 <form>politickém</form>
-<tag><AM lemma="politický" src="orig" selected="1">AANS6----1A----</AM>
-</tag>
+<tag lemma="politický" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-ln94209-43-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -37,8 +35,7 @@
 <LM>w#w-ln94209-43-p1s1Aw3</LM>
 </w.rf>
 <form>grémiu</form>
-<tag><AM lemma="grémium" src="orig" selected="1">NNNS6-----A----</AM>
-</tag>
+<tag lemma="grémium" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94209-43-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -46,8 +43,7 @@
 <LM>w#w-ln94209-43-p1s1Aw4</LM>
 </w.rf>
 <form>ODS</form>
-<tag><AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</AM>
-</tag>
+<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94209-43-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -55,8 +51,7 @@
 <LM>w#w-ln94209-43-p1s1Aw5</LM>
 </w.rf>
 <form>se</form>
-<tag><AM lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</AM>
-</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
 </m>
 <m id="m-ln94209-43-p1s1Aw6">
 <src.rf>manual</src.rf>
@@ -64,8 +59,7 @@
 <LM>w#w-ln94209-43-p1s1Aw6</LM>
 </w.rf>
 <form>dokonce</form>
-<tag><AM lemma="dokonce" src="orig" selected="1">Db-------------</AM>
-</tag>
+<tag lemma="dokonce" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94209-43-p1s1Aw7">
 <src.rf>manual</src.rf>
@@ -73,8 +67,7 @@
 <LM>w#w-ln94209-43-p1s1Aw7</LM>
 </w.rf>
 <form>mluvilo</form>
-<tag><AM lemma="mluvit_:T" src="orig" selected="1">VpNS---XR-AA---</AM>
-</tag>
+<tag lemma="mluvit_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
 </m>
 <m id="m-ln94209-43-p1s1Aw8">
 <src.rf>manual</src.rf>
@@ -82,8 +75,7 @@
 <LM>w#w-ln94209-43-p1s1Aw8</LM>
 </w.rf>
 <form>o</form>
-<tag><AM lemma="o-1" src="orig" selected="1">RR--6----------</AM>
-</tag>
+<tag lemma="o-1" src="orig" selected="1">RR--6----------</tag>
 </m>
 <m id="m-ln94209-43-p1s1Aw9">
 <src.rf>manual</src.rf>
@@ -91,8 +83,7 @@
 <LM>w#w-ln94209-43-p1s1Aw9</LM>
 </w.rf>
 <form>demisi</form>
-<tag><AM lemma="demise" src="orig" selected="1">NNFS6-----A----</AM>
-</tag>
+<tag lemma="demise" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94209-43-p1s1Aw10">
 <src.rf>manual</src.rf>
@@ -100,8 +91,7 @@
 <LM>w#w-ln94209-43-p1s1Aw10</LM>
 </w.rf>
 <form>ministra</form>
-<tag><AM lemma="ministr" src="orig" selected="1">NNMS2-----A----</AM>
-</tag>
+<tag lemma="ministr" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-43-p1s1Aw11">
 <src.rf>manual</src.rf>
@@ -109,8 +99,7 @@
 <LM>w#w-ln94209-43-p1s1Aw11</LM>
 </w.rf>
 <form>Zieleniece</form>
-<tag><AM lemma="Zieleniec_;S" src="orig" selected="1">NNMS2-----A----</AM>
-</tag>
+<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94209-43-p1s1B">
@@ -120,8 +109,7 @@
 <LM>w#w-ln94209-43-p1s1Bw1</LM>
 </w.rf>
 <form>Foto</form>
-<tag><AM lemma="foto" src="orig" selected="1">NNNS1-----A----</AM>
-</tag>
+<tag lemma="foto" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94209-43-p1s1Bw2">
 <src.rf>manual</src.rf>
@@ -129,8 +117,7 @@
 <LM>w#w-ln94209-43-p1s1Bw2</LM>
 </w.rf>
 <form>Ondřej</form>
-<tag><AM lemma="Ondřej_;Y" src="orig" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ondřej_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-43-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -138,8 +125,7 @@
 <LM>w#w-ln94209-43-p1s1Bw3</LM>
 </w.rf>
 <form>Němec</form>
-<tag><AM lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-43-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -147,8 +133,7 @@
 <LM>w#w-ln94209-43-p1s1Bw4</LM>
 </w.rf>
 <form>-</form>
-<tag><AM lemma="-" src="orig" selected="1">Z:-------------</AM>
-</tag>
+<tag lemma="-" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-ln94209-43-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -156,8 +141,7 @@
 <LM>w#w-ln94209-43-p1s1Bw5</LM>
 </w.rf>
 <form>LN</form>
-<tag><AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</AM>
-</tag>
+<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
 </m>
 </s>
 </mdata>

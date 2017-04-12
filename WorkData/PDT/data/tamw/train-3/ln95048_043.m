@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="ln95048_043.w"/>
+<reffile id="w" name="wdata" href="ln95048_043.w" />
 </references>
 </head>
 <meta>
@@ -19,8 +19,7 @@
 <LM>w#w-ln95048-043-p1s1w1</LM>
 </w.rf>
 <form>"</form>
-<tag><AM lemma="&quot;" src="orig" selected="1">Z:-------------</AM>
-</tag>
+<tag lemma="&quot;" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-ln95048-043-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +27,7 @@
 <LM>w#w-ln95048-043-p1s1w2</LM>
 </w.rf>
 <form>Panovnická</form>
-<tag><AM lemma="panovnický" src="orig" selected="1">AAFS1----1A----</AM>
-</tag>
+<tag lemma="panovnický" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln95048-043-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +35,7 @@
 <LM>w#w-ln95048-043-p1s1w3</LM>
 </w.rf>
 <form>"</form>
-<tag><AM lemma="&quot;" src="orig" selected="1">Z:-------------</AM>
-</tag>
+<tag lemma="&quot;" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-ln95048-043-p1s1w4">
 <src.rf>manual</src.rf>
@@ -46,8 +43,7 @@
 <LM>w#w-ln95048-043-p1s1w4</LM>
 </w.rf>
 <form>trilogie</form>
-<tag><AM lemma="trilogie" src="orig" selected="1">NNFS1-----A----</AM>
-</tag>
+<tag lemma="trilogie" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-043-p1s1w5">
 <src.rf>manual</src.rf>
@@ -55,8 +51,7 @@
 <LM>w#w-ln95048-043-p1s1w5</LM>
 </w.rf>
 <form>pokračuje</form>
-<tag><AM lemma="pokračovat_:T" src="orig" selected="1">VB-S---3P-AA---</AM>
-</tag>
+<tag lemma="pokračovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
 </m>
 </s>
 </mdata>

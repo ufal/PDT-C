@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="ln94210_30.w"/>
+<reffile id="w" name="wdata" href="ln94210_30.w" />
 </references>
 </head>
 <meta>
@@ -19,8 +19,7 @@
 <LM>w#w-ln94210-30-p1s1Aw1</LM>
 </w.rf>
 <form>Výcvikovou</form>
-<tag><AM lemma="výcvikový" src="orig" selected="1">AAFS4----1A----</AM>
-</tag>
+<tag lemma="výcvikový" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94210-30-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -28,8 +27,7 @@
 <LM>w#w-ln94210-30-p1s1Aw2</LM>
 </w.rf>
 <form>základnu</form>
-<tag><AM lemma="základna" src="orig" selected="1">NNFS4-----A----</AM>
-</tag>
+<tag lemma="základna" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94210-30-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -37,8 +35,7 @@
 <LM>w#w-ln94210-30-p1s1Aw3</LM>
 </w.rf>
 <form>mírových</form>
-<tag><AM lemma="mírový" src="orig" selected="1">AAFP2----1A----</AM>
-</tag>
+<tag lemma="mírový" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln94210-30-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -46,8 +43,7 @@
 <LM>w#w-ln94210-30-p1s1Aw4</LM>
 </w.rf>
 <form>sil</form>
-<tag><AM lemma="síla_^(fyzická,_vojenská;_moc)" src="orig" selected="1">NNFP2-----A----</AM>
-</tag>
+<tag lemma="síla_^(fyzická,_vojenská;_moc)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94210-30-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -55,8 +51,7 @@
 <LM>w#w-ln94210-30-p1s1Aw5</LM>
 </w.rf>
 <form>Organizace</form>
-<tag><AM lemma="organizace" src="orig" selected="1">NNFS2-----A----</AM>
-</tag>
+<tag lemma="organizace" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94210-30-p1s1Aw6">
 <src.rf>manual</src.rf>
@@ -64,8 +59,7 @@
 <LM>w#w-ln94210-30-p1s1Aw6</LM>
 </w.rf>
 <form>spojených</form>
-<tag><AM lemma="spojený_^(*3it)" src="orig" selected="1">AAIP2----1A----</AM>
-</tag>
+<tag lemma="spojený_^(*3it)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln94210-30-p1s1Aw7">
 <src.rf>manual</src.rf>
@@ -73,8 +67,7 @@
 <LM>w#w-ln94210-30-p1s1Aw7</LM>
 </w.rf>
 <form>národů</form>
-<tag><AM lemma="národ" src="orig" selected="1">NNIP2-----A----</AM>
-</tag>
+<tag lemma="národ" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94210-30-p1s1Aw8">
 <src.rf>manual</src.rf>
@@ -82,8 +75,7 @@
 <LM>w#w-ln94210-30-p1s1Aw8</LM>
 </w.rf>
 <form>v</form>
-<tag><AM lemma="v-1" src="orig" selected="1">RR--6----------</AM>
-</tag>
+<tag lemma="v-1" src="orig" selected="1">RR--6----------</tag>
 </m>
 <m id="m-ln94210-30-p1s1Aw9">
 <src.rf>manual</src.rf>
@@ -91,8 +83,7 @@
 <LM>w#w-ln94210-30-p1s1Aw9</LM>
 </w.rf>
 <form>Českém</form>
-<tag><AM lemma="český" src="orig" selected="1">AAIS6----1A----</AM>
-</tag>
+<tag lemma="český" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-ln94210-30-p1s1Aw10">
 <src.rf>manual</src.rf>
@@ -100,8 +91,7 @@
 <LM>w#w-ln94210-30-p1s1Aw10</LM>
 </w.rf>
 <form>Krumlově</form>
-<tag><AM lemma="Krumlov_;G" src="orig" selected="1">NNIS6-----A----</AM>
-</tag>
+<tag lemma="Krumlov_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94210-30-p1s1Aw11">
 <src.rf>manual</src.rf>
@@ -109,8 +99,7 @@
 <LM>w#w-ln94210-30-p1s1Aw11</LM>
 </w.rf>
 <form>navštívil</form>
-<tag><AM lemma="navštívit_:W" src="orig" selected="1">VpYS---XR-AA---</AM>
-</tag>
+<tag lemma="navštívit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
 </m>
 <m id="m-ln94210-30-p1s1Aw12">
 <src.rf>manual</src.rf>
@@ -118,8 +107,7 @@
 <LM>w#w-ln94210-30-p1s1Aw12</LM>
 </w.rf>
 <form>včera</form>
-<tag><AM lemma="včera" src="orig" selected="1">Db-------------</AM>
-</tag>
+<tag lemma="včera" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94210-30-p1s1Aw13">
 <src.rf>manual</src.rf>
@@ -127,8 +115,7 @@
 <LM>w#w-ln94210-30-p1s1Aw13</LM>
 </w.rf>
 <form>prezident</form>
-<tag><AM lemma="prezident" src="orig" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="prezident" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-30-p1s1Aw14">
 <src.rf>manual</src.rf>
@@ -136,8 +123,7 @@
 <LM>w#w-ln94210-30-p1s1Aw14</LM>
 </w.rf>
 <form>Václav</form>
-<tag><AM lemma="Václav_;Y" src="orig" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Václav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-30-p1s1Aw15">
 <src.rf>manual</src.rf>
@@ -146,8 +132,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Havel</form>
-<tag><AM lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94210-30-p1s1B">
@@ -158,8 +143,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Foto</form>
-<tag><AM lemma="foto" src="orig" selected="1">NNNS1-----A----</AM>
-</tag>
+<tag lemma="foto" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94210-30-p1s1Bw2">
 <src.rf>manual</src.rf>
@@ -167,8 +151,7 @@
 <LM>w#w-ln94210-30-p1s1Bw2</LM>
 </w.rf>
 <form>Pavel</form>
-<tag><AM lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-30-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -176,8 +159,7 @@
 <LM>w#w-ln94210-30-p1s1Bw3</LM>
 </w.rf>
 <form>Hula</form>
-<tag><AM lemma="Hula_;S" src="orig" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hula_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-30-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -185,8 +167,7 @@
 <LM>w#w-ln94210-30-p1s1Bw4</LM>
 </w.rf>
 <form>-</form>
-<tag><AM lemma="-" src="orig" selected="1">Z:-------------</AM>
-</tag>
+<tag lemma="-" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-ln94210-30-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -194,8 +175,7 @@
 <LM>w#w-ln94210-30-p1s1Bw5</LM>
 </w.rf>
 <form>LN</form>
-<tag><AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</AM>
-</tag>
+<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
 </m>
 </s>
 </mdata>

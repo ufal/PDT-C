@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="ln94208_39.w"/>
+<reffile id="w" name="wdata" href="ln94208_39.w" />
 </references>
 </head>
 <meta>
@@ -19,8 +19,7 @@
 <LM>w#w-ln94208-39-p1s1Aw1</LM>
 </w.rf>
 <form>Model</form>
-<tag><AM lemma="model" src="orig" selected="1">NNIS1-----A----</AM>
-</tag>
+<tag lemma="model" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-39-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -28,8 +27,7 @@
 <LM>w#w-ln94208-39-p1s1Aw2</LM>
 </w.rf>
 <form>tančícího</form>
-<tag><AM lemma="tančící_^(*3it)" src="orig" selected="1">AGIS2-----A----</AM>
-</tag>
+<tag lemma="tančící_^(*3it)" src="orig" selected="1">AGIS2-----A----</tag>
 </m>
 <m id="m-ln94208-39-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -37,8 +35,7 @@
 <LM>w#w-ln94208-39-p1s1Aw3</LM>
 </w.rf>
 <form>domu</form>
-<tag><AM lemma="dům" src="orig" selected="1">NNIS2-----A----</AM>
-</tag>
+<tag lemma="dům" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94208-39-p1s1B">
@@ -48,8 +45,7 @@
 <LM>w#w-ln94208-39-p1s1Bw1</LM>
 </w.rf>
 <form>Repro</form>
-<tag><AM lemma="repro" src="orig" selected="1">NNNS1-----A----</AM>
-</tag>
+<tag lemma="repro" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94208-39-p1s1Bw2">
 <src.rf>manual</src.rf>
@@ -57,8 +53,7 @@
 <LM>w#w-ln94208-39-p1s1Bw2</LM>
 </w.rf>
 <form>LN</form>
-<tag><AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</AM>
-</tag>
+<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
 </m>
 </s>
 </mdata>

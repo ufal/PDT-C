@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="lnd94103_050.w"/>
+<reffile id="w" name="wdata" href="lnd94103_050.w" />
 </references>
 </head>
 <meta>
@@ -19,8 +19,7 @@
 <LM>w#w-lnd94103-050-p1s1Aw1</LM>
 </w.rf>
 <form>Voliči</form>
-<tag><AM lemma="volič" src="orig" selected="1">NNMP1-----A----</AM>
-</tag>
+<tag lemma="volič" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94103-050-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -28,8 +27,7 @@
 <LM>w#w-lnd94103-050-p1s1Aw2</LM>
 </w.rf>
 <form>ANC</form>
-<tag><AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig" selected="1">NNIXX-----A---8</AM>
-</tag>
+<tag lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-050-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -37,8 +35,7 @@
 <LM>w#w-lnd94103-050-p1s1Aw3</LM>
 </w.rf>
 <form>oslavují</form>
-<tag><AM lemma="oslavovat_:T" src="orig" selected="1">VB-P---3P-AA---</AM>
-</tag>
+<tag lemma="oslavovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
 </m>
 <m id="m-lnd94103-050-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -46,8 +43,7 @@
 <LM>w#w-lnd94103-050-p1s1Aw4</LM>
 </w.rf>
 <form>pravděpodobné</form>
-<tag><AM lemma="pravděpodobný" src="orig" selected="1">AANS4----1A----</AM>
-</tag>
+<tag lemma="pravděpodobný" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-lnd94103-050-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -55,8 +51,7 @@
 <LM>w#w-lnd94103-050-p1s1Aw5</LM>
 </w.rf>
 <form>vítězství</form>
-<tag><AM lemma="vítězství" src="orig" selected="1">NNNS4-----A----</AM>
-</tag>
+<tag lemma="vítězství" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd94103-050-p1s1Aw6">
 <src.rf>manual</src.rf>
@@ -64,8 +59,7 @@
 <LM>w#w-lnd94103-050-p1s1Aw6</LM>
 </w.rf>
 <form>své</form>
-<tag><AM lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</AM>
-</tag>
+<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-lnd94103-050-p1s1Aw7">
 <src.rf>manual</src.rf>
@@ -73,8 +67,7 @@
 <LM>w#w-lnd94103-050-p1s1Aw7</LM>
 </w.rf>
 <form>strany</form>
-<tag><AM lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</AM>
-</tag>
+<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-050-p1s1B">
@@ -84,8 +77,7 @@
 <LM>w#w-lnd94103-050-p1s1Bw1</LM>
 </w.rf>
 <form>Foto</form>
-<tag><AM lemma="foto" src="orig" selected="1">NNNS1-----A----</AM>
-</tag>
+<tag lemma="foto" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94103-050-p1s1Bw2">
 <src.rf>manual</src.rf>
@@ -93,8 +85,7 @@
 <LM>w#w-lnd94103-050-p1s1Bw2</LM>
 </w.rf>
 <form>Reuter</form>
-<tag><AM lemma="Reuter_;K" src="orig" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Reuter_;K" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="ln94207_81.w"/>
+<reffile id="w" name="wdata" href="ln94207_81.w" />
 </references>
 </head>
 <meta>
@@ -19,8 +19,7 @@
 <LM>w#w-ln94207-81-p1s1Aw1</LM>
 </w.rf>
 <form>Místo</form>
-<tag><AM lemma="místo-2_^(záměnou_za)" src="orig" selected="1">RR--2----------</AM>
-</tag>
+<tag lemma="místo-2_^(záměnou_za)" src="orig" selected="1">RR--2----------</tag>
 </m>
 <m id="m-ln94207-81-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -28,8 +27,7 @@
 <LM>w#w-ln94207-81-p1s1Aw2</LM>
 </w.rf>
 <form>berlínské</form>
-<tag><AM lemma="berlínský" src="orig" selected="1">AAFS2----1A----</AM>
-</tag>
+<tag lemma="berlínský" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94207-81-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -37,8 +35,7 @@
 <LM>w#w-ln94207-81-p1s1Aw3</LM>
 </w.rf>
 <form>zdi</form>
-<tag><AM lemma="zeď" src="orig" selected="1">NNFS2-----A----</AM>
-</tag>
+<tag lemma="zeď" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94207-81-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -46,8 +43,7 @@
 <LM>w#w-ln94207-81-p1s1Aw4</LM>
 </w.rf>
 <form>zůstal</form>
-<tag><AM lemma="zůstat" src="orig" selected="1">VpYS---XR-AA---</AM>
-</tag>
+<tag lemma="zůstat" src="orig" selected="1">VpYS---XR-AA---</tag>
 </m>
 <m id="m-ln94207-81-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -56,8 +52,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>podle</form>
-<tag><AM lemma="podle-2" src="orig" selected="1">RR--2----------</AM>
-</tag>
+<tag lemma="podle-2" src="orig" selected="1">RR--2----------</tag>
 </m>
 <m id="m-ln94207-81-p1s1Aw6">
 <src.rf>manual</src.rf>
@@ -65,8 +60,7 @@
 <LM>w#w-ln94207-81-p1s1Aw6</LM>
 </w.rf>
 <form>některých</form>
-<tag><AM lemma="některý" src="orig" selected="1">PZXP2----------</AM>
-</tag>
+<tag lemma="některý" src="orig" selected="1">PZXP2----------</tag>
 </m>
 <m id="m-ln94207-81-p1s1Aw7">
 <src.rf>manual</src.rf>
@@ -74,8 +68,7 @@
 <LM>w#w-ln94207-81-p1s1Aw7</LM>
 </w.rf>
 <form>komentátorů</form>
-<tag><AM lemma="komentátor" src="orig" selected="1">NNMP2-----A----</AM>
-</tag>
+<tag lemma="komentátor" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94207-81-p1s1Aw8">
 <src.rf>manual</src.rf>
@@ -83,8 +76,7 @@
 <LM>w#w-ln94207-81-p1s1Aw8</LM>
 </w.rf>
 <form>rozšklebený</form>
-<tag><AM lemma="rozšklebený_^(*3it)" src="orig" selected="1">AAIS1----1A----</AM>
-</tag>
+<tag lemma="rozšklebený_^(*3it)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94207-81-p1s1Aw9">
 <src.rf>manual</src.rf>
@@ -92,8 +84,7 @@
 <LM>w#w-ln94207-81-p1s1Aw9</LM>
 </w.rf>
 <form>kráter</form>
-<tag><AM lemma="kráter" src="orig" selected="1">NNIS1-----A----</AM>
-</tag>
+<tag lemma="kráter" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-81-p1s1B">
@@ -103,8 +94,7 @@
 <LM>w#w-ln94207-81-p1s1Bw1</LM>
 </w.rf>
 <form>Foto</form>
-<tag><AM lemma="foto" src="orig" selected="1">NNNS1-----A----</AM>
-</tag>
+<tag lemma="foto" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 </s>
 </mdata>
