@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tred_extension xmlns="http://ufal.mff.cuni.cz/pdt/pml/" install_size="39526930">
+<tred_extension xmlns="http://ufal.mff.cuni.cz/pdt/pml/" install_size="34949">
   <head>
     <schema href="tred_extension_schema.xml"/>
   </head>
@@ -14,7 +14,8 @@
   </description>
   <icon>icons/pdtc.png</icon>
   <require>
-    <extension name="pdt20" href="http://ufal.mff.cuni.cz/tred/extensions/core/pdt20" min_version="1.17"/>
-    <tred min_version="1.4375"/>
+    <extension name="pdt20" href="http://ufal.mff.cuni.cz/tred/extensions/core/pdt20" min_version="1.60"/>
+    <extension name="pdt30" href="http://ufal.mff.cuni.cz/tred/extensions/external/pdt30" min_version="1.22"/>
+    <tred min_version="2.4936"/>
   </require>
 </tred_extension>
