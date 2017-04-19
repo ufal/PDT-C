@@ -78,8 +78,14 @@ sub EditMorphology {
     return unless $selected;
 
     ChangingFile(1);
-    delete $_->{selected} for @{ $this->attr('tag') };
-    $this->attr('tag')->[ $selected->[0] ]{selected} = 1;
+    if (single_tag()) {
+        $this->attr('tag')->{selected} = 1;
+
+    } else {
+        delete $_->{selected} for @{ $this->attr('tag') };
+        $this->attr('tag')->[ $selected->[0] ]{selected} = 1;
+
+    }
 }
 
 
@@ -264,9 +270,13 @@ sub PrevUnknown {
 }
 
 
+sub single_tag {
+    1 == @{ [ AltV($this->attr('tag')) ] };
+}
+
+
 sub unambiguous_node {
-    (! $this->attr('tag')
-     || $this->attr('tag')->isa('Treex::PML::Container'))
+    (! $this->attr('tag') || single_tag())
 }
 
 
@@ -277,6 +287,7 @@ sub DeleteM {
         ChangingFile(1);
         $this->{comment} = List(grep 'New Form' ne $_->{type},
                                 ListV($this->attr('comment')));
+        (AltV($this->attr('tag')))[0]->set_attribute(selected => 1) if single_tag();
     }
 
     if (grep 'manual' eq $_->{src}, AltV($this->attr('tag'))) {
@@ -286,6 +297,9 @@ sub DeleteM {
     }
 
     return unless grep $_->{selected}, AltV($this->attr('tag'));
+
+    # Don't remove "selected" for unambiguous nodes.
+    return if single_tag();
 
     for my $tag (AltV($this->attr('tag'))) {
         next unless $tag->{selected};
