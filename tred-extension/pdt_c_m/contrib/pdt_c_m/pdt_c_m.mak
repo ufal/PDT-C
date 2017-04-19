@@ -74,11 +74,13 @@ sub EditComment {
 #bind EditMorphology to m menu Edit Morphology
 sub EditMorphology {
     ChangingFile(0);
+    return if $root == $this;
+
     my $selected = select_morph($this);
     return unless $selected;
 
     ChangingFile(1);
-    if (single_tag()) {
+    if (single_or_no_tag()) {
         $this->attr('tag')->{selected} = 1;
 
     } else {
@@ -100,12 +102,14 @@ sub bind_button {
     });
 }
 
+
 sub bind_dialog {
     my ($dialog) = @_;
     $dialog->bind(all => '<Tab>', sub { shift->focusNext });
     $dialog->bind(all => '<Shift-Tab>', sub { shift->focusPrev });
     bind_button(Cancel => '<Escape>', $dialog);
 }
+
 
 sub select_morph {
     my ($node) = @_;
@@ -185,7 +189,9 @@ sub select_morph {
     return
 }
 
+
 sub tag2selection { $_->get_attribute('lemma') . "  " . $_->value }
+
 
 sub new_lemma_tag {
     my ($form) = @_;
@@ -212,21 +218,43 @@ sub new_lemma_tag {
     return $dialog->Show, $lemma, $tag
 }
 
-#bind NextUnknown to space menu Find Next Unknown
-sub NextUnknown {
-    ChangingFile(0);
+
+sub search_forward {
+    my ($condition) = @_;
     do {
         $this = $this->following;
         unless ($this) {
             TredMacro::NextTree() or return check_last();
 
             $this = $root;
+            redo unless $this->following;
         }
-    } while $this && unambiguous_node();
+    } until ! single_or_no_tag() && $condition->();
+}
+
+
+sub not_selected { ! grep $_->{selected}, AltV($this->attr('tag')) }
+
+
+sub no_new_form { ! grep 'New Form' eq $_->{type}, ListV($this->{comment}) }
+
+#bind NextUnknown to space menu Find Next Unknown
+sub NextUnknown {
+    ChangingFile(0);
+    search_forward(sub { not_selected() && no_new_form() });
     Redraw();
-    EditMorphology() if $this->attr('tag')
-                     && ! grep $_->get_attribute('selected'),
-                          AltV($this->attr('tag'));
+    EditMorphology() unless $this == $root;
+}
+
+
+#bind NextAmbiguous to plus menu Find Next Ambiguous
+#bind NextAmbiguous to KP_Add
+sub NextAmbiguous {
+    ChangingFile(0);
+    search_forward(sub { 1 });
+    Redraw();
+    EditMorphology() if $this != $root && not_selected() && no_new_form();
+
 }
 
 
@@ -255,28 +283,40 @@ sub check_last {
 }
 
 
-#bind PrevUnknown to Shift+space menu Find Previous Unknown
-sub PrevUnknown {
-    ChangingFile(0);
-    $this = $this->previous;
-    while ($this->previous && unambiguous_node()) {
-        $this = $this->previous;
+sub search_backward {
+    my ($condition) = @_;
+    do {
+        $this = $this->previous if $this->previous;
         if ($this == $root) {
             TredMacro::PrevTree() or return;
 
             $this = $this->following while $this->following;
         }
-    }
+    } until ! single_or_no_tag() && $condition->();
 }
 
 
-sub single_tag {
-    1 == @{ [ AltV($this->attr('tag')) ] };
+#bind PrevUnknown to Shift+space menu Find Previous Unknown
+sub PrevUnknown {
+    ChangingFile(0);
+    search_backward(sub { not_selected() && no_new_form() });
+    Redraw();
+    EditMorphology() unless $this == $root;
 }
 
 
-sub unambiguous_node {
-    (! $this->attr('tag') || single_tag())
+#bind PreviousAmbiguous to minus menu Find Previous Ambiguous
+#bind PreviousAmbiguous to KP_Subtract
+sub PreviousAmbiguous {
+    ChangingFile(0);
+    search_backward(sub { 1 });
+    Redraw();
+    EditMorphology() if $this != $root && not_selected() && no_new_form();
+}
+
+
+sub single_or_no_tag {
+    1 >= @{ [ AltV($this->attr('tag')) ] };
 }
 
 
@@ -287,7 +327,8 @@ sub DeleteM {
         ChangingFile(1);
         $this->{comment} = List(grep 'New Form' ne $_->{type},
                                 ListV($this->attr('comment')));
-        (AltV($this->attr('tag')))[0]->set_attribute(selected => 1) if single_tag();
+        (AltV($this->attr('tag')))[0]->set_attribute(selected => 1)
+            if single_or_no_tag();
     }
 
     if (grep 'manual' eq $_->{src}, AltV($this->attr('tag'))) {
@@ -299,7 +340,7 @@ sub DeleteM {
     return unless grep $_->{selected}, AltV($this->attr('tag'));
 
     # Don't remove "selected" for unambiguous nodes.
-    return if single_tag();
+    return if single_or_no_tag();
 
     for my $tag (AltV($this->attr('tag'))) {
         next unless $tag->{selected};
