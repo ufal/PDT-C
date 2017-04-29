@@ -3594,16 +3594,7 @@
 <LM>w#w-vesm9301-001-p12s2w9</LM>
 </w.rf>
 <form>ppb</form>
-<tag>
-<AM lemma="ppb_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ppb_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ppb-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ppb" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ppb" src="auto">NNIS1-----A----</AM>
-<AM lemma="ppb" src="auto">NNIS4-----A----</AM>
-<AM lemma="ppba" src="auto">NNFP2-----A----</AM>
-<AM lemma="ppb_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ppb_:B" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-vesm9301-001-p12s2w10">
 <src.rf>manual</src.rf>
@@ -3643,16 +3634,7 @@
 <LM>w#w-vesm9301-001-p12s2w14</LM>
 </w.rf>
 <form>ppb</form>
-<tag>
-<AM lemma="ppb_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ppb_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ppb-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ppb" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ppb" src="auto">NNIS1-----A----</AM>
-<AM lemma="ppb" src="auto">NNIS4-----A----</AM>
-<AM lemma="ppba" src="auto">NNFP2-----A----</AM>
-<AM lemma="ppb_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ppb_:B" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-vesm9301-001-p12s2w15">
 <src.rf>manual</src.rf>
@@ -3694,17 +3676,7 @@
 <LM>w#w-vesm9301-001-p13s1w4</LM>
 </w.rf>
 <form>chloro</form>
-<tag>
-<AM lemma="chloro" src="orig">A2--------A----</AM>
-<AM lemma="chlora_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="chloro_^(úsporně)" src="auto">Dg-------1A----</AM>
-<AM lemma="chloro_;m_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="chloro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="chloro_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="chloro-2_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="chloro" src="auto">Db-------------</AM>
-<AM lemma="chloro" src="auto" recommended="1">A2--------A----</AM>
-</tag>
+<tag lemma="chloro" src="orig" selected="1">A2--------A----</tag>
 </m>
 <m id="m-vesm9301-001-p13s1w5">
 <src.rf>manual</src.rf>
