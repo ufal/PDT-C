@@ -29,8 +29,9 @@ xsh q{
 my $tagger_file = $FindBin::Bin . '/models/czech-morfflex-pdt-161209-devel.tagger';
 
 my $method = shift;
-my $run = { tag => \&tag,
+my $run = { tag   => \&tag,
             check => \&check,
+            retag => \&retag,
 }->{$method};
 die "Unknown method '$method', use 'tag' or 'check'.\n" unless $run;
 $run->(@ARGV);
@@ -221,6 +222,52 @@ __XSH__
             xinsert text {"\n"} after //pml:AM ;
             save :f $newfile ;
 __XSH__
+    }
+}
+
+# 17/04/29 Spec change: we only want non-guessed analyses.
+sub retag {
+    my $tagger = Ufal::MorphoDiTa::Tagger::load($tagger_file)
+        or die "Cannot load tagger from file '$tagger_file'\n";
+    my $dictionary = $tagger->getMorpho;
+    my $analyses = 'Ufal::MorphoDiTa::TaggedLemmas'->new;
+
+    while (defined( $file = shift )) {
+        say STDERR $file;
+
+        xsh << '__XSH__';
+            $mdoc := open $file ;
+            $mnodes = //pml:m[pml:tag/pml:AM[@recommended]];
+__XSH__
+
+        next unless $XML::XSH2::Map::mnodes;
+
+        for $XML::XSH2::Map::mnode (@$XML::XSH2::Map::mnodes) {
+            xsh '$form = $mnode/pml:form';
+            if ($dictionary->analyze(
+                "$XML::XSH2::Map::form", $Ufal::MorphoDiTa::Morpho::NO_GUESSER, $analyses
+            ) < 0) { # Everything was guessed
+                xsh 'delete $mnode/pml:tag/pml:AM[@src="auto"] ;
+                     set $mnode/pml:tag/pml:AM/@selected 1 ;';
+
+            } else {
+                for (my ($i, $size) = (0, $analyses->size); $i < $size; $i++) {
+                    ($alemma, $atag) = @{ $analyses->get($i) }{qw{ lemma tag }};
+                    xsh << '__XSH__';
+                        $tag = $mnode/pml:tag/pml:AM[@lemma=$alemma][.=$atag] ;
+                        set $tag/@stay 1 ;
+__XSH__
+                }
+                xsh << '__XSH__';
+                    echo $mnode/@id count($mnode/pml:tag/pml:AM[@src="auto"][not(@stay)]) ;
+                    rm $mnode/pml:tag/pml:AM[@src="auto"][not(@stay)] ;
+                    rm $mnode/pml:tag/pml:AM/@stay ;
+                    if 1=count($mnode/pml:tag/pml:AM) set $mnode/pml:tag/pml:AM/@selected 1 ;
+__XSH__
+            }
+        }
+
+        xsh 'save :b';
     }
 }
 
