@@ -22,6 +22,12 @@ use TrEd::Config qw( $font );
 
 BEGIN { 'PML_M'->import }
 
+unshift @TrEd::Config::open_types, [
+    'PDT-like morphological layer',
+    [ '.m' ],
+] unless $TrEd::Config::open_types[0][0] eq 'PDT-like morphological layer';
+
+
 my $STYLESHEET = 'PML_M_36';
 
 sub detect {
