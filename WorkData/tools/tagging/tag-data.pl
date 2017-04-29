@@ -201,6 +201,10 @@ __XSH__
                         for my $j (0 .. $analysis->size - 1) {
                             ($XML::XSH2::Map::lemma, $XML::XSH2::Map::tag)
                                 = @{ $analysis->get($j) }{qw{ lemma tag }};
+
+                            # FIXME: Workaround morphodita returning empty lemma for "ama"
+                            next unless length $XML::XSH2::Map::lemma;
+
                             xsh << '__XSH__';
                                 $am := xinsert element pml:AM into $mnodes[$i+1]/pml:tag ;
                                 set $am/@lemma $lemma ;
