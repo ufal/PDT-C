@@ -77,16 +77,7 @@
 <LM>w#w-mf930709-025-p2s1Aw3</LM>
 </w.rf>
 <form>jpk</form>
-<tag>
-<AM lemma="jpk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jpk-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jpk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jpk" src="auto">NNIS1-----A----</AM>
-<AM lemma="jpk" src="auto">NNIS4-----A----</AM>
-<AM lemma="jpk" src="auto">NNMS1-----A----</AM>
-<AM lemma="jpk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="jpk_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="jpk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-025-p2s1Aw4">
 <src.rf>manual</src.rf>

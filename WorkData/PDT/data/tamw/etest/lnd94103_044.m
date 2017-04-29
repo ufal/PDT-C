@@ -263,26 +263,7 @@
 <LM>w#w-lnd94103-044-p1s3w25</LM>
 </w.rf>
 <form>PvdA</form>
-<tag>
-<AM lemma="PvdA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PvdA_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="PvdA_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PvdA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PvdA_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="PvdA_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PvdA_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PvdA_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PvdA_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Pvda" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pvda-1" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pvda_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pvd_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pvd_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pvd_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Pvd_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Pvda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="pvda" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="PvdA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-044-p1s3w26">
 <src.rf>manual</src.rf>
@@ -773,26 +754,7 @@
 <LM>w#w-lnd94103-044-p1s5w6</LM>
 </w.rf>
 <form>PvdA</form>
-<tag>
-<AM lemma="PvdA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PvdA_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="PvdA_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PvdA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PvdA_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="PvdA_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PvdA_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PvdA_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PvdA_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Pvda" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pvda-1" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pvda_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pvd_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pvd_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pvd_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Pvd_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Pvda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="pvda" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="PvdA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-044-p1s5w7">
 <src.rf>manual</src.rf>
@@ -1106,26 +1068,7 @@
 <LM>w#w-lnd94103-044-p1s6w9</LM>
 </w.rf>
 <form>PvdA</form>
-<tag>
-<AM lemma="PvdA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PvdA_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="PvdA_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PvdA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PvdA_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="PvdA_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PvdA_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PvdA_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PvdA_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Pvda" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pvda-1" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pvda_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pvd_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pvd_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pvd_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Pvd_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Pvda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="pvda" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="PvdA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-044-p1s6w10">
 <src.rf>manual</src.rf>

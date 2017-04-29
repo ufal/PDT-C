@@ -768,18 +768,7 @@
 <LM>w#w-ln94207-109-p2s4w14</LM>
 </w.rf>
 <form>Guitry</form>
-<tag>
-<AM lemma="Guitry_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Guitr" src="auto">NNIP4-----A----</AM>
-<AM lemma="Guitr" src="auto">NNIP1-----A----</AM>
-<AM lemma="Guitr" src="auto">NNMP7-----A----</AM>
-<AM lemma="Guitr" src="auto">NNMP4-----A----</AM>
-<AM lemma="Guitrum" src="auto">NNNP7-----A----</AM>
-<AM lemma="Guitra" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Guitra" src="auto">NNFP1-----A----</AM>
-<AM lemma="Guitr" src="auto">NNIP7-----A----</AM>
-<AM lemma="guitry" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Guitry_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-109-p2s4w15">
 <src.rf>manual</src.rf>
@@ -981,17 +970,7 @@
 <LM>w#w-ln94207-109-p2s5w24</LM>
 </w.rf>
 <form>musiciens</form>
-<tag>
-<AM lemma="musiciens_;K" src="orig">NNMPX-----A----</AM>
-<AM lemma="musiciens_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="musiciens" src="auto">NNIS4-----A----</AM>
-<AM lemma="sapiens-1_,t_^(Homo_musiciens)" src="auto">AAXXX----1A----</AM>
-<AM lemma="musicien_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="musicien_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="musiciensus" src="auto">NNIS1-----A----</AM>
-<AM lemma="musiciens_;L_,t" src="auto">AANSX----1A----</AM>
-<AM lemma="musiciens_;L_,t" src="auto">AAFS1----1A----</AM>
-</tag>
+<tag lemma="musiciens_;K" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94207-109-p2s5w25">
 <src.rf>manual</src.rf>
@@ -1360,18 +1339,7 @@
 <LM>w#w-ln94207-109-p2s8w2</LM>
 </w.rf>
 <form>ola</form>
-<tag>
-<AM lemma="ola-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ol-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ol_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ol_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="ola" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="ola" src="auto">NNFS1-----A----</AM>
-<AM lemma="ola-2_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ola_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ola_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="olo" src="auto">NNNS2-----A----</AM>
-</tag>
+<tag lemma="ola-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94207-109-p2s8w3">
 <src.rf>manual</src.rf>

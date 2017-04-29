@@ -1462,21 +1462,7 @@
 <LM>w#w-cmpr9410-004-p7s1Bw31</LM>
 </w.rf>
 <form>RO</form>
-<tag>
-<AM lemma="RO_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ro_;K_,t" src="auto">RR--X----------</AM>
-<AM lemma="ro_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ro_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Ro-1_:B_;K_^(Český_rozhlas)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ro" src="auto">NNNS1-----A----</AM>
-<AM lemma="ro_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="ro" src="auto">NNNS4-----A----</AM>
-<AM lemma="ro_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ro_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="ro_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="rý" src="auto">A2--------A----</AM>
-</tag>
+<tag lemma="RO_:B" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-cmpr9410-004-p7s1Bw32">
 <src.rf>manual</src.rf>
@@ -2460,17 +2446,7 @@
 <LM>w#w-cmpr9410-004-p11s2w12</LM>
 </w.rf>
 <form>Manual</form>
-<tag>
-<AM lemma="Manual_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Manual_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Manual_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Manual_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Manual_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Manuat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Manuat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Manuat_:T_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="manual" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Manual_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-004-p11s2w13">
 <src.rf>manual</src.rf>
@@ -3438,7 +3414,6 @@
 <AM lemma="contrabasso_:B_,t_^(kontrabas)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="cb-1_:B_,t_^(cashbook,_pokladní_kniha)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="cb-2_:B_,t_^(confined_to_barraks)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="cb-3_:B_,t_^(contrabass)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="cubicus_:B_,t_^(kubický,_krychlový)" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>

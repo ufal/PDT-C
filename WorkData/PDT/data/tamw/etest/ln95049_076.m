@@ -335,18 +335,7 @@
 <LM>w#w-ln95049-076-p2s2w13</LM>
 </w.rf>
 <form>Alamejnu</form>
-<tag>
-<AM lemma="Alamejn_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Alamejna" src="auto">NNFS4-----A----</AM>
-<AM lemma="Alamejno" src="auto">NNNS6-----A---1</AM>
-<AM lemma="Alamejn_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Alamejn_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Alamejn-2_,h_^(záře)" src="auto">NNIS2-----A----</AM>
-<AM lemma="Alamejn" src="auto">NNIS2-----A----</AM>
-<AM lemma="Alamejen" src="auto">NNIS6-----A----</AM>
-<AM lemma="Alamejen" src="auto">NNIS3-----A----</AM>
-<AM lemma="alamejnu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Alamejn_;G" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95049-076-p2s2w14">
 <src.rf>manual</src.rf>

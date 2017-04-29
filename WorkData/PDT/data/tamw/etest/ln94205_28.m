@@ -354,21 +354,7 @@
 <LM>w#w-ln94205-28-p2s2w20</LM>
 </w.rf>
 <form>Ecu</form>
-<tag>
-<AM lemma="Ecu_:B_^(platidlo)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Ecu_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ec" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ec_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Ec_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Eca_;R_,t" src="auto">NNFS4-----A----</AM>
-<AM lemma="Eca_;G" src="auto">NNFS4-----A---1</AM>
-<AM lemma="ec_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="ec_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="ec" src="auto">NNIS2-----A----</AM>
-<AM lemma="ecu" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="ecu_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ec_;G" src="auto">NNIS2-----A----</AM>
-</tag>
+<tag lemma="Ecu_:B_^(platidlo)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94205-28-p2s2w21">
 <src.rf>manual</src.rf>
@@ -644,21 +630,7 @@
 <LM>w#w-ln94205-28-p2s3w23</LM>
 </w.rf>
 <form>Ecu</form>
-<tag>
-<AM lemma="Ecu_:B_^(platidlo)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Ecu_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ec" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ec_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Ec_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Eca_;R_,t" src="auto">NNFS4-----A----</AM>
-<AM lemma="Eca_;G" src="auto">NNFS4-----A---1</AM>
-<AM lemma="ec_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="ec_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="ec" src="auto">NNIS2-----A----</AM>
-<AM lemma="ecu" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="ecu_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ec_;G" src="auto">NNIS2-----A----</AM>
-</tag>
+<tag lemma="Ecu_:B_^(platidlo)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94205-28-p2s3w24">
 <src.rf>manual</src.rf>

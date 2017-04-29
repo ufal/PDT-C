@@ -502,18 +502,7 @@
 <LM>w#w-ln94202-134-p3s1w16</LM>
 </w.rf>
 <form>Mercosur</form>
-<tag>
-<AM lemma="Mercosur_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mercosur_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mercosur_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Mercosur_,t" src="auto">RR--X----------</AM>
-<AM lemma="Mercosura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mercosur_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mercosur_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mercosur" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mercosur_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="mercosur" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mercosur_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-134-p3s1w17">
 <src.rf>manual</src.rf>
@@ -813,18 +802,7 @@
 <LM>w#w-ln94202-134-p4s1w3</LM>
 </w.rf>
 <form>Equipment</form>
-<tag>
-<AM lemma="Equipment_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Equipment" src="auto">NNIS1-----A----</AM>
-<AM lemma="Equipment" src="auto">NNMS1-----A----</AM>
-<AM lemma="Equipment" src="auto">NNIS4-----A----</AM>
-<AM lemma="Equipment_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Equipment_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Equipment_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Equipment_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Equipment_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="equipment" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Equipment_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94202-134-p4s1w4">
 <src.rf>manual</src.rf>

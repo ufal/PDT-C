@@ -1480,21 +1480,7 @@
 <LM>w#w-ln94208-62-p4s1w16</LM>
 </w.rf>
 <form>SRJ</form>
-<tag>
-<AM lemma="SRJ_:B_;G_^(Jugoslávská_svazová_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="J-1`joul_:B_^(joul,_SRJoule)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SRJ_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SRJ_:B_;G_^(Jugoslávská_svazová_republika)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Srj" src="auto">NNFS1-----A----</AM>
-<AM lemma="Srj" src="auto">NNFS4-----A----</AM>
-<AM lemma="Srj" src="auto">NNIS1-----A----</AM>
-<AM lemma="Srj" src="auto">NNIS4-----A----</AM>
-<AM lemma="Srj-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Srj_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Srj_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sRJ-2_:B_,x_^(ruský_jazyk)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="srj" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SRJ_:B_;G_^(Jugoslávská_svazová_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94208-62-p4s1w17">
 <src.rf>manual</src.rf>

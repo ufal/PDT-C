@@ -908,18 +908,7 @@
 <LM>w#w-ln94202-121-p2s6w9</LM>
 </w.rf>
 <form>Bäron</form>
-<tag>
-<AM lemma="Bäron_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bäron_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bäron" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bäron_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bäron_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bäron_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bäron_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bäron-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Iron-3_;G_,t_^(Bäron_Mountain)" src="auto">AAXXX----1A----</AM>
-<AM lemma="bäron" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bäron_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-121-p2s6w10">
 <src.rf>manual</src.rf>
@@ -2621,18 +2610,7 @@
 <LM>w#w-ln94202-121-p4s1Bw7</LM>
 </w.rf>
 <form>Suaudeaua</form>
-<tag>
-<AM lemma="Suaudeau_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Suaudeau_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Suaudeau_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Suaudeaua_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Suaudeauum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Suaudeauum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Suaudeauum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Suaudeaue_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Suaudeaua_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="suaudeaua" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Suaudeau_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-121-p4s1Bw8">
 <src.rf>manual</src.rf>

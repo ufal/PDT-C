@@ -628,17 +628,7 @@
 <LM>w#w-ln94203-16-p2s4w19</LM>
 </w.rf>
 <form>Razdrto</form>
-<tag>
-<AM lemma="Razdrto_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Razdrto_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Razdrto_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Razdrto_;G_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Razdrto_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Razdrto-2_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Razdrto" src="auto">NNNS1-----A----</AM>
-<AM lemma="Razdrto" src="auto">NNNS4-----A----</AM>
-<AM lemma="razdrto" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Razdrto_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94203-16-p2s4w20">
 <src.rf>manual</src.rf>

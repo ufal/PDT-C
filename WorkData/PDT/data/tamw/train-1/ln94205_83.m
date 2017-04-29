@@ -161,17 +161,7 @@
 <LM>w#w-ln94205-83-p2s1Bw11</LM>
 </w.rf>
 <form>Idoyauovou</form>
-<tag>
-<AM lemma="Idoyauová_;S" src="orig">NNFS4-----A----</AM>
-<AM lemma="Idoyauový" src="auto">AAFS4----1A----</AM>
-<AM lemma="Idoyauový" src="auto">AAFS7----1A----</AM>
-<AM lemma="Idoyauová_;S" src="auto">NNFS7-----A----</AM>
-<AM lemma="Idoyauová_;S" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Idoyauova" src="auto">NNFS7-----A----</AM>
-<AM lemma="Idoyauův_;S_^(*2)" src="auto">AUFS7M---------</AM>
-<AM lemma="Idoyauova_;G" src="auto">NNFS7-----A----</AM>
-<AM lemma="idoyauovou" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Idoyauová_;S" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94205-83-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -198,17 +188,7 @@
 <LM>w#w-ln94205-83-p2s1Bw14</LM>
 </w.rf>
 <form>Rianovou</form>
-<tag>
-<AM lemma="Rianová_;S" src="orig">NNFS4-----A----</AM>
-<AM lemma="Rianový" src="auto">AAFS4----1A----</AM>
-<AM lemma="Rianový" src="auto">AAFS7----1A----</AM>
-<AM lemma="Rianová_;S" src="auto">NNFS7-----A----</AM>
-<AM lemma="Rianová_;S" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Rianova" src="auto">NNFS7-----A----</AM>
-<AM lemma="Rianův_;S_^(*2)" src="auto">AUFS7M---------</AM>
-<AM lemma="Rianova_;G" src="auto">NNFS7-----A----</AM>
-<AM lemma="rianovou" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rianová_;S" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94205-83-p2s1Bw15">
 <src.rf>manual</src.rf>

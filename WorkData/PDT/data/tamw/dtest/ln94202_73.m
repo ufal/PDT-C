@@ -305,18 +305,7 @@
 <LM>w#w-ln94202-73-p2s2w5</LM>
 </w.rf>
 <form>Parisien</form>
-<tag>
-<AM lemma="Parisien_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Parisien_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Parisie_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Parisien_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Parisien_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Parisien_;R_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Parisien_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Parisien_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Parisien_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="parisien" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Parisien_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-73-p2s2w6">
 <src.rf>manual</src.rf>
@@ -372,17 +361,7 @@
 <LM>w#w-ln94202-73-p2s2w12</LM>
 </w.rf>
 <form>Vergese</form>
-<tag>
-<AM lemma="Verges_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Vergést" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Verges_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Vergese" src="auto">NNFS2-----A----</AM>
-<AM lemma="Vergese" src="auto">NNFS1-----A----</AM>
-<AM lemma="Verges_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Verges_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Verges" src="auto">NNIS6-----A----</AM>
-<AM lemma="vergese" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Verges_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-73-p2s2w13">
 <src.rf>manual</src.rf>
@@ -842,18 +821,7 @@
 <LM>w#w-ln94202-73-p2s4w19</LM>
 </w.rf>
 <form>Parisien</form>
-<tag>
-<AM lemma="Parisien_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Parisien_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Parisie_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Parisien_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Parisien_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Parisien_;R_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Parisien_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Parisien_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Parisien_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="parisien" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Parisien_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-73-p2s4w20">
 <src.rf>manual</src.rf>

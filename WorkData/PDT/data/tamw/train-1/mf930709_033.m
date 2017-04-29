@@ -1383,26 +1383,7 @@
 <LM>w#w-mf930709-033-p4s2w3</LM>
 </w.rf>
 <form>CSPF</form>
-<tag>
-<AM lemma="CSPF_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CSPF_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="CSPF_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="CSPF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CSPF_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CSPF-2_:B_;K_,t_^(Rwandan_Patriotic_Front)" src="auto">NNNXX-----A----</AM>
-<AM lemma="CSPF-2_:B_;K_,t_^(Rwandan_Patriotic_Front)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="CSPF-1_:B_;K_;b_^(akciový_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="CSPF-1_:B_;K_,t_^(Rassemblement_du_Peuple_Francais)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Cspf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cspf_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cspf" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Cspf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cspf" src="auto">NNIS4-----A----</AM>
-<AM lemma="Cspf" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cspf_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cspf" src="auto">NNMS1-----A----</AM>
-<AM lemma="cspf" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="CSPF_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930709-033-p4s2w4">
 <src.rf>manual</src.rf>

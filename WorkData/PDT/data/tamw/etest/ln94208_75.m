@@ -249,18 +249,7 @@
 <LM>w#w-ln94208-75-p2s2w10</LM>
 </w.rf>
 <form>Mastírí</form>
-<tag>
-<AM lemma="Mastírí_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mastírí_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mastírí_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mastírí_;G" src="auto">AAFXX----1A----</AM>
-<AM lemma="Mastírí" src="auto">AAFS1----1A----</AM>
-<AM lemma="Mastírí" src="auto">AAFS2----1A----</AM>
-<AM lemma="Mastírí" src="auto">AAIS1----1A----</AM>
-<AM lemma="Mastírí" src="auto">AAFS4----1A----</AM>
-<AM lemma="Mastírí" src="auto">AAIS4----1A----</AM>
-<AM lemma="mastírí" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mastírí_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-75-p2s2w11">
 <src.rf>manual</src.rf>
@@ -408,18 +397,7 @@
 <LM>w#w-ln94208-75-p2s4w1</LM>
 </w.rf>
 <form>Mastírí</form>
-<tag>
-<AM lemma="Mastírí_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mastírí_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mastírí_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mastírí_;G" src="auto">AAFXX----1A----</AM>
-<AM lemma="Mastírí" src="auto">AAFS1----1A----</AM>
-<AM lemma="Mastírí" src="auto">AAFS2----1A----</AM>
-<AM lemma="Mastírí" src="auto">AAIS1----1A----</AM>
-<AM lemma="Mastírí" src="auto">AAFS4----1A----</AM>
-<AM lemma="Mastírí" src="auto">AAIS4----1A----</AM>
-<AM lemma="mastírí" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mastírí_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-75-p2s4w2">
 <src.rf>manual</src.rf>

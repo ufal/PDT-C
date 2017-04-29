@@ -767,18 +767,7 @@
 <LM>w#w-ln94206-150-p4s2w6</LM>
 </w.rf>
 <form>Financial</form>
-<tag>
-<AM lemma="Financial_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Financial_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Escorial-1_;G_^(El_Financial,_šp._král._sídlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Financial_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Financial_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="financial" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Financial_;K" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94206-150-p4s2w7">
 <src.rf>manual</src.rf>

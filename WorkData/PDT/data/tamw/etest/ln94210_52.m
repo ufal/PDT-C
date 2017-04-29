@@ -63,18 +63,7 @@
 <LM>w#w-ln94210-52-p1s1w6</LM>
 </w.rf>
 <form>Delcroix</form>
-<tag>
-<AM lemma="Delcroix_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Delcroix" src="auto">NNIS1-----A----</AM>
-<AM lemma="Delcroix_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Delcroix_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Delcroix_;L_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Delcroix_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Delcroix_;K_,t" src="auto">Cn-S1----------</AM>
-<AM lemma="Delcroix_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Delcroix_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="delcroix" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Delcroix_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-52-p1s1w7">
 <src.rf>manual</src.rf>
@@ -212,18 +201,7 @@
 <LM>w#w-ln94210-52-p1s2w1</LM>
 </w.rf>
 <form>Delcroix</form>
-<tag>
-<AM lemma="Delcroix_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Delcroix" src="auto">NNIS1-----A----</AM>
-<AM lemma="Delcroix_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Delcroix_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Delcroix_;L_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Delcroix_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Delcroix_;K_,t" src="auto">Cn-S1----------</AM>
-<AM lemma="Delcroix_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Delcroix_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="delcroix" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Delcroix_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-52-p1s2w2">
 <src.rf>manual</src.rf>

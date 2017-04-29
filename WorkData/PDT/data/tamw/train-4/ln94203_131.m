@@ -151,18 +151,7 @@
 <LM>w#w-ln94203-131-p2s1Bw6</LM>
 </w.rf>
 <form>Mwalimu</form>
-<tag>
-<AM lemma="Mwalimu_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mwali_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Mwalim_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Mwalim" src="auto">NNIS6-----A----</AM>
-<AM lemma="Mwalim" src="auto">NNIS2-----A----</AM>
-<AM lemma="Mwalimum" src="auto">NNNS3-----A----</AM>
-<AM lemma="Mwalima_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Mwalima-1" src="auto">NNFS4-----A----</AM>
-<AM lemma="Mwalim_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="mwalimu" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mwalimu_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-131-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -170,14 +159,7 @@
 <LM>w#w-ln94203-131-p2s1Bw7</LM>
 </w.rf>
 <form>Mgeni</form>
-<tag>
-<AM lemma="Mgeni_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mgit_:W" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Mgit" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Mget_:T" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Mgít" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="mgeni" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mgeni_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-131-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -449,18 +431,7 @@
 <LM>w#w-ln94203-131-p2s3w5</LM>
 </w.rf>
 <form>Kabylska</form>
-<tag>
-<AM lemma="Kabylsko_;G" src="orig">NNNS2-----A----</AM>
-<AM lemma="Kabylsko_;G" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="Kabylska" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kabylsko" src="auto">NNNS2-----A----</AM>
-<AM lemma="Kabylsko" src="auto">NNNP1-----A----</AM>
-<AM lemma="Kabylska_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kabylsko" src="auto">NNNP4-----A----</AM>
-<AM lemma="Kabylsek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kabylsek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="kabylska" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kabylsko_;G" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94203-131-p2s3w6">
 <src.rf>manual</src.rf>
@@ -476,17 +447,7 @@
 <LM>w#w-ln94203-131-p2s3w7</LM>
 </w.rf>
 <form>Taddart</form>
-<tag>
-<AM lemma="Taddart_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Taddart_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Taddart" src="auto">NNIS1-----A----</AM>
-<AM lemma="Taddart_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Taddart" src="auto">NNIS4-----A----</AM>
-<AM lemma="Taddarta_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="Taddarta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Taddart_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="taddart" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Taddart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-131-p2s3w8">
 <src.rf>manual</src.rf>
@@ -494,18 +455,7 @@
 <LM>w#w-ln94203-131-p2s3w8</LM>
 </w.rf>
 <form>Nmirgem</form>
-<tag>
-<AM lemma="Nmirgem_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nmirg" src="auto">NNIS7-----A----</AM>
-<AM lemma="Nmirg_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Nmirg_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Nmirg" src="auto">NNMS7-----A----</AM>
-<AM lemma="Nmirge_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Nmirgo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Nmirg_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Nmirge_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="nmirgem" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nmirgem_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-131-p2s3w9">
 <src.rf>manual</src.rf>
@@ -773,14 +723,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>surabayský</form>
-<tag>
-<AM lemma="surabayský" src="orig">AAMS1----1A----</AM>
-<AM lemma="surabayský" src="auto">AAIS1----1A----</AM>
-<AM lemma="surabayský" src="auto" recommended="1">AAMS1----1A----</AM>
-<AM lemma="surabayský" src="auto">AAIS4----1A----</AM>
-<AM lemma="surabayský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="surabayský_;S" src="auto">AAMS1----1A----</AM>
-</tag>
+<tag lemma="surabayský" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-ln94203-131-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1067,23 +1010,7 @@
 <LM>w#w-ln94203-131-p2s6w2</LM>
 </w.rf>
 <form>Yaa</form>
-<tag>
-<AM lemma="Yaa_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Yaa_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Yao_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Ya_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Yaa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Yaa_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="Yaa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ya_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="yao_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="ya_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="yaa_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="yaa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="yaa_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="yaa" src="auto">NNFS1-----A----</AM>
-<AM lemma="ya_;S" src="auto">NNMS2-----A----</AM>
-</tag>
+<tag lemma="Yaa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-131-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1091,25 +1018,7 @@
 <LM>w#w-ln94203-131-p2s6w3</LM>
 </w.rf>
 <form>Say</form>
-<tag>
-<AM lemma="Say_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Say_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Say_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Say_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Say_,t" src="auto">Db-------------</AM>
-<AM lemma="Say_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sej" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sej" src="auto">NNIS1-----A----</AM>
-<AM lemma="Say_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="say_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="say_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="say_,t" src="auto">VB-X---XP-AA---</AM>
-<AM lemma="say_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="say" src="auto">NNIS1-----A----</AM>
-<AM lemma="say_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="say_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="say_,t" src="auto">Db-------------</AM>
-</tag>
+<tag lemma="Say_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-131-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1117,18 +1026,7 @@
 <LM>w#w-ln94203-131-p2s6w4</LM>
 </w.rf>
 <form>Dooklin</form>
-<tag>
-<AM lemma="Dooklin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dooklin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dooklina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Dooklin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dooklin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dooklin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dooklín" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dookliny" src="auto">NNFP2-----A----</AM>
-<AM lemma="Dooklino" src="auto">NNNP2-----A----</AM>
-<AM lemma="dooklin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dooklin_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-131-p2s6w5">
 <src.rf>manual</src.rf>

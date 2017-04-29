@@ -511,18 +511,7 @@
 <LM>w#w-ln94200-154-p6s2w5</LM>
 </w.rf>
 <form>Paneira</form>
-<tag>
-<AM lemma="Paneira_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Paneira_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Paneir_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Paneir_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Paneiro_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Paneiro" src="auto">NNNS2-----A----</AM>
-<AM lemma="Paneir_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Paneira_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Paneira_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="paneira" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Paneira_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-154-p6s2w6">
 <src.rf>manual</src.rf>
@@ -638,16 +627,7 @@
 <LM>w#w-ln94200-154-p7s1Bw8</LM>
 </w.rf>
 <form>Tivali</form>
-<tag>
-<AM lemma="Tivali_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tivat_:T" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Tivat_:W" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Tivat_:T_:W" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Tivat" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Tivat_:T_^(*4at)" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Tivat_:T_^(*3t)" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="tivali" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tivali_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94200-154-p7s1Bw9">
 <src.rf>manual</src.rf>
@@ -839,19 +819,7 @@
 <LM>w#w-ln94200-154-p7s1Bw32</LM>
 </w.rf>
 <form>Skabelka</form>
-<tag>
-<AM lemma="Skabelka_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Skabelek" src="auto">NNMS4-----A----</AM>
-<AM lemma="Skabelek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Skabelek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Skabelka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Skabelka-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Skabelka_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Skabelka_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Skabelko" src="auto">NNNP1-----A----</AM>
-<AM lemma="skabelka" src="auto">NNFS1-----A----</AM>
-<AM lemma="skabelka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Skabelka_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-154-p7s1Bw33">
 <src.rf>manual</src.rf>
@@ -891,18 +859,7 @@
 <LM>w#w-ln94200-154-p7s1Bw37</LM>
 </w.rf>
 <form>Taranovskij</form>
-<tag>
-<AM lemma="Taranovskij_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Taranovskij_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Taranovský_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Taranovský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Taranovskij_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Taranovskij_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="Taranovskij_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Taranovskít" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Taranovskij_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="taranovskij" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Taranovskij_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-154-p7s1Bw38">
 <src.rf>manual</src.rf>
@@ -918,14 +875,7 @@
 <LM>w#w-ln94200-154-p7s1Bw39</LM>
 </w.rf>
 <form>Madový</form>
-<tag>
-<AM lemma="Madový_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Madový" src="auto">AAIS1----1A----</AM>
-<AM lemma="Madový" src="auto">AAIS4----1A----</AM>
-<AM lemma="Madový" src="auto">AAMS1----1A----</AM>
-<AM lemma="Madový_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="madový" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Madový_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-154-p7s1Bw40">
 <src.rf>manual</src.rf>
@@ -941,18 +891,7 @@
 <LM>w#w-ln94200-154-p7s1Bw41</LM>
 </w.rf>
 <form>Panvkovček</form>
-<tag>
-<AM lemma="Panvkovček_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Panvkovček_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Panvkovčka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Panvkovček" src="auto">NNIS4-----A----</AM>
-<AM lemma="Panvkovček" src="auto">NNIS1-----A----</AM>
-<AM lemma="Panvkovček" src="auto">NNMS1-----A----</AM>
-<AM lemma="Panvkovčka_^(*2)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Panvkovčko" src="auto">NNNP2-----A----</AM>
-<AM lemma="Panvkovček-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="panvkovček" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Panvkovček_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-154-p7s1Bw42">
 <src.rf>manual</src.rf>
@@ -1155,18 +1094,7 @@
 <LM>w#w-ln94200-154-p11s11w1</LM>
 </w.rf>
 <form>Bonan</form>
-<tag>
-<AM lemma="Bonan_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bonan_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bonan_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bonan_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Bonan-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bonan" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bonan_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bonany_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Bonan" src="auto">NNIS1-----A----</AM>
-<AM lemma="bonan" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bonan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-154-p11s11w2">
 <src.rf>manual</src.rf>
@@ -1295,25 +1223,7 @@
 <LM>w#w-ln94200-154-p11s19w2</LM>
 </w.rf>
 <form>Äs</form>
-<tag>
-<AM lemma="Äs_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Äs_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Äs_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Äs" src="auto">NNIS1-----A----</AM>
-<AM lemma="Äs" src="auto">NNIS4-----A----</AM>
-<AM lemma="Äs_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Äs_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Äs_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ä_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="äs_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="äs" src="auto">NNIS1-----A----</AM>
-<AM lemma="äs" src="auto">NNIS4-----A----</AM>
-<AM lemma="äs_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="äs_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="äs_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ä_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="ä_,t" src="auto">NNFPX-----A----</AM>
-</tag>
+<tag lemma="Äs_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94200-154-p11s19w3">
 <src.rf>manual</src.rf>

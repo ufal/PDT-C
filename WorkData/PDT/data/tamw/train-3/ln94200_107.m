@@ -405,16 +405,7 @@
 <LM>w#w-ln94200-107-p2s2w12</LM>
 </w.rf>
 <form>best</form>
-<tag>
-<AM lemma="good_,t" src="orig">Dg-------3A----</AM>
-<AM lemma="best_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="best" src="auto">NNIS1-----A----</AM>
-<AM lemma="best" src="auto">NNIS4-----A----</AM>
-<AM lemma="best" src="auto">NNFS4-----A----</AM>
-<AM lemma="best_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="best" src="auto">NNFS1-----A----</AM>
-<AM lemma="best_;m_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-</tag>
+<tag lemma="good_,t" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln94200-107-p2s2w13">
 <src.rf>manual</src.rf>

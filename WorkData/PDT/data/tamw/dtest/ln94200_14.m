@@ -563,17 +563,7 @@
 <LM>w#w-ln94200-14-p3s3w2</LM>
 </w.rf>
 <form>ka</form>
-<tag>
-<AM lemma="ka-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ka" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="ka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="k_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="k" src="auto">NNMS2-----A----</AM>
-<AM lemma="k" src="auto">NNMS4-----A----</AM>
-<AM lemma="ka_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="ko_;G" src="auto">NNNS2-----A----</AM>
-</tag>
+<tag lemma="ka-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-14-p3s3w3">
 <src.rf>manual</src.rf>

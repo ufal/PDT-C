@@ -335,14 +335,7 @@
 <LM>w#w-ln94207-67-p2s1Bw29</LM>
 </w.rf>
 <form>taxivozy</form>
-<tag>
-<AM lemma="taxivůz" src="orig">NNIP1-----A----</AM>
-<AM lemma="taxivoz" src="auto">NNIP4-----A----</AM>
-<AM lemma="taxivoz" src="auto">NNIP7-----A----</AM>
-<AM lemma="taxivoz" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="taxivoza_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="taxivoza" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="taxivůz" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94207-67-p2s1Bw30">
 <src.rf>manual</src.rf>

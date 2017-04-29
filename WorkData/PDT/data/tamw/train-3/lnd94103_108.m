@@ -236,18 +236,7 @@
 <LM>w#w-lnd94103-108-p1s1w28</LM>
 </w.rf>
 <form>Formoza</form>
-<tag>
-<AM lemma="Formoza_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Formoza_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Formoza_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Formoza_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Formoza" src="auto">RR--2----------</AM>
-<AM lemma="Formoza" src="auto">NNFS1-----A----</AM>
-<AM lemma="Formoza_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Formoza_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Formozo_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="formoza" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Formoza_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-108-p1s1w29">
 <src.rf>manual</src.rf>

@@ -277,18 +277,7 @@
 <LM>w#w-cmpr9410-020-p3s1w32</LM>
 </w.rf>
 <form>Mepha</form>
-<tag>
-<AM lemma="Mepha_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Meph_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mepha_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Mepha" src="auto">NNFS1-----A----</AM>
-<AM lemma="Meph_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mepha_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Meph_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Meph_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Meph" src="auto">NNMS2-----A----</AM>
-<AM lemma="mepha" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mepha_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-020-p3s1w33">
 <src.rf>manual</src.rf>

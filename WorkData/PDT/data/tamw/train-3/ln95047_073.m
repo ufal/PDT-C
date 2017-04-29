@@ -547,17 +547,7 @@
 <LM>w#w-ln95047-073-p3s1w25</LM>
 </w.rf>
 <form>Nábatije</form>
-<tag>
-<AM lemma="Nábatijá_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Nábatít" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Nábatij_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Nábatij_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Nábatijá_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Nábatija_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nábatij_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Nábatije_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="nábatije" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nábatijá_;G" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-073-p3s1w26">
 <src.rf>manual</src.rf>
@@ -687,18 +677,7 @@
 <LM>w#w-ln95047-073-p3s2w10</LM>
 </w.rf>
 <form>Iklim</form>
-<tag>
-<AM lemma="Iklim_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="Ikli_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Iklim_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Iklim_;G" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Iklim_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Iklim_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Iklim" src="auto">NNIS4-----A----</AM>
-<AM lemma="Iklim" src="auto">NNIS1-----A----</AM>
-<AM lemma="Iklimum" src="auto">NNNP2-----A----</AM>
-<AM lemma="iklim" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Iklim_;G" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln95047-073-p3s2w11">
 <src.rf>manual</src.rf>
@@ -726,17 +705,7 @@
 <LM>w#w-ln95047-073-p3s2w13</LM>
 </w.rf>
 <form>Toufáh</form>
-<tag>
-<AM lemma="Toufáh_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Toufáh_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Toufáh_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Toufáh_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Toufáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Toufáh" src="auto">NNMS1-----A----</AM>
-<AM lemma="Toufáh" src="auto">NNIS4-----A----</AM>
-<AM lemma="Toufáh" src="auto">NNIS1-----A----</AM>
-<AM lemma="toufáh" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Toufáh_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-073-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1644,18 +1613,7 @@
 <LM>w#w-ln95047-073-p3s8w8</LM>
 </w.rf>
 <form>Mardž</form>
-<tag>
-<AM lemma="Mardž_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Mardž_;G" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Mardž_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mardž" src="auto">J,-------------</AM>
-<AM lemma="Mardž" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mardž" src="auto">NNFS4-----A----</AM>
-<AM lemma="Mardž" src="auto">Db-------------</AM>
-<AM lemma="Mardž_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mardž-1" src="auto">Db-------------</AM>
-<AM lemma="mardž" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mardž_;G" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95047-073-p3s8w9">
 <src.rf>manual</src.rf>
@@ -1663,18 +1621,7 @@
 <LM>w#w-ln95047-073-p3s8w9</LM>
 </w.rf>
 <form>Ujúnu</form>
-<tag>
-<AM lemma="Ujún_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Ujún_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Ujúna" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ujún" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ujún_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Ujún" src="auto">NNIS6-----A----</AM>
-<AM lemma="Ujún" src="auto">NNIS3-----A----</AM>
-<AM lemma="Ujún" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Ujún_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="ujúnu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ujún_;G" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95047-073-p3s8w10">
 <src.rf>manual</src.rf>

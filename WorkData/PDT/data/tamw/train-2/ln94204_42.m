@@ -77,17 +77,7 @@
 <LM>w#w-ln94204-42-p2s1Aw3</LM>
 </w.rf>
 <form>teb</form>
-<tag>
-<AM lemma="teb-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="tba" src="auto">NNFP2-----A----</AM>
-<AM lemma="teb-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="teb_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="teb" src="auto">NNIS1-----A----</AM>
-<AM lemma="teb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="teb_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="tba_^(všechny_významy)" src="auto">NNFP2-----A----</AM>
-<AM lemma="teby_;G" src="auto">NNIP2-----A----</AM>
-</tag>
+<tag lemma="teb-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-42-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -161,18 +151,7 @@
 <LM>w#w-ln94204-42-p2s1Bw7</LM>
 </w.rf>
 <form>Wackenhut</form>
-<tag>
-<AM lemma="Wackenhut_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Wackenhut_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wackenhut_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Wackenhut_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wackenhut_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Wackenhut" src="auto">Vf--------A----</AM>
-<AM lemma="Wackenhout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Wackenhout_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Wackenhut_:T" src="auto">Vf--------A----</AM>
-<AM lemma="wackenhut" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Wackenhut_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-42-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -388,18 +367,7 @@
 <LM>w#w-ln94204-42-p2s3w7</LM>
 </w.rf>
 <form>Wackenhut</form>
-<tag>
-<AM lemma="Wackenhut_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Wackenhut_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wackenhut_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Wackenhut_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wackenhut_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Wackenhut" src="auto">Vf--------A----</AM>
-<AM lemma="Wackenhout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Wackenhout_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Wackenhut_:T" src="auto">Vf--------A----</AM>
-<AM lemma="wackenhut" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Wackenhut_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-42-p2s3w8">
 <src.rf>manual</src.rf>

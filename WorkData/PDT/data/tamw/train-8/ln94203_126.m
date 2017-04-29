@@ -61,16 +61,7 @@
 <LM>w#w-ln94203-126-p2s1Aw3</LM>
 </w.rf>
 <form>hk</form>
-<tag>
-<AM lemma="hk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hk-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="hk-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="hk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="hk" src="auto">NNIS1-----A----</AM>
-<AM lemma="hk" src="auto">NNIS4-----A----</AM>
-<AM lemma="hk" src="auto">NNMS1-----A----</AM>
-<AM lemma="hk_;G" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="hk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94203-126-p2s1Aw4">
 <src.rf>manual</src.rf>

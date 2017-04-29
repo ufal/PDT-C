@@ -77,18 +77,7 @@
 <LM>w#w-mf920925-005-p2s1w5</LM>
 </w.rf>
 <form>Baco</form>
-<tag>
-<AM lemma="Baco_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Baco_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Baco_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Baco_;G_,t" src="auto">NNNS4-----A----</AM>
-<AM lemma="Baco_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Baco_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Baco_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Baco" src="auto">PZ--4----------</AM>
-<AM lemma="Baco" src="auto">PZ--1----------</AM>
-<AM lemma="baco" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Baco_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-005-p2s1w6">
 <src.rf>manual</src.rf>
@@ -1374,18 +1363,7 @@
 <LM>w#w-mf920925-005-p6s1w4</LM>
 </w.rf>
 <form>Baca</form>
-<tag>
-<AM lemma="Baco_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Baco_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Bac_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Baca_;L_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Baca_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Baca_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Baca-1_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Baca_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Baca_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="baca" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Baco_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-005-p6s1w5">
 <src.rf>manual</src.rf>

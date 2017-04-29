@@ -105,26 +105,7 @@
 <LM>w#w-ln94205-2-p1s2w2</LM>
 </w.rf>
 <form>DECpc</form>
-<tag>
-<AM lemma="DECpc_;R_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="DECpc_;R_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="DECpc" src="auto">NNMS1-----A----</AM>
-<AM lemma="DECpc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="DECpce" src="auto">NNFP2-----A----</AM>
-<AM lemma="DECpce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="DECpc" src="auto">NNIS1-----A----</AM>
-<AM lemma="DECpc" src="auto">NNIS4-----A----</AM>
-<AM lemma="DECpc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Decpc_;R_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Decpc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Decpc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Decpce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Decpce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Decpc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Decpc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Decpc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="decpc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="DECpc_;R_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94205-2-p1s2w3">
 <src.rf>manual</src.rf>
@@ -140,25 +121,7 @@
 <LM>w#w-ln94205-2-p1s2w4</LM>
 </w.rf>
 <form>SLC</form>
-<tag>
-<AM lemma="SLC_;R_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SLC_;R_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SLC-2_:B_;K_,t_^(International_Languages_Centrum)" src="auto">NNNXX-----A----</AM>
-<AM lemma="SLC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SLC_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SLC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SLC_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SLC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Slc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Slc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Slc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Slc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Slce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Slce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Slc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Slc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="slc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SLC_;R_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-2-p1s2w5">
 <src.rf>manual</src.rf>
@@ -538,16 +501,7 @@
 <LM>w#w-ln94205-2-p1s6w2</LM>
 </w.rf>
 <form>wig</form>
-<tag>
-<AM lemma="wig-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="wig_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="wig_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="wig-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="wig_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="wig_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="wig_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Big-1_;K_,t_^(souč._názvů,_např._wig_Ben)" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="wig-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 </s>
 </mdata>

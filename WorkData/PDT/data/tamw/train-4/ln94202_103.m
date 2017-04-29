@@ -1228,17 +1228,7 @@
 <LM>w#w-ln94202-103-p3s4w7</LM>
 </w.rf>
 <form>league</form>
-<tag>
-<AM lemma="league_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="league_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="league_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="league_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="league_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="league_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="league_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="league_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="league_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="league_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-103-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1369,17 +1359,7 @@
 <LM>w#w-ln94202-103-p3s4w23</LM>
 </w.rf>
 <form>league</form>
-<tag>
-<AM lemma="league_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="league_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="league_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="league_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="league_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="league_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="league_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="league_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="league_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="league_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-103-p3s4w24">
 <src.rf>manual</src.rf>
@@ -1752,17 +1732,7 @@
 <LM>w#w-ln94202-103-p4s3w5</LM>
 </w.rf>
 <form>league</form>
-<tag>
-<AM lemma="league_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="league_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="league_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="league_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="league_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="league_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="league_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="league_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="league_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="league_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-103-p4s3w6">
 <src.rf>manual</src.rf>
@@ -3644,17 +3614,7 @@
 <LM>w#w-ln94202-103-p5s5w2</LM>
 </w.rf>
 <form>řej</form>
-<tag>
-<AM lemma="řej-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="řej_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="řej-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="řý" src="auto">AAMS1----1A---6</AM>
-<AM lemma="řej" src="auto">NNIS1-----A----</AM>
-<AM lemma="řý" src="auto">AAIS1----1A---6</AM>
-<AM lemma="řej_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="řej" src="auto">NNIS4-----A----</AM>
-<AM lemma="řat_:T" src="auto">Vi-S---2--A----</AM>
-</tag>
+<tag lemma="řej-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-103-p5s5w3">
 <src.rf>manual</src.rf>

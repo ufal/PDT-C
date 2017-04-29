@@ -978,18 +978,7 @@
 <LM>w#w-ln94210-114-p2s4w22</LM>
 </w.rf>
 <form>Dárnyie</form>
-<tag>
-<AM lemma="Dárnyi_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Dárnyi_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Dárnyie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Dárnyie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dárnyie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Dárnyie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Dárnyie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Dárnyie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dárnyie_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="dárnyie" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dárnyi_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-114-p2s4w23">
 <src.rf>manual</src.rf>

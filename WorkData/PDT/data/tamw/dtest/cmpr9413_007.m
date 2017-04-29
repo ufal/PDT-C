@@ -228,15 +228,7 @@
 <LM>w#w-cmpr9413-007-p4s1w2</LM>
 </w.rf>
 <form>Hraboský</form>
-<tag>
-<AM lemma="Hraboský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hraboský" src="auto">AAIS1----1A----</AM>
-<AM lemma="Hraboský" src="auto">AAMS1----1A----</AM>
-<AM lemma="Hraboský" src="auto">AAIS4----1A----</AM>
-<AM lemma="Hraboský_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hraboský_;S" src="auto">AAMS1----1A----</AM>
-<AM lemma="hraboský" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hraboský_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-007-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1592,18 +1584,7 @@
 <LM>w#w-cmpr9413-007-p7s1w13</LM>
 </w.rf>
 <form>Flaxové</form>
-<tag>
-<AM lemma="Flaxa_;K" src="orig">NNMP1-----A----</AM>
-<AM lemma="Flaxový" src="auto">AAFS2----1A----</AM>
-<AM lemma="Flaxová_;S" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Flaxový" src="auto">AAFS6----1A----</AM>
-<AM lemma="Flaxový" src="auto">AAFP1----1A----</AM>
-<AM lemma="Flaxový" src="auto">AAIP1----1A----</AM>
-<AM lemma="Flaxový" src="auto">AAIP4----1A----</AM>
-<AM lemma="Flaxový" src="auto">AAFP4----1A----</AM>
-<AM lemma="Flaxový" src="auto">AANS1----1A----</AM>
-<AM lemma="flaxové" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Flaxa_;K" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9413-007-p7s1w14">
 <src.rf>manual</src.rf>
@@ -2856,18 +2837,7 @@
 <LM>w#w-cmpr9413-007-p9s2w22</LM>
 </w.rf>
 <form>Berovského</form>
-<tag>
-<AM lemma="Berovský_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Berovský" src="auto">AAIS2----1A----</AM>
-<AM lemma="Berovský" src="auto">AANS2----1A----</AM>
-<AM lemma="Berovský" src="auto">AAMS2----1A----</AM>
-<AM lemma="Berovský" src="auto">AAMS4----1A----</AM>
-<AM lemma="Berovský_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Berovský_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="Berovský_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="Berovský_^(*3it)" src="auto">AAIS2----1A----</AM>
-<AM lemma="berovského" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Berovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-007-p9s2w23">
 <src.rf>manual</src.rf>

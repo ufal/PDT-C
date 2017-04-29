@@ -1374,18 +1374,7 @@
 <LM>w#w-ln94208-136-p3s5w5</LM>
 </w.rf>
 <form>Forecast</form>
-<tag>
-<AM lemma="Forecast_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Forecast" src="auto">NNFS4-----A----</AM>
-<AM lemma="Forecast" src="auto">NNFS1-----A----</AM>
-<AM lemma="Forecast_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Forecast_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Forecast_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Forecast" src="auto">NNIS4-----A----</AM>
-<AM lemma="Forecast" src="auto">NNIS1-----A----</AM>
-<AM lemma="Forecasta" src="auto">NNFP2-----A----</AM>
-<AM lemma="forecast" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Forecast_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94208-136-p3s5w6">
 <src.rf>manual</src.rf>
@@ -1503,18 +1492,7 @@
 <LM>w#w-ln94208-136-p3s5w19</LM>
 </w.rf>
 <form>space</form>
-<tag>
-<AM lemma="space_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="spac-3_^(stará_drobná_mince)" src="auto">NNIS5-----A----</AM>
-<AM lemma="space" src="auto">NNFP1-----A----</AM>
-<AM lemma="space" src="auto">NNFP4-----A----</AM>
-<AM lemma="space" src="auto">NNFS1-----A----</AM>
-<AM lemma="space" src="auto">NNFS2-----A----</AM>
-<AM lemma="space-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="space_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="space_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="space_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="space_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94208-136-p3s5w20">
 <src.rf>manual</src.rf>
@@ -2344,14 +2322,7 @@
 <LM>w#w-ln94208-136-p4s4w32</LM>
 </w.rf>
 <form>Elbit</form>
-<tag>
-<AM lemma="Elbit_;K" src="orig">NNIS4-----A----</AM>
-<AM lemma="Elbit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Elbit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Elbít" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Elbit_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="elbit" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Elbit_;K" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94208-136-p4s4w33">
 <src.rf>manual</src.rf>

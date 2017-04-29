@@ -319,18 +319,7 @@
 <LM>w#w-lnd94103-086-p1s3w14</LM>
 </w.rf>
 <form>NASTY</form>
-<tag>
-<AM lemma="nasty_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="NASTY" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nasta" src="auto">NNMS2-----A----</AM>
-<AM lemma="Nasta" src="auto">NNMP4-----A----</AM>
-<AM lemma="Nasta" src="auto">NNMP7-----A----</AM>
-<AM lemma="Nast" src="auto">NNIP1-----A----</AM>
-<AM lemma="Nast" src="auto">NNIP4-----A----</AM>
-<AM lemma="Nasta" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Nast" src="auto">NNIP7-----A----</AM>
-<AM lemma="Nasta_;S" src="auto">NNMS2-----A----</AM>
-</tag>
+<tag lemma="nasty_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-lnd94103-086-p1s3w15">
 <src.rf>manual</src.rf>
@@ -462,18 +451,7 @@
 <LM>w#w-lnd94103-086-p1s5w7</LM>
 </w.rf>
 <form>Lower</form>
-<tag>
-<AM lemma="Lower_;G_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Lower_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lower_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lower_;G_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Lower_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lower_,t_^(angl._adj.)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lower" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lower" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lower_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="lower" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lower_;G_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-lnd94103-086-p1s5w8">
 <src.rf>manual</src.rf>
@@ -3182,18 +3160,7 @@
 <LM>w#w-lnd94103-086-p1s26w14</LM>
 </w.rf>
 <form>Gastfriend</form>
-<tag>
-<AM lemma="Gastfriend_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gastfriend_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gastfrienda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gastfriend" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gastfriend" src="auto">NNIS1-----A----</AM>
-<AM lemma="end_,t_^(anglicky_konec,_happy_Gastfriend)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gastfriend_;R_^(vozidlo)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Gastfriend_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Gastfriend_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="gastfriend" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gastfriend_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-086-p1s26w15">
 <src.rf>manual</src.rf>
@@ -4945,18 +4912,7 @@
 <LM>w#w-lnd94103-086-p1s33w33</LM>
 </w.rf>
 <form>Beningtonské</form>
-<tag>
-<AM lemma="Beningtonský_;K" src="orig">AAFS2----1A----</AM>
-<AM lemma="Beningtonský" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="Beningtonský" src="auto">AAFS6----1A----</AM>
-<AM lemma="Beningtonský" src="auto">AANS1----1A----</AM>
-<AM lemma="Beningtonský" src="auto">AAFP1----1A----</AM>
-<AM lemma="Beningtonský" src="auto">AAIP1----1A----</AM>
-<AM lemma="Beningtonský" src="auto">AANS4----1A----</AM>
-<AM lemma="Beningtonský" src="auto">AAFP4----1A----</AM>
-<AM lemma="Beningtonský" src="auto">AAFS3----1A----</AM>
-<AM lemma="beningtonské" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Beningtonský_;K" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd94103-086-p1s33w34">
 <src.rf>manual</src.rf>
@@ -5296,21 +5252,7 @@
 <LM>w#w-lnd94103-086-p1s35w9</LM>
 </w.rf>
 <form>Side</form>
-<tag>
-<AM lemma="Side_;G_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Side_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Side_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Side_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Side_;G_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Side_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Side_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Side_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Side_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="sid_^(termín_z_psychoanalýzy)" src="auto">NNIS5-----A----</AM>
-<AM lemma="side" src="auto">NNMS1-----A----</AM>
-<AM lemma="sijít" src="auto">VB-S---3P-AA--6</AM>
-<AM lemma="sjít_,h_,n_,x" src="auto">VB-S---3P-AA--6</AM>
-</tag>
+<tag lemma="Side_;G_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94103-086-p1s35w10">
 <src.rf>manual</src.rf>

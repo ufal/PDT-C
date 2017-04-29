@@ -2892,18 +2892,7 @@
 <LM>w#w-ln95047-080-p7s2w15</LM>
 </w.rf>
 <form>Electricité</form>
-<tag>
-<AM lemma="Electricité_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Electricitý" src="auto">AAFS2----1A----</AM>
-<AM lemma="Electricitý" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="Electricitý" src="auto">AAFP1----1A----</AM>
-<AM lemma="Electricitý" src="auto">AAIP4----1A----</AM>
-<AM lemma="Electricitý" src="auto">AANS4----1A----</AM>
-<AM lemma="Electricitý" src="auto">AAIP1----1A----</AM>
-<AM lemma="Electricitý" src="auto">AAFP4----1A----</AM>
-<AM lemma="Electricitý" src="auto">AAFS6----1A----</AM>
-<AM lemma="electricité" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Electricité_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95047-080-p7s2w16">
 <src.rf>manual</src.rf>

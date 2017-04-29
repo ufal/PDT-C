@@ -3800,18 +3800,7 @@
 <LM>w#w-mf920925-120-p14s1w6</LM>
 </w.rf>
 <form>Nascimento</form>
-<tag>
-<AM lemma="Nascimento_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nascimento" src="auto">NNNS4-----A----</AM>
-<AM lemma="Nascimento" src="auto">NNNS1-----A----</AM>
-<AM lemma="Nascimento_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Nascimento_;m_,t" src="auto" recommended="1">RR--X----------</AM>
-<AM lemma="Nascimento_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nascimento_;R_^(auto)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Nascimento_;R_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Nascimento_;K_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="nascimento" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nascimento_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-120-p14s1w7">
 <src.rf>manual</src.rf>

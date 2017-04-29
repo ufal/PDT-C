@@ -647,18 +647,7 @@
 <LM>w#w-ln94205-139-p3s1w12</LM>
 </w.rf>
 <form>Govett</form>
-<tag>
-<AM lemma="Govett_;K_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Govett_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Govett_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Govett_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Govett-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Govett_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Govett_;R_^(časopis)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Govett_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Govett_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="govett" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Govett_;K_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-139-p3s1w13">
 <src.rf>manual</src.rf>
@@ -762,17 +751,7 @@
 <LM>w#w-ln94205-139-p3s1w25</LM>
 </w.rf>
 <form>emerging</form>
-<tag>
-<AM lemma="emerging_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="emerging_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="emerging" src="auto">NNIS4-----A----</AM>
-<AM lemma="emerging_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="emerging" src="auto">NNIS1-----A----</AM>
-<AM lemma="emerging_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="emerging_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="emerging_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="emerging_;G" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="emerging_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-139-p3s1w26">
 <src.rf>manual</src.rf>
@@ -780,17 +759,7 @@
 <LM>w#w-ln94205-139-p3s1w26</LM>
 </w.rf>
 <form>markets</form>
-<tag>
-<AM lemma="market_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="market_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="market_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="market_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="markets_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="markets_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="markets_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="markets_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="markets_;K" src="auto">NNMPX-----A----</AM>
-</tag>
+<tag lemma="market_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94205-139-p3s1w27">
 <src.rf>manual</src.rf>
@@ -3394,17 +3363,7 @@
 <LM>w#w-ln94205-139-p13s1w10</LM>
 </w.rf>
 <form>makers</form>
-<tag>
-<AM lemma="maker_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="makers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="maker_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="makers_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="maker_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="maker_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="makers_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="makers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="makers_;K_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="maker_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94205-139-p13s1w11">
 <src.rf>manual</src.rf>

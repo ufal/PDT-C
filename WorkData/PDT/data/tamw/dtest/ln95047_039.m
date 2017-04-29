@@ -2268,22 +2268,7 @@
 <LM>w#w-ln95047-039-p6s3w6</LM>
 </w.rf>
 <form>Reader</form>
-<tag>
-<AM lemma="Reader_;K_,t_^(Reader's_digest)" src="orig">NNMXX-----A----</AM>
-<AM lemma="Reader_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Reader_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Reader_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Readra_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Readro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Readry_;G" src="auto">NNIP2-----A---1</AM>
-<AM lemma="reader" src="auto">NNMS1-----A----</AM>
-<AM lemma="reader-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="reader_^(er-forma)" src="auto">A2--------A----</AM>
-<AM lemma="reader_^(název_hlásky_r)" src="auto">NNNXX-----A----</AM>
-<AM lemma="readerežie_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="readerok_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="readeručení_:B" src="auto">NNNS7-----A---8</AM>
-</tag>
+<tag lemma="Reader_;K_,t_^(Reader's_digest)" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln95047-039-p6s3w7">
 <src.rf>manual</src.rf>

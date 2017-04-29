@@ -1874,18 +1874,7 @@
 <LM>w#w-ln94209-46-p4s4w1</LM>
 </w.rf>
 <form>Integrativní</form>
-<tag>
-<AM lemma="integrativní" src="orig">AAFS7----1A----</AM>
-<AM lemma="Integrativní" src="auto">AAFS1----1A----</AM>
-<AM lemma="Integrativní" src="auto">AAFS2----1A----</AM>
-<AM lemma="Integrativní" src="auto">AAFS4----1A----</AM>
-<AM lemma="Integrativní" src="auto">AAIS1----1A----</AM>
-<AM lemma="Integrativní" src="auto">AANS1----1A----</AM>
-<AM lemma="Integrativní" src="auto">AAIS4----1A----</AM>
-<AM lemma="Integrativní" src="auto">AAIP1----1A----</AM>
-<AM lemma="Integrativní" src="auto" recommended="1">AAFS7----1A----</AM>
-<AM lemma="integrativní" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="integrativní" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln94209-46-p4s4w2">
 <src.rf>manual</src.rf>
@@ -2755,17 +2744,7 @@
 <LM>w#w-ln94209-46-p4s8w18</LM>
 </w.rf>
 <form>adhocracii</form>
-<tag>
-<AM lemma="adhocracie" src="orig">NNFS3-----A----</AM>
-<AM lemma="adhocracie" src="auto">NNFS4-----A----</AM>
-<AM lemma="adhocracie" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="adhocracie" src="auto">NNFS6-----A----</AM>
-<AM lemma="adhocracie_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="adhocracie_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="adhocracie_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="adhocracia_;Y" src="auto">NNFS3-----A----</AM>
-<AM lemma="adhocracia-2_;R_^(vozidlo)" src="auto">NNFS4-----A----</AM>
-</tag>
+<tag lemma="adhocracie" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94209-46-p4s8w19">
 <src.rf>manual</src.rf>

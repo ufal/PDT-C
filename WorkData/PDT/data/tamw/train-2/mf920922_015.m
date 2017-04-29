@@ -4788,18 +4788,7 @@
 <LM>w#w-mf920922-015-p2s25w25</LM>
 </w.rf>
 <form>Trading</form>
-<tag>
-<AM lemma="Trading_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Trading_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Trading" src="auto">NNIS4-----A----</AM>
-<AM lemma="Trading_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Trading" src="auto">NNIS1-----A----</AM>
-<AM lemma="Trading_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Trading_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Trading_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Trading_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="trading" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Trading_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf920922-015-p2s25w26">
 <src.rf>manual</src.rf>

@@ -211,7 +211,6 @@
 <AM lemma="ČT_:B_;R_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="čt-2_:B_,x_^(čtvrtek)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="čt-2_:B_,x_^(čtvrtek)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="čt-2_:B_^(čtvrtek)" src="auto">NNIXX-----A---8</AM>
 </tag>
 </m>
@@ -1463,7 +1462,6 @@
 <AM lemma="ČT_:B_;R_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="čt-2_:B_,x_^(čtvrtek)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="čt-2_:B_,x_^(čtvrtek)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="čt-2_:B_^(čtvrtek)" src="auto">NNIXX-----A---8</AM>
 </tag>
 </m>

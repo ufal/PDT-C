@@ -621,26 +621,7 @@
 <LM>w#w-lnd94103-146-p1s5w9</LM>
 </w.rf>
 <form>ÚKP</form>
-<tag>
-<AM lemma="ÚKP_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ÚKP_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚKP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÚKP_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ÚKP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÚKP-1_:B_^(významný_krajinný_prvek)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚKP-1_:B_;K_^(Karlovarský_Porcelán)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚKP_:B_;K_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ÚKP_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Úkp-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Úkp" src="auto">NNIS1-----A----</AM>
-<AM lemma="Úkp" src="auto">NNIS4-----A----</AM>
-<AM lemma="Úkp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Úkp" src="auto">NNMS1-----A----</AM>
-<AM lemma="Úkp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Úkp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Úkpa" src="auto">NNFP2-----A----</AM>
-<AM lemma="úkp" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ÚKP_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-146-p1s5w10">
 <src.rf>manual</src.rf>
@@ -1111,26 +1092,7 @@
 <LM>w#w-lnd94103-146-p1s7w27</LM>
 </w.rf>
 <form>MVSR</form>
-<tag>
-<AM lemma="MVSR_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MVSR_:B_^(Jugoslávská_svazová_republika)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MVSR_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MVSR_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MVSR_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="MVSR_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MVSR_:B_;G_^(Svaz_sov._socialist._republik)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MVSR_:B_;G" src="auto">NNFSX-----A---8</AM>
-<AM lemma="MVSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Mvsr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mvsr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mvsr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mvsr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mvsr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mvsr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mvsra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mvsr_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="mvsr" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="MVSR_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-146-p1s7w28">
 <src.rf>manual</src.rf>

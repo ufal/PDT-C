@@ -361,25 +361,7 @@
 <LM>w#w-ln94205-77-p2s2w5</LM>
 </w.rf>
 <form>Lau</form>
-<tag>
-<AM lemma="Lau_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Lau_;S" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Lau_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lau_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Lau_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="au-2_,t_^(Lau-pair)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lao_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Lau_;m_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Lau_;S_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="lau_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lau_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="lau_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="au-2_,t_^(lau-pair)" src="auto">AAXXX----1A----</AM>
-<AM lemma="lao_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="lau_;m_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="lau_;S_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="lau_;S" src="auto">NNFXX-----A----</AM>
-</tag>
+<tag lemma="Lau_;S" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-77-p2s2w6">
 <src.rf>manual</src.rf>

@@ -795,18 +795,7 @@
 <LM>w#w-ln95048-034-p2s5w10</LM>
 </w.rf>
 <form>Crimpa</form>
-<tag>
-<AM lemma="Crimp_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Crimpa" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Crimpo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Crimpo" src="auto">NNNP4-----A----</AM>
-<AM lemma="Crimpo" src="auto">NNNP1-----A----</AM>
-<AM lemma="Crimp_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Crimpa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Crimpa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Crimp" src="auto">NNMS2-----A----</AM>
-<AM lemma="crimpa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Crimp_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-034-p2s5w11">
 <src.rf>manual</src.rf>
@@ -3479,18 +3468,7 @@
 <LM>w#w-ln95048-034-p3s14w32</LM>
 </w.rf>
 <form>Zemljanika</form>
-<tag>
-<AM lemma="Zemljanik_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Zemljanika" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zemljanik" src="auto">NNMS2-----A----</AM>
-<AM lemma="Zemljanik" src="auto">NNMS4-----A----</AM>
-<AM lemma="Zemljanik_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Zemljanika_^(věda)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zemljanika_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zemljanikum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Zemljanikum" src="auto">NNNP4-----A----</AM>
-<AM lemma="zemljanika" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Zemljanik_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-034-p3s14w33">
 <src.rf>manual</src.rf>
@@ -5567,24 +5545,7 @@
 <LM>w#w-ln95048-034-p4s7w6</LM>
 </w.rf>
 <form>WN</form>
-<tag>
-<AM lemma="WN_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="WN_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="WN_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Wn_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wn" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Wn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wn_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wn" src="auto">NNIS4-----A----</AM>
-<AM lemma="wn_;m_,t" src="auto">Db-------------</AM>
-<AM lemma="wn_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="wn_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="wn_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="wn_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="wn-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="wn" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="WN_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95048-034-p4s7w7">
 <src.rf>manual</src.rf>

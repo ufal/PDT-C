@@ -364,14 +364,7 @@
 <LM>w#w-lnd94103-062-p1s2w14</LM>
 </w.rf>
 <form>Branžeš</form>
-<tag>
-<AM lemma="Branžeš_;G" src="orig">NNFS4-----A----</AM>
-<AM lemma="Branzat" src="auto">VB-S---2P-AA---</AM>
-<AM lemma="Branžeš_;G" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Branžeš_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Branžout" src="auto">VB-S---2P-AA---</AM>
-<AM lemma="branžeš" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Branžeš_;G" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94103-062-p1s2w15">
 <src.rf>manual</src.rf>

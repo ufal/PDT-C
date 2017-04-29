@@ -263,18 +263,7 @@
 <LM>w#w-mf930709-059-p2s2w9</LM>
 </w.rf>
 <form>Pragma</form>
-<tag>
-<AM lemma="Pragma_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Pragma_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Pragma" src="auto">NNNS4-----A----</AM>
-<AM lemma="Pragma_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Pragma" src="auto">NNNS1-----A----</AM>
-<AM lemma="Pragma" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pragm_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pragma_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pragma_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="pragma" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pragma_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-059-p2s2w10">
 <src.rf>manual</src.rf>

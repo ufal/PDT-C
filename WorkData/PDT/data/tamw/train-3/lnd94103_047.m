@@ -181,18 +181,7 @@
 <LM>w#w-lnd94103-047-p1s1Bw18</LM>
 </w.rf>
 <form>Modeville</form>
-<tag>
-<AM lemma="Modeville_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Modeville_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Modeville_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Modeville_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Modeville_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Modevillo_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Modevilla_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Modevill_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Modeville_;m" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="modeville" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Modeville_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-047-p1s1Bw19">
 <src.rf>manual</src.rf>

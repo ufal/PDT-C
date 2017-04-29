@@ -53,17 +53,7 @@
 <LM>w#w-ln94203-8-p2s1w4</LM>
 </w.rf>
 <form>Petroleum</form>
-<tag>
-<AM lemma="Petroleum_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Petroleum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Petroleum" src="auto">NNNS1-----A----</AM>
-<AM lemma="Petroleus_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Petroleum_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Petroleum_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Petroleum_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Petroleum_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="petroleum" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Petroleum_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94203-8-p2s1w5">
 <src.rf>manual</src.rf>

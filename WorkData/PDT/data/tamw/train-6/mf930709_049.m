@@ -1744,16 +1744,7 @@
 <LM>w#w-mf930709-049-p2s7w11</LM>
 </w.rf>
 <form>odvolávači</form>
-<tag>
-<AM lemma="odvolávač" src="orig">NNMP1-----A----</AM>
-<AM lemma="odvolávač" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="odvolávač" src="auto">NNIP7-----A----</AM>
-<AM lemma="odvolávač" src="auto">NNMS3-----A----</AM>
-<AM lemma="odvolávač" src="auto">NNIS6-----A----</AM>
-<AM lemma="odvolávač" src="auto">NNMP7-----A----</AM>
-<AM lemma="odvolávača" src="auto">NNFP4-----A----</AM>
-<AM lemma="odvolávač_;G_;S" src="auto">NNFS6-----A----</AM>
-</tag>
+<tag lemma="odvolávač" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930709-049-p2s7w12">
 <src.rf>manual</src.rf>

@@ -4427,26 +4427,7 @@
 <LM>w#w-ln94204-2-p12s2w6</LM>
 </w.rf>
 <form>ČMaS</form>
-<tag>
-<AM lemma="ČMaS_:B_;K" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČMaS_:B_;K" src="auto" recommended="1">NNFPX-----A---8</AM>
-<AM lemma="ČMaS_:B_;K_;u_^(Film_&amp;_Sociologie)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČMaS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČMaS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČMaS_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČMaS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ČMaS_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČMaS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Čmas_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čmasa_^(velké_množství)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Čmas_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čmas_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="Čmas-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Čmas-2_;G_;K_;p" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čmas" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čmas" src="auto">NNIS1-----A----</AM>
-<AM lemma="čmas" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ČMaS_:B_;K" src="orig" selected="1">NNFPX-----A---8</tag>
 </m>
 <m id="m-ln94204-2-p12s2w7">
 <src.rf>manual</src.rf>
@@ -4502,19 +4483,7 @@
 <LM>w#w-ln94204-2-p12s2w13</LM>
 </w.rf>
 <form>FIABCI</form>
-<tag>
-<AM lemma="FIABCI_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="FIABCI_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Fiabce" src="auto">NNMP1-----A----</AM>
-<AM lemma="Fiabec" src="auto">NNMP1-----A----</AM>
-<AM lemma="Fiabce" src="auto">NNMP7-----A----</AM>
-<AM lemma="Fiabec" src="auto">NNMP7-----A----</AM>
-<AM lemma="Fiabce" src="auto">NNMS6-----A----</AM>
-<AM lemma="Fiabce" src="auto">NNMS3-----A----</AM>
-<AM lemma="Fiabec" src="auto">NNIS3-----A----</AM>
-<AM lemma="Fiabec" src="auto">NNFS6-----A----</AM>
-<AM lemma="fiabci" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FIABCI_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-2-p12s2w14">
 <src.rf>manual</src.rf>
@@ -4765,17 +4734,7 @@
 <LM>w#w-ln94204-2-p13s1Aw2</LM>
 </w.rf>
 <form>consult</form>
-<tag>
-<AM lemma="consult_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="consult_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="consult_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="consult_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="consult" src="auto">NNIS1-----A----</AM>
-<AM lemma="consulta" src="auto">NNFP2-----A----</AM>
-<AM lemma="consult_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="consult_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="consult_;K" src="auto">NNXXX-----A----</AM>
-</tag>
+<tag lemma="consult_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-2-p13s1Aw3">
 <src.rf>manual</src.rf>

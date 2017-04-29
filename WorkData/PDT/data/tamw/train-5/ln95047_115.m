@@ -1279,18 +1279,7 @@
 <LM>w#w-ln95047-115-p5s1w9</LM>
 </w.rf>
 <form>Mácy</form>
-<tag>
-<AM lemma="Máca_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Máca_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Mácy_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Mácy_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mácy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mácy_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Máca_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Mác_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Mácy_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="mácy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Máca_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-115-p5s1w10">
 <src.rf>manual</src.rf>

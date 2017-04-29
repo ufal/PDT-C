@@ -1443,17 +1443,7 @@
 <LM>w#w-ln94204-25-p5s2w13</LM>
 </w.rf>
 <form>Rios</form>
-<tag>
-<AM lemma="Rios_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Rios_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="Rios_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rios_;K_^(fotbalový_klub)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rios_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Rios_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Rios_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rios-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="rios" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rios_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-25-p5s2w14">
 <src.rf>manual</src.rf>

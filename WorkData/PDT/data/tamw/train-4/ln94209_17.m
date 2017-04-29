@@ -75,14 +75,7 @@
 <LM>w#w-ln94209-17-p1s1w8</LM>
 </w.rf>
 <form>Elbit</form>
-<tag>
-<AM lemma="Elbit_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Elbit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Elbit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Elbít" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Elbit_;m" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="elbit" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Elbit_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94209-17-p2s1A">
@@ -230,18 +223,7 @@
 <LM>w#w-ln94209-17-p2s1Bw13</LM>
 </w.rf>
 <form>Eagle</form>
-<tag>
-<AM lemma="Eagle_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Eagle_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Eagle_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Eagle_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Eagle-1_,t_^(angl._sám,_jeden,_jediný)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Eagle" src="auto">NNFS2-----A----</AM>
-<AM lemma="Eagle" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eagle" src="auto">NNFP4-----A----</AM>
-<AM lemma="Eagl" src="auto">NNMS2-----A----</AM>
-<AM lemma="eagle" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Eagle_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94209-17-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -385,14 +367,7 @@
 <LM>w#w-ln94209-17-p2s1Bw32</LM>
 </w.rf>
 <form>Elbit</form>
-<tag>
-<AM lemma="Elbit_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Elbit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Elbit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Elbít" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Elbit_;m" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="elbit" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Elbit_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94209-17-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -572,18 +547,7 @@
 <LM>w#w-ln94209-17-p3s2w5</LM>
 </w.rf>
 <form>Eagle</form>
-<tag>
-<AM lemma="Eagle_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Eagle_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Eagle_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Eagle_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Eagle-1_,t_^(angl._sám,_jeden,_jediný)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Eagle" src="auto">NNFS2-----A----</AM>
-<AM lemma="Eagle" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eagle" src="auto">NNFP4-----A----</AM>
-<AM lemma="Eagl" src="auto">NNMS2-----A----</AM>
-<AM lemma="eagle" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Eagle_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94209-17-p3s2w6">
 <src.rf>manual</src.rf>
@@ -679,14 +643,7 @@
 <LM>w#w-ln94209-17-p3s2w17</LM>
 </w.rf>
 <form>Elbit</form>
-<tag>
-<AM lemma="Elbit_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Elbit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Elbit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Elbít" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Elbit_;m" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="elbit" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Elbit_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94209-17-p3s2w18">
 <src.rf>manual</src.rf>
@@ -728,14 +685,7 @@
 <LM>w#w-ln94209-17-p3s3w1</LM>
 </w.rf>
 <form>Elbit</form>
-<tag>
-<AM lemma="Elbit_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Elbit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Elbit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Elbít" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Elbit_;m" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="elbit" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Elbit_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94209-17-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1561,17 +1511,7 @@
 <LM>w#w-ln94209-17-p3s8w8</LM>
 </w.rf>
 <form>Elbitu</form>
-<tag>
-<AM lemma="Elbit_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Elbita" src="auto">NNFS4-----A----</AM>
-<AM lemma="Elbit" src="auto">NNIS2-----A----</AM>
-<AM lemma="Elbit" src="auto">NNIS6-----A----</AM>
-<AM lemma="Elbit" src="auto">NNIS3-----A----</AM>
-<AM lemma="Elbit_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Elbit_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Elbit" src="auto">NNIS6-----A---1</AM>
-<AM lemma="elbitu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Elbit_;K" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94209-17-p3s8w9">
 <src.rf>manual</src.rf>
@@ -1869,17 +1809,7 @@
 <LM>w#w-ln94209-17-p3s9w32</LM>
 </w.rf>
 <form>Elbitu</form>
-<tag>
-<AM lemma="Elbit_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Elbita" src="auto">NNFS4-----A----</AM>
-<AM lemma="Elbit" src="auto">NNIS2-----A----</AM>
-<AM lemma="Elbit" src="auto">NNIS6-----A----</AM>
-<AM lemma="Elbit" src="auto">NNIS3-----A----</AM>
-<AM lemma="Elbit_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Elbit_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Elbit" src="auto">NNIS6-----A---1</AM>
-<AM lemma="elbitu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Elbit_;K" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94209-17-p3s9w33">
 <src.rf>manual</src.rf>

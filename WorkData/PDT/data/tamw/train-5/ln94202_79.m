@@ -720,18 +720,7 @@
 <LM>w#w-ln94202-79-p3s2w8</LM>
 </w.rf>
 <form>Dowd</form>
-<tag>
-<AM lemma="Dowd_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dowd_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dowd" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dowd" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dowda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Dowd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dowd_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dowd_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Dowd" src="auto">NNMS1-----A----</AM>
-<AM lemma="dowd" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dowd_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-79-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1634,18 +1623,7 @@
 <LM>w#w-ln94202-79-p4s2w3</LM>
 </w.rf>
 <form>Dowd</form>
-<tag>
-<AM lemma="Dowd_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dowd_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dowd" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dowd" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dowda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Dowd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dowd_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dowd_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Dowd" src="auto">NNMS1-----A----</AM>
-<AM lemma="dowd" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dowd_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-79-p4s2w4">
 <src.rf>manual</src.rf>
@@ -4378,16 +4356,7 @@
 <LM>w#w-ln94202-79-p6s10w20</LM>
 </w.rf>
 <form>loyalistům</form>
-<tag>
-<AM lemma="loyalista" src="orig">NNMP3-----A----</AM>
-<AM lemma="loyalista" src="auto" recommended="1">NNMP3-----A----</AM>
-<AM lemma="loyalist" src="auto">NNMP3-----A----</AM>
-<AM lemma="loyalist" src="auto">NNIP3-----A----</AM>
-<AM lemma="loyalisto" src="auto">NNNP3-----A----</AM>
-<AM lemma="loyalist_;E" src="auto">NNMP3-----A----</AM>
-<AM lemma="loyaliset" src="auto">NNIP3-----A----</AM>
-<AM lemma="loyalis" src="auto">NNNP3-----A----</AM>
-</tag>
+<tag lemma="loyalista" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln94202-79-p6s10w21">
 <src.rf>manual</src.rf>

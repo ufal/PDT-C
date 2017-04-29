@@ -758,33 +758,7 @@
 <LM>w#w-ln94203-15-p3s1w26</LM>
 </w.rf>
 <form>RSU</form>
-<tag>
-<AM lemma="RSU_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="RSU_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="RS_:B_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="RSU_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="RSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="RSU_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="RSU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RSU_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="Rs" src="auto">NNIS2-----A----</AM>
-<AM lemma="Rs" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Rs" src="auto">NNIS3-----A----</AM>
-<AM lemma="Rs" src="auto">NNIS6-----A----</AM>
-<AM lemma="Rsa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Rs_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Rs_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Rs_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="rs" src="auto">NNIS2-----A----</AM>
-<AM lemma="rs_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="rs_^(úpadek;;soutěž)" src="auto">NNIS6-----A---1</AM>
-<AM lemma="rs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
-<AM lemma="rs_;K" src="auto">NNIS6-----A----</AM>
-<AM lemma="rs" src="auto">NNIS6-----A---1</AM>
-<AM lemma="rs" src="auto">NNIS3-----A----</AM>
-<AM lemma="rsu" src="auto">NNXXX-----A----</AM>
-</tag>
+<tag lemma="RSU_:B" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94203-15-p3s1w27">
 <src.rf>manual</src.rf>

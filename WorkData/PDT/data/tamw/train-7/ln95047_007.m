@@ -29,21 +29,7 @@
 <LM>w#w-ln95047-007-p2s1w1</LM>
 </w.rf>
 <form>FMN</form>
-<tag>
-<AM lemma="FNM_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FNM_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="FMN_:B_;K_^(firma_Martina_Navrátilová)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FMN_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FMN_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Fmnoho-1_:B_,a" src="auto">Ca--X---------8</AM>
-<AM lemma="Fmn-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Fmn_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fmn" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fmna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Fmn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fmn_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="fmn" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FNM_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln95047-007-p2s1w2">
 <src.rf>manual</src.rf>

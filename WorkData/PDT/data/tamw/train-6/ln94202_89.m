@@ -1371,18 +1371,7 @@
 <LM>w#w-ln94202-89-p3s4w5</LM>
 </w.rf>
 <form>Poemes</form>
-<tag>
-<AM lemma="poeme_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Poeme_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Poeme_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Poeme_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Poemes_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Poemes_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Poemes_;m_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Poemes)" src="auto">NNIPX-----A----</AM>
-<AM lemma="poemes" src="auto">NNMS1-----A----</AM>
-<AM lemma="poemesa_;L_^(izolovaná_plošina)" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="poeme_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94202-89-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1430,18 +1419,7 @@
 <LM>w#w-ln94202-89-p3s4w10</LM>
 </w.rf>
 <form>Editions</form>
-<tag>
-<AM lemma="Edition_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Edition_;K_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Edition_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Editions_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Edition_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Editions_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Edition_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Edition_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Edition_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="editions" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Edition_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94202-89-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1471,18 +1449,7 @@
 <LM>w#w-ln94202-89-p3s4w13</LM>
 </w.rf>
 <form>Différence</form>
-<tag>
-<AM lemma="Différence_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Différence" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Différence" src="auto">NNFS2-----A----</AM>
-<AM lemma="Différence" src="auto">NNFP1-----A----</AM>
-<AM lemma="Différenec" src="auto">NNMP4-----A----</AM>
-<AM lemma="Différenka" src="auto">NNFS6-----A----</AM>
-<AM lemma="Différenka" src="auto">NNFS3-----A----</AM>
-<AM lemma="Différence" src="auto">NNFP4-----A----</AM>
-<AM lemma="Différenec" src="auto">NNMS2-----A----</AM>
-<AM lemma="différence" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Différence_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-89-p3s4w14">
 <src.rf>manual</src.rf>

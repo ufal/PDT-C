@@ -125,22 +125,7 @@
 <LM>w#w-ln94204-76-p2s1Aw11</LM>
 </w.rf>
 <form>CERGE</form>
-<tag>
-<AM lemma="CERGE_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CERGE-1_:B_;K_,t_^(General_Electric_Company)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="CERGE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="CERGE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CERGE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="Cerge_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Cerge_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cerge_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="cerge" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="CERGE_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 </s>
 <s id="m-ln94204-76-p2s1B">
@@ -3587,24 +3572,7 @@
 <LM>w#w-ln94204-76-p5s5w13</LM>
 </w.rf>
 <form>XY</form>
-<tag>
-<AM lemma="XY_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="XY_:B_;S" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Xa" src="auto">NNFS2-----A----</AM>
-<AM lemma="Xa" src="auto">NNFP1-----A----</AM>
-<AM lemma="X" src="auto">NNIP1-----A----</AM>
-<AM lemma="X" src="auto">NNIP4-----A----</AM>
-<AM lemma="Xa" src="auto">NNFP4-----A----</AM>
-<AM lemma="X" src="auto">NNIP7-----A----</AM>
-<AM lemma="x" src="auto">NNIP1-----A----</AM>
-<AM lemma="x" src="auto">NNIP4-----A----</AM>
-<AM lemma="xa_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="x" src="auto">NNIP7-----A----</AM>
-<AM lemma="xy" src="auto">A2--------A----</AM>
-<AM lemma="xa" src="auto">NNFS2-----A----</AM>
-<AM lemma="xa" src="auto">NNFP1-----A----</AM>
-<AM lemma="xy_;m_^(klub)" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="XY_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
 </m>
 <m id="m-ln94204-76-p5s5w14">
 <src.rf>manual</src.rf>

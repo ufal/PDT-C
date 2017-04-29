@@ -401,18 +401,7 @@
 <LM>w#w-mf920922-013-p2s3w11</LM>
 </w.rf>
 <form>XJ</form>
-<tag>
-<AM lemma="XJ" src="orig">NNXXX-----A---8</AM>
-<AM lemma="J-1`joul_:B_^(joul,_XJoule)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Xj" src="auto">NNIS1-----A----</AM>
-<AM lemma="Xj" src="auto">NNIS4-----A----</AM>
-<AM lemma="Xj_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Xj_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Xj" src="auto">NNFS4-----A----</AM>
-<AM lemma="Xj" src="auto">NNFS1-----A----</AM>
-<AM lemma="Xj-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="xj" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="XJ" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920922-013-p2s3w12">
 <src.rf>manual</src.rf>
@@ -940,19 +929,7 @@
 <LM>w#w-mf920922-013-p2s7w9</LM>
 </w.rf>
 <form>Edizione</form>
-<tag>
-<AM lemma="Edizione_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Edizione_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Edizione_;R" src="auto" recommended="1">NNXSX-----A----</AM>
-<AM lemma="Edizione_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Edizione_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Edizione_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Edizione_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Edizione`1_,t" src="auto">ClXSX----------</AM>
-<AM lemma="Edizionout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="edizion" src="auto">NNIS5-----A----</AM>
-<AM lemma="edizione" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Edizione_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920922-013-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1252,18 +1229,7 @@
 <LM>w#w-mf920922-013-p2s9w14</LM>
 </w.rf>
 <form>Colours</form>
-<tag>
-<AM lemma="Colour_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Colours" src="auto">NNIS1-----A----</AM>
-<AM lemma="Coloursovní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Colours_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Colours_^(úpadek;;soutěž)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Colours_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Colours_;S" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Colours_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Colours_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="colours" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Colour_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-mf920922-013-p2s9w15">
 <src.rf>manual</src.rf>

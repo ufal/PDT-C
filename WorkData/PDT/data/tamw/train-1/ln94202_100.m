@@ -999,18 +999,7 @@
 <LM>w#w-ln94202-100-p2s5w22</LM>
 </w.rf>
 <form>Meadow</form>
-<tag>
-<AM lemma="Meadow_;G_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Meadow_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Meadow_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Meadow_;G_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Meadow_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Meadow_;G" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Meadow_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Meadow" src="auto">NNFXX-----A----</AM>
-<AM lemma="know_,t_^(Meadow_how)" src="auto">NNNXX-----A----</AM>
-<AM lemma="meadow" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Meadow_;G_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-100-p2s5w23">
 <src.rf>manual</src.rf>

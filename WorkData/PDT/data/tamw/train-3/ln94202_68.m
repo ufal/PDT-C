@@ -563,23 +563,7 @@
 <LM>w#w-ln94202-68-p3s1w6</LM>
 </w.rf>
 <form>PNAC</form>
-<tag>
-<AM lemma="PNAC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="PNAC_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="AC-1_:B_;K_;w_^(př._PNAC_Sparta_Praha)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PNAC_:B_;K_,t_^(Vojenská_komise_pro_příměří_v_Koreji)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PNAC_:B_;K_,t_^(Vojenská_komise_pro_příměří_v_Koreji)" src="auto">NNFXX-----A----</AM>
-<AM lemma="PNAC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PNAC_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Pnac_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pnac_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mac_;S_^(PnacIntosh)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pnac_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pnac_;R_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Pnac_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pnac_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="pnac" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="PNAC_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-68-p3s1w7">
 <src.rf>manual</src.rf>
@@ -693,23 +677,7 @@
 <LM>w#w-ln94202-68-p4s1w7</LM>
 </w.rf>
 <form>PNAC</form>
-<tag>
-<AM lemma="PNAC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="PNAC_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="AC-1_:B_;K_;w_^(př._PNAC_Sparta_Praha)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PNAC_:B_;K_,t_^(Vojenská_komise_pro_příměří_v_Koreji)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PNAC_:B_;K_,t_^(Vojenská_komise_pro_příměří_v_Koreji)" src="auto">NNFXX-----A----</AM>
-<AM lemma="PNAC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PNAC_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Pnac_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pnac_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mac_;S_^(PnacIntosh)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pnac_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pnac_;R_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Pnac_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pnac_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="pnac" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="PNAC_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-68-p4s1w8">
 <src.rf>manual</src.rf>
@@ -813,18 +781,7 @@
 <LM>w#w-ln94202-68-p4s1w20</LM>
 </w.rf>
 <form>Ramla</form>
-<tag>
-<AM lemma="Ramla_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Raml_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Raml_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ramnout_:W" src="auto">VpQW---XR-AA--1</AM>
-<AM lemma="Raml" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ramla_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Ramt_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Ramt_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Ramt" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="ramla" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ramla_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-68-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1667,18 +1624,7 @@
 <LM>w#w-ln94202-68-p5s4w4</LM>
 </w.rf>
 <form>Eliakim</form>
-<tag>
-<AM lemma="Eliakim_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eliakim_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Eliakim_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eliaki_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Eliakim_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eliakim" src="auto">NNIS4-----A----</AM>
-<AM lemma="Eliakim" src="auto">NNIS1-----A----</AM>
-<AM lemma="Eliakimum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Eliakim_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="eliakim" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Eliakim_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-68-p5s4w5">
 <src.rf>manual</src.rf>

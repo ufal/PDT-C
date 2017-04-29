@@ -117,17 +117,7 @@
 <LM>w#w-lnd94103-015-p1s2w12</LM>
 </w.rf>
 <form>hrrr</form>
-<tag>
-<AM lemma="hrrr" src="orig">II-------------</AM>
-<AM lemma="hrrr" src="auto" recommended="1">II-------------</AM>
-<AM lemma="hrrr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="hrrr_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="hrrr" src="auto">NNIS1-----A----</AM>
-<AM lemma="hrrr" src="auto">NNIS4-----A----</AM>
-<AM lemma="hrrr" src="auto">NNMS1-----A----</AM>
-<AM lemma="hrrr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="hrrr_;G" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="hrrr" src="orig" selected="1">II-------------</tag>
 </m>
 <m id="m-lnd94103-015-p1s2w13">
 <src.rf>manual</src.rf>

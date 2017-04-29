@@ -4177,26 +4177,7 @@
 <LM>w#w-cmpr9410-017-p15s1w5</LM>
 </w.rf>
 <form>MSF</form>
-<tag>
-<AM lemma="MSF_:B_;K_^(Manažerský_svazový_fond)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MSF_:B_;K_^(Manažerský_svazový_fond)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="MSF-5_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MSF-2_:B_;K_,t_^(port._rádio)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MSF-1_:B_;K_,t_^(National_Science_Foundation)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MSF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MSF_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MSF_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MSF_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Msf-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Msf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Msf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Msf" src="auto">NNIS4-----A----</AM>
-<AM lemma="Msf" src="auto">NNIS1-----A----</AM>
-<AM lemma="Msf_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Msf" src="auto">NNMS1-----A----</AM>
-<AM lemma="Msf_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="msf" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="MSF_:B_;K_^(Manažerský_svazový_fond)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 </s>
 <s id="m-cmpr9410-017-p17s1">

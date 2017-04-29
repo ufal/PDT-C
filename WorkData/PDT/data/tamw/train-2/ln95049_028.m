@@ -118,18 +118,7 @@
 <LM>w#w-ln95049-028-p2s1w10</LM>
 </w.rf>
 <form>Regalados</form>
-<tag>
-<AM lemma="Regalados_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Regalados_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Regalado_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Regalado" src="auto">PZM-1---------1</AM>
-<AM lemma="Regalados_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Regalados_;S_,t" src="auto">RR--X----------</AM>
-<AM lemma="Regalados_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Regalados_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Regalados-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="regalados" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Regalados_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95049-028-p2s1w11">
 <src.rf>manual</src.rf>

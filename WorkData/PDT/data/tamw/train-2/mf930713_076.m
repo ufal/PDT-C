@@ -461,20 +461,7 @@
 <LM>w#w-mf930713-076-p3s2w5</LM>
 </w.rf>
 <form>viva</form>
-<tag>
-<AM lemma="viva_,t" src="orig">TT-------------</AM>
-<AM lemma="viva" src="auto">Db-------------</AM>
-<AM lemma="viva" src="auto">NNFS1-----A----</AM>
-<AM lemma="viva-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="viva-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="viva_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="vivakciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="vivo" src="auto">NNNP1-----A----</AM>
-<AM lemma="vivo" src="auto">NNNP4-----A----</AM>
-<AM lemma="vivo" src="auto">NNNS2-----A----</AM>
-<AM lemma="vivum" src="auto">NNNP4-----A----</AM>
-<AM lemma="vívum" src="auto">NNNP4-----A----</AM>
-</tag>
+<tag lemma="viva_,t" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930713-076-p3s2w6">
 <src.rf>manual</src.rf>
@@ -522,17 +509,7 @@
 <LM>w#w-mf930713-076-p3s2w11</LM>
 </w.rf>
 <form>Katlehong</form>
-<tag>
-<AM lemma="Katlehong_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Katlehong_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Katlehong_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Katlehong_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Katlehong-2_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Katlehong" src="auto">NNIS1-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-Katlehong)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Long-1_;G_,t_^(Katlehong_Island_apod.)" src="auto">AAXXX----1A----</AM>
-<AM lemma="katlehong" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Katlehong_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-076-p3s2w12">
 <src.rf>manual</src.rf>
@@ -958,17 +935,7 @@
 <LM>w#w-mf930713-076-p4s1w6</LM>
 </w.rf>
 <form>Katlehong</form>
-<tag>
-<AM lemma="Katlehong_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Katlehong_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Katlehong_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Katlehong_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Katlehong-2_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Katlehong" src="auto">NNIS1-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-Katlehong)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Long-1_;G_,t_^(Katlehong_Island_apod.)" src="auto">AAXXX----1A----</AM>
-<AM lemma="katlehong" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Katlehong_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-076-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1240,18 +1207,7 @@
 <LM>w#w-mf930713-076-p4s1w40</LM>
 </w.rf>
 <form>Mkhondo</form>
-<tag>
-<AM lemma="Mkhondo_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mkhondo_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mkhondo" src="auto">NNNS4-----A----</AM>
-<AM lemma="Mkhondo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Mkhondo_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mkhondo_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mkhondo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mkhondo_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mkhondo_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="mkhondo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mkhondo_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-076-p4s1w41">
 <src.rf>manual</src.rf>
@@ -1391,18 +1347,7 @@
 <LM>w#w-mf930713-076-p5s1w2</LM>
 </w.rf>
 <form>Katlehongu</form>
-<tag>
-<AM lemma="Katlehong_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Katlehong" src="auto">NNIS2-----A----</AM>
-<AM lemma="Katlehong" src="auto">NNIS6-----A----</AM>
-<AM lemma="Katlehong_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Katlehong_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Katlehong_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Katlehong_,t" src="auto">NNIS2-----A----</AM>
-<AM lemma="Katlehong_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-Katlehong)" src="auto">NNIS6-----A----</AM>
-<AM lemma="katlehongu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Katlehong_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930713-076-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1426,17 +1371,7 @@
 <LM>w#w-mf930713-076-p5s1w5</LM>
 </w.rf>
 <form>Thokoze</form>
-<tag>
-<AM lemma="Thokoza_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Thokoha" src="auto">NNFS6-----A----</AM>
-<AM lemma="Thokoha" src="auto">NNFS3-----A----</AM>
-<AM lemma="Thokoz" src="auto">NNIS6-----A----</AM>
-<AM lemma="Thokoze" src="auto">NNFS1-----A----</AM>
-<AM lemma="Thokosa" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Thokoha_^(v_obchodě,_reklamní,...)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Thokoga" src="auto">NNFS6-----A----</AM>
-<AM lemma="thokoze" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Thokoza_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-076-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1980,18 +1915,7 @@
 <LM>w#w-mf930713-076-p5s4w42</LM>
 </w.rf>
 <form>Mkhondo</form>
-<tag>
-<AM lemma="Mkhondo_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mkhondo_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mkhondo" src="auto">NNNS4-----A----</AM>
-<AM lemma="Mkhondo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Mkhondo_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mkhondo_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mkhondo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mkhondo_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mkhondo_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="mkhondo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mkhondo_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-076-p5s4w43">
 <src.rf>manual</src.rf>
@@ -2207,18 +2131,7 @@
 <LM>w#w-mf930713-076-p5s7w7</LM>
 </w.rf>
 <form>Mkhondo</form>
-<tag>
-<AM lemma="Mkhondo_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mkhondo_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mkhondo" src="auto">NNNS4-----A----</AM>
-<AM lemma="Mkhondo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Mkhondo_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mkhondo_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mkhondo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mkhondo_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mkhondo_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="mkhondo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mkhondo_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-076-p5s7w8">
 <src.rf>manual</src.rf>

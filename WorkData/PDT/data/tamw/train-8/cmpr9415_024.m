@@ -843,18 +843,7 @@
 <LM>w#w-cmpr9415-024-p6s3w14</LM>
 </w.rf>
 <form>Bialsko</form>
-<tag>
-<AM lemma="Bialsko_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Bialsko_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Bialský" src="auto">A2--------A----</AM>
-<AM lemma="Bialsko_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="Bialsko" src="auto">NNNS1-----A----</AM>
-<AM lemma="Bialsko" src="auto">NNNS4-----A----</AM>
-<AM lemma="Bialský_;K" src="auto">A2--------A----</AM>
-<AM lemma="Bialsko_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bialsko_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="bialsko" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bialsko_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-024-p6s3w15">
 <src.rf>manual</src.rf>

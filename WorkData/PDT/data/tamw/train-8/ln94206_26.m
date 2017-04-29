@@ -305,17 +305,7 @@
 <LM>w#w-ln94206-26-p2s2Aw6</LM>
 </w.rf>
 <form>Mahnela</form>
-<tag>
-<AM lemma="Mahnel_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Mahnet_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Mahnet" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Mahnel_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Mahnel_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mahnela_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mahnela" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mahnít" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="mahnela" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mahnel_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-26-p2s2Aw7">
 <src.rf>manual</src.rf>

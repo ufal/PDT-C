@@ -231,18 +231,7 @@
 <LM>w#w-mf920925-057-p2s2w4</LM>
 </w.rf>
 <form>Oelmana</form>
-<tag>
-<AM lemma="Oelman_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Oelman_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Oelman_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Oelman_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Oelman_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Oelman" src="auto">NNMS4-----A----</AM>
-<AM lemma="Oelman" src="auto">NNMS2-----A----</AM>
-<AM lemma="Oelmana" src="auto">NNFS1-----A----</AM>
-<AM lemma="Oelman_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="oelmana" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Oelman_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920925-057-p2s2w5">
 <src.rf>manual</src.rf>

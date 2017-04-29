@@ -93,18 +93,7 @@
 <LM>w#w-ln94200-98-p2s1w9</LM>
 </w.rf>
 <form>Ostrowek</form>
-<tag>
-<AM lemma="Ostrowek_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Ostrowek_;R_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Ostrowek_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ostrowka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ostrowek" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ostrowek" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ostrowek" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ostrowka_^(*2)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ostrowko" src="auto">NNNP2-----A----</AM>
-<AM lemma="ostrowek" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ostrowek_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-98-p2s1w10">
 <src.rf>manual</src.rf>

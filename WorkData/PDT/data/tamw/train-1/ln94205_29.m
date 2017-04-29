@@ -115,14 +115,7 @@
 <LM>w#w-ln94205-29-p1s1w13</LM>
 </w.rf>
 <form>Treptowském</form>
-<tag>
-<AM lemma="Treptowský_;G" src="orig">AAIS6----1A----</AM>
-<AM lemma="Treptowský" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="Treptowský" src="auto">AANS6----1A----</AM>
-<AM lemma="Treptowský" src="auto">AAMS6----1A----</AM>
-<AM lemma="Treptowský_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="treptowském" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Treptowský_;G" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-ln94205-29-p1s1w14">
 <src.rf>manual</src.rf>

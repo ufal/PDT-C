@@ -1022,12 +1022,7 @@
 <LM>w#w-ln94202-92-p3s3w33</LM>
 </w.rf>
 <form>Clavijo</form>
-<tag>
-<AM lemma="Clavijo_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Clavijo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Clavijo_,h" src="auto">TT-------------</AM>
-<AM lemma="clavijo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Clavijo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-92-p3s3w34">
 <src.rf>manual</src.rf>
@@ -3656,18 +3651,7 @@
 <LM>w#w-ln94202-92-p6s6w2</LM>
 </w.rf>
 <form>ola</form>
-<tag>
-<AM lemma="ola-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ol-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ol_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ol_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="ola" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="ola" src="auto">NNFS1-----A----</AM>
-<AM lemma="ola-2_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ola_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ola_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="olo" src="auto">NNNS2-----A----</AM>
-</tag>
+<tag lemma="ola-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-92-p6s6w3">
 <src.rf>manual</src.rf>

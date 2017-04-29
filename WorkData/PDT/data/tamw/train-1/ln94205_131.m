@@ -2655,25 +2655,7 @@
 <LM>w#w-ln94205-131-p8s1w5</LM>
 </w.rf>
 <form>Ozem</form>
-<tag>
-<AM lemma="Oz_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Os" src="auto">NNIS7-----A----</AM>
-<AM lemma="Oz" src="auto">NNIS7-----A----</AM>
-<AM lemma="Oz" src="auto">NNMS7-----A----</AM>
-<AM lemma="Oz_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Oz_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Oz_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Ozo" src="auto">NNNS7-----A----</AM>
-<AM lemma="ozem" src="auto">NNMS1-----A----</AM>
-<AM lemma="ozem-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ozem-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ozemetr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ozeminuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ozemo-1_,h_,l_^(styl)" src="auto">NNNP2-----A----</AM>
-<AM lemma="ozemě" src="auto">NNFS1-----A---1</AM>
-<AM lemma="ozemě" src="auto">NNFS4-----A---1</AM>
-<AM lemma="ozeměsto_:B" src="auto">NNNXX-----A---8</AM>
-</tag>
+<tag lemma="Oz_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-131-p8s1w6">
 <src.rf>manual</src.rf>

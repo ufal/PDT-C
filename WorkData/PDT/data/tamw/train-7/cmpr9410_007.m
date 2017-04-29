@@ -509,18 +509,7 @@
 <LM>w#w-cmpr9410-007-p5s1w2</LM>
 </w.rf>
 <form>Arnau</form>
-<tag>
-<AM lemma="Arnau_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Arnau_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Arnau_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Arnau_;G_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Arnau_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="au-2_,t_^(Arnau-pair)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Arnao_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Arnau_;m_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Arnau_;S_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="arnau" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Arnau_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-007-p5s1w3">
 <src.rf>manual</src.rf>

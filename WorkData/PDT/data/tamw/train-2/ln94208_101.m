@@ -313,18 +313,7 @@
 <LM>w#w-ln94208-101-p2s1Cw17</LM>
 </w.rf>
 <form>Woodbridgem</form>
-<tag>
-<AM lemma="Woodbridge_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Woodbridg" src="auto">NNIS7-----A----</AM>
-<AM lemma="Woodbridg_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Woodbridg_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Woodbridg" src="auto">NNMS7-----A----</AM>
-<AM lemma="Woodbridge_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Woodbridgo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Woodbridg_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Woodbridge_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="woodbridgem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Woodbridge_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94208-101-p2s1Cw18">
 <src.rf>manual</src.rf>
@@ -1416,18 +1405,7 @@
 <LM>w#w-ln94208-101-p3s1w13</LM>
 </w.rf>
 <form>Woodbridgem</form>
-<tag>
-<AM lemma="Woodbridge_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Woodbridg" src="auto">NNIS7-----A----</AM>
-<AM lemma="Woodbridg_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Woodbridg_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Woodbridg" src="auto">NNMS7-----A----</AM>
-<AM lemma="Woodbridge_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Woodbridgo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Woodbridg_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Woodbridge_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="woodbridgem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Woodbridge_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94208-101-p3s1w14">
 <src.rf>manual</src.rf>
@@ -2430,18 +2408,7 @@
 <LM>w#w-ln94208-101-p4s3w22</LM>
 </w.rf>
 <form>Woodbridgovým</form>
-<tag>
-<AM lemma="Woodbridgův_;S_^(*2e)" src="orig">AUIP3M---------</AM>
-<AM lemma="Woodbridgový" src="auto">AAIS7----1A----</AM>
-<AM lemma="Woodbridgový" src="auto">AANS7----1A----</AM>
-<AM lemma="Woodbridgový" src="auto">AAFP3----1A----</AM>
-<AM lemma="Woodbridgový" src="auto" recommended="1">AAIP3----1A----</AM>
-<AM lemma="Woodbridgový" src="auto">AAMP3----1A----</AM>
-<AM lemma="Woodbridgový" src="auto">AAMS7----1A----</AM>
-<AM lemma="Woodbridgův_;S_^(*2)" src="auto">AUIS7M---------</AM>
-<AM lemma="Woodbridgový" src="auto">AANP3----1A----</AM>
-<AM lemma="woodbridgovým" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Woodbridgův_;S_^(*2e)" src="orig" selected="1">AUIP3M---------</tag>
 </m>
 <m id="m-ln94208-101-p4s3w23">
 <src.rf>manual</src.rf>
@@ -6972,18 +6939,7 @@
 <LM>w#w-ln94208-101-p6s2w27</LM>
 </w.rf>
 <form>Gaudenzi</form>
-<tag>
-<AM lemma="Gaudenzi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gaudenze" src="auto">NNFS4-----A----</AM>
-<AM lemma="Gaudenze" src="auto">NNFS6-----A----</AM>
-<AM lemma="Gaudenze" src="auto">NNFS3-----A----</AM>
-<AM lemma="Gaudenz_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Gaudenz" src="auto">NNMP7-----A----</AM>
-<AM lemma="Gaudenz" src="auto">NNMP1-----A----</AM>
-<AM lemma="Gaudenzi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gaudenh" src="auto">NNMP1-----A----</AM>
-<AM lemma="gaudenzi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gaudenzi_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-101-p6s2w28">
 <src.rf>manual</src.rf>
@@ -7129,18 +7085,7 @@
 <LM>w#w-ln94208-101-p6s3w7</LM>
 </w.rf>
 <form>Gaudenzi</form>
-<tag>
-<AM lemma="Gaudenzi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gaudenze" src="auto">NNFS4-----A----</AM>
-<AM lemma="Gaudenze" src="auto">NNFS6-----A----</AM>
-<AM lemma="Gaudenze" src="auto">NNFS3-----A----</AM>
-<AM lemma="Gaudenz_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Gaudenz" src="auto">NNMP7-----A----</AM>
-<AM lemma="Gaudenz" src="auto">NNMP1-----A----</AM>
-<AM lemma="Gaudenzi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gaudenh" src="auto">NNMP1-----A----</AM>
-<AM lemma="gaudenzi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gaudenzi_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-101-p6s3w8">
 <src.rf>manual</src.rf>
@@ -7360,18 +7305,7 @@
 <LM>w#w-ln94208-101-p6s3w34</LM>
 </w.rf>
 <form>Renzenbrinkem</form>
-<tag>
-<AM lemma="Renzenbrink_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Renzenbrink" src="auto">NNIS7-----A----</AM>
-<AM lemma="Renzenbrinek" src="auto">NNIS7-----A----</AM>
-<AM lemma="Renzenbrink" src="auto">NNMS7-----A----</AM>
-<AM lemma="Renzenbrink_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Renzenbrinek_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Renzenbrinko_;G" src="auto">NNNS7-----A----</AM>
-<AM lemma="Renzenbrinko" src="auto">NNNS7-----A----</AM>
-<AM lemma="Renzenbrinek" src="auto">NNMS7-----A----</AM>
-<AM lemma="renzenbrinkem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Renzenbrink_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94208-101-p6s3w35">
 <src.rf>manual</src.rf>

@@ -462,17 +462,7 @@
 <LM>w#w-ln94207-57-p3s1w14</LM>
 </w.rf>
 <form>Giardiniho</form>
-<tag>
-<AM lemma="Giardini_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Giardini_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Giardini_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Giardini_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Giardini_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Giardini_;m" src="auto">NNMS2-----A----</AM>
-<AM lemma="Giardini_;S_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Giardini-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="giardiniho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Giardini_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94207-57-p3s1w15">
 <src.rf>manual</src.rf>

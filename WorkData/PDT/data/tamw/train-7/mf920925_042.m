@@ -400,18 +400,7 @@
 <LM>w#w-mf920925-042-p2s3w7</LM>
 </w.rf>
 <form>Solchaga</form>
-<tag>
-<AM lemma="Solchaga_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Solchaga_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Solchago_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Solchago_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Solchago_;K" src="auto">NNNS2-----A----</AM>
-<AM lemma="Solchago_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Solchag_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Solchaga_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Solchaga_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="solchaga" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Solchaga_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-042-p2s3w8">
 <src.rf>manual</src.rf>

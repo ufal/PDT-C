@@ -27,18 +27,7 @@
 <LM>w#w-mf930713-137-p1s1w2</LM>
 </w.rf>
 <form>Interpespenziónu</form>
-<tag>
-<AM lemma="Interpespenzión_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Interpespenzión" src="auto">NNIS2-----A----</AM>
-<AM lemma="Interpespenzión" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Interpespenzión" src="auto">NNIS6-----A----</AM>
-<AM lemma="Interpespenzióna" src="auto">NNFS4-----A----</AM>
-<AM lemma="Interpespenzion" src="auto">NNIS2-----A----</AM>
-<AM lemma="Interpespenzión`1000000" src="auto">NNIS3-----A----</AM>
-<AM lemma="Interpespenzión`1000000" src="auto">NNIS2-----A----</AM>
-<AM lemma="Interpespenzión_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="interpespenziónu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Interpespenzión_;K" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-137-p1s1w3">
 <src.rf>manual</src.rf>
@@ -360,18 +349,7 @@
 <LM>w#w-mf930713-137-p2s2w13</LM>
 </w.rf>
 <form>Interpespenziónu</form>
-<tag>
-<AM lemma="Interpespenzión_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Interpespenzión" src="auto">NNIS2-----A----</AM>
-<AM lemma="Interpespenzión" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Interpespenzión" src="auto">NNIS6-----A----</AM>
-<AM lemma="Interpespenzióna" src="auto">NNFS4-----A----</AM>
-<AM lemma="Interpespenzion" src="auto">NNIS2-----A----</AM>
-<AM lemma="Interpespenzión`1000000" src="auto">NNIS3-----A----</AM>
-<AM lemma="Interpespenzión`1000000" src="auto">NNIS2-----A----</AM>
-<AM lemma="Interpespenzión_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="interpespenziónu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Interpespenzión_;K" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-137-p2s2w14">
 <src.rf>manual</src.rf>
@@ -1127,18 +1105,7 @@
 <LM>w#w-mf930713-137-p2s9w5</LM>
 </w.rf>
 <form>Interpespenzión</form>
-<tag>
-<AM lemma="Interpespenzión_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Interpespenzión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Interpespenzión" src="auto">NNIS1-----A----</AM>
-<AM lemma="Interpespenzión`1000000" src="auto">NNIS4-----A----</AM>
-<AM lemma="Interpespenzión`1000000" src="auto">NNIS1-----A----</AM>
-<AM lemma="Interpespenzión_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Interpespenzión_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Interpespenzión_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Interpespenzióna" src="auto">NNFP2-----A----</AM>
-<AM lemma="interpespenzión" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Interpespenzión_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-137-p2s9w6">
 <src.rf>manual</src.rf>
@@ -1563,18 +1530,7 @@
 <LM>w#w-mf930713-137-p2s12w1</LM>
 </w.rf>
 <form>Interpespenzión</form>
-<tag>
-<AM lemma="Interpespenzión_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Interpespenzión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Interpespenzión" src="auto">NNIS1-----A----</AM>
-<AM lemma="Interpespenzión`1000000" src="auto">NNIS4-----A----</AM>
-<AM lemma="Interpespenzión`1000000" src="auto">NNIS1-----A----</AM>
-<AM lemma="Interpespenzión_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Interpespenzión_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Interpespenzión_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Interpespenzióna" src="auto">NNFP2-----A----</AM>
-<AM lemma="interpespenzión" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Interpespenzión_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-137-p2s12w2">
 <src.rf>manual</src.rf>

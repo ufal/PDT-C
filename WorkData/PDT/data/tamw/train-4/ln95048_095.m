@@ -27,13 +27,7 @@
 <LM>w#w-ln95048-095-p2s1w2</LM>
 </w.rf>
 <form>Scifo</form>
-<tag>
-<AM lemma="Scifo_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Scifo_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Scifo_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Scifo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="scifo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Scifo_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-095-p2s1w3">
 <src.rf>manual</src.rf>

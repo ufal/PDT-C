@@ -584,17 +584,7 @@
 <LM>w#w-ln94207-14-p2s3w22</LM>
 </w.rf>
 <form>monocentrického</form>
-<tag>
-<AM lemma="monocentrický" src="orig">AAIS2----1A----</AM>
-<AM lemma="monocentrický" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="monocentrický" src="auto">AAMS2----1A----</AM>
-<AM lemma="monocentrický" src="auto">AAMS4----1A----</AM>
-<AM lemma="monocentrický" src="auto">AANS2----1A----</AM>
-<AM lemma="monocentrický_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="monocentrický_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="monocentrický_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="monocentrický_^(*3it)" src="auto">AAIS2----1A----</AM>
-</tag>
+<tag lemma="monocentrický" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94207-14-p2s3w23">
 <src.rf>manual</src.rf>

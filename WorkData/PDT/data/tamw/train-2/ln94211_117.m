@@ -199,16 +199,7 @@
 <LM>w#w-ln94211-117-p2s1Bw5</LM>
 </w.rf>
 <form>pú</form>
-<tag>
-<AM lemma="pú-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="pú-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Džammú_;G_^(pú_a_Kašmír;_svazový_stát_v_Indii)" src="auto">NNNXX-----A----</AM>
-<AM lemma="pý-2_,t_^(slov.)" src="auto">AAFS4----1A----</AM>
-<AM lemma="pý-2_,t" src="auto">AAFS4----1A----</AM>
-<AM lemma="pá_;G_,t" src="auto">AAFS4----1A----</AM>
-<AM lemma="púčet_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="pú_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="pú-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94211-117-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -1973,17 +1964,7 @@
 <LM>w#w-ln94211-117-p5s1w12</LM>
 </w.rf>
 <form>huráakci</form>
-<tag>
-<AM lemma="huráakce" src="orig">NNFS4-----A----</AM>
-<AM lemma="huráakce" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="huráakce" src="auto">NNFS6-----A----</AM>
-<AM lemma="huráakce" src="auto">NNFS3-----A----</AM>
-<AM lemma="huráakk" src="auto">NNMP1-----A----</AM>
-<AM lemma="huráakec" src="auto">NNMP1-----A----</AM>
-<AM lemma="huráakec" src="auto">NNMP7-----A----</AM>
-<AM lemma="huráakce" src="auto">NNMP1-----A----</AM>
-<AM lemma="huráakce" src="auto">NNMP7-----A----</AM>
-</tag>
+<tag lemma="huráakce" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94211-117-p5s1w13">
 <src.rf>manual</src.rf>

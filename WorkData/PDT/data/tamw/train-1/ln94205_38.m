@@ -1151,17 +1151,7 @@
 <LM>w#w-ln94205-38-p2s7w2</LM>
 </w.rf>
 <form>okř</form>
-<tag>
-<AM lemma="okř-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="okř-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="okř" src="auto">NNMS1-----A----</AM>
-<AM lemma="okř_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="okř" src="auto">NNIS1-----A----</AM>
-<AM lemma="okř" src="auto">NNIS4-----A----</AM>
-<AM lemma="okř" src="auto">NNFS4-----A----</AM>
-<AM lemma="okř" src="auto">NNFS1-----A----</AM>
-<AM lemma="okř-2" src="auto">Db-------------</AM>
-</tag>
+<tag lemma="okř-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-38-p2s7w3">
 <src.rf>manual</src.rf>

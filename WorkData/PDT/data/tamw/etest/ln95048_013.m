@@ -171,17 +171,7 @@
 <LM>w#w-ln95048-013-p1s1w20</LM>
 </w.rf>
 <form>pohľady</form>
-<tag>
-<AM lemma="pohľad_;R_,t" src="orig">NNIP1-----A----</AM>
-<AM lemma="pohľad" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="pohľad" src="auto">NNIP4-----A----</AM>
-<AM lemma="pohľad" src="auto">NNIP7-----A----</AM>
-<AM lemma="pohľada" src="auto">NNFP1-----A----</AM>
-<AM lemma="pohľada" src="auto">NNFS2-----A----</AM>
-<AM lemma="pohľada" src="auto">NNFP4-----A----</AM>
-<AM lemma="pohľad" src="auto">NNMP7-----A----</AM>
-<AM lemma="pohľady_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="pohľad_;R_,t" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln95048-013-p1s1w21">
 <src.rf>manual</src.rf>

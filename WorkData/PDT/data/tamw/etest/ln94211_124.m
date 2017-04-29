@@ -80,12 +80,7 @@
 <LM>w#w-ln94211-124-p2s1Aw3</LM>
 </w.rf>
 <form>stl</form>
-<tag>
-<AM lemma="stl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="stl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="stloušťka_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="stnout_:W" src="auto">VpYS---XR-AA--1</AM>
-</tag>
+<tag lemma="stl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94211-124-p2s1Aw4">
 <src.rf>manual</src.rf>

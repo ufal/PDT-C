@@ -1414,20 +1414,7 @@
 <LM>w#w-ln95045-083-p2s8w5</LM>
 </w.rf>
 <form>spolupřípravu</form>
-<tag>
-<AM lemma="spolupříprava" src="orig">NNFS4-----A----</AM>
-<AM lemma="spolupříprav" src="auto">NNIS2-----A----</AM>
-<AM lemma="spolupříprav" src="auto">NNIS3-----A----</AM>
-<AM lemma="spolupříprav" src="auto">NNIS6-----A----</AM>
-<AM lemma="spolupříprav-1_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="spolupříprav_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="spolupříprav_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="spolupříprava" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="spolupříprava_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="spolupřípravo" src="auto">NNNS3-----A----</AM>
-<AM lemma="spolupřípravo" src="auto">NNNS6-----A----</AM>
-<AM lemma="spolupřípravu-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="spolupříprava" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95045-083-p2s8w6">
 <src.rf>manual</src.rf>

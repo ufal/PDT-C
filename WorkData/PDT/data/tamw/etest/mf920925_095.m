@@ -1340,18 +1340,7 @@
 <LM>w#w-mf920925-095-p52s1w6</LM>
 </w.rf>
 <form>Hellborg</form>
-<tag>
-<AM lemma="Hellborg_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hellborg_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hellborg_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hellborga_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Hellborg_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hellborg" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hellbork_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hellborg_;G_^(osada)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hellborg_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="hellborg" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hellborg_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-095-p53s1">
@@ -1430,18 +1419,7 @@
 <LM>w#w-mf920925-095-p63s1w3</LM>
 </w.rf>
 <form>Breakfast</form>
-<tag>
-<AM lemma="breakfast_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Breakfast" src="auto">NNFS4-----A----</AM>
-<AM lemma="Breakfast" src="auto">NNFS1-----A----</AM>
-<AM lemma="Breakfast_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Breakfast_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Breakfast_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Breakfast" src="auto">NNIS4-----A----</AM>
-<AM lemma="Breakfast" src="auto">NNIS1-----A----</AM>
-<AM lemma="Breakfasta" src="auto">NNFP2-----A----</AM>
-<AM lemma="breakfast" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="breakfast_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920925-095-p63s1w4">
 <src.rf>manual</src.rf>
@@ -1611,18 +1589,7 @@
 <LM>w#w-mf920925-095-p74s1w2</LM>
 </w.rf>
 <form>Newsfile</form>
-<tag>
-<AM lemma="Newsfile_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Newsfile_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Newsfila" src="auto">NNFS6-----A----</AM>
-<AM lemma="Newsfile" src="auto">NNFP4-----A----</AM>
-<AM lemma="Newsfil" src="auto">NNMS5-----A----</AM>
-<AM lemma="Newsfile_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Newsfile" src="auto">NNFS2-----A----</AM>
-<AM lemma="Newsfile" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Newsfile" src="auto">NNFP1-----A----</AM>
-<AM lemma="newsfile" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Newsfile_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-095-p74s1w3">
 <src.rf>manual</src.rf>
@@ -1982,18 +1949,7 @@
 <LM>w#w-mf920925-095-p86s1w2</LM>
 </w.rf>
 <form>Männermagazin</form>
-<tag>
-<AM lemma="Männermagazin_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Männermagazín" src="auto">NNIS4-----A----</AM>
-<AM lemma="Männermagazín" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Männermagazinárodní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Männermagazin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Männermagazina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Männermagazin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Männermagazin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Männermagazin" src="auto">NNIS4-----A----</AM>
-<AM lemma="männermagazin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Männermagazin_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-095-p89s1">

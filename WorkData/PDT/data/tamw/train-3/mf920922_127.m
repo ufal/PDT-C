@@ -249,18 +249,7 @@
 <LM>w#w-mf920922-127-p2s2w7</LM>
 </w.rf>
 <form>Molièrem</form>
-<tag>
-<AM lemma="Molière_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Molièr" src="auto">NNIS7-----A----</AM>
-<AM lemma="Molièr" src="auto">NNMS7-----A----</AM>
-<AM lemma="Molièr_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Molièr_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Molièro" src="auto">NNNS7-----A----</AM>
-<AM lemma="Molièr_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Molièrma" src="auto">NNFP2-----A----</AM>
-<AM lemma="Molière_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="molièrem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Molière_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-127-p2s2w8">
 <src.rf>manual</src.rf>

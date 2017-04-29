@@ -695,26 +695,7 @@
 <LM>w#w-lnd94103-018-p1s6w18</LM>
 </w.rf>
 <form>SAVS</form>
-<tag>
-<AM lemma="SAVS_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SAVS_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SAVS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SAversus_:B_,t" src="auto">RR--1----------</AM>
-<AM lemma="SAVS_:B_;K_^(Valné_shromáždění)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SAVS_:B_;K_^(Valné_shromáždění)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SAVS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SAVS_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="SAVS-2_:B_^(středisko_vrcholového_sportu)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Savs_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Savs_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Savs" src="auto">NNIS1-----A----</AM>
-<AM lemma="Savs" src="auto">NNIS4-----A----</AM>
-<AM lemma="Savs_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Savs_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Savs_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sav_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="savs" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SAVS_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-018-p1s6w19">
 <src.rf>manual</src.rf>

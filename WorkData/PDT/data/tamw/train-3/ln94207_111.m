@@ -503,16 +503,7 @@
 <LM>w#w-ln94207-111-p1s3w19</LM>
 </w.rf>
 <form>Košš</form>
-<tag>
-<AM lemma="Košš_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Košš_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Košš_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Košš-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Košš" src="auto">NNIS1-----A----</AM>
-<AM lemma="Košš" src="auto">NNFS4-----A----</AM>
-<AM lemma="Košš" src="auto">NNFS1-----A----</AM>
-<AM lemma="košš" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Košš_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-111-p1s3w20">
 <src.rf>manual</src.rf>

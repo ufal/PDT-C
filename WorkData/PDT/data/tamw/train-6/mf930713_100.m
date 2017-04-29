@@ -111,26 +111,7 @@
 <LM>w#w-mf930713-100-p2s1Bw7</LM>
 </w.rf>
 <form>EHC</form>
-<tag>
-<AM lemma="EHC_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EHC_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EHC_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="EHC-3_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EHC-1_:B_^(hockey_club)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="EHC-1_:B_^(hockey_club)" src="auto">NNIXX-----A----</AM>
-<AM lemma="EHC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EHC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EHC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Ehc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ehc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ehce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ehce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ehc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ehc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ehc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ehc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ehc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="EHC_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-mf930713-100-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -235,26 +216,7 @@
 <LM>w#w-mf930713-100-p2s1Bw20</LM>
 </w.rf>
 <form>JVP</form>
-<tag>
-<AM lemma="JVP_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="JVP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="JVP_:B_;K_;p_,t_^(Rakouská_lidová_strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="JVP-2_:B_^(státní_vyrovnávací_příspěvek)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="JVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="JVP-1_:B_^(viceprezident)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="JVP-1_:B_^(tabulka_válečných_počtů)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="JVP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="JVP_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Jvp" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jvp" src="auto">NNIS4-----A----</AM>
-<AM lemma="Jvp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jvp-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Jvp" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jvp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jvp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jvpa" src="auto">NNFP2-----A----</AM>
-<AM lemma="jvp" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="JVP_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930713-100-p2s1Bw21">
 <src.rf>manual</src.rf>

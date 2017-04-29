@@ -443,18 +443,7 @@
 <LM>w#w-ln95049-128-p3s1w5</LM>
 </w.rf>
 <form>Financial</form>
-<tag>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Financial_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Escorial-1_;G_^(El_Financial,_šp._král._sídlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Financial_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Financial_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="financial" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Financial_;R_,t_^(např._F.Times)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95049-128-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1388,18 +1377,7 @@
 <LM>w#w-ln95049-128-p6s1w8</LM>
 </w.rf>
 <form>Financial</form>
-<tag>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Financial_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Escorial-1_;G_^(El_Financial,_šp._král._sídlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Financial_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Financial_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Financial_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="financial" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Financial_;R_,t_^(např._F.Times)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95049-128-p6s1w9">
 <src.rf>manual</src.rf>

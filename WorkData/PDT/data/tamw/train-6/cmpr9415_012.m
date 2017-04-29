@@ -987,18 +987,7 @@
 <LM>w#w-cmpr9415-012-p10s1w15</LM>
 </w.rf>
 <form>Platamonas</form>
-<tag>
-<AM lemma="Platamonas_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Platamonas_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Platamonas_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Platamonas_;m_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Platamonas_;G_^(stát)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Platamonas_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Platamonas_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Platamonas-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Platamonas" src="auto">NNIS1-----A----</AM>
-<AM lemma="platamonas" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Platamonas_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-012-p10s1w16">
 <src.rf>manual</src.rf>

@@ -145,12 +145,7 @@
 <LM>w#w-ln94209-56-p2s1Bw5</LM>
 </w.rf>
 <form>Apfelbaume</form>
-<tag>
-<AM lemma="Apfelbaum_;S" src="orig">NNMS5-----A----</AM>
-<AM lemma="Apfelbaum_;S" src="auto" recommended="1">NNMS5-----A----</AM>
-<AM lemma="Apfelbaume_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="apfelbaume" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Apfelbaum_;S" src="orig" selected="1">NNMS5-----A----</tag>
 </m>
 <m id="m-ln94209-56-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -1136,16 +1131,7 @@
 <LM>w#w-ln94209-56-p3s5w1</LM>
 </w.rf>
 <form>Sátoraljaújhely</form>
-<tag>
-<AM lemma="Sátoraljaújhely_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Sátoraljaújhet_:T" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="Sátoraljaújhet" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="Sátoraljaújhel" src="auto">NNIP1-----A----</AM>
-<AM lemma="Sátoraljaújhel" src="auto">NNIP4-----A----</AM>
-<AM lemma="Sátoraljaújhela" src="auto">NNFS2-----A----</AM>
-<AM lemma="Sátoraljaújhela" src="auto">NNFP4-----A----</AM>
-<AM lemma="sátoraljaújhely" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sátoraljaújhely_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94209-56-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1203,18 +1189,7 @@
 <LM>w#w-ln94209-56-p3s6w2</LM>
 </w.rf>
 <form>Lörincz</form>
-<tag>
-<AM lemma="Lörincz_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lörincz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lörincz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lörincz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lörincza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Lörincz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lörincz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lörincs" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lörincz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="lörincz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lörincz_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-56-p3s6w3">
 <src.rf>manual</src.rf>
@@ -10323,17 +10298,7 @@
 <LM>w#w-ln94209-56-p7s43w2</LM>
 </w.rf>
 <form>Umbovi</form>
-<tag>
-<AM lemma="Umba_;Y" src="orig">NNMS3-----A----</AM>
-<AM lemma="Umb_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Umb" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Umb_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Umba_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Umb_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Umb" src="auto">NNMS6-----A----</AM>
-<AM lemma="Umbův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="umbovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Umba_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94209-56-p7s43w3">
 <src.rf>manual</src.rf>

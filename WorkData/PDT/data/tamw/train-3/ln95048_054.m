@@ -69,24 +69,7 @@
 <LM>w#w-ln95048-054-p2s1Aw2</LM>
 </w.rf>
 <form>NLN</form>
-<tag>
-<AM lemma="NLN-1_:B_^(Nedělní_LN)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="NLN_:B_;R" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NLN_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NLN_:B_;K" src="auto">NNFPX-----A---8</AM>
-<AM lemma="NLN-2_:B_;R_^(Nedělní_Lidové_Noviny)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="NLN-2_:B_;R_^(Nedělní_Lidové_Noviny)" src="auto">NNFPX-----A---8</AM>
-<AM lemma="NLN-1_:B_^(Nedělní_LN)" src="auto">NNFPX-----A---8</AM>
-<AM lemma="NLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Nlna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Nln_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nln-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nln" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nln_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nln_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="nln" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="NLN-1_:B_^(Nedělní_LN)" src="orig" selected="1">NNFPX-----A---8</tag>
 </m>
 <m id="m-ln95048-054-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -3133,19 +3116,7 @@
 <LM>w#w-ln95048-054-p4s2w32</LM>
 </w.rf>
 <form>antimodelu</form>
-<tag>
-<AM lemma="antimodel" src="orig">NNIS2-----A----</AM>
-<AM lemma="antimodel" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="antimodel" src="auto">NNIS3-----A----</AM>
-<AM lemma="antimodel" src="auto">NNIS6-----A----</AM>
-<AM lemma="antimodel" src="auto">NNMS3-----A---1</AM>
-<AM lemma="antimodel" src="auto">NNMS6-----A---1</AM>
-<AM lemma="antimodel_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="antimodel_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="antimodela" src="auto">NNFS4-----A----</AM>
-<AM lemma="antimodela_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="antimodela_;Y" src="auto">NNFS4-----A----</AM>
-</tag>
+<tag lemma="antimodel" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-054-p4s2w33">
 <src.rf>manual</src.rf>

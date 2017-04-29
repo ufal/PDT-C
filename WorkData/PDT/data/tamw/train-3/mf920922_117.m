@@ -352,14 +352,7 @@
 <LM>w#w-mf920922-117-p4s3w3</LM>
 </w.rf>
 <form>islámí</form>
-<tag>
-<AM lemma="islámí_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="islámit_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="islámit_:W" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="známý-2_^(co_isláme)" src="auto" recommended="1">AAMP1----1A----</AM>
-<AM lemma="známý-1_^(potkat_islámého_[člověka])" src="auto">NNMP1-----A----</AM>
-<AM lemma="neznámý_^(potkat_islámého_[člověka])" src="auto">NNMP1-----A----</AM>
-</tag>
+<tag lemma="islámí_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920922-117-p4s3w4">
 <src.rf>manual</src.rf>
@@ -423,16 +416,7 @@
 <LM>w#w-mf920922-117-p4s3w11</LM>
 </w.rf>
 <form>Hezbe</form>
-<tag>
-<AM lemma="Hezbe_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Hezbe_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Hezbe_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Hezbe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hezbat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Hezbe_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Probe_;R_^(automobil_Ford_Hezbe)" src="auto">NNIXX-----A----</AM>
-<AM lemma="hezbe" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hezbe_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920922-117-p4s3w12">
 <src.rf>manual</src.rf>
@@ -440,12 +424,7 @@
 <LM>w#w-mf920922-117-p4s3w12</LM>
 </w.rf>
 <form>vahadat</form>
-<tag>
-<AM lemma="vahadat_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="vahadat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="vahadat_:W" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="vahadat_:T_:W" src="auto">Vf--------A----</AM>
-</tag>
+<tag lemma="vahadat_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920922-117-p4s3w13">
 <src.rf>manual</src.rf>

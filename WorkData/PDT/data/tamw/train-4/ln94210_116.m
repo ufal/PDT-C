@@ -77,24 +77,7 @@
 <LM>w#w-ln94210-116-p2s1w5</LM>
 </w.rf>
 <form>VfB</form>
-<tag>
-<AM lemma="VfB_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VfB_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VfB_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="VfB_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VfB_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VfB_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VfB_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VfB_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Vfb" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vfb" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vfba" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vfb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vfb-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Vfb_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vfb_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="vfb" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="VfB_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94210-116-p2s1w6">
 <src.rf>manual</src.rf>

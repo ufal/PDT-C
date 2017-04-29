@@ -61,16 +61,7 @@
 <LM>w#w-mf920925-092-p2s1Aw3</LM>
 </w.rf>
 <form>iků</form>
-<tag>
-<AM lemma="iků-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ik" src="auto">NNMP2-----A----</AM>
-<AM lemma="ik" src="auto">NNIP2-----A----</AM>
-<AM lemma="ike" src="auto">NNIP2-----A----</AM>
-<AM lemma="ik_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="ik_,a" src="auto">NNMP2-----A----</AM>
-<AM lemma="ik-1" src="auto">NNIP2-----A----</AM>
-<AM lemma="iků-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-</tag>
+<tag lemma="iků-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920925-092-p2s1Aw4">
 <src.rf>manual</src.rf>

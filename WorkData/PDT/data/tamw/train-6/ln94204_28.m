@@ -77,18 +77,7 @@
 <LM>w#w-ln94204-28-p2s1Aw4</LM>
 </w.rf>
 <form>Beers</form>
-<tag>
-<AM lemma="Beers_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Beers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Beer_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Beer_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Beer_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="beers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Beers_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94204-28-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -317,18 +306,7 @@
 <LM>w#w-ln94204-28-p2s1Cw18</LM>
 </w.rf>
 <form>Beers</form>
-<tag>
-<AM lemma="Beers_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Beers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Beer_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Beer_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Beer_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="beers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Beers_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94204-28-p2s1Cw19">
 <src.rf>manual</src.rf>
@@ -668,18 +646,7 @@
 <LM>w#w-ln94204-28-p3s1w1</LM>
 </w.rf>
 <form>Debmar</form>
-<tag>
-<AM lemma="Debmar_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Debmar_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Debmar_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Debmar_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Debmar_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Debmar_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Debmar_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Debmar_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Debmar_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="debmar" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Debmar_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-28-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1137,18 +1104,7 @@
 <LM>w#w-ln94204-28-p4s1w2</LM>
 </w.rf>
 <form>Beers</form>
-<tag>
-<AM lemma="Beers_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Beers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Beer_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Beer_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Beer_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="beers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Beers_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94204-28-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1590,18 +1546,7 @@
 <LM>w#w-ln94204-28-p5s1w6</LM>
 </w.rf>
 <form>Beers</form>
-<tag>
-<AM lemma="Beers_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Beers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Beer_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Beer_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Beer_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="beers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Beers_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94204-28-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1919,18 +1864,7 @@
 <LM>w#w-ln94204-28-p5s4w2</LM>
 </w.rf>
 <form>Beers</form>
-<tag>
-<AM lemma="Beers_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Beers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Beer_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Beer_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Beer_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="beers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Beers_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94204-28-p5s4w3">
 <src.rf>manual</src.rf>

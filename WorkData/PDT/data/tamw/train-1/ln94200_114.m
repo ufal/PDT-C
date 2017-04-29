@@ -332,25 +332,7 @@
 <LM>w#w-ln94200-114-p2s2w7</LM>
 </w.rf>
 <form>Šin</form>
-<tag>
-<AM lemma="Šin_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Šin_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Šin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Šina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Šin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Šin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Šin" src="auto">NNIS4-----A----</AM>
-<AM lemma="Šin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Šin_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="šina" src="auto">NNFP2-----A----</AM>
-<AM lemma="šin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="šin_;G_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="šin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="šin-2_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="šin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="šin" src="auto">NNIS1-----A----</AM>
-<AM lemma="šin" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="Šin_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94200-114-p2s2w8">
 <src.rf>manual</src.rf>
@@ -716,25 +698,7 @@
 <LM>w#w-ln94200-114-p2s3w18</LM>
 </w.rf>
 <form>Šin</form>
-<tag>
-<AM lemma="Šin_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Šin_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Šin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Šina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Šin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Šin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Šin" src="auto">NNIS4-----A----</AM>
-<AM lemma="Šin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Šin_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="šina" src="auto">NNFP2-----A----</AM>
-<AM lemma="šin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="šin_;G_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="šin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="šin-2_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="šin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="šin" src="auto">NNIS1-----A----</AM>
-<AM lemma="šin" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="Šin_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94200-114-p2s3w19">
 <src.rf>manual</src.rf>
@@ -820,18 +784,7 @@
 <LM>w#w-ln94200-114-p3s1w8</LM>
 </w.rf>
 <form>Mardž</form>
-<tag>
-<AM lemma="Mardž_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Mardž_;G" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Mardž_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mardž" src="auto">J,-------------</AM>
-<AM lemma="Mardž" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mardž" src="auto">NNFS4-----A----</AM>
-<AM lemma="Mardž" src="auto">Db-------------</AM>
-<AM lemma="Mardž_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mardž-1" src="auto">Db-------------</AM>
-<AM lemma="mardž" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mardž_;G" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94200-114-p3s1w9">
 <src.rf>manual</src.rf>
@@ -839,17 +792,7 @@
 <LM>w#w-ln94200-114-p3s1w9</LM>
 </w.rf>
 <form>Ujún</form>
-<tag>
-<AM lemma="Ujún_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Ujún_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Ujún_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ujún_;R" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ujún_;E_,h_,n_^(Čech)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ujún" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ujúna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ujún_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ujún" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ujún_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-114-p3s1w10">
 <src.rf>manual</src.rf>

@@ -37,18 +37,7 @@
 <LM>w#w-mf930709-090-p2s1w2</LM>
 </w.rf>
 <form>Juniors</form>
-<tag>
-<AM lemma="Juniors_;K" src="orig">NNMPX-----A----</AM>
-<AM lemma="Junior_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Juniors_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Junior_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Juniors_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Juniors_;K" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Juniors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="auto">NNIPX-----A----</AM>
-<AM lemma="Juniors_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Junior_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="juniors" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Juniors_;K" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-mf930709-090-p2s1w3">
 <src.rf>manual</src.rf>
@@ -351,18 +340,7 @@
 <LM>w#w-mf930709-090-p2s4w6</LM>
 </w.rf>
 <form>Mineiro</form>
-<tag>
-<AM lemma="Mineiro_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Mineiro_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mineiro_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Mineiro_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mineiro" src="auto">NNNS1-----A----</AM>
-<AM lemma="Giro-1_;m_;w_,t_^(lat.,_souč._názvu,_např._Mineiro_d'Italia)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mineiro_;Y" src="auto">NNMSX-----A----</AM>
-<AM lemma="Mineiro_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mineiro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="mineiro" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mineiro_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-090-p2s4w7">
 <src.rf>manual</src.rf>

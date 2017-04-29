@@ -971,18 +971,7 @@
 <LM>w#w-cmpr9410-024-p8s2w19</LM>
 </w.rf>
 <form>Inform</form>
-<tag>
-<AM lemma="Inform_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Inform_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Inform_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Inform_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Inform_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Inform" src="auto">NNIS1-----A----</AM>
-<AM lemma="Inform" src="auto">NNIS4-----A----</AM>
-<AM lemma="Inform_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Inform_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="inform" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Inform_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9410-024-p8s2w20">
 <src.rf>manual</src.rf>
@@ -4516,18 +4505,7 @@
 <LM>w#w-cmpr9410-024-p17s1w3</LM>
 </w.rf>
 <form>Inform</form>
-<tag>
-<AM lemma="Inform_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Inform_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Inform_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Inform_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Inform_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Inform" src="auto">NNIS1-----A----</AM>
-<AM lemma="Inform" src="auto">NNIS4-----A----</AM>
-<AM lemma="Inform_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Inform_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="inform" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Inform_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9410-024-p17s1w4">
 <src.rf>manual</src.rf>
@@ -4759,14 +4737,7 @@
 <LM>w#w-cmpr9410-024-p17s1w32</LM>
 </w.rf>
 <form>kl</form>
-<tag>
-<AM lemma="klapka_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="knout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="kl_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="kl" src="auto">NNIS4-----A----</AM>
-<AM lemma="ci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="kl" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="klapka_:B" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9410-024-p17s1w33">
 <src.rf>manual</src.rf>

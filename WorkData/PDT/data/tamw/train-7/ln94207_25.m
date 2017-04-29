@@ -643,17 +643,7 @@
 <LM>w#w-ln94207-25-p2s2w18</LM>
 </w.rf>
 <form>Ejup</form>
-<tag>
-<AM lemma="Ejup_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ejup_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ejup" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ejup" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ejup_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ejup" src="auto">NNMS1-----A----</AM>
-<AM lemma="up_;m_,t_^(pick-Ejup)" src="auto">NNIS1-----A----</AM>
-<AM lemma="up_,t_^(pick-Ejup)" src="auto">NNIS1-----A----</AM>
-<AM lemma="ejup" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ejup_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-25-p2s2w19">
 <src.rf>manual</src.rf>
@@ -662,15 +652,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Ganić</form>
-<tag>
-<AM lemma="Ganić_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ganić_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ganić_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ganič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ganič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ganić_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="ganić" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ganić_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-25-p2s2w20">
 <src.rf>manual</src.rf>
@@ -1526,25 +1508,7 @@
 <LM>w#w-ln94207-25-p4s4w18</LM>
 </w.rf>
 <form>RSK</form>
-<tag>
-<AM lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="RSk_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RSK_:B_;K_^(sportovní_klub)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RSK-1_:B_^(univerzitní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RSK-1_:B_^(policejní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RSK-1_:B_;K_;w_^(sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RSK-1_:B_;K_;w_^(sportovní_klub)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Rsk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rsk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rsk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="desky_^(&quot;Rsky_zemské&quot;,záznamy,_registr)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Rsko" src="auto">NNNP2-----A----</AM>
-<AM lemma="Rsk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rsk" src="auto">II-------------</AM>
-<AM lemma="Rsk" src="auto">NNMS1-----A----</AM>
-<AM lemma="rsk" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94207-25-p4s4w19">
 <src.rf>manual</src.rf>

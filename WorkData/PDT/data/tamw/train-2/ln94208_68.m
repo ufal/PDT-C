@@ -1608,18 +1608,7 @@
 <LM>w#w-ln94208-68-p5s3w6</LM>
 </w.rf>
 <form>Sunday</form>
-<tag>
-<AM lemma="Sunday_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Sunday_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Sunday_,t" src="auto">Db-------------</AM>
-<AM lemma="Sunday_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sunday_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sunday_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Sunday_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Sunday_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sunday_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="sunday" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sunday_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94208-68-p5s3w7">
 <src.rf>manual</src.rf>

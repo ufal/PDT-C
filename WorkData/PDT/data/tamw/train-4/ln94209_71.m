@@ -407,17 +407,7 @@
 <LM>w#w-ln94209-71-p2s2w19</LM>
 </w.rf>
 <form>Papco</form>
-<tag>
-<AM lemma="Papco_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Papco_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Papco_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Papco_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Papco_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Papco_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Papco" src="auto">PZ--4----------</AM>
-<AM lemma="Papco" src="auto">PZ--1----------</AM>
-<AM lemma="papco" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Papco_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-71-p2s2w20">
 <src.rf>manual</src.rf>
@@ -712,18 +702,7 @@
 <LM>w#w-ln94209-71-p2s4w16</LM>
 </w.rf>
 <form>Žáryho</form>
-<tag>
-<AM lemma="Žáry_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Žáry_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Žáry_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Žáry_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Žáry_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Žáry_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Žár_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Žáry_;S_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Žáry_;S_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="žáryho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Žáry_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94209-71-p2s4w17">
 <src.rf>manual</src.rf>
@@ -747,18 +726,7 @@
 <LM>w#w-ln94209-71-p2s4w19</LM>
 </w.rf>
 <form>Papca</form>
-<tag>
-<AM lemma="Papco_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Papco_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Papca_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Papca_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Papco_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Papc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Papca_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Papca_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Papca_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="papca" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Papco_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94209-71-p2s4w20">
 <src.rf>manual</src.rf>
@@ -1324,17 +1292,7 @@
 <LM>w#w-ln94209-71-p3s1w13</LM>
 </w.rf>
 <form>Papco</form>
-<tag>
-<AM lemma="Papco_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Papco_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Papco_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Papco_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Papco_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Papco_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Papco" src="auto">PZ--4----------</AM>
-<AM lemma="Papco" src="auto">PZ--1----------</AM>
-<AM lemma="papco" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Papco_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-71-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1668,17 +1626,7 @@
 <LM>w#w-ln94209-71-p4s1w1</LM>
 </w.rf>
 <form>Papco</form>
-<tag>
-<AM lemma="Papco_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Papco_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Papco_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Papco_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Papco_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Papco_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Papco" src="auto">PZ--4----------</AM>
-<AM lemma="Papco" src="auto">PZ--1----------</AM>
-<AM lemma="papco" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Papco_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-71-p4s1w2">
 <src.rf>manual</src.rf>

@@ -1823,17 +1823,7 @@
 <LM>w#w-ln94210-5-p4s2w23</LM>
 </w.rf>
 <form>SAGIT</form>
-<tag>
-<AM lemma="SAGIT_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="SAGIT_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Sagit_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sagit_;E" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sagit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Sagit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Sagita" src="auto">NNFP2-----A----</AM>
-<AM lemma="Sagit" src="auto">NNIS4-----A----</AM>
-<AM lemma="sagit" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SAGIT_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-5-p4s2w24">
 <src.rf>manual</src.rf>

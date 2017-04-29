@@ -535,18 +535,7 @@
 <LM>w#w-ln94204-128-p3s1w25</LM>
 </w.rf>
 <form>Podstupka</form>
-<tag>
-<AM lemma="Podstupka_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Podstupka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Podstupka_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Podstupek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Podstupek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Podstupek-1_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Podstupek" src="auto">NNMS4-----A----</AM>
-<AM lemma="Podstupko_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Podstupka-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="podstupka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Podstupka_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-128-p3s1w26">
 <src.rf>manual</src.rf>

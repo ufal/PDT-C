@@ -1015,18 +1015,7 @@
 <LM>w#w-ln94203-50-p2s4w18</LM>
 </w.rf>
 <form>Grundzíkův</form>
-<tag>
-<AM lemma="Grundzíkův_;S_^(*2)" src="orig">AUIS4M---------</AM>
-<AM lemma="Grundzíkův_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Grundzíkův_;S_^(*3ek)" src="auto">AUIS1M---------</AM>
-<AM lemma="Grundzíkův_;S_^(*2a)" src="auto">AUIS1M---------</AM>
-<AM lemma="Grundzíkův_;S_^(*2)" src="auto" recommended="1">AUIS4M---------</AM>
-<AM lemma="Grundzíkův_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Grundzíkův_;S_^(*2a)" src="auto">AUIS4M---------</AM>
-<AM lemma="Grundzíkův_;Y_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Grundzíkův_;S_^(*3ek)" src="auto">AUMS1M---------</AM>
-<AM lemma="grundzíkův" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Grundzíkův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln94203-50-p2s4w19">
 <src.rf>manual</src.rf>

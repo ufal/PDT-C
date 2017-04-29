@@ -377,18 +377,7 @@
 <LM>w#w-ln94204-84-p2s2w14</LM>
 </w.rf>
 <form>Gendarmenmarkt</form>
-<tag>
-<AM lemma="Gendarmenmarkt_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Gendarmenmarkt_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Gendarmenmarkt" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gendarmenmarkt" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gendarmenmarkt" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gendarmenmarktum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Gendarmenmarktoria-2_:B_;K_^(jméno_sport.klubu)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Gendarmenmarkta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gendarmenmarkt_^(čin;;obraz_nahého_těla)" src="auto">NNIS4-----A----</AM>
-<AM lemma="gendarmenmarkt" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gendarmenmarkt_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-84-p2s2w15">
 <src.rf>manual</src.rf>
@@ -1979,18 +1968,7 @@
 <LM>w#w-ln94204-84-p5s3w6</LM>
 </w.rf>
 <form>Rossijskaja</form>
-<tag>
-<AM lemma="Rossijskij_;R_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="Rossijskij_;R_,t" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="Rossijskaja_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Rossijskať_,t" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="Rossijskyj_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Rossijskyj_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Rossijskij_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rossijskaja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rossijskaja_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="rossijskaja" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rossijskij_;R_,t" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94204-84-p5s3w7">
 <src.rf>manual</src.rf>

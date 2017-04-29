@@ -361,18 +361,7 @@
 <LM>w#w-ln95047-021-p2s2w28</LM>
 </w.rf>
 <form>Čunderlíkoví</form>
-<tag>
-<AM lemma="Čunderlík_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Čunderlíkový" src="auto">AAMP1----1A----</AM>
-<AM lemma="Čunderlíkoví" src="auto">NNNS1-----A----</AM>
-<AM lemma="Čunderlíkovit_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Čunderlíkoví" src="auto">NNNS2-----A----</AM>
-<AM lemma="Čunderlíkovědět" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Čunderlíkoví" src="auto">NNNS4-----A----</AM>
-<AM lemma="Čunderlíkovědět" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="Čunderlíkoví" src="auto">NNNS6-----A----</AM>
-<AM lemma="čunderlíkoví" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Čunderlík_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95047-021-p2s2w29">
 <src.rf>manual</src.rf>

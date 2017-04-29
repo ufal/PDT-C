@@ -791,18 +791,7 @@
 <LM>w#w-ln95047-049-p3s1w23</LM>
 </w.rf>
 <form>Hoatová</form>
-<tag>
-<AM lemma="Hoatová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Hoatová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Hoatový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Hoatový" src="auto">AANP1----1A----</AM>
-<AM lemma="Hoatový" src="auto">AANP4----1A----</AM>
-<AM lemma="Hoatová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hoatová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hoatový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Hoatový" src="auto">AAFS5----1A----</AM>
-<AM lemma="hoatová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hoatová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-049-p3s1w24">
 <src.rf>manual</src.rf>
@@ -3319,18 +3308,7 @@
 <LM>w#w-ln95047-049-p5s7w7</LM>
 </w.rf>
 <form>Four</form>
-<tag>
-<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
-<AM lemma="Four_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Foura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Four_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Four_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Four_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Four_;m" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Four_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Four_;R_,t" src="auto">PSXXX-X2-------</AM>
-<AM lemma="four" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Four_;K_,t" src="orig" selected="1">ClXPX----------</tag>
 </m>
 <m id="m-ln95047-049-p5s7w8">
 <src.rf>manual</src.rf>
@@ -3338,15 +3316,7 @@
 <LM>w#w-ln95047-049-p5s7w8</LM>
 </w.rf>
 <form>Films</form>
-<tag>
-<AM lemma="Film_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Films_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fils" src="auto">PZZS7----------</AM>
-<AM lemma="Film_;R_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Film_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Film_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="films" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Film_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln95047-049-p5s7w9">
 <src.rf>manual</src.rf>
@@ -3408,18 +3378,7 @@
 <LM>w#w-ln95047-049-p5s8w6</LM>
 </w.rf>
 <form>Kodiceková</form>
-<tag>
-<AM lemma="Kodiceková_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Kodiceková_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Kodicekový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Kodicekový" src="auto">AANP1----1A----</AM>
-<AM lemma="Kodicekový" src="auto">AANP4----1A----</AM>
-<AM lemma="Kodiceková_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kodiceková_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kodicekový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Kodicekový" src="auto">AAFS5----1A----</AM>
-<AM lemma="kodiceková" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kodiceková_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-049-p5s8w7">
 <src.rf>manual</src.rf>
@@ -3499,18 +3458,7 @@
 <LM>w#w-ln95047-049-p5s8w16</LM>
 </w.rf>
 <form>Sekáczová</form>
-<tag>
-<AM lemma="Sekáczová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sekáczová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Sekáczový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Sekáczový" src="auto">AANP1----1A----</AM>
-<AM lemma="Sekáczový" src="auto">AANP4----1A----</AM>
-<AM lemma="Sekáczová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sekáczová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sekáczový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Sekáczový" src="auto">AAFS5----1A----</AM>
-<AM lemma="sekáczová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sekáczová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-049-p5s8w17">
 <src.rf>manual</src.rf>
@@ -3552,18 +3500,7 @@
 <LM>w#w-ln95047-049-p5s9w4</LM>
 </w.rf>
 <form>Hoathová</form>
-<tag>
-<AM lemma="Hoathová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Hoathová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Hoathový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Hoathový" src="auto">AANP1----1A----</AM>
-<AM lemma="Hoathový" src="auto">AANP4----1A----</AM>
-<AM lemma="Hoathová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hoathová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hoathový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Hoathový" src="auto">AAFS5----1A----</AM>
-<AM lemma="hoathová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hoathová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-049-p5s9w5">
 <src.rf>manual</src.rf>

@@ -401,21 +401,7 @@
 <LM>w#w-ln95045-006-p2s2w20</LM>
 </w.rf>
 <form>JETRO</form>
-<tag>
-<AM lemma="JETRO_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JETRO_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="JETro_;K_,t" src="auto">RR--X----------</AM>
-<AM lemma="JETro_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Jetro" src="auto">NNNS1-----A----</AM>
-<AM lemma="Jetro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Jetro" src="auto">NNNS4-----A----</AM>
-<AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_Jetro)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Jetrický_;K" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Jetro_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Jetro_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jetro_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jetro" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="JETRO_:B_;K_,t" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95045-006-p2s2w21">
 <src.rf>manual</src.rf>
@@ -423,18 +409,7 @@
 <LM>w#w-ln95045-006-p2s2w21</LM>
 </w.rf>
 <form>Mitsuyoshi</form>
-<tag>
-<AM lemma="Mitsuyoshi_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mitsuyoshi_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mitsuyoshi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mitsuyoshi_;R" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Mitsuyoshi_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Mitsuyoshi_,t" src="auto">NNNS4-----A----</AM>
-<AM lemma="Mitsuyoshi_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Mitsuyoshi-2_;R_^(vozidlo)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mitsuyoshi_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="mitsuyoshi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mitsuyoshi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-006-p2s2w22">
 <src.rf>manual</src.rf>
@@ -1274,21 +1249,7 @@
 <LM>w#w-ln95045-006-p6s1w4</LM>
 </w.rf>
 <form>JETRO</form>
-<tag>
-<AM lemma="JETRO_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JETRO_:B_;K_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="JETro_;K_,t" src="auto">RR--X----------</AM>
-<AM lemma="JETro_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Jetro" src="auto">NNNS1-----A----</AM>
-<AM lemma="Jetro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Jetro" src="auto">NNNS4-----A----</AM>
-<AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_Jetro)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Jetrický_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Jetro_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Jetro_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jetro_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jetro" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="JETRO_:B_;K_,t" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95045-006-p6s1w5">
 <src.rf>manual</src.rf>

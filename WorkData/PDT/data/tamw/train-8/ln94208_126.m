@@ -1037,17 +1037,7 @@
 <LM>w#w-ln94208-126-p3s1w11</LM>
 </w.rf>
 <form>Preszmycki</form>
-<tag>
-<AM lemma="Preszmycki_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Preszmycký_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Preszmycki_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Preszmycki_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Preszmycki_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Preszmycki_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Preszmycki_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Preszmycký_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="preszmycki" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Preszmycki_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-126-p3s1w12">
 <src.rf>manual</src.rf>

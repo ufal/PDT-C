@@ -943,18 +943,7 @@
 <LM>w#w-ln94205-27-p2s5w11</LM>
 </w.rf>
 <form>Treptowě</form>
-<tag>
-<AM lemma="Treptow_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Treptow_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Treptowa_;K_;R" src="auto">NNFS6-----A----</AM>
-<AM lemma="Treptowa_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Treptowa_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Treptowě_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Treptowa" src="auto">NNFS6-----A----</AM>
-<AM lemma="Treptowě_^(*1í)" src="auto">Dg-------1A----</AM>
-<AM lemma="Treptowa" src="auto">NNFS3-----A----</AM>
-<AM lemma="treptowě" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Treptow_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94205-27-p2s5w12">
 <src.rf>manual</src.rf>
@@ -970,18 +959,7 @@
 <LM>w#w-ln94205-27-p2s5w13</LM>
 </w.rf>
 <form>Tiergartenu</form>
-<tag>
-<AM lemma="Tiergarten_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Tiergarten_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Tiergarten_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Tiergarten_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Tiergartena" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tiergarten" src="auto">NNIS2-----A----</AM>
-<AM lemma="Tiergartit_:W" src="auto">VsFS4--XX-AP---</AM>
-<AM lemma="Tiergartenout" src="auto">VB-S---1P-AA---</AM>
-<AM lemma="Tiergartena_;Y" src="auto">NNFS4-----A----</AM>
-<AM lemma="tiergartenu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tiergarten_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94205-27-p2s5w14">
 <src.rf>manual</src.rf>
@@ -1013,18 +991,7 @@
 <LM>w#w-ln94205-27-p2s5w17</LM>
 </w.rf>
 <form>Unter</form>
-<tag>
-<AM lemma="Unter_;G_,t" src="orig">RR--X----------</AM>
-<AM lemma="Unter_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Unter_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Unter_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Unter" src="auto">NNIS1-----A----</AM>
-<AM lemma="Untro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Unter_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Unter" src="auto">NNIS4-----A----</AM>
-<AM lemma="Untrum" src="auto">NNNP2-----A----</AM>
-<AM lemma="unter" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Unter_;G_,t" src="orig" selected="1">RR--X----------</tag>
 </m>
 <m id="m-ln94205-27-p2s5w18">
 <src.rf>manual</src.rf>

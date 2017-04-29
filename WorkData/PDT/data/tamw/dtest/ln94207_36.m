@@ -10510,17 +10510,7 @@
 <LM>w#w-ln94207-36-p27s3w9</LM>
 </w.rf>
 <form>kinestetika</form>
-<tag>
-<AM lemma="kinestetika" src="orig">NNFS1-----A----</AM>
-<AM lemma="kinestetika" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="kinestetik" src="auto">NNMS2-----A----</AM>
-<AM lemma="kinestetik" src="auto">NNMS4-----A----</AM>
-<AM lemma="kinestetik_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="kinestetika_^(věda)" src="auto">NNFS1-----A----</AM>
-<AM lemma="kinestetika_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="kinestetikum" src="auto">NNNS2-----A----</AM>
-<AM lemma="kinestetikum" src="auto">NNNP4-----A----</AM>
-</tag>
+<tag lemma="kinestetika" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-36-p27s3w10">
 <src.rf>manual</src.rf>
@@ -13367,22 +13357,7 @@
 <LM>w#w-ln94207-36-p31s6w7</LM>
 </w.rf>
 <form>sebepovědomí</form>
-<tag>
-<AM lemma="sebepovědomí" src="orig">NNNS1-----A----</AM>
-<AM lemma="sebepovědomit_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="sebepovědomí" src="auto">NNNP1-----A----</AM>
-<AM lemma="sebepovědomí" src="auto">NNNP2-----A----</AM>
-<AM lemma="sebepovědomí" src="auto">NNNP4-----A----</AM>
-<AM lemma="sebepovědomí" src="auto">NNNP5-----A----</AM>
-<AM lemma="sebepovědomí" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="sebepovědomí" src="auto">NNNS2-----A----</AM>
-<AM lemma="sebepovědomí" src="auto">NNNS3-----A----</AM>
-<AM lemma="sebepovědomí" src="auto">NNNS4-----A----</AM>
-<AM lemma="sebepovědomí" src="auto">NNNS5-----A----</AM>
-<AM lemma="sebepovědomí" src="auto">NNNS6-----A----</AM>
-<AM lemma="sebepovědomý" src="auto">AAMP1----1A----</AM>
-<AM lemma="sebepovědomý" src="auto">AAMP5----1A----</AM>
-</tag>
+<tag lemma="sebepovědomí" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94207-36-p31s6w8">
 <src.rf>manual</src.rf>

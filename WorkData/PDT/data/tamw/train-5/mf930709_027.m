@@ -93,15 +93,7 @@
 <LM>w#w-mf930709-027-p2s1Aw3</LM>
 </w.rf>
 <form>jš</form>
-<tag>
-<AM lemma="jš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jš_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jš-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jš_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jš" src="auto">NNIS1-----A----</AM>
-<AM lemma="jš" src="auto">NNFS4-----A----</AM>
-<AM lemma="jš" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="jš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-027-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -1677,17 +1669,7 @@
 <LM>w#w-mf930709-027-p3s5w7</LM>
 </w.rf>
 <form>Agtrosystém</form>
-<tag>
-<AM lemma="Agtrosystém_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Agtrosystý" src="auto">AAIS6----1A----</AM>
-<AM lemma="Agtrosystý" src="auto">CrIS6----------</AM>
-<AM lemma="Agtrosystý" src="auto">AANS6----1A----</AM>
-<AM lemma="Agtrosystý" src="auto">CrNS6----------</AM>
-<AM lemma="Agtrosystý_^(*3out)" src="auto">AAIS6----1A----</AM>
-<AM lemma="Agtrosystý_^(*3out)" src="auto">AANS6----1A----</AM>
-<AM lemma="Agtrosystý" src="auto">AAMS6----1A----</AM>
-<AM lemma="agtrosystém" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Agtrosystém_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-027-p3s5w8">
 <src.rf>manual</src.rf>

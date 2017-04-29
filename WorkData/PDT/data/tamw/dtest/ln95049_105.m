@@ -85,17 +85,7 @@
 <LM>w#w-ln95049-105-p2s1Aw3</LM>
 </w.rf>
 <form>ll</form>
-<tag>
-<AM lemma="ll-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ll_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ll_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ll_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ll_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ll_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="ll" src="auto">NNIS1-----A----</AM>
-<AM lemma="ll_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ll-1_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ll-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95049-105-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -940,18 +930,7 @@
 <LM>w#w-ln95049-105-p2s5w32</LM>
 </w.rf>
 <form>Rabenseifnerová</form>
-<tag>
-<AM lemma="Rabenseifnerová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Rabenseifnerová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Rabenseifnerový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Rabenseifnerový" src="auto">AANP1----1A----</AM>
-<AM lemma="Rabenseifnerový" src="auto">AANP4----1A----</AM>
-<AM lemma="Rabenseifnerová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rabenseifnerová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rabenseifnerový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Rabenseifnerový" src="auto">AAFS5----1A----</AM>
-<AM lemma="rabenseifnerová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rabenseifnerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-105-p2s5w33">
 <src.rf>manual</src.rf>

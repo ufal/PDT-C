@@ -69,16 +69,7 @@
 <LM>w#w-ln94202-38-p2s1Aw3</LM>
 </w.rf>
 <form>ld</form>
-<tag>
-<AM lemma="ld-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ld_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ld_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ld_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="ld_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ld-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ld_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ld_;K_,t" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="ld-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-38-p2s1Aw4">
 <src.rf>manual</src.rf>

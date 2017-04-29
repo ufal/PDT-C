@@ -157,15 +157,7 @@
 <LM>w#w-ln94206-68-p2s1Bw7</LM>
 </w.rf>
 <form>Cédrase</form>
-<tag>
-<AM lemma="Cédras_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Cédras_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Cédras_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cédras" src="auto">NNIS6-----A----</AM>
-<AM lemma="Cédrasa" src="auto">NNFS6-----A----</AM>
-<AM lemma="Cédrase_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="cédrase" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cédras_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94206-68-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -396,18 +388,7 @@
 <LM>w#w-ln94206-68-p2s3w7</LM>
 </w.rf>
 <form>Deutch</form>
-<tag>
-<AM lemma="Deutch_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Deutch_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Deutch_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Deutch_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Deutch_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Deutch_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Deutch_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Deutch_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Deut" src="auto">AAFP2----1A----</AM>
-<AM lemma="deutch" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Deutch_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-68-p2s3w8">
 <src.rf>manual</src.rf>

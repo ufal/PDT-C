@@ -690,17 +690,7 @@
 <LM>w#w-mf920922-133-p4s4w22</LM>
 </w.rf>
 <form>Rüütela</form>
-<tag>
-<AM lemma="Rüütel_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Rüütet_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Rüütet" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Rüütel_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Rüütel_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rüütela_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rüütela" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rüütít" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="rüütela" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rüütel_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-133-p4s4w23">
 <src.rf>manual</src.rf>

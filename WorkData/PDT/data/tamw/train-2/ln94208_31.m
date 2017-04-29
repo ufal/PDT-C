@@ -799,17 +799,7 @@
 <LM>w#w-ln94208-31-p2s5w8</LM>
 </w.rf>
 <form>špindlerovomlýnské</form>
-<tag>
-<AM lemma="špindlerovomlýnský" src="orig">NNFS6-----A----</AM>
-<AM lemma="špindlerovomlýnský" src="auto">AAFS2----1A----</AM>
-<AM lemma="špindlerovomlýnský" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="špindlerovomlýnský" src="auto">AANS1----1A----</AM>
-<AM lemma="špindlerovomlýnský" src="auto">AAFP1----1A----</AM>
-<AM lemma="špindlerovomlýnský" src="auto">AAIP1----1A----</AM>
-<AM lemma="špindlerovomlýnský" src="auto">AANS4----1A----</AM>
-<AM lemma="špindlerovomlýnský" src="auto">AAFP4----1A----</AM>
-<AM lemma="špindlerovomlýnský" src="auto">AAFS3----1A----</AM>
-</tag>
+<tag lemma="špindlerovomlýnský" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94208-31-p2s5w9">
 <src.rf>manual</src.rf>

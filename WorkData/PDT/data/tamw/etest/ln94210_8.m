@@ -864,25 +864,7 @@
 <LM>w#w-ln94210-8-p3s1Aw1</LM>
 </w.rf>
 <form>GAJA</form>
-<tag>
-<AM lemma="GAJA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GAJA_:B_;K_,t_^(Europäische_Journalismus_Akademie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GAJA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GAJA_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GAJA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="GAJA_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="GAJA_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="GAJA_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Gij_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Gaja_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Gať_,t" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="Gyj_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Gyj_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Gij_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gaja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gaja_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="gaja" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="GAJA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94210-8-p3s1Aw2">
 <src.rf>manual</src.rf>
@@ -4879,25 +4861,7 @@
 <LM>w#w-ln94210-8-p11s2w3</LM>
 </w.rf>
 <form>GAJA</form>
-<tag>
-<AM lemma="GAJA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GAJA_:B_;K_,t_^(Europäische_Journalismus_Akademie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GAJA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GAJA_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GAJA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="GAJA_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="GAJA_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="GAJA_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Gij_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Gaja_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Gať_,t" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="Gyj_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Gyj_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Gij_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gaja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gaja_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="gaja" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="GAJA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94210-8-p11s2w4">
 <src.rf>manual</src.rf>

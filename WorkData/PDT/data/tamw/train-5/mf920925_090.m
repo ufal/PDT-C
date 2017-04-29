@@ -1962,17 +1962,7 @@
 <LM>w#w-mf920925-090-p2s12w17</LM>
 </w.rf>
 <form>Gmeiner</form>
-<tag>
-<AM lemma="Gmeiner_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gmeiner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gmeiner" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gmeiner" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gmeine_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gmeimer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gmeiner_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Gmeiner_;K_,t_^(měm.,_v_názvech)" src="auto">AAXXX----1A----</AM>
-<AM lemma="gmeiner" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gmeiner_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-090-p2s12w18">
 <src.rf>manual</src.rf>

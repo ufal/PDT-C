@@ -591,25 +591,7 @@
 <LM>w#w-cmpr9410-002-p4s4w2</LM>
 </w.rf>
 <form>AOT</form>
-<tag>
-<AM lemma="AOT_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AOT_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="AOT_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AOT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AOT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="AOT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AOT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AOT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Aot" src="auto">NNIS1-----A----</AM>
-<AM lemma="Aot" src="auto">NNIS4-----A----</AM>
-<AM lemma="Aota" src="auto">NNFP2-----A----</AM>
-<AM lemma="Aot_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aot" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aot_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Aot_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Aot_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="aot" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="AOT_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9410-002-p4s4w3">
 <src.rf>manual</src.rf>
@@ -2542,17 +2524,7 @@
 <LM>w#w-cmpr9410-002-p13s1w5</LM>
 </w.rf>
 <form>incommingu</form>
-<tag>
-<AM lemma="incomming_,t" src="orig">NNIS3-----A----</AM>
-<AM lemma="incomming" src="auto">NNIS2-----A----</AM>
-<AM lemma="incomming" src="auto">NNIS6-----A----</AM>
-<AM lemma="incomming_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="incomming_;G" src="auto" recommended="1">NNIS3-----A----</AM>
-<AM lemma="incomming_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="incomming_,t" src="auto">NNIS2-----A----</AM>
-<AM lemma="incomming_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-incomming)" src="auto">NNIS6-----A----</AM>
-</tag>
+<tag lemma="incomming_,t" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-cmpr9410-002-p13s1w6">
 <src.rf>manual</src.rf>
@@ -3136,17 +3108,7 @@
 <LM>w#w-cmpr9410-002-p14s3w2</LM>
 </w.rf>
 <form>incommingu</form>
-<tag>
-<AM lemma="incomming_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="incomming" src="auto">NNIS2-----A----</AM>
-<AM lemma="incomming" src="auto">NNIS6-----A----</AM>
-<AM lemma="incomming_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="incomming_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="incomming_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="incomming_,t" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="incomming_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-incomming)" src="auto">NNIS6-----A----</AM>
-</tag>
+<tag lemma="incomming_,t" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-002-p14s3w3">
 <src.rf>manual</src.rf>

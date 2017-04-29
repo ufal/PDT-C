@@ -592,17 +592,7 @@
 <LM>w#w-ln95045-049-p3s1w8</LM>
 </w.rf>
 <form>monochrómních</form>
-<tag>
-<AM lemma="monochrómní" src="orig">AANP2----1A----</AM>
-<AM lemma="monochrómní" src="auto">AAFP2----1A----</AM>
-<AM lemma="monochrómní" src="auto">AAIP2----1A----</AM>
-<AM lemma="monochrómní" src="auto">AAFP6----1A----</AM>
-<AM lemma="monochrómní" src="auto" recommended="1">AANP2----1A----</AM>
-<AM lemma="monochrómne" src="auto">NNFP6-----A----</AM>
-<AM lemma="monochrómní" src="auto">AAIP6----1A----</AM>
-<AM lemma="monochrómní" src="auto">AAMP2----1A----</AM>
-<AM lemma="monochrómne_;G" src="auto">NNFP6-----A----</AM>
-</tag>
+<tag lemma="monochrómní" src="orig" selected="1">AANP2----1A----</tag>
 </m>
 <m id="m-ln95045-049-p3s1w9">
 <src.rf>manual</src.rf>

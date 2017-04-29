@@ -101,18 +101,7 @@
 <LM>w#w-cmpr9410-030-p3s1w10</LM>
 </w.rf>
 <form>Solarmax</form>
-<tag>
-<AM lemma="Solarmax_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Solarmaximální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Solarmaximum_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Solarmax_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Solarmax_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Solarmax_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Solarmax_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Solarmax_;R_,t_^(software)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Solarmax_;L_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="solarmax" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Solarmax_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-030-p3s1w11">
 <src.rf>manual</src.rf>

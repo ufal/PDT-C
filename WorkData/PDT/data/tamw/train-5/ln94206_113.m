@@ -289,26 +289,7 @@
 <LM>w#w-ln94206-113-p3s2w4</LM>
 </w.rf>
 <form>TGT</form>
-<tag>
-<AM lemma="TGT_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="TGT_:B_;R_^(gran_turismo)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="TGT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Tgt_;G_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Tgt_:B_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Tgt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tgt_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tgt" src="auto">NNIS1-----A----</AM>
-<AM lemma="tgt" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="TGT_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94206-113-p3s2w5">
 <src.rf>manual</src.rf>
@@ -382,18 +363,7 @@
 <LM>w#w-ln94206-113-p4s1w5</LM>
 </w.rf>
 <form>Jets</form>
-<tag>
-<AM lemma="Jets_;K" src="orig">NNFPX-----A----</AM>
-<AM lemma="Jet_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Jet_;K_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Jet_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Jets_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Jets_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jets_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Jets_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Jets_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="jets" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jets_;K" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94206-113-p4s1w6">
 <src.rf>manual</src.rf>
@@ -562,18 +532,7 @@
 <LM>w#w-ln94206-113-p5s1w10</LM>
 </w.rf>
 <form>Mighty</form>
-<tag>
-<AM lemma="Mighty_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Mighta" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Mighta_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mighta-2" src="auto">NNFP4-----A----</AM>
-<AM lemma="Mighta-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mighta" src="auto">NNFP1-----A----</AM>
-<AM lemma="Might_,l" src="auto">NNIP7-----A----</AM>
-<AM lemma="Mighet" src="auto">NNIP7-----A----</AM>
-<AM lemma="Mighet" src="auto">NNIP4-----A----</AM>
-<AM lemma="mighty" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mighty_;K" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94206-113-p5s1w11">
 <src.rf>manual</src.rf>
@@ -581,16 +540,7 @@
 <LM>w#w-ln94206-113-p5s1w11</LM>
 </w.rf>
 <form>Ducks</form>
-<tag>
-<AM lemma="Ducks_;K" src="orig">NNFPX-----A----</AM>
-<AM lemma="Duck_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Ducks_;K_,t_^(sport._klub)" src="auto">NNIPX-----A----</AM>
-<AM lemma="Ducks_;K" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Ducks_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ducks" src="auto">NNIS4-----A----</AM>
-<AM lemma="Duck_;R_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="ducks" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ducks_;K" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94206-113-p5s1w12">
 <src.rf>manual</src.rf>

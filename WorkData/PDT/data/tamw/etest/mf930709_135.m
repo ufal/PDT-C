@@ -393,17 +393,7 @@
 <LM>w#w-mf930709-135-p2s3w3</LM>
 </w.rf>
 <form>Yecse</form>
-<tag>
-<AM lemma="Yecs_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Yecs_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Yecs_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Yecs" src="auto">NNIS6-----A----</AM>
-<AM lemma="Yecse_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Yecse" src="auto">NNFS2-----A----</AM>
-<AM lemma="Yecs_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Yecse" src="auto">NNFS1-----A----</AM>
-<AM lemma="yecse" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Yecs_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-135-p2s3w4">
 <src.rf>manual</src.rf>
@@ -507,18 +497,7 @@
 <LM>w#w-mf930709-135-p2s3w16</LM>
 </w.rf>
 <form>Driskill</form>
-<tag>
-<AM lemma="Driskill_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Driskill_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Driskill_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Driskill_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Driskill_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Driskill_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Driskill_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Driskill_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Driskill_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="driskill" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Driskill_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-135-p2s3w17">
 <src.rf>manual</src.rf>
@@ -612,18 +591,7 @@
 <LM>w#w-mf930709-135-p2s4w10</LM>
 </w.rf>
 <form>Bergalisová</form>
-<tag>
-<AM lemma="Bergalisová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Bergalisová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Bergalisový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Bergalisový" src="auto">AANP1----1A----</AM>
-<AM lemma="Bergalisový" src="auto">AANP4----1A----</AM>
-<AM lemma="Bergalisová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bergalisová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bergalisový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Bergalisový" src="auto">AAFS5----1A----</AM>
-<AM lemma="bergalisová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bergalisová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-135-p2s4w11">
 <src.rf>manual</src.rf>

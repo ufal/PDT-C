@@ -303,26 +303,7 @@
 <LM>w#w-ln94204-99-p2s2w11</LM>
 </w.rf>
 <form>Vox</form>
-<tag>
-<AM lemma="Vox_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Vox" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vox-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vox-4_;K_^(film._produkce)" src="auto">NNMXX-----A----</AM>
-<AM lemma="Vox_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vox_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Vox_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vox_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Vox_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="vox" src="auto">NNIS1-----A----</AM>
-<AM lemma="vox-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="vox-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="vox-4_;K_^(film._produkce)" src="auto">NNMXX-----A----</AM>
-<AM lemma="vox_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="vox_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="vox_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="vox_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="vox_;R" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="Vox_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-99-p2s2w12">
 <src.rf>manual</src.rf>
@@ -330,17 +311,7 @@
 <LM>w#w-ln94204-99-p2s2w12</LM>
 </w.rf>
 <form>amabilis</form>
-<tag>
-<AM lemma="amabilis_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="amabilis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="amabilis_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="amabilis_,t" src="auto">AAISX----1A----</AM>
-<AM lemma="amabilisa" src="auto">NNFP2-----A----</AM>
-<AM lemma="amabilis_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="amabilis_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="amabilis_;L_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="amabilis_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-</tag>
+<tag lemma="amabilis_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-99-p2s2w13">
 <src.rf>manual</src.rf>
@@ -388,18 +359,7 @@
 <LM>w#w-ln94204-99-p2s2w18</LM>
 </w.rf>
 <form>Renatus</form>
-<tag>
-<AM lemma="Renatus_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Renatus" src="auto">NNIS1-----A----</AM>
-<AM lemma="Renatus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Renatus_;L_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="Renatus" src="auto">NNIS4-----A----</AM>
-<AM lemma="Renatus_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="erectus-1_,t_^(Homo_Renatus)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Renatus_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Renatus_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="renatus" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Renatus_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-99-p2s2w19">
 <src.rf>manual</src.rf>
@@ -1019,21 +979,7 @@
 <LM>w#w-ln94204-99-p3s5w2</LM>
 </w.rf>
 <form>ir</form>
-<tag>
-<AM lemma="ir-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ir-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ir_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ir_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ir_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ir_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ir_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="ira" src="auto">NNFP2-----A----</AM>
-<AM lemma="irežie_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="irok_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="iroslav_:B_;Y" src="auto">NNMXX-----A---8</AM>
-<AM lemma="iručení_:B" src="auto">NNNS7-----A---8</AM>
-<AM lemma="pair-2_^(au-ir)" src="auto">NNFXX-----A----</AM>
-</tag>
+<tag lemma="ir-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-99-p3s5w3">
 <src.rf>manual</src.rf>

@@ -69,20 +69,7 @@
 <LM>w#w-lnd94103-075-p1s2w3</LM>
 </w.rf>
 <form>ol</form>
-<tag>
-<AM lemma="ol-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ol" src="auto">NNIS1-----A----</AM>
-<AM lemma="ol" src="auto">NNIS4-----A----</AM>
-<AM lemma="ol-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ol-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ol_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ol_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ol_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ola" src="auto">NNFP2-----A----</AM>
-<AM lemma="oletopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
-<AM lemma="olitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="olo" src="auto">NNNP2-----A----</AM>
-</tag>
+<tag lemma="ol-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-075-p1s2w4">
 <src.rf>manual</src.rf>

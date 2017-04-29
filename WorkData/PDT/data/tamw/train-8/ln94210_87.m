@@ -191,17 +191,7 @@
 <LM>w#w-ln94210-87-p2s1Bw14</LM>
 </w.rf>
 <form>Jediot</form>
-<tag>
-<AM lemma="Jediot_;R_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Jediot_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jediot" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jediot_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Jediot_;R_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Jediot_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Jediot_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jediot" src="auto">NNIS1-----A----</AM>
-<AM lemma="jediot" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jediot_;R_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94210-87-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -209,18 +199,7 @@
 <LM>w#w-ln94210-87-p2s1Bw15</LM>
 </w.rf>
 <form>Achronot</form>
-<tag>
-<AM lemma="Achronot_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Achronota" src="auto">NNFP2-----A----</AM>
-<AM lemma="Achronot_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Achronot_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Achronot_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Achronot_,t" src="auto">TT-------------</AM>
-<AM lemma="Achronot" src="auto">NNIS4-----A----</AM>
-<AM lemma="Achronot" src="auto">NNIS1-----A----</AM>
-<AM lemma="Achronot_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="achronot" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Achronot_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-87-p2s1Bw16">
 <src.rf>manual</src.rf>

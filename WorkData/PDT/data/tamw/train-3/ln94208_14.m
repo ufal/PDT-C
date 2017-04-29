@@ -2831,17 +2831,7 @@
 <LM>w#w-ln94208-14-p7s3w10</LM>
 </w.rf>
 <form>stimulativní</form>
-<tag>
-<AM lemma="stimulativní" src="orig">AAIP1----1A----</AM>
-<AM lemma="stimulativní" src="auto">AAFS1----1A----</AM>
-<AM lemma="stimulativní" src="auto">AAFS2----1A----</AM>
-<AM lemma="stimulativní" src="auto">AAFS4----1A----</AM>
-<AM lemma="stimulativní" src="auto">AAIS1----1A----</AM>
-<AM lemma="stimulativní" src="auto">AANS1----1A----</AM>
-<AM lemma="stimulativní" src="auto">AAIS4----1A----</AM>
-<AM lemma="stimulativní" src="auto" recommended="1">AAIP1----1A----</AM>
-<AM lemma="stimulativní" src="auto">AAFS7----1A----</AM>
-</tag>
+<tag lemma="stimulativní" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln94208-14-p7s3w11">
 <src.rf>manual</src.rf>

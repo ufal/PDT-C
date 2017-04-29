@@ -864,17 +864,7 @@
 <LM>w#w-ln94208-89-p2s3w45</LM>
 </w.rf>
 <form>showbusinessu</form>
-<tag>
-<AM lemma="showbyznys" src="orig">NNIS3-----A----</AM>
-<AM lemma="showbyznys" src="auto" recommended="1">NNIS3-----A----</AM>
-<AM lemma="showbusiness_;K_,t" src="auto">NNIS3-----A----</AM>
-<AM lemma="showbusiness-2_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="showbusiness" src="auto">NNIS2-----A----</AM>
-<AM lemma="showbusiness" src="auto">NNIS6-----A---1</AM>
-<AM lemma="showbusiness" src="auto">NNIS3-----A----</AM>
-<AM lemma="showbusiness" src="auto">NNIS6-----A----</AM>
-<AM lemma="showbusinessa" src="auto">NNFS4-----A----</AM>
-</tag>
+<tag lemma="showbyznys" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln94208-89-p2s3w46">
 <src.rf>manual</src.rf>
@@ -2410,27 +2400,7 @@
 <LM>w#w-ln94208-89-p3s7w3</LM>
 </w.rf>
 <form>EKULT</form>
-<tag>
-<AM lemma="EKULT_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EKULT" src="auto">NNNXX-----A----</AM>
-<AM lemma="EKULT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EKULT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="EKULT_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="EKULT_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EKULT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EKULT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ekult" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ekult_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ekult_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Ekult_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ekult_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ekult_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ekult_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ekulta" src="auto">NNFP2-----A----</AM>
-<AM lemma="ekult" src="auto">NNIS1-----A----</AM>
-<AM lemma="ekult" src="auto">NNIS4-----A----</AM>
-<AM lemma="ekult" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="EKULT_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94208-89-p3s7w4">
 <src.rf>manual</src.rf>

@@ -157,19 +157,7 @@
 <LM>w#w-ln94209-55-p2s1Aw13</LM>
 </w.rf>
 <form>ČAV</form>
-<tag>
-<AM lemma="ČAV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČAV_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Čav_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čava" src="auto">NNFP2-----A----</AM>
-<AM lemma="Čav-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čav" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čav" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čav_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čav_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čav_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="čav" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ČAV_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 </s>
 <s id="m-ln94209-55-p2s1B">
@@ -1435,15 +1423,7 @@
 <LM>w#w-ln94209-55-p3s2w9</LM>
 </w.rf>
 <form>hoc</form>
-<tag>
-<AM lemma="hoc_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="hoc_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="hoc_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="hoc_,t" src="auto">Db-------------</AM>
-<AM lemma="hoc" src="auto">NNFS4-----A----</AM>
-<AM lemma="hoc" src="auto">NNFS1-----A----</AM>
-<AM lemma="hoc_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="hoc_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94209-55-p3s2w10">
 <src.rf>manual</src.rf>
@@ -2511,12 +2491,7 @@
 <LM>w#w-ln94209-55-p6s1w38</LM>
 </w.rf>
 <form>§§</form>
-<tag>
-<AM lemma="§_^(paragraf)" src="orig">NNIPX-----A---1</AM>
-<AM lemma="§_^(paragraf)" src="auto" recommended="1">NNIPX-----A---1</AM>
-<AM lemma="§§_^(paragraf)" src="auto">Z:-------------</AM>
-<AM lemma="§§_^(paragraf)" src="auto">NNIXX-----A---1</AM>
-</tag>
+<tag lemma="§_^(paragraf)" src="orig" selected="1">NNIPX-----A---1</tag>
 </m>
 <m id="m-ln94209-55-p6s1w39">
 <src.rf>manual</src.rf>
@@ -3214,25 +3189,7 @@
 <LM>w#w-ln94209-55-p7s1w10</LM>
 </w.rf>
 <form>ČsOPK</form>
-<tag>
-<AM lemma="ČsOPK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČsOPK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČsOPK_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ČsOPK-1_:B_;K_^(Českosloven._obchodní_a_průmyslová_komora)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČsOpedokomplex_:B_^(půdní_komplex)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČsOPK_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČsOPK_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČsOPK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČsOPK-1_:B_;G_^(Palác_kultury)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Čsopk-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Čsopk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čsopk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čsopk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čsopk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čsopk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čsopk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="čsopk" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ČsOPK_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94209-55-p7s1w11">
 <src.rf>manual</src.rf>
@@ -4967,12 +4924,7 @@
 <LM>w#w-ln94209-55-p9s4w17</LM>
 </w.rf>
 <form>§§</form>
-<tag>
-<AM lemma="§_^(paragraf)" src="orig">NNIPX-----A---1</AM>
-<AM lemma="§_^(paragraf)" src="auto" recommended="1">NNIPX-----A---1</AM>
-<AM lemma="§§_^(paragraf)" src="auto">Z:-------------</AM>
-<AM lemma="§§_^(paragraf)" src="auto">NNIXX-----A---1</AM>
-</tag>
+<tag lemma="§_^(paragraf)" src="orig" selected="1">NNIPX-----A---1</tag>
 </m>
 <m id="m-ln94209-55-p9s4w18">
 <src.rf>manual</src.rf>
@@ -6015,25 +5967,7 @@
 <LM>w#w-ln94209-55-p11s1w14</LM>
 </w.rf>
 <form>ČsOPK</form>
-<tag>
-<AM lemma="ČsOPK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČsOPK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČsOPK_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ČsOPK-1_:B_;K_^(Českosloven._obchodní_a_průmyslová_komora)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČsOpedokomplex_:B_^(půdní_komplex)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČsOPK_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČsOPK_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČsOPK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČsOPK-1_:B_;G_^(Palác_kultury)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Čsopk-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Čsopk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čsopk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čsopk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čsopk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čsopk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čsopk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="čsopk" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ČsOPK_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94209-55-p11s1w15">
 <src.rf>manual</src.rf>
@@ -6381,25 +6315,7 @@
 <LM>w#w-ln94209-55-p11s3w7</LM>
 </w.rf>
 <form>ČsOPK</form>
-<tag>
-<AM lemma="ČsOPK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČsOPK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČsOPK_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ČsOPK-1_:B_;K_^(Českosloven._obchodní_a_průmyslová_komora)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČsOpedokomplex_:B_^(půdní_komplex)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČsOPK_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČsOPK_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČsOPK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČsOPK-1_:B_;G_^(Palác_kultury)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Čsopk-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Čsopk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čsopk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čsopk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čsopk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čsopk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čsopk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="čsopk" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ČsOPK_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94209-55-p11s3w8">
 <src.rf>manual</src.rf>
@@ -6992,25 +6908,7 @@
 <LM>w#w-ln94209-55-p12s1w54</LM>
 </w.rf>
 <form>ČsOPK</form>
-<tag>
-<AM lemma="ČsOPK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČsOPK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČsOPK_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ČsOPK-1_:B_;K_^(Českosloven._obchodní_a_průmyslová_komora)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČsOpedokomplex_:B_^(půdní_komplex)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČsOPK_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČsOPK_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČsOPK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČsOPK-1_:B_;G_^(Palác_kultury)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Čsopk-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Čsopk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čsopk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čsopk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čsopk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čsopk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čsopk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="čsopk" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ČsOPK_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94209-55-p12s1w55">
 <src.rf>manual</src.rf>
@@ -7369,12 +7267,7 @@
 <LM>w#w-ln94209-55-p12s3w19</LM>
 </w.rf>
 <form>§§</form>
-<tag>
-<AM lemma="§_^(paragraf)" src="orig">NNIPX-----A---1</AM>
-<AM lemma="§_^(paragraf)" src="auto" recommended="1">NNIPX-----A---1</AM>
-<AM lemma="§§_^(paragraf)" src="auto">Z:-------------</AM>
-<AM lemma="§§_^(paragraf)" src="auto">NNIXX-----A---1</AM>
-</tag>
+<tag lemma="§_^(paragraf)" src="orig" selected="1">NNIPX-----A---1</tag>
 </m>
 <m id="m-ln94209-55-p12s3w20">
 <src.rf>manual</src.rf>

@@ -151,20 +151,7 @@
 <LM>w#w-ln94211-18-p2s1Bw3</LM>
 </w.rf>
 <form>sa</form>
-<tag>
-<AM lemma="sa-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="sa" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="sa-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="sa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="sa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="sakciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="so" src="auto">NNNP4-----A----</AM>
-<AM lemma="so" src="auto">NNNS2-----A----</AM>
-<AM lemma="so_;S" src="auto">NNMS2-----A----</AM>
-</tag>
+<tag lemma="sa-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94211-18-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -1728,18 +1715,7 @@
 <LM>w#w-ln94211-18-p6s2w8</LM>
 </w.rf>
 <form>Destacross</form>
-<tag>
-<AM lemma="Destacross_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Destacross_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Destacross_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Destacross_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Destacross" src="auto">NNMS1-----A----</AM>
-<AM lemma="Destacross_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Destacross_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Destacross_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Destacross_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="destacross" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Destacross_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-18-p6s2w9">
 <src.rf>manual</src.rf>

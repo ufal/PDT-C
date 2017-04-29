@@ -453,17 +453,7 @@
 <LM>w#w-mf920925-051-p2s1w52</LM>
 </w.rf>
 <form>Houssat</form>
-<tag>
-<AM lemma="Houssat_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Houssat" src="auto">Vf--------A----</AM>
-<AM lemma="Houssat_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Houssat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Houssat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Housse" src="auto">NNNP2-----A----</AM>
-<AM lemma="Houssat_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Houssat_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="houssat" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Houssat_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-051-p2s1w53">
 <src.rf>manual</src.rf>
@@ -1079,17 +1069,7 @@
 <LM>w#w-mf920925-051-p2s5w29</LM>
 </w.rf>
 <form>Houssat</form>
-<tag>
-<AM lemma="Houssat_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Houssat" src="auto">Vf--------A----</AM>
-<AM lemma="Houssat_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Houssat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Houssat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Housse" src="auto">NNNP2-----A----</AM>
-<AM lemma="Houssat_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Houssat_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="houssat" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Houssat_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-051-p2s5w30">
 <src.rf>manual</src.rf>
@@ -1179,18 +1159,7 @@
 <LM>w#w-mf920925-051-p2s6w10</LM>
 </w.rf>
 <form>Lartigue</form>
-<tag>
-<AM lemma="Lartigue_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lartigue_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Lartigue_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lartigue_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lartigue_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Lartigue_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Lartigue_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Lartigue_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lartigue_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="lartigue" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lartigue_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-051-p2s6w11">
 <src.rf>manual</src.rf>

@@ -545,18 +545,7 @@
 <LM>w#w-ln95048-026-p2s2Bw12</LM>
 </w.rf>
 <form>Sefer</form>
-<tag>
-<AM lemma="Sefer_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sefer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sefer_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sefer_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Sefer_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sefer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sefer" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sefer" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sefer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sefer" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sefer_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-026-p2s2Bw13">
 <src.rf>manual</src.rf>
@@ -1445,16 +1434,7 @@
 <LM>w#w-ln95048-026-p3s6w7</LM>
 </w.rf>
 <form>Pirkej</form>
-<tag>
-<AM lemma="pirkej_,t" src="orig">NNIP1-----A----</AM>
-<AM lemma="Pirký_,t" src="auto">AAFS2----1A----</AM>
-<AM lemma="Pirký" src="auto">PZYS1---------6</AM>
-<AM lemma="Pirký" src="auto">AAMS5----1A---6</AM>
-<AM lemma="Pirký" src="auto">AAMS1----1A---6</AM>
-<AM lemma="Pirký" src="auto">AAIS4----1A---6</AM>
-<AM lemma="Pirkat_:T" src="auto">Vi-S---2--A----</AM>
-<AM lemma="pirkej" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="pirkej_,t" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln95048-026-p3s6w8">
 <src.rf>manual</src.rf>
@@ -1462,17 +1442,7 @@
 <LM>w#w-ln95048-026-p3s6w8</LM>
 </w.rf>
 <form>avot</form>
-<tag>
-<AM lemma="avot_,t" src="orig">NNMP2-----A----</AM>
-<AM lemma="avot" src="auto">NNIS1-----A----</AM>
-<AM lemma="avot_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="avot_,t" src="auto">TT-------------</AM>
-<AM lemma="avot_,t" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="avot" src="auto">NNMS1-----A----</AM>
-<AM lemma="avot" src="auto">NNIS4-----A----</AM>
-<AM lemma="avota" src="auto">NNFP2-----A----</AM>
-<AM lemma="avot_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="avot_,t" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95048-026-p3s6w9">
 <src.rf>manual</src.rf>
@@ -3172,18 +3142,7 @@
 <LM>w#w-ln95048-026-p5s6Bw4</LM>
 </w.rf>
 <form>Sefer</form>
-<tag>
-<AM lemma="Sefer_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sefer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sefer_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sefer_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Sefer_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sefer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sefer" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sefer" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sefer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sefer" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sefer_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-026-p5s6Bw5">
 <src.rf>manual</src.rf>
@@ -3909,18 +3868,7 @@
 <LM>w#w-ln95048-026-p7s1w3</LM>
 </w.rf>
 <form>Sefer</form>
-<tag>
-<AM lemma="Sefer_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sefer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sefer_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sefer_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Sefer_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sefer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sefer" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sefer" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sefer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sefer" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sefer_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-026-p7s1w4">
 <src.rf>manual</src.rf>

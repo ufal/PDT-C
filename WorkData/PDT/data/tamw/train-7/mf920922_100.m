@@ -456,25 +456,7 @@
 <LM>w#w-mf920922-100-p1s3w14</LM>
 </w.rf>
 <form>Tvs</form>
-<tag>
-<AM lemma="Tvs_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Tvs_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Tvs_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tvs" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tvs" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tvs_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tvs_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tvs_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tv_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="tvs_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="tvs_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tvs" src="auto">NNIS1-----A----</AM>
-<AM lemma="tvs" src="auto">NNIS4-----A----</AM>
-<AM lemma="tvs_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="tvs_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="tvs_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="tv_;K_,t" src="auto">NNMPX-----A----</AM>
-</tag>
+<tag lemma="Tvs_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920922-100-p1s3w15">
 <src.rf>manual</src.rf>

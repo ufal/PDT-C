@@ -651,18 +651,7 @@
 <LM>w#w-ln94200-128-p3s1w3</LM>
 </w.rf>
 <form>Römichové</form>
-<tag>
-<AM lemma="Römichová_;S" src="orig">NNFS2-----A----</AM>
-<AM lemma="Römichový" src="auto">AAFS2----1A----</AM>
-<AM lemma="Römichová_;S" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Römichový" src="auto">AAFS6----1A----</AM>
-<AM lemma="Römichový" src="auto">AAFP1----1A----</AM>
-<AM lemma="Römichový" src="auto">AAIP1----1A----</AM>
-<AM lemma="Römichový" src="auto">AAIP4----1A----</AM>
-<AM lemma="Römichový" src="auto">AAFP4----1A----</AM>
-<AM lemma="Römichový" src="auto">AANS1----1A----</AM>
-<AM lemma="römichové" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Römichová_;S" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-128-p3s1w4">
 <src.rf>manual</src.rf>
@@ -678,18 +667,7 @@
 <LM>w#w-ln94200-128-p3s1w5</LM>
 </w.rf>
 <form>Frauhoferova</form>
-<tag>
-<AM lemma="Frauhoferův_;S_^(*2)" src="orig">AUIS2M---------</AM>
-<AM lemma="Frauhoferův_;S_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="Frauhoferův_;S_^(*2)" src="auto" recommended="1">AUIS2M---------</AM>
-<AM lemma="Frauhoferov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Frauhoferov_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Frauhoferův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Frauhoferův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Frauhoferov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Frauhoferův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="frauhoferova" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Frauhoferův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln94200-128-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1171,17 +1149,7 @@
 <LM>w#w-ln94200-128-p4s1w13</LM>
 </w.rf>
 <form>anorganicko</form>
-<tag>
-<AM lemma="anorganický" src="orig">A2--------A----</AM>
-<AM lemma="anorganicek" src="auto">PLNS1----------</AM>
-<AM lemma="anorganicek" src="auto">PLNS4----------</AM>
-<AM lemma="anorganicko" src="auto">A2--------A----</AM>
-<AM lemma="anorganicko_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="anorganicko_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="anorganicko_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="anorganicko_;G_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="anorganický" src="auto" recommended="1">A2--------A----</AM>
-</tag>
+<tag lemma="anorganický" src="orig" selected="1">A2--------A----</tag>
 </m>
 <m id="m-ln94200-128-p4s1w14">
 <src.rf>manual</src.rf>
@@ -2402,18 +2370,7 @@
 <LM>w#w-ln94200-128-p5s2w20</LM>
 </w.rf>
 <form>Römichová</form>
-<tag>
-<AM lemma="Römichová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Römichová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Römichový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Römichový" src="auto">AANP1----1A----</AM>
-<AM lemma="Römichový" src="auto">AANP4----1A----</AM>
-<AM lemma="Römichová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Römichová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Römichový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Römichový" src="auto">AAFS5----1A----</AM>
-<AM lemma="römichová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Römichová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-128-p5s2w21">
 <src.rf>manual</src.rf>
@@ -2437,21 +2394,7 @@
 <LM>w#w-ln94200-128-p5s2w23</LM>
 </w.rf>
 <form>ir</form>
-<tag>
-<AM lemma="ir-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ir-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ir_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ir_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ir_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ir_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ir_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="ira" src="auto">NNFP2-----A----</AM>
-<AM lemma="irežie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="irok_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="iroslav_:B_;Y" src="auto">NNMXX-----A---8</AM>
-<AM lemma="iručení_:B" src="auto">NNNS7-----A---8</AM>
-<AM lemma="pair-2_^(au-ir)" src="auto">NNFXX-----A----</AM>
-</tag>
+<tag lemma="ir-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-128-p5s2w24">
 <src.rf>manual</src.rf>

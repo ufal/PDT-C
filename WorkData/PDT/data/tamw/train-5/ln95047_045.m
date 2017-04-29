@@ -35,18 +35,7 @@
 <LM>w#w-ln95047-045-p1s1w3</LM>
 </w.rf>
 <form>Artagnanův</form>
-<tag>
-<AM lemma="Artagnanův_;S_^(*2)" src="orig">AUIS4M---------</AM>
-<AM lemma="Artagnanův_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Artagnanův_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="Artagnanův_;S_^(*2)" src="auto" recommended="1">AUIS4M---------</AM>
-<AM lemma="Artagnanův_;S_^(*2a)" src="auto">AUIS1M---------</AM>
-<AM lemma="Artagnanův_;S_;Y_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Artagnanův_;E_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Artagnanův_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="Artagnanův_;Y_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="artagnanův" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Artagnanův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln95047-045-p1s1w4">
 <src.rf>manual</src.rf>
@@ -112,19 +101,7 @@
 <LM>w#w-ln95047-045-p2s1w4</LM>
 </w.rf>
 <form>ARTAGNAN</form>
-<tag>
-<AM lemma="Artagnan_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Artagnan_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Artagnan_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Artagnan_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Artagnan_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Artagnan-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Artagnan" src="auto">NNMS1-----A----</AM>
-<AM lemma="Artagnan_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Artagnany_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Artagnan" src="auto">NNIS1-----A----</AM>
-<AM lemma="artagnan" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Artagnan_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-045-p2s1w5">
 <src.rf>manual</src.rf>
@@ -488,11 +465,7 @@
 <LM>w#w-ln95047-045-p3s1w6</LM>
 </w.rf>
 <form>Jérôme</form>
-<tag>
-<AM lemma="Jérôme_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jérôme_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="jérôme" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jérôme_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-045-p3s1w7">
 <src.rf>manual</src.rf>
@@ -557,18 +530,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Théatre</form>
-<tag>
-<AM lemma="Théatre_;K_,t" src="orig">NNNSX-----A----</AM>
-<AM lemma="Théatre_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Théatre_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Théatre_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Théatre_;R_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Théatre_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Théatre_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Théatre_;K_,t" src="auto" recommended="1">NNNSX-----A----</AM>
-<AM lemma="Théatre_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="théatre" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Théatre_;K_,t" src="orig" selected="1">NNNSX-----A----</tag>
 </m>
 <m id="m-ln95047-045-p3s1w15">
 <src.rf>manual</src.rf>
@@ -679,15 +641,7 @@
 <LM>w#w-ln95047-045-p3s1w27</LM>
 </w.rf>
 <form>Dabadiem</form>
-<tag>
-<AM lemma="Dabadie_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Dabadium" src="auto">NNNS7-----A----</AM>
-<AM lemma="Dabadie_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Dabadio" src="auto">NNNS7-----A----</AM>
-<AM lemma="Dabadium_;H" src="auto">NNNS7-----A----</AM>
-<AM lemma="Dabadio_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="dabadiem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dabadie_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95047-045-p3s1w28">
 <src.rf>manual</src.rf>
@@ -1282,18 +1236,7 @@
 <LM>w#w-ln95047-045-p4s1w52</LM>
 </w.rf>
 <form>Bonacieuxová</form>
-<tag>
-<AM lemma="Bonacieuxová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Bonacieuxová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Bonacieuxový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Bonacieuxový" src="auto">AANP1----1A----</AM>
-<AM lemma="Bonacieuxový" src="auto">AANP4----1A----</AM>
-<AM lemma="Bonacieuxová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bonacieuxová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bonacieuxový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Bonacieuxový" src="auto">AAFS5----1A----</AM>
-<AM lemma="bonacieuxová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bonacieuxová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-045-p4s1w53">
 <src.rf>manual</src.rf>
@@ -1451,18 +1394,7 @@
 <LM>w#w-ln95047-045-p4s3w17</LM>
 </w.rf>
 <form>Artagnana</form>
-<tag>
-<AM lemma="Artagnan_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Artagnan_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Artagnan_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Artagnan_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Artagnan_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Artagnan" src="auto">NNMS4-----A----</AM>
-<AM lemma="Artagnan" src="auto">NNMS2-----A----</AM>
-<AM lemma="Artagnana" src="auto">NNFS1-----A----</AM>
-<AM lemma="Artagnan_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="artagnana" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Artagnan_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95047-045-p4s3w18">
 <src.rf>manual</src.rf>
@@ -1970,17 +1902,7 @@
 <LM>w#w-ln95047-045-p5s2w7</LM>
 </w.rf>
 <form>Artagnanovi</form>
-<tag>
-<AM lemma="Artagnan_;S" src="orig">NNMS6-----A----</AM>
-<AM lemma="Artagnan_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Artagnan" src="auto">NNMS3-----A----</AM>
-<AM lemma="Artagnan_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Artagnana_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Artagnan_;S" src="auto" recommended="1">NNMS6-----A----</AM>
-<AM lemma="Artagnan" src="auto">NNMS6-----A----</AM>
-<AM lemma="Artagnanův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="artagnanovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Artagnan_;S" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln95047-045-p5s2w8">
 <src.rf>manual</src.rf>
@@ -2345,18 +2267,7 @@
 <LM>w#w-ln95047-045-p6s1w12</LM>
 </w.rf>
 <form>Artagnanovo</form>
-<tag>
-<AM lemma="Artagnanův_;S_^(*2)" src="orig">AUNS4M---------</AM>
-<AM lemma="Artagnanův_;S_^(*2)" src="auto">AUNS1M---------</AM>
-<AM lemma="Artagnanův_;S_^(*2)" src="auto" recommended="1">AUNS4M---------</AM>
-<AM lemma="Artagnanův_^(*2)" src="auto">AUNS4M---------</AM>
-<AM lemma="Artagnanův_;S_^(*2a)" src="auto">AUNS1M---------</AM>
-<AM lemma="Artagnanův_^(*2)" src="auto">AUNS1M---------</AM>
-<AM lemma="Artagnanovo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Artagnanův_^(*3ec)" src="auto">AUNS1M---------</AM>
-<AM lemma="Artagnanův_;S_^(*3ek)" src="auto">AUNS1M---------</AM>
-<AM lemma="artagnanovo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Artagnanův_;S_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-ln95047-045-p6s1w13">
 <src.rf>manual</src.rf>
@@ -2574,18 +2485,7 @@
 <LM>w#w-ln95047-045-p6s2w15</LM>
 </w.rf>
 <form>Artagnanovy</form>
-<tag>
-<AM lemma="Artagnanův_;S_^(*2)" src="orig">AUFP1M---------</AM>
-<AM lemma="Artagnanův_;S_^(*2)" src="auto">AUFS2M---------</AM>
-<AM lemma="Artagnanův_;S_^(*2)" src="auto" recommended="1">AUFP1M---------</AM>
-<AM lemma="Artagnanův_^(*2)" src="auto">AUFS2M---------</AM>
-<AM lemma="Artagnanův_;S_^(*2)" src="auto">AUIP1M---------</AM>
-<AM lemma="Artagnanův_;S_^(*2a)" src="auto">AUFS2M---------</AM>
-<AM lemma="Artagnanova" src="auto">NNFS2-----A----</AM>
-<AM lemma="Artagnanův_;S_^(*2)" src="auto">AUIP4M---------</AM>
-<AM lemma="Artagnanův_;S_^(*2)" src="auto">AUFP4M---------</AM>
-<AM lemma="artagnanovy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Artagnanův_;S_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-ln95047-045-p6s2w16">
 <src.rf>manual</src.rf>
@@ -2917,18 +2817,7 @@
 <LM>w#w-ln95047-045-p7s1w3</LM>
 </w.rf>
 <form>Artagnana</form>
-<tag>
-<AM lemma="Artagnan_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Artagnan_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Artagnan_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Artagnan_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Artagnan_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Artagnan" src="auto">NNMS4-----A----</AM>
-<AM lemma="Artagnan" src="auto">NNMS2-----A----</AM>
-<AM lemma="Artagnana" src="auto">NNFS1-----A----</AM>
-<AM lemma="Artagnan_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="artagnana" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Artagnan_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95047-045-p7s1w4">
 <src.rf>manual</src.rf>
@@ -3505,18 +3394,7 @@
 <LM>w#w-ln95047-045-p7s4w9</LM>
 </w.rf>
 <form>Artagnana</form>
-<tag>
-<AM lemma="Artagnan_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Artagnan_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Artagnan_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Artagnan_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Artagnan_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Artagnan" src="auto">NNMS4-----A----</AM>
-<AM lemma="Artagnan" src="auto">NNMS2-----A----</AM>
-<AM lemma="Artagnana" src="auto">NNFS1-----A----</AM>
-<AM lemma="Artagnan_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="artagnana" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Artagnan_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-045-p7s4w10">
 <src.rf>manual</src.rf>

@@ -1077,16 +1077,7 @@
 <LM>w#w-mf920922-119-p3s7w8</LM>
 </w.rf>
 <form>Ťube</form>
-<tag>
-<AM lemma="Ťube_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Ťubat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Ťube_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Ťube_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Ťube_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ťube_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Probe_;R_^(automobil_Ford_Ťube)" src="auto">NNIXX-----A----</AM>
-<AM lemma="ťube" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ťube_;G" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf920922-119-p3s7w9">
 <src.rf>manual</src.rf>
@@ -1128,17 +1119,7 @@
 <LM>w#w-mf920922-119-p4s1w4</LM>
 </w.rf>
 <form>Chudojberdy</form>
-<tag>
-<AM lemma="Chudojberdy_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chudojberd" src="auto">NNIP4-----A----</AM>
-<AM lemma="Chudojberda_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Chudojberda" src="auto">NNFS2-----A----</AM>
-<AM lemma="Chudojberd" src="auto">NNMP4-----A----</AM>
-<AM lemma="Chudojberd" src="auto">NNIP7-----A----</AM>
-<AM lemma="Chudojberd" src="auto">NNIP1-----A----</AM>
-<AM lemma="Chudojberdy_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="chudojberdy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chudojberdy_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-119-p4s1w5">
 <src.rf>manual</src.rf>

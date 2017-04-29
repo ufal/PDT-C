@@ -170,18 +170,7 @@
 <LM>w#w-lnd94103-069-p1s3w10</LM>
 </w.rf>
 <form>Czechoslovakia</form>
-<tag>
-<AM lemma="Czechoslovakia_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Czechoslovakia_;G_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Czechoslovakyo_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Czechoslovakia_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Czechoslovakia_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Czechoslovakia_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Czechoslovakia_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Czechoslovakia_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Czechoslovakia_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="czechoslovakia" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Czechoslovakia_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94103-069-p1s3w11">
 <src.rf>manual</src.rf>
@@ -1047,18 +1036,7 @@
 <LM>w#w-lnd94103-069-p1s8w2</LM>
 </w.rf>
 <form>Czechoslovakia</form>
-<tag>
-<AM lemma="Czechoslovakia_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Czechoslovakia_;G_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Czechoslovakyo_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Czechoslovakia_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Czechoslovakia_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Czechoslovakia_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Czechoslovakia_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Czechoslovakia_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Czechoslovakia_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="czechoslovakia" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Czechoslovakia_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94103-069-p1s8w3">
 <src.rf>manual</src.rf>

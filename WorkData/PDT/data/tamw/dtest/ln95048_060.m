@@ -363,18 +363,7 @@
 <LM>w#w-ln95048-060-p2s2w30</LM>
 </w.rf>
 <form>Funtánem</form>
-<tag>
-<AM lemma="Funtán_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Funtán" src="auto">NNIS7-----A----</AM>
-<AM lemma="Funtán_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Funtán_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Funtán" src="auto">NNMS7-----A----</AM>
-<AM lemma="Funtán_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Funtáno" src="auto">NNNS7-----A----</AM>
-<AM lemma="Funtáen" src="auto">NNIS7-----A----</AM>
-<AM lemma="Funtán_;E" src="auto">NNMS7-----A----</AM>
-<AM lemma="funtánem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Funtán_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95048-060-p2s2w31">
 <src.rf>manual</src.rf>

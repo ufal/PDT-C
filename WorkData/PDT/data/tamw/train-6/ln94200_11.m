@@ -179,18 +179,7 @@
 <LM>w#w-ln94200-11-p1s1w21</LM>
 </w.rf>
 <form>Westlakea</form>
-<tag>
-<AM lemma="Westlake_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Westlake_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Westlake_;Y_,t" src="auto">NNMS4-----A---1</AM>
-<AM lemma="Westlakea_;L_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Westlakea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Westlakea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Westlakea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Westlakea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Westlake_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="westlakea" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Westlake_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-11-p1s1w22">
 <src.rf>manual</src.rf>
@@ -1142,17 +1131,7 @@
 <LM>w#w-ln94200-11-p3s3w54</LM>
 </w.rf>
 <form>Finneyem</form>
-<tag>
-<AM lemma="Finney_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Finney_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Finney_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Finney-1_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Finney" src="auto">NNMS7-----A----</AM>
-<AM lemma="Finney" src="auto">NNIS7-----A----</AM>
-<AM lemma="Finneyo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Finney_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="finneyem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Finney_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-11-p3s3w55">
 <src.rf>manual</src.rf>

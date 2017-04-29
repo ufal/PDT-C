@@ -417,17 +417,7 @@
 <LM>w#w-ln95045-061-p2s2w12</LM>
 </w.rf>
 <form>BVA</form>
-<tag>
-<AM lemma="BVA_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="BVA_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Bva_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bva" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bv_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bv_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Bvo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Bv_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="bva" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="BVA_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95045-061-p2s2w13">
 <src.rf>manual</src.rf>

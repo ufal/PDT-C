@@ -445,8 +445,6 @@
 <AM lemma="Ing-1_:B_^(inženýr)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Ing-2_:B_^(inženýrka)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Inga_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ing-1_:B_^(inženýr)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Ing-2_:B_^(inženýrka)" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95045-110-p2s2w13">
@@ -1017,18 +1015,7 @@
 <LM>w#w-ln95045-110-p3s2w23</LM>
 </w.rf>
 <form>Resources</form>
-<tag>
-<AM lemma="Resource_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Resource_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Resource_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Resources_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Resource_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Resources_;R_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Resources_;L_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Resources_;L_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Resources_;L_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="resources" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Resource_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln95045-110-p3s2w24">
 <src.rf>manual</src.rf>

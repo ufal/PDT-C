@@ -119,13 +119,7 @@
 <LM>w#w-ln94204-135-p2s1Aw3</LM>
 </w.rf>
 <form>ljď</form>
-<tag>
-<AM lemma="ljď-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ljď-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ljď" src="auto">NNFS1-----A----</AM>
-<AM lemma="ljď" src="auto">NNFS4-----A----</AM>
-<AM lemma="ljď_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ljď-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-135-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -247,26 +241,7 @@
 <LM>w#w-ln94204-135-p2s1Bw13</LM>
 </w.rf>
 <form>FVT</form>
-<tag>
-<AM lemma="FVT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="FVT_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="FVT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="FVT-1_:B_;K_^(Podnik_výpočetní_techniky)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="FVT-1_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="FVT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="FVT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FVT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FVT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Fvt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Fvt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Fvt" src="auto">Vf--------A----</AM>
-<AM lemma="Fvt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Fvt_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fvt" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fvt" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fvt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="fvt" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FVT_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-135-p2s1Bw14">
 <src.rf>manual</src.rf>

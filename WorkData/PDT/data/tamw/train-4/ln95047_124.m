@@ -881,23 +881,7 @@
 <LM>w#w-ln95047-124-p4s1w7</LM>
 </w.rf>
 <form>Military</form>
-<tag>
-<AM lemma="Military_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Militar" src="auto">NNIP1-----A----</AM>
-<AM lemma="Militar" src="auto">NNIP4-----A----</AM>
-<AM lemma="Militar" src="auto">NNIP7-----A----</AM>
-<AM lemma="Militar_;E" src="auto">NNMP4-----A----</AM>
-<AM lemma="Militar_;E" src="auto">NNMP7-----A----</AM>
-<AM lemma="Militara" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Militara_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Military_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="militar_;u" src="auto">NNIP1-----A----</AM>
-<AM lemma="militar_;u" src="auto">NNIP4-----A----</AM>
-<AM lemma="militar_;u" src="auto">NNIP5-----A----</AM>
-<AM lemma="militar_;u" src="auto">NNIP7-----A----</AM>
-<AM lemma="militaro_;L" src="auto">NNNP7-----A----</AM>
-<AM lemma="military" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Military_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95047-124-p4s1w8">
 <src.rf>manual</src.rf>
@@ -933,18 +917,7 @@
 <LM>w#w-ln95047-124-p4s1w11</LM>
 </w.rf>
 <form>Dynamics</form>
-<tag>
-<AM lemma="Dynamics_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Dynamics_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Dynamic_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Dynamic_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Dynamics_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Dynamics_;m" src="auto">NNXXX-----A----</AM>
-<AM lemma="Dynamics_;R" src="auto">NNFXX-----A----</AM>
-<AM lemma="Dynamics_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Dynamics_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="dynamics" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dynamics_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95047-124-p4s1w12">
 <src.rf>manual</src.rf>
@@ -968,18 +941,7 @@
 <LM>w#w-ln95047-124-p4s1w14</LM>
 </w.rf>
 <form>Training</form>
-<tag>
-<AM lemma="Training_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Training_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Training" src="auto">NNIS4-----A----</AM>
-<AM lemma="Training_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Training" src="auto">NNIS1-----A----</AM>
-<AM lemma="Training_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Training_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Training_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Training_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="training" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Training_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95047-124-p4s1w15">
 <src.rf>manual</src.rf>
@@ -987,15 +949,7 @@
 <LM>w#w-ln95047-124-p4s1w15</LM>
 </w.rf>
 <form>Systems</form>
-<tag>
-<AM lemma="System_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="System_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Systems_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Systems_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Systems_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Systes" src="auto">PZZS7----------</AM>
-<AM lemma="systems" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="System_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln95047-124-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1047,18 +1001,7 @@
 <LM>w#w-ln95047-124-p4s1w21</LM>
 </w.rf>
 <form>Combitech</form>
-<tag>
-<AM lemma="Combitech_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Combit" src="auto">NNIP6-----A----</AM>
-<AM lemma="Combito" src="auto">NNNP6-----A----</AM>
-<AM lemma="Combit" src="auto">NNMP6-----A----</AM>
-<AM lemma="Combity_;G" src="auto">NNIP6-----A----</AM>
-<AM lemma="Combit_^(*3ý)" src="auto">NNFP6-----A----</AM>
-<AM lemma="Combit" src="auto">NNFP6-----A----</AM>
-<AM lemma="Combitech" src="auto">NNIS4-----A----</AM>
-<AM lemma="Combita" src="auto">NNMP6-----A----</AM>
-<AM lemma="combitech" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Combitech_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln95047-124-p4s1w22">
 <src.rf>manual</src.rf>

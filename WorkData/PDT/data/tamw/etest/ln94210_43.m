@@ -135,17 +135,7 @@
 <LM>w#w-ln94210-43-p1s1Bw3</LM>
 </w.rf>
 <form>Zehl</form>
-<tag>
-<AM lemma="Zehl_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zeci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Zehl_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Zehnout" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Zehnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="zehektolitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="zehl" src="auto">NNMS1-----A----</AM>
-<AM lemma="zehlavní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="zehnout_,h_,x" src="auto">VpYS---XR-AA---</AM>
-</tag>
+<tag lemma="Zehl_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-43-p1s1Bw4">
 <src.rf>manual</src.rf>

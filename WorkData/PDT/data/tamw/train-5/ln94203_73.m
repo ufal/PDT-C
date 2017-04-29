@@ -318,16 +318,7 @@
 <LM>w#w-ln94203-73-p2s2w7</LM>
 </w.rf>
 <form>Škegrou</form>
-<tag>
-<AM lemma="Škegra_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Škegra" src="auto">NNFS7-----A----</AM>
-<AM lemma="Škegra_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Škegrý" src="auto">AAFS7----1A----</AM>
-<AM lemma="Škegrý" src="auto">AAFS4----1A----</AM>
-<AM lemma="Škegra_;Y" src="auto">NNFS7-----A----</AM>
-<AM lemma="Škegra_;G" src="auto">NNFS7-----A----</AM>
-<AM lemma="škegrou" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Škegra_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94203-73-p2s2w8">
 <src.rf>manual</src.rf>
@@ -417,17 +408,7 @@
 <LM>w#w-ln94203-73-p2s3w3</LM>
 </w.rf>
 <form>Šarimičovi</form>
-<tag>
-<AM lemma="Šarimič_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Šarimič_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Šarimič" src="auto">NNMS3-----A----</AM>
-<AM lemma="Šarimič_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Šarimiča_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Šarimič_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Šarimič" src="auto">NNMS6-----A----</AM>
-<AM lemma="Šarimičův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="šarimičovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Šarimič_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94203-73-p2s3w4">
 <src.rf>manual</src.rf>

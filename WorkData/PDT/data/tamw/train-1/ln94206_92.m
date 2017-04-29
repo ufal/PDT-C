@@ -2826,17 +2826,7 @@
 <LM>w#w-ln94206-92-p5s3w2</LM>
 </w.rf>
 <form>rychlouci</form>
-<tag>
-<AM lemma="rychlouk" src="orig">NNMP1-----A----</AM>
-<AM lemma="rychlouce" src="auto">NNFS6-----A----</AM>
-<AM lemma="rychlouce" src="auto">NNFS4-----A----</AM>
-<AM lemma="rychlouce" src="auto">NNFS3-----A----</AM>
-<AM lemma="rychlouk" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="rychlouc_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="rychlouc_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="rychlouci_,h" src="auto">II-------------</AM>
-<AM lemma="rychlouec" src="auto">NNMP1-----A----</AM>
-</tag>
+<tag lemma="rychlouk" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94206-92-p5s3w3">
 <src.rf>manual</src.rf>

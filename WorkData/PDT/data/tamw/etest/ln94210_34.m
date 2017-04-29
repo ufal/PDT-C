@@ -685,22 +685,7 @@
 <LM>w#w-ln94210-34-p2s4w14</LM>
 </w.rf>
 <form>ponacistické</form>
-<tag>
-<AM lemma="ponacistický" src="orig">AANS4----1A----</AM>
-<AM lemma="ponacistický" src="auto">AAFP1----1A----</AM>
-<AM lemma="ponacistický" src="auto">AAFP4----1A----</AM>
-<AM lemma="ponacistický" src="auto">AAFP5----1A----</AM>
-<AM lemma="ponacistický" src="auto">AAFS2----1A----</AM>
-<AM lemma="ponacistický" src="auto">AAFS3----1A----</AM>
-<AM lemma="ponacistický" src="auto">AAFS6----1A----</AM>
-<AM lemma="ponacistický" src="auto">AAIP1----1A----</AM>
-<AM lemma="ponacistický" src="auto">AAIP4----1A----</AM>
-<AM lemma="ponacistický" src="auto">AAIP5----1A----</AM>
-<AM lemma="ponacistický" src="auto">AAMP4----1A----</AM>
-<AM lemma="ponacistický" src="auto">AANS1----1A----</AM>
-<AM lemma="ponacistický" src="auto" recommended="1">AANS4----1A----</AM>
-<AM lemma="ponacistický" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="ponacistický" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln94210-34-p2s4w15">
 <src.rf>manual</src.rf>
@@ -2744,17 +2729,7 @@
 <LM>w#w-ln94210-34-p4s8w20</LM>
 </w.rf>
 <form>eurocards</form>
-<tag>
-<AM lemma="eurocard_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="eurocard_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="eurocards_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="eurocard_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="eurocard_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="eurocards_;K_;u_,t_^(rocková_skupina)" src="auto">NNIXX-----A----</AM>
-<AM lemma="eurocards_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="eurocard_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="eurocards_;K_,t" src="auto">NNXXX-----A----</AM>
-</tag>
+<tag lemma="eurocard_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94210-34-p4s8w21">
 <src.rf>manual</src.rf>

@@ -177,18 +177,7 @@
 <LM>w#w-ln94205-68-p2s1Cw14</LM>
 </w.rf>
 <form>Hersfeldu</form>
-<tag>
-<AM lemma="Hersfeld_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Hersfeld_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Hersfeld_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Hersfeld_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Hersfeldo" src="auto">NNNS6-----A----</AM>
-<AM lemma="Hersfelda_;Y" src="auto">NNFS4-----A----</AM>
-<AM lemma="Hersfelda_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Hersfeld_;S" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Hersfeld" src="auto">NNIS6-----A----</AM>
-<AM lemma="hersfeldu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hersfeld_;G" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94205-68-p2s1Cw15">
 <src.rf>manual</src.rf>

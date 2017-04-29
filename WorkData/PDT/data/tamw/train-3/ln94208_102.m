@@ -27,18 +27,7 @@
 <LM>w#w-ln94208-102-p1s1Aw2</LM>
 </w.rf>
 <form>Gaudenzi</form>
-<tag>
-<AM lemma="Gaudenzi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gaudenze" src="auto">NNFS4-----A----</AM>
-<AM lemma="Gaudenze" src="auto">NNFS6-----A----</AM>
-<AM lemma="Gaudenze" src="auto">NNFS3-----A----</AM>
-<AM lemma="Gaudenz_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Gaudenz" src="auto">NNMP7-----A----</AM>
-<AM lemma="Gaudenz" src="auto">NNMP1-----A----</AM>
-<AM lemma="Gaudenzi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gaudenh" src="auto">NNMP1-----A----</AM>
-<AM lemma="gaudenzi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gaudenzi_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-102-p1s1Aw3">
 <src.rf>manual</src.rf>

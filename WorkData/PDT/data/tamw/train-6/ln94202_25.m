@@ -85,17 +85,7 @@
 <LM>w#w-ln94202-25-p2s1Aw4</LM>
 </w.rf>
 <form>miš</form>
-<tag>
-<AM lemma="miš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="miš_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="miš-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="miš" src="auto">Db-------------</AM>
-<AM lemma="miš_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="msát" src="auto">Vi-S---2--A----</AM>
-<AM lemma="miš_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="miš_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="miš" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="miš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-25-p2s1Aw5">
 <src.rf>manual</src.rf>

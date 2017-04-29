@@ -210,17 +210,7 @@
 <LM>w#w-ln94202-101-p2s1Bw4</LM>
 </w.rf>
 <form>Sawah</form>
-<tag>
-<AM lemma="Sawah_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sawah_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sawah" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sawah" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sawaha" src="auto">NNFP2-----A----</AM>
-<AM lemma="Sawah_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sawah_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sawah" src="auto">NNMS1-----A----</AM>
-<AM lemma="sawah" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sawah_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-101-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -292,17 +282,7 @@
 <LM>w#w-ln94202-101-p2s1Bw13</LM>
 </w.rf>
 <form>Horace</form>
-<tag>
-<AM lemma="Horace_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Horace" src="auto">NNFS1-----A----</AM>
-<AM lemma="Horace" src="auto">NNFS2-----A----</AM>
-<AM lemma="Horace" src="auto">NNFP4-----A----</AM>
-<AM lemma="Horace" src="auto">NNFP1-----A----</AM>
-<AM lemma="Horace_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Horace_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Horace_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="horace" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Horace_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-101-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -644,17 +624,7 @@
 <LM>w#w-ln94202-101-p3s2w2</LM>
 </w.rf>
 <form>Sawah</form>
-<tag>
-<AM lemma="Sawah_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sawah_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sawah" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sawah" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sawaha" src="auto">NNFP2-----A----</AM>
-<AM lemma="Sawah_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sawah_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sawah" src="auto">NNMS1-----A----</AM>
-<AM lemma="sawah" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sawah_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-101-p3s2w3">
 <src.rf>manual</src.rf>
@@ -912,17 +882,7 @@
 <LM>w#w-ln94202-101-p3s3w6</LM>
 </w.rf>
 <form>Sawahovi</form>
-<tag>
-<AM lemma="Sawah_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Sawah_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Sawah" src="auto">NNMS3-----A----</AM>
-<AM lemma="Sawah_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Sawaha_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Sawah_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Sawah" src="auto">NNMS6-----A----</AM>
-<AM lemma="Sawahův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="sawahovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sawah_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94202-101-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1180,17 +1140,7 @@
 <LM>w#w-ln94202-101-p3s4w4</LM>
 </w.rf>
 <form>Horace</form>
-<tag>
-<AM lemma="Horace_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Horace" src="auto">NNFS1-----A----</AM>
-<AM lemma="Horace" src="auto">NNFS2-----A----</AM>
-<AM lemma="Horace" src="auto">NNFP4-----A----</AM>
-<AM lemma="Horace" src="auto">NNFP1-----A----</AM>
-<AM lemma="Horace_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Horace_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Horace_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="horace" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Horace_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-101-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1357,17 +1307,7 @@
 <LM>w#w-ln94202-101-p3s5w7</LM>
 </w.rf>
 <form>stanozolol</form>
-<tag>
-<AM lemma="stanozolol" src="orig">NNIS4-----A----</AM>
-<AM lemma="stanozolol" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="stanozolol_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="stanozolol" src="auto">NNIS1-----A----</AM>
-<AM lemma="stanozolol_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="stanozolola" src="auto">NNFP2-----A----</AM>
-<AM lemma="stanozolol_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="stanozolol-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="stanozololo" src="auto">NNNP2-----A----</AM>
-</tag>
+<tag lemma="stanozolol" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94202-101-p3s5w8">
 <src.rf>manual</src.rf>
@@ -1724,14 +1664,7 @@
 <LM>w#w-ln94202-101-p4s2w14</LM>
 </w.rf>
 <form>Udeme</form>
-<tag>
-<AM lemma="Udeme_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Udout" src="auto">VB-P---1P-AA---</AM>
-<AM lemma="Udout_:W" src="auto">VB-P---1P-AA---</AM>
-<AM lemma="Uít" src="auto">VB-P---1P-AA---</AM>
-<AM lemma="udeme" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="ujít" src="auto">VB-P---1P-AA--5</AM>
-</tag>
+<tag lemma="Udeme_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-101-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1739,17 +1672,7 @@
 <LM>w#w-ln94202-101-p4s2w15</LM>
 </w.rf>
 <form>Ekpeyong</form>
-<tag>
-<AM lemma="Ekpeyong_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ekpeyong_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ekpeyong_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ekpeyong_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ekpeyong-2_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Ekpeyong" src="auto">NNIS1-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-Ekpeyong)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Long-1_;G_,t_^(Ekpeyong_Island_apod.)" src="auto">AAXXX----1A----</AM>
-<AM lemma="ekpeyong" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ekpeyong_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-101-p4s2w16">
 <src.rf>manual</src.rf>
@@ -4672,18 +4595,7 @@
 <LM>w#w-ln94202-101-p5s8w12</LM>
 </w.rf>
 <form>Hezekiel</form>
-<tag>
-<AM lemma="Hezekiel_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hezekiel_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hezekiel_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hezekiel_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Hezekiel_;R" src="auto">NNFXX-----A----</AM>
-<AM lemma="Hezekiel_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hezekiel_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hezekiel-1_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hezekiel" src="auto">NNMS1-----A----</AM>
-<AM lemma="hezekiel" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hezekiel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-101-p5s8w13">
 <src.rf>manual</src.rf>
@@ -4691,18 +4603,7 @@
 <LM>w#w-ln94202-101-p5s8w13</LM>
 </w.rf>
 <form>Sepeng</form>
-<tag>
-<AM lemma="Sepeng_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sepeng_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sepeng_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sepeng" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sepeng" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sepeng_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sepeng_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sepeng_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sepeng_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="sepeng" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sepeng_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-101-p5s8w14">
 <src.rf>manual</src.rf>

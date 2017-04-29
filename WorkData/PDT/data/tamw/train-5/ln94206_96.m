@@ -297,16 +297,7 @@
 <LM>w#w-ln94206-96-p2s1w25</LM>
 </w.rf>
 <form>christliche</form>
-<tag>
-<AM lemma="christliche_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="christlich_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="christliche_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="christliche_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="christliche_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="christlich_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Manche_;G_^(La_christliche)" src="auto">NNISX-----A----</AM>
-<AM lemma="christlich_;Y" src="auto">NNMS2-----A----</AM>
-</tag>
+<tag lemma="christliche_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94206-96-p2s1w26">
 <src.rf>manual</src.rf>
@@ -314,17 +305,7 @@
 <LM>w#w-ln94206-96-p2s1w26</LM>
 </w.rf>
 <form>Ständestaat</form>
-<tag>
-<AM lemma="Ständestaat_;R_,t" src="orig">NNISX-----A----</AM>
-<AM lemma="Ständestaat_;R_,t" src="auto" recommended="1">NNISX-----A----</AM>
-<AM lemma="Ständestaat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Ständestaat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Ständestaat_:T_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Ständestaat_:T_^(*4at)" src="auto">Vf--------A----</AM>
-<AM lemma="Ständestaat" src="auto">Vf--------A----</AM>
-<AM lemma="Ständestaat_:T_^(*3t)" src="auto">Vf--------A----</AM>
-<AM lemma="ständestaat" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ständestaat_;R_,t" src="orig" selected="1">NNISX-----A----</tag>
 </m>
 <m id="m-ln94206-96-p2s1w27">
 <src.rf>manual</src.rf>

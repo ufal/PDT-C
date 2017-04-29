@@ -51,17 +51,7 @@
 <LM>w#w-ln95049-002-p1s1w5</LM>
 </w.rf>
 <form>Certum</form>
-<tag>
-<AM lemma="Certum_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Certum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Certum" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Certum_^(kalendářní)" src="auto">NNNS4-----A----</AM>
-<AM lemma="Certum_^(kalendářní)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Certum_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Certum_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Certum_;R_,t" src="auto">RR--X----------</AM>
-<AM lemma="certum" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Certum_;K" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95049-002-p2s1A">
@@ -105,17 +95,7 @@
 <LM>w#w-ln95049-002-p2s1Bw3</LM>
 </w.rf>
 <form>Certum</form>
-<tag>
-<AM lemma="Certum_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Certum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Certum" src="auto">NNNS1-----A----</AM>
-<AM lemma="Certum_^(kalendářní)" src="auto">NNNS4-----A----</AM>
-<AM lemma="Certum_^(kalendářní)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Certum_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Certum_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Certum_;R_,t" src="auto">RR--X----------</AM>
-<AM lemma="certum" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Certum_;K" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95049-002-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -880,17 +860,7 @@
 <LM>w#w-ln95049-002-p4s1w1</LM>
 </w.rf>
 <form>Certum</form>
-<tag>
-<AM lemma="Certum_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Certum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Certum" src="auto">NNNS1-----A----</AM>
-<AM lemma="Certum_^(kalendářní)" src="auto">NNNS4-----A----</AM>
-<AM lemma="Certum_^(kalendářní)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Certum_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Certum_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Certum_;R_,t" src="auto">RR--X----------</AM>
-<AM lemma="certum" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Certum_;K" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95049-002-p4s1w2">
 <src.rf>manual</src.rf>

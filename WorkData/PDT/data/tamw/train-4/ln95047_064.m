@@ -4249,18 +4249,7 @@
 <LM>w#w-ln95047-064-p5s6w25</LM>
 </w.rf>
 <form>Swientochlovice</form>
-<tag>
-<AM lemma="Swientochlovice_;G" src="orig">NNFP1-----A----</AM>
-<AM lemma="Swientochlovice" src="auto">NNFS2-----A----</AM>
-<AM lemma="Swientochlovice" src="auto">NNFS1-----A----</AM>
-<AM lemma="Swientochlovice_;G" src="auto">NNFP1-----A----</AM>
-<AM lemma="Swientochlovice" src="auto">NNFP4-----A----</AM>
-<AM lemma="Swientochlovice" src="auto">NNFP1-----A----</AM>
-<AM lemma="Swientochlovika" src="auto">NNFS6-----A----</AM>
-<AM lemma="Swientochlovika" src="auto">NNFS3-----A----</AM>
-<AM lemma="Swientochlovice_^(*3ík)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="swientochlovice" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Swientochlovice_;G" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95047-064-p5s6w26">
 <src.rf>manual</src.rf>

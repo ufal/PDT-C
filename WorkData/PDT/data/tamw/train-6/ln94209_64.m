@@ -3875,17 +3875,7 @@
 <LM>w#w-ln94209-64-p6s1Bw21</LM>
 </w.rf>
 <form>Lonquiche</form>
-<tag>
-<AM lemma="Lonquiche_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Lonquich_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Lonquiche_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lonquiche_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lonquiche_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lonquich_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Manche_;G_^(La_Lonquiche)" src="auto">NNISX-----A----</AM>
-<AM lemma="Lonquich_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="lonquiche" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lonquiche_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94209-64-p6s1Bw22">
 <src.rf>manual</src.rf>
@@ -3934,18 +3924,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Vladkoviče</form>
-<tag>
-<AM lemma="Vladković_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Vladkovič_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vladkovič_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vladkovič" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vladkovič" src="auto">NNIP1-----A----</AM>
-<AM lemma="Vladkovič" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Vladkovič" src="auto">NNMP4-----A----</AM>
-<AM lemma="Vladkovič" src="auto">NNIP4-----A----</AM>
-<AM lemma="Vladkovič" src="auto">NNIS2-----A----</AM>
-<AM lemma="vladkoviče" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vladković_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94209-64-p6s1Bw28">
 <src.rf>manual</src.rf>
@@ -3997,18 +3976,7 @@
 <LM>w#w-ln94209-64-p6s1Bw33</LM>
 </w.rf>
 <form>Beyerle</form>
-<tag>
-<AM lemma="Beyerle_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="Beyerle_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Beyerla" src="auto">NNFS6-----A----</AM>
-<AM lemma="Beyerle_;S" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Beyerle" src="auto">NNFP4-----A----</AM>
-<AM lemma="Beyerl" src="auto">NNMS2-----A----</AM>
-<AM lemma="Beyerl" src="auto">NNMS4-----A----</AM>
-<AM lemma="Beyerl" src="auto">NNMP4-----A----</AM>
-<AM lemma="Beyerle_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="beyerle" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Beyerle_;S" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94209-64-p6s1Bw34">
 <src.rf>manual</src.rf>

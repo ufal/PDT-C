@@ -1831,18 +1831,7 @@
 <LM>w#w-ln94205-73-p2s10w27</LM>
 </w.rf>
 <form>Treanor</form>
-<tag>
-<AM lemma="Treanor_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Treanor_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Treanor" src="auto">NNIS4-----A----</AM>
-<AM lemma="Treanor" src="auto">NNIS1-----A----</AM>
-<AM lemma="Treanora" src="auto">NNFP2-----A----</AM>
-<AM lemma="Treanor_^(zpěvák)" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Treanor_^(hlas)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Treanor_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Treanor_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="treanor" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Treanor_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-73-p2s10w28">
 <src.rf>manual</src.rf>

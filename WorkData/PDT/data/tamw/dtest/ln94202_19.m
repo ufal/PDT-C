@@ -255,18 +255,7 @@
 <LM>w#w-ln94202-19-p2s1Bw14</LM>
 </w.rf>
 <form>Shanonu</form>
-<tag>
-<AM lemma="Shanon_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Shanon" src="auto">NNIS2-----A----</AM>
-<AM lemma="Shanon" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Shanon_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Shanon_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Shanon" src="auto">NNIS3-----A----</AM>
-<AM lemma="Shanona" src="auto">NNFS4-----A----</AM>
-<AM lemma="Shanon_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Shanón" src="auto">NNIS2-----A----</AM>
-<AM lemma="shanonu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Shanon_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94202-19-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -412,18 +401,7 @@
 <LM>w#w-ln94202-19-p2s2w15</LM>
 </w.rf>
 <form>Shanonu</form>
-<tag>
-<AM lemma="Shanon_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Shanon" src="auto">NNIS2-----A----</AM>
-<AM lemma="Shanon" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Shanon_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Shanon_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Shanon" src="auto">NNIS3-----A----</AM>
-<AM lemma="Shanona" src="auto">NNFS4-----A----</AM>
-<AM lemma="Shanon_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Shanón" src="auto">NNIS2-----A----</AM>
-<AM lemma="shanonu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Shanon_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94202-19-p2s2w16">
 <src.rf>manual</src.rf>
@@ -1051,18 +1029,7 @@
 <LM>w#w-ln94202-19-p3s4w9</LM>
 </w.rf>
 <form>Carleone</form>
-<tag>
-<AM lemma="Carleone_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Carleone_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Carleonout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Carleone_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Carleone`1_,t" src="auto">ClXSX----------</AM>
-<AM lemma="Carleone_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Carleone_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Carleone_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Carleone_;R" src="auto">NNXSX-----A----</AM>
-<AM lemma="carleone" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Carleone_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-19-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1200,17 +1167,7 @@
 <LM>w#w-ln94202-19-p3s5w11</LM>
 </w.rf>
 <form>shanonských</form>
-<tag>
-<AM lemma="shanonský_;G" src="orig">AAMP2----1A----</AM>
-<AM lemma="shanonský" src="auto">AAFP2----1A----</AM>
-<AM lemma="shanonský" src="auto">AAIP2----1A----</AM>
-<AM lemma="shanonský" src="auto">AAFP6----1A----</AM>
-<AM lemma="shanonský" src="auto" recommended="1">AAMP2----1A----</AM>
-<AM lemma="shanonský" src="auto">AANP2----1A----</AM>
-<AM lemma="shanonský" src="auto">AAIP6----1A----</AM>
-<AM lemma="shanonský_^(*2t)" src="auto">AAIP2----1A----</AM>
-<AM lemma="shanonský_^(*2t)" src="auto">AAFP2----1A----</AM>
-</tag>
+<tag lemma="shanonský_;G" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln94202-19-p3s5w12">
 <src.rf>manual</src.rf>

@@ -77,21 +77,7 @@
 <LM>w#w-mf930709-032-p2s1Aw3</LM>
 </w.rf>
 <form>or</form>
-<tag>
-<AM lemma="or-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="or" src="auto">NNIS1-----A----</AM>
-<AM lemma="or" src="auto">NNIS4-----A----</AM>
-<AM lemma="or" src="auto">NNMS1-----A----</AM>
-<AM lemma="or-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="or_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="or_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="or_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="or_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ora" src="auto">NNFP2-----A----</AM>
-<AM lemma="orežie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="orok_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="oručení_:B" src="auto">NNNS7-----A---8</AM>
-</tag>
+<tag lemma="or-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-032-p2s1Aw4">
 <src.rf>manual</src.rf>

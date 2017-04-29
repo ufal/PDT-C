@@ -385,18 +385,7 @@
 <LM>w#w-ln94207-86-p1s2Aw15</LM>
 </w.rf>
 <form>Iberoamericana</form>
-<tag>
-<AM lemma="Iberoamericana_;R_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Iberoamerican_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Iberoamerican_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Iberoamerican_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Iberoamerican_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Iberoamerican" src="auto">NNMS4-----A----</AM>
-<AM lemma="Iberoamerican" src="auto">NNMS2-----A----</AM>
-<AM lemma="Iberoamericana" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Iberoamerican_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="iberoamericana" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Iberoamericana_;R_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-86-p1s2Aw16">
 <src.rf>manual</src.rf>

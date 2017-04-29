@@ -1143,18 +1143,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Perovičová</form>
-<tag>
-<AM lemma="Perovičová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Perovičová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Perovičový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Perovičový" src="auto">AANP1----1A----</AM>
-<AM lemma="Perovičový" src="auto">AANP4----1A----</AM>
-<AM lemma="Perovičová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Perovičová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Perovičový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Perovičový" src="auto">AAFS5----1A----</AM>
-<AM lemma="perovičová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Perovičová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-068-p3s2w17">
 <src.rf>manual</src.rf>
@@ -2242,18 +2231,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Perovičová</form>
-<tag>
-<AM lemma="Perovičová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Perovičová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Perovičový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Perovičový" src="auto">AANP1----1A----</AM>
-<AM lemma="Perovičový" src="auto">AANP4----1A----</AM>
-<AM lemma="Perovičová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Perovičová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Perovičový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Perovičový" src="auto">AAFS5----1A----</AM>
-<AM lemma="perovičová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Perovičová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-068-p3s7w26">
 <src.rf>manual</src.rf>
@@ -2724,22 +2702,7 @@
 <LM>w#w-ln95047-068-p4s3w13</LM>
 </w.rf>
 <form>vnitrosrbské</form>
-<tag>
-<AM lemma="vnitrosrbský" src="orig">AAFS2----1A----</AM>
-<AM lemma="vnitrosrbský" src="auto">AAFP1----1A----</AM>
-<AM lemma="vnitrosrbský" src="auto">AAFP4----1A----</AM>
-<AM lemma="vnitrosrbský" src="auto">AAFP5----1A----</AM>
-<AM lemma="vnitrosrbský" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="vnitrosrbský" src="auto">AAFS3----1A----</AM>
-<AM lemma="vnitrosrbský" src="auto">AAFS6----1A----</AM>
-<AM lemma="vnitrosrbský" src="auto">AAIP1----1A----</AM>
-<AM lemma="vnitrosrbský" src="auto">AAIP4----1A----</AM>
-<AM lemma="vnitrosrbský" src="auto">AAIP5----1A----</AM>
-<AM lemma="vnitrosrbský" src="auto">AAMP4----1A----</AM>
-<AM lemma="vnitrosrbský" src="auto">AANS1----1A----</AM>
-<AM lemma="vnitrosrbský" src="auto">AANS4----1A----</AM>
-<AM lemma="vnitrosrbský" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="vnitrosrbský" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95047-068-p4s3w14">
 <src.rf>manual</src.rf>
@@ -3034,13 +2997,7 @@
 <LM>w#w-ln95047-068-p5s2w13</LM>
 </w.rf>
 <form>Karadjordje</form>
-<tag>
-<AM lemma="Karadjordje_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Karadjordje_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Karadjordj" src="auto">NNIS2-----A----</AM>
-<AM lemma="Karadjordj" src="auto">NNIP4-----A----</AM>
-<AM lemma="karadjordje" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Karadjordje_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-068-p5s2w14">
 <src.rf>manual</src.rf>

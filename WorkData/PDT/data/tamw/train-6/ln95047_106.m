@@ -787,18 +787,7 @@
 <LM>w#w-ln95047-106-p2s4w9</LM>
 </w.rf>
 <form>Hasenburg</form>
-<tag>
-<AM lemma="Hasenburg_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hasenburg_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Hasenburg" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hasenburk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hasenburg_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hasenburg_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hasenburg_;G_^(osada)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hasenburgentina_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Hasenburga_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="hasenburg" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hasenburg_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-106-p2s4w10">
 <src.rf>manual</src.rf>

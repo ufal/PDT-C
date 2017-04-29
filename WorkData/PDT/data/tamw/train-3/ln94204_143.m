@@ -3654,18 +3654,7 @@
 <LM>w#w-ln94204-143-p2s15Bw16</LM>
 </w.rf>
 <form>Mónus</form>
-<tag>
-<AM lemma="Mónus_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mónus_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="minus-2_^(mat._operace;_9_minus_3,_též_Mónus_dva_stupně)" src="auto">J*-------------</AM>
-<AM lemma="minus-1_^(znaménko_Mónus;_vyjádření_záporné_vlastnosti)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mónus_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mónus_;R_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mónus_;L_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mónus_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mónus_;L_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="mónus" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mónus_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-143-p2s15Bw17">
 <src.rf>manual</src.rf>
@@ -3758,17 +3747,7 @@
 <LM>w#w-ln94204-143-p2s16Aw2</LM>
 </w.rf>
 <form>Mónuse</form>
-<tag>
-<AM lemma="Mónus_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Mónus_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Mónus" src="auto">NNIS6-----A----</AM>
-<AM lemma="Mónus_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mónus_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Mónuse_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Mónuse_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mónuse" src="auto">NNFP1-----A----</AM>
-<AM lemma="mónuse" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mónus_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-143-p2s16Aw3">
 <src.rf>manual</src.rf>

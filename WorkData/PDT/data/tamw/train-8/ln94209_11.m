@@ -649,19 +649,7 @@
 <LM>w#w-ln94209-11-p4s1w6</LM>
 </w.rf>
 <form>Náfis</form>
-<tag>
-<AM lemma="Náfis_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Náfis" src="auto">NNIS1-----A----</AM>
-<AM lemma="Náfis" src="auto">NNIS4-----A----</AM>
-<AM lemma="Náfis_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Náfis_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Náfis_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Náfis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Náfis_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Náfis_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="náfis" src="auto">NNMS1-----A----</AM>
-<AM lemma="náfis_;u" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="Náfis_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94209-11-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1552,16 +1540,7 @@
 <LM>w#w-ln94209-11-p7s2w3</LM>
 </w.rf>
 <form>konsenzus</form>
-<tag>
-<AM lemma="konsens" src="orig">NNIS4-----A----</AM>
-<AM lemma="konsenzus" src="auto">NNXXX-----A----</AM>
-<AM lemma="konsens" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="konsens" src="auto">NNIS1-----A----</AM>
-<AM lemma="konsenzus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="konsenzus" src="auto">NNIS4-----A----</AM>
-<AM lemma="konsenzus" src="auto">NNIS1-----A----</AM>
-<AM lemma="konsenzus_;L_,t" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="konsens" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94209-11-p7s2w4">
 <src.rf>manual</src.rf>
@@ -1667,25 +1646,7 @@
 <LM>w#w-ln94209-11-p8s1w6</LM>
 </w.rf>
 <form>Gro</form>
-<tag>
-<AM lemma="Gro_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Gro_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Gro" src="auto">NNNS1-----A----</AM>
-<AM lemma="Gro_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Gro" src="auto">NNNS4-----A----</AM>
-<AM lemma="Gro_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gro_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Gro_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="gro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="gro" src="auto">NNNS1-----A----</AM>
-<AM lemma="gro_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="gro" src="auto">NNNS4-----A----</AM>
-<AM lemma="gro_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="gro_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="gro_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="grý" src="auto">A2--------A----</AM>
-</tag>
+<tag lemma="Gro_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94209-11-p8s1w7">
 <src.rf>manual</src.rf>

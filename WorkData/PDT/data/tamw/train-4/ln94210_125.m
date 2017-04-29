@@ -764,17 +764,7 @@
 <LM>w#w-ln94210-125-p2s4w7</LM>
 </w.rf>
 <form>Hennig</form>
-<tag>
-<AM lemma="Hennig_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hennig_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hennig_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hennig_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hennig_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Big-1_;K_,t_^(souč._názvů,_např._Hennig_Ben)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Henniginální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Hennig_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="hennig" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hennig_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-125-p2s4w8">
 <src.rf>manual</src.rf>

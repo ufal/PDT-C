@@ -629,15 +629,7 @@
 <LM>w#w-ln94208-81-p3s1w9</LM>
 </w.rf>
 <form>Cédrase</form>
-<tag>
-<AM lemma="Cédras_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Cédras_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Cédras_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Cédras" src="auto">NNIS6-----A----</AM>
-<AM lemma="Cédrasa" src="auto">NNFS6-----A----</AM>
-<AM lemma="Cédrase_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="cédrase" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cédras_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-81-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1209,18 +1201,7 @@
 <LM>w#w-ln94208-81-p4s2w12</LM>
 </w.rf>
 <form>Cédras</form>
-<tag>
-<AM lemma="Cédras_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cédras_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cédrasa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cédras_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cédras_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cédras_;L_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cédras" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cédras" src="auto">NNIS4-----A----</AM>
-<AM lemma="Cédras" src="auto">NNIS1-----A----</AM>
-<AM lemma="cédras" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cédras_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-81-p4s2w13">
 <src.rf>manual</src.rf>

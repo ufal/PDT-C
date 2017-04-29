@@ -199,18 +199,7 @@
 <LM>w#w-mf930713-010-p2s1Bw18</LM>
 </w.rf>
 <form>Segebergu</form>
-<tag>
-<AM lemma="Segeberg_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Segeberg_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Segeberg_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Segebergo" src="auto">NNNS6-----A----</AM>
-<AM lemma="Segeberk_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Segebergo" src="auto">NNNS3-----A----</AM>
-<AM lemma="Segeberg_;R" src="auto">NNIS2-----A----</AM>
-<AM lemma="Segeberg_;G_^(osada)" src="auto">NNIS6-----A----</AM>
-<AM lemma="Segeberg_;G_^(osada)" src="auto">NNIS2-----A----</AM>
-<AM lemma="segebergu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Segeberg_;G" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-010-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -611,25 +600,7 @@
 <LM>w#w-mf930713-010-p2s4w8</LM>
 </w.rf>
 <form>Old</form>
-<tag>
-<AM lemma="Old_;Y" src="orig">AAXXX----1A----</AM>
-<AM lemma="Old_;Y" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Old_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Old_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Old_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Old_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Old_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Old-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Old_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="old_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="old_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="old_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="oldávie_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="old_;L" src="auto">NNIS1-----A----</AM>
-<AM lemma="old-2_;Y_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="old" src="auto">NNIS1-----A----</AM>
-<AM lemma="old_;G" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="Old_;Y" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930713-010-p2s4w9">
 <src.rf>manual</src.rf>

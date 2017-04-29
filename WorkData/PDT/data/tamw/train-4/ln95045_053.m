@@ -1073,18 +1073,7 @@
 <LM>w#w-ln95045-053-p3s4w19</LM>
 </w.rf>
 <form>Niebling</form>
-<tag>
-<AM lemma="Niebling_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Niebling_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Niebling" src="auto">NNIS4-----A----</AM>
-<AM lemma="Niebling_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Niebling" src="auto">NNIS1-----A----</AM>
-<AM lemma="Niebling_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Niebling_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Niebling_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Niebling_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="niebling" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Niebling_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-053-p3s4w20">
 <src.rf>manual</src.rf>

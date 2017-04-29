@@ -526,15 +526,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Izetbegović</form>
-<tag>
-<AM lemma="Izetbegovič_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Izetbegović_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Izetbegovič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Izetbegović_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Izetbegovič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Izetbegović_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="izetbegović" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Izetbegovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-25-p2s4w5">
 <src.rf>manual</src.rf>

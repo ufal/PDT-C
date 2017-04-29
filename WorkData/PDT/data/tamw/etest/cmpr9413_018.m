@@ -1055,17 +1055,7 @@
 <LM>w#w-cmpr9413-018-p6s2w11</LM>
 </w.rf>
 <form>ventures</form>
-<tag>
-<AM lemma="venture_,t" src="orig">NNXPX-----A----</AM>
-<AM lemma="ventures" src="auto">NNIS4-----A----</AM>
-<AM lemma="ventures_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ventures" src="auto">NNIS1-----A----</AM>
-<AM lemma="venture_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="affaires_:B_,t_^(v_chargé_d'ventures)" src="auto">NNNPX-----A----</AM>
-<AM lemma="Aires_;G_^(Buenos_ventures)" src="auto">NNNXX-----A----</AM>
-<AM lemma="venture_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="venture_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-</tag>
+<tag lemma="venture_,t" src="orig" selected="1">NNXPX-----A----</tag>
 </m>
 <m id="m-cmpr9413-018-p6s2w12">
 <src.rf>manual</src.rf>

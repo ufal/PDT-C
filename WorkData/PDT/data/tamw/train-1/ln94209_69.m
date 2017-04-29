@@ -85,18 +85,7 @@
 <LM>w#w-ln94209-69-p2s1Aw4</LM>
 </w.rf>
 <form>Subjective</form>
-<tag>
-<AM lemma="Subjective_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Subjective_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Subjective_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Subjective_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Subjective_,t" src="auto">Db-------------</AM>
-<AM lemma="Subjective_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Creative_;K_,t_^(Subjective_Labs)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Subjective_;m_,t" src="auto">Dg-------1A----</AM>
-<AM lemma="Subjective_;c_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="subjective" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Subjective_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94209-69-p2s1Aw5">
 <src.rf>manual</src.rf>

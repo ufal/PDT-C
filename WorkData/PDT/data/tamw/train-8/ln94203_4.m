@@ -467,18 +467,7 @@
 <LM>w#w-ln94203-4-p2s1Cw24</LM>
 </w.rf>
 <form>Talga</form>
-<tag>
-<AM lemma="Talgo_;R_,t" src="orig">NNNS2-----A----</AM>
-<AM lemma="Talgo_;R_,t" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="Talga_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Talg_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Talg" src="auto">NNMS2-----A----</AM>
-<AM lemma="Talga" src="auto">NNFS1-----A----</AM>
-<AM lemma="Talg" src="auto">NNMS4-----A----</AM>
-<AM lemma="Talg_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Talga_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="talga" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Talgo_;R_,t" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94203-4-p2s1Cw25">
 <src.rf>manual</src.rf>
@@ -542,17 +531,7 @@
 <LM>w#w-ln94203-4-p2s1Cw32</LM>
 </w.rf>
 <form>Atlantique</form>
-<tag>
-<AM lemma="Atlantique_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Atlantique_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Atlantique_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Atlantique_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Atlantique_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Atlantique_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Atlantique_;R_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Atlantique_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="atlantique" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Atlantique_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94203-4-p2s1Cw33">
 <src.rf>manual</src.rf>
@@ -6140,18 +6119,7 @@
 <LM>w#w-ln94203-4-p14s1w20</LM>
 </w.rf>
 <form>Velocida</form>
-<tag>
-<AM lemma="Velocida_;m_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Velocida" src="auto">NNFS1-----A----</AM>
-<AM lemma="Velocid_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Velocid_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Velocid_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Velocida_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Velocidět_:T" src="auto">VeYS------A----</AM>
-<AM lemma="Velocido_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Velocido" src="auto">NNNS2-----A----</AM>
-<AM lemma="velocida" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Velocida_;m_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-4-p14s1w21">
 <src.rf>manual</src.rf>
@@ -6673,23 +6641,7 @@
 <LM>w#w-ln94203-4-p15s1w24</LM>
 </w.rf>
 <form>AVŽD</form>
-<tag>
-<AM lemma="AVŽD_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AVŽD_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="AVŽD_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AVŽD_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="AVŽD_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AVŽD_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Avžda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Avžd" src="auto">NNIS1-----A----</AM>
-<AM lemma="Avžd" src="auto">NNIS4-----A----</AM>
-<AM lemma="Avžd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Avžd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Avžd_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Avžd_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Avžd" src="auto">NNMS1-----A----</AM>
-<AM lemma="avžd" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="AVŽD_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94203-4-p15s1w25">
 <src.rf>manual</src.rf>
@@ -6817,15 +6769,7 @@
 <LM>w#w-ln94203-4-p15s1w40</LM>
 </w.rf>
 <form>VRAMŽ</form>
-<tag>
-<AM lemma="VRAMŽ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VRAMŽ_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="VRAMŽ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VRAMŽ_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VRAMŽ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VRAMŽ-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Vramž" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="VRAMŽ_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94203-4-p15s1w41">
 <src.rf>manual</src.rf>

@@ -175,17 +175,7 @@
 <LM>w#w-ln94204-101-p2s2w4</LM>
 </w.rf>
 <form>Hermit</form>
-<tag>
-<AM lemma="Hermit_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hermit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Hermit" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hermit" src="auto">NNIS4-----A----</AM>
-<AM lemma="limit-2_,t_^(angl._Hermit)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Hermit_;m" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Hermit_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hermit_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="hermit" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hermit_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-101-p2s2w5">
 <src.rf>manual</src.rf>
@@ -369,18 +359,7 @@
 <LM>w#w-ln94204-101-p2s2w27</LM>
 </w.rf>
 <form>Giannozzo</form>
-<tag>
-<AM lemma="Giannozzo_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Giannozzo_;K_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Giannozzo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Giannozzo_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Giannozzo" src="auto">NNNS4-----A----</AM>
-<AM lemma="Giannozzo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Giannozzy" src="auto">Dg-------1A---1</AM>
-<AM lemma="Giannozzen" src="auto">A2--------A----</AM>
-<AM lemma="Giannozzo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="giannozzo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Giannozzo_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94204-101-p2s2w28">
 <src.rf>manual</src.rf>
@@ -487,18 +466,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Giannozzo</form>
-<tag>
-<AM lemma="Giannozzo_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Giannozzo_;K_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Giannozzo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Giannozzo_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Giannozzo" src="auto">NNNS4-----A----</AM>
-<AM lemma="Giannozzo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Giannozzy" src="auto">Dg-------1A---1</AM>
-<AM lemma="Giannozzen" src="auto">A2--------A----</AM>
-<AM lemma="Giannozzo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="giannozzo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Giannozzo_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94204-101-p2s3w11">
 <src.rf>manual</src.rf>
@@ -792,18 +760,7 @@
 <LM>w#w-ln94204-101-p2s6w5</LM>
 </w.rf>
 <form>Giannozzo</form>
-<tag>
-<AM lemma="Giannozzo_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Giannozzo_;K_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Giannozzo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Giannozzo_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Giannozzo" src="auto">NNNS4-----A----</AM>
-<AM lemma="Giannozzo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Giannozzy" src="auto">Dg-------1A---1</AM>
-<AM lemma="Giannozzen" src="auto">A2--------A----</AM>
-<AM lemma="Giannozzo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="giannozzo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Giannozzo_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94204-101-p2s6w6">
 <src.rf>manual</src.rf>
@@ -989,17 +946,7 @@
 <LM>w#w-ln94204-101-p2s7w12</LM>
 </w.rf>
 <form>Maubrey</form>
-<tag>
-<AM lemma="Maubrey_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Grey-2_,t_^(Earl_Maubrey)" src="auto">NNXXX-----A----</AM>
-<AM lemma="Maubrea_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Maubrey_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Maubrey_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Maubrey_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Maubrey_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Maubrey_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="maubrey" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Maubrey_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-101-p2s7w13">
 <src.rf>manual</src.rf>

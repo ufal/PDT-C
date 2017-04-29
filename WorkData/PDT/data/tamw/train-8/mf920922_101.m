@@ -126,18 +126,7 @@
 <LM>w#w-mf920922-101-p2s2w5</LM>
 </w.rf>
 <form>Balzerc</form>
-<tag>
-<AM lemma="Balzerc_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Balzerciální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Balzerc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Balzerc_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Balzerc_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Balzerc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Balzerc_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Balzerc_,l" src="auto">NNIS1-----A----</AM>
-<AM lemma="Balzerc" src="auto">NNMS1-----A----</AM>
-<AM lemma="balzerc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Balzerc_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-101-p2s2w6">
 <src.rf>manual</src.rf>

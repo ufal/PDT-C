@@ -293,17 +293,7 @@
 <LM>w#w-mf920922-076-p2s1w32</LM>
 </w.rf>
 <form>Isatische</form>
-<tag>
-<AM lemma="Isatisch_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Isatisch_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Isatische_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Isatische_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Isatische_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Isatisch_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Manche_;G_^(La_Isatische)" src="auto">NNISX-----A----</AM>
-<AM lemma="Isatisch_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="isatische" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Isatisch_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-076-p2s1w33">
 <src.rf>manual</src.rf>
@@ -671,18 +661,7 @@
 <LM>w#w-mf920922-076-p2s4w3</LM>
 </w.rf>
 <form>Isatisch</form>
-<tag>
-<AM lemma="Isatisch_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Isatisch_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Isatisch-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Isatisch_;m_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Isatisch_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Isatisch_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Isatisch_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Isatisch_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Isatisch-2_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="isatisch" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Isatisch_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-076-p2s4w4">
 <src.rf>manual</src.rf>

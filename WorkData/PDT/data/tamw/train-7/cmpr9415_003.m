@@ -1441,18 +1441,7 @@
 <LM>w#w-cmpr9415-003-p7s2w23</LM>
 </w.rf>
 <form>Gadouaová</form>
-<tag>
-<AM lemma="Gadouaová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Gadouaová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Gadouaový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Gadouaový" src="auto">AANP1----1A----</AM>
-<AM lemma="Gadouaový" src="auto">AANP4----1A----</AM>
-<AM lemma="Gadouaová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gadouaová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gadouaový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Gadouaový" src="auto">AAFS5----1A----</AM>
-<AM lemma="gadouaová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gadouaová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-003-p7s2w24">
 <src.rf>manual</src.rf>

@@ -8719,26 +8719,7 @@
 <LM>w#w-cmpr9413-052-p47s1w6</LM>
 </w.rf>
 <form>ÚKP</form>
-<tag>
-<AM lemma="ÚKP_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚKP_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ÚKP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÚKP_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ÚKP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÚKP-1_:B_^(významný_krajinný_prvek)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚKP-1_:B_;K_^(Karlovarský_Porcelán)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚKP_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ÚKP_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Úkp-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Úkp" src="auto">NNIS1-----A----</AM>
-<AM lemma="Úkp" src="auto">NNIS4-----A----</AM>
-<AM lemma="Úkp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Úkp" src="auto">NNMS1-----A----</AM>
-<AM lemma="Úkp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Úkp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Úkpa" src="auto">NNFP2-----A----</AM>
-<AM lemma="úkp" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ÚKP_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9413-052-p47s1w7">
 <src.rf>manual</src.rf>

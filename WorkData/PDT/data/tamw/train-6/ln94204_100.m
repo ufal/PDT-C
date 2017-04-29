@@ -2430,18 +2430,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Vracaja</form>
-<tag>
-<AM lemma="vracať_,t" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="Vracij_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Vracaja_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Vracať_,t" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="Vracyj_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Vracyj_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Vracij_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vracaja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vracaja_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="vracaja" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="vracať_,t" src="orig" selected="1">VB-P---3P-AA---</tag>
 </m>
 <m id="m-ln94204-100-p4s2w27">
 <src.rf>manual</src.rf>
@@ -2449,20 +2438,7 @@
 <LM>w#w-ln94204-100-p4s2w27</LM>
 </w.rf>
 <form>sa</form>
-<tag>
-<AM lemma="sa_,n_^(se)" src="orig">P7-X4----------</AM>
-<AM lemma="sa" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa-2_,t_^(angl._neurč._člen)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="sa-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="sa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="sa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="sakciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="so" src="auto">NNNP4-----A----</AM>
-<AM lemma="so" src="auto">NNNS2-----A----</AM>
-<AM lemma="so_;S" src="auto">NNMS2-----A----</AM>
-</tag>
+<tag lemma="sa_,n_^(se)" src="orig" selected="1">P7-X4----------</tag>
 </m>
 <m id="m-ln94204-100-p4s2w28">
 <src.rf>manual</src.rf>
@@ -4584,19 +4560,7 @@
 <LM>w#w-ln94204-100-p5s7w5</LM>
 </w.rf>
 <form>starokeltská</form>
-<tag>
-<AM lemma="starokeltský" src="orig">AAFS1----1A----</AM>
-<AM lemma="starokeltskat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="starokeltská_;G" src="auto">AAFS1----1A----</AM>
-<AM lemma="starokeltská_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="starokeltský" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="starokeltský" src="auto">AAFS5----1A----</AM>
-<AM lemma="starokeltský" src="auto">AANP1----1A----</AM>
-<AM lemma="starokeltský" src="auto">AANP4----1A----</AM>
-<AM lemma="starokeltský" src="auto">AANP5----1A----</AM>
-<AM lemma="starokeltský_;G" src="auto">AAFS1----1A----</AM>
-<AM lemma="starokeltský_;S" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="starokeltský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94204-100-p5s7w6">
 <src.rf>manual</src.rf>

@@ -707,17 +707,7 @@
 <LM>w#w-ln94206-88-p2s3w12</LM>
 </w.rf>
 <form>šerosvěta</form>
-<tag>
-<AM lemma="šerosvět" src="orig">NNIS2-----A----</AM>
-<AM lemma="šerosvět" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="šerosvěta_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="šerosvěta" src="auto">NNFS1-----A----</AM>
-<AM lemma="šerosvět_,s" src="auto">NNIS2-----A----</AM>
-<AM lemma="šerosvěta" src="auto">NNMS1-----A----</AM>
-<AM lemma="šerosvět_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="šerosvět" src="auto">NNMS2-----A----</AM>
-<AM lemma="šerosvěta_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="šerosvět" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-88-p2s3w13">
 <src.rf>manual</src.rf>

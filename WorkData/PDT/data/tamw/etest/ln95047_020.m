@@ -119,18 +119,7 @@
 <LM>w#w-ln95047-020-p2s1Bw7</LM>
 </w.rf>
 <form>Whalers</form>
-<tag>
-<AM lemma="Whalers_;K_,t_^(sport._klub)" src="orig">NNMP1-----A----</AM>
-<AM lemma="Whalers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Whaler_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Whalers_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Whaler_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Whaler_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Whalers_;K_,t_^(sport._klub)" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Whalers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Whalers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="whalers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Whalers_;K_,t_^(sport._klub)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95047-020-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -317,18 +306,7 @@
 <LM>w#w-ln95047-020-p2s1Bw30</LM>
 </w.rf>
 <form>Turcotta</form>
-<tag>
-<AM lemma="Turcott_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Turcott_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Turcott_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Turcotta_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Turcotta_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Turcotta_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Turcotta_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Turcotto_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Turcotto" src="auto">NNNS2-----A----</AM>
-<AM lemma="turcotta" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Turcott_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-020-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -490,18 +468,7 @@
 <LM>w#w-ln95047-020-p2s2w15</LM>
 </w.rf>
 <form>Sabers</form>
-<tag>
-<AM lemma="Saber_;K_,t" src="orig">NNMP1-----A----</AM>
-<AM lemma="Sabers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Saber_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Sabers_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Saber_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Saber_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Sabers_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Sabers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sabers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="sabers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Saber_;K_,t" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95047-020-p2s2w16">
 <src.rf>manual</src.rf>

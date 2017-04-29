@@ -233,15 +233,7 @@
 <LM>w#w-ln94200-162-p2s1Cw15</LM>
 </w.rf>
 <form>open</form>
-<tag>
-<AM lemma="open_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="opit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="opit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="loupen-1_;m_,t_^(open_clean,_označení_čistoty_diamantu)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="opný" src="auto">ACYS------A----</AM>
-<AM lemma="openalta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="open_;m_,t" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="open_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94200-162-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -523,18 +515,7 @@
 <LM>w#w-ln94200-162-p2s2w26</LM>
 </w.rf>
 <form>Chiurata</form>
-<tag>
-<AM lemma="Chiurato_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Chiurata" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chiure" src="auto">NNNP4-----A----</AM>
-<AM lemma="Chiure" src="auto">NNNP1-----A----</AM>
-<AM lemma="Chiura" src="auto">NNNP1-----A----</AM>
-<AM lemma="Chiura" src="auto">NNNP4-----A----</AM>
-<AM lemma="Chiurat" src="auto">NNMS2-----A----</AM>
-<AM lemma="Chiurata_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chiurmout" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="chiurata" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chiurato_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-162-p2s2w27">
 <src.rf>manual</src.rf>
@@ -2020,18 +2001,7 @@
 <LM>w#w-ln94200-162-p4s2w3</LM>
 </w.rf>
 <form>Breukink</form>
-<tag>
-<AM lemma="Breukink_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Breukink_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Breukink" src="auto">NNIS1-----A----</AM>
-<AM lemma="Breukink" src="auto">NNIS4-----A----</AM>
-<AM lemma="ink_,t_^(Breukink_jet)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pink_;K_,t_^(Breukink_Floyd)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Breuking" src="auto">NNIS1-----A----</AM>
-<AM lemma="Breukink_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Breukink-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="breukink" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Breukink_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-162-p4s2w4">
 <src.rf>manual</src.rf>
@@ -2266,13 +2236,7 @@
 <LM>w#w-ln94200-162-p4s3w15</LM>
 </w.rf>
 <form>Chiurato</form>
-<tag>
-<AM lemma="Chiurato_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chiurato_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chiurmout" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="Chiurato" src="auto">Db-------------</AM>
-<AM lemma="chiurato" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chiurato_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-162-p4s3w16">
 <src.rf>manual</src.rf>
@@ -3203,17 +3167,7 @@
 <LM>w#w-ln94200-162-p5s8w5</LM>
 </w.rf>
 <form>Samploniusovou</form>
-<tag>
-<AM lemma="Samploniusová_;S" src="orig">NNFS4-----A----</AM>
-<AM lemma="Samploniusový" src="auto">AAFS4----1A----</AM>
-<AM lemma="Samploniusový" src="auto">AAFS7----1A----</AM>
-<AM lemma="Samploniusová_;S" src="auto">NNFS7-----A----</AM>
-<AM lemma="Samploniusová_;S" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Samploniusova" src="auto">NNFS7-----A----</AM>
-<AM lemma="Samploniusův_;S_^(*2)" src="auto">AUFS7M---------</AM>
-<AM lemma="Samploniusova_;G" src="auto">NNFS7-----A----</AM>
-<AM lemma="samploniusovou" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Samploniusová_;S" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94200-162-p5s8w6">
 <src.rf>manual</src.rf>

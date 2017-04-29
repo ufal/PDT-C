@@ -893,18 +893,7 @@
 <LM>w#w-lnd94103-099-p1s8w2</LM>
 </w.rf>
 <form>ola</form>
-<tag>
-<AM lemma="ola-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ol-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ol_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ol_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="ola" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="ola" src="auto">NNFS1-----A----</AM>
-<AM lemma="ola-2_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ola_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ola_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="olo" src="auto">NNNS2-----A----</AM>
-</tag>
+<tag lemma="ola-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-099-p1s8w3">
 <src.rf>manual</src.rf>

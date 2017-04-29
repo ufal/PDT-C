@@ -2155,18 +2155,7 @@
 <LM>w#w-ln95049-059-p7s1w10</LM>
 </w.rf>
 <form>Seminario</form>
-<tag>
-<AM lemma="Seminario_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Seminario_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Seminario_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Seminario_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Seminario_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Seminario_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Seminario" src="auto">NNNS4-----A----</AM>
-<AM lemma="Seminario" src="auto">NNNS1-----A----</AM>
-<AM lemma="Seminario_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="seminario" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Seminario_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95049-059-p7s1w11">
 <src.rf>manual</src.rf>
@@ -2210,18 +2199,7 @@
 <LM>w#w-ln95049-059-p7s1w15</LM>
 </w.rf>
 <form>Lesnem</form>
-<tag>
-<AM lemma="Lesne_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Lesn" src="auto">NNIS7-----A----</AM>
-<AM lemma="Lesn_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Lesn_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Lesn" src="auto">NNMS7-----A----</AM>
-<AM lemma="Lesn_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Lesno" src="auto">NNNS7-----A----</AM>
-<AM lemma="Lesen" src="auto">NNIS7-----A----</AM>
-<AM lemma="Lesn_;E" src="auto">NNMS7-----A----</AM>
-<AM lemma="lesnem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lesne_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-059-p7s1w16">
 <src.rf>manual</src.rf>
@@ -2781,24 +2759,7 @@
 <LM>w#w-ln95049-059-p7s5w13</LM>
 </w.rf>
 <form>Diapason</form>
-<tag>
-<AM lemma="Diapason_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Diapason" src="auto">NNIS1-----A----</AM>
-<AM lemma="Diapason_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Diapason_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Diapason_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Diapason_;R_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Diapason_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Diapason_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="diapason" src="auto">NNMS1-----A----</AM>
-<AM lemma="diapason-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="diapason_^(jednotka_hlasitosti)" src="auto">NNIS1-----A----</AM>
-<AM lemma="diapason_^(jednotka_hlasitosti)" src="auto">NNIS4-----A----</AM>
-<AM lemma="diapason_^(n-tice)" src="auto">A2--------A----</AM>
-<AM lemma="diapasono_,l_^(sonografie)" src="auto">NNNP2-----A----</AM>
-<AM lemma="diapasonádraží_:B" src="auto">NNNXX-----A---9</AM>
-<AM lemma="diapasonárodní_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Diapason_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-059-p7s5w14">
 <src.rf>manual</src.rf>

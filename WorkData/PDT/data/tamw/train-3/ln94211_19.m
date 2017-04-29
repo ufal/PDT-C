@@ -1151,18 +1151,7 @@
 <LM>w#w-ln94211-19-p4s3w11</LM>
 </w.rf>
 <form>Vaillant</form>
-<tag>
-<AM lemma="Vaillant_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Vaillant" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vaillant" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vaillant_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vaillant" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vaillanta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vaillant_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vaillant_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Vaillantický_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="vaillant" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vaillant_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-19-p4s3w12">
 <src.rf>manual</src.rf>
@@ -1194,18 +1183,7 @@
 <LM>w#w-ln94211-19-p4s3w15</LM>
 </w.rf>
 <form>Danfoss</form>
-<tag>
-<AM lemma="Danfoss_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Danfoss_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Danfoss_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Danfoss_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Danfoss" src="auto">NNMS1-----A----</AM>
-<AM lemma="Danfoss_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Danfoss_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Danfoss_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Danfoss_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="danfoss" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Danfoss_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-19-p4s3w16">
 <src.rf>manual</src.rf>

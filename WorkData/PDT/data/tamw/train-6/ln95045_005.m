@@ -149,18 +149,7 @@
 <LM>w#w-ln95045-005-p2s1w13</LM>
 </w.rf>
 <form>Govett</form>
-<tag>
-<AM lemma="Govett_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Govett_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Govett_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Govett_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Govett-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Govett_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Govett_;R_^(časopis)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Govett_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Govett_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="govett" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Govett_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-005-p2s1w14">
 <src.rf>manual</src.rf>
@@ -450,18 +439,7 @@
 <LM>w#w-ln95045-005-p2s2w33</LM>
 </w.rf>
 <form>Govett</form>
-<tag>
-<AM lemma="Govett_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Govett_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Govett_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Govett_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Govett-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Govett_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Govett_;R_^(časopis)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Govett_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Govett_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="govett" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Govett_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-005-p2s2w34">
 <src.rf>manual</src.rf>
@@ -828,17 +806,7 @@
 <LM>w#w-ln95045-005-p2s3w13</LM>
 </w.rf>
 <form>emerging</form>
-<tag>
-<AM lemma="emerging_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="emerging_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="emerging" src="auto">NNIS4-----A----</AM>
-<AM lemma="emerging_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="emerging" src="auto">NNIS1-----A----</AM>
-<AM lemma="emerging_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="emerging_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="emerging_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="emerging_;G" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="emerging_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95045-005-p2s3w14">
 <src.rf>manual</src.rf>
@@ -846,17 +814,7 @@
 <LM>w#w-ln95045-005-p2s3w14</LM>
 </w.rf>
 <form>markets</form>
-<tag>
-<AM lemma="market_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="market_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="market_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="market_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="markets_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="markets_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="markets_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="markets_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="markets_;K" src="auto">NNMPX-----A----</AM>
-</tag>
+<tag lemma="market_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln95045-005-p2s3w15">
 <src.rf>manual</src.rf>
@@ -1797,18 +1755,7 @@
 <LM>w#w-ln95045-005-p4s1w10</LM>
 </w.rf>
 <form>Securities</form>
-<tag>
-<AM lemma="Security_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Security_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Securitie_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Security_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Securities_;m_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Securities_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Securities_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Securities" src="auto">NNMPX-----A----</AM>
-<AM lemma="Security_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="securities" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Security_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln95045-005-p4s1w11">
 <src.rf>manual</src.rf>

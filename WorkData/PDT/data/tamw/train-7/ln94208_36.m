@@ -613,17 +613,7 @@
 <LM>w#w-ln94208-36-p2s4w5</LM>
 </w.rf>
 <form>Nationale</form>
-<tag>
-<AM lemma="Nationale_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Nationale_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Nationale_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="National" src="auto">NNIS6-----A----</AM>
-<AM lemma="Nationale_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Nationala" src="auto">NNFS6-----A----</AM>
-<AM lemma="Nationale_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Nationale-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="nationale" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nationale_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94208-36-p2s4w6">
 <src.rf>manual</src.rf>
@@ -631,16 +621,7 @@
 <LM>w#w-ln94208-36-p2s4w6</LM>
 </w.rf>
 <form>Nederlanden</form>
-<tag>
-<AM lemma="Nederlanden_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Nederlandna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Nederlanden_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nederlanden_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Nederlandnout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Nederlandný" src="auto">ACYS------A----</AM>
-<AM lemma="Nederlanden_^(jednotka_času)" src="auto">NNIS4-----A----</AM>
-<AM lemma="nederlanden" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nederlanden_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94208-36-p2s4w7">
 <src.rf>manual</src.rf>

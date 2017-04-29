@@ -55,17 +55,7 @@
 <LM>w#w-ln94204-36-p2s1Bw2</LM>
 </w.rf>
 <form>poslednyj</form>
-<tag>
-<AM lemma="poslednyj_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="poslednyj_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="poslednyj_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="poslednyj_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="poslednyj_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="poslednyj_;G_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="poslednyj" src="auto">NNIS1-----A----</AM>
-<AM lemma="poslednyj" src="auto">NNIS4-----A----</AM>
-<AM lemma="poslednyj_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="poslednyj_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-36-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -73,20 +63,7 @@
 <LM>w#w-ln94204-36-p2s1Bw3</LM>
 </w.rf>
 <form>parad</form>
-<tag>
-<AM lemma="parad_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="parad" src="auto">NNIS1-----A----</AM>
-<AM lemma="parad" src="auto">NNIS4-----A----</AM>
-<AM lemma="parad-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="parad-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
-<AM lemma="parad_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="parada" src="auto">NNFP2-----A----</AM>
-<AM lemma="parada-1_^(př._dát_někomu_dobrou_radu)" src="auto">NNFP2-----A----</AM>
-<AM lemma="parada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="auto">NNFP2-----A----</AM>
-<AM lemma="parady_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_paradu)" src="auto">NNFP2-----A----</AM>
-<AM lemma="rada-3_^(poparadní_sbor;_př._Česká_národní_r.)" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="parad_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-36-p2s1Bw4">
 <src.rf>manual</src.rf>

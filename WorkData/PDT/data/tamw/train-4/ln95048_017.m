@@ -1857,18 +1857,7 @@
 <LM>w#w-ln95048-017-p3s4w3</LM>
 </w.rf>
 <form>Gramophone</form>
-<tag>
-<AM lemma="Gramophone_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Gramophone_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gramophonout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Gramophone_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Gramophone`1_,t" src="auto">ClXSX----------</AM>
-<AM lemma="Gramophone_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gramophone_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Gramophone_;R_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Gramophone_;R" src="auto">NNXSX-----A----</AM>
-<AM lemma="gramophone" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gramophone_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-017-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1900,24 +1889,7 @@
 <LM>w#w-ln95048-017-p3s4w7</LM>
 </w.rf>
 <form>Diapason</form>
-<tag>
-<AM lemma="Diapason_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Diapason" src="auto">NNIS1-----A----</AM>
-<AM lemma="Diapason_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Diapason_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Diapason_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Diapason_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Diapason_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Diapason_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="diapason" src="auto">NNMS1-----A----</AM>
-<AM lemma="diapason-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="diapason_^(jednotka_hlasitosti)" src="auto">NNIS1-----A----</AM>
-<AM lemma="diapason_^(jednotka_hlasitosti)" src="auto">NNIS4-----A----</AM>
-<AM lemma="diapason_^(n-tice)" src="auto">A2--------A----</AM>
-<AM lemma="diapasono_,l_^(sonografie)" src="auto">NNNP2-----A----</AM>
-<AM lemma="diapasonádraží_:B" src="auto">NNNXX-----A---9</AM>
-<AM lemma="diapasonárodní_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Diapason_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-017-p3s4w8">
 <src.rf>manual</src.rf>
@@ -2975,16 +2947,7 @@
 <LM>w#w-ln95048-017-p4s7w2</LM>
 </w.rf>
 <form>Rouviere</form>
-<tag>
-<AM lemma="Rouviere_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rouvirat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Rouviere_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Rouvirát" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Rouviere_,t" src="auto">Db-------------</AM>
-<AM lemma="zabrat_^([Rouviavit]_něco_někomu)" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Rouvirát-2" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="rouviere" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rouviere_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-017-p4s7w3">
 <src.rf>manual</src.rf>
@@ -3311,23 +3274,7 @@
 <LM>w#w-ln95048-017-p5s1w8</LM>
 </w.rf>
 <form>Diapasonu</form>
-<tag>
-<AM lemma="Diapason_;K" src="orig">NNIS6-----A----</AM>
-<AM lemma="Diapason" src="auto">NNIS2-----A----</AM>
-<AM lemma="Diapason" src="auto">NNIS3-----A----</AM>
-<AM lemma="Diapason" src="auto">NNIS6-----A----</AM>
-<AM lemma="Diapason_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Diapason_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Diapason_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Diapasona" src="auto">NNFS4-----A----</AM>
-<AM lemma="Diapasón" src="auto">NNIS2-----A----</AM>
-<AM lemma="diapason_^(jednotka_hlasitosti)" src="auto">NNIS2-----A----</AM>
-<AM lemma="diapason_^(jednotka_hlasitosti)" src="auto">NNIS3-----A----</AM>
-<AM lemma="diapason_^(jednotka_hlasitosti)" src="auto">NNIS6-----A----</AM>
-<AM lemma="diapasono_,l_^(sonografie)" src="auto">NNNS3-----A----</AM>
-<AM lemma="diapasono_,l_^(sonografie)" src="auto">NNNS6-----A---1</AM>
-<AM lemma="diapasonu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Diapason_;K" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95048-017-p5s1w9">
 <src.rf>manual</src.rf>

@@ -85,18 +85,7 @@
 <LM>w#w-ln94204-13-p2s1w8</LM>
 </w.rf>
 <form>Cablevision</form>
-<tag>
-<AM lemma="Cablevision_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Cablevision_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Cablevision_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Cablevision_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Cablevision_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Cablevision" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cablevision_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cablevisión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Cablevisión" src="auto">NNIS1-----A----</AM>
-<AM lemma="cablevision" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cablevision_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-13-p2s1w9">
 <src.rf>manual</src.rf>
@@ -104,15 +93,7 @@
 <LM>w#w-ln94204-13-p2s1w9</LM>
 </w.rf>
 <form>Systems</form>
-<tag>
-<AM lemma="System_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="System_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Systems_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Systems_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Systems_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Systes" src="auto">PZZS7----------</AM>
-<AM lemma="systems" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="System_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94204-13-p2s1w10">
 <src.rf>manual</src.rf>
@@ -192,18 +173,7 @@
 <LM>w#w-ln94204-13-p2s1w19</LM>
 </w.rf>
 <form>Viacom</form>
-<tag>
-<AM lemma="Viacom_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Viacom_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Viacom_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Viacom_;K_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Viacom_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Viacom_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Viacom_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Viacom" src="auto">NNIS1-----A----</AM>
-<AM lemma="Viacom" src="auto">NNIS4-----A----</AM>
-<AM lemma="viacom" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Viacom_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-13-p2s1w20">
 <src.rf>manual</src.rf>
@@ -250,18 +220,7 @@
 <LM>w#w-ln94204-13-p2s1w24</LM>
 </w.rf>
 <form>Square</form>
-<tag>
-<AM lemma="Square_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Square_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Square_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Square" src="auto">NNIS4-----A----</AM>
-<AM lemma="Square" src="auto">NNIS2-----A----</AM>
-<AM lemma="Square" src="auto">NNIS1-----A----</AM>
-<AM lemma="care-1_,t_^(např._home_Square)" src="auto">NNFXX-----A----</AM>
-<AM lemma="be_,t_^(angl._jsi,jsme,jste,jsou,_v_názvech_Squapod.)" src="auto">VB-X---XP-AA---</AM>
-<AM lemma="Square_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="square" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Square_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-13-p2s1w25">
 <src.rf>manual</src.rf>

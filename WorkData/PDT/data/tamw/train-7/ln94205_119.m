@@ -61,25 +61,7 @@
 <LM>w#w-ln94205-119-p2s1Aw1</LM>
 </w.rf>
 <form>Tae</form>
-<tag>
-<AM lemma="tae_,t_^(tae-kwon-do)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Tae_;L_,t" src="auto">NNFP1-----A----</AM>
-<AM lemma="Tae_;L_,t" src="auto">AAFP1----1A----</AM>
-<AM lemma="Ta_,t" src="auto">NNFP1-----A----</AM>
-<AM lemma="tae_,t_^(Tae-kwon-do)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ta_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Tae_;u_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Tae_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tae_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tae_,t_^(tae-kwon-do)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="tae_;L_,t" src="auto">NNFP1-----A----</AM>
-<AM lemma="tae_;L_,t" src="auto">AAFP1----1A----</AM>
-<AM lemma="ta_,t" src="auto">NNFP1-----A----</AM>
-<AM lemma="ta_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="tae_;u_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="tae_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="tae_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="tae_,t_^(tae-kwon-do)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-119-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -95,17 +77,7 @@
 <LM>w#w-ln94205-119-p2s1Aw3</LM>
 </w.rf>
 <form>kwon</form>
-<tag>
-<AM lemma="kwon_,t_^(tae-kwon-do)" src="orig">AAXXX----1A----</AM>
-<AM lemma="kwon_,t_^(tae-kwon-do)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="kwon-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kwon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kwon" src="auto">NNIS1-----A----</AM>
-<AM lemma="kwon" src="auto">NNIS4-----A----</AM>
-<AM lemma="kwon_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="kwon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="kwon_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="kwon_,t_^(tae-kwon-do)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-119-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -1347,17 +1319,7 @@
 <LM>w#w-ln94205-119-p4s2w21</LM>
 </w.rf>
 <form>tae</form>
-<tag>
-<AM lemma="tae_,t_^(tae-kwon-do)" src="orig">AAXXX----1A----</AM>
-<AM lemma="tae_,t_^(tae-kwon-do)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="tae_;L_,t" src="auto">NNFP1-----A----</AM>
-<AM lemma="tae_;L_,t" src="auto">AAFP1----1A----</AM>
-<AM lemma="ta_,t" src="auto">NNFP1-----A----</AM>
-<AM lemma="ta_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="tae_;u_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="tae_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="tae_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="tae_,t_^(tae-kwon-do)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-119-p4s2w22">
 <src.rf>manual</src.rf>
@@ -1373,17 +1335,7 @@
 <LM>w#w-ln94205-119-p4s2w23</LM>
 </w.rf>
 <form>kwon</form>
-<tag>
-<AM lemma="kwon_,t_^(tae-kwon-do)" src="orig">AAXXX----1A----</AM>
-<AM lemma="kwon_,t_^(tae-kwon-do)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="kwon-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kwon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kwon" src="auto">NNIS1-----A----</AM>
-<AM lemma="kwon" src="auto">NNIS4-----A----</AM>
-<AM lemma="kwon_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="kwon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="kwon_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="kwon_,t_^(tae-kwon-do)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-119-p4s2w24">
 <src.rf>manual</src.rf>

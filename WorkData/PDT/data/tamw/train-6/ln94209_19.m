@@ -740,15 +740,7 @@
 <LM>w#w-ln94209-19-p2s4w24</LM>
 </w.rf>
 <form>glajšaltovat</form>
-<tag>
-<AM lemma="glajchšaltovat_,e" src="orig">Vf--------A----</AM>
-<AM lemma="glajšaltovat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="glajšaltovat_:W" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="glajšaltovat_:T_:W" src="auto">Vf--------A----</AM>
-<AM lemma="glajšaltovat_:T_^(*4at)" src="auto">Vf--------A----</AM>
-<AM lemma="glajšaltovat_:T_^(*3t)" src="auto">Vf--------A----</AM>
-<AM lemma="glajšaltovat" src="auto">Vf--------A----</AM>
-</tag>
+<tag lemma="glajchšaltovat_,e" src="orig" selected="1">Vf--------A----</tag>
 </m>
 <m id="m-ln94209-19-p2s4w25">
 <src.rf>manual</src.rf>

@@ -61,16 +61,7 @@
 <LM>w#w-ln94209-96-p2s1Aw3</LM>
 </w.rf>
 <form>jl</form>
-<tag>
-<AM lemma="jl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jl-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jl" src="auto">NNIS4-----A----</AM>
-<AM lemma="jt_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jt_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jt" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jnout_:W" src="auto">VpYS---XR-AA--1</AM>
-</tag>
+<tag lemma="jl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94209-96-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -272,16 +263,7 @@
 <LM>w#w-ln94209-96-p2s1Bw23</LM>
 </w.rf>
 <form>Wimpey</form>
-<tag>
-<AM lemma="Wimpey_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Wimpey_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wimpey_;K" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Wimpey_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Wimpey_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Wimpey_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Wimpey_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="wimpey" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Wimpey_;K" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94209-96-p2s1Bw24">
 <src.rf>manual</src.rf>

@@ -775,18 +775,7 @@
 <LM>w#w-ln94208-105-p3s1w37</LM>
 </w.rf>
 <form>Shea</form>
-<tag>
-<AM lemma="Shea_;S_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Shea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Shea_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Shea_;S_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Shea_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Shea" src="auto">NNFS1-----A----</AM>
-<AM lemma="She_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Shea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="shea" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Shea_;S_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94208-105-p3s1w38">
 <src.rf>manual</src.rf>
@@ -845,18 +834,7 @@
 <LM>w#w-ln94208-105-p3s1w43</LM>
 </w.rf>
 <form>Mets</form>
-<tag>
-<AM lemma="Mets_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Met_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Met_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Met_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Mets_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Mets_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mets_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mets_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Mets_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="mets" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mets_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94208-105-p3s1w44">
 <src.rf>manual</src.rf>
@@ -1755,18 +1733,7 @@
 <LM>w#w-ln94208-105-p4s3w21</LM>
 </w.rf>
 <form>McEnroem</form>
-<tag>
-<AM lemma="McEnroe_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="McEnroe_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="McEnroe-1_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="McEnro" src="auto">NNIS7-----A----</AM>
-<AM lemma="McEnro_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="McEnro" src="auto">NNMS7-----A----</AM>
-<AM lemma="McEnroo" src="auto">NNNS7-----A----</AM>
-<AM lemma="McEnro_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="McEnro_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Mcenroem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="McEnroe_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94208-105-p4s3w22">
 <src.rf>manual</src.rf>
@@ -5553,17 +5520,7 @@
 <LM>w#w-ln94208-105-p7s6w18</LM>
 </w.rf>
 <form>Aerosmithů</form>
-<tag>
-<AM lemma="Aerosmith_;K" src="orig">NNMP2-----A----</AM>
-<AM lemma="Aerosmith_;K" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="Aerosmith" src="auto">NNIP2-----A----</AM>
-<AM lemma="Aerosmith" src="auto">NNMP2-----A----</AM>
-<AM lemma="Aerosmith_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="Aerosmitha" src="auto">NNMP2-----A----</AM>
-<AM lemma="Aerosmithy" src="auto">NNIP2-----A----</AM>
-<AM lemma="Aerosmith_;S" src="auto">NNMP2-----A----</AM>
-<AM lemma="aerosmithů" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Aerosmith_;K" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94208-105-p7s6w19">
 <src.rf>manual</src.rf>
@@ -5680,18 +5637,7 @@
 <LM>w#w-ln94208-105-p7s6w32</LM>
 </w.rf>
 <form>Life</form>
-<tag>
-<AM lemma="Life_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Life_;m_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Life_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Life_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Life_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Life_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Life_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Life_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Life_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="life" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Life_;m_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94208-105-p7s6w33">
 <src.rf>manual</src.rf>
@@ -5715,18 +5661,7 @@
 <LM>w#w-ln94208-105-p7s6w35</LM>
 </w.rf>
 <form>Crusaders</form>
-<tag>
-<AM lemma="Crusaders_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Crusaders_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Crusader_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Crusaders_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Crusader_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Crusader_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Crusaders_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Crusaders_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Crusaders_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="crusaders" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Crusaders_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94208-105-p7s6w36">
 <src.rf>manual</src.rf>
@@ -5864,18 +5799,7 @@
 <LM>w#w-ln94208-105-p7s7w16</LM>
 </w.rf>
 <form>Champions</form>
-<tag>
-<AM lemma="Champions_;m_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Champion_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Champion_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Champions_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Champion_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Champions_;K" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Champion_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Champion_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Champion_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="champions" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Champions_;m_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94208-105-p7s7w17">
 <src.rf>manual</src.rf>

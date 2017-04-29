@@ -257,16 +257,7 @@
 <LM>w#w-mf920925-047-p2s2Bw20</LM>
 </w.rf>
 <form>Arms</form>
-<tag>
-<AM lemma="Arm_;K_,t" src="orig">NNXPX-----A----</AM>
-<AM lemma="Arm_;K_,t" src="auto" recommended="1">NNXPX-----A----</AM>
-<AM lemma="Arm_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Arms_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ars" src="auto">PZZS7----------</AM>
-<AM lemma="arm_;R_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Arm_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="arms" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Arm_;K_,t" src="orig" selected="1">NNXPX-----A----</tag>
 </m>
 <m id="m-mf920925-047-p2s2Bw21">
 <src.rf>manual</src.rf>
@@ -414,13 +405,7 @@
 <LM>w#w-mf920925-047-p2s4w6</LM>
 </w.rf>
 <form>Borgerhout</form>
-<tag>
-<AM lemma="Borgerhout_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Borgerhout_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Borgerhout" src="auto">Vf--------A----</AM>
-<AM lemma="Borgerhout_:T" src="auto">Vf--------A----</AM>
-<AM lemma="borgerhout" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Borgerhout_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-047-p2s4w7">
 <src.rf>manual</src.rf>

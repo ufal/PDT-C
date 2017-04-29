@@ -463,17 +463,7 @@
 <LM>w#w-ln94211-109-p2s2w17</LM>
 </w.rf>
 <form>Historica</form>
-<tag>
-<AM lemma="Historica_;K_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="Historica_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Historica_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Historica_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Historica_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Historica_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Historica_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Historica_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="historica" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Historica_;K_,t" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94211-109-p2s2w18">
 <src.rf>manual</src.rf>

@@ -661,17 +661,7 @@
 <LM>w#w-ln94200-1-p2s6w2</LM>
 </w.rf>
 <form>pz</form>
-<tag>
-<AM lemma="pz-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="pz-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="pz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pz" src="auto">NNIS4-----A----</AM>
-<AM lemma="pz" src="auto">NNIS1-----A----</AM>
-<AM lemma="pza" src="auto">NNFP2-----A----</AM>
-<AM lemma="pz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ps" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="pz-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-1-p2s6w3">
 <src.rf>manual</src.rf>

@@ -123,18 +123,7 @@
 <LM>w#w-ln94205-89-p1s1w14</LM>
 </w.rf>
 <form>Westerplatte</form>
-<tag>
-<AM lemma="Westerplatte_;m" src="orig">NNXXX-----A----</AM>
-<AM lemma="Westerplatte_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Westerplatte_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Westerplatte_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tutte_,t_^(jen_Cosi_fan_Westerplatte,_it.)" src="auto">PLFP1----------</AM>
-<AM lemma="Westerplatte_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Westerplatte_;m" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Westerplatte_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Westerplatte_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="westerplatte" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Westerplatte_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94205-89-p1s1w15">
 <src.rf>manual</src.rf>

@@ -78,25 +78,7 @@
 <LM>w#w-ln94208-8-p2s1Aw5</LM>
 </w.rf>
 <form>dT</form>
-<tag>
-<AM lemma="dT_:B_;R" src="orig">NNIXX-----A---8</AM>
-<AM lemma="dT_:B_;R" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="dT_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="dT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="dT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="dT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="dT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="dT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="dT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="dt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="dt_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="dt_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="dt_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="dt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="dt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="dt" src="auto">Vf--------A----</AM>
-<AM lemma="dt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-</tag>
+<tag lemma="dT_:B_;R" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 </s>
 <s id="m-ln94208-8-p2s1B">

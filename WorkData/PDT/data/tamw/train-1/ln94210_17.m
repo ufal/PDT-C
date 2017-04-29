@@ -661,17 +661,7 @@
 <LM>w#w-ln94210-17-p3s2w15</LM>
 </w.rf>
 <form>galvanika</form>
-<tag>
-<AM lemma="galvanika" src="orig">NNFS1-----A----</AM>
-<AM lemma="galvanika" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="galvanik" src="auto">NNMS2-----A----</AM>
-<AM lemma="galvanik" src="auto">NNMS4-----A----</AM>
-<AM lemma="galvanik_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="galvanika_^(věda)" src="auto">NNFS1-----A----</AM>
-<AM lemma="galvanika_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="galvanikum" src="auto">NNNS2-----A----</AM>
-<AM lemma="galvanikum" src="auto">NNNP4-----A----</AM>
-</tag>
+<tag lemma="galvanika" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-17-p3s2w16">
 <src.rf>manual</src.rf>
@@ -746,26 +736,7 @@
 <LM>w#w-ln94210-17-p3s2w24</LM>
 </w.rf>
 <form>VMV</form>
-<tag>
-<AM lemma="VMV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VMV_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="VMV_:B_;K_^(České_ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VMV_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VMV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VMV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VMV-1_:B_;K_^(Karlovarské_minerální_vody)" src="auto">NNFPX-----A---8</AM>
-<AM lemma="VMV_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Vmv_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vmv_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Vmv_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vmv" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vmva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vmv_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Vmv" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vmv_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="vmv" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="VMV_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94210-17-p3s2w25">
 <src.rf>manual</src.rf>

@@ -67,26 +67,7 @@
 <LM>w#w-ln94206-111-p1s1w7</LM>
 </w.rf>
 <form>Indopol</form>
-<tag>
-<AM lemma="Indopol_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Indopol" src="auto">NNIS4-----A----</AM>
-<AM lemma="Indopol_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Indopolkový_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Indopolkový_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Indopolovina_:B" src="auto">NNFS1-----A----</AM>
-<AM lemma="Indopolovina_:B" src="auto">NNFS2-----A----</AM>
-<AM lemma="indopol" src="auto">NNMS1-----A----</AM>
-<AM lemma="indopol-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="indopoletopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
-<AM lemma="indopolitický_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="indopolitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="indopolo_;R_^(vozidlo)" src="auto">NNNP2-----A----</AM>
-<AM lemma="indopolohový_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="indopolovina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="indopoloviční_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="indopólo" src="auto">NNNP2-----A----</AM>
-<AM lemma="společník_:B_^(Pepa_a_Indopol.)" src="auto">NNMXX-----A---8</AM>
-</tag>
+<tag lemma="Indopol_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-111-p1s1w8">
 <src.rf>manual</src.rf>

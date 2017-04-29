@@ -181,17 +181,7 @@
 <LM>w#w-ln94205-124-p2s1Bw11</LM>
 </w.rf>
 <form>Race</form>
-<tag>
-<AM lemma="race_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Race" src="auto">NNFS1-----A----</AM>
-<AM lemma="Race" src="auto">NNFS2-----A----</AM>
-<AM lemma="Race" src="auto">NNFP4-----A----</AM>
-<AM lemma="Race" src="auto">NNFP1-----A----</AM>
-<AM lemma="Race_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Race_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Race_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="race" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="race_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-124-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -199,16 +189,7 @@
 <LM>w#w-ln94205-124-p2s1Bw12</LM>
 </w.rf>
 <form>Trucks</form>
-<tag>
-<AM lemma="truck_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Truck_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Trucks_;K_,t_^(sport._klub)" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Trucks_;K" src="auto">NNFPX-----A----</AM>
-<AM lemma="Trucks_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Trucks" src="auto">NNIS4-----A----</AM>
-<AM lemma="Truck_;R_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="trucks" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="truck_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94205-124-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -492,21 +473,7 @@
 <LM>w#w-ln94205-124-p2s2w13</LM>
 </w.rf>
 <form>desing</form>
-<tag>
-<AM lemma="desing" src="orig">NNIS4-----A----</AM>
-<AM lemma="desIng-1_:B_^(inženýr)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="desIng-2_:B_^(inženýrka)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="desing" src="auto">NNIS1-----A----</AM>
-<AM lemma="desing" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="desing-1`gram_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="desing-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="desing_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="desing_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="desing_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="desing_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="desing_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="desing_;m_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="desing" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94205-124-p2s2w14">
 <src.rf>manual</src.rf>
@@ -677,21 +644,7 @@
 <LM>w#w-ln94205-124-p2s3w12</LM>
 </w.rf>
 <form>SPAGG</form>
-<tag>
-<AM lemma="SPAGG_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SPAGG_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SPAGG_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SPAGG_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Spagg_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Spagg_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Spagg" src="auto">NNMS1-----A----</AM>
-<AM lemma="Spagg" src="auto">NNIS1-----A----</AM>
-<AM lemma="Spagg" src="auto">NNIS4-----A----</AM>
-<AM lemma="Spagg_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Spagg_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Spagg_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="spagg" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SPAGG_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-124-p2s3w13">
 <src.rf>manual</src.rf>

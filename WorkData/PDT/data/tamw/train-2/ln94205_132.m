@@ -890,25 +890,7 @@
 <LM>w#w-ln94205-132-p2s5w10</LM>
 </w.rf>
 <form>Tri</form>
-<tag>
-<AM lemma="tri_,t" src="orig">ClXP4----------</AM>
-<AM lemma="Tri_;m" src="auto">ClXP1----------</AM>
-<AM lemma="Tri_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tri_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Tri_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Tri_,t" src="auto">Db-------------</AM>
-<AM lemma="Tri_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Tri_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tri_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="tri_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="tri_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tri_,t" src="auto" recommended="1">ClXP4----------</AM>
-<AM lemma="tri_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="tri_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="tri_,t" src="auto">Db-------------</AM>
-<AM lemma="tri_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="tri_;m" src="auto">ClXP1----------</AM>
-</tag>
+<tag lemma="tri_,t" src="orig" selected="1">ClXP4----------</tag>
 </m>
 <m id="m-ln94205-132-p2s5w11">
 <src.rf>manual</src.rf>

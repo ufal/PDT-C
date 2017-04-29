@@ -426,18 +426,7 @@
 <LM>w#w-ln94209-100-p2s2w17</LM>
 </w.rf>
 <form>Takes</form>
-<tag>
-<AM lemma="Takes_;m_,t" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="Takes_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Takes_;G_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Takes" src="auto">NNIS4-----A----</AM>
-<AM lemma="Take_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Takes" src="auto">NNIS1-----A----</AM>
-<AM lemma="Takes_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Take_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Takes_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="takes" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Takes_;m_,t" src="orig" selected="1">VB-S---3P-AA---</tag>
 </m>
 <m id="m-ln94209-100-p2s2w18">
 <src.rf>manual</src.rf>
@@ -453,25 +442,7 @@
 <LM>w#w-ln94209-100-p2s2w19</LM>
 </w.rf>
 <form>All</form>
-<tag>
-<AM lemma="All_;m_,t" src="orig">PLNS4----------</AM>
-<AM lemma="All_;m_,t" src="auto">PLNS4----------</AM>
-<AM lemma="All_;K_,t" src="auto">PLXXX----------</AM>
-<AM lemma="All_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="All_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="All_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="All_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="All_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="All_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="all_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="all_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;w_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="all_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="all_,t_^(řec._jinak)" src="auto">Db-------------</AM>
-</tag>
+<tag lemma="All_;m_,t" src="orig" selected="1">PLNS4----------</tag>
 </m>
 <m id="m-ln94209-100-p2s2w20">
 <src.rf>manual</src.rf>
@@ -1071,13 +1042,7 @@
 <LM>w#w-ln94209-100-p2s4w33</LM>
 </w.rf>
 <form>Vaxjö</form>
-<tag>
-<AM lemma="Vaxjö_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Vaxjö_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Vaxjö_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Vaxjö_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="vaxjö" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vaxjö_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94209-100-p2s4w34">
 <src.rf>manual</src.rf>
@@ -1085,18 +1050,7 @@
 <LM>w#w-ln94209-100-p2s4w34</LM>
 </w.rf>
 <form>Jonasu</form>
-<tag>
-<AM lemma="Jonas_;Y" src="orig">NNMS6-----A----</AM>
-<AM lemma="Jonas" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Jonas_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Jonas" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Jonas" src="auto">NNIS3-----A----</AM>
-<AM lemma="Jonasa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Jonas_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Jonaso_^(jídlo_apod.)" src="auto">NNNS3-----A----</AM>
-<AM lemma="Jonas_;K" src="auto">NNIS6-----A----</AM>
-<AM lemma="jonasu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jonas_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln94209-100-p2s4w35">
 <src.rf>manual</src.rf>
@@ -2002,17 +1956,7 @@
 <LM>w#w-ln94209-100-p4s1w2</LM>
 </w.rf>
 <form>soirée</form>
-<tag>
-<AM lemma="soirée" src="orig">NNNXX-----A----</AM>
-<AM lemma="soirée_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="soirée_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="soirée_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="soirée_;S" src="auto">NNMSX-----A----</AM>
-<AM lemma="soirée_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="soirée_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="soirée" src="auto">NNFS2-----A----</AM>
-<AM lemma="soirée" src="auto" recommended="1">NNFS1-----A----</AM>
-</tag>
+<tag lemma="soirée" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94209-100-p4s1w3">
 <src.rf>manual</src.rf>
@@ -3689,17 +3633,7 @@
 <LM>w#w-ln94209-100-p5s2w14</LM>
 </w.rf>
 <form>sparringpartnerem</form>
-<tag>
-<AM lemma="sparringpartner" src="orig">NNMS7-----A----</AM>
-<AM lemma="sparringpartner" src="auto">NNIS7-----A----</AM>
-<AM lemma="sparringpartner" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="sparringpartner_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="sparringpartner_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="sparringpartnero" src="auto">NNNS7-----A----</AM>
-<AM lemma="sparringpartner_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="sparringpartnerma" src="auto">NNFP2-----A----</AM>
-<AM lemma="sparringpartnere_;S" src="auto">NNMS7-----A----</AM>
-</tag>
+<tag lemma="sparringpartner" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94209-100-p5s2w15">
 <src.rf>manual</src.rf>
@@ -4221,18 +4155,7 @@
 <LM>w#w-ln94209-100-p5s3w54</LM>
 </w.rf>
 <form>French</form>
-<tag>
-<AM lemma="French_;w_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="French_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="French_;w_,t_^(French_Open)" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_;w_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="French_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="French_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fren" src="auto">AAFP2----1A----</AM>
-<AM lemma="Fren" src="auto">AAIP2----1A----</AM>
-<AM lemma="french" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="French_;w_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94209-100-p5s3w55">
 <src.rf>manual</src.rf>

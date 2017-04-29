@@ -101,16 +101,7 @@
 <LM>w#w-ln94206-132-p2s1Aw5</LM>
 </w.rf>
 <form>áč</form>
-<tag>
-<AM lemma="áč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="áč_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="áč" src="auto">NNMS1-----A----</AM>
-<AM lemma="áč" src="auto">NNIS4-----A----</AM>
-<AM lemma="áč" src="auto">NNIS1-----A----</AM>
-<AM lemma="áč-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="áč_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="áč" src="auto">NNFS4-----A----</AM>
-</tag>
+<tag lemma="áč-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94206-132-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -126,17 +117,7 @@
 <LM>w#w-ln94206-132-p2s1Aw7</LM>
 </w.rf>
 <form>lt</form>
-<tag>
-<AM lemma="lt-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lt_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="lt_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="lt" src="auto">NNIS4-----A----</AM>
-<AM lemma="lt" src="auto">NNIS1-----A----</AM>
-<AM lemma="lta" src="auto">NNFP2-----A----</AM>
-<AM lemma="lto" src="auto">NNNP2-----A----</AM>
-<AM lemma="lt_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="lt-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94206-132-p2s1Aw8">
 <src.rf>manual</src.rf>

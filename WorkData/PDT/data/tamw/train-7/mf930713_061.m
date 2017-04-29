@@ -170,19 +170,7 @@
 <LM>w#w-mf930713-061-p2s2w1</LM>
 </w.rf>
 <form>DUDLAY</form>
-<tag>
-<AM lemma="Dudlay_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Dudlay_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Dudlej" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dudlej" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dudlay_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Dudlay_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Dudlay-1_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Dudlay-1_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Dudlay_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dudlay_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="dudlay" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dudlay_;K" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf930713-061-p2s2w2">
 <src.rf>manual</src.rf>
@@ -900,18 +888,7 @@
 <LM>w#w-mf930713-061-p3s1w15</LM>
 </w.rf>
 <form>Rowers</form>
-<tag>
-<AM lemma="Rower_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Rowers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rower_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Rowers_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Rower_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Rower_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Rowers_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Rowers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rowers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="rowers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rower_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-mf930713-061-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1953,18 +1930,7 @@
 <LM>w#w-mf930713-061-p4s2w12</LM>
 </w.rf>
 <form>krasořečí</form>
-<tag>
-<AM lemma="krasořeč" src="orig">NNFS7-----A----</AM>
-<AM lemma="krasořeč" src="auto">NNFP2-----A----</AM>
-<AM lemma="krasořeč" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="krasořečet" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="krasořečit_:T" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="krasořečit_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="krasořečit_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="krasořečí" src="auto">NNNS2-----A----</AM>
-<AM lemma="krasořečí" src="auto">NNNS4-----A----</AM>
-<AM lemma="krasořečí" src="auto">NNNS6-----A----</AM>
-</tag>
+<tag lemma="krasořeč" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf930713-061-p4s2w13">
 <src.rf>manual</src.rf>
@@ -2158,17 +2124,7 @@
 <LM>w#w-mf930713-061-p5s1w4</LM>
 </w.rf>
 <form>Teagrassu</form>
-<tag>
-<AM lemma="Teagrass_;K_,t" src="orig">NNIS3-----A----</AM>
-<AM lemma="Teagrass_;K_,t" src="auto" recommended="1">NNIS3-----A----</AM>
-<AM lemma="Teagrass-2_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="Teagrass" src="auto">NNIS2-----A----</AM>
-<AM lemma="Teagrass" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Teagrass" src="auto">NNIS3-----A----</AM>
-<AM lemma="Teagrass" src="auto">NNIS6-----A----</AM>
-<AM lemma="Teagrassa" src="auto">NNFS4-----A----</AM>
-<AM lemma="teagrassu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Teagrass_;K_,t" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-mf930713-061-p5s1w5">
 <src.rf>manual</src.rf>

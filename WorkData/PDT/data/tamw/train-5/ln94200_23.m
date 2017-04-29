@@ -77,15 +77,7 @@
 <LM>w#w-ln94200-23-p2s1Aw3</LM>
 </w.rf>
 <form>ali</form>
-<tag>
-<AM lemma="ali-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="at_:T" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="at_:W" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="at_:T_:W" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="at" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="at_:T_^(*4at)" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="at_:T_^(*3t)" src="auto">VpMP---XR-AA---</AM>
-</tag>
+<tag lemma="ali-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-23-p2s1Aw4">
 <src.rf>manual</src.rf>

@@ -125,22 +125,7 @@
 <LM>w#w-ln95046-039-p2s1Bw6</LM>
 </w.rf>
 <form>Indoor</form>
-<tag>
-<AM lemma="Indoor_;m_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Indoor" src="auto">NNIS1-----A----</AM>
-<AM lemma="Indoor" src="auto">NNIS4-----A----</AM>
-<AM lemma="Indoor" src="auto">NNMS1-----A----</AM>
-<AM lemma="Indoor_,t" src="auto">RR--X----------</AM>
-<AM lemma="Indoor_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Indoor_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Indoor_;m_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="indoor" src="auto">NNMS1-----A----</AM>
-<AM lemma="indoor-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="indoorežie_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="indoorok_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="indooručení_:B" src="auto">NNNS7-----A---8</AM>
-<AM lemma="noor_;K_^(Koh-i-Indoor)" src="auto">NNXXX-----A----</AM>
-</tag>
+<tag lemma="Indoor_;m_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-039-p2s1Bw7">
 <src.rf>manual</src.rf>

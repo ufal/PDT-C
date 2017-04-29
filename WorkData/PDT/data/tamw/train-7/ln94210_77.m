@@ -573,18 +573,7 @@
 <LM>w#w-ln94210-77-p2s4w10</LM>
 </w.rf>
 <form>Šamího</form>
-<tag>
-<AM lemma="Šamí_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Šamí" src="auto">AAIS2----1A----</AM>
-<AM lemma="Šamí" src="auto">AANS2----1A----</AM>
-<AM lemma="Šamí" src="auto">AAMS2----1A----</AM>
-<AM lemma="Šamí" src="auto" recommended="1">AAMS4----1A----</AM>
-<AM lemma="Šamí_^(*5ovat)" src="auto">AGIS2-----A----</AM>
-<AM lemma="Šamí_^(*4t)" src="auto">AGIS2-----A----</AM>
-<AM lemma="Šamí_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="Šamí_^(*5ovat)" src="auto">AGNS2-----A----</AM>
-<AM lemma="šamího" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Šamí_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94210-77-p2s4w11">
 <src.rf>manual</src.rf>
@@ -648,18 +637,7 @@
 <LM>w#w-ln94210-77-p2s4w18</LM>
 </w.rf>
 <form>Táhira</form>
-<tag>
-<AM lemma="Táhir_;Y" src="orig">NNMS4-----A----</AM>
-<AM lemma="Táhira_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Táhir_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Táhir_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Táhiro_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Táhiro" src="auto">NNNS2-----A----</AM>
-<AM lemma="Táhir_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Táhira_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Táhira_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="táhira" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Táhir_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94210-77-p2s4w19">
 <src.rf>manual</src.rf>

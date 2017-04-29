@@ -1397,18 +1397,7 @@
 <LM>w#w-mf920922-046-p2s8Bw7</LM>
 </w.rf>
 <form>Stricha</form>
-<tag>
-<AM lemma="Strich_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Strich_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Stricha_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stricha" src="auto">NNFS1-----A----</AM>
-<AM lemma="Strich_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Strich_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Strich_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Strich" src="auto">NNMS2-----A----</AM>
-<AM lemma="Stricho" src="auto">NNNS2-----A----</AM>
-<AM lemma="stricha" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Strich_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-046-p2s8Bw8">
 <src.rf>manual</src.rf>

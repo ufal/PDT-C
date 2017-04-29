@@ -2653,21 +2653,7 @@
 <LM>w#w-ln95049-071-p7s2w14</LM>
 </w.rf>
 <form>URNG</form>
-<tag>
-<AM lemma="URNG_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="URNG_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="URng-1_:B_^(inženýr)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="URNG_:B_;K_^(banka)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Urng_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Urng" src="auto">NNIS4-----A----</AM>
-<AM lemma="Urng" src="auto">NNIS1-----A----</AM>
-<AM lemma="Urng_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Urng_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Urng_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Urng_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Urng_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="urng" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="URNG_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95049-071-p7s2w15">
 <src.rf>manual</src.rf>
@@ -2845,15 +2831,7 @@
 <LM>w#w-ln95049-071-p8s1w9</LM>
 </w.rf>
 <form>Góto</form>
-<tag>
-<AM lemma="Góto_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Góto_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Góto" src="auto">NNNS1-----A----</AM>
-<AM lemma="Góto" src="auto">NNNS4-----A----</AM>
-<AM lemma="Góto_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Góto_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="góto" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Góto_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-071-p8s1w10">
 <src.rf>manual</src.rf>
@@ -3162,15 +3140,7 @@
 <LM>w#w-ln95049-071-p8s3w1</LM>
 </w.rf>
 <form>Góto</form>
-<tag>
-<AM lemma="Góto_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Góto_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Góto" src="auto">NNNS1-----A----</AM>
-<AM lemma="Góto" src="auto">NNNS4-----A----</AM>
-<AM lemma="Góto_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Góto_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="góto" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Góto_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-071-p8s3w2">
 <src.rf>manual</src.rf>
@@ -4044,25 +4014,7 @@
 <LM>w#w-ln95049-071-p10s3w15</LM>
 </w.rf>
 <form>NTV</form>
-<tag>
-<AM lemma="NTV_:B_;K_^(tv)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NTV_:B_;K_^(tv)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="NTV_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NTelevizní_:B_;K_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Ntelevizní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Ntelevize_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NTV_:B_^(Československý_svaz_tělesné_výchovy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NTV_:B_;K_^(Fashion_TV)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="NTV_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Ntv_:B" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ntv_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ntv_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Ntv_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ntv" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ntva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ntv_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="ntv" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="NTV_:B_;K_^(tv)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95049-071-p10s3w16">
 <src.rf>manual</src.rf>

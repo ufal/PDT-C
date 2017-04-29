@@ -890,18 +890,7 @@
 <LM>w#w-ln95046-021-p2s5w12</LM>
 </w.rf>
 <form>Karpovcev</form>
-<tag>
-<AM lemma="Karpovcev_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Karpovcev_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Karpovcev" src="auto">NNFS4-----A----</AM>
-<AM lemma="Karpovcev" src="auto">NNFS1-----A----</AM>
-<AM lemma="Karpovcvo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Karpovcva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Karpovcev" src="auto">NNIS4-----A----</AM>
-<AM lemma="Karpovcev" src="auto">NNIS1-----A----</AM>
-<AM lemma="Karpovceva" src="auto">NNFP2-----A----</AM>
-<AM lemma="karpovcev" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Karpovcev_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-021-p2s5w13">
 <src.rf>manual</src.rf>

@@ -1760,18 +1760,7 @@
 <LM>w#w-lnd94103-059-p1s11Aw14</LM>
 </w.rf>
 <form>Villalobos</form>
-<tag>
-<AM lemma="Villalobos_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Villalobosý" src="auto">ACYS------A----</AM>
-<AM lemma="Villalobos_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Villalobos_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Villalobos" src="auto">NNIS1-----A----</AM>
-<AM lemma="Villalobos_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Villalobos" src="auto">NNIS4-----A----</AM>
-<AM lemma="Villalobos_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Villalobos_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="villalobos" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Villalobos_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s11Aw15">
 <src.rf>manual</src.rf>
@@ -2047,16 +2036,7 @@
 <LM>w#w-lnd94103-059-p1s12w7</LM>
 </w.rf>
 <form>osmdesátičtyřčlenném</form>
-<tag>
-<AM lemma="osmdesátičtyřčlenný" src="orig">AAIS6----1A----</AM>
-<AM lemma="osmdesátičtyřčlenný" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="osmdesátičtyřčlenný" src="auto">AAMS6----1A----</AM>
-<AM lemma="osmdesátičtyřčlenný" src="auto">AANS6----1A----</AM>
-<AM lemma="osmdesátičtyřčlenný_^(*2t)" src="auto">AAIS6----1A----</AM>
-<AM lemma="osmdesátičtyřčlenný_^(*2t)" src="auto">AANS6----1A----</AM>
-<AM lemma="osmdesátičtyřčlenný_^(*3it)" src="auto">AAIS6----1A----</AM>
-<AM lemma="osmdesátičtyřčlenný_^(*3it)" src="auto">AANS6----1A----</AM>
-</tag>
+<tag lemma="osmdesátičtyřčlenný" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s12w8">
 <src.rf>manual</src.rf>
@@ -2279,16 +2259,7 @@
 <LM>w#w-lnd94103-059-p1s14w11</LM>
 </w.rf>
 <form>Salaverría</form>
-<tag>
-<AM lemma="Salaverría_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Salaverría_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Salaverria" src="auto">NNFS1-----A----</AM>
-<AM lemma="Salaverría" src="auto">NNFS1-----A----</AM>
-<AM lemma="Salaverrí_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Salaverrí" src="auto">NNMS2-----A----</AM>
-<AM lemma="Salaverrí_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="salaverría" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Salaverría_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s14w12">
 <src.rf>manual</src.rf>

@@ -859,17 +859,7 @@
 <LM>w#w-ln94206-121-p3s2w22</LM>
 </w.rf>
 <form>Bodén</form>
-<tag>
-<AM lemma="Bodén_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bodén_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bodéna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bodén" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bodén_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bodén" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bodén" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bodény_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="bodén" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bodén_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-121-p3s2w23">
 <src.rf>manual</src.rf>
@@ -965,18 +955,7 @@
 <LM>w#w-ln94206-121-p3s2w34</LM>
 </w.rf>
 <form>Wennlund</form>
-<tag>
-<AM lemma="Wennlund_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Wennlund_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Wennlund_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wennlund_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Wennlund_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Wennlund" src="auto">NNIS4-----A----</AM>
-<AM lemma="Wennlunda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Wennlund_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Wennlund_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="wennlund" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Wennlund_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-121-p3s2w35">
 <src.rf>manual</src.rf>
@@ -1217,18 +1196,7 @@
 <LM>w#w-ln94206-121-p3s2w64</LM>
 </w.rf>
 <form>McGough</form>
-<tag>
-<AM lemma="McGough_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="McGough_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="McGough_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="McGough_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="McGough_;S_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="McGough_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="McGough_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="McGough_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="McGough_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mcgough" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="McGough_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-121-p3s2w65">
 <src.rf>manual</src.rf>

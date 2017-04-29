@@ -397,25 +397,7 @@
 <LM>w#w-ln94210-61-p2s1Cw34</LM>
 </w.rf>
 <form>SLB</form>
-<tag>
-<AM lemma="SLB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SLB-1_:B_;K_;p_^(Levý_Blok)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SLB_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SLB_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SLB_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SLB_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SLB_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SLB_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Slb" src="auto">NNIS1-----A----</AM>
-<AM lemma="Slb" src="auto">NNIS4-----A----</AM>
-<AM lemma="Slb-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Slb_,l" src="auto">NNIS4-----A----</AM>
-<AM lemma="Slb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Slba" src="auto">NNFP2-----A----</AM>
-<AM lemma="Slbum" src="auto">NNNP2-----A----</AM>
-<AM lemma="slb" src="auto">NNMS1-----A----</AM>
-<AM lemma="slibra-2_:B_^(váhová_jednotka)" src="auto">NNXXX-----A---8</AM>
-</tag>
+<tag lemma="SLB_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94210-61-p2s1Cw35">
 <src.rf>manual</src.rf>

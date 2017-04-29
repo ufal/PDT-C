@@ -751,18 +751,7 @@
 <LM>w#w-ln94204-24-p4s2w8</LM>
 </w.rf>
 <form>Skády</form>
-<tag>
-<AM lemma="Skáda_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Skáda" src="auto">NNFS2-----A----</AM>
-<AM lemma="Skáda" src="auto">NNFP4-----A----</AM>
-<AM lemma="Skáda" src="auto">NNFP1-----A----</AM>
-<AM lemma="Skád" src="auto">NNIP1-----A----</AM>
-<AM lemma="Skád" src="auto">NNIP4-----A----</AM>
-<AM lemma="Skáda_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Skáda" src="auto">NNNP7-----A----</AM>
-<AM lemma="Skád" src="auto">NNMP7-----A----</AM>
-<AM lemma="skády" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Skáda_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-24-p4s2w9">
 <src.rf>manual</src.rf>

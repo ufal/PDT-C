@@ -69,17 +69,7 @@
 <LM>w#w-ln94202-108-p2s1Aw3</LM>
 </w.rf>
 <form>mmz</form>
-<tag>
-<AM lemma="mmz-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mmz-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="mmz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mmz" src="auto">NNIS4-----A----</AM>
-<AM lemma="mmz" src="auto">NNIS1-----A----</AM>
-<AM lemma="mmza" src="auto">NNFP2-----A----</AM>
-<AM lemma="mmz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mmz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="mms" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="mmz-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-108-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -594,18 +584,7 @@
 <LM>w#w-ln94202-108-p3s2w14</LM>
 </w.rf>
 <form>Raddelliosem</form>
-<tag>
-<AM lemma="Raddellios_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Raddellios" src="auto">NNIS7-----A----</AM>
-<AM lemma="Raddellios_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Raddellios_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Raddellioso" src="auto">NNNS7-----A----</AM>
-<AM lemma="Raddellios_;S_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Raddellios_;K" src="auto">NNIS7-----A----</AM>
-<AM lemma="Raddellios_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Raddellios" src="auto">NNMS7-----A----</AM>
-<AM lemma="raddelliosem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Raddellios_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94202-108-p3s2w15">
 <src.rf>manual</src.rf>
@@ -765,18 +744,7 @@
 <LM>w#w-ln94202-108-p3s2w34</LM>
 </w.rf>
 <form>Progressiona</form>
-<tag>
-<AM lemma="Progression_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Progression_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Progression_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Progressiona" src="auto">NNFS1-----A----</AM>
-<AM lemma="Progression_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Progression" src="auto">NNMS2-----A----</AM>
-<AM lemma="Progressiona_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Progressiona_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Progressiona_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="progressiona" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Progression_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-108-p3s2w35">
 <src.rf>manual</src.rf>

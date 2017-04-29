@@ -141,18 +141,7 @@
 <LM>w#w-mf920922-017-p2s1w13</LM>
 </w.rf>
 <form>Solchaga</form>
-<tag>
-<AM lemma="Solchaga_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Solchaga_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Solchago_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Solchago_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Solchago_;K" src="auto">NNNS2-----A----</AM>
-<AM lemma="Solchago_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Solchag_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Solchaga_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Solchaga_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="solchaga" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Solchaga_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-017-p2s1w14">
 <src.rf>manual</src.rf>
@@ -410,18 +399,7 @@
 <LM>w#w-mf920922-017-p2s2w10</LM>
 </w.rf>
 <form>Solchaga</form>
-<tag>
-<AM lemma="Solchaga_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Solchaga_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Solchago_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Solchago_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Solchago_;K" src="auto">NNNS2-----A----</AM>
-<AM lemma="Solchago_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Solchag_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Solchaga_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Solchaga_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="solchaga" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Solchaga_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-017-p2s2w11">
 <src.rf>manual</src.rf>
@@ -1294,18 +1272,7 @@
 <LM>w#w-mf920922-017-p2s5w46</LM>
 </w.rf>
 <form>Financial</form>
-<tag>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Financial_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Escorial-1_;G_^(El_Financial,_šp._král._sídlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Financial_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Financial_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Financial_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="financial" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Financial_;R_,t_^(např._F.Times)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920922-017-p2s5w47">
 <src.rf>manual</src.rf>
@@ -2201,18 +2168,7 @@
 <LM>w#w-mf920922-017-p2s13w18</LM>
 </w.rf>
 <form>Financial</form>
-<tag>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Financial_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Escorial-1_;G_^(El_Financial,_šp._král._sídlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Financial_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Financial_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="financial" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Financial_;R_,t_^(např._F.Times)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920922-017-p2s13w19">
 <src.rf>manual</src.rf>

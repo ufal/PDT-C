@@ -1094,20 +1094,7 @@
 <LM>w#w-ln94207-96-p5s2w10</LM>
 </w.rf>
 <form>OIKÚMENÉ</form>
-<tag>
-<AM lemma="OIKÚMENÉ_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="OIKÚMENÉ_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="OIKÚMENÉ_;K_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Oikúmený_^(*3it)" src="auto">AAFS2----1A----</AM>
-<AM lemma="Oikúmený_^(*3it)" src="auto">AAFP1----1A----</AM>
-<AM lemma="Oikúmený_^(*3it)" src="auto">AANS1----1A----</AM>
-<AM lemma="Oikúmený_^(*3it)" src="auto">AANS4----1A----</AM>
-<AM lemma="Oikúmený_^(*3it)" src="auto">AAIP1----1A----</AM>
-<AM lemma="Oikúmený_^(*3it)" src="auto">AAIP4----1A----</AM>
-<AM lemma="Oikúmený_^(*3it)" src="auto">AAFP4----1A----</AM>
-<AM lemma="Oikúmený_^(*3it)" src="auto">AAFS6----1A----</AM>
-<AM lemma="oikúmené" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="OIKÚMENÉ_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-96-p5s2w11">
 <src.rf>manual</src.rf>
@@ -1349,17 +1336,7 @@
 <LM>w#w-ln94207-96-p6s4w1</LM>
 </w.rf>
 <form>Srdeň</form>
-<tag>
-<AM lemma="srdeň" src="orig">NNFS1-----A----</AM>
-<AM lemma="Srdeň" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Srdeň_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Srdeň_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Srdeň" src="auto">NNFS4-----A----</AM>
-<AM lemma="Srdeň_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Srdeň" src="auto">NNMS1-----A----</AM>
-<AM lemma="Srdeň" src="auto">NNIS4-----A----</AM>
-<AM lemma="srdeň" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="srdeň" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-96-p6s4w2">
 <src.rf>manual</src.rf>

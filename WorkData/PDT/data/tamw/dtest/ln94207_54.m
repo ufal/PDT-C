@@ -2455,18 +2455,7 @@
 <LM>w#w-ln94207-54-p4s1w9</LM>
 </w.rf>
 <form>Tour</form>
-<tag>
-<AM lemma="Tour_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tour_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Toura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Tour_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tour_;R_,t" src="auto">PSXXX-X2-------</AM>
-<AM lemma="tour" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tour_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94207-54-p4s1w10">
 <src.rf>manual</src.rf>
@@ -3679,15 +3668,7 @@
 <LM>w#w-ln94207-54-p5s1w14</LM>
 </w.rf>
 <form>Seixase</form>
-<tag>
-<AM lemma="Seixas_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Seixas_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Seixas_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Seixas" src="auto">NNIS6-----A----</AM>
-<AM lemma="Seixasa" src="auto">NNFS6-----A----</AM>
-<AM lemma="Seixase_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="seixase" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Seixas_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94207-54-p5s1w15">
 <src.rf>manual</src.rf>

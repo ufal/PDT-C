@@ -171,16 +171,7 @@
 <LM>w#w-ln94208-138-p1s1Aw20</LM>
 </w.rf>
 <form>Professional</form>
-<tag>
-<AM lemma="Professional_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Professionat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Professionat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Professionat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Professional_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="professionat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Professional_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="professional" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Professional_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94208-138-p1s1Aw21">
 <src.rf>manual</src.rf>
@@ -188,18 +179,7 @@
 <LM>w#w-ln94208-138-p1s1Aw21</LM>
 </w.rf>
 <form>Commando</form>
-<tag>
-<AM lemma="Commando_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Commando_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Commando" src="auto">NNNS4-----A----</AM>
-<AM lemma="Commando" src="auto">NNNS1-----A----</AM>
-<AM lemma="Commando_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Commando_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Commando_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Commando_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Commando_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="commando" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Commando_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94208-138-p1s1Aw22">
 <src.rf>manual</src.rf>

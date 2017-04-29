@@ -1051,19 +1051,7 @@
 <LM>w#w-mf930709-112-p5s1w8</LM>
 </w.rf>
 <form>FACE</form>
-<tag>
-<AM lemma="FACE_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FACE_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FACE-2_:B_;K_,t_^(Allied_Command_Europe)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Face" src="auto">NNFS1-----A----</AM>
-<AM lemma="Face" src="auto">NNFS2-----A----</AM>
-<AM lemma="Face" src="auto">NNFP4-----A----</AM>
-<AM lemma="Face" src="auto">NNFP1-----A----</AM>
-<AM lemma="Face_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Face_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Face_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="face" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FACE_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930709-112-p5s1w9">
 <src.rf>manual</src.rf>

@@ -333,16 +333,7 @@
 <LM>w#w-ln95045-043-p2s2w15</LM>
 </w.rf>
 <form>Finlandia</form>
-<tag>
-<AM lemma="Finlandia_;R_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Finlandium" src="auto">NNNS2-----A----</AM>
-<AM lemma="Finlandium" src="auto">NNNP4-----A----</AM>
-<AM lemma="Finlandium" src="auto">NNNP1-----A----</AM>
-<AM lemma="Finlandio" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="Finlandio" src="auto">NNNP4-----A----</AM>
-<AM lemma="Finlandio" src="auto">NNNP1-----A----</AM>
-<AM lemma="finlandia" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Finlandia_;R_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-043-p2s2w16">
 <src.rf>manual</src.rf>
@@ -374,16 +365,7 @@
 <LM>w#w-ln95045-043-p2s2w19</LM>
 </w.rf>
 <form>Tuonely</form>
-<tag>
-<AM lemma="Tuonela_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Tuonet_:T" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="Tuonet" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="Tuonel" src="auto">NNIP1-----A----</AM>
-<AM lemma="Tuonel" src="auto">NNIP4-----A----</AM>
-<AM lemma="Tuonela" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Tuonela" src="auto">NNFP4-----A----</AM>
-<AM lemma="tuonely" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tuonela_;G" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-043-p2s2w20">
 <src.rf>manual</src.rf>
@@ -728,18 +710,7 @@
 <LM>w#w-ln95045-043-p3s2w9</LM>
 </w.rf>
 <form>Philharmonic</form>
-<tag>
-<AM lemma="Philharmonic_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Philharmonice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Philharmonice_^(*3ík)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Philharmonice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Philharmonic_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Philharmonic_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Philharmonic" src="auto">Db-------------</AM>
-<AM lemma="Philharmonice_;G_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="Philharmonice-2_^(místo_výkonu_služby)" src="auto">NNFP2-----A----</AM>
-<AM lemma="philharmonic" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Philharmonic_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95045-043-p3s2w10">
 <src.rf>manual</src.rf>

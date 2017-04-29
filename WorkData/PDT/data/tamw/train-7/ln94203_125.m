@@ -3270,18 +3270,7 @@
 <LM>w#w-ln94203-125-p6s2w9</LM>
 </w.rf>
 <form>Jusku</form>
-<tag>
-<AM lemma="Juska_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Jusko_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Jusko_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Jusk" src="auto">NNIS2-----A----</AM>
-<AM lemma="Jusko" src="auto">NNNS6-----A----</AM>
-<AM lemma="Juska" src="auto">NNFS4-----A----</AM>
-<AM lemma="Jusk" src="auto">NNIS6-----A----</AM>
-<AM lemma="Jusk_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Jusko" src="auto">NNNS3-----A----</AM>
-<AM lemma="jusku" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Juska_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94203-125-p6s2w10">
 <src.rf>manual</src.rf>
@@ -3738,18 +3727,7 @@
 <LM>w#w-ln94203-125-p6s6w7</LM>
 </w.rf>
 <form>Jusku</form>
-<tag>
-<AM lemma="Juska_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Jusko_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Jusko_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Jusk" src="auto">NNIS2-----A----</AM>
-<AM lemma="Jusko" src="auto">NNNS6-----A----</AM>
-<AM lemma="Juska" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Jusk" src="auto">NNIS6-----A----</AM>
-<AM lemma="Jusk_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Jusko" src="auto">NNNS3-----A----</AM>
-<AM lemma="jusku" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Juska_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94203-125-p6s6w8">
 <src.rf>manual</src.rf>
@@ -7061,16 +7039,7 @@
 <LM>w#w-ln94203-125-p8s15w4</LM>
 </w.rf>
 <form>mo</form>
-<tag>
-<AM lemma="mo-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mo" src="auto">Db-------------</AM>
-<AM lemma="mo_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="mo" src="auto">NNNS1-----A----</AM>
-<AM lemma="mo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="mo" src="auto">Dg-------1A----</AM>
-<AM lemma="mo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="známý-2_^(co_me)" src="auto">ACNS------A----</AM>
-</tag>
+<tag lemma="mo-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94203-125-p8s15w5">
 <src.rf>manual</src.rf>

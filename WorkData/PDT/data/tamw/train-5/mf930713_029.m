@@ -297,17 +297,7 @@
 <LM>w#w-mf930713-029-p2s2w12</LM>
 </w.rf>
 <form>Araiovi</form>
-<tag>
-<AM lemma="Arai_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Arai_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Arai" src="auto">NNMS3-----A----</AM>
-<AM lemma="Arai_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Araia_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Arai_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Arai" src="auto">NNMS6-----A----</AM>
-<AM lemma="Araiův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="araiovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Arai_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930713-029-p2s2w13">
 <src.rf>manual</src.rf>
@@ -331,17 +321,7 @@
 <LM>w#w-mf930713-029-p2s2w15</LM>
 </w.rf>
 <form>Gipsonovi</form>
-<tag>
-<AM lemma="Gipson_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Gipson_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Gipson" src="auto">NNMS3-----A----</AM>
-<AM lemma="Gipson_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Gipsona_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Gipson_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Gipson" src="auto">NNMS6-----A----</AM>
-<AM lemma="Gipsonův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="gipsonovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gipson_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930713-029-p2s2w16">
 <src.rf>manual</src.rf>

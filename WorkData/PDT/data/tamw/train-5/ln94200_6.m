@@ -664,16 +664,7 @@
 <LM>w#w-ln94200-6-p3s1w2</LM>
 </w.rf>
 <form>raj</form>
-<tag>
-<AM lemma="raj-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="raj" src="auto">NNIS4-----A----</AM>
-<AM lemma="raj" src="auto">NNIS1-----A----</AM>
-<AM lemma="rát" src="auto">Vi-S---2--A----</AM>
-<AM lemma="raj_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="raj_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="raj-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="raj_;G" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="raj-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-6-p3s1w3">
 <src.rf>manual</src.rf>

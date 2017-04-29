@@ -493,18 +493,7 @@
 <LM>w#w-ln94204-88-p3s1w5</LM>
 </w.rf>
 <form>Juchym</form>
-<tag>
-<AM lemma="Juchym_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Juchym_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Juchy_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Juchym" src="auto">NNIS4-----A----</AM>
-<AM lemma="Juchym" src="auto">NNIS1-----A----</AM>
-<AM lemma="Juchy_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="Juchy_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Juchy_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Juchymum" src="auto">NNNP2-----A----</AM>
-<AM lemma="juchym" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Juchym_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-88-p3s1w6">
 <src.rf>manual</src.rf>
@@ -512,18 +501,7 @@
 <LM>w#w-ln94204-88-p3s1w6</LM>
 </w.rf>
 <form>Zvjahilskyj</form>
-<tag>
-<AM lemma="Zvjahilskyj_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zvjahilskyj_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Zvjahilskyj_;G_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Zvjahilskyj_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Zvjahilskyj_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zvjahilskyj_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Zvjahilskyj" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zvjahilskyj" src="auto">NNIS4-----A----</AM>
-<AM lemma="Zvjahilskyj_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="zvjahilskyj" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Zvjahilskyj_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-88-p3s1w7">
 <src.rf>manual</src.rf>
@@ -621,18 +599,7 @@
 <LM>w#w-ln94204-88-p3s2w1</LM>
 </w.rf>
 <form>Zvjahilskyj</form>
-<tag>
-<AM lemma="Zvjahilskyj_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zvjahilskyj_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Zvjahilskyj_;G_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Zvjahilskyj_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Zvjahilskyj_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zvjahilskyj_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Zvjahilskyj" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zvjahilskyj" src="auto">NNIS4-----A----</AM>
-<AM lemma="Zvjahilskyj_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="zvjahilskyj" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Zvjahilskyj_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-88-p3s2w2">
 <src.rf>manual</src.rf>

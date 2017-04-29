@@ -294,18 +294,7 @@
 <LM>w#w-ln94205-40-p1s2w16</LM>
 </w.rf>
 <form>World</form>
-<tag>
-<AM lemma="World_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="World_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="World_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="world" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="World_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-40-p1s2w17">
 <src.rf>manual</src.rf>
@@ -321,18 +310,7 @@
 <LM>w#w-ln94205-40-p1s2w18</LM>
 </w.rf>
 <form>Photo</form>
-<tag>
-<AM lemma="Photo_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Photo" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Photo" src="auto">NNNS4-----A----</AM>
-<AM lemma="tenPho" src="auto">PDNS4----------</AM>
-<AM lemma="tenPho" src="auto">PDNS1----------</AM>
-<AM lemma="tenP" src="auto">PDZS2----------</AM>
-<AM lemma="tenP" src="auto">PDMS4----------</AM>
-<AM lemma="proto-2_^(dal_mu_co_proto,_tak_Photo!)" src="auto">Db-------------</AM>
-<AM lemma="proto-1_^(proto;_a_proto,_ale_Photo,...)" src="auto">J^-------------</AM>
-<AM lemma="photo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Photo_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-40-p1s2w19">
 <src.rf>manual</src.rf>

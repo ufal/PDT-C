@@ -77,18 +77,7 @@
 <LM>w#w-ln94211-17-p2s1Aw3</LM>
 </w.rf>
 <form>Hronom</form>
-<tag>
-<AM lemma="Hron_;G" src="orig">NNIS7-----A----</AM>
-<AM lemma="Hronom" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hronen" src="auto">PDZS6----------</AM>
-<AM lemma="Hron_;G" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="Hroen`1" src="auto">ClZS6----------</AM>
-<AM lemma="Hronompenh-1_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Hronom-1" src="auto">TT-------------</AM>
-<AM lemma="Hronom" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hronom" src="auto">Db-------------</AM>
-<AM lemma="hronom" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hron_;G" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94211-17-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -194,18 +183,7 @@
 <LM>w#w-ln94211-17-p2s1Bw12</LM>
 </w.rf>
 <form>Hronom</form>
-<tag>
-<AM lemma="Hron_;G" src="orig">NNIS7-----A----</AM>
-<AM lemma="Hronom" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hronen" src="auto">PDZS6----------</AM>
-<AM lemma="Hron_;G" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="Hroen`1" src="auto">ClZS6----------</AM>
-<AM lemma="Hronompenh-1_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Hronom-1" src="auto">TT-------------</AM>
-<AM lemma="Hronom" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hronom" src="auto">Db-------------</AM>
-<AM lemma="hronom" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hron_;G" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94211-17-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -992,18 +970,7 @@
 <LM>w#w-ln94211-17-p4s2w12</LM>
 </w.rf>
 <form>Hronom</form>
-<tag>
-<AM lemma="Hron_;G" src="orig">NNIS7-----A----</AM>
-<AM lemma="Hronom" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hronen" src="auto">PDZS6----------</AM>
-<AM lemma="Hron_;G" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="Hroen`1" src="auto">ClZS6----------</AM>
-<AM lemma="Hronompenh-1_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Hronom-1" src="auto">TT-------------</AM>
-<AM lemma="Hronom" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hronom" src="auto">Db-------------</AM>
-<AM lemma="hronom" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hron_;G" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94211-17-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1260,17 +1227,7 @@
 <LM>w#w-ln94211-17-p5s1w7</LM>
 </w.rf>
 <form>národného</form>
-<tag>
-<AM lemma="národný_,t" src="orig">AANS2----1A----</AM>
-<AM lemma="národný" src="auto">AAIS2----1A----</AM>
-<AM lemma="národný" src="auto">AAMS2----1A----</AM>
-<AM lemma="národný" src="auto">AAMS4----1A----</AM>
-<AM lemma="národný" src="auto">AANS2----1A----</AM>
-<AM lemma="národný_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="národný_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="národný_^(*2t)" src="auto" recommended="1">AANS2----1A----</AM>
-<AM lemma="národný_^(*3it)" src="auto">AAIS2----1A----</AM>
-</tag>
+<tag lemma="národný_,t" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln94211-17-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1278,17 +1235,7 @@
 <LM>w#w-ln94211-17-p5s1w8</LM>
 </w.rf>
 <form>povstania</form>
-<tag>
-<AM lemma="povstanie_,t" src="orig">NNNS2-----A----</AM>
-<AM lemma="povstanie_,t" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="povstanius" src="auto">NNMS4-----A----</AM>
-<AM lemma="povstania_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="povstania_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="povstanius" src="auto">NNMS2-----A----</AM>
-<AM lemma="povstanium" src="auto">NNNS2-----A----</AM>
-<AM lemma="povstanio_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="povstanie_;G" src="auto">NNFS1-----A---1</AM>
-</tag>
+<tag lemma="povstanie_,t" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94211-17-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1320,18 +1267,7 @@
 <LM>w#w-ln94211-17-p5s1w12</LM>
 </w.rf>
 <form>Hronom</form>
-<tag>
-<AM lemma="Hron_;G" src="orig">NNIS7-----A----</AM>
-<AM lemma="Hronom" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hronen" src="auto">PDZS6----------</AM>
-<AM lemma="Hron_;G" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="Hroen`1" src="auto">ClZS6----------</AM>
-<AM lemma="Hronompenh-1_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Hronom-1" src="auto">TT-------------</AM>
-<AM lemma="Hronom" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hronom" src="auto">Db-------------</AM>
-<AM lemma="hronom" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hron_;G" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94211-17-p5s1w13">
 <src.rf>manual</src.rf>

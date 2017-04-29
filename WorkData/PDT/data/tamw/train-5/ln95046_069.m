@@ -51,18 +51,7 @@
 <LM>w#w-ln95046-069-p1s1w5</LM>
 </w.rf>
 <form>Cenepy</form>
-<tag>
-<AM lemma="Cenepa_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Cenep" src="auto">NNIP4-----A----</AM>
-<AM lemma="Cenepa_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Cenepa" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cenepa" src="auto">NNFS2-----A----</AM>
-<AM lemma="Cenep" src="auto">NNMP7-----A----</AM>
-<AM lemma="Cenep" src="auto">NNIP7-----A----</AM>
-<AM lemma="Cenep" src="auto">NNIP1-----A----</AM>
-<AM lemma="Cenepa" src="auto">NNFP1-----A----</AM>
-<AM lemma="cenepy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cenepa_;G" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95046-069-p2s1A">
@@ -218,18 +207,7 @@
 <LM>w#w-ln95046-069-p2s1Bw15</LM>
 </w.rf>
 <form>Cenepa</form>
-<tag>
-<AM lemma="Cenepa_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Cenepo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Cenep" src="auto">NNIS2-----A----</AM>
-<AM lemma="Cenepa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Cenepa" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cenepa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cenepa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cenep_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cenep" src="auto">NNMS2-----A----</AM>
-<AM lemma="cenepa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cenepa_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-069-p2s1Bw16">
 <src.rf>manual</src.rf>

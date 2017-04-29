@@ -2860,19 +2860,7 @@
 <LM>w#w-ln94202-83-p9s1Bw17</LM>
 </w.rf>
 <form>superdemokratických</form>
-<tag>
-<AM lemma="superdemokratický" src="orig">AAIP6----1A----</AM>
-<AM lemma="superdemokratický" src="auto">AAFP2----1A----</AM>
-<AM lemma="superdemokratický" src="auto">AAFP6----1A----</AM>
-<AM lemma="superdemokratický" src="auto">AAIP2----1A----</AM>
-<AM lemma="superdemokratický" src="auto" recommended="1">AAIP6----1A----</AM>
-<AM lemma="superdemokratický" src="auto">AAMP2----1A----</AM>
-<AM lemma="superdemokratický" src="auto">AAMP6----1A----</AM>
-<AM lemma="superdemokratický" src="auto">AANP2----1A----</AM>
-<AM lemma="superdemokratický" src="auto">AANP6----1A----</AM>
-<AM lemma="superdemokratický_^(*2t)" src="auto">AAFP2----1A----</AM>
-<AM lemma="superdemokratický_^(*2t)" src="auto">AAIP2----1A----</AM>
-</tag>
+<tag lemma="superdemokratický" src="orig" selected="1">AAIP6----1A----</tag>
 </m>
 <m id="m-ln94202-83-p9s1Bw18">
 <src.rf>manual</src.rf>

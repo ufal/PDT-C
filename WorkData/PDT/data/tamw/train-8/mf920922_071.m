@@ -53,17 +53,7 @@
 <LM>w#w-mf920922-071-p1s1w5</LM>
 </w.rf>
 <form>SCOUT</form>
-<tag>
-<AM lemma="scout_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="SCOUT_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SCOUT-1_:B_;K_^(České_vysoké_učení_technické)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SCOUT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SCOUT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Scout_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Scout" src="auto">Vf--------A----</AM>
-<AM lemma="Scout_:T" src="auto">Vf--------A----</AM>
-<AM lemma="scout" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="scout_,t" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-071-p1s1w6">
 <src.rf>manual</src.rf>
@@ -372,18 +362,7 @@
 <LM>w#w-mf920922-071-p2s2w5</LM>
 </w.rf>
 <form>Chein</form>
-<tag>
-<AM lemma="Chein_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chein_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chein" src="auto">NNIS4-----A----</AM>
-<AM lemma="Chein" src="auto">NNIS1-----A----</AM>
-<AM lemma="SF-2`Fein-1_;K_,t_^(Sinn_Chein)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Chein_;S_;K" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chein_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Chein_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chein_,t_^(řec._reagovat)" src="auto">Vf--------A----</AM>
-<AM lemma="chein" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chein_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-071-p2s2w6">
 <src.rf>manual</src.rf>
@@ -973,12 +952,7 @@
 <LM>w#w-mf920922-071-p2s3w25</LM>
 </w.rf>
 <form>scout</form>
-<tag>
-<AM lemma="scout_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="scout_:W" src="auto">Vf--------A----</AM>
-<AM lemma="scout" src="auto">Vf--------A----</AM>
-<AM lemma="scout_:T" src="auto" recommended="1">Vf--------A----</AM>
-</tag>
+<tag lemma="scout_,t" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-071-p2s3w26">
 <src.rf>manual</src.rf>
@@ -1394,12 +1368,7 @@
 <LM>w#w-mf920922-071-p2s7w10</LM>
 </w.rf>
 <form>scout</form>
-<tag>
-<AM lemma="scout_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="scout_:W" src="auto">Vf--------A----</AM>
-<AM lemma="scout" src="auto">Vf--------A----</AM>
-<AM lemma="scout_:T" src="auto" recommended="1">Vf--------A----</AM>
-</tag>
+<tag lemma="scout_,t" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-071-p2s7w11">
 <src.rf>manual</src.rf>

@@ -400,20 +400,7 @@
 <LM>w#w-ln94209-5-p3s1w17</LM>
 </w.rf>
 <form>EMARKO</form>
-<tag>
-<AM lemma="EMARKO_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Emarco_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Emarka" src="auto">NNFS5-----A----</AM>
-<AM lemma="Emarko" src="auto">NNNS1-----A----</AM>
-<AM lemma="Emarko-1" src="auto">NNNS1-----A----</AM>
-<AM lemma="Emarko-1" src="auto">NNNS4-----A----</AM>
-<AM lemma="Emarko_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Emarko_;Y_,h" src="auto">NNMS1-----A----</AM>
-<AM lemma="Emarko_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="PKO-3_:B_;K_^(EMARKO_Košice)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="emarka" src="auto">NNFS5-----A----</AM>
-<AM lemma="emarko" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="EMARKO_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94209-5-p3s1w18">
 <src.rf>manual</src.rf>

@@ -91,18 +91,7 @@
 <LM>w#w-ln94211-28-p1s1Aw10</LM>
 </w.rf>
 <form>Slovakia</form>
-<tag>
-<AM lemma="Slovakia_;G_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Slovakia_;G_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Slovakyo_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Slovakia_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Slovakia_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Slovakia_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Slovakia_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Slovakia_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Slovakia_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="slovakia" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Slovakia_;G_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94211-28-p1s1B">

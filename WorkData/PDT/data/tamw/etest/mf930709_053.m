@@ -151,18 +151,7 @@
 <LM>w#w-mf930709-053-p2s1Bw12</LM>
 </w.rf>
 <form>Kristyna</form>
-<tag>
-<AM lemma="Kristyna_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Kristyna_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kristyne_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kristyne_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kristyn" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kristyn" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kristyna_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Kristyna" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kristyn_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="kristyna" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kristyna_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-053-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -243,18 +232,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Noriyuki</form>
-<tag>
-<AM lemma="Noriyuki_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Noriyuki_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Noriyuki-3_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Noriyuki-2_;R_^(vozidlo)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Noriyuký_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Noriyuki_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Noriyuki_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Noriyuki_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Noriyuki_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="noriyuki" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Noriyuki_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-053-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -262,18 +240,7 @@
 <LM>w#w-mf930709-053-p2s1Bw25</LM>
 </w.rf>
 <form>Sawa</form>
-<tag>
-<AM lemma="Sawa_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Saw_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Saw_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Saw_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sawa_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sawa_;K_;R" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sawa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Saw_;K" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sawa_^(prohlášení_islámských_duchovních)" src="auto">NNFS1-----A----</AM>
-<AM lemma="sawa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sawa_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-053-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -305,18 +272,7 @@
 <LM>w#w-mf930709-053-p2s1Bw29</LM>
 </w.rf>
 <form>Vielhaberová</form>
-<tag>
-<AM lemma="Vielhaberová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Vielhaberová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Vielhaberový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Vielhaberový" src="auto">AANP1----1A----</AM>
-<AM lemma="Vielhaberový" src="auto">AANP4----1A----</AM>
-<AM lemma="Vielhaberová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vielhaberová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vielhaberový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Vielhaberový" src="auto">AAFS5----1A----</AM>
-<AM lemma="vielhaberová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vielhaberová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-053-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -340,18 +296,7 @@
 <LM>w#w-mf930709-053-p2s1Bw32</LM>
 </w.rf>
 <form>Ekaterini</form>
-<tag>
-<AM lemma="Ekaterini_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Ekaterini_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ekaterini_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Ekaterin" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Ekaterin" src="auto">NNMP1-----A----</AM>
-<AM lemma="Ekaterini_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ekaterini_;K_^(nakladatelství)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Ekaterini_,h_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ekaterini-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ekaterini" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ekaterini_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-053-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -359,17 +304,7 @@
 <LM>w#w-mf930709-053-p2s1Bw33</LM>
 </w.rf>
 <form>Antonakaki</form>
-<tag>
-<AM lemma="Antonakaki_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Antonakaki_;K" src="auto">NNNSX-----A----</AM>
-<AM lemma="Antonakaki_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Antonakaki_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Antonakaký_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Antonakaki_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Antonakaki_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Antonakaki_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="antonakaki" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Antonakaki_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-053-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -661,18 +596,7 @@
 <LM>w#w-mf930709-053-p2s5w10</LM>
 </w.rf>
 <form>Meziéres</form>
-<tag>
-<AM lemma="Meziéres_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Meziéres" src="auto">NNIS4-----A----</AM>
-<AM lemma="Meziéres_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Meziéres" src="auto">NNIS1-----A----</AM>
-<AM lemma="Meziére_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="affaires_:B_,t_^(v_chargé_d'Meziéres)" src="auto">NNNPX-----A----</AM>
-<AM lemma="Aires_;G_^(Buenos_Meziéres)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Meziére_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Meziére_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="meziéres" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Meziéres_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930709-053-p2s5w11">
 <src.rf>manual</src.rf>
@@ -1220,18 +1144,7 @@
 <LM>w#w-mf930709-053-p2s8w17</LM>
 </w.rf>
 <form>Meziéres</form>
-<tag>
-<AM lemma="Meziéres_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Meziéres" src="auto">NNIS4-----A----</AM>
-<AM lemma="Meziéres_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Meziéres" src="auto">NNIS1-----A----</AM>
-<AM lemma="Meziére_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="affaires_:B_,t_^(v_chargé_d'Meziéres)" src="auto">NNNPX-----A----</AM>
-<AM lemma="Aires_;G_^(Buenos_Meziéres)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Meziére_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Meziére_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="meziéres" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Meziéres_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930709-053-p2s8w18">
 <src.rf>manual</src.rf>
@@ -2609,17 +2522,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>marionnette</form>
-<tag>
-<AM lemma="marionnette_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="marionnette_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="marionnette_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="marionnette_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tutte_,t_^(jen_Cosi_fan_marionnette,_it.)" src="auto">PLFP1----------</AM>
-<AM lemma="marionnette_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="marionnette_;m" src="auto">NNXXX-----A----</AM>
-<AM lemma="marionnette_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="marionnette_;R_,t" src="auto">NNFXX-----A----</AM>
-</tag>
+<tag lemma="marionnette_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930709-053-p2s16w11">
 <src.rf>manual</src.rf>
@@ -2643,18 +2546,7 @@
 <LM>w#w-mf930709-053-p2s16w13</LM>
 </w.rf>
 <form>Meziéres</form>
-<tag>
-<AM lemma="Meziéres_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Meziéres" src="auto">NNIS4-----A----</AM>
-<AM lemma="Meziéres_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Meziéres" src="auto">NNIS1-----A----</AM>
-<AM lemma="Meziére_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="affaires_:B_,t_^(v_chargé_d'Meziéres)" src="auto">NNNPX-----A----</AM>
-<AM lemma="Aires_;G_^(Buenos_Meziéres)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Meziére_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Meziére_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="meziéres" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Meziéres_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930709-053-p2s16w14">
 <src.rf>manual</src.rf>

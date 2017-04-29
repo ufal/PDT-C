@@ -318,18 +318,7 @@
 <LM>w#w-ln94202-35-p2s2w9</LM>
 </w.rf>
 <form>Naturvita</form>
-<tag>
-<AM lemma="Naturvita_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Naturvita" src="auto">NNFS1-----A----</AM>
-<AM lemma="Naturvít" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="Naturvita_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Naturvita_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Naturvita" src="auto">NNMS1-----A----</AM>
-<AM lemma="Naturvito_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Naturvita_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Naturvita-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="naturvita" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Naturvita_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-35-p2s2w10">
 <src.rf>manual</src.rf>

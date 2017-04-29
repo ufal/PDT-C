@@ -577,17 +577,7 @@
 <LM>w#w-ln95048-092-p2s3w10</LM>
 </w.rf>
 <form>Reggianiho</form>
-<tag>
-<AM lemma="Reggiani_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Reggiani_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Reggiani_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Reggiani_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Reggiani_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Reggiani_;m" src="auto">NNMS2-----A----</AM>
-<AM lemma="Reggiani_;S_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Reggiani-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="reggianiho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Reggiani_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-092-p2s3w11">
 <src.rf>manual</src.rf>
@@ -961,17 +951,7 @@
 <LM>w#w-ln95048-092-p2s4w23</LM>
 </w.rf>
 <form>Bayelovi</form>
-<tag>
-<AM lemma="Bayel_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Bayel_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Bayel" src="auto">NNMS3-----A----</AM>
-<AM lemma="Bayel_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Bayela_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Bayel_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Bayel" src="auto">NNMS6-----A----</AM>
-<AM lemma="Bayelův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="bayelovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bayel_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95048-092-p2s4w24">
 <src.rf>manual</src.rf>

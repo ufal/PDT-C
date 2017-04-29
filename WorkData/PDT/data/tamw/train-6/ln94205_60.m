@@ -119,16 +119,7 @@
 <LM>w#w-ln94205-60-p2s1Bw3</LM>
 </w.rf>
 <form>škr</form>
-<tag>
-<AM lemma="škr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="škr-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="škr" src="auto">NNIS1-----A----</AM>
-<AM lemma="škr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="škr" src="auto">NNIS4-----A----</AM>
-<AM lemma="škrajina_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="škr" src="auto">NNMS1-----A----</AM>
-<AM lemma="škr_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="škr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-60-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -306,22 +297,7 @@
 <LM>w#w-ln94205-60-p2s1Cw20</LM>
 </w.rf>
 <form>HSMS</form>
-<tag>
-<AM lemma="HSMS_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HSMS_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="MS-8_:B_;K_;c_,t_^(Microsoft,_např._HSMS-DOS)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HSms_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="HSMS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HSMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HSMS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HSMS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Hsms_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hss" src="auto">PZZS7----------</AM>
-<AM lemma="Hsm_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Hsm_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Hsm_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="hsms" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="HSMS_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94205-60-p2s1Cw21">
 <src.rf>manual</src.rf>
@@ -645,22 +621,7 @@
 <LM>w#w-ln94205-60-p2s3w7</LM>
 </w.rf>
 <form>HSMS</form>
-<tag>
-<AM lemma="HSMS_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HSMS_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="MS-8_:B_;K_;c_,t_^(Microsoft,_např._HSMS-DOS)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HSms_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="HSMS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HSMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HSMS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HSMS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Hsms_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hss" src="auto">PZZS7----------</AM>
-<AM lemma="Hsm_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Hsm_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Hsm_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="hsms" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="HSMS_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94205-60-p2s3w8">
 <src.rf>manual</src.rf>
@@ -820,22 +781,7 @@
 <LM>w#w-ln94205-60-p2s3w27</LM>
 </w.rf>
 <form>HSMS</form>
-<tag>
-<AM lemma="HSMS_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HSMS_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="MS-8_:B_;K_;c_,t_^(Microsoft,_např._HSMS-DOS)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HSms_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="HSMS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HSMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HSMS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HSMS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Hsms_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hss" src="auto">PZZS7----------</AM>
-<AM lemma="Hsm_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Hsm_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Hsm_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="hsms" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="HSMS_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94205-60-p2s3w28">
 <src.rf>manual</src.rf>

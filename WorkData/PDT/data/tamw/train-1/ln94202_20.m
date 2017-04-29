@@ -5504,16 +5504,7 @@
 <LM>w#w-ln94202-20-p9s4w2</LM>
 </w.rf>
 <form>pb</form>
-<tag>
-<AM lemma="pb-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="pb_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="pb-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="pb" src="auto">NNNXX-----A---8</AM>
-<AM lemma="pb" src="auto">NNIS1-----A----</AM>
-<AM lemma="pb" src="auto">NNIS4-----A----</AM>
-<AM lemma="pba" src="auto">NNFP2-----A----</AM>
-<AM lemma="pb_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="pb-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-20-p9s4w3">
 <src.rf>manual</src.rf>

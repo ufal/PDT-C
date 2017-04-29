@@ -915,16 +915,7 @@
 <LM>w#w-cmpr9413-030-p6s1w18</LM>
 </w.rf>
 <form>Pogress</form>
-<tag>
-<AM lemma="Pogress_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Pogress_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pogress_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pogress_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Pogress_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Pogress_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ness_;G_^(jezero_Loch_Pogress)" src="auto">NNNXX-----A----</AM>
-<AM lemma="pogress" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pogress_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-030-p6s1w19">
 <src.rf>manual</src.rf>

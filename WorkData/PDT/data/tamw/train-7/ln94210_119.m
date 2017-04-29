@@ -749,18 +749,7 @@
 <LM>w#w-ln94210-119-p3s1w23</LM>
 </w.rf>
 <form>Buttigieg</form>
-<tag>
-<AM lemma="Buttigieg_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Buttigieg_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Buttigieg_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Buttigiego" src="auto">NNNP2-----A----</AM>
-<AM lemma="Buttigiegický_:B" src="auto">AANS1----1A----</AM>
-<AM lemma="Buttigieg_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Buttigieg_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Buttigieg" src="auto">NNMS1-----A----</AM>
-<AM lemma="Buttigieg" src="auto">NNIS1-----A----</AM>
-<AM lemma="buttigieg" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Buttigieg_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-119-p3s1w24">
 <src.rf>manual</src.rf>
@@ -1462,18 +1451,7 @@
 <LM>w#w-ln94210-119-p3s8w4</LM>
 </w.rf>
 <form>Vella</form>
-<tag>
-<AM lemma="Vella_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vell_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vella_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Vella_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vell_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vella_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vell_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="della_;R_,t_^(it.,_ve_jménech,_př._Vella_Rebia)" src="auto">RR--X----------</AM>
-<AM lemma="Villa-3_;G_^(součást_gegraf._názvů_např._Vella_Adriana)" src="auto">NNFS1-----A----</AM>
-<AM lemma="vella" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vella_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-119-p3s8w5">
 <src.rf>manual</src.rf>
@@ -1505,16 +1483,7 @@
 <LM>w#w-ln94210-119-p3s8w8</LM>
 </w.rf>
 <form>Laverla</form>
-<tag>
-<AM lemma="Laverla_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Laverla_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Laverel_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Laverel_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Laverel" src="auto">NNMS2-----A----</AM>
-<AM lemma="Laverlo-1_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Laverl_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="laverla" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Laverla_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-119-p3s8w9">
 <src.rf>manual</src.rf>
@@ -2974,18 +2943,7 @@
 <LM>w#w-ln94210-119-p4s4w24</LM>
 </w.rf>
 <form>Cluet</form>
-<tag>
-<AM lemma="Cluet_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cluet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="duet_^(Clueto)" src="auto">NNIS4-----A----</AM>
-<AM lemma="duet_^(Clueto)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cluet_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Cluet" src="auto">Vf--------A----</AM>
-<AM lemma="Cluet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Cluet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Clueta" src="auto">NNFP2-----A----</AM>
-<AM lemma="cluet" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cluet_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-119-p4s4w25">
 <src.rf>manual</src.rf>
@@ -3417,18 +3375,7 @@
 <LM>w#w-ln94210-119-p4s8w13</LM>
 </w.rf>
 <form>Cluet</form>
-<tag>
-<AM lemma="Cluet_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cluet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="duet_^(Clueto)" src="auto">NNIS4-----A----</AM>
-<AM lemma="duet_^(Clueto)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cluet_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Cluet" src="auto">Vf--------A----</AM>
-<AM lemma="Cluet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Cluet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Clueta" src="auto">NNFP2-----A----</AM>
-<AM lemma="cluet" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cluet_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-119-p4s8w14">
 <src.rf>manual</src.rf>

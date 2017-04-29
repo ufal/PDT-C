@@ -348,17 +348,7 @@
 <LM>w#w-ln94203-109-p3s1w5</LM>
 </w.rf>
 <form>Steffensemse</form>
-<tag>
-<AM lemma="Steffensemse_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Steffensems_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Steffensems_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Steffensems-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Steffensems" src="auto">NNIS6-----A----</AM>
-<AM lemma="Steffensemse_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Steffensemse" src="auto">NNFS2-----A----</AM>
-<AM lemma="Steffensems_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="steffensemse" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Steffensemse_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-109-p3s1w6">
 <src.rf>manual</src.rf>
@@ -446,26 +436,7 @@
 <LM>w#w-ln94203-109-p3s1w16</LM>
 </w.rf>
 <form>AVP</form>
-<tag>
-<AM lemma="AVP_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AVP_:B_;K_;p_,t_^(Rakouská_lidová_strana)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="AVP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AVP-2_:B_^(státní_vyrovnávací_příspěvek)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AVP-1_:B_^(viceprezident)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="AVP-1_:B_^(tabulka_válečných_počtů)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AVP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AVP_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Avp" src="auto">NNIS1-----A----</AM>
-<AM lemma="Avp" src="auto">NNIS4-----A----</AM>
-<AM lemma="Avp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Avp-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Avp" src="auto">NNMS1-----A----</AM>
-<AM lemma="Avp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Avp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Avpa" src="auto">NNFP2-----A----</AM>
-<AM lemma="avp" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="AVP_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94203-109-p3s1w17">
 <src.rf>manual</src.rf>
@@ -539,18 +510,7 @@
 <LM>w#w-ln94203-109-p3s2w8</LM>
 </w.rf>
 <form>Loiola</form>
-<tag>
-<AM lemma="Loiola_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Loiola_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Loiol_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Loiola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Loiola" src="auto">Db-------------</AM>
-<AM lemma="Loiola_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Loiolo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Loiol_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Loiol-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="loiola" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Loiola_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-109-p3s2w9">
 <src.rf>manual</src.rf>

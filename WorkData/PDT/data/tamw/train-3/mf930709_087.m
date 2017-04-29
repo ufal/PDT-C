@@ -1336,17 +1336,7 @@
 <LM>w#w-mf930709-087-p2s11w16</LM>
 </w.rf>
 <form>Prüher</form>
-<tag>
-<AM lemma="Prüher_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Prüher_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Prühra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Prüher_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Prüher_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prühry_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Prühry_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Prüher_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="prüher" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Prüher_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-087-p2s11w17">
 <src.rf>manual</src.rf>
@@ -1396,17 +1386,7 @@
 <LM>w#w-mf930709-087-p2s12w1</LM>
 </w.rf>
 <form>Prüher</form>
-<tag>
-<AM lemma="Prüher_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Prüher_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Prühra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Prüher_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Prüher_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prühry_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Prühry_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Prüher_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="prüher" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Prüher_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-087-p2s12w2">
 <src.rf>manual</src.rf>

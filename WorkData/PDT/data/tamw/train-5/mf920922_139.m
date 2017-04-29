@@ -377,18 +377,7 @@
 <LM>w#w-mf920922-139-p3s2w16</LM>
 </w.rf>
 <form>Rüütelem</form>
-<tag>
-<AM lemma="Rüütel_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Rüütel" src="auto">NNIS7-----A----</AM>
-<AM lemma="Rüütel" src="auto">NNMS7-----A----</AM>
-<AM lemma="Rüütel_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Rüütelo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Rüütel_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Rüütel_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Rüüteel" src="auto">NNIS7-----A----</AM>
-<AM lemma="Rüütel_;K" src="auto">NNIS7-----A----</AM>
-<AM lemma="rüütelem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rüütel_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-139-p3s2w17">
 <src.rf>manual</src.rf>

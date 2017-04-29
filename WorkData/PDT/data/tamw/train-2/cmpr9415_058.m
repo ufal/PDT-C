@@ -61,18 +61,7 @@
 <LM>w#w-cmpr9415-058-p3s1w1</LM>
 </w.rf>
 <form>Vars</form>
-<tag>
-<AM lemma="Vars_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Vars_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Var_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Var_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Var_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Vars_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vars_:B_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Vars_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Vars-2_;R_^(planeta;;kosmická_sonda)" src="auto">NNIS4-----A----</AM>
-<AM lemma="vars" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vars_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p3s1w2">
 <src.rf>manual</src.rf>
@@ -218,18 +207,7 @@
 <LM>w#w-cmpr9415-058-p4s1w10</LM>
 </w.rf>
 <form>Vars</form>
-<tag>
-<AM lemma="Vars_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Vars_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Var_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Var_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Var_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Vars_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vars_:B_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Vars_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Vars-2_;R_^(planeta;;kosmická_sonda)" src="auto">NNIS4-----A----</AM>
-<AM lemma="vars" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vars_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p4s1w11">
 <src.rf>manual</src.rf>
@@ -489,18 +467,7 @@
 <LM>w#w-cmpr9415-058-p4s3w9</LM>
 </w.rf>
 <form>Varsu</form>
-<tag>
-<AM lemma="Vars_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Vars" src="auto">NNIS2-----A----</AM>
-<AM lemma="Vars_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Vars_^(úpadek;;soutěž)" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Vars_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
-<AM lemma="Vars_;K" src="auto">NNIS6-----A----</AM>
-<AM lemma="Vars" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Vars" src="auto">NNIS3-----A----</AM>
-<AM lemma="Varsu" src="auto">NNXXX-----A----</AM>
-<AM lemma="varsu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vars_;K" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1252,18 +1219,7 @@
 <LM>w#w-cmpr9415-058-p10s1w1</LM>
 </w.rf>
 <form>Vars</form>
-<tag>
-<AM lemma="Vars_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Vars_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Var_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Var_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Var_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Vars_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vars_:B_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Vars_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Vars-2_;R_^(planeta;;kosmická_sonda)" src="auto">NNIS4-----A----</AM>
-<AM lemma="vars" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vars_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p10s1w2">
 <src.rf>manual</src.rf>
@@ -1933,17 +1889,7 @@
 <LM>w#w-cmpr9415-058-p11s3w1</LM>
 </w.rf>
 <form>Varsumat</form>
-<tag>
-<AM lemma="Varsumat_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Varsumat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Varsuma" src="auto">NNNP2-----A----</AM>
-<AM lemma="Varsumat" src="auto">NNIS1-----A----</AM>
-<AM lemma="Varsumat_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Varsumat" src="auto">Vf--------A----</AM>
-<AM lemma="Varsumat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Varsumat" src="auto">NNIS4-----A----</AM>
-<AM lemma="varsumat" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Varsumat_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p11s3w2">
 <src.rf>manual</src.rf>
@@ -2023,17 +1969,7 @@
 <LM>w#w-cmpr9415-058-p11s3w11</LM>
 </w.rf>
 <form>Vesumat</form>
-<tag>
-<AM lemma="Vesumat_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Vesumat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Vesuma" src="auto">NNNP2-----A----</AM>
-<AM lemma="Vesumat" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vesumat_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Vesumat" src="auto">Vf--------A----</AM>
-<AM lemma="Vesumat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Vesumat" src="auto">NNIS4-----A----</AM>
-<AM lemma="vesumat" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vesumat_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p11s3w12">
 <src.rf>manual</src.rf>
@@ -2107,18 +2043,7 @@
 <LM>w#w-cmpr9415-058-p11s4w1</LM>
 </w.rf>
 <form>Musicvars</form>
-<tag>
-<AM lemma="Musicvars_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Musicvars_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Musicvar_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Musicvar_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Musicvar_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Musicvars_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Musicvars_:B_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Musicvars_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Musicvars-2_;R_^(planeta;;kosmická_sonda)" src="auto">NNIS4-----A----</AM>
-<AM lemma="musicvars" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Musicvars_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p11s4w2">
 <src.rf>manual</src.rf>
@@ -2330,18 +2255,7 @@
 <LM>w#w-cmpr9415-058-p12s1w1</LM>
 </w.rf>
 <form>Varset</form>
-<tag>
-<AM lemma="Varset_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Varset_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Varset_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Varset" src="auto">Vf--------A----</AM>
-<AM lemma="Varsto-2`100" src="auto">NNNP2-----A----</AM>
-<AM lemma="Varsto-1`100" src="auto">ClXP3---------1</AM>
-<AM lemma="Varsetkoruna" src="auto">NNFP4-----A----</AM>
-<AM lemma="Varseta_^(měna_španělská,_portugalská_atd.)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Varset`10" src="auto">Cn-S4----------</AM>
-<AM lemma="varset" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Varset_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p12s1w2">
 <src.rf>manual</src.rf>
@@ -2519,18 +2433,7 @@
 <LM>w#w-cmpr9415-058-p12s2w1</LM>
 </w.rf>
 <form>Energovars</form>
-<tag>
-<AM lemma="Energovars_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Energovars_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Energovar_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Energovar_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Energovar_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Energovars_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Energovars_:B_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Energovars_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Energovars-2_;R_^(planeta;;kosmická_sonda)" src="auto">NNIS4-----A----</AM>
-<AM lemma="energovars" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Energovars_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p12s2w2">
 <src.rf>manual</src.rf>
@@ -2726,18 +2629,7 @@
 <LM>w#w-cmpr9415-058-p12s4w1</LM>
 </w.rf>
 <form>Ekovars</form>
-<tag>
-<AM lemma="Ekovars_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Ekovars_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Ekovar_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Ekovar_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Ekovar_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Ekovars_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ekovars_:B_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Ekovars_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Ekovars-2_;R_^(planeta;;kosmická_sonda)" src="auto">NNIS4-----A----</AM>
-<AM lemma="ekovars" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ekovars_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p12s4w2">
 <src.rf>manual</src.rf>
@@ -2811,18 +2703,7 @@
 <LM>w#w-cmpr9415-058-p12s5w2</LM>
 </w.rf>
 <form>Vars</form>
-<tag>
-<AM lemma="Vars_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Vars_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Var_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Var_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Var_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Vars_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vars_:B_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Vars_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Vars-2_;R_^(planeta;;kosmická_sonda)" src="auto">NNIS4-----A----</AM>
-<AM lemma="vars" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vars_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p12s5w3">
 <src.rf>manual</src.rf>
@@ -3324,18 +3205,7 @@
 <LM>w#w-cmpr9415-058-p13s2w11</LM>
 </w.rf>
 <form>Vars</form>
-<tag>
-<AM lemma="Vars_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Vars_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Var_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Var_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Var_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Vars_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vars_:B_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Vars_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Vars-2_;R_^(planeta;;kosmická_sonda)" src="auto">NNIS4-----A----</AM>
-<AM lemma="vars" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vars_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p13s2w12">
 <src.rf>manual</src.rf>
@@ -3757,18 +3627,7 @@
 <LM>w#w-cmpr9415-058-p14s1w4</LM>
 </w.rf>
 <form>Proxis</form>
-<tag>
-<AM lemma="Proxis_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Proxis_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Proxis_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Proxis_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Proxis_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Proxis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Proxis" src="auto">NNIS1-----A----</AM>
-<AM lemma="Proxis" src="auto">NNIS4-----A----</AM>
-<AM lemma="Proxis_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="proxis" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Proxis_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-058-p15s1">
@@ -3786,18 +3645,7 @@
 <LM>w#w-cmpr9415-058-p15s1w2</LM>
 </w.rf>
 <form>Varsu</form>
-<tag>
-<AM lemma="Vars_;K" src="orig">NNIS6-----A----</AM>
-<AM lemma="Vars" src="auto">NNIS2-----A----</AM>
-<AM lemma="Vars_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Vars_^(úpadek;;soutěž)" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Vars_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
-<AM lemma="Vars_;K" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Vars" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Vars" src="auto">NNIS3-----A----</AM>
-<AM lemma="Varsu" src="auto">NNXXX-----A----</AM>
-<AM lemma="varsu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vars_;K" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p15s1w3">
 <src.rf>manual</src.rf>
@@ -4277,18 +4125,7 @@
 <LM>w#w-cmpr9415-058-p16s1w4</LM>
 </w.rf>
 <form>Proxis</form>
-<tag>
-<AM lemma="Proxis_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Proxis_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Proxis_;K" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Proxis_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Proxis_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Proxis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Proxis" src="auto">NNIS1-----A----</AM>
-<AM lemma="Proxis" src="auto">NNIS4-----A----</AM>
-<AM lemma="Proxis_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="proxis" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Proxis_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p16s1w5">
 <src.rf>manual</src.rf>
@@ -4773,18 +4610,7 @@
 <LM>w#w-cmpr9415-058-p16s6w9</LM>
 </w.rf>
 <form>Varset</form>
-<tag>
-<AM lemma="Varset_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Varset_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Varset_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Varset" src="auto">Vf--------A----</AM>
-<AM lemma="Varsto-2`100" src="auto">NNNP2-----A----</AM>
-<AM lemma="Varsto-1`100" src="auto">ClXP3---------1</AM>
-<AM lemma="Varsetkoruna" src="auto">NNFP4-----A----</AM>
-<AM lemma="Varseta_^(měna_španělská,_portugalská_atd.)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Varset`10" src="auto">Cn-S4----------</AM>
-<AM lemma="varset" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Varset_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p16s6w10">
 <src.rf>manual</src.rf>
@@ -5344,18 +5170,7 @@
 <LM>w#w-cmpr9415-058-p17s3w18</LM>
 </w.rf>
 <form>Varsem</form>
-<tag>
-<AM lemma="Vars_;K" src="orig">NNIS7-----A----</AM>
-<AM lemma="Vars" src="auto">NNIS7-----A----</AM>
-<AM lemma="Vars_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Vars_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Varso" src="auto">NNNS7-----A----</AM>
-<AM lemma="Vars_;S_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Vars_;K" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="Vars_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Vars" src="auto">NNMS7-----A----</AM>
-<AM lemma="varsem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vars_;K" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p17s3w19">
 <src.rf>manual</src.rf>
@@ -5389,18 +5204,7 @@
 <LM>w#w-cmpr9415-058-p18s1w3</LM>
 </w.rf>
 <form>Vars</form>
-<tag>
-<AM lemma="Vars_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Vars_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Var_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Var_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Var_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Vars_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vars_:B_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Vars_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Vars-2_;R_^(planeta;;kosmická_sonda)" src="auto">NNIS4-----A----</AM>
-<AM lemma="vars" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vars_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p18s1w4">
 <src.rf>manual</src.rf>

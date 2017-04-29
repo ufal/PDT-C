@@ -322,18 +322,7 @@
 <LM>w#w-ln94208-90-p2s1Bw29</LM>
 </w.rf>
 <form>Knokke</form>
-<tag>
-<AM lemma="Knokke_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Knokke_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Knokke_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Knokke_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Knokke_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Knokke_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Knokka_,t" src="auto">NNFS6-----A----</AM>
-<AM lemma="Knokk-1" src="auto">RV--3----------</AM>
-<AM lemma="Knokke_;Y_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="knokke" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Knokke_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94208-90-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -649,17 +638,7 @@
 <LM>w#w-ln94208-90-p3s1w25</LM>
 </w.rf>
 <form>Haulota</form>
-<tag>
-<AM lemma="Haulot_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Haulota" src="auto">NNFS1-----A----</AM>
-<AM lemma="Haulota_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Haulot_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Haulota_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Haulot" src="auto">NNMS2-----A----</AM>
-<AM lemma="Haulonta_;L_,x_^(druh_organizmů)" src="auto">NNNP1-----A----</AM>
-<AM lemma="Hauloty_^(pomn.)" src="auto">NNFS1-----A----</AM>
-<AM lemma="haulota" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Haulot_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-90-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1107,18 +1086,7 @@
 <LM>w#w-ln94208-90-p5s1w8</LM>
 </w.rf>
 <form>Abdelazise</form>
-<tag>
-<AM lemma="Abdelazis_;Y" src="orig">NNMS4-----A----</AM>
-<AM lemma="Abdelazis_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Abdelazis" src="auto">NNIS6-----A----</AM>
-<AM lemma="Abdelazis_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Abdelazise" src="auto">NNFS2-----A----</AM>
-<AM lemma="Abdelazis_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Abdelazise" src="auto">NNFS1-----A----</AM>
-<AM lemma="Abdelazise" src="auto">NNFP4-----A----</AM>
-<AM lemma="Abdelazise" src="auto">NNFP1-----A----</AM>
-<AM lemma="abdelazise" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Abdelazis_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94208-90-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1126,17 +1094,7 @@
 <LM>w#w-ln94208-90-p5s1w9</LM>
 </w.rf>
 <form>Kacema</form>
-<tag>
-<AM lemma="Kacem_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Kacem_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Kacemus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kacemi" src="auto">PLXP7---------6</AM>
-<AM lemma="Kacema_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kacema_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kacema_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Kacema" src="auto">NNNS4-----A----</AM>
-<AM lemma="kacema" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kacem_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94208-90-p5s1w10">
 <src.rf>manual</src.rf>

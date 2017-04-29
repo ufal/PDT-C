@@ -93,18 +93,7 @@
 <LM>w#w-lnd94103-095-p1s1w10</LM>
 </w.rf>
 <form>Standage</form>
-<tag>
-<AM lemma="Standage_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Standage_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Standag_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Standage_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Standage_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Standage_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Standage_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Standage_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Standage_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="standage" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Standage_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w11">
 <src.rf>manual</src.rf>
@@ -142,18 +131,7 @@
 <LM>w#w-lnd94103-095-p1s1w14</LM>
 </w.rf>
 <form>Musicum</form>
-<tag>
-<AM lemma="Musicum_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Musicum" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Musicum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Musicum" src="auto">NNIS4-----A----</AM>
-<AM lemma="Musicum" src="auto">NNIS1-----A----</AM>
-<AM lemma="Musicum_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Musicum_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Musicum_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Musicum_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="musicum" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Musicum_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w15">
 <src.rf>manual</src.rf>
@@ -431,18 +409,7 @@
 <LM>w#w-lnd94103-095-p1s1w48</LM>
 </w.rf>
 <form>Classics</form>
-<tag>
-<AM lemma="Classics_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Classics_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Classic_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Classic_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Classics_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Classics_;m" src="auto">NNXXX-----A----</AM>
-<AM lemma="Classics_;R" src="auto">NNFXX-----A----</AM>
-<AM lemma="Classics_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Classics_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="classics" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Classics_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w49">
 <src.rf>manual</src.rf>
@@ -828,18 +795,7 @@
 <LM>w#w-lnd94103-095-p1s1w95</LM>
 </w.rf>
 <form>Lile</form>
-<tag>
-<AM lemma="Lile_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lile_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Lila" src="auto">NNFS6-----A----</AM>
-<AM lemma="Lile" src="auto">NNFP4-----A----</AM>
-<AM lemma="Lil" src="auto">NNMS5-----A----</AM>
-<AM lemma="Lile_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Lile" src="auto">NNFS2-----A----</AM>
-<AM lemma="Lile" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lile" src="auto">NNFP1-----A----</AM>
-<AM lemma="lile" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lile_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w96">
 <src.rf>manual</src.rf>
@@ -847,18 +803,7 @@
 <LM>w#w-lnd94103-095-p1s1w96</LM>
 </w.rf>
 <form>Mays</form>
-<tag>
-<AM lemma="Mays_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="May_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="May_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Mays_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Mays-1_;K_,t_^(souč._názvů,_např._British_A.)" src="auto">NNFPX-----A----</AM>
-<AM lemma="Mays_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mays" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mays" src="auto">NNIS4-----A----</AM>
-<AM lemma="May_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="mays" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mays_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w97">
 <src.rf>manual</src.rf>
@@ -890,18 +835,7 @@
 <LM>w#w-lnd94103-095-p1s1w100</LM>
 </w.rf>
 <form>Johnett</form>
-<tag>
-<AM lemma="Johnett_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Johnett_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Johnett_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Johnett_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Johnett-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Johnett_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Johnett_;R_^(časopis)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Johnett_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Johnett_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="johnett" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Johnett_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w101">
 <src.rf>manual</src.rf>
@@ -949,18 +883,7 @@
 <LM>w#w-lnd94103-095-p1s1w106</LM>
 </w.rf>
 <form>Fictionary</form>
-<tag>
-<AM lemma="Fictionary_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Fictionar" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="Fictionar" src="auto">NNIP4-----A----</AM>
-<AM lemma="Fictionar" src="auto">NNIP7-----A----</AM>
-<AM lemma="Fictionara_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Fictionara" src="auto">NNFS2-----A----</AM>
-<AM lemma="Fictionary_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fictionar_;E" src="auto">NNMP7-----A----</AM>
-<AM lemma="Fictionar_;E" src="auto">NNMP4-----A----</AM>
-<AM lemma="fictionary" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fictionary_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w107">
 <src.rf>manual</src.rf>
@@ -984,26 +907,7 @@
 <LM>w#w-lnd94103-095-p1s1w109</LM>
 </w.rf>
 <form>Rec</form>
-<tag>
-<AM lemma="Rec_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Rec" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rec" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rec" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rec_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rec_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rec_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rec_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Rec_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rec" src="auto">NNIS1-----A----</AM>
-<AM lemma="rec" src="auto">NNIS4-----A----</AM>
-<AM lemma="rec-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="rec_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="rec_;K_^(strana)" src="auto">NNIS1-----A----</AM>
-<AM lemma="rec_;K_^(strana)" src="auto">NNIXX-----A----</AM>
-<AM lemma="rec_;K_^(strana)" src="auto">NNXXX-----A----</AM>
-<AM lemma="rec_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="rec_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rec_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w110">
 <src.rf>manual</src.rf>
@@ -1039,18 +943,7 @@
 <LM>w#w-lnd94103-095-p1s1w113</LM>
 </w.rf>
 <form>Ariola</form>
-<tag>
-<AM lemma="Ariola_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Ariola_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ariol_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ariola" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Ariola" src="auto">Db-------------</AM>
-<AM lemma="Ariola_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ariolo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Ariol_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ariol-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ariola" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ariola_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w114">
 <src.rf>manual</src.rf>
@@ -1220,20 +1113,7 @@
 <LM>w#w-lnd94103-095-p1s1w134</LM>
 </w.rf>
 <form>Disc</form>
-<tag>
-<AM lemma="Disc_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Disc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Disc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Disc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Disc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Disc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Disc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Disce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Disce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="disc" src="auto">NNMS1-----A----</AM>
-<AM lemma="disc-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="discilicet_:B_,t_^(totiž,_to_je,_to_znamená)" src="auto">Db------------8</AM>
-</tag>
+<tag lemma="Disc_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w135">
 <src.rf>manual</src.rf>

@@ -3174,17 +3174,7 @@
 <LM>w#w-ln94210-91-p5s5w7</LM>
 </w.rf>
 <form>adhockratické</form>
-<tag>
-<AM lemma="adhockratický" src="orig">AANS1----1A----</AM>
-<AM lemma="adhockratický" src="auto">AAFS2----1A----</AM>
-<AM lemma="adhockratický" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="adhockratický" src="auto">AAFS6----1A----</AM>
-<AM lemma="adhockratický" src="auto">AAFP1----1A----</AM>
-<AM lemma="adhockratický" src="auto">AAIP1----1A----</AM>
-<AM lemma="adhockratický" src="auto">AAIP4----1A----</AM>
-<AM lemma="adhockratický" src="auto">AAFP4----1A----</AM>
-<AM lemma="adhockratický" src="auto">AANS4----1A----</AM>
-</tag>
+<tag lemma="adhockratický" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln94210-91-p5s5w8">
 <src.rf>manual</src.rf>
@@ -3208,15 +3198,7 @@
 <LM>w#w-ln94210-91-p5s5w10</LM>
 </w.rf>
 <form>hoc</form>
-<tag>
-<AM lemma="hoc_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="hoc_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="hoc_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="hoc_,t" src="auto">Db-------------</AM>
-<AM lemma="hoc" src="auto">NNFS4-----A----</AM>
-<AM lemma="hoc" src="auto">NNFS1-----A----</AM>
-<AM lemma="hoc_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="hoc_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94210-91-p5s5w11">
 <src.rf>manual</src.rf>
@@ -4213,17 +4195,7 @@
 <LM>w#w-ln94210-91-p6s2w37</LM>
 </w.rf>
 <form>adhockratické</form>
-<tag>
-<AM lemma="adhockratický" src="orig">AANS1----1A----</AM>
-<AM lemma="adhockratický" src="auto">AAFS2----1A----</AM>
-<AM lemma="adhockratický" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="adhockratický" src="auto">AAFS6----1A----</AM>
-<AM lemma="adhockratický" src="auto">AAFP1----1A----</AM>
-<AM lemma="adhockratický" src="auto">AAIP1----1A----</AM>
-<AM lemma="adhockratický" src="auto">AAIP4----1A----</AM>
-<AM lemma="adhockratický" src="auto">AAFP4----1A----</AM>
-<AM lemma="adhockratický" src="auto">AANS4----1A----</AM>
-</tag>
+<tag lemma="adhockratický" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln94210-91-p6s2w38">
 <src.rf>manual</src.rf>

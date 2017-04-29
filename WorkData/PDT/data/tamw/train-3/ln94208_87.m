@@ -1419,18 +1419,7 @@
 <LM>w#w-ln94208-87-p6s1w2</LM>
 </w.rf>
 <form>Ouborgovu</form>
-<tag>
-<AM lemma="Ouborgův_;S_^(*2)" src="orig">AUFS4M---------</AM>
-<AM lemma="Ouborgův_;S_^(*2)" src="auto" recommended="1">AUFS4M---------</AM>
-<AM lemma="Ouborgův_^(*2)" src="auto">AUFS4M---------</AM>
-<AM lemma="Ouborgův_;S_^(*2a)" src="auto">AUFS4M---------</AM>
-<AM lemma="Ouborgova" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ouborgův_;S_^(*2)" src="auto">AUIS3M---------</AM>
-<AM lemma="Ouborgov" src="auto">NNIS3-----A----</AM>
-<AM lemma="Ouborgovo_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Ouborgov_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="ouborgovu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ouborgův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln94208-87-p6s1w3">
 <src.rf>manual</src.rf>

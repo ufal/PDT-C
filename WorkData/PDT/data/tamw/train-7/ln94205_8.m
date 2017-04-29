@@ -2260,18 +2260,7 @@
 <LM>w#w-ln94205-8-p6s3w4</LM>
 </w.rf>
 <form>Components</form>
-<tag>
-<AM lemma="Component_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Component_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Component_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Component_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Component_;K_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Component_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Component_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Component_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Components_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="components" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Component_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94205-8-p6s3w5">
 <src.rf>manual</src.rf>

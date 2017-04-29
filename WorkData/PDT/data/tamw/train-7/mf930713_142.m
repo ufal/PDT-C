@@ -258,18 +258,7 @@
 <LM>w#w-mf930713-142-p2s2w4</LM>
 </w.rf>
 <form>Leaotová</form>
-<tag>
-<AM lemma="Leaotová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Leaotová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Leaotový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Leaotový" src="auto">AANP1----1A----</AM>
-<AM lemma="Leaotový" src="auto">AANP4----1A----</AM>
-<AM lemma="Leaotová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Leaotová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Leaotový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Leaotový" src="auto">AAFS5----1A----</AM>
-<AM lemma="leaotová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Leaotová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-142-p2s2w5">
 <src.rf>manual</src.rf>
@@ -1696,17 +1685,7 @@
 <LM>w#w-mf930713-142-p8s1w3</LM>
 </w.rf>
 <form>Evenimentul</form>
-<tag>
-<AM lemma="Evenimentul_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Evenimentul" src="auto">NNIS4-----A----</AM>
-<AM lemma="Evenimentula" src="auto">NNFP2-----A----</AM>
-<AM lemma="Evenimentul_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Evenimentul" src="auto">NNIS1-----A----</AM>
-<AM lemma="Evenimentout" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Evenimentout_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Evenimentul_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="evenimentul" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Evenimentul_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930713-142-p8s1w4">
 <src.rf>manual</src.rf>
@@ -1714,17 +1693,7 @@
 <LM>w#w-mf930713-142-p8s1w4</LM>
 </w.rf>
 <form>zilei</form>
-<tag>
-<AM lemma="zilei_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Dei_;S_^(zilei-Anang)" src="auto">A2--------A----</AM>
-<AM lemma="zilei_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="zilei_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="zilei_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="zilei_;K_,t" src="auto">RR--X----------</AM>
-<AM lemma="zilei_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="zilei_;b_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="zileum" src="auto">NNNP7-----A----</AM>
-</tag>
+<tag lemma="zilei_;K_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf930713-142-p8s1w5">
 <src.rf>manual</src.rf>
@@ -1780,18 +1749,7 @@
 <LM>w#w-mf930713-142-p8s1w11</LM>
 </w.rf>
 <form>Scarišoara</form>
-<tag>
-<AM lemma="Scarišoara_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Scarišoar_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Scarišoar_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Scarišoar_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Scarišoara_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Scarišoara_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Scarišoar_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Scarišoara_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Scarišoara" src="auto">NNFS1-----A----</AM>
-<AM lemma="scarišoara" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Scarišoara_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-142-p8s1w12">
 <src.rf>manual</src.rf>

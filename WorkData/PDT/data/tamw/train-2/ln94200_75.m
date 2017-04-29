@@ -719,18 +719,7 @@
 <LM>w#w-ln94200-75-p3s1w13</LM>
 </w.rf>
 <form>Wiesheua</form>
-<tag>
-<AM lemma="Wiesheu_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Wiesheu_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Wiesheu_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Wiesheuum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Wiesheuum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Wiesheuum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Wiesheue_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Wiesheua_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wiesheua_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="wiesheua" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Wiesheu_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-75-p3s1w14">
 <src.rf>manual</src.rf>

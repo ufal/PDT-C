@@ -85,18 +85,7 @@
 <LM>w#w-ln95049-122-p2s1Aw3</LM>
 </w.rf>
 <form>Mozdok</form>
-<tag>
-<AM lemma="Mozdok_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mozdokumentární_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Mozdokument_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Mozdok_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mozdok_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mozdok_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Mozdok" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mozdok" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mozdok_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mozdok" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mozdok_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-122-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -380,18 +369,7 @@
 <LM>w#w-ln95049-122-p2s2w11</LM>
 </w.rf>
 <form>Mozdoku</form>
-<tag>
-<AM lemma="Mozdok_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Mozdok" src="auto">NNIS6-----A----</AM>
-<AM lemma="Mozdok" src="auto">NNIS2-----A----</AM>
-<AM lemma="Mozdok" src="auto">NNIS3-----A----</AM>
-<AM lemma="Mozdok_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Mozdoko" src="auto">NNNS6-----A----</AM>
-<AM lemma="Mozdoko_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Mozdoko_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Mozdoko" src="auto">NNNS3-----A----</AM>
-<AM lemma="mozdoku" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mozdok_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95049-122-p2s2w12">
 <src.rf>manual</src.rf>

@@ -119,18 +119,7 @@
 <LM>w#w-ln94206-97-p2s1Bw9</LM>
 </w.rf>
 <form>Speed</form>
-<tag>
-<AM lemma="Speed_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Speed_;R_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Speed_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Speed_,t_^(angl._potřebovat)" src="auto">VB-S---1P-AA---</AM>
-<AM lemma="Speed_,t" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="Speed_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Speed" src="auto">NNIS4-----A----</AM>
-<AM lemma="Speed" src="auto">NNIS1-----A----</AM>
-<AM lemma="Speed_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="speed" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Speed_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94206-97-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -210,18 +199,7 @@
 <LM>w#w-ln94206-97-p2s1Bw19</LM>
 </w.rf>
 <form>Bonta</form>
-<tag>
-<AM lemma="Bont_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Bont" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bont" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bont_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Bonta" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bonto" src="auto">NNNS2-----A----</AM>
-<AM lemma="Bonta_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bonto" src="auto">NNNP1-----A----</AM>
-<AM lemma="Bonto_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="bonta" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bont_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-97-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -537,18 +515,7 @@
 <LM>w#w-ln94206-97-p3s1w2</LM>
 </w.rf>
 <form>Bontův</form>
-<tag>
-<AM lemma="Bontův_;S_^(*2)" src="orig">AUIS1M---------</AM>
-<AM lemma="Bontův_;S_^(*2)" src="auto" recommended="1">AUIS1M---------</AM>
-<AM lemma="Bontův_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="Bontův_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Bontův_;S_^(*2o)" src="auto">AUIS1M---------</AM>
-<AM lemma="Bontův_;S_^(*2a)" src="auto">AUIS4M---------</AM>
-<AM lemma="Bontův_^(*2a)" src="auto">AUIS4M---------</AM>
-<AM lemma="Bontův_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="Bontův_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="bontův" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bontův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94206-97-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1245,18 +1212,7 @@
 <LM>w#w-ln94206-97-p3s4w4</LM>
 </w.rf>
 <form>Bont</form>
-<tag>
-<AM lemma="Bont_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bont_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bonto" src="auto">NNNP2-----A----</AM>
-<AM lemma="Bont_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bont" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bont" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bonta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bont_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Bont_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="bont" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bont_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-97-p3s4w5">
 <src.rf>manual</src.rf>
@@ -2096,18 +2052,7 @@
 <LM>w#w-ln94206-97-p4s4w20</LM>
 </w.rf>
 <form>Paynea</form>
-<tag>
-<AM lemma="Payne_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Payne_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Paynea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Paynea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Paynea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paynea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Payne_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Payne-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Paynea_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="paynea" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Payne_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-97-p4s4w21">
 <src.rf>manual</src.rf>
@@ -2803,17 +2748,7 @@
 <LM>w#w-ln94206-97-p5s2w3</LM>
 </w.rf>
 <form>happy</form>
-<tag>
-<AM lemma="happy_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="happy_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="happy_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="happy" src="auto">AAXXX----1A----</AM>
-<AM lemma="happ" src="auto">NNIP4-----A----</AM>
-<AM lemma="happ" src="auto">NNIP1-----A----</AM>
-<AM lemma="happ" src="auto">NNIP7-----A----</AM>
-<AM lemma="happa" src="auto">NNFS2-----A----</AM>
-<AM lemma="happa" src="auto">NNFP1-----A----</AM>
-</tag>
+<tag lemma="happy_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94206-97-p5s2w4">
 <src.rf>manual</src.rf>
@@ -3132,18 +3067,7 @@
 <LM>w#w-ln94206-97-p5s5w5</LM>
 </w.rf>
 <form>Bont</form>
-<tag>
-<AM lemma="Bont_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bont_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bonto" src="auto">NNNP2-----A----</AM>
-<AM lemma="Bont_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bont" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bont" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bonta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bont_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Bont_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="bont" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bont_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-97-p5s5w6">
 <src.rf>manual</src.rf>

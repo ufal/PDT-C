@@ -622,12 +622,7 @@
 <LM>w#w-ln95049-077-p2s3w25</LM>
 </w.rf>
 <form>žu</form>
-<tag>
-<AM lemma="žu_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="zat" src="auto">VB-S---1P-AA---</AM>
-<AM lemma="ža_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="ža_;G" src="auto" recommended="1">NNFS4-----A----</AM>
-</tag>
+<tag lemma="žu_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-077-p2s3w26">
 <src.rf>manual</src.rf>
@@ -2873,17 +2868,7 @@
 <LM>w#w-ln95049-077-p5s1w171</LM>
 </w.rf>
 <form>ventures</form>
-<tag>
-<AM lemma="venture_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="ventures" src="auto">NNIS4-----A----</AM>
-<AM lemma="ventures_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ventures" src="auto">NNIS1-----A----</AM>
-<AM lemma="venture_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="affaires_:B_,t_^(v_chargé_d'ventures)" src="auto">NNNPX-----A----</AM>
-<AM lemma="Aires_;G_^(Buenos_ventures)" src="auto">NNNXX-----A----</AM>
-<AM lemma="venture_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="venture_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-</tag>
+<tag lemma="venture_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln95049-077-p5s1w172">
 <src.rf>manual</src.rf>

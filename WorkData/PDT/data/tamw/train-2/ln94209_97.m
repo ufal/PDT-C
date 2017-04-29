@@ -79,18 +79,7 @@
 <LM>w#w-ln94209-97-p2s1Bw2</LM>
 </w.rf>
 <form>Unser</form>
-<tag>
-<AM lemma="Unser_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Unser_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Unser_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Unser_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Unser_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Unser" src="auto">NNMS1-----A----</AM>
-<AM lemma="Unser" src="auto">NNIS4-----A----</AM>
-<AM lemma="Unser" src="auto">NNIS1-----A----</AM>
-<AM lemma="Unser_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="unser" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Unser_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-97-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -145,18 +134,7 @@
 <LM>w#w-ln94209-97-p2s1Bw8</LM>
 </w.rf>
 <form>Ilmor</form>
-<tag>
-<AM lemma="Ilmor_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Ilmor" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ilmor" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ilmora" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ilmor_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ilmor_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ilmor" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ilmor_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ilmor_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ilmor" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ilmor_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94209-97-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -336,18 +314,7 @@
 <LM>w#w-ln94209-97-p2s3w1</LM>
 </w.rf>
 <form>Unser</form>
-<tag>
-<AM lemma="Unser_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Unser_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Unser_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Unser_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Unser_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Unser" src="auto">NNMS1-----A----</AM>
-<AM lemma="Unser" src="auto">NNIS4-----A----</AM>
-<AM lemma="Unser" src="auto">NNIS1-----A----</AM>
-<AM lemma="Unser_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="unser" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Unser_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-97-p2s3w2">
 <src.rf>manual</src.rf>
@@ -1708,18 +1675,7 @@
 <LM>w#w-ln94209-97-p2s12w11</LM>
 </w.rf>
 <form>Head</form>
-<tag>
-<AM lemma="Head_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Head_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Héad_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Head_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Head_;R_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Head_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Head_;K_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Head_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Head_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="head" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Head_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-97-p2s12w12">
 <src.rf>manual</src.rf>
@@ -2105,18 +2061,7 @@
 <LM>w#w-ln94209-97-p2s15w1</LM>
 </w.rf>
 <form>Head</form>
-<tag>
-<AM lemma="Head_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Head_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Héad_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Head_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Head_;R_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Head_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Head_;K_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Head_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Head_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="head" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Head_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-97-p2s15w2">
 <src.rf>manual</src.rf>

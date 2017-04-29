@@ -91,18 +91,7 @@
 <LM>w#w-ln95048-027-p1s1Aw10</LM>
 </w.rf>
 <form>Sefer</form>
-<tag>
-<AM lemma="Sefer_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sefer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sefer_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sefer_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Sefer_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sefer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sefer" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sefer" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sefer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sefer" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sefer_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-027-p1s1Aw11">
 <src.rf>manual</src.rf>

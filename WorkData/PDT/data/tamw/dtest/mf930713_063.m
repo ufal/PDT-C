@@ -69,10 +69,7 @@
 <LM>w#w-mf930713-063-p2s1Aw3</LM>
 </w.rf>
 <form>jh</form>
-<tag>
-<AM lemma="jh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jh-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-</tag>
+<tag lemma="jh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930713-063-p2s1Aw4">
 <src.rf>manual</src.rf>

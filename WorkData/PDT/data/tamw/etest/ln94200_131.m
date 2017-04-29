@@ -71,18 +71,7 @@
 <LM>w#w-ln94200-131-p1s1Aw6</LM>
 </w.rf>
 <form>Zamorová</form>
-<tag>
-<AM lemma="Zamorová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Zamorová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Zamorový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Zamorový" src="auto">AANP1----1A----</AM>
-<AM lemma="Zamorový" src="auto">AANP4----1A----</AM>
-<AM lemma="Zamorová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zamorová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zamorový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Zamorový" src="auto">AAFS5----1A----</AM>
-<AM lemma="zamorová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Zamorová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-131-p1s1Aw7">
 <src.rf>manual</src.rf>

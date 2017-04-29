@@ -968,18 +968,7 @@
 <LM>w#w-ln94210-89-p4s1w37</LM>
 </w.rf>
 <form>Schrager</form>
-<tag>
-<AM lemma="Schrager_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Schrager_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Schrager_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schrager_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Schražer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schrager_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Schrager_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Schrager_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schrager_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="schrager" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Schrager_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-89-p4s1w38">
 <src.rf>manual</src.rf>
@@ -1187,18 +1176,7 @@
 <LM>w#w-ln94210-89-p5s2w8</LM>
 </w.rf>
 <form>Robleda</form>
-<tag>
-<AM lemma="Robledo_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Robled_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Robleda_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Robleda" src="auto">NNFS1-----A----</AM>
-<AM lemma="Robleda" src="auto">NNMS1-----A----</AM>
-<AM lemma="Robléd_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Robled_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Robleda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Roblédés_;S_,x" src="auto">NNMS2-----A----</AM>
-<AM lemma="robleda" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Robledo_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-89-p5s2w9">
 <src.rf>manual</src.rf>
@@ -2071,18 +2049,7 @@
 <LM>w#w-ln94210-89-p8s1w9</LM>
 </w.rf>
 <form>Rigelnik</form>
-<tag>
-<AM lemma="Rigelnik_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rigelnik" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Rigelnik_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rigelnik" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rigelnik" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rigelnikum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Rigelnika" src="auto">NNFP2-----A----</AM>
-<AM lemma="Rigelnik_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rigelnik_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="rigelnik" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rigelnik_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-89-p8s1w10">
 <src.rf>manual</src.rf>

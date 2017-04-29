@@ -375,18 +375,7 @@
 <LM>w#w-ln95046-063-p2s1Bw37</LM>
 </w.rf>
 <form>Jerasimos</form>
-<tag>
-<AM lemma="Jerasimos_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jerasimos_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Jerasimos_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jerasimos_;R_^(umělá_družice)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jerasimos_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jerasimos_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jerasimos-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jerasimos" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jerasimos_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jerasimos" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jerasimos_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-063-p2s1Bw38">
 <src.rf>manual</src.rf>
@@ -394,18 +383,7 @@
 <LM>w#w-ln95046-063-p2s1Bw38</LM>
 </w.rf>
 <form>Arsenis</form>
-<tag>
-<AM lemma="Arsenis_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Arsenis_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Arsenis_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Arsenis_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Arsenis_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Arsenis_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Arsenis_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Arsenis" src="auto">NNIS4-----A----</AM>
-<AM lemma="Arsenis" src="auto">NNIS1-----A----</AM>
-<AM lemma="arsenis" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Arsenis_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-063-p2s1Bw39">
 <src.rf>manual</src.rf>
@@ -815,18 +793,7 @@
 <LM>w#w-ln95046-063-p2s2w50</LM>
 </w.rf>
 <form>Arsenis</form>
-<tag>
-<AM lemma="Arsenis_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Arsenis_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Arsenis_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Arsenis_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Arsenis_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Arsenis_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Arsenis_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Arsenis" src="auto">NNIS4-----A----</AM>
-<AM lemma="Arsenis" src="auto">NNIS1-----A----</AM>
-<AM lemma="arsenis" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Arsenis_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-063-p2s2w51">
 <src.rf>manual</src.rf>
@@ -948,18 +915,7 @@
 <LM>w#w-ln95046-063-p2s3w6</LM>
 </w.rf>
 <form>Arsenise</form>
-<tag>
-<AM lemma="Arsenis_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Arsenis_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Arsenis" src="auto">NNIS6-----A----</AM>
-<AM lemma="Arsenis_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Arsenise" src="auto">NNFS2-----A----</AM>
-<AM lemma="Arsenis_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Arsenise" src="auto">NNFS1-----A----</AM>
-<AM lemma="Arsenise" src="auto">NNFP4-----A----</AM>
-<AM lemma="Arsenise" src="auto">NNFP1-----A----</AM>
-<AM lemma="arsenise" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Arsenis_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95046-063-p2s3w7">
 <src.rf>manual</src.rf>
@@ -991,11 +947,7 @@
 <LM>w#w-ln95046-063-p2s3w10</LM>
 </w.rf>
 <form>Želju</form>
-<tag>
-<AM lemma="Želju_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Želja" src="auto">NNFS4-----A----</AM>
-<AM lemma="želju" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Želju_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-063-p2s3w11">
 <src.rf>manual</src.rf>

@@ -3142,18 +3142,7 @@
 <LM>w#w-ln94200-121-p8s2w42</LM>
 </w.rf>
 <form>Smolec</form>
-<tag>
-<AM lemma="Smolec_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Smolec" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Smolec_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Smolec" src="auto">NNIS1-----A----</AM>
-<AM lemma="Smolec" src="auto">NNIS4-----A----</AM>
-<AM lemma="Smolec_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Smolec_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Smolec-2_;R" src="auto">NNMS1-----A----</AM>
-<AM lemma="Smolec" src="auto">NNFS4-----A----</AM>
-<AM lemma="smolec" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Smolec_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-121-p8s2w43">
 <src.rf>manual</src.rf>

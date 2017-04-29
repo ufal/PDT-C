@@ -410,17 +410,7 @@
 <LM>w#w-ln94200-149-p2s3w18</LM>
 </w.rf>
 <form>Fuica</form>
-<tag>
-<AM lemma="Fuico_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Fuica_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Fuica_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fuica_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fuica_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fuica_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fuica_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fuica_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="fuica" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fuico_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-149-p2s3w19">
 <src.rf>manual</src.rf>

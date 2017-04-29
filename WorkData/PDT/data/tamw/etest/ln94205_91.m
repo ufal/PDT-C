@@ -150,24 +150,7 @@
 <LM>w#w-ln94205-91-p2s1Aw11</LM>
 </w.rf>
 <form>HMP</form>
-<tag>
-<AM lemma="HMP_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="HMP_:B_;K_^(Výstavba_hlavního_města_Prahy)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="HMP_:B_;K_^(Městská_policie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="HMP-1_:B_;K_^(Sdružení_pro_pomoc_mentálně_postiženým)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="HMP-1_:B_;K_^(Minis._pro_správu_nár._majetku_a_jeho_pr.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="HMP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HMP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HMP_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Hmp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hmpa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Hmpo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Hmpa_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Hmp_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Hmp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hmp_;R_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="hmp" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="HMP_:B" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 </s>
 <s id="m-ln94205-91-p2s1B">
@@ -1970,18 +1953,7 @@
 <LM>w#w-ln94205-91-p4s1w46</LM>
 </w.rf>
 <form>Arts</form>
-<tag>
-<AM lemma="Art-3_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Art_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Art_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Arts_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Arts_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Arts_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Arts_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Art_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Art_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="arts" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Art-3_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94205-91-p4s1w47">
 <src.rf>manual</src.rf>
@@ -2243,17 +2215,7 @@
 <LM>w#w-ln94205-91-p4s2w30</LM>
 </w.rf>
 <form>mnohastranným</form>
-<tag>
-<AM lemma="mnohastranný" src="orig">AAIP3----1A----</AM>
-<AM lemma="mnohastranný" src="auto" recommended="1">AAIS7----1A----</AM>
-<AM lemma="mnohastranný" src="auto">AANS7----1A----</AM>
-<AM lemma="mnohastranný_^(*2t)" src="auto">AAIS7----1A----</AM>
-<AM lemma="mnohastranný_^(*3it)" src="auto">AAIS7----1A----</AM>
-<AM lemma="mnohastranný" src="auto">AAMS7----1A----</AM>
-<AM lemma="mnohastranný" src="auto">AAFP3----1A----</AM>
-<AM lemma="mnohastranný" src="auto">AAIP3----1A----</AM>
-<AM lemma="mnohastranný_^(*3it)" src="auto">AANS7----1A----</AM>
-</tag>
+<tag lemma="mnohastranný" src="orig" selected="1">AAIP3----1A----</tag>
 </m>
 <m id="m-ln94205-91-p4s2w31">
 <src.rf>manual</src.rf>
@@ -3572,17 +3534,7 @@
 <LM>w#w-ln94205-91-p6s1w17</LM>
 </w.rf>
 <form>turbulujícími</form>
-<tag>
-<AM lemma="turbulující" src="orig">AAIP7----1A----</AM>
-<AM lemma="turbulující" src="auto" recommended="1">AAIP7----1A----</AM>
-<AM lemma="turbulující" src="auto">AAFP7----1A----</AM>
-<AM lemma="turbulující" src="auto">AAMP7----1A----</AM>
-<AM lemma="turbulující" src="auto">AANP7----1A----</AM>
-<AM lemma="turbulující_^(*5ovat)" src="auto">AGIP7-----A----</AM>
-<AM lemma="turbulující_^(*3it)" src="auto">NNNP7-----A----</AM>
-<AM lemma="turbulující_^(*5ovat)" src="auto">AGFP7-----A----</AM>
-<AM lemma="turbulující" src="auto">NNNP7-----A----</AM>
-</tag>
+<tag lemma="turbulující" src="orig" selected="1">AAIP7----1A----</tag>
 </m>
 <m id="m-ln94205-91-p6s1w18">
 <src.rf>manual</src.rf>

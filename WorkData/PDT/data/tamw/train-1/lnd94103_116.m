@@ -790,18 +790,7 @@
 <LM>w#w-lnd94103-116-p1s3w19</LM>
 </w.rf>
 <form>Tamburello</form>
-<tag>
-<AM lemma="Tamburello_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tamburello_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tamburella_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Tamburello_;m" src="auto">NNNSX-----A----</AM>
-<AM lemma="Tamburello_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tamburello_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tamburello_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tamburello_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tamburello_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="tamburello" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tamburello_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-116-p1s3w20">
 <src.rf>manual</src.rf>
@@ -1149,18 +1138,7 @@
 <LM>w#w-lnd94103-116-p1s5w14</LM>
 </w.rf>
 <form>Tamburello</form>
-<tag>
-<AM lemma="Tamburello_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tamburello_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tamburella_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Tamburello_;m" src="auto">NNNSX-----A----</AM>
-<AM lemma="Tamburello_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tamburello_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tamburello_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tamburello_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tamburello_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="tamburello" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tamburello_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-116-p1s5w15">
 <src.rf>manual</src.rf>
@@ -3262,18 +3240,7 @@
 <LM>w#w-lnd94103-116-p1s13Cw18</LM>
 </w.rf>
 <form>Eliseo</form>
-<tag>
-<AM lemma="Eliseo_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eliseo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Eliseo_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Eliseo_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Eliseo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eliseo_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="Eliseo_;K_;R_;u_^(opera)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Eliseo_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Eliseo_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="eliseo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Eliseo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-116-p1s13Cw19">
 <src.rf>manual</src.rf>
@@ -3865,18 +3832,7 @@
 <LM>w#w-lnd94103-116-p1s17w13</LM>
 </w.rf>
 <form>Nannini</form>
-<tag>
-<AM lemma="Nannini_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nannini_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nannini_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Nannin" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Nannin" src="auto">NNMP1-----A----</AM>
-<AM lemma="Nannini_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nannini_;K_^(nakladatelství)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Nannini_,h_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Nannini-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="nannini" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nannini_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-116-p1s17w14">
 <src.rf>manual</src.rf>
@@ -4284,18 +4240,7 @@
 <LM>w#w-lnd94103-116-p1s19w27</LM>
 </w.rf>
 <form>Didcotu</form>
-<tag>
-<AM lemma="Didcot_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Didcota" src="auto">NNFS4-----A----</AM>
-<AM lemma="Didcot" src="auto">NNIS2-----A----</AM>
-<AM lemma="Didcot" src="auto">NNIS6-----A----</AM>
-<AM lemma="Didcot" src="auto">NNIS3-----A----</AM>
-<AM lemma="Didcot_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Didcot_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Didcot_,t" src="auto">NNIS2-----A----</AM>
-<AM lemma="Didcot" src="auto">NNIS6-----A---1</AM>
-<AM lemma="didcotu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Didcot_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd94103-116-p1s19w28">
 <src.rf>manual</src.rf>
@@ -6750,19 +6695,7 @@
 <LM>w#w-lnd94103-116-p1s32Bw10</LM>
 </w.rf>
 <form>Itamar</form>
-<tag>
-<AM lemma="Itamar_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Itamar_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="Itamar_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Itamar_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Itamar_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Itamar_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Itamar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Itamar_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Itamar_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="iTamara-2_;R_^(radiolokátor)" src="auto">NNFP2-----A----</AM>
-<AM lemma="itamar" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Itamar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-116-p1s32Bw11">
 <src.rf>manual</src.rf>

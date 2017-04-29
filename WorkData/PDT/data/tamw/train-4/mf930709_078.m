@@ -61,16 +61,7 @@
 <LM>w#w-mf930709-078-p2s1Aw3</LM>
 </w.rf>
 <form>čen</form>
-<tag>
-<AM lemma="čen-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="čit_:W" src="auto" recommended="1">VsYS---XX-AP---</AM>
-<AM lemma="čit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="knout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čit_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="knout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čet_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čet" src="auto">VsYS---XX-AP---</AM>
-</tag>
+<tag lemma="čen-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-078-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -1197,16 +1188,7 @@
 <LM>w#w-mf930709-078-p3s1w22</LM>
 </w.rf>
 <form>Luxa</form>
-<tag>
-<AM lemma="Luxa_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Luxa_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Luxa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Luxa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Luxa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lux_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Lux" src="auto">NNMS2-----A----</AM>
-<AM lemma="luxa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Luxa_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-078-p3s1w23">
 <src.rf>manual</src.rf>
@@ -1294,18 +1276,7 @@
 <LM>w#w-mf930709-078-p3s1w33</LM>
 </w.rf>
 <form>Forgacz</form>
-<tag>
-<AM lemma="Forgacz_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Forgacz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Forgacz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Forgacz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Forgacza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Forgacz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Forgacz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Forgacs" src="auto">NNIS1-----A----</AM>
-<AM lemma="Forgacz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="forgacz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Forgacz_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-078-p3s1w34">
 <src.rf>manual</src.rf>

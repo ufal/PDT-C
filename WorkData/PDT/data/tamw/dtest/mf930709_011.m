@@ -267,18 +267,7 @@
 <LM>w#w-mf930709-011-p2s1Bw24</LM>
 </w.rf>
 <form>Lehnhardt</form>
-<tag>
-<AM lemma="Lehnhardt_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lehnhardt_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lehnhardt_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lehnhardt_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lehnhardt_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lehnhardt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Lehnhardt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Lehnhardt" src="auto">Vf--------A----</AM>
-<AM lemma="Lehnhardt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="lehnhardt" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lehnhardt_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-011-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -410,18 +399,7 @@
 <LM>w#w-mf930709-011-p2s3w4</LM>
 </w.rf>
 <form>Fajstavra</form>
-<tag>
-<AM lemma="Fajstavr_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Fajstavro_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Fajstavra_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fajstavr_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Fajstavra" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fajstavr" src="auto">NNMS2-----A----</AM>
-<AM lemma="Fajstavr_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Fajstavr" src="auto">NNMS4-----A----</AM>
-<AM lemma="Fajstavr_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="fajstavra" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fajstavr_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-011-p2s3w5">
 <src.rf>manual</src.rf>

@@ -268,25 +268,7 @@
 <LM>w#w-ln94208-17-p3s1Bw8</LM>
 </w.rf>
 <form>multis</form>
-<tag>
-<AM lemma="multis_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="multis" src="auto">NNIS1-----A----</AM>
-<AM lemma="multis-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="multis-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="multis-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="multis-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="multis_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="multis_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="multis_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="multis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="multis_;m_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="multiscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="multisoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="multispolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="multistrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="multistátní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="multisíc-2`1000_:B" src="auto">NNIXX-----A---8</AM>
-</tag>
+<tag lemma="multis_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94208-17-p3s1Bw9">
 <src.rf>manual</src.rf>
@@ -760,25 +742,7 @@
 <LM>w#w-ln94208-17-p4s1w16</LM>
 </w.rf>
 <form>multis</form>
-<tag>
-<AM lemma="multis_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="multis" src="auto">NNIS1-----A----</AM>
-<AM lemma="multis-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="multis-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="multis-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="multis-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="multis_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="multis_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="multis_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="multis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="multis_;m_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="multiscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="multisoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="multispolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="multistrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="multistátní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="multisíc-2`1000_:B" src="auto">NNIXX-----A---8</AM>
-</tag>
+<tag lemma="multis_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94208-17-p4s1w17">
 <src.rf>manual</src.rf>
@@ -892,25 +856,7 @@
 <LM>w#w-ln94208-17-p4s2w5</LM>
 </w.rf>
 <form>multis</form>
-<tag>
-<AM lemma="multis_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="multis" src="auto">NNIS1-----A----</AM>
-<AM lemma="multis-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="multis-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="multis-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="multis-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="multis_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="multis_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="multis_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="multis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="multis_;m_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="multiscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="multisoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="multispolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="multistrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="multistátní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="multisíc-2`1000_:B" src="auto">NNIXX-----A---8</AM>
-</tag>
+<tag lemma="multis_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94208-17-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1122,25 +1068,7 @@
 <LM>w#w-ln94208-17-p4s4w5</LM>
 </w.rf>
 <form>multis</form>
-<tag>
-<AM lemma="multis_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="multis" src="auto">NNIS1-----A----</AM>
-<AM lemma="multis-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="multis-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="multis-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="multis-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="multis_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="multis_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="multis_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="multis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="multis_;m_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="multiscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="multisoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="multispolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="multistrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="multistátní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="multisíc-2`1000_:B" src="auto">NNIXX-----A---8</AM>
-</tag>
+<tag lemma="multis_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94208-17-p4s4w6">
 <src.rf>manual</src.rf>
@@ -1230,26 +1158,7 @@
 <LM>w#w-ln94208-17-p5s1w1</LM>
 </w.rf>
 <form>Multis</form>
-<tag>
-<AM lemma="multis_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Multis" src="auto">NNIS1-----A----</AM>
-<AM lemma="Multis-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Multis_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Multis_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Multis_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Multis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Multis_;m_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Multisíc-2`1000_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="multis" src="auto">NNMS1-----A----</AM>
-<AM lemma="multis-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="multis-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="multis-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="multiscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="multisoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="multispolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="multistrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="multistátní_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="multis_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94208-17-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1999,26 +1908,7 @@
 <LM>w#w-ln94208-17-p7s1w1</LM>
 </w.rf>
 <form>Multis</form>
-<tag>
-<AM lemma="multis_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Multis" src="auto">NNIS1-----A----</AM>
-<AM lemma="Multis-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Multis_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Multis_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Multis_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Multis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Multis_;m_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Multisíc-2`1000_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="multis" src="auto">NNMS1-----A----</AM>
-<AM lemma="multis-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="multis-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="multis-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="multiscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="multisoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="multispolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="multistrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="multistátní_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="multis_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94208-17-p7s1w2">
 <src.rf>manual</src.rf>
@@ -3195,25 +3085,7 @@
 <LM>w#w-ln94208-17-p8s2w21</LM>
 </w.rf>
 <form>multis</form>
-<tag>
-<AM lemma="multis_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="multis" src="auto">NNIS1-----A----</AM>
-<AM lemma="multis-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="multis-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="multis-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="multis-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="multis_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="multis_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="multis_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="multis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="multis_;m_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="multiscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="multisoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="multispolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="multistrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="multistátní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="multisíc-2`1000_:B" src="auto">NNIXX-----A---8</AM>
-</tag>
+<tag lemma="multis_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94208-17-p8s2w22">
 <src.rf>manual</src.rf>
@@ -5717,26 +5589,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Multis</form>
-<tag>
-<AM lemma="multis_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Multis" src="auto">NNIS1-----A----</AM>
-<AM lemma="Multis-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Multis_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Multis_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Multis_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Multis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Multis_;m_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Multisíc-2`1000_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="multis" src="auto">NNMS1-----A----</AM>
-<AM lemma="multis-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="multis-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="multis-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="multiscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="multisoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="multispolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="multistrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="multistátní_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="multis_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94208-17-p14s2w2">
 <src.rf>manual</src.rf>

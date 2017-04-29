@@ -19,18 +19,7 @@
 <LM>w#w-ln94211-94-p1s1w1</LM>
 </w.rf>
 <form>Glendalough</form>
-<tag>
-<AM lemma="Glendalough_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Glendalough_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Glendalough_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Glendalough_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Glendalough_;S_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Glendalough_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Glendalough_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Glendalough_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Glendalough_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="glendalough" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Glendalough_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-94-p1s1w2">
 <src.rf>manual</src.rf>

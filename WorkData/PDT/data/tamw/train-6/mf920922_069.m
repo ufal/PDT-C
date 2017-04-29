@@ -197,18 +197,7 @@
 <LM>w#w-mf920922-069-p2s1w19</LM>
 </w.rf>
 <form>Occelli</form>
-<tag>
-<AM lemma="Occelli_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Occelli_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Occellus_,t" src="auto">NNIP1-----A----</AM>
-<AM lemma="Occelli_^(koření)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Occelli_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Occelli_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Occelt_:W" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Occelt_:T" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Occelt" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="occelli" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Occelli_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-069-p2s1w20">
 <src.rf>manual</src.rf>
@@ -336,18 +325,7 @@
 <LM>w#w-mf920922-069-p2s1w35</LM>
 </w.rf>
 <form>Piironen</form>
-<tag>
-<AM lemma="Piironen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Piironen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="vinný-1_^(kdo_je_Piironen/vinna)" src="auto">ACYS------A----</AM>
-<AM lemma="Piirone_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Piironný" src="auto">ACYS------A----</AM>
-<AM lemma="Piironna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Piiron_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Piironen" src="auto">PDYS1----------</AM>
-<AM lemma="Piironen" src="auto">PDIS4----------</AM>
-<AM lemma="piironen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Piironen_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-069-p2s1w36">
 <src.rf>manual</src.rf>

@@ -162,18 +162,7 @@
 <LM>w#w-mf930713-158-p1s1w18</LM>
 </w.rf>
 <form>Moines</form>
-<tag>
-<AM lemma="Moines_;G_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Moines_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Moines" src="auto">Db-------------</AM>
-<AM lemma="Stones_;K_,t_^(Rolling_Moines)" src="auto">NNIPX-----A----</AM>
-<AM lemma="Moine_;m_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Moine_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Moinést" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Moines_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Moines_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="moines" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Moines_;G_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf930713-158-p1s1w19">
 <src.rf>manual</src.rf>

@@ -169,18 +169,7 @@
 <LM>w#w-ln94204-137-p2s1Cw10</LM>
 </w.rf>
 <form>Kudlín</form>
-<tag>
-<AM lemma="Kudlín_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kudlín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kudlín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kudlín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kudlína" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kudlín_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kudlín-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kudlín-2_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kudlín-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kudlín" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kudlín_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-137-p2s1Cw11">
 <src.rf>manual</src.rf>
@@ -196,18 +185,7 @@
 <LM>w#w-ln94204-137-p2s1Cw12</LM>
 </w.rf>
 <form>Schlín</form>
-<tag>
-<AM lemma="Schlín_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Schlín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Schlín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schlín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schlína" src="auto">NNFP2-----A----</AM>
-<AM lemma="Schlín_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schlín-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schlín-2_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schlín-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="schlín" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Schlín_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-137-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -582,18 +560,7 @@
 <LM>w#w-ln94204-137-p2s3w13</LM>
 </w.rf>
 <form>Kudlín</form>
-<tag>
-<AM lemma="Kudlín_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kudlín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kudlín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kudlín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kudlína" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kudlín_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kudlín-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kudlín-2_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kudlín-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kudlín" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kudlín_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-137-p2s3w14">
 <src.rf>manual</src.rf>
@@ -609,18 +576,7 @@
 <LM>w#w-ln94204-137-p2s3w15</LM>
 </w.rf>
 <form>Schlín</form>
-<tag>
-<AM lemma="Schlín_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Schlín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Schlín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schlín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schlína" src="auto">NNFP2-----A----</AM>
-<AM lemma="Schlín_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schlín-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schlín-2_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schlín-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="schlín" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Schlín_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-137-p2s3w16">
 <src.rf>manual</src.rf>
@@ -2573,18 +2529,7 @@
 <LM>w#w-ln94204-137-p5s2w9</LM>
 </w.rf>
 <form>Kudlín</form>
-<tag>
-<AM lemma="Kudlín_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kudlín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kudlín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kudlín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kudlína" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kudlín_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kudlín-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kudlín-2_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kudlín-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kudlín" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kudlín_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-137-p5s2w10">
 <src.rf>manual</src.rf>
@@ -2698,18 +2643,7 @@
 <LM>w#w-ln94204-137-p5s3w10</LM>
 </w.rf>
 <form>Schlín</form>
-<tag>
-<AM lemma="Schlín_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Schlín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Schlín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schlín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schlína" src="auto">NNFP2-----A----</AM>
-<AM lemma="Schlín_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schlín-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schlín-2_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schlín-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="schlín" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Schlín_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-137-p5s3w11">
 <src.rf>manual</src.rf>
@@ -2751,18 +2685,7 @@
 <LM>w#w-ln94204-137-p5s4w1</LM>
 </w.rf>
 <form>Schlín</form>
-<tag>
-<AM lemma="Schlín_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Schlín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Schlín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schlín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schlína" src="auto">NNFP2-----A----</AM>
-<AM lemma="Schlín_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schlín-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schlín-2_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schlín-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="schlín" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Schlín_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-137-p5s4w2">
 <src.rf>manual</src.rf>
@@ -2954,18 +2877,7 @@
 <LM>w#w-ln94204-137-p5s4w25</LM>
 </w.rf>
 <form>Kudlín</form>
-<tag>
-<AM lemma="Kudlín_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kudlín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kudlín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kudlín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kudlína" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kudlín_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kudlín-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kudlín-2_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kudlín-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kudlín" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kudlín_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-137-p5s4w26">
 <src.rf>manual</src.rf>
@@ -2983,18 +2895,7 @@
 <LM>w#w-ln94204-137-p5s5w1</LM>
 </w.rf>
 <form>Kudlín</form>
-<tag>
-<AM lemma="Kudlín_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kudlín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kudlín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kudlín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kudlína" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kudlín_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kudlín-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kudlín-2_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kudlín-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kudlín" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kudlín_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-137-p5s5w2">
 <src.rf>manual</src.rf>
@@ -3162,18 +3063,7 @@
 <LM>w#w-ln94204-137-p5s5w22</LM>
 </w.rf>
 <form>Schlín</form>
-<tag>
-<AM lemma="Schlín_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Schlín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Schlín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schlín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schlína" src="auto">NNFP2-----A----</AM>
-<AM lemma="Schlín_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schlín-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schlín-2_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schlín-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="schlín" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Schlín_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-137-p5s5w23">
 <src.rf>manual</src.rf>
@@ -3199,18 +3089,7 @@
 <LM>w#w-ln94204-137-p5s6w1</LM>
 </w.rf>
 <form>Schlín</form>
-<tag>
-<AM lemma="Schlín_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Schlín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Schlín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schlín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schlína" src="auto">NNFP2-----A----</AM>
-<AM lemma="Schlín_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schlín-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schlín-2_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schlín-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="schlín" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Schlín_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-137-p5s6w2">
 <src.rf>manual</src.rf>
@@ -3362,18 +3241,7 @@
 <LM>w#w-ln94204-137-p5s6w20</LM>
 </w.rf>
 <form>Kudlín</form>
-<tag>
-<AM lemma="Kudlín_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kudlín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kudlín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kudlín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kudlína" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kudlín_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kudlín-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kudlín-2_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kudlín-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kudlín" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kudlín_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-137-p5s6w21">
 <src.rf>manual</src.rf>
@@ -4149,18 +4017,7 @@
 <LM>w#w-ln94204-137-p6s4w4</LM>
 </w.rf>
 <form>Kudlína</form>
-<tag>
-<AM lemma="Kudlín_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Kudlín_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Kudlína" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kudlín_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kudlín" src="auto">NNIS2-----A----</AM>
-<AM lemma="Kudlín_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kudlín_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kudlín_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Kudlín" src="auto">NNMS2-----A----</AM>
-<AM lemma="kudlína" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kudlín_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94204-137-p6s4w5">
 <src.rf>manual</src.rf>
@@ -4176,18 +4033,7 @@
 <LM>w#w-ln94204-137-p6s4w6</LM>
 </w.rf>
 <form>Schlína</form>
-<tag>
-<AM lemma="Schlín_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Schlín_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Schlína" src="auto">NNFS1-----A----</AM>
-<AM lemma="Schlín_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Schlín" src="auto">NNIS2-----A----</AM>
-<AM lemma="Schlín_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Schlín_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Schlín_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Schlín" src="auto">NNMS2-----A----</AM>
-<AM lemma="schlína" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Schlín_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94204-137-p6s4w7">
 <src.rf>manual</src.rf>

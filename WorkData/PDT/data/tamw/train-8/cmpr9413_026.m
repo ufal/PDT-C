@@ -770,18 +770,7 @@
 <LM>w#w-cmpr9413-026-p4s1w4</LM>
 </w.rf>
 <form>Villinger</form>
-<tag>
-<AM lemma="Villinger_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Villinger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Villinger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Villinger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Villinžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Villinger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Villinger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Villinger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Villinger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="villinger" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Villinger_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-026-p4s1w5">
 <src.rf>manual</src.rf>

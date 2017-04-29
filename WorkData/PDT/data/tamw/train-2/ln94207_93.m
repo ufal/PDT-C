@@ -201,16 +201,7 @@
 <LM>w#w-ln94207-93-p6s1w2</LM>
 </w.rf>
 <form>slovozvono</form>
-<tag>
-<AM lemma="slovozvono" src="orig">NNNS1-----A----</AM>
-<AM lemma="slovozvono_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="slovozvonen" src="auto">PDNS4----------</AM>
-<AM lemma="slovozvonen" src="auto">PDNS1----------</AM>
-<AM lemma="slovozvon-1" src="auto">PPNS1--3-------</AM>
-<AM lemma="slovozvono_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="slovozvono-2" src="auto">Db-------------</AM>
-<AM lemma="slovozvono" src="auto" recommended="1">NNNS1-----A----</AM>
-</tag>
+<tag lemma="slovozvono" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94207-93-p6s1w3">
 <src.rf>manual</src.rf>
@@ -472,18 +463,7 @@
 <LM>w#w-ln94207-93-p11s1w3</LM>
 </w.rf>
 <form>Bocca</form>
-<tag>
-<AM lemma="Bocca_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Bocca_;R_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Bocca_:B_,t" src="auto">Db-------------</AM>
-<AM lemma="Bocca_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bocca_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bocco_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bocc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bocca_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bocca_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="bocca" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bocca_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94207-93-p11s1w4">
 <src.rf>manual</src.rf>
@@ -499,14 +479,7 @@
 <LM>w#w-ln94207-93-p11s1w5</LM>
 </w.rf>
 <form>veritá</form>
-<tag>
-<AM lemma="veritá_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="veritý" src="auto">AAFS1----1A----</AM>
-<AM lemma="veritý_^(*3ít)" src="auto">AAFS1----1A----</AM>
-<AM lemma="veritý" src="auto">AANP4----1A----</AM>
-<AM lemma="veritý" src="auto">AANP1----1A----</AM>
-<AM lemma="veritat_:T" src="auto" recommended="1">VB-S---3P-AA---</AM>
-</tag>
+<tag lemma="veritá_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94207-93-p11s1w6">
 <src.rf>manual</src.rf>

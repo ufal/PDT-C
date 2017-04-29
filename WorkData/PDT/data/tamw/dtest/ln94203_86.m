@@ -395,13 +395,7 @@
 <LM>w#w-ln94203-86-p2s2w8</LM>
 </w.rf>
 <form>přílepovském</form>
-<tag>
-<AM lemma="přílepovský_;G" src="orig">AAIS6----1A----</AM>
-<AM lemma="přílepovský" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="přílepovský" src="auto">AANS6----1A----</AM>
-<AM lemma="přílepovský" src="auto">AAMS6----1A----</AM>
-<AM lemma="přílepovský_;S" src="auto">NNMS6-----A----</AM>
-</tag>
+<tag lemma="přílepovský_;G" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-ln94203-86-p2s2w9">
 <src.rf>manual</src.rf>
@@ -4078,18 +4072,7 @@
 <LM>w#w-ln94203-86-p8s1w3</LM>
 </w.rf>
 <form>Reischke</form>
-<tag>
-<AM lemma="Reischke_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reischke_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Reischke_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Reischke_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Reischke_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Reischke_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Reischka_,t" src="auto">NNFS6-----A----</AM>
-<AM lemma="Reischk-1" src="auto">RV--3----------</AM>
-<AM lemma="Reischke_;Y_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="reischke" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Reischke_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-86-p8s1w4">
 <src.rf>manual</src.rf>
@@ -4773,18 +4756,7 @@
 <LM>w#w-ln94203-86-p8s6w6</LM>
 </w.rf>
 <form>Reischkeova</form>
-<tag>
-<AM lemma="Reischkeův_;S_^(*2)" src="orig">AUIS2M---------</AM>
-<AM lemma="Reischkeův_;S_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="Reischkeův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Reischkeov_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Reischkeov_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Reischkeův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Reischkeův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Reischkeov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Reischkeův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="reischkeova" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Reischkeův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln94203-86-p8s6w7">
 <src.rf>manual</src.rf>

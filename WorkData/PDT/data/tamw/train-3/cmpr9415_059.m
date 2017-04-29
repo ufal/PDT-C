@@ -1302,18 +1302,7 @@
 <LM>w#w-cmpr9415-059-p8s1w17</LM>
 </w.rf>
 <form>LAllier</form>
-<tag>
-<AM lemma="LAllier_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="LAllier_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="LAllier_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kurier-1_;K_,t_^(souč._názvu_Der_LAllier)" src="auto">NNISX-----A----</AM>
-<AM lemma="LAlliéra_,x" src="auto">NNFP2-----A----</AM>
-<AM lemma="LAllier_^(sklárna)" src="auto">NNIS1-----A----</AM>
-<AM lemma="LAllier_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="LAllier_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="LAllier_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lallier" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="LAllier_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-059-p8s1w18">
 <src.rf>manual</src.rf>
@@ -2934,30 +2923,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>polozamrzlé</form>
-<tag>
-<AM lemma="polozamrzlý" src="orig">AAFS2----1A----</AM>
-<AM lemma="polozamrzlý" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="polozamrzlý" src="auto">AAIP4----1A----</AM>
-<AM lemma="polozamrzlý" src="auto">AANS1----1A----</AM>
-<AM lemma="polozamrzlý" src="auto">AANS4----1A----</AM>
-<AM lemma="polozamrzlý_^(*2nout)" src="auto">AAFP1----1A----</AM>
-<AM lemma="polozamrzlý_^(*2nout)" src="auto">AAFP4----1A----</AM>
-<AM lemma="polozamrzlý_^(*2nout)" src="auto">AAFP5----1A----</AM>
-<AM lemma="polozamrzlý_^(*2nout)" src="auto">AAFS2----1A----</AM>
-<AM lemma="polozamrzlý_^(*2nout)" src="auto">AAFS3----1A----</AM>
-<AM lemma="polozamrzlý_^(*2nout)" src="auto">AAFS6----1A----</AM>
-<AM lemma="polozamrzlý_^(*2nout)" src="auto">AAIP1----1A----</AM>
-<AM lemma="polozamrzlý_^(*2nout)" src="auto">AAIP4----1A----</AM>
-<AM lemma="polozamrzlý_^(*2nout)" src="auto">AAIP5----1A----</AM>
-<AM lemma="polozamrzlý_^(*2nout)" src="auto">AAMP4----1A----</AM>
-<AM lemma="polozamrzlý_^(*2nout)" src="auto">AANP1----1A---6</AM>
-<AM lemma="polozamrzlý_^(*2nout)" src="auto">AANP4----1A---6</AM>
-<AM lemma="polozamrzlý_^(*2nout)" src="auto">AANP5----1A---6</AM>
-<AM lemma="polozamrzlý_^(*2nout)" src="auto">AANS1----1A----</AM>
-<AM lemma="polozamrzlý_^(*2nout)" src="auto">AANS4----1A----</AM>
-<AM lemma="polozamrzlý_^(*2nout)" src="auto">AANS5----1A----</AM>
-<AM lemma="polozamrzlý_^(*4ézt)" src="auto">AAIP4----1A----</AM>
-</tag>
+<tag lemma="polozamrzlý" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-cmpr9415-059-p11s3w8">
 <src.rf>manual</src.rf>

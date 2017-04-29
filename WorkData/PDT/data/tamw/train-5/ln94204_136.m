@@ -1147,24 +1147,7 @@
 <LM>w#w-ln94204-136-p3s3w7</LM>
 </w.rf>
 <form>SFK</form>
-<tag>
-<AM lemma="SFK_:B_;K_^(Státní_fond_kultury)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SFK_:B_;K_^(Státní_fond_kultury)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SFK_:B_;K_^(Státní_fond_kultury)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SFK_:B_;K_;w_^(švédký_sport._klub)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SFK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFK-1_:B_^(John_Fitzgerald_Kennedy)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="SFK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFK_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SFK_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Sfk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sfk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sfk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sfk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sfk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sfk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sfk" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SFK_:B_;K_^(Státní_fond_kultury)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94204-136-p3s3w8">
 <src.rf>manual</src.rf>

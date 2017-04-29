@@ -657,18 +657,7 @@
 <LM>w#w-mf930713-144-p2s6w10</LM>
 </w.rf>
 <form>Žepče</form>
-<tag>
-<AM lemma="Žepče_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Žepče_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Žepče_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Žepče_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Žepč_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Žepč" src="auto">NNIP1-----A----</AM>
-<AM lemma="Žepč" src="auto">NNIS2-----A----</AM>
-<AM lemma="Žepč" src="auto">NNMP4-----A----</AM>
-<AM lemma="Žepč" src="auto">NNMS4-----A----</AM>
-<AM lemma="žepče" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Žepče_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930713-144-p2s6w11">
 <src.rf>manual</src.rf>
@@ -790,18 +779,7 @@
 <LM>w#w-mf930713-144-p2s7w14</LM>
 </w.rf>
 <form>Bošovaca</form>
-<tag>
-<AM lemma="Bošovaca_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Bošovaco_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bošovac_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bošovaca_;L_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Bošovaca_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Bošovaca_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bošovaca-1_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bošovaca_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bošovaca_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="bošovaca" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bošovaca_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-144-p2s7w15">
 <src.rf>manual</src.rf>
@@ -833,17 +811,7 @@
 <LM>w#w-mf930713-144-p2s7w18</LM>
 </w.rf>
 <form>Kreševo</form>
-<tag>
-<AM lemma="Kreševo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Kreševo" src="auto">Db-------------</AM>
-<AM lemma="Kreševo_;m" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Kreševo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Kreševo" src="auto">NNNS1-----A----</AM>
-<AM lemma="naKreševo" src="auto">Db-------------</AM>
-<AM lemma="Kreševo_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="Kreševo" src="auto">NNNS4-----A----</AM>
-<AM lemma="kreševo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kreševo_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930713-144-p2s7w19">
 <src.rf>manual</src.rf>
@@ -1475,17 +1443,7 @@
 <LM>w#w-mf930713-144-p2s11w20</LM>
 </w.rf>
 <form>Dobrinja</form>
-<tag>
-<AM lemma="Dobrinja_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Dobrinjo_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Dobrinja_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Dobrinja_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Dobrinja_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Dobrinja_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dobrinja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dobrinja_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="dobrinja" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dobrinja_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-144-p2s11w21">
 <src.rf>manual</src.rf>

@@ -252,18 +252,7 @@
 <LM>w#w-mf920925-080-p2s3w5</LM>
 </w.rf>
 <form>Tusakko</form>
-<tag>
-<AM lemma="Tusakko_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tusakko_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tusakko_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Tusakko_;K_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Tusakko_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Tusakko" src="auto">Db-------------</AM>
-<AM lemma="Tusakký" src="auto">A2--------A----</AM>
-<AM lemma="Tusakko_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tusakko" src="auto">NNNS1-----A----</AM>
-<AM lemma="tusakko" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tusakko_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920925-080-p2s3w6">
 <src.rf>manual</src.rf>
@@ -621,18 +610,7 @@
 <LM>w#w-mf920925-080-p2s6w9</LM>
 </w.rf>
 <form>Tusakko</form>
-<tag>
-<AM lemma="Tusakko_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tusakko_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tusakko_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Tusakko_;K_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Tusakko_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Tusakko" src="auto">Db-------------</AM>
-<AM lemma="Tusakký" src="auto">A2--------A----</AM>
-<AM lemma="Tusakko_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tusakko" src="auto">NNNS1-----A----</AM>
-<AM lemma="tusakko" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tusakko_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920925-080-p2s6w10">
 <src.rf>manual</src.rf>

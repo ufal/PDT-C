@@ -373,19 +373,7 @@
 <LM>w#w-ln95048-128-p1s2w10</LM>
 </w.rf>
 <form>Nong</form>
-<tag>
-<AM lemma="Nong_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="Long-1_;G_,t_^(Nong_Island_apod.)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Nong" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nong-2_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Nong_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nong_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nong_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="nong" src="auto">NNMS1-----A----</AM>
-<AM lemma="nong-1`gram_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="nong-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-Nong)" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="Nong_;S" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln95048-128-p1s2w11">
 <src.rf>manual</src.rf>
@@ -406,18 +394,7 @@
 <LM>w#w-ln95048-128-p1s2w12</LM>
 </w.rf>
 <form>Manha</form>
-<tag>
-<AM lemma="Manh_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Manho_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Manho_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Manho_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Manh_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Manh_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Manha" src="auto">NNFS1-----A----</AM>
-<AM lemma="Manha_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Manh_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="manha" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Manh_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-128-p1s2w13">
 <src.rf>manual</src.rf>

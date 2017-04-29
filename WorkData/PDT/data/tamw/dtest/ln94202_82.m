@@ -2212,18 +2212,7 @@
 <LM>w#w-ln94202-82-p5s3w19</LM>
 </w.rf>
 <form>deadlajny</form>
-<tag>
-<AM lemma="deadlajna" src="orig">NNFS2-----A----</AM>
-<AM lemma="deadlajen" src="auto">NNIP1-----A----</AM>
-<AM lemma="deadlajn" src="auto">NNIP1-----A----</AM>
-<AM lemma="deadlajna" src="auto">NNFP1-----A----</AM>
-<AM lemma="deadlajna" src="auto">NNFP4-----A----</AM>
-<AM lemma="deadlajna" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="deadlajna_,h" src="auto">NNFP1-----A----</AM>
-<AM lemma="deadlajna_,h" src="auto">NNFP4-----A----</AM>
-<AM lemma="deadlajna_,h" src="auto">NNFP5-----A----</AM>
-<AM lemma="deadlajna_,h" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="deadlajna" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-82-p5s3w20">
 <src.rf>manual</src.rf>
@@ -2239,18 +2228,7 @@
 <LM>w#w-ln94202-82-p5s3w21</LM>
 </w.rf>
 <form>deadlajně</form>
-<tag>
-<AM lemma="deadlajna" src="orig">NNFS3-----A----</AM>
-<AM lemma="deadlajn_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="deadlajna" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="deadlajna" src="auto">NNFS6-----A----</AM>
-<AM lemma="deadlajna_,h" src="auto">NNFS3-----A----</AM>
-<AM lemma="deadlajna_,h" src="auto">NNFS6-----A----</AM>
-<AM lemma="deadlajna_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="deadlajně_,t" src="auto">Dg-------1A----</AM>
-<AM lemma="deadlajně_^(*1í)" src="auto">Dg-------1A----</AM>
-<AM lemma="deadlajně_^(*1ý)" src="auto">Dg-------1A----</AM>
-</tag>
+<tag lemma="deadlajna" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94202-82-p5s3w22">
 <src.rf>manual</src.rf>

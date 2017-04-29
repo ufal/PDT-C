@@ -595,18 +595,7 @@
 <LM>w#w-mf920922-056-p2s2w18</LM>
 </w.rf>
 <form>Wings</form>
-<tag>
-<AM lemma="Wing_;K_,t" src="orig">NNNPX-----A----</AM>
-<AM lemma="Wings_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wing_;K_,t" src="auto" recommended="1">NNNPX-----A----</AM>
-<AM lemma="Wings_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Wings_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="Wings_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wings_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Wing_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Wings_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="wings" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Wing_;K_,t" src="orig" selected="1">NNNPX-----A----</tag>
 </m>
 <m id="m-mf920922-056-p2s2w19">
 <src.rf>manual</src.rf>
@@ -3469,17 +3458,7 @@
 <LM>w#w-mf920922-056-p2s15w31</LM>
 </w.rf>
 <form>robbery</form>
-<tag>
-<AM lemma="robbery_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="robbera_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="robber" src="auto">NNMP4-----A----</AM>
-<AM lemma="robbera" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="robbera" src="auto">NNFP1-----A----</AM>
-<AM lemma="robber" src="auto">NNMP7-----A----</AM>
-<AM lemma="robber" src="auto">NNIP4-----A----</AM>
-<AM lemma="robber" src="auto">NNIP1-----A----</AM>
-<AM lemma="robbera" src="auto">NNFP4-----A----</AM>
-</tag>
+<tag lemma="robbery_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920922-056-p2s15w32">
 <src.rf>manual</src.rf>
@@ -5267,17 +5246,7 @@
 <LM>w#w-mf920922-056-p2s25w14</LM>
 </w.rf>
 <form>scoutů</form>
-<tag>
-<AM lemma="scout_,t" src="orig">NNMP2-----A----</AM>
-<AM lemma="scout" src="auto">NNMP2-----A----</AM>
-<AM lemma="scout" src="auto">NNIP2-----A----</AM>
-<AM lemma="kout_^(př._dát_něco_do_scouta)" src="auto">NNIP2-----A----</AM>
-<AM lemma="scouty_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="scoutu_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="scout_,t" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="scout-1_^(pták)" src="auto">NNMP2-----A----</AM>
-<AM lemma="scouta" src="auto">NNMP2-----A----</AM>
-</tag>
+<tag lemma="scout_,t" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920922-056-p2s25w15">
 <src.rf>manual</src.rf>

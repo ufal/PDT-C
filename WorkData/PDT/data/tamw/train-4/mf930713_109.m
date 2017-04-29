@@ -19,19 +19,7 @@
 <LM>w#w-mf930713-109-p1s1w1</LM>
 </w.rf>
 <form>Poloanonymita</form>
-<tag>
-<AM lemma="poloanonymita" src="orig">NNFS1-----A----</AM>
-<AM lemma="Poloanonymita" src="auto">NNFS1-----A----</AM>
-<AM lemma="Poloanonymita" src="auto">NNMS1-----A----</AM>
-<AM lemma="Poloanonymita-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Poloanonymita_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Poloanonymita_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Poloanonymita_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Poloanonymito_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Poloanonymít" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="poloanonymita" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="poloanonymita" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="poloanonymita" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-109-p1s1w2">
 <src.rf>manual</src.rf>
@@ -1520,26 +1508,7 @@
 <LM>w#w-mf930713-109-p2s9w8</LM>
 </w.rf>
 <form>DAKTRONICS</form>
-<tag>
-<AM lemma="Daktronics_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Daktronics_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="CS-4_:B_;K_^(např._DAKTRONICS_Autolada)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="DAKTRONICS_:B_^(karta)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DAKTRONICS_:B_;K_,t" src="auto">NNXSX-----A----</AM>
-<AM lemma="DAKTRONICS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DAKTRONICS-3_:B_;K_,t_^(Credit_Suisse)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="DAKTRONICS-1_:B_;R_,t_^(Airborne_Warning-and_Control_System)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="DAKTRONICS-1_:B_;G_^(mez._zkr._Československa)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Daktronics_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Daktronic_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Daktronic_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Daktronics_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Daktronics_;m" src="auto">NNXXX-----A----</AM>
-<AM lemma="Daktronics_;R" src="auto">NNFXX-----A----</AM>
-<AM lemma="Daktronics_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Daktronics_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="daktronics" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Daktronics_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-109-p2s9w9">
 <src.rf>manual</src.rf>

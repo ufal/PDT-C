@@ -69,17 +69,7 @@
 <LM>w#w-mf920922-002-p2s1w4</LM>
 </w.rf>
 <form>tnt</form>
-<tag>
-<AM lemma="tnt-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="tnt-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="tnt" src="auto">NNIS1-----A----</AM>
-<AM lemma="tnt" src="auto">NNMS1-----A----</AM>
-<AM lemma="tnt" src="auto">NNIS4-----A----</AM>
-<AM lemma="tnt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tnta" src="auto">NNFP2-----A----</AM>
-<AM lemma="tnt_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="tnt_,t" src="auto">NNIXX-----A----</AM>
-</tag>
+<tag lemma="tnt-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920922-002-p2s1w5">
 <src.rf>manual</src.rf>
@@ -241,18 +231,7 @@
 <LM>w#w-mf920922-002-p2s2w18</LM>
 </w.rf>
 <form>Precenicco</form>
-<tag>
-<AM lemma="Precenicco_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Precenicco_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Precenicco_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Precenicco_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Precenicco_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Precenicco_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Precenicco_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Precenicco" src="auto">PZ--4----------</AM>
-<AM lemma="Precenicco" src="auto">PZ--1----------</AM>
-<AM lemma="precenicco" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Precenicco_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920922-002-p2s2w19">
 <src.rf>manual</src.rf>
@@ -1116,18 +1095,7 @@
 <LM>w#w-mf920922-002-p2s9w8</LM>
 </w.rf>
 <form>Precenicco</form>
-<tag>
-<AM lemma="Precenicco_;G" src="orig">NNNS4-----A----</AM>
-<AM lemma="Precenicco_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Precenicco_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Precenicco_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Precenicco_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Precenicco_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Precenicco_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Precenicco" src="auto">PZ--4----------</AM>
-<AM lemma="Precenicco" src="auto">PZ--1----------</AM>
-<AM lemma="precenicco" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Precenicco_;G" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920922-002-p2s9w9">
 <src.rf>manual</src.rf>

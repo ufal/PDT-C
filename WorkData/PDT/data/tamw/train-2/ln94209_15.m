@@ -283,18 +283,7 @@
 <LM>w#w-ln94209-15-p2s3w5</LM>
 </w.rf>
 <form>Pennacchini</form>
-<tag>
-<AM lemma="Pennacchini_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pennacchini_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pennacchini_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Pennacchin" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Pennacchin" src="auto">NNMP1-----A----</AM>
-<AM lemma="Pennacchini_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pennacchini_;K_^(nakladatelství)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pennacchini_,h_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pennacchini-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pennacchini" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pennacchini_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-15-p2s3w6">
 <src.rf>manual</src.rf>
@@ -458,18 +447,7 @@
 <LM>w#w-ln94209-15-p2s5w1</LM>
 </w.rf>
 <form>Pennacchini</form>
-<tag>
-<AM lemma="Pennacchini_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pennacchini_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pennacchini_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Pennacchin" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Pennacchin" src="auto">NNMP1-----A----</AM>
-<AM lemma="Pennacchini_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pennacchini_;K_^(nakladatelství)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pennacchini_,h_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pennacchini-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pennacchini" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pennacchini_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-15-p2s5w2">
 <src.rf>manual</src.rf>
@@ -759,18 +737,7 @@
 <LM>w#w-ln94209-15-p2s6w6</LM>
 </w.rf>
 <form>Pennacchini</form>
-<tag>
-<AM lemma="Pennacchini_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pennacchini_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pennacchini_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Pennacchin" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Pennacchin" src="auto">NNMP1-----A----</AM>
-<AM lemma="Pennacchini_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pennacchini_;K_^(nakladatelství)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pennacchini_,h_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pennacchini-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pennacchini" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pennacchini_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-15-p2s6w7">
 <src.rf>manual</src.rf>

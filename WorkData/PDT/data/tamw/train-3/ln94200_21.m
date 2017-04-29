@@ -135,15 +135,7 @@
 <LM>w#w-ln94200-21-p2s1Bw3</LM>
 </w.rf>
 <form>jpš</form>
-<tag>
-<AM lemma="jpš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jpš-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jpš_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jpš_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jpš" src="auto">NNIS1-----A----</AM>
-<AM lemma="jpš" src="auto">NNFS4-----A----</AM>
-<AM lemma="jpš" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="jpš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-21-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -607,21 +599,7 @@
 <LM>w#w-ln94200-21-p3s1w33</LM>
 </w.rf>
 <form>Agrofórum</form>
-<tag>
-<AM lemma="Agrofórum_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="Agrofór_,t" src="auto">AAMP2----1A----</AM>
-<AM lemma="Agrofórum" src="auto">NNNS1-----A----</AM>
-<AM lemma="Agrofórum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Agrofórum_;m" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Agrofórum_;w_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="agrofór" src="auto">NNIP3-----A---6</AM>
-<AM lemma="agrofórum" src="auto">NNMS1-----A----</AM>
-<AM lemma="agrofórum" src="auto">NNNP3-----A---6</AM>
-<AM lemma="agrofórum" src="auto">NNNS1-----A----</AM>
-<AM lemma="agrofórum" src="auto">NNNS4-----A----</AM>
-<AM lemma="agrofórum" src="auto">NNNS5-----A----</AM>
-<AM lemma="res_;R_,t_^(De_Agrofórum_natura)" src="auto">NNIP2-----A----</AM>
-</tag>
+<tag lemma="Agrofórum_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94200-21-p3s1w34">
 <src.rf>manual</src.rf>

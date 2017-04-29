@@ -77,21 +77,7 @@
 <LM>w#w-lnd94103-071-p1s2w3</LM>
 </w.rf>
 <form>ip</form>
-<tag>
-<AM lemma="ip-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ip" src="auto">NNIS1-----A----</AM>
-<AM lemma="ip" src="auto">NNIS4-----A----</AM>
-<AM lemma="ip-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ip_;K" src="auto" recommended="1">NNISX-----A----</AM>
-<AM lemma="ip_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ip_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ip_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="ip_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ip_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="ipage_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="ipodnik_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ipopisný_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="ip-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-071-p1s2w4">
 <src.rf>manual</src.rf>
@@ -1982,18 +1968,7 @@
 <LM>w#w-lnd94103-071-p1s19w5</LM>
 </w.rf>
 <form>Coopers</form>
-<tag>
-<AM lemma="Coopers_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Coopers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cooper_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Coopers_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Cooper_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Cooper_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Coopers_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Coopers_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Coopers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="coopers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Coopers_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-071-p1s19w6">
 <src.rf>manual</src.rf>
@@ -2009,18 +1984,7 @@
 <LM>w#w-lnd94103-071-p1s19w7</LM>
 </w.rf>
 <form>Lybrand</form>
-<tag>
-<AM lemma="Lybrand_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Lybrand_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Lybrand_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lybrand_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lybrand_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lybranda_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Lybrand_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Lybrand_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lybrando" src="auto">NNNP2-----A----</AM>
-<AM lemma="lybrand" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lybrand_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-071-p1s19w8">
 <src.rf>manual</src.rf>

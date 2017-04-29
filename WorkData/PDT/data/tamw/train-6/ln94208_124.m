@@ -895,18 +895,7 @@
 <LM>w#w-ln94208-124-p3s2w5</LM>
 </w.rf>
 <form>Bisconti</form>
-<tag>
-<AM lemma="Bisconti_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Biscont" src="auto">NNMP1-----A----</AM>
-<AM lemma="Biscont_,a_,t_^(člen_rady_starších_ve_starověké_Spartě)" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Biscont-2_,s_^(potulný_student)" src="auto">NNMP1-----A----</AM>
-<AM lemma="Biscont" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Bisconti_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bisconti_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Bisconti_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Bisconti" src="auto">TT-------------</AM>
-<AM lemma="bisconti" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bisconti_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-124-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1013,18 +1002,7 @@
 <LM>w#w-ln94208-124-p3s2w18</LM>
 </w.rf>
 <form>Kašimy</form>
-<tag>
-<AM lemma="Kašima_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Kašima_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Kašimum" src="auto">NNNP7-----A----</AM>
-<AM lemma="Kašima_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kašima-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kašima-1" src="auto">NNFS2-----A----</AM>
-<AM lemma="Kašima-1" src="auto">NNFP1-----A----</AM>
-<AM lemma="Kašima" src="auto">NNFS2-----A----</AM>
-<AM lemma="Kašim" src="auto">NNMP7-----A----</AM>
-<AM lemma="kašimy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kašima_;G" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-124-p3s2w19">
 <src.rf>manual</src.rf>
@@ -1202,18 +1180,7 @@
 <LM>w#w-ln94208-124-p3s3w8</LM>
 </w.rf>
 <form>Flugels</form>
-<tag>
-<AM lemma="Flugels_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Flugels_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Flugel_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Flugel_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Flugel_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Flugel_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Flugels_;m_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Flugels_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Flugels_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="flugels" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Flugels_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94208-124-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1667,26 +1634,7 @@
 <LM>w#w-ln94208-124-p4s3w6</LM>
 </w.rf>
 <form>TSV</form>
-<tag>
-<AM lemma="TSV_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="TSV_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="TSV_;K_^(sport._klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TSV_:B_;K_^(sport._klub)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TSV_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TSV_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TSV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TSV-3_:B_;K_^(Asociace_slovenských_vojáků)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="TSV-2_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Tsvazek_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Tsvatý-1_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Tsv_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tsv_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Tsv_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tsv" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tsva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tsv_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="tsv" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="TSV_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94208-124-p4s3w7">
 <src.rf>manual</src.rf>
@@ -2707,18 +2655,7 @@
 <LM>w#w-ln94208-124-p5s3w7</LM>
 </w.rf>
 <form>Míchel</form>
-<tag>
-<AM lemma="Míchel_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Míchel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Míchla" src="auto">NNFP2-----A----</AM>
-<AM lemma="Míchel" src="auto">NNIS1-----A----</AM>
-<AM lemma="Míchel_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Míchel" src="auto">NNIS4-----A----</AM>
-<AM lemma="Míchel_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Míchel_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Míchel" src="auto">NNMS1-----A----</AM>
-<AM lemma="míchel" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Míchel_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-124-p5s3w8">
 <src.rf>manual</src.rf>

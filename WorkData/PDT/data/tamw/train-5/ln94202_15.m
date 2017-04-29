@@ -2138,24 +2138,7 @@
 <LM>w#w-ln94202-15-p5s2w6</LM>
 </w.rf>
 <form>Soskina</form>
-<tag>
-<AM lemma="Soskin_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Soskin_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Soskin_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Soskin_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Soskina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Soskina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Soskina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Soskina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Soskina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="soskin" src="auto">NNMS2-----A----</AM>
-<AM lemma="soskin" src="auto">NNMS4-----A----</AM>
-<AM lemma="soskina" src="auto">NNMS1-----A----</AM>
-<AM lemma="soskino" src="auto">NNNP1-----A----</AM>
-<AM lemma="soskino" src="auto">NNNP4-----A----</AM>
-<AM lemma="soskino" src="auto">NNNP5-----A----</AM>
-<AM lemma="soskino" src="auto">NNNS2-----A----</AM>
-</tag>
+<tag lemma="Soskin_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-15-p5s2w7">
 <src.rf>manual</src.rf>
@@ -3892,18 +3875,7 @@
 <LM>w#w-ln94202-15-p9s3w6</LM>
 </w.rf>
 <form>Electronic</form>
-<tag>
-<AM lemma="Electronic_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Electronice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Electronice_^(*3ík)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Electronice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Electronic_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Electronic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Electronic" src="auto">Db-------------</AM>
-<AM lemma="Electronice_;G_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="Electronice-2_^(místo_výkonu_služby)" src="auto">NNFP2-----A----</AM>
-<AM lemma="electronic" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Electronic_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-15-p9s3w7">
 <src.rf>manual</src.rf>

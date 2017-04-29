@@ -35,17 +35,7 @@
 <LM>w#w-ln95045-011-p1s1w3</LM>
 </w.rf>
 <form>Moogovi</form>
-<tag>
-<AM lemma="Moog_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Moog_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Moog" src="auto">NNMS3-----A----</AM>
-<AM lemma="Moog_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Mooga_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Moog_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Moog" src="auto">NNMS6-----A----</AM>
-<AM lemma="Moogův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="moogovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Moog_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95045-011-p1s1w4">
 <src.rf>manual</src.rf>
@@ -1245,18 +1235,7 @@
 <LM>w#w-ln95045-011-p3s3w14</LM>
 </w.rf>
 <form>Turgeona</form>
-<tag>
-<AM lemma="Turgeon_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Turgeon_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Turgeon_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Turgeona" src="auto">NNFS1-----A----</AM>
-<AM lemma="Turgeon_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Turgeon" src="auto">NNMS2-----A----</AM>
-<AM lemma="Turgeona_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Turgeona_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Turgeona_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="turgeona" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Turgeon_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-011-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1564,18 +1543,7 @@
 <LM>w#w-ln95045-011-p4s1w12</LM>
 </w.rf>
 <form>Moog</form>
-<tag>
-<AM lemma="Moog_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Moog_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Moog" src="auto">NNMS1-----A----</AM>
-<AM lemma="Moog" src="auto">NNIS4-----A----</AM>
-<AM lemma="Moog" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mooga" src="auto">NNFP2-----A----</AM>
-<AM lemma="Moog_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Moog_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Moog_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="moog" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Moog_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-011-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1787,18 +1755,7 @@
 <LM>w#w-ln95045-011-p4s2w10</LM>
 </w.rf>
 <form>Moog</form>
-<tag>
-<AM lemma="Moog_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Moog_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Moog" src="auto">NNMS1-----A----</AM>
-<AM lemma="Moog" src="auto">NNIS4-----A----</AM>
-<AM lemma="Moog" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mooga" src="auto">NNFP2-----A----</AM>
-<AM lemma="Moog_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Moog_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Moog_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="moog" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Moog_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-011-p4s2w11">
 <src.rf>manual</src.rf>

@@ -523,18 +523,7 @@
 <LM>w#w-ln95048-113-p2s3w14</LM>
 </w.rf>
 <form>Gojty</form>
-<tag>
-<AM lemma="Gojta_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Gojta_;S_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gojta_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Gojt" src="auto">NNMP4-----A----</AM>
-<AM lemma="Gojta" src="auto">NNFS2-----A----</AM>
-<AM lemma="Gojt" src="auto">NNIP1-----A----</AM>
-<AM lemma="Gojt" src="auto">NNIP4-----A----</AM>
-<AM lemma="Gojt" src="auto">NNIP7-----A----</AM>
-<AM lemma="Gojta" src="auto">NNFP1-----A----</AM>
-<AM lemma="gojty" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gojta_;G" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-113-p2s3w15">
 <src.rf>manual</src.rf>
@@ -736,16 +725,7 @@
 <LM>w#w-ln95048-113-p2s4w7</LM>
 </w.rf>
 <form>Šali</form>
-<tag>
-<AM lemma="Šali_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Šat_:T" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Šat_:W" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Šat_:T_:W" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Šat" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Šat_:T_^(*4at)" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Šat_:T_^(*3t)" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="šali" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Šali_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95048-113-p2s4w8">
 <src.rf>manual</src.rf>
@@ -2045,18 +2025,7 @@
 <LM>w#w-ln95048-113-p4s2w16</LM>
 </w.rf>
 <form>Iskenderem</form>
-<tag>
-<AM lemma="Iskender_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Iskender" src="auto">NNIS7-----A----</AM>
-<AM lemma="Iskender" src="auto">NNMS7-----A----</AM>
-<AM lemma="Iskender_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Iskender_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Iskendero" src="auto">NNNS7-----A----</AM>
-<AM lemma="Iskender_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Iskenderma" src="auto">NNFP2-----A----</AM>
-<AM lemma="Iskendere_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="iskenderem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Iskender_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95048-113-p4s2w17">
 <src.rf>manual</src.rf>
@@ -2064,18 +2033,7 @@
 <LM>w#w-ln95048-113-p4s2w17</LM>
 </w.rf>
 <form>Gamidovem</form>
-<tag>
-<AM lemma="Gamidov_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Gamidov" src="auto">NNIS7-----A----</AM>
-<AM lemma="Gamidovo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Gamidov_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Gamidov_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Gamidov_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Gamidov-1_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Gamidovum" src="auto">NNNS7-----A----</AM>
-<AM lemma="Gamidovo_;G" src="auto">NNNS7-----A----</AM>
-<AM lemma="gamidovem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gamidov_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95048-113-p4s2w18">
 <src.rf>manual</src.rf>

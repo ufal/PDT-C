@@ -499,18 +499,7 @@
 <LM>w#w-ln95047-055-p2s2w26</LM>
 </w.rf>
 <form>Britovšeka</form>
-<tag>
-<AM lemma="Britovšek_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Britovšek_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Britovšeka_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Britovšek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Britovšeka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Britovšeko-2" src="auto">NNNS2-----A----</AM>
-<AM lemma="Britovšek_;G" src="auto">NNIS2-----A---1</AM>
-<AM lemma="Britovšeka" src="auto">Db-------------</AM>
-<AM lemma="Britovšeka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="britovšeka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Britovšek_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-055-p2s2w27">
 <src.rf>manual</src.rf>

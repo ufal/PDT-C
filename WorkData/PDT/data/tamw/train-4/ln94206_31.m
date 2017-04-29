@@ -617,18 +617,7 @@
 <LM>w#w-ln94206-31-p2s4w9</LM>
 </w.rf>
 <form>Road</form>
-<tag>
-<AM lemma="Road_;G_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Road_;G_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Road_;G_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Road_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Road_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Road" src="auto">NNIS1-----A----</AM>
-<AM lemma="Road" src="auto">NNIS4-----A----</AM>
-<AM lemma="Roada" src="auto">NNFP2-----A----</AM>
-<AM lemma="Road_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="road" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Road_;G_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94206-31-p2s4w10">
 <src.rf>manual</src.rf>

@@ -151,18 +151,7 @@
 <LM>w#w-ln95048-110-p2s1Bw10</LM>
 </w.rf>
 <form>Chun</form>
-<tag>
-<AM lemma="Chun_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Chun_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chuna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Chun_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chun" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chun" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chun" src="auto">NNIS4-----A----</AM>
-<AM lemma="Chun_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chun_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="chun" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chun_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln95048-110-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -170,26 +159,7 @@
 <LM>w#w-ln95048-110-p2s1Bw11</LM>
 </w.rf>
 <form>Sa</form>
-<tag>
-<AM lemma="Sa_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="S" src="auto">NNMS2-----A----</AM>
-<AM lemma="S" src="auto">NNMS4-----A----</AM>
-<AM lemma="S_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="S_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sa_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="sa" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="sa-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="sa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="sa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="sakciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="so" src="auto">NNNP4-----A----</AM>
-<AM lemma="so" src="auto">NNNS2-----A----</AM>
-<AM lemma="so_;S" src="auto">NNMS2-----A----</AM>
-</tag>
+<tag lemma="Sa_;S" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln95048-110-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -325,18 +295,7 @@
 <LM>w#w-ln95048-110-p2s2w1</LM>
 </w.rf>
 <form>Chun</form>
-<tag>
-<AM lemma="Chun_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Chun_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chuna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Chun_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chun" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chun" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chun" src="auto">NNIS4-----A----</AM>
-<AM lemma="Chun_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chun_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="chun" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chun_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln95048-110-p2s2w2">
 <src.rf>manual</src.rf>
@@ -344,26 +303,7 @@
 <LM>w#w-ln95048-110-p2s2w2</LM>
 </w.rf>
 <form>Sa</form>
-<tag>
-<AM lemma="Sa_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="S" src="auto">NNMS2-----A----</AM>
-<AM lemma="S" src="auto">NNMS4-----A----</AM>
-<AM lemma="S_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="S_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sa_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="sa" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="sa-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="sa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="sa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="sakciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="so" src="auto">NNNP4-----A----</AM>
-<AM lemma="so" src="auto">NNNS2-----A----</AM>
-<AM lemma="so_;S" src="auto">NNMS2-----A----</AM>
-</tag>
+<tag lemma="Sa_;S" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln95048-110-p2s2w3">
 <src.rf>manual</src.rf>
@@ -615,18 +555,7 @@
 <LM>w#w-ln95048-110-p2s4w5</LM>
 </w.rf>
 <form>Chun</form>
-<tag>
-<AM lemma="Chun_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Chun_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chuna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Chun_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chun" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chun" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chun" src="auto">NNIS4-----A----</AM>
-<AM lemma="Chun_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chun_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="chun" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chun_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln95048-110-p2s4w6">
 <src.rf>manual</src.rf>
@@ -634,26 +563,7 @@
 <LM>w#w-ln95048-110-p2s4w6</LM>
 </w.rf>
 <form>Sa</form>
-<tag>
-<AM lemma="Sa_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="S" src="auto">NNMS2-----A----</AM>
-<AM lemma="S" src="auto">NNMS4-----A----</AM>
-<AM lemma="S_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="S_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sa_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="sa" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="sa-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="sa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="sa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="sakciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="so" src="auto">NNNP4-----A----</AM>
-<AM lemma="so" src="auto">NNNS2-----A----</AM>
-<AM lemma="so_;S" src="auto">NNMS2-----A----</AM>
-</tag>
+<tag lemma="Sa_;S" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln95048-110-p2s4w7">
 <src.rf>manual</src.rf>
@@ -1045,18 +955,7 @@
 <LM>w#w-ln95048-110-p2s6w15</LM>
 </w.rf>
 <form>Šansku</form>
-<tag>
-<AM lemma="Šansko_;G" src="orig">NNNS6-----A----</AM>
-<AM lemma="Šansko_;G" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="Šansko_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Šansk" src="auto">NNIS2-----A----</AM>
-<AM lemma="Šansko" src="auto">NNNS6-----A----</AM>
-<AM lemma="Šanska" src="auto">NNFS4-----A----</AM>
-<AM lemma="Šansk" src="auto">NNIS6-----A----</AM>
-<AM lemma="Šansk_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Šansko" src="auto">NNNS3-----A----</AM>
-<AM lemma="šansku" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Šansko_;G" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95048-110-p2s6w16">
 <src.rf>manual</src.rf>

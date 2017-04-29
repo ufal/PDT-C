@@ -35,18 +35,7 @@
 <LM>w#w-ln94203-21-p1s1w3</LM>
 </w.rf>
 <form>Saddam</form>
-<tag>
-<AM lemma="Saddam_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Saddam" src="auto">NNIS1-----A----</AM>
-<AM lemma="Saddam_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Saddam_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Saddam_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Saddam_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sadodam_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sadodam_;G_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="saddam" src="auto">NNMS1-----A----</AM>
-<AM lemma="saddáma" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="Saddam_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-21-p1s1w4">
 <src.rf>manual</src.rf>

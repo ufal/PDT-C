@@ -583,18 +583,7 @@
 <LM>w#w-mf930709-003-p4s1Bw4</LM>
 </w.rf>
 <form>Haska</form>
-<tag>
-<AM lemma="Hasek_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Hasko_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Haska" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hasko" src="auto">NNNS2-----A----</AM>
-<AM lemma="Hasko" src="auto">NNNP1-----A----</AM>
-<AM lemma="Haska_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hasko" src="auto">NNNP4-----A----</AM>
-<AM lemma="Hasek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Hasek_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="haska" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hasek_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-003-p4s1Bw5">
 <src.rf>manual</src.rf>

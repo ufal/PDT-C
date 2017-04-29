@@ -193,18 +193,7 @@
 <LM>w#w-mf920925-104-p2s2w5</LM>
 </w.rf>
 <form>Sismi</form>
-<tag>
-<AM lemma="Sismi_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Sism`8" src="auto">Cn-P7----------</AM>
-<AM lemma="Sism`8" src="auto">Cn-P6----------</AM>
-<AM lemma="Sism`8" src="auto" recommended="1">Cn-P3----------</AM>
-<AM lemma="Sism`8" src="auto">Cn-P2----------</AM>
-<AM lemma="Sism`8" src="auto">A2--------A----</AM>
-<AM lemma="Sis" src="auto">NNFP7-----A----</AM>
-<AM lemma="Sis" src="auto">AAIP7----1A----</AM>
-<AM lemma="Sis" src="auto">AAFP7----1A----</AM>
-<AM lemma="sismi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sismi_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920925-104-p2s2w6">
 <src.rf>manual</src.rf>
@@ -377,18 +366,7 @@
 <LM>w#w-mf920925-104-p2s2w26</LM>
 </w.rf>
 <form>Messaggero</form>
-<tag>
-<AM lemma="Messaggero_;R_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Messaggero" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Messaggero_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Messaggero_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Messaggero_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Messaggero" src="auto">NNNS4-----A----</AM>
-<AM lemma="Messaggero_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Messaggero_;R_^(Mitsubishi_P.,_terénní_vozidlo)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Messaggero_;K_^(letecká_továrna)" src="auto">NNNS4-----A----</AM>
-<AM lemma="messaggero" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Messaggero_;R_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920925-104-p2s2w27">
 <src.rf>manual</src.rf>
@@ -769,18 +747,7 @@
 <LM>w#w-mf920925-104-p3s2w3</LM>
 </w.rf>
 <form>Messaggera</form>
-<tag>
-<AM lemma="Messaggero_;R_,t" src="orig">NNNS2-----A----</AM>
-<AM lemma="Messagger_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Messagger_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Messaggera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Messagger" src="auto">NNMS4-----A----</AM>
-<AM lemma="Messagger" src="auto">NNMS2-----A----</AM>
-<AM lemma="Messaggera" src="auto">NNFS1-----A----</AM>
-<AM lemma="Messagger_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Messaggero" src="auto">NNNS2-----A----</AM>
-<AM lemma="messaggera" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Messaggero_;R_,t" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920925-104-p3s2w4">
 <src.rf>manual</src.rf>

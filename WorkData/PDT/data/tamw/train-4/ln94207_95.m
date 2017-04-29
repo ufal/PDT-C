@@ -2537,17 +2537,7 @@
 <LM>w#w-ln94207-95-p4s5w18</LM>
 </w.rf>
 <form>peruánskobrazilské</form>
-<tag>
-<AM lemma="peruánskobrazilský" src="orig">AAFS2----1A----</AM>
-<AM lemma="peruánskobrazilský" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="peruánskobrazilský" src="auto">AAFS6----1A----</AM>
-<AM lemma="peruánskobrazilský" src="auto">AANS1----1A----</AM>
-<AM lemma="peruánskobrazilský" src="auto">AAFP1----1A----</AM>
-<AM lemma="peruánskobrazilský" src="auto">AAIP1----1A----</AM>
-<AM lemma="peruánskobrazilský" src="auto">AANS4----1A----</AM>
-<AM lemma="peruánskobrazilský" src="auto">AAFP4----1A----</AM>
-<AM lemma="peruánskobrazilský" src="auto">AAFS3----1A----</AM>
-</tag>
+<tag lemma="peruánskobrazilský" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94207-95-p4s5w19">
 <src.rf>manual</src.rf>
@@ -3486,17 +3476,7 @@
 <LM>w#w-ln94207-95-p5s6w19</LM>
 </w.rf>
 <form>podvyživenců</form>
-<tag>
-<AM lemma="podvyživenec" src="orig">NNMP2-----A----</AM>
-<AM lemma="podvyživenec" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="podvyživenec_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="podvyživenec" src="auto">NNIP2-----A----</AM>
-<AM lemma="podvyživence" src="auto">NNMP2-----A----</AM>
-<AM lemma="obrněnec-1_^(podvyživený_vůz)" src="auto">NNIP2-----A----</AM>
-<AM lemma="podvyživence_;G" src="auto">NNIP2-----A---1</AM>
-<AM lemma="podvyživence_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="podvyživenc" src="auto">NNMP2-----A----</AM>
-</tag>
+<tag lemma="podvyživenec" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94207-95-p5s6w20">
 <src.rf>manual</src.rf>
@@ -3512,16 +3492,7 @@
 <LM>w#w-ln94207-95-p5s6w21</LM>
 </w.rf>
 <form>baživců</form>
-<tag>
-<AM lemma="baživec" src="orig">NNMP2-----A----</AM>
-<AM lemma="baživec" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="baživce" src="auto">NNMP2-----A----</AM>
-<AM lemma="baživec" src="auto">NNIP2-----A----</AM>
-<AM lemma="vlasovec-2_^(voják_generála_baživa)" src="auto">NNMP2-----A----</AM>
-<AM lemma="baživec_;L_^(živočich)" src="auto">NNMP2-----A----</AM>
-<AM lemma="baživec_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="baživec_,e" src="auto">NNMP2-----A----</AM>
-</tag>
+<tag lemma="baživec" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94207-95-p5s6w22">
 <src.rf>manual</src.rf>

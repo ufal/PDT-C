@@ -1159,16 +1159,7 @@
 <LM>w#w-mf930713-044-p5s3w12</LM>
 </w.rf>
 <form>strong</form>
-<tag>
-<AM lemma="strong_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="strong_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="strong_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="strong_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="strong-2_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="strong" src="auto">NNIS1-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-strong)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Long-1_;G_,t_^(strong_Island_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
-</tag>
+<tag lemma="strong_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930713-044-p5s3w13">
 <src.rf>manual</src.rf>
@@ -8314,18 +8305,7 @@
 <LM>w#w-mf930713-044-p21s5w9</LM>
 </w.rf>
 <form>pay</form>
-<tag>
-<AM lemma="pay_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="pay-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="pay_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="pay_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="pay_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="pay_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pay_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pay_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="pej" src="auto">NNIS1-----A----</AM>
-<AM lemma="pej" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="pay_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf930713-044-p21s5w10">
 <src.rf>manual</src.rf>
@@ -9387,17 +9367,7 @@
 <LM>w#w-mf930713-044-p23s4w8</LM>
 </w.rf>
 <form>tého</form>
-<tag>
-<AM lemma="tý" src="orig">CrIS2----------</AM>
-<AM lemma="tý" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="tý" src="auto">AANS2----1A----</AM>
-<AM lemma="tý" src="auto">AAMS2----1A----</AM>
-<AM lemma="tý" src="auto">AAMS4----1A----</AM>
-<AM lemma="tý_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="tý_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="tý_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="tý_^(*3it)" src="auto">AAIS2----1A----</AM>
-</tag>
+<tag lemma="tý" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-mf930713-044-p23s4w9">
 <src.rf>manual</src.rf>

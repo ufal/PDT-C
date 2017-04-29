@@ -689,18 +689,7 @@
 <LM>w#w-ln94202-90-p3s3w5</LM>
 </w.rf>
 <form>Loaece</form>
-<tag>
-<AM lemma="Loaec_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Loaec_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Loaec_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Loaec" src="auto">NNFS2-----A----</AM>
-<AM lemma="Loaece" src="auto">Db-------------</AM>
-<AM lemma="Loaec" src="auto">NNFP4-----A----</AM>
-<AM lemma="Loaeka_;Y" src="auto">NNFS3-----A----</AM>
-<AM lemma="Loaeka" src="auto">NNFS6-----A----</AM>
-<AM lemma="Loaeka" src="auto">NNFS3-----A----</AM>
-<AM lemma="loaece" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Loaec_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-90-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1212,18 +1201,7 @@
 <LM>w#w-ln94202-90-p3s5w13</LM>
 </w.rf>
 <form>Victoire</form>
-<tag>
-<AM lemma="Victoire_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Victoire_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Victoire_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Victoire_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Victoire_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Victoire_;K_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Victoire_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Victoire_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Victoire_,t" src="auto">Vf--------A----</AM>
-<AM lemma="victoire" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Victoire_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-90-p3s5w14">
 <src.rf>manual</src.rf>
@@ -1407,17 +1385,7 @@
 <LM>w#w-ln94202-90-p3s5w36</LM>
 </w.rf>
 <form>musette</form>
-<tag>
-<AM lemma="musette_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="musette_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="musette_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="musette_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tutte_,t_^(jen_Cosi_fan_musette,_it.)" src="auto">PLFP1----------</AM>
-<AM lemma="musette_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="musette_;m" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="musette_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="musette_;R_,t" src="auto">NNFXX-----A----</AM>
-</tag>
+<tag lemma="musette_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-90-p3s5w37">
 <src.rf>manual</src.rf>
@@ -1881,17 +1849,7 @@
 <LM>w#w-ln94202-90-p3s7w14</LM>
 </w.rf>
 <form>musette</form>
-<tag>
-<AM lemma="musette_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="musette_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="musette_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="musette_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tutte_,t_^(jen_Cosi_fan_musette,_it.)" src="auto">PLFP1----------</AM>
-<AM lemma="musette_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="musette_;m" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="musette_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="musette_;R_,t" src="auto">NNFXX-----A----</AM>
-</tag>
+<tag lemma="musette_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-90-p3s7w15">
 <src.rf>manual</src.rf>
@@ -2656,18 +2614,7 @@
 <LM>w#w-ln94202-90-p4s5w4</LM>
 </w.rf>
 <form>Spilwut</form>
-<tag>
-<AM lemma="Spilwut_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Spilwut_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Spilwut_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Spilwut" src="auto">Vf--------A----</AM>
-<AM lemma="Spilwout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Spilwout_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Spilwut_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Spilwut_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Spilwut" src="auto">NNIS4-----A----</AM>
-<AM lemma="spilwut" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Spilwut_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-90-p4s5w5">
 <src.rf>manual</src.rf>
@@ -2798,18 +2745,7 @@
 <LM>w#w-ln94202-90-p4s5w20</LM>
 </w.rf>
 <form>Hofgesindt</form>
-<tag>
-<AM lemma="Hofgesindt_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hofgesindt_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Hofgesindt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hofgesindt_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hofgesindt_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hofgesindt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Hofgesindt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Hofgesindt" src="auto">Vf--------A----</AM>
-<AM lemma="Hofgesindt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="hofgesindt" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hofgesindt_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-90-p4s5w21">
 <src.rf>manual</src.rf>

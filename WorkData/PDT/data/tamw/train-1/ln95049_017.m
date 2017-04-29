@@ -718,17 +718,7 @@
 <LM>w#w-ln95049-017-p2s4w10</LM>
 </w.rf>
 <form>slavoňovského</form>
-<tag>
-<AM lemma="slavoňovský" src="orig">AAIS2----1A----</AM>
-<AM lemma="slavoňovský" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="slavoňovský" src="auto">AANS2----1A----</AM>
-<AM lemma="slavoňovský" src="auto">AAMS2----1A----</AM>
-<AM lemma="slavoňovský" src="auto">AAMS4----1A----</AM>
-<AM lemma="slavoňovský_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="slavoňovský_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="slavoňovský_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="slavoňovský_^(*3it)" src="auto">AAIS2----1A----</AM>
-</tag>
+<tag lemma="slavoňovský" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln95049-017-p2s4w11">
 <src.rf>manual</src.rf>

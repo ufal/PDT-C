@@ -120,17 +120,7 @@
 <LM>w#w-ln95048-086-p2s1w5</LM>
 </w.rf>
 <form>Sanghi</form>
-<tag>
-<AM lemma="Sanghi_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Sanghi_;G" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Sanghi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sanghi_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Sanghi_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sangh_;R_,t" src="auto">NNIP1-----A----</AM>
-<AM lemma="Sanghi_;R" src="auto">NNNXX-----A----</AM>
-<AM lemma="Sanghi_;K_,t" src="auto">AAMP1----1A----</AM>
-<AM lemma="sanghi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sanghi_;G" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95048-086-p2s1w6">
 <src.rf>manual</src.rf>
@@ -208,22 +198,7 @@
 <LM>w#w-ln95048-086-p2s1w14</LM>
 </w.rf>
 <form>FIDE</form>
-<tag>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Fide_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Fide_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fide_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fide_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fide_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Fide_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fide_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fide_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="fide" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95048-086-p2s1w15">
 <src.rf>manual</src.rf>
@@ -688,22 +663,7 @@
 <LM>w#w-ln95048-086-p3s1w5</LM>
 </w.rf>
 <form>FIDE</form>
-<tag>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Fide_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Fide_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fide_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fide_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fide_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Fide_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fide_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fide_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="fide" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95048-086-p3s1w6">
 <src.rf>manual</src.rf>
@@ -850,22 +810,7 @@
 <LM>w#w-ln95048-086-p3s2w7</LM>
 </w.rf>
 <form>FIDE</form>
-<tag>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Fide_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Fide_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fide_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fide_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fide_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Fide_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fide_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fide_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="fide" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95048-086-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1561,22 +1506,7 @@
 <LM>w#w-ln95048-086-p4s1w3</LM>
 </w.rf>
 <form>FIDE</form>
-<tag>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Fide_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Fide_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fide_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fide_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fide_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Fide_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fide_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fide_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="fide" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95048-086-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1667,22 +1597,7 @@
 <LM>w#w-ln95048-086-p4s1w14</LM>
 </w.rf>
 <form>FIDE</form>
-<tag>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Fide_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Fide_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fide_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fide_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fide_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Fide_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fide_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fide_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="fide" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95048-086-p4s1w15">
 <src.rf>manual</src.rf>
@@ -2019,22 +1934,7 @@
 <LM>w#w-ln95048-086-p4s3w21</LM>
 </w.rf>
 <form>FIDE</form>
-<tag>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Fide_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Fide_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fide_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fide_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fide_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Fide_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fide_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fide_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="fide" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95048-086-p4s3w22">
 <src.rf>manual</src.rf>

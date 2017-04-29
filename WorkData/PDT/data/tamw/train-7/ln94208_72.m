@@ -93,16 +93,7 @@
 <LM>w#w-ln94208-72-p2s1w6</LM>
 </w.rf>
 <form>Tlingit</form>
-<tag>
-<AM lemma="Tlingit_;E" src="orig">NNIS1-----A----</AM>
-<AM lemma="Tlingit_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tlingit_;E" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Tlingit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Tlingit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Tlingita" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tlingit" src="auto">NNIS4-----A----</AM>
-<AM lemma="tlingit" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tlingit_;E" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-72-p2s1w7">
 <src.rf>manual</src.rf>

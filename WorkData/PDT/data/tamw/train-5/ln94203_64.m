@@ -247,18 +247,7 @@
 <LM>w#w-ln94203-64-p2s1Bw17</LM>
 </w.rf>
 <form>Ramle</form>
-<tag>
-<AM lemma="Ramle_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Ramle_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Raml" src="auto">NNMS2-----A----</AM>
-<AM lemma="Raml" src="auto">NNMS4-----A----</AM>
-<AM lemma="Raml" src="auto">NNMP4-----A----</AM>
-<AM lemma="Ramle_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Ramle_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ramla" src="auto">NNFS6-----A----</AM>
-<AM lemma="Ramle" src="auto">NNFS1-----A----</AM>
-<AM lemma="ramle" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ramle_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94203-64-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -479,18 +468,7 @@
 <LM>w#w-ln94203-64-p3s1w6</LM>
 </w.rf>
 <form>Gabi</form>
-<tag>
-<AM lemma="Gabi_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Gabe_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Gabi_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Gabi_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gabi_;K" src="auto">NNISX-----A----</AM>
-<AM lemma="Gabi_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Gabi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Combi_;R_,t_^(v_názvech_např._Škoda_Octavia_Gabi)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Gabe" src="auto">NNNS6-----A----</AM>
-<AM lemma="gabi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gabi_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94203-64-p3s1w7">
 <src.rf>manual</src.rf>
@@ -498,14 +476,7 @@
 <LM>w#w-ln94203-64-p3s1w7</LM>
 </w.rf>
 <form>Gazit</form>
-<tag>
-<AM lemma="Gazit_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gazit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Gazit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Gazita" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gazitum" src="auto">NNNP2-----A----</AM>
-<AM lemma="gazit" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gazit_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-64-p3s1w8">
 <src.rf>manual</src.rf>
@@ -657,17 +628,7 @@
 <LM>w#w-ln94203-64-p3s1w26</LM>
 </w.rf>
 <form>Atrašovi</form>
-<tag>
-<AM lemma="Atraš_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Atraš_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Atraš" src="auto">NNMS3-----A----</AM>
-<AM lemma="Atraš_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Atraša_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Atraš_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Atraš" src="auto">NNMS6-----A----</AM>
-<AM lemma="Atrašův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="atrašovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Atraš_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94203-64-p3s1w27">
 <src.rf>manual</src.rf>

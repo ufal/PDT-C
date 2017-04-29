@@ -127,18 +127,7 @@
 <LM>w#w-ln95048-160-p2s1Bw9</LM>
 </w.rf>
 <form>Streat</form>
-<tag>
-<AM lemma="Streat_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Streat_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Streat_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Streat_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Streat-2_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Streat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Streat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Streat_:T_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Streat_:T_^(*4at)" src="auto">Vf--------A----</AM>
-<AM lemma="streat" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Streat_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95048-160-p2s1Bw10">
 <src.rf>manual</src.rf>

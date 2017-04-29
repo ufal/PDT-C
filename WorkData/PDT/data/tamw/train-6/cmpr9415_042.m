@@ -697,17 +697,7 @@
 <LM>w#w-cmpr9415-042-p5s2w18</LM>
 </w.rf>
 <form>Stac</form>
-<tag>
-<AM lemma="Stac_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Stac_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Stac_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stac_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mac_;S_^(StacIntosh)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stac_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stac_;R_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Stac_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="stac" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stac_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-042-p5s2w19">
 <src.rf>manual</src.rf>
@@ -715,18 +705,7 @@
 <LM>w#w-cmpr9415-042-p5s2w19</LM>
 </w.rf>
 <form>Elektronics</form>
-<tag>
-<AM lemma="Elektronics_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Elektronics_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Elektronic_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Elektronic_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Elektronics_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Elektronics_;m" src="auto">NNXXX-----A----</AM>
-<AM lemma="Elektronics_;R" src="auto">NNFXX-----A----</AM>
-<AM lemma="Elektronics_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Elektronics_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="elektronics" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Elektronics_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-042-p5s2w20">
 <src.rf>manual</src.rf>
@@ -930,17 +909,7 @@
 <LM>w#w-cmpr9415-042-p7s1w11</LM>
 </w.rf>
 <form>Stac</form>
-<tag>
-<AM lemma="Stac_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Stac_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Stac_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stac_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mac_;S_^(StacIntosh)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stac_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stac_;R_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Stac_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="stac" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stac_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-042-p7s1w12">
 <src.rf>manual</src.rf>
@@ -1126,19 +1095,7 @@
 <LM>w#w-cmpr9415-042-p7s2w14</LM>
 </w.rf>
 <form>Space</form>
-<tag>
-<AM lemma="Space_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Space" src="auto">NNFP1-----A----</AM>
-<AM lemma="Space" src="auto">NNFP4-----A----</AM>
-<AM lemma="Space" src="auto">NNFS1-----A----</AM>
-<AM lemma="Space" src="auto">NNFS2-----A----</AM>
-<AM lemma="Space_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Space_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Space_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="spac-3_^(stará_drobná_mince)" src="auto">NNIS5-----A----</AM>
-<AM lemma="space" src="auto">NNMS1-----A----</AM>
-<AM lemma="space-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto">NNFXX-----A---8</AM>
-</tag>
+<tag lemma="Space_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-042-p7s2w15">
 <src.rf>manual</src.rf>
@@ -1244,17 +1201,7 @@
 <LM>w#w-cmpr9415-042-p8s1w4</LM>
 </w.rf>
 <form>Stac</form>
-<tag>
-<AM lemma="Stac_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Stac_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Stac_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stac_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mac_;S_^(StacIntosh)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stac_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stac_;R_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Stac_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="stac" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stac_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-042-p8s1w5">
 <src.rf>manual</src.rf>

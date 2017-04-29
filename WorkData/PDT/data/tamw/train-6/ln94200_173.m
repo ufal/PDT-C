@@ -4282,17 +4282,7 @@
 <LM>w#w-ln94200-173-p5s3w23</LM>
 </w.rf>
 <form>Popaula</form>
-<tag>
-<AM lemma="Popaul_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Popaout" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Popaula_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Popaula" src="auto">NNFS1-----A----</AM>
-<AM lemma="Popaul_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Popaula_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Popaula_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Popaula_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="popaula" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Popaul_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-173-p5s3w24">
 <src.rf>manual</src.rf>

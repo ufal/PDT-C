@@ -141,17 +141,7 @@
 <LM>w#w-ln94205-93-p2s1Aw11</LM>
 </w.rf>
 <form>gastoenterologické</form>
-<tag>
-<AM lemma="gastroentrologický" src="orig">AANS1----1A----</AM>
-<AM lemma="gastoenterologický" src="auto">AAFS2----1A----</AM>
-<AM lemma="gastoenterologický" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="gastoenterologický" src="auto">AAFS6----1A----</AM>
-<AM lemma="gastoenterologický" src="auto">AAFP1----1A----</AM>
-<AM lemma="gastoenterologický" src="auto">AAIP1----1A----</AM>
-<AM lemma="gastoenterologický" src="auto">AAIP4----1A----</AM>
-<AM lemma="gastoenterologický" src="auto">AAFP4----1A----</AM>
-<AM lemma="gastoenterologický" src="auto">AANS4----1A----</AM>
-</tag>
+<tag lemma="gastroentrologický" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln94205-93-p2s1Aw12">
 <src.rf>manual</src.rf>

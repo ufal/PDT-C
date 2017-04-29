@@ -491,18 +491,7 @@
 <LM>w#w-ln94203-105-p2s3w4</LM>
 </w.rf>
 <form>Lalas</form>
-<tag>
-<AM lemma="Lalas_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lalas" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lalas_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lalas" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lalas_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lalaso" src="auto">NNNP2-----A----</AM>
-<AM lemma="Lalas_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lalas_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lalas_,t_^(člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="lalas" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lalas_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-105-p2s3w5">
 <src.rf>manual</src.rf>

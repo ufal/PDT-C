@@ -613,18 +613,7 @@
 <LM>w#w-ln94200-74-p4s1w12</LM>
 </w.rf>
 <form>Bohemiacon</form>
-<tag>
-<AM lemma="Bohemiacon_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Bohemiacon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bohemiacon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Silicon_;G_,t_^(Bohemiacon_Valley)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bohemiacon_;m" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Bohemiacon_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bohemiacon_,t" src="auto">RR--X----------</AM>
-<AM lemma="Bohemiacon-2_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bohemiacon-2_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="bohemiacon" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bohemiacon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-74-p4s1w13">
 <src.rf>manual</src.rf>

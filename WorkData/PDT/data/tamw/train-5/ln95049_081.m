@@ -531,18 +531,7 @@
 <LM>w#w-ln95049-081-p2s3w7</LM>
 </w.rf>
 <form>Mayhew</form>
-<tag>
-<AM lemma="Mayhew_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mayhew_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mayhew_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mayhew" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mayhew_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mayhew_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mayhew_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Mayhew-2_;m_,t_^(angl._nový,_souč._ost._názvů)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mayhew-2_,t_^(angl._nový)" src="auto">AAXXX----1A----</AM>
-<AM lemma="mayhew" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mayhew_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-081-p2s3w8">
 <src.rf>manual</src.rf>

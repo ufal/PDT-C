@@ -390,17 +390,7 @@
 <LM>w#w-ln94200-27-p3s1w11</LM>
 </w.rf>
 <form>Waterhouse</form>
-<tag>
-<AM lemma="Waterhouse_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Waterhous_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Waterhous" src="auto">NNIS6-----A----</AM>
-<AM lemma="Waterhous_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Waterhous_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Waterhouse_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Waterhouse_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Waterhouse" src="auto">NNFP1-----A----</AM>
-<AM lemma="waterhouse" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Waterhouse_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-27-p3s1w12">
 <src.rf>manual</src.rf>

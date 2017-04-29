@@ -941,23 +941,7 @@
 <LM>w#w-ln94211-108-p3s2w10</LM>
 </w.rf>
 <form>WUK</form>
-<tag>
-<AM lemma="WUK_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="WUK_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="WUK-3_:B_;K_^(Univerzita_Komenského_Bratislava)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="WUK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="WUK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="WUK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="WUK_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="WUK_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Wuk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wuk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wuk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Wuk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wuk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wuka" src="auto">NNFP2-----A----</AM>
-<AM lemma="wuk" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="WUK_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94211-108-p3s2w11">
 <src.rf>manual</src.rf>
@@ -973,17 +957,7 @@
 <LM>w#w-ln94211-108-p3s2w12</LM>
 </w.rf>
 <form>Werkstätten</form>
-<tag>
-<AM lemma="Werkstätten_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Werkstätten_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Werkstätíst" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Werkstättný" src="auto">ACYS------A----</AM>
-<AM lemma="Werkstätten" src="auto" recommended="1">PDYS1----------</AM>
-<AM lemma="Werkstätten" src="auto">NNIS4-----A----</AM>
-<AM lemma="Werkstättno" src="auto">NNNP2-----A----</AM>
-<AM lemma="Werkstättna" src="auto">NNFP2-----A----</AM>
-<AM lemma="werkstätten" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Werkstätten_;K_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94211-108-p3s2w13">
 <src.rf>manual</src.rf>
@@ -999,17 +973,7 @@
 <LM>w#w-ln94211-108-p3s2w14</LM>
 </w.rf>
 <form>und</form>
-<tag>
-<AM lemma="und_;K_,t" src="orig">J^-------------</AM>
-<AM lemma="und_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="und_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="und_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="und_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="und" src="auto">NNIS4-----A----</AM>
-<AM lemma="unda" src="auto">NNFP2-----A----</AM>
-<AM lemma="und_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="und_;S_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="und_;K_,t" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94211-108-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1017,18 +981,7 @@
 <LM>w#w-ln94211-108-p3s2w15</LM>
 </w.rf>
 <form>Kulturhaus</form>
-<tag>
-<AM lemma="Kulturhaus_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Kulturhaus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kulturhaus_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kulturhaus_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kulturhaus_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Kulturhaus_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kulturhaus_,t" src="auto">Db-------------</AM>
-<AM lemma="Kulturhaus" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kulturhaus" src="auto">NNIS4-----A----</AM>
-<AM lemma="kulturhaus" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kulturhaus_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94211-108-p3s2w16">
 <src.rf>manual</src.rf>

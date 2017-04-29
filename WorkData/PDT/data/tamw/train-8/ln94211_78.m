@@ -618,18 +618,7 @@
 <LM>w#w-ln94211-78-p2s3w20</LM>
 </w.rf>
 <form>Schrager</form>
-<tag>
-<AM lemma="Schrager_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Schrager_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Schrager_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schrager_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Schražer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schrager_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Schrager_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Schrager_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schrager_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="schrager" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Schrager_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-78-p2s3w21">
 <src.rf>manual</src.rf>
@@ -719,15 +708,7 @@
 <LM>w#w-ln94211-78-p2s4w10</LM>
 </w.rf>
 <form>Cédrase</form>
-<tag>
-<AM lemma="Cédras_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Cédras_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Cédras_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cédras" src="auto">NNIS6-----A----</AM>
-<AM lemma="Cédrasa" src="auto">NNFS6-----A----</AM>
-<AM lemma="Cédrase_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="cédrase" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cédras_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94211-78-p2s4w11">
 <src.rf>manual</src.rf>

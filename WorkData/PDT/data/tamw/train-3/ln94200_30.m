@@ -3415,14 +3415,7 @@
 <LM>w#w-ln94200-30-p10s2w17</LM>
 </w.rf>
 <form>NISHO</form>
-<tag>
-<AM lemma="Nisho_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Nisho_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Nis" src="auto">AAIS2----1A----</AM>
-<AM lemma="Nis" src="auto">AANS2----1A----</AM>
-<AM lemma="Nis_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="nisho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nisho_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94200-30-p10s2w18">
 <src.rf>manual</src.rf>
@@ -3430,22 +3423,7 @@
 <LM>w#w-ln94200-30-p10s2w18</LM>
 </w.rf>
 <form>IWAI</form>
-<tag>
-<AM lemma="Iwai_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Iwai_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="IWAI_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IWAI_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IWAI_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Iwai_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Iwai_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Iwai_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Iwai_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Iwai_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Iwai_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Iwai_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Iwai_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="iwai" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Iwai_;K_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-30-p10s2w19">
 <src.rf>manual</src.rf>

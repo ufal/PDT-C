@@ -351,15 +351,7 @@
 <LM>w#w-ln94207-101-p2s1w30</LM>
 </w.rf>
 <form>Fairytales</form>
-<tag>
-<AM lemma="Fairytales_;m_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Fairytales_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fairytales" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fairytales" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fairytale_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Fairytaleso" src="auto">NNNP2-----A----</AM>
-<AM lemma="fairytales" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fairytales_;m_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94207-101-p2s1w31">
 <src.rf>manual</src.rf>
@@ -375,18 +367,7 @@
 <LM>w#w-ln94207-101-p2s1w32</LM>
 </w.rf>
 <form>Slavery</form>
-<tag>
-<AM lemma="Slavery_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Slavera_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Slaver" src="auto">NNMP4-----A----</AM>
-<AM lemma="Slavera" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Slavera" src="auto">NNFP1-----A----</AM>
-<AM lemma="Slaver" src="auto">NNMP7-----A----</AM>
-<AM lemma="Slaver" src="auto">NNIP4-----A----</AM>
-<AM lemma="Slaver" src="auto">NNIP1-----A----</AM>
-<AM lemma="Slavera" src="auto">NNFP4-----A----</AM>
-<AM lemma="slavery" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Slavery_;m_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94207-101-p2s1w33">
 <src.rf>manual</src.rf>
@@ -515,18 +496,7 @@
 <LM>w#w-ln94207-101-p2s3w13</LM>
 </w.rf>
 <form>Mute</form>
-<tag>
-<AM lemma="Mute_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Mute_,t" src="auto">Db-------------</AM>
-<AM lemma="Mute_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Mute_;K_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mute_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mute_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mute_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Mute_;K_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Mute_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="mute" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mute_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-101-p2s3w14">
 <src.rf>manual</src.rf>
@@ -534,18 +504,7 @@
 <LM>w#w-ln94207-101-p2s3w14</LM>
 </w.rf>
 <form>Night</form>
-<tag>
-<AM lemma="Night_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Night_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Night_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Night_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Night_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Night_;m_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Night_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Night_;Y" src="auto">AAXXX----1A----</AM>
-<AM lemma="Night_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="night" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Night_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94207-101-p2s3w15">
 <src.rf>manual</src.rf>
@@ -661,16 +620,7 @@
 <LM>w#w-ln94207-101-p2s3w28</LM>
 </w.rf>
 <form>Inspiral</form>
-<tag>
-<AM lemma="Inspiral_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Inspirat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Inspirat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Inspirat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Inspiral_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Inspirát" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Inspiral_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="inspiral" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Inspiral_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-101-p2s3w29">
 <src.rf>manual</src.rf>
@@ -678,18 +628,7 @@
 <LM>w#w-ln94207-101-p2s3w29</LM>
 </w.rf>
 <form>Carpets</form>
-<tag>
-<AM lemma="Carpets_;m_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Carpet_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Carpet_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Carpet_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Carpets_;m_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Carpets_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Carpets_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Carpets_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Carpets_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="carpets" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Carpets_;m_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94207-101-p2s3w30">
 <src.rf>manual</src.rf>
@@ -755,15 +694,7 @@
 <LM>w#w-ln94207-101-p3s1w1</LM>
 </w.rf>
 <form>Fairytales</form>
-<tag>
-<AM lemma="Fairytales_;m_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Fairytales_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fairytales" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fairytales" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fairytale_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Fairytaleso" src="auto">NNNP2-----A----</AM>
-<AM lemma="fairytales" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fairytales_;m_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94207-101-p3s1w2">
 <src.rf>manual</src.rf>
@@ -779,18 +710,7 @@
 <LM>w#w-ln94207-101-p3s1w3</LM>
 </w.rf>
 <form>Slavery</form>
-<tag>
-<AM lemma="Slavery_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Slavera_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Slaver" src="auto">NNMP4-----A----</AM>
-<AM lemma="Slavera" src="auto">NNFS2-----A----</AM>
-<AM lemma="Slavera" src="auto">NNFP1-----A----</AM>
-<AM lemma="Slaver" src="auto">NNMP7-----A----</AM>
-<AM lemma="Slaver" src="auto">NNIP4-----A----</AM>
-<AM lemma="Slaver" src="auto">NNIP1-----A----</AM>
-<AM lemma="Slavera" src="auto">NNFP4-----A----</AM>
-<AM lemma="slavery" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Slavery_;m_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94207-101-p3s1w4">
 <src.rf>manual</src.rf>
@@ -981,17 +901,7 @@
 <LM>w#w-ln94207-101-p3s2w15</LM>
 </w.rf>
 <form>industrialu</form>
-<tag>
-<AM lemma="industrial" src="orig">NNIS2-----A----</AM>
-<AM lemma="industrial" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="industrial" src="auto">NNIS6-----A---1</AM>
-<AM lemma="industrial_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="industrial" src="auto">NNIS3-----A----</AM>
-<AM lemma="industrial_;K" src="auto">NNIS3-----A----</AM>
-<AM lemma="industrial_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="industrial_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="industriala_;S" src="auto">NNMS4-----A----</AM>
-</tag>
+<tag lemma="industrial" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94207-101-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1055,17 +965,7 @@
 <LM>w#w-ln94207-101-p3s2w23</LM>
 </w.rf>
 <form>weillovské</form>
-<tag>
-<AM lemma="weillovský" src="orig">AAIP4----1A----</AM>
-<AM lemma="weillovský" src="auto">AAFS2----1A----</AM>
-<AM lemma="weillovský" src="auto">AAFS6----1A----</AM>
-<AM lemma="weillovský" src="auto">AANS1----1A----</AM>
-<AM lemma="weillovský" src="auto">AAFP1----1A----</AM>
-<AM lemma="weillovský" src="auto" recommended="1">AAIP1----1A----</AM>
-<AM lemma="weillovský" src="auto">AANS4----1A----</AM>
-<AM lemma="weillovský" src="auto">AAFP4----1A----</AM>
-<AM lemma="weillovský" src="auto">AAFS3----1A----</AM>
-</tag>
+<tag lemma="weillovský" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln94207-101-p3s2w24">
 <src.rf>manual</src.rf>

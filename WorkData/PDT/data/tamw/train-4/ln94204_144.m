@@ -87,18 +87,7 @@
 <LM>w#w-ln94204-144-p2s1Bw4</LM>
 </w.rf>
 <form>Lettre</form>
-<tag>
-<AM lemma="Lettre_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Lettre_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lettre_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Lettre_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lettre_;R_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Lettre_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Lettre_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lettre_;K_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Lettre_;G_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="lettre" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lettre_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94204-144-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -8498,18 +8487,7 @@
 <LM>w#w-ln94204-144-p10s1w21</LM>
 </w.rf>
 <form>Dicenta</form>
-<tag>
-<AM lemma="Dicenta_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dicent" src="auto">NNMS2-----A----</AM>
-<AM lemma="Dicent" src="auto">NNMS4-----A----</AM>
-<AM lemma="Dicent_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Dicenta" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dicento" src="auto">NNNS2-----A----</AM>
-<AM lemma="Dicenta_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dicento" src="auto">NNNP1-----A----</AM>
-<AM lemma="Dicento_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="dicenta" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dicenta_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-144-p10s1w22">
 <src.rf>manual</src.rf>

@@ -2867,18 +2867,7 @@
 <LM>w#w-ln94209-50-p5s7w3</LM>
 </w.rf>
 <form>Mayhew</form>
-<tag>
-<AM lemma="Mayhew_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mayhew_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mayhew_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mayhew" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mayhew_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mayhew_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mayhew_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Mayhew-2_;m_,t_^(angl._nový,_souč._ost._názvů)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mayhew-2_,t_^(angl._nový)" src="auto">AAXXX----1A----</AM>
-<AM lemma="mayhew" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mayhew_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-50-p5s7w4">
 <src.rf>manual</src.rf>
@@ -4102,18 +4091,7 @@
 <LM>w#w-ln94209-50-p5s15w5</LM>
 </w.rf>
 <form>Spring</form>
-<tag>
-<AM lemma="Spring_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Spring_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Spring" src="auto">NNIS4-----A----</AM>
-<AM lemma="Spring_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Spring" src="auto">NNIS1-----A----</AM>
-<AM lemma="Spring_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Spring_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Spring_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Spring_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="spring" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Spring_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-50-p5s15w6">
 <src.rf>manual</src.rf>
@@ -5148,18 +5126,7 @@
 <LM>w#w-ln94209-50-p6s5w15</LM>
 </w.rf>
 <form>McLauglin</form>
-<tag>
-<AM lemma="McLauglin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="McLauglin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="McLauglina" src="auto">NNFP2-----A----</AM>
-<AM lemma="McLauglin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="McLauglin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="McLauglin" src="auto">NNIS1-----A----</AM>
-<AM lemma="McLauglín" src="auto">NNIS1-----A----</AM>
-<AM lemma="McLaugliny" src="auto">NNFP2-----A----</AM>
-<AM lemma="McLauglino" src="auto">NNNP2-----A----</AM>
-<AM lemma="Mclauglin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="McLauglin_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-50-p6s5w16">
 <src.rf>manual</src.rf>

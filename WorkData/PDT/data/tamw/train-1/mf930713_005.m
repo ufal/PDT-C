@@ -2473,17 +2473,7 @@
 <LM>w#w-mf930713-005-p3s13w19</LM>
 </w.rf>
 <form>grunge</form>
-<tag>
-<AM lemma="grunge_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="grunge_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="grunge_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="grunge_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="grunge_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="grunge_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="grunge_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="grunge_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="grunge_;G" src="auto">NNXXX-----A----</AM>
-</tag>
+<tag lemma="grunge_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf930713-005-p3s13w20">
 <src.rf>manual</src.rf>
@@ -2631,17 +2621,7 @@
 <LM>w#w-mf930713-005-p3s15w2</LM>
 </w.rf>
 <form>grunge</form>
-<tag>
-<AM lemma="grunge_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="grunge_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="grunge_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="grunge_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="grunge_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="grunge_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="grunge_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="grunge_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="grunge_;G" src="auto">NNXXX-----A----</AM>
-</tag>
+<tag lemma="grunge_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf930713-005-p3s15w3">
 <src.rf>manual</src.rf>

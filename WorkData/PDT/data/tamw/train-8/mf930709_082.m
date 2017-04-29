@@ -88,18 +88,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Castelrotto</form>
-<tag>
-<AM lemma="Castelrotto_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Castelrotto_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Castelrotto_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Castelrotto_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Castelrotto_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Castelrotto_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Castelrotto" src="auto">TT-------------</AM>
-<AM lemma="Castelrotto" src="auto">NNNS4-----A----</AM>
-<AM lemma="Castelrotto" src="auto">NNNS1-----A----</AM>
-<AM lemma="castelrotto" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Castelrotto_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-082-p2s1Bw2">
 <src.rf>manual</src.rf>

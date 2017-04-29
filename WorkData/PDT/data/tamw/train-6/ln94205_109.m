@@ -685,18 +685,7 @@
 <LM>w#w-ln94205-109-p3s1Aw3</LM>
 </w.rf>
 <form>Kolleková</form>
-<tag>
-<AM lemma="Kolleková_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Kolleková_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Kollekový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Kollekový" src="auto">AANP1----1A----</AM>
-<AM lemma="Kollekový" src="auto">AANP4----1A----</AM>
-<AM lemma="Kolleková_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kolleková_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kollekový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Kollekový" src="auto">AAFS5----1A----</AM>
-<AM lemma="kolleková" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kolleková_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-109-p3s1Aw4">
 <src.rf>manual</src.rf>
@@ -762,18 +751,7 @@
 <LM>w#w-ln94205-109-p3s1Bw5</LM>
 </w.rf>
 <form>Prandstetter</form>
-<tag>
-<AM lemma="Prandstetter_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Prandstetter_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Prandstetter_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prandstetter_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prandstetter" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prandstettro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Prandstetter_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Prandstetter" src="auto">NNIS4-----A----</AM>
-<AM lemma="Prandstettrum" src="auto">NNNP2-----A----</AM>
-<AM lemma="prandstetter" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Prandstetter_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-109-p3s1Bw6">
 <src.rf>manual</src.rf>

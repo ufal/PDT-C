@@ -1517,18 +1517,7 @@
 <LM>w#w-ln94204-57-p5s3w2</LM>
 </w.rf>
 <form>Klosea</form>
-<tag>
-<AM lemma="Klose_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Klosea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Klozeum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Klossea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kloseus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Klose_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Klose_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Klosea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Klosea_;G_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="klosea" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Klose_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-57-p5s3w3">
 <src.rf>manual</src.rf>
@@ -2169,18 +2158,7 @@
 <LM>w#w-ln94204-57-p6s4w9</LM>
 </w.rf>
 <form>Klosea</form>
-<tag>
-<AM lemma="Klose_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Klosea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Klozeum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Klossea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kloseus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Klose_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Klose_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Klosea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Klosea_;G_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="klosea" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Klose_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-57-p6s4w10">
 <src.rf>manual</src.rf>

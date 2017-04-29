@@ -843,18 +843,7 @@
 <LM>w#w-mf920925-088-p2s8w11</LM>
 </w.rf>
 <form>Prospecta</form>
-<tag>
-<AM lemma="Prospecta_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Prospecta" src="auto">NNFS1-----A----</AM>
-<AM lemma="Prospectus_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Prospect_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Prospecta_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Prospecta" src="auto">NNNP4-----A----</AM>
-<AM lemma="Prospecta" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prospect_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Prospect" src="auto">NNMS2-----A----</AM>
-<AM lemma="prospecta" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Prospecta_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-088-p2s8w12">
 <src.rf>manual</src.rf>
@@ -1172,18 +1161,7 @@
 <LM>w#w-mf920925-088-p2s9w21</LM>
 </w.rf>
 <form>Mykana</form>
-<tag>
-<AM lemma="Mykana_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Mykan_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mykan_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Mykan_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mykan_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Mykan" src="auto">NNMS4-----A----</AM>
-<AM lemma="Mykan" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mykana" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Mykan_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="mykana" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mykana_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-088-p2s9w22">
 <src.rf>manual</src.rf>

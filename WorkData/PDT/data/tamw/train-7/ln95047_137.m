@@ -19,13 +19,7 @@
 <LM>w#w-ln95047-137-p1s1w1</LM>
 </w.rf>
 <form>Sodexho</form>
-<tag>
-<AM lemma="Sodexho_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Sodexho_;K_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Sodex" src="auto">AAIS2----1A----</AM>
-<AM lemma="Sodex" src="auto">AANS2----1A----</AM>
-<AM lemma="sodexho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sodexho_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95047-137-p1s1w2">
 <src.rf>manual</src.rf>
@@ -199,13 +193,7 @@
 <LM>w#w-ln95047-137-p2s1Cw3</LM>
 </w.rf>
 <form>Sodexho</form>
-<tag>
-<AM lemma="Sodexho_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Sodexho_;K_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Sodex" src="auto">AAIS2----1A----</AM>
-<AM lemma="Sodex" src="auto">AANS2----1A----</AM>
-<AM lemma="sodexho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sodexho_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95047-137-p2s1Cw4">
 <src.rf>manual</src.rf>
@@ -301,18 +289,7 @@
 <LM>w#w-ln95047-137-p2s1Cw15</LM>
 </w.rf>
 <form>Merchant</form>
-<tag>
-<AM lemma="Merchant_;K_,t" src="orig">NNMXX-----A----</AM>
-<AM lemma="Merchant" src="auto">NNMS1-----A----</AM>
-<AM lemma="Merchant" src="auto">NNIS1-----A----</AM>
-<AM lemma="Merchant_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Merchant" src="auto">NNIS4-----A----</AM>
-<AM lemma="Merchanta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Merchant_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Merchant_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Merchantický_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="merchant" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Merchant_;K_,t" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln95047-137-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -509,13 +486,7 @@
 <LM>w#w-ln95047-137-p3s1w6</LM>
 </w.rf>
 <form>Sodexho</form>
-<tag>
-<AM lemma="Sodexho_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Sodexho_;K_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Sodex" src="auto">AAIS2----1A----</AM>
-<AM lemma="Sodex" src="auto">AANS2----1A----</AM>
-<AM lemma="sodexho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sodexho_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95047-137-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1203,19 +1174,7 @@
 <LM>w#w-ln95047-137-p5s1w2</LM>
 </w.rf>
 <form>Sodexha</form>
-<tag>
-<AM lemma="Sodexho_;K_,t" src="orig">NNNS2-----A----</AM>
-<AM lemma="Sodexh" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sodexh_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sodexh_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sodexh_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sodexh_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sodexha" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sodexha_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sodexho_;K_,t" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="sodexha" src="auto">NNMS1-----A----</AM>
-<AM lemma="sodexha-1`hektar_:B" src="auto">NNIXX-----A---8</AM>
-</tag>
+<tag lemma="Sodexho_;K_,t" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95047-137-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1653,13 +1612,7 @@
 <LM>w#w-ln95047-137-p6s1w2</LM>
 </w.rf>
 <form>Sodexho</form>
-<tag>
-<AM lemma="Sodexho_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Sodexho_;K_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Sodex" src="auto">AAIS2----1A----</AM>
-<AM lemma="Sodex" src="auto">AANS2----1A----</AM>
-<AM lemma="sodexho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sodexho_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95047-137-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1903,19 +1856,7 @@
 <LM>w#w-ln95047-137-p6s3w3</LM>
 </w.rf>
 <form>Sodexha</form>
-<tag>
-<AM lemma="Sodexho_;K_,t" src="orig">NNNS2-----A----</AM>
-<AM lemma="Sodexh" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sodexh_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sodexh_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sodexh_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sodexh_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sodexha" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sodexha_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sodexho_;K_,t" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="sodexha" src="auto">NNMS1-----A----</AM>
-<AM lemma="sodexha-1`hektar_:B" src="auto">NNIXX-----A---8</AM>
-</tag>
+<tag lemma="Sodexho_;K_,t" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95047-137-p6s3w4">
 <src.rf>manual</src.rf>
@@ -2151,13 +2092,7 @@
 <LM>w#w-ln95047-137-p7s1w5</LM>
 </w.rf>
 <form>Sodexho</form>
-<tag>
-<AM lemma="Sodexho_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Sodexho_;K_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Sodex" src="auto">AAIS2----1A----</AM>
-<AM lemma="Sodex" src="auto">AANS2----1A----</AM>
-<AM lemma="sodexho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sodexho_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95047-137-p7s1w6">
 <src.rf>manual</src.rf>
@@ -2181,18 +2116,7 @@
 <LM>w#w-ln95047-137-p7s1w8</LM>
 </w.rf>
 <form>Gastrotur</form>
-<tag>
-<AM lemma="Gastrotur_;m" src="orig">NNXXX-----A----</AM>
-<AM lemma="Gastrotura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gastrotur_;m" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Gastrotur_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gastrotur_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gastrotur_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gastrotur" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gastrotur_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gastrotur_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="gastrotur" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gastrotur_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95047-137-p7s1w9">
 <src.rf>manual</src.rf>
@@ -2439,18 +2363,7 @@
 <LM>w#w-ln95047-137-p7s3w11</LM>
 </w.rf>
 <form>Gastrotur</form>
-<tag>
-<AM lemma="Gastrotur_;m" src="orig">NNXXX-----A----</AM>
-<AM lemma="Gastrotura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gastrotur_;m" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Gastrotur_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gastrotur_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gastrotur_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gastrotur" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gastrotur_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gastrotur_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="gastrotur" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gastrotur_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95047-137-p7s3w12">
 <src.rf>manual</src.rf>

@@ -1480,17 +1480,7 @@
 <LM>w#w-ln94205-144-p4s3w17</LM>
 </w.rf>
 <form>upy</form>
-<tag>
-<AM lemma="up_,t_^(pick-up)" src="orig">NNIP1-----A----</AM>
-<AM lemma="up" src="auto">NNIP1-----A----</AM>
-<AM lemma="up" src="auto">NNIP7-----A----</AM>
-<AM lemma="up" src="auto">NNIP4-----A----</AM>
-<AM lemma="upa" src="auto">NNFS2-----A----</AM>
-<AM lemma="upa" src="auto">NNFP1-----A----</AM>
-<AM lemma="upa_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="upa" src="auto">NNFP4-----A----</AM>
-<AM lemma="up_,t_^(pick-up)" src="auto" recommended="1">NNIP1-----A----</AM>
-</tag>
+<tag lemma="up_,t_^(pick-up)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94205-144-p4s3w18">
 <src.rf>manual</src.rf>

@@ -273,18 +273,7 @@
 <LM>w#w-ln95049-078-p2s2w7</LM>
 </w.rf>
 <form>Fllis</form>
-<tag>
-<AM lemma="Fllis_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Fllis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fllis_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Fllis_,t" src="auto">AAISX----1A----</AM>
-<AM lemma="Fllisa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Fllis_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Fllis_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fllis_;L_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Fllis_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="fllis" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fllis_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95049-078-p2s2w8">
 <src.rf>manual</src.rf>

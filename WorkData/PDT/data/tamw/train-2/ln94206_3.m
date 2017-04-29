@@ -1351,18 +1351,7 @@
 <LM>w#w-ln94206-3-p5s2w13</LM>
 </w.rf>
 <form>Cooperation</form>
-<tag>
-<AM lemma="Cooperation_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Cooperation_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Cooperation_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Cooperation_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Cooperation_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Cooperation" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cooperation_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cooperatión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Cooperatión" src="auto">NNIS1-----A----</AM>
-<AM lemma="cooperation" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cooperation_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94206-3-p5s2w14">
 <src.rf>manual</src.rf>
@@ -1370,18 +1359,7 @@
 <LM>w#w-ln94206-3-p5s2w14</LM>
 </w.rf>
 <form>Network</form>
-<tag>
-<AM lemma="Network_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Network_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Network_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Network_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Network-2_;R" src="auto">AAXXX----1A----</AM>
-<AM lemma="Network-2_;G_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Network-2_;G_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Network-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Network-2_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="network" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Network_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94206-3-p5s2w15">
 <src.rf>manual</src.rf>
@@ -2971,19 +2949,7 @@
 <LM>w#w-ln94206-3-p8s3w18</LM>
 </w.rf>
 <form>Eotel</form>
-<tag>
-<AM lemma="Eotel_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Eotel" src="auto">NNIS1-----A----</AM>
-<AM lemma="Eotel" src="auto">NNIS4-----A----</AM>
-<AM lemma="Eotel" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eotel_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Eotel_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eotlo-1" src="auto">NNNP2-----A----</AM>
-<AM lemma="eotel" src="auto">NNMS1-----A----</AM>
-<AM lemma="eotelefon_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="eotelefonní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="eotlo_,n" src="auto">NNNP2-----A----</AM>
-</tag>
+<tag lemma="Eotel_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-3-p8s3w19">
 <src.rf>manual</src.rf>
@@ -3925,18 +3891,7 @@
 <LM>w#w-ln94206-3-p10s2w11</LM>
 </w.rf>
 <form>Bradstreet</form>
-<tag>
-<AM lemma="Bradstreet_;S_;K_,t" src="orig">NNMXX-----A----</AM>
-<AM lemma="Street_;R_,t_^(např._Wall_Bradstreet_Journal)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bradstreet_;S_;K_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Bradstreet_;G_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bradstreet_;G_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bradstreet_;G_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Bradstreet_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bradstreet-3_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bradstreet-2_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="bradstreet" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bradstreet_;S_;K_,t" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94206-3-p10s2w12">
 <src.rf>manual</src.rf>
@@ -4594,19 +4549,7 @@
 <LM>w#w-ln94206-3-p11s3w10</LM>
 </w.rf>
 <form>Eotel</form>
-<tag>
-<AM lemma="Eotel_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Eotel" src="auto">NNIS1-----A----</AM>
-<AM lemma="Eotel" src="auto">NNIS4-----A----</AM>
-<AM lemma="Eotel" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eotel_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Eotel_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eotlo-1" src="auto">NNNP2-----A----</AM>
-<AM lemma="eotel" src="auto">NNMS1-----A----</AM>
-<AM lemma="eotelefon_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="eotelefonní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="eotlo_,n" src="auto">NNNP2-----A----</AM>
-</tag>
+<tag lemma="Eotel_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-3-p11s3w11">
 <src.rf>manual</src.rf>

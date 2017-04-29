@@ -1932,17 +1932,7 @@
 <LM>w#w-lnd94103-105-p1s8w32</LM>
 </w.rf>
 <form>gotwaldovsko</form>
-<tag>
-<AM lemma="gotwaldovský" src="orig">A2--------A----</AM>
-<AM lemma="gotwaldovsko_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="gotwaldovský" src="auto">A2--------A----</AM>
-<AM lemma="gotwaldovsko_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="gotwaldovsko" src="auto">NNNS1-----A----</AM>
-<AM lemma="gotwaldovsko" src="auto">NNNS4-----A----</AM>
-<AM lemma="gotwaldovský_;K" src="auto">A2--------A----</AM>
-<AM lemma="gotwaldovsko_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="gotwaldovsko_;G" src="auto">NNNS5-----A----</AM>
-</tag>
+<tag lemma="gotwaldovský" src="orig" selected="1">A2--------A----</tag>
 </m>
 <m id="m-lnd94103-105-p1s8w33">
 <src.rf>manual</src.rf>
@@ -1966,13 +1956,7 @@
 <LM>w#w-lnd94103-105-p1s8w35</LM>
 </w.rf>
 <form>absurdárium</form>
-<tag>
-<AM lemma="absurdárium" src="orig">NNNS1-----A----</AM>
-<AM lemma="absurdárium" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="absurdárium" src="auto">NNNS4-----A----</AM>
-<AM lemma="absurdárium_;L_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="absurdárium_;K" src="auto">NNNS1-----A----</AM>
-</tag>
+<tag lemma="absurdárium" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94103-105-p1s8w36">
 <src.rf>manual</src.rf>

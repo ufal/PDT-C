@@ -77,16 +77,7 @@
 <LM>w#w-ln94206-22-p2s1Aw3</LM>
 </w.rf>
 <form>škr</form>
-<tag>
-<AM lemma="škr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="škr-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="škr" src="auto">NNIS1-----A----</AM>
-<AM lemma="škr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="škr" src="auto">NNIS4-----A----</AM>
-<AM lemma="škrajina_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="škr" src="auto">NNMS1-----A----</AM>
-<AM lemma="škr_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="škr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94206-22-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -184,18 +175,7 @@
 <LM>w#w-ln94206-22-p2s1Bw10</LM>
 </w.rf>
 <form>Hysus</form>
-<tag>
-<AM lemma="Hysus_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hysus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hysus_;L_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="úzHys" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hysus_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hysus_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Hysus_,t" src="auto">RR--1----------</AM>
-<AM lemma="Hysus_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hysus_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="hysus" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hysus_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-22-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -649,18 +629,7 @@
 <LM>w#w-ln94206-22-p3s2w10</LM>
 </w.rf>
 <form>Agrofarm</form>
-<tag>
-<AM lemma="Agrofarm_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Agrofarm_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Agrofarm_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Agrofarm_:B_;K_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Agrofarm" src="auto">NNIS4-----A----</AM>
-<AM lemma="Agrofarm" src="auto">NNIS1-----A----</AM>
-<AM lemma="Agrofarm_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Agrofarm_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Agrofarm_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="agrofarm" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Agrofarm_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-22-p3s2w11">
 <src.rf>manual</src.rf>

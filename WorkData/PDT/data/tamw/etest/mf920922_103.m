@@ -5680,17 +5680,7 @@
 <LM>w#w-mf920922-103-p2s32Bw27</LM>
 </w.rf>
 <form>nestátu</form>
-<tag>
-<AM lemma="stát" src="orig">NNIS6-----N----</AM>
-<AM lemma="nestát" src="auto">NNIS2-----A----</AM>
-<AM lemma="nestát" src="auto">NNIS6-----A---1</AM>
-<AM lemma="nestát" src="auto">NNIS3-----A----</AM>
-<AM lemma="nestát_;H" src="auto">NNIS2-----A----</AM>
-<AM lemma="nestát" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="nestáta" src="auto">NNFS4-----A----</AM>
-<AM lemma="nestát_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="nestát" src="auto">NNMS3-----A---1</AM>
-</tag>
+<tag lemma="stát" src="orig" selected="1">NNIS6-----N----</tag>
 </m>
 <m id="m-mf920922-103-p2s32Bw28">
 <src.rf>manual</src.rf>

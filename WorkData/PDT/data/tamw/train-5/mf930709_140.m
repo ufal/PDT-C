@@ -1670,19 +1670,7 @@
 <LM>w#w-mf930709-140-p5s1w9</LM>
 </w.rf>
 <form>sebedobrodružnějšímu</form>
-<tag>
-<AM lemma="sebedobrodružný" src="orig">AAMS3----2A----</AM>
-<AM lemma="sebedobrodružný" src="auto">AAIS3----2A----</AM>
-<AM lemma="sebedobrodružný" src="auto" recommended="1">AAMS3----2A----</AM>
-<AM lemma="sebedobrodružný" src="auto">AANS3----2A----</AM>
-<AM lemma="sebedobrodružnější" src="auto">AAIS3----1A----</AM>
-<AM lemma="sebedobrodružnější" src="auto">AAMS3----1A----</AM>
-<AM lemma="sebedobrodružnější" src="auto">AANS3----1A----</AM>
-<AM lemma="sebedobrodružnější_^(*4t)" src="auto">AGIS3-----A----</AM>
-<AM lemma="sebedobrodružnější_^(*4t)" src="auto">AGNS3-----A----</AM>
-<AM lemma="sebedobrodružnější_^(*5ovat)" src="auto">AGIS3-----A----</AM>
-<AM lemma="sebedobrodružnější_^(*5ovat)" src="auto">AGNS3-----A----</AM>
-</tag>
+<tag lemma="sebedobrodružný" src="orig" selected="1">AAMS3----2A----</tag>
 </m>
 <m id="m-mf930709-140-p5s1w10">
 <src.rf>manual</src.rf>
@@ -3978,17 +3966,7 @@
 <LM>w#w-mf930709-140-p9s3w5</LM>
 </w.rf>
 <form>bed</form>
-<tag>
-<AM lemma="bed_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="bed_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="bed_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="bed" src="auto">NNIS4-----A----</AM>
-<AM lemma="bed" src="auto">NNIS1-----A----</AM>
-<AM lemma="bed_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="bed-1" src="auto">Db-------------</AM>
-<AM lemma="bed" src="auto">Db-------------</AM>
-<AM lemma="bed_;m_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="bed_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930709-140-p9s3w6">
 <src.rf>manual</src.rf>
@@ -4004,17 +3982,7 @@
 <LM>w#w-mf930709-140-p9s3w7</LM>
 </w.rf>
 <form>breakfast</form>
-<tag>
-<AM lemma="breakfast_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="breakfast" src="auto">NNFS4-----A----</AM>
-<AM lemma="breakfast" src="auto">NNFS1-----A----</AM>
-<AM lemma="breakfast_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="breakfast_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="breakfast_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="breakfast" src="auto">NNIS4-----A----</AM>
-<AM lemma="breakfast" src="auto">NNIS1-----A----</AM>
-<AM lemma="breakfasta" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="breakfast_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930709-140-p9s3w8">
 <src.rf>manual</src.rf>

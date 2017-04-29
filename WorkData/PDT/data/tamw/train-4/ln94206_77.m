@@ -865,18 +865,7 @@
 <LM>w#w-ln94206-77-p3s2w13</LM>
 </w.rf>
 <form>Čančar</form>
-<tag>
-<AM lemma="Čančar_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Čančar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Čančára_^(linie)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Čančar_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čančar" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čančar" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čančar_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čančar" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čančar_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="čančar" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Čančar_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-77-p3s2w14">
 <src.rf>manual</src.rf>

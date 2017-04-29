@@ -51,22 +51,7 @@
 <LM>w#w-ln95048-158-p1s1w5</LM>
 </w.rf>
 <form>FALL</form>
-<tag>
-<AM lemma="FALL_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FALL_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="FALL_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FALL_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FALL_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Fall_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fall_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fall_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Fall_;w_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fall_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Fall_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Fall_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fall_,t_^(řec._jinak)" src="auto">Db-------------</AM>
-<AM lemma="fall" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FALL_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 </s>
 <s id="m-ln95048-158-p2s1A">
@@ -158,22 +143,7 @@
 <LM>w#w-ln95048-158-p2s1Bw9</LM>
 </w.rf>
 <form>FALL</form>
-<tag>
-<AM lemma="FALL_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FALL_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="FALL_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FALL_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FALL_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Fall_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fall_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fall_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Fall_;w_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fall_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Fall_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Fall_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fall_,t_^(řec._jinak)" src="auto">Db-------------</AM>
-<AM lemma="fall" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FALL_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln95048-158-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -189,18 +159,7 @@
 <LM>w#w-ln95048-158-p2s1Bw11</LM>
 </w.rf>
 <form>Urik</form>
-<tag>
-<AM lemma="Urik_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Urika" src="auto">NNFP2-----A----</AM>
-<AM lemma="Urik" src="auto">NNMS1-----A----</AM>
-<AM lemma="Urik_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Urik_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Urikum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Urik" src="auto">NNIS4-----A----</AM>
-<AM lemma="Urik" src="auto">NNIS1-----A----</AM>
-<AM lemma="Urik_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="urik" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Urik_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-158-p2s1Bw12">
 <src.rf>manual</src.rf>

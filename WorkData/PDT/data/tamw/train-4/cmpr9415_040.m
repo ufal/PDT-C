@@ -487,18 +487,7 @@
 <LM>w#w-cmpr9415-040-p7s1w4</LM>
 </w.rf>
 <form>Executive</form>
-<tag>
-<AM lemma="executive_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Executive_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Executive_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Executive_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Executive_,t" src="auto">Db-------------</AM>
-<AM lemma="Executive_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Creative_;K_,t_^(Executive_Labs)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Executive_;m_,t" src="auto">Dg-------1A----</AM>
-<AM lemma="Executive_;c_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="executive" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="executive_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9415-040-p7s1w5">
 <src.rf>manual</src.rf>
@@ -506,14 +495,7 @@
 <LM>w#w-cmpr9415-040-p7s1w5</LM>
 </w.rf>
 <form>educational</form>
-<tag>
-<AM lemma="educational_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="educationat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="educationat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="educationat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="educational_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="educational_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-</tag>
+<tag lemma="educational_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9415-040-p7s1w6">
 <src.rf>manual</src.rf>
@@ -540,15 +522,7 @@
 <LM>w#w-cmpr9415-040-p7s1w8</LM>
 </w.rf>
 <form>central</form>
-<tag>
-<AM lemma="central_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="centrat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="centrat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="centrat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="central_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="centrát" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="central_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-</tag>
+<tag lemma="central_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9415-040-p7s1w9">
 <src.rf>manual</src.rf>
@@ -557,20 +531,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>European</form>
-<tag>
-<AM lemma="European_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="European_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="European_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="European_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="European_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="European_;R_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="european" src="auto">NNIS1-----A----</AM>
-<AM lemma="european" src="auto">NNIS4-----A----</AM>
-<AM lemma="european" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="European_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9415-040-p7s1w10">
 <src.rf>manual</src.rf>
@@ -578,14 +539,7 @@
 <LM>w#w-cmpr9415-040-p7s1w10</LM>
 </w.rf>
 <form>professional</form>
-<tag>
-<AM lemma="professional_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="professionat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="professionat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="professionat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="professional_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="professional_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-</tag>
+<tag lemma="professional_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9415-040-p7s1w11">
 <src.rf>manual</src.rf>
@@ -593,17 +547,7 @@
 <LM>w#w-cmpr9415-040-p7s1w11</LM>
 </w.rf>
 <form>leaders</form>
-<tag>
-<AM lemma="leader_;m_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="leaders_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="leader_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="leaders_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="leader_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="leader_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="leaders_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="leaders_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="leaders_;K_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="leader_;m_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-cmpr9415-040-p7s1w12">
 <src.rf>manual</src.rf>
@@ -912,18 +856,7 @@
 <LM>w#w-cmpr9415-040-p7s2w21</LM>
 </w.rf>
 <form>Training</form>
-<tag>
-<AM lemma="Training_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Training_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Training" src="auto">NNIS4-----A----</AM>
-<AM lemma="Training_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Training" src="auto">NNIS1-----A----</AM>
-<AM lemma="Training_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Training_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Training_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Training_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="training" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Training_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9415-040-p7s2w22">
 <src.rf>manual</src.rf>
@@ -1044,18 +977,7 @@
 <LM>w#w-cmpr9415-040-p7s2w35</LM>
 </w.rf>
 <form>Leadership</form>
-<tag>
-<AM lemma="Leadership_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Leadership_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Leadership_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Leadership_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Leadership" src="auto">II-------------</AM>
-<AM lemma="Leadership" src="auto">NNIS1-----A----</AM>
-<AM lemma="Leadership" src="auto">NNIS4-----A----</AM>
-<AM lemma="Leadership_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Leadership_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="leadership" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Leadership_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9415-040-p7s2w36">
 <src.rf>manual</src.rf>

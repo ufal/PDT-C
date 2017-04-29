@@ -321,18 +321,7 @@
 <LM>w#w-ln95047-058-p2s2w6</LM>
 </w.rf>
 <form>Pattir</form>
-<tag>
-<AM lemma="Pattir_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pattir_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pattir_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pattir_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pattir_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="pair-2_^(au-Pattir)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Pattiroslav_:B_;Y" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Pattira" src="auto">NNFP2-----A----</AM>
-<AM lemma="Pattir_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="pattir" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pattir_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-058-p2s2w7">
 <src.rf>manual</src.rf>
@@ -832,19 +821,7 @@
 <LM>w#w-ln95047-058-p2s4w11</LM>
 </w.rf>
 <form>superrealismu</form>
-<tag>
-<AM lemma="superrealismus" src="orig">NNIS2-----A----</AM>
-<AM lemma="superrealismus" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="superrealismus" src="auto">NNIS3-----A----</AM>
-<AM lemma="superrealismus" src="auto">NNIS6-----A----</AM>
-<AM lemma="superrealizmus" src="auto">NNIS2-----A----</AM>
-<AM lemma="superrealizmus" src="auto">NNIS2-----A---1</AM>
-<AM lemma="superrealizmus" src="auto">NNIS3-----A----</AM>
-<AM lemma="superrealizmus" src="auto">NNIS3-----A---1</AM>
-<AM lemma="superrealizmus" src="auto">NNIS6-----A----</AM>
-<AM lemma="superrealizmus" src="auto">NNIS6-----A---1</AM>
-<AM lemma="superrealizmus_,x" src="auto">NNIS2-----A----</AM>
-</tag>
+<tag lemma="superrealismus" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95047-058-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1046,18 +1023,7 @@
 <LM>w#w-ln95047-058-p3s1w14</LM>
 </w.rf>
 <form>Pattir</form>
-<tag>
-<AM lemma="Pattir_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pattir_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pattir_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pattir_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pattir_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="pair-2_^(au-Pattir)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Pattiroslav_:B_;Y" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Pattira" src="auto">NNFP2-----A----</AM>
-<AM lemma="Pattir_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="pattir" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pattir_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-058-p3s1w15">
 <src.rf>manual</src.rf>
@@ -2192,18 +2158,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Ze'ev</form>
-<tag>
-<AM lemma="Ze'ev_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ze'ev_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ze'ev" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ze'ev" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ze'vo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Ze'va" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ze'ev" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ze'ev" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ze'eva" src="auto">NNFP2-----A----</AM>
-<AM lemma="ze'ev" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ze'ev_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-058-p5s3w17">
 <src.rf>manual</src.rf>
@@ -2365,18 +2320,7 @@
 <LM>w#w-ln95047-058-p5s4w6</LM>
 </w.rf>
 <form>Ranan</form>
-<tag>
-<AM lemma="Ranan_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ranan_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ranan_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ranan_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Ranan-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ranan" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ranan_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ranany_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Ranan" src="auto">NNIS1-----A----</AM>
-<AM lemma="ranan" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ranan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-058-p5s4w7">
 <src.rf>manual</src.rf>
@@ -2475,18 +2419,7 @@
 <LM>w#w-ln95047-058-p5s4w18</LM>
 </w.rf>
 <form>Saed</form>
-<tag>
-<AM lemma="Saed_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Saed_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Saed_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Saed" src="auto">NNIS4-----A----</AM>
-<AM lemma="Saed" src="auto">NNIS1-----A----</AM>
-<AM lemma="Saed-1" src="auto">Db-------------</AM>
-<AM lemma="Saed" src="auto">Db-------------</AM>
-<AM lemma="Saed_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Saed" src="auto">NNMS1-----A----</AM>
-<AM lemma="saed" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Saed_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-058-p5s4w19">
 <src.rf>manual</src.rf>
@@ -2494,18 +2427,7 @@
 <LM>w#w-ln95047-058-p5s4w19</LM>
 </w.rf>
 <form>Nahari</form>
-<tag>
-<AM lemma="Nahari_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nahari_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nahari_;K_;R" src="auto">NNNXX-----A----</AM>
-<AM lemma="Nahari_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Nahari_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Nahari_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Nahari_,t" src="auto">Db-------------</AM>
-<AM lemma="Nahari_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Nahari_;m" src="auto">ClXP1----------</AM>
-<AM lemma="nahari" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nahari_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-058-p5s4w20">
 <src.rf>manual</src.rf>

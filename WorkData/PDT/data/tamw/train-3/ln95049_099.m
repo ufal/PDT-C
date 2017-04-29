@@ -157,16 +157,7 @@
 <LM>w#w-ln95049-099-p2s1Aw5</LM>
 </w.rf>
 <form>toh</form>
-<tag>
-<AM lemma="toh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="toh-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="toh" src="auto">NNIS1-----A----</AM>
-<AM lemma="toha" src="auto">NNFP2-----A----</AM>
-<AM lemma="toh_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="toh" src="auto">NNIS4-----A----</AM>
-<AM lemma="Koh_;K_^(toh-i-noor)" src="auto">A2--------A----</AM>
-<AM lemma="toha_^(v_obchodě,_reklamní,...)" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="toh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95049-099-p2s1Aw6">
 <src.rf>manual</src.rf>

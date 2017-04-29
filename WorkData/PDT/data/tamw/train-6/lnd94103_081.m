@@ -35,16 +35,7 @@
 <LM>w#w-lnd94103-081-p1s1w3</LM>
 </w.rf>
 <form>Dental</form>
-<tag>
-<AM lemma="Dental_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Dentat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dentat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dentat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dental_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dental_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Dental_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dental" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dental_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s1w4">
 <src.rf>manual</src.rf>
@@ -145,16 +136,7 @@
 <LM>w#w-lnd94103-081-p1s3w5</LM>
 </w.rf>
 <form>Dental</form>
-<tag>
-<AM lemma="Dental_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Dentat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dentat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dentat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dental_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dental_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Dental_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dental" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dental_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s3w6">
 <src.rf>manual</src.rf>
@@ -642,16 +624,7 @@
 <LM>w#w-lnd94103-081-p1s6w13</LM>
 </w.rf>
 <form>Dental</form>
-<tag>
-<AM lemma="Dental_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Dentat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dentat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dentat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dental_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dental_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Dental_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dental" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dental_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s6w14">
 <src.rf>manual</src.rf>
@@ -1081,16 +1054,7 @@
 <LM>w#w-lnd94103-081-p1s9w12</LM>
 </w.rf>
 <form>Dental</form>
-<tag>
-<AM lemma="Dental_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Dentat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dentat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dentat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dental_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dental_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Dental_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dental" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dental_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s9w13">
 <src.rf>manual</src.rf>
@@ -1549,18 +1513,7 @@
 <LM>w#w-lnd94103-081-p1s13w18</LM>
 </w.rf>
 <form>Denfos</form>
-<tag>
-<AM lemma="Denfos_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Denfos_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Denfos_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Denfos" src="auto">NNIS1-----A----</AM>
-<AM lemma="Denfos" src="auto">NNIS4-----A----</AM>
-<AM lemma="Denfos_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Denfos_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Denfos_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Denfos_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="denfos" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Denfos_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s13w19">
 <src.rf>manual</src.rf>
@@ -1880,16 +1833,7 @@
 <LM>w#w-lnd94103-081-p1s14w6</LM>
 </w.rf>
 <form>Dental</form>
-<tag>
-<AM lemma="Dental_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Dentat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dentat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dentat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dental_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dental_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Dental_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dental" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dental_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s14w7">
 <src.rf>manual</src.rf>
@@ -2696,16 +2640,7 @@
 <LM>w#w-lnd94103-081-p1s20w1</LM>
 </w.rf>
 <form>Dental</form>
-<tag>
-<AM lemma="Dental_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Dentat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dentat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dentat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dental_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dental_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Dental_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dental" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dental_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s20w2">
 <src.rf>manual</src.rf>
@@ -2971,18 +2906,7 @@
 <LM>w#w-lnd94103-081-p1s21w8</LM>
 </w.rf>
 <form>Calcidentu</form>
-<tag>
-<AM lemma="Calcident_;R" src="orig">NNIS2-----A----</AM>
-<AM lemma="Calcident" src="auto">NNIS2-----A----</AM>
-<AM lemma="Calcident" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Calcident" src="auto">NNIS3-----A----</AM>
-<AM lemma="Calcident" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Calcidenta" src="auto">NNFS4-----A----</AM>
-<AM lemma="Calcident" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Calcident_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Calcidento_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="calcidentu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Calcident_;R" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s21w9">
 <src.rf>manual</src.rf>

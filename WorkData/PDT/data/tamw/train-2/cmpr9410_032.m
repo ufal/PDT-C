@@ -1017,17 +1017,7 @@
 <LM>w#w-cmpr9410-032-p4s1w23</LM>
 </w.rf>
 <form>Markest</form>
-<tag>
-<AM lemma="Markest_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Markest_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Markest" src="auto">NNIS1-----A----</AM>
-<AM lemma="Markest" src="auto">NNIS4-----A----</AM>
-<AM lemma="Markest" src="auto">NNFS4-----A----</AM>
-<AM lemma="Markest_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Markest" src="auto">NNFS1-----A----</AM>
-<AM lemma="Markest_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="markest" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Markest_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-032-p4s1w24">
 <src.rf>manual</src.rf>
@@ -1741,17 +1731,7 @@
 <LM>w#w-cmpr9410-032-p5s2w22</LM>
 </w.rf>
 <form>Markest</form>
-<tag>
-<AM lemma="Markest_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Markest_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Markest" src="auto">NNIS1-----A----</AM>
-<AM lemma="Markest" src="auto">NNIS4-----A----</AM>
-<AM lemma="Markest" src="auto">NNFS4-----A----</AM>
-<AM lemma="Markest_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Markest" src="auto">NNFS1-----A----</AM>
-<AM lemma="Markest_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="markest" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Markest_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-032-p5s2w23">
 <src.rf>manual</src.rf>

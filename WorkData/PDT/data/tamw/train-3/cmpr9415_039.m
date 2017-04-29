@@ -518,18 +518,7 @@
 <LM>w#w-cmpr9415-039-p8s1w19</LM>
 </w.rf>
 <form>Adrewa</form>
-<tag>
-<AM lemma="Adrew_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Adrew_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Adrewa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Adrewa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Adrew_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Adrew_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Adrew_;K" src="auto">NNMS2-----A----</AM>
-<AM lemma="Adrewa_^(prohlášení_islámských_duchovních)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Adrewa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="adrewa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Adrew_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-039-p8s1w20">
 <src.rf>manual</src.rf>
@@ -946,26 +935,7 @@
 <LM>w#w-cmpr9415-039-p9s3w8</LM>
 </w.rf>
 <form>ČMC</form>
-<tag>
-<AM lemma="ČMC_:B_;K_^(České_managerské_centrum)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČMC_:B_;K_^(České_managerské_centrum)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="ČMC-98_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČMC-5_:B_;K_,t_^(hudební_firma)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČMC-5_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČMC-5_:B_,t_^(member_of_council)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="ČMC-4_:B_;K_^(Československé_manažerské_centrum)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ČMC-2_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČMC-2_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Čmc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čmc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čmce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Čmce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Čmc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čmc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čmc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čmc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="čmc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ČMC_:B_;K_^(České_managerské_centrum)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-cmpr9415-039-p9s3w9">
 <src.rf>manual</src.rf>
@@ -1317,18 +1287,7 @@
 <LM>w#w-cmpr9415-039-p10s1w24</LM>
 </w.rf>
 <form>Pendergast</form>
-<tag>
-<AM lemma="Pendergast_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pendergast" src="auto">NNFS4-----A----</AM>
-<AM lemma="Pendergast" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pendergast_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pendergast_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pendergast_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pendergast" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pendergast" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pendergasta" src="auto">NNFP2-----A----</AM>
-<AM lemma="pendergast" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pendergast_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-039-p10s1w25">
 <src.rf>manual</src.rf>

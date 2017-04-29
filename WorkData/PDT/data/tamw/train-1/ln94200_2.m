@@ -19,18 +19,7 @@
 <LM>w#w-ln94200-2-p1s1w1</LM>
 </w.rf>
 <form>Moucheville</form>
-<tag>
-<AM lemma="Moucheville_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Moucheville_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Moucheville_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Moucheville_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Moucheville_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mouchevillo_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Mouchevilla_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Mouchevill_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Moucheville_;m" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="moucheville" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Moucheville_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-2-p1s1w2">
 <src.rf>manual</src.rf>
@@ -54,15 +43,7 @@
 <LM>w#w-ln94200-2-p1s1w4</LM>
 </w.rf>
 <form>open</form>
-<tag>
-<AM lemma="open_;m_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="opit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="opit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="loupen-1_;m_,t_^(open_clean,_označení_čistoty_diamantu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="opný" src="auto">ACYS------A----</AM>
-<AM lemma="openalta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="open_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-</tag>
+<tag lemma="open_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-2-p2s1">
@@ -176,17 +157,7 @@
 <LM>w#w-ln94200-2-p2s1w14</LM>
 </w.rf>
 <form>mušvilu</form>
-<tag>
-<AM lemma="mušvil_,t" src="orig">NNIS6-----A----</AM>
-<AM lemma="mušvil" src="auto">NNIS2-----A----</AM>
-<AM lemma="mušvila" src="auto">NNFS4-----A----</AM>
-<AM lemma="mušvil" src="auto">NNIS6-----A----</AM>
-<AM lemma="mušvil_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="mušvila_;Y" src="auto">NNFS4-----A----</AM>
-<AM lemma="civil_^(mušvilní_stav,_doba_mimo_voj._služby)" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="civil_^(mušvilní_stav,_doba_mimo_voj._služby)" src="auto">NNIS2-----A----</AM>
-<AM lemma="civil-2_^(mušvilní_stav,_doba_mimo_voj._služby)" src="auto">NNIS2-----A---2</AM>
-</tag>
+<tag lemma="mušvil_,t" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94200-2-p2s1w15">
 <src.rf>manual</src.rf>
@@ -648,17 +619,7 @@
 <LM>w#w-ln94200-2-p2s4w2</LM>
 </w.rf>
 <form>lr</form>
-<tag>
-<AM lemma="lr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lr-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="lr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lr" src="auto">NNIS1-----A----</AM>
-<AM lemma="lr" src="auto">NNIS4-----A----</AM>
-<AM lemma="lr" src="auto">NNMS1-----A----</AM>
-<AM lemma="lr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="lr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="lra" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="lr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-2-p2s4w3">
 <src.rf>manual</src.rf>

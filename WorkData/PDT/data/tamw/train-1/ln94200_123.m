@@ -103,18 +103,7 @@
 <LM>w#w-ln94200-123-p2s1Bw2</LM>
 </w.rf>
 <form>Siao</form>
-<tag>
-<AM lemma="Siao_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Siao_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Siao_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Siao_,t" src="auto">TT-------------</AM>
-<AM lemma="Siao_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Siao_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="tao_,t_^(Siaoistický_pojem)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sao_;G_^(Siao_Paulo)" src="auto">NNNSX-----A----</AM>
-<AM lemma="Siao_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="siao" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Siao_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94200-123-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -130,17 +119,7 @@
 <LM>w#w-ln94200-123-p2s1Bw4</LM>
 </w.rf>
 <form>pching</form>
-<tag>
-<AM lemma="pching_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="pching_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="pching" src="auto">NNIS4-----A----</AM>
-<AM lemma="pching_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="pching" src="auto">NNIS1-----A----</AM>
-<AM lemma="pching_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="pching_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="pching_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="pching_;G" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="pching_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-123-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -401,17 +380,7 @@
 <LM>w#w-ln94200-123-p2s1Bw29</LM>
 </w.rf>
 <form>timu</form>
-<tag>
-<AM lemma="tim_;Y" src="orig">NNMS3-----A----</AM>
-<AM lemma="ti_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="tim_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="tim" src="auto">NNIS6-----A----</AM>
-<AM lemma="tim" src="auto">NNIS2-----A----</AM>
-<AM lemma="timum" src="auto">NNNS3-----A----</AM>
-<AM lemma="tima_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="tima-1" src="auto">NNFS4-----A----</AM>
-<AM lemma="tim_;Y" src="auto">NNMS3-----A---1</AM>
-</tag>
+<tag lemma="tim_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94200-123-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -2847,12 +2816,7 @@
 <LM>w#w-ln94200-123-p5s1w40</LM>
 </w.rf>
 <form>ťi</form>
-<tag>
-<AM lemma="ťi_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="ťi_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="ťe" src="auto">NNFS4-----A----</AM>
-<AM lemma="ťe" src="auto">NNFS6-----A----</AM>
-</tag>
+<tag lemma="ťi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-123-p5s1w41">
 <src.rf>manual</src.rf>
@@ -3610,18 +3574,7 @@
 <LM>w#w-ln94200-123-p7s2w9</LM>
 </w.rf>
 <form>Tchien</form>
-<tag>
-<AM lemma="Tchien_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Tchien_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tchie_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Tchien_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tchien_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tchien_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tchien_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tchien_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Tchien_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="tchien" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tchien_;G" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-123-p7s2w10">
 <src.rf>manual</src.rf>
@@ -4444,17 +4397,7 @@
 <LM>w#w-ln94200-123-p9s2w7</LM>
 </w.rf>
 <form>triumvirátní</form>
-<tag>
-<AM lemma="triumvirátní" src="orig">AAFS2----1A----</AM>
-<AM lemma="triumvirátní" src="auto">AAFS1----1A----</AM>
-<AM lemma="triumvirátní" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="triumvirátní" src="auto">AAIS4----1A----</AM>
-<AM lemma="triumvirátní" src="auto">AAIS1----1A----</AM>
-<AM lemma="triumvirátní" src="auto">AAFS4----1A----</AM>
-<AM lemma="triumvirátní" src="auto">AANS4----1A----</AM>
-<AM lemma="triumvirátní" src="auto">AANS1----1A----</AM>
-<AM lemma="triumvirátní" src="auto">AAFS7----1A----</AM>
-</tag>
+<tag lemma="triumvirátní" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94200-123-p9s2w8">
 <src.rf>manual</src.rf>
@@ -4610,18 +4553,7 @@
 <LM>w#w-ln94200-123-p10s2w3</LM>
 </w.rf>
 <form>Čchiao</form>
-<tag>
-<AM lemma="Čchiao_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Čchiao_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Čchiao_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Čchiao_,t" src="auto">TT-------------</AM>
-<AM lemma="Čchiao_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Čchiao_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="tao_,t_^(Čchiaoistický_pojem)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sao_;G_^(Čchiao_Paulo)" src="auto">NNNSX-----A----</AM>
-<AM lemma="Čchiao_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="čchiao" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Čchiao_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-123-p10s2w4">
 <src.rf>manual</src.rf>
@@ -4735,18 +4667,7 @@
 <LM>w#w-ln94200-123-p11s1w1</LM>
 </w.rf>
 <form>Čchiao</form>
-<tag>
-<AM lemma="Čchiao_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Čchiao_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Čchiao_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Čchiao_,t" src="auto">TT-------------</AM>
-<AM lemma="Čchiao_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Čchiao_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="tao_,t_^(Čchiaoistický_pojem)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sao_;G_^(Čchiao_Paulo)" src="auto">NNNSX-----A----</AM>
-<AM lemma="Čchiao_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="čchiao" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Čchiao_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-123-p11s1w2">
 <src.rf>manual</src.rf>

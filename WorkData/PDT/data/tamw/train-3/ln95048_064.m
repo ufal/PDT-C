@@ -353,17 +353,7 @@
 <LM>w#w-ln95048-064-p2s3w6</LM>
 </w.rf>
 <form>Cher</form>
-<tag>
-<AM lemma="Cher_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Cher_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cher_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cher_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chry_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Chry_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cher_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="cher" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cher_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95048-064-p2s3w7">
 <src.rf>manual</src.rf>
@@ -2659,28 +2649,7 @@
 <LM>w#w-ln95048-064-p5s8Bw5</LM>
 </w.rf>
 <form>UZI</form>
-<tag>
-<AM lemma="UZI_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="UZI_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="UZI_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UZI_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Uze" src="auto">NNFS4-----A----</AM>
-<AM lemma="Uze" src="auto">NNFS6-----A----</AM>
-<AM lemma="Uze" src="auto">NNFS3-----A----</AM>
-<AM lemma="Uh" src="auto">NNMP1-----A----</AM>
-<AM lemma="Uzi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Uz" src="auto">NNMS3-----A----</AM>
-<AM lemma="Uz" src="auto">NNMP7-----A----</AM>
-<AM lemma="Uz" src="auto">NNMP1-----A----</AM>
-<AM lemma="uh" src="auto">NNMP1-----A----</AM>
-<AM lemma="uze" src="auto">NNFS4-----A----</AM>
-<AM lemma="uze" src="auto">NNFS6-----A----</AM>
-<AM lemma="use" src="auto">NNFS4-----A----</AM>
-<AM lemma="uh-2_^(partner)" src="auto">NNMP1-----A----</AM>
-<AM lemma="uh" src="auto">NNMP5-----A----</AM>
-<AM lemma="úze" src="auto">NNFS6-----A----</AM>
-<AM lemma="úze" src="auto">NNFS4-----A----</AM>
-</tag>
+<tag lemma="UZI_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95048-064-p5s8Bw6">
 <src.rf>manual</src.rf>
@@ -4586,28 +4555,7 @@
 <LM>w#w-ln95048-064-p7s1w22</LM>
 </w.rf>
 <form>UZI</form>
-<tag>
-<AM lemma="UZI_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="UZI_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="UZI_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UZI_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Uze" src="auto">NNFS4-----A----</AM>
-<AM lemma="Uze" src="auto">NNFS6-----A----</AM>
-<AM lemma="Uze" src="auto">NNFS3-----A----</AM>
-<AM lemma="Uh" src="auto">NNMP1-----A----</AM>
-<AM lemma="Uzi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Uz" src="auto">NNMS3-----A----</AM>
-<AM lemma="Uz" src="auto">NNMP7-----A----</AM>
-<AM lemma="Uz" src="auto">NNMP1-----A----</AM>
-<AM lemma="uh" src="auto">NNMP1-----A----</AM>
-<AM lemma="uze" src="auto">NNFS4-----A----</AM>
-<AM lemma="uze" src="auto">NNFS6-----A----</AM>
-<AM lemma="use" src="auto">NNFS4-----A----</AM>
-<AM lemma="uh-2_^(partner)" src="auto">NNMP1-----A----</AM>
-<AM lemma="uh" src="auto">NNMP5-----A----</AM>
-<AM lemma="úze" src="auto">NNFS6-----A----</AM>
-<AM lemma="úze" src="auto">NNFS4-----A----</AM>
-</tag>
+<tag lemma="UZI_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95048-064-p7s1w23">
 <src.rf>manual</src.rf>
@@ -7529,16 +7477,7 @@
 <LM>w#w-ln95048-064-p8s6Bw4</LM>
 </w.rf>
 <form>up</form>
-<tag>
-<AM lemma="up_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="up" src="auto">NNIS4-----A----</AM>
-<AM lemma="up" src="auto">NNIS1-----A----</AM>
-<AM lemma="up_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="up_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="up" src="auto">NNMS1-----A----</AM>
-<AM lemma="up_;m_,t_^(pick-up)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="up_,t_^(pick-up)" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="up_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-064-p8s6Bw5">
 <src.rf>manual</src.rf>
@@ -8085,17 +8024,7 @@
 <LM>w#w-ln95048-064-p9s1w11</LM>
 </w.rf>
 <form>upu</form>
-<tag>
-<AM lemma="up_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="up" src="auto">NNIS2-----A----</AM>
-<AM lemma="up" src="auto">NNIS6-----A----</AM>
-<AM lemma="up" src="auto">NNIS3-----A----</AM>
-<AM lemma="upa" src="auto">NNFS4-----A----</AM>
-<AM lemma="up_,t_^(pick-up)" src="auto">NNIS6-----A----</AM>
-<AM lemma="upa_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="up_;R_^(auto)" src="auto">NNIS2-----A----</AM>
-<AM lemma="up_,t_^(pohár)" src="auto" recommended="1">NNIS2-----A----</AM>
-</tag>
+<tag lemma="up_,t" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-064-p9s1w12">
 <src.rf>manual</src.rf>
@@ -8512,16 +8441,7 @@
 <LM>w#w-ln95048-064-p9s4w6</LM>
 </w.rf>
 <form>up</form>
-<tag>
-<AM lemma="up_,t" src="orig">NNIS4-----A----</AM>
-<AM lemma="up" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="up" src="auto">NNIS1-----A----</AM>
-<AM lemma="up_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="up_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="up" src="auto">NNMS1-----A----</AM>
-<AM lemma="up_;m_,t_^(pick-up)" src="auto">NNIS1-----A----</AM>
-<AM lemma="up_,t_^(pick-up)" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="up_,t" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95048-064-p9s4w7">
 <src.rf>manual</src.rf>
@@ -8848,16 +8768,7 @@
 <LM>w#w-ln95048-064-p9s6w26</LM>
 </w.rf>
 <form>up</form>
-<tag>
-<AM lemma="up_,t" src="orig">NNIS4-----A----</AM>
-<AM lemma="up" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="up" src="auto">NNIS1-----A----</AM>
-<AM lemma="up_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="up_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="up" src="auto">NNMS1-----A----</AM>
-<AM lemma="up_;m_,t_^(pick-up)" src="auto">NNIS1-----A----</AM>
-<AM lemma="up_,t_^(pick-up)" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="up_,t" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95048-064-p9s6w27">
 <src.rf>manual</src.rf>
@@ -9267,17 +9178,7 @@
 <LM>w#w-ln95048-064-p10s2w19</LM>
 </w.rf>
 <form>upu</form>
-<tag>
-<AM lemma="up_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="up" src="auto">NNIS2-----A----</AM>
-<AM lemma="up" src="auto">NNIS6-----A----</AM>
-<AM lemma="up" src="auto">NNIS3-----A----</AM>
-<AM lemma="upa" src="auto">NNFS4-----A----</AM>
-<AM lemma="up_,t_^(pick-up)" src="auto">NNIS6-----A----</AM>
-<AM lemma="upa_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="up_;R_^(auto)" src="auto">NNIS2-----A----</AM>
-<AM lemma="up_,t_^(pohár)" src="auto" recommended="1">NNIS2-----A----</AM>
-</tag>
+<tag lemma="up_,t" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-064-p10s2w20">
 <src.rf>manual</src.rf>
@@ -9630,16 +9531,7 @@
 <LM>w#w-ln95048-064-p10s5w6</LM>
 </w.rf>
 <form>up</form>
-<tag>
-<AM lemma="up_,t" src="orig">NNIS4-----A----</AM>
-<AM lemma="up" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="up" src="auto">NNIS1-----A----</AM>
-<AM lemma="up_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="up_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="up" src="auto">NNMS1-----A----</AM>
-<AM lemma="up_;m_,t_^(pick-up)" src="auto">NNIS1-----A----</AM>
-<AM lemma="up_,t_^(pick-up)" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="up_,t" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95048-064-p10s5w7">
 <src.rf>manual</src.rf>

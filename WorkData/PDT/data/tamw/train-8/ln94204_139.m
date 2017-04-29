@@ -4687,18 +4687,7 @@
 <LM>w#w-ln94204-139-p7s2w26</LM>
 </w.rf>
 <form>Víťazoslava</form>
-<tag>
-<AM lemma="Víťazoslav_;Y" src="orig">NNMS4-----A----</AM>
-<AM lemma="Víťazoslava" src="auto">NNFS1-----A----</AM>
-<AM lemma="Víťazoslava_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Víťazoslav_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Víťazoslava_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Víťazoslav_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Víťazoslav-1_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Víťazoslava_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Víťazoslav-1_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="víťazoslava" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Víťazoslav_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94204-139-p7s2w27">
 <src.rf>manual</src.rf>

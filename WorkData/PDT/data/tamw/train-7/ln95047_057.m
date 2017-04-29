@@ -139,18 +139,7 @@
 <LM>w#w-ln95047-057-p1s1w15</LM>
 </w.rf>
 <form>Banshees</form>
-<tag>
-<AM lemma="Banshee_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Banshee_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Banshee_;K_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Banshees_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Banshees" src="auto">NNIS4-----A----</AM>
-<AM lemma="Banshee_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Banshees" src="auto">NNIS1-----A----</AM>
-<AM lemma="Banshees_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Banshees_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="banshees" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Banshee_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 </s>
 </mdata>

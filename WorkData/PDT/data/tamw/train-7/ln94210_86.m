@@ -1606,15 +1606,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Bihać</form>
-<tag>
-<AM lemma="Bihač_;G_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Bihač_;G_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Bihać_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bihać_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bihač_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bihać_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="bihać" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bihač_;G_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-86-p4s3w11">
 <src.rf>manual</src.rf>
@@ -2105,15 +2097,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Granić</form>
-<tag>
-<AM lemma="Granić_;S_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="Granić_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Granić_;S_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Granič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Granič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Granić_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="granić" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Granić_;S_,t" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-86-p5s2w11">
 <src.rf>manual</src.rf>
@@ -2137,18 +2121,7 @@
 <LM>w#w-ln94210-86-p5s2w13</LM>
 </w.rf>
 <form>Jarnjak</form>
-<tag>
-<AM lemma="Jarnjak_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jarnjak_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Jarnjak" src="auto">Db-------------</AM>
-<AM lemma="Jarnjak" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jarnjak_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Jarnjak_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jarnjak-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Jarnjak-3" src="auto">Db-------------</AM>
-<AM lemma="Jarnjak-2" src="auto">J^-------------</AM>
-<AM lemma="jarnjak" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jarnjak_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-86-p5s2w14">
 <src.rf>manual</src.rf>
@@ -2659,15 +2632,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Drašković</form>
-<tag>
-<AM lemma="Drašković_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Drašković_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Draškovič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Drašković_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Draškovič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Drašković_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="drašković" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Drašković_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-86-p7s1w7">
 <src.rf>manual</src.rf>
@@ -2758,15 +2723,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Drašković</form>
-<tag>
-<AM lemma="Drašković_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Drašković_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Draškovič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Drašković_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Draškovič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Drašković_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="drašković" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Drašković_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-86-p7s2w2">
 <src.rf>manual</src.rf>
@@ -2814,18 +2771,7 @@
 <LM>w#w-ln94210-86-p7s2w7</LM>
 </w.rf>
 <form>Optys</form>
-<tag>
-<AM lemma="Optys_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Optys_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Optys_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Optys" src="auto">NNIS1-----A----</AM>
-<AM lemma="Optys" src="auto">NNIS4-----A----</AM>
-<AM lemma="Opty_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Opty" src="auto">J,-S---2-------</AM>
-<AM lemma="Optýt" src="auto">Vc-S---2-------</AM>
-<AM lemma="Opty_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="optys" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Optys_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-86-p7s2w8">
 <src.rf>manual</src.rf>

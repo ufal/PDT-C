@@ -177,20 +177,7 @@
 <LM>w#w-ln94204-103-p2s1Cw3</LM>
 </w.rf>
 <form>Pokrovce</form>
-<tag>
-<AM lemma="Pokrovka_;K" src="orig">NNFS6-----A----</AM>
-<AM lemma="Pokrovec" src="auto">NNMP4-----A----</AM>
-<AM lemma="Pokrovec" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pokrovec" src="auto">NNMS4-----A----</AM>
-<AM lemma="Pokrovec_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Pokrovec_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pokrovka" src="auto">NNFS3-----A----</AM>
-<AM lemma="Pokrovka" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Pokrovka_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="pokrovce" src="auto">NNMS1-----A----</AM>
-<AM lemma="pokrovka" src="auto">NNFS3-----A----</AM>
-<AM lemma="pokrovka" src="auto">NNFS6-----A----</AM>
-</tag>
+<tag lemma="Pokrovka_;K" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94204-103-p2s1Cw4">
 <src.rf>manual</src.rf>
@@ -750,19 +737,7 @@
 <LM>w#w-ln94204-103-p2s3w35</LM>
 </w.rf>
 <form>mimomoskevských</form>
-<tag>
-<AM lemma="mimomoskevský" src="orig">AANP6----1A----</AM>
-<AM lemma="mimomoskevský" src="auto">AAFP2----1A----</AM>
-<AM lemma="mimomoskevský" src="auto">AAFP6----1A----</AM>
-<AM lemma="mimomoskevský" src="auto">AAIP2----1A----</AM>
-<AM lemma="mimomoskevský" src="auto">AAIP6----1A----</AM>
-<AM lemma="mimomoskevský" src="auto">AAMP2----1A----</AM>
-<AM lemma="mimomoskevský" src="auto">AAMP6----1A----</AM>
-<AM lemma="mimomoskevský" src="auto">AANP2----1A----</AM>
-<AM lemma="mimomoskevský" src="auto" recommended="1">AANP6----1A----</AM>
-<AM lemma="mimomoskevský_^(*2t)" src="auto">AAFP2----1A----</AM>
-<AM lemma="mimomoskevský_^(*2t)" src="auto">AAIP2----1A----</AM>
-</tag>
+<tag lemma="mimomoskevský" src="orig" selected="1">AANP6----1A----</tag>
 </m>
 <m id="m-ln94204-103-p2s3w36">
 <src.rf>manual</src.rf>
@@ -1707,23 +1682,7 @@
 <LM>w#w-ln94204-103-p5s1w17</LM>
 </w.rf>
 <form>Sanin</form>
-<tag>
-<AM lemma="Sanin_;m" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sanin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sanin" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sanin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sanin_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sanin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sanin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sanina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Saniny" src="auto">NNFP2-----A----</AM>
-<AM lemma="sanin" src="auto">NNMS1-----A----</AM>
-<AM lemma="sanin-2_,h_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="sanin-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="sanin_^(n-tice)" src="auto">A2--------A----</AM>
-<AM lemma="saninádraží_:B" src="auto">NNNXX-----A---9</AM>
-<AM lemma="saninárodní_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Sanin_;m" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-103-p5s1w18">
 <src.rf>manual</src.rf>
@@ -5512,18 +5471,7 @@
 <LM>w#w-ln94204-103-p16s2w14</LM>
 </w.rf>
 <form>Maljagin</form>
-<tag>
-<AM lemma="Maljagin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Maljagine_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Maljagina_;R" src="auto">NNFP2-----A----</AM>
-<AM lemma="Maljagin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Maljagin_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Maljagin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Maljagin" src="auto">NNIS4-----A----</AM>
-<AM lemma="Maljagina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Maljagin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="maljagin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Maljagin_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-103-p16s2w15">
 <src.rf>manual</src.rf>
@@ -5587,26 +5535,7 @@
 <LM>w#w-ln94204-103-p16s2w22</LM>
 </w.rf>
 <form>Kosmin</form>
-<tag>
-<AM lemma="Kosmin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kosmin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kosmin" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kosmin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kosmin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kosmina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kosminimální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Kosminuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Kosmín_,x" src="auto">NNIS4-----A----</AM>
-<AM lemma="kosmin" src="auto">NNMS1-----A----</AM>
-<AM lemma="kosmin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kosmina" src="auto">NNFP2-----A----</AM>
-<AM lemma="kosminimum_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="kosminimální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="kosminimálně_:B" src="auto">Dg-------1A---8</AM>
-<AM lemma="kosministerský_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="kosministerstvo_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="kosminuta_:B" src="auto">NNFXX-----A---8</AM>
-</tag>
+<tag lemma="Kosmin_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-103-p16s2w23">
 <src.rf>manual</src.rf>
@@ -5638,18 +5567,7 @@
 <LM>w#w-ln94204-103-p16s2w26</LM>
 </w.rf>
 <form>Galatinová</form>
-<tag>
-<AM lemma="Galatinová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Galatinová_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Galatinový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Galatinový" src="auto">AANP1----1A----</AM>
-<AM lemma="Galatinový" src="auto">AANP4----1A----</AM>
-<AM lemma="Galatinová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Galatinová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Galatinový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Galatinový" src="auto">AAFS5----1A----</AM>
-<AM lemma="galatinová" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Galatinová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-103-p16s2w27">
 <src.rf>manual</src.rf>

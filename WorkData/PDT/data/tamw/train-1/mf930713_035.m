@@ -239,18 +239,7 @@
 <LM>w#w-mf930713-035-p3s1w20</LM>
 </w.rf>
 <form>Doogie</form>
-<tag>
-<AM lemma="Doogie_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Doogie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Doogie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Doogie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Doogie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Doogie_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Doogia_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Doogie_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Doogie_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="doogie" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Doogie_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-035-p3s1w21">
 <src.rf>manual</src.rf>
@@ -763,16 +752,7 @@
 <LM>w#w-mf930713-035-p3s1w83</LM>
 </w.rf>
 <form>ital</form>
-<tag>
-<AM lemma="italský_:B" src="orig">AAXXX----1A----</AM>
-<AM lemma="ital_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ital_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="ital_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="itala" src="auto">NNFP2-----A----</AM>
-<AM lemma="itat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="itat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="itat_:W" src="auto">VpYS---XR-AA---</AM>
-</tag>
+<tag lemma="italský_:B" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930713-035-p3s1w84">
 <src.rf>manual</src.rf>
@@ -1219,17 +1199,7 @@
 <LM>w#w-mf930713-035-p7s1w16</LM>
 </w.rf>
 <form>Duckula</form>
-<tag>
-<AM lemma="Duckula_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Duckout" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Duckula_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Duckula" src="auto">NNFS1-----A----</AM>
-<AM lemma="Duckul_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Duckula_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Duckula_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Duckula_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="duckula" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Duckula_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-035-p7s1w17">
 <src.rf>manual</src.rf>

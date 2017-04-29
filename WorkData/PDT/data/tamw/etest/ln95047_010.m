@@ -421,17 +421,7 @@
 <LM>w#w-ln95047-010-p2s4w28</LM>
 </w.rf>
 <form>tajnoslužebnictví</form>
-<tag>
-<AM lemma="tajnoslužebnictví" src="orig">NNNS1-----A----</AM>
-<AM lemma="tajnoslužebnictví" src="auto">NNNS2-----A----</AM>
-<AM lemma="tajnoslužebnictví" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="tajnoslužebnictví" src="auto">NNNS4-----A----</AM>
-<AM lemma="tajnoslužebnictví" src="auto">NNNS6-----A----</AM>
-<AM lemma="tajnoslužebnictví" src="auto">NNNS3-----A----</AM>
-<AM lemma="tajnoslužebnictví" src="auto">NNNP2-----A----</AM>
-<AM lemma="tajnoslužebnictví" src="auto">NNNP1-----A----</AM>
-<AM lemma="tajnoslužebnictví" src="auto">NNNP4-----A----</AM>
-</tag>
+<tag lemma="tajnoslužebnictví" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95047-010-p2s4w29">
 <src.rf>manual</src.rf>
@@ -4424,16 +4414,7 @@
 <LM>w#w-ln95047-010-p8s2w36</LM>
 </w.rf>
 <form>transdisciplinárně</form>
-<tag>
-<AM lemma="transdisciplinárně" src="orig">Dg-------1A----</AM>
-<AM lemma="transdisciplinárna" src="auto">NNFS3-----A----</AM>
-<AM lemma="transdisciplinárna" src="auto">NNFS6-----A----</AM>
-<AM lemma="transdisciplinárno_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="transdisciplinárně-1_^(všímavý,_milý,_soustředěný)_(*3ý-1)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="transdisciplinárně_^(*1í)" src="auto">Dg-------1A----</AM>
-<AM lemma="transdisciplinárně_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="transdisciplinárně_^(*4órní)" src="auto">Dg-------1A----</AM>
-</tag>
+<tag lemma="transdisciplinárně" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95047-010-p8s2w37">
 <src.rf>manual</src.rf>
@@ -4547,15 +4528,7 @@
 <LM>w#w-ln95047-010-p8s3w13</LM>
 </w.rf>
 <form>exteritoriu</form>
-<tag>
-<AM lemma="exteritorium" src="orig">NNNS6-----A----</AM>
-<AM lemma="exteritoria_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="exteritorio" src="auto">NNNS3-----A----</AM>
-<AM lemma="exteritorio" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="exteritorio_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="exteritorium" src="auto">NNNS3-----A----</AM>
-<AM lemma="exteritorium" src="auto">NNNS6-----A----</AM>
-</tag>
+<tag lemma="exteritorium" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95047-010-p8s3w14">
 <src.rf>manual</src.rf>

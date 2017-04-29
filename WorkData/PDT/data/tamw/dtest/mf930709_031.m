@@ -85,21 +85,7 @@
 <LM>w#w-mf930709-031-p2s1Aw3</LM>
 </w.rf>
 <form>or</form>
-<tag>
-<AM lemma="or-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="or" src="auto">NNIS1-----A----</AM>
-<AM lemma="or" src="auto">NNIS4-----A----</AM>
-<AM lemma="or" src="auto">NNMS1-----A----</AM>
-<AM lemma="or-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="or_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="or_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="or_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="or_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ora" src="auto">NNFP2-----A----</AM>
-<AM lemma="orežie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="orok_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="oručení_:B" src="auto">NNNS7-----A---8</AM>
-</tag>
+<tag lemma="or-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-031-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -1631,19 +1617,7 @@
 <LM>w#w-mf930709-031-p5s1w25</LM>
 </w.rf>
 <form>IH</form>
-<tag>
-<AM lemma="IH_:B_;K_^(Interhotel)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IH_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IH_:B_;K_^(Interhotel)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Ih" src="auto">NNMS1-----A----</AM>
-<AM lemma="ih" src="auto">NNIS1-----A----</AM>
-<AM lemma="ih" src="auto">NNIS4-----A----</AM>
-<AM lemma="ih-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="iha" src="auto">NNFP2-----A----</AM>
-<AM lemma="ihlava_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ihodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ihodina_:B_,x" src="auto">NNFXX-----A---9</AM>
-</tag>
+<tag lemma="IH_:B_;K_^(Interhotel)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-mf930709-031-p5s1w26">
 <src.rf>manual</src.rf>
@@ -2201,18 +2175,7 @@
 <LM>w#w-mf930709-031-p7s1w15</LM>
 </w.rf>
 <form>Vacuum</form>
-<tag>
-<AM lemma="Vacuum_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Vacuum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Vacuum" src="auto">NNNS1-----A----</AM>
-<AM lemma="Vacuum_;K" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Vacuum_,t" src="auto">Db-------------</AM>
-<AM lemma="Vacuum" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vacuum" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vacuum_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vacuum_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="vacuum" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vacuum_;K" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930709-031-p7s1w16">
 <src.rf>manual</src.rf>

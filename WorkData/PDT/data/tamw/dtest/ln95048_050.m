@@ -1260,18 +1260,7 @@
 <LM>w#w-ln95048-050-p6s1w1</LM>
 </w.rf>
 <form>Famu</form>
-<tag>
-<AM lemma="FAMU_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Fam" src="auto">NNIS2-----A----</AM>
-<AM lemma="Fam_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Fam" src="auto">NNIS6-----A----</AM>
-<AM lemma="Fam" src="auto">NNIS3-----A----</AM>
-<AM lemma="Fam_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Fama" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Fam_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Fam_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="famu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FAMU_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95048-050-p6s1w2">
 <src.rf>manual</src.rf>
@@ -2744,16 +2733,7 @@
 <LM>w#w-ln95048-050-p11s7w9</LM>
 </w.rf>
 <form>Chalender</form>
-<tag>
-<AM lemma="Chalender_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chalender_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chalender_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chalendro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Chalender_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Chalendry_;G" src="auto">NNIP2-----A---1</AM>
-<AM lemma="Chalendra_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="chalender" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chalender_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-050-p11s7w10">
 <src.rf>manual</src.rf>
@@ -6873,15 +6853,7 @@
 <LM>w#w-ln95048-050-p25s3w12</LM>
 </w.rf>
 <form>Harveho</form>
-<tag>
-<AM lemma="Harve_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Harve_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Harve_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Harve_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Harve_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Harve-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="harveho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Harve_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-050-p25s3w13">
 <src.rf>manual</src.rf>

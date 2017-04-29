@@ -1347,18 +1347,7 @@
 <LM>w#w-ln94200-160-p5s2w10</LM>
 </w.rf>
 <form>Tuzik</form>
-<tag>
-<AM lemma="Tuzik_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tuzik_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tuziko" src="auto">NNNP2-----A----</AM>
-<AM lemma="Tuzik" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tuzika" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tuzik" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tuzik" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tuzikum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Tuzik_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="tuzik" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tuzik_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-160-p5s2w11">
 <src.rf>manual</src.rf>
@@ -1528,18 +1517,7 @@
 <LM>w#w-ln94200-160-p6s1w10</LM>
 </w.rf>
 <form>Leksands</form>
-<tag>
-<AM lemma="Leksands_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Leksands_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Leksands_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Leksand_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Leksand_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Leksand_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Leksands_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Leksand_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Leksand_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="leksands" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Leksands_;K_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-160-p6s1w11">
 <src.rf>manual</src.rf>

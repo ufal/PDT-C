@@ -1166,17 +1166,7 @@
 <LM>w#w-ln95049-082-p3s4w21</LM>
 </w.rf>
 <form>libertář</form>
-<tag>
-<AM lemma="libertář" src="orig">NNMS1-----A----</AM>
-<AM lemma="libertář" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="libertář" src="auto">NNIS1-----A----</AM>
-<AM lemma="libertář" src="auto">NNIS4-----A----</AM>
-<AM lemma="libertář_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="libertář" src="auto">NNFS4-----A----</AM>
-<AM lemma="libertář" src="auto">NNFS1-----A----</AM>
-<AM lemma="libertář_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="libertář_,l" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="libertář" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-082-p3s4w22">
 <src.rf>manual</src.rf>
@@ -5373,18 +5363,7 @@
 <LM>w#w-ln95049-082-p8s3w15</LM>
 </w.rf>
 <form>Besserwisser</form>
-<tag>
-<AM lemma="Besserwisser_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="Besserwisser_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Besserwisser_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Besserwisser_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Besserwisser_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Besserwisser" src="auto">NNMS1-----A----</AM>
-<AM lemma="Besserwisser" src="auto">NNIS4-----A----</AM>
-<AM lemma="Besserwisser" src="auto">NNIS1-----A----</AM>
-<AM lemma="Besserwisser_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="besserwisser" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Besserwisser_,t" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-082-p8s3w16">
 <src.rf>manual</src.rf>

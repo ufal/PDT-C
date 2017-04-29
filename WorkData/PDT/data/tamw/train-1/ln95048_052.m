@@ -2206,17 +2206,7 @@
 <LM>w#w-ln95048-052-p6s2w9</LM>
 </w.rf>
 <form>kľuka</form>
-<tag>
-<AM lemma="kľuka_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="kľuk_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="kľuka" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="kľuk_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="kľuk" src="auto">NNMS2-----A----</AM>
-<AM lemma="kľuk_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="kľuk" src="auto">NNMS4-----A----</AM>
-<AM lemma="kľuka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kľuc_;Y" src="auto">NNMS2-----A----</AM>
-</tag>
+<tag lemma="kľuka_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-052-p6s2w10">
 <src.rf>manual</src.rf>
@@ -3292,17 +3282,7 @@
 <LM>w#w-ln95048-052-p7s3w19</LM>
 </w.rf>
 <form>klinken</form>
-<tag>
-<AM lemma="klinken_,t" src="orig">Vf--------A----</AM>
-<AM lemma="klinkno" src="auto">NNNP2-----A----</AM>
-<AM lemma="Broken_;G_,t_^(klinken_Hill)" src="auto">AAXXX----1A----</AM>
-<AM lemma="klinken_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="klinken_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="klinken_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="klinken_,t" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="klinkit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="klinkna" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="klinken_,t" src="orig" selected="1">Vf--------A----</tag>
 </m>
 <m id="m-ln95048-052-p7s3w20">
 <src.rf>manual</src.rf>
@@ -3586,16 +3566,7 @@
 <LM>w#w-ln95048-052-p8s1w17</LM>
 </w.rf>
 <form>clique</form>
-<tag>
-<AM lemma="clique_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="clique_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="clique_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="clique_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="clique_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="clique_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="clique_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="clique_;R_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="clique_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95048-052-p8s1w18">
 <src.rf>manual</src.rf>
@@ -3677,17 +3648,7 @@
 <LM>w#w-ln95048-052-p8s2w8</LM>
 </w.rf>
 <form>cliquer</form>
-<tag>
-<AM lemma="cliquer_,t" src="orig">Vf--------A----</AM>
-<AM lemma="cliquer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="cliquer_,t" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="cliquer_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="cliquer" src="auto">NNIS1-----A----</AM>
-<AM lemma="cliquer" src="auto">NNMS1-----A----</AM>
-<AM lemma="cliquer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="cliquer_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="cliquer" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="cliquer_,t" src="orig" selected="1">Vf--------A----</tag>
 </m>
 <m id="m-ln95048-052-p8s2w9">
 <src.rf>manual</src.rf>
@@ -4271,17 +4232,7 @@
 <LM>w#w-ln95048-052-p9s1w18</LM>
 </w.rf>
 <form>claquer</form>
-<tag>
-<AM lemma="claquer_,t" src="orig">Vf--------A----</AM>
-<AM lemma="claquer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="claquer_,t" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="claquer_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="claquer" src="auto">NNIS1-----A----</AM>
-<AM lemma="claquer" src="auto">NNMS1-----A----</AM>
-<AM lemma="claquer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="claquer_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="claquer" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="claquer_,t" src="orig" selected="1">Vf--------A----</tag>
 </m>
 <m id="m-ln95048-052-p9s1w19">
 <src.rf>manual</src.rf>
@@ -5162,17 +5113,7 @@
 <LM>w#w-ln95048-052-p11s1w24</LM>
 </w.rf>
 <form>haben</form>
-<tag>
-<AM lemma="haben_,t" src="orig">Vf--------A----</AM>
-<AM lemma="habit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="habna" src="auto">NNFP2-----A----</AM>
-<AM lemma="habit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="haben" src="auto">NNIS4-----A----</AM>
-<AM lemma="habít" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="haben_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="haben_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="haben_,t" src="auto" recommended="1">Vf--------A----</AM>
-</tag>
+<tag lemma="haben_,t" src="orig" selected="1">Vf--------A----</tag>
 </m>
 <m id="m-ln95048-052-p11s1w25">
 <src.rf>manual</src.rf>

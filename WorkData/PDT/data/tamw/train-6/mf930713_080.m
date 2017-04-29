@@ -109,16 +109,7 @@
 <LM>w#w-mf930713-080-p2s1Aw3</LM>
 </w.rf>
 <form>jl</form>
-<tag>
-<AM lemma="jl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jl-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jl" src="auto">NNIS4-----A----</AM>
-<AM lemma="jt_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jt_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jt" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jnout_:W" src="auto">VpYS---XR-AA--1</AM>
-</tag>
+<tag lemma="jl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930713-080-p2s1Aw4">
 <src.rf>manual</src.rf>

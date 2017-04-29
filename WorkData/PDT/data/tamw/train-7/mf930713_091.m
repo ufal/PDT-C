@@ -529,18 +529,7 @@
 <LM>w#w-mf930713-091-p2s2w29</LM>
 </w.rf>
 <form>Volkshilfe</form>
-<tag>
-<AM lemma="Volkshilfe_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Volkshilfe_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Volkshilfe_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Volkshilfe_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Volkshilfe_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Volkshilfe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Volkshilfe_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Volkshilfe_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Volkshilfe_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="volkshilfe" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Volkshilfe_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930713-091-p2s2w30">
 <src.rf>manual</src.rf>

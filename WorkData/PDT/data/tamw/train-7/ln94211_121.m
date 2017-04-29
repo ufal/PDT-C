@@ -377,17 +377,7 @@
 <LM>w#w-ln94211-121-p2s2w10</LM>
 </w.rf>
 <form>Těťal</form>
-<tag>
-<AM lemma="Těťal_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="utnoTět_,x" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Těťal_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Těťat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Těťat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Těťat_:T_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Těťat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Těťat_:T_^(*4at)" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="těťal" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Těťal_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-121-p2s2w11">
 <src.rf>manual</src.rf>

@@ -701,18 +701,7 @@
 <LM>w#w-ln94207-103-p2s4w6</LM>
 </w.rf>
 <form>Friedensreicha</form>
-<tag>
-<AM lemma="Friedensreich_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Friedensreich_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Friedensreicha_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Friedensreicha" src="auto">NNFS1-----A----</AM>
-<AM lemma="Friedensreich_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Friedensreich_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Friedensreich_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Friedensreich" src="auto">NNMS2-----A----</AM>
-<AM lemma="Friedensreicho" src="auto">NNNS2-----A----</AM>
-<AM lemma="friedensreicha" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Friedensreich_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-103-p2s4w7">
 <src.rf>manual</src.rf>
@@ -744,17 +733,7 @@
 <LM>w#w-ln94207-103-p2s4w10</LM>
 </w.rf>
 <form>Toya</form>
-<tag>
-<AM lemma="Toyo_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Toya_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Toyo_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Toya_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Toya_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Toya_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Toya" src="auto">NNFS1-----A----</AM>
-<AM lemma="Toy_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="toya" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Toyo_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-103-p2s4w11">
 <src.rf>manual</src.rf>
@@ -762,25 +741,7 @@
 <LM>w#w-ln94207-103-p2s4w11</LM>
 </w.rf>
 <form>Ita</form>
-<tag>
-<AM lemma="Ito_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Ito_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Ita" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ita" src="auto">NNMS1-----A----</AM>
-<AM lemma="It_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="It" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ita_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="It" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ito" src="auto">NNNS2-----A----</AM>
-<AM lemma="ita" src="auto">NNFS1-----A----</AM>
-<AM lemma="ít" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="ita_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="ita_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ita" src="auto">NNMS1-----A----</AM>
-<AM lemma="ito_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ita_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="ita-1_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ito_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-103-p2s4w12">
 <src.rf>manual</src.rf>
@@ -870,18 +831,7 @@
 <LM>w#w-ln94207-103-p3s1w6</LM>
 </w.rf>
 <form>Werkbundem</form>
-<tag>
-<AM lemma="Werkbund_;K" src="orig">NNIS7-----A----</AM>
-<AM lemma="Werkbund" src="auto">NNIS7-----A----</AM>
-<AM lemma="Werkbund_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Werkbund_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Werkbund_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Werkbund" src="auto">NNMS7-----A----</AM>
-<AM lemma="Werkbund_;K" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="Werkbundem" src="auto">Db-------------</AM>
-<AM lemma="Werkbunde_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="werkbundem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Werkbund_;K" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94207-103-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1931,17 +1881,7 @@
 <LM>w#w-ln94207-103-p3s6w12</LM>
 </w.rf>
 <form>Archigrad</form>
-<tag>
-<AM lemma="Archigrad_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Archigrad_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Archigrada" src="auto">NNFP2-----A----</AM>
-<AM lemma="Archigrad" src="auto">NNIS4-----A----</AM>
-<AM lemma="Archigrad" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Archigrady_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="rada-3_^(poArchigradní_sbor;_př._Česká_národní_r.)" src="auto">NNFP2-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_Archigradu)" src="auto">NNFP2-----A----</AM>
-<AM lemma="archigrad" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Archigrad_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-103-p3s6w13">
 <src.rf>manual</src.rf>
@@ -2467,14 +2407,7 @@
 <LM>w#w-ln94207-103-p4s3w9</LM>
 </w.rf>
 <form>Toyo</form>
-<tag>
-<AM lemma="Toyo_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Toyo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Toyo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Toyo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Toyo" src="auto">NNNS1-----A----</AM>
-<AM lemma="toyo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Toyo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-103-p4s3w10">
 <src.rf>manual</src.rf>
@@ -2516,17 +2449,7 @@
 <LM>w#w-ln94207-103-p4s4w3</LM>
 </w.rf>
 <form>stanovitých</form>
-<tag>
-<AM lemma="stanovitý" src="orig">AAIP2----1A----</AM>
-<AM lemma="stanovitý" src="auto">AAFP2----1A----</AM>
-<AM lemma="stanovitý" src="auto" recommended="1">AAIP2----1A----</AM>
-<AM lemma="stanovitý" src="auto">AAFP6----1A----</AM>
-<AM lemma="stanovitý" src="auto">AAMP2----1A----</AM>
-<AM lemma="stanovitý" src="auto">AANP2----1A----</AM>
-<AM lemma="stanovitý" src="auto">AAIP6----1A----</AM>
-<AM lemma="stanovitý_^(*2t)" src="auto">AAIP2----1A----</AM>
-<AM lemma="stanovitý_^(*2t)" src="auto">AAFP2----1A----</AM>
-</tag>
+<tag lemma="stanovitý" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln94207-103-p4s4w4">
 <src.rf>manual</src.rf>
@@ -2630,18 +2553,7 @@
 <LM>w#w-ln94207-103-p4s5w2</LM>
 </w.rf>
 <form>Bollesová</form>
-<tag>
-<AM lemma="Bollesová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Bollesová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Bollesový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Bollesový" src="auto">AANP1----1A----</AM>
-<AM lemma="Bollesový" src="auto">AANP4----1A----</AM>
-<AM lemma="Bollesová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bollesová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bollesový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Bollesový" src="auto">AAFS5----1A----</AM>
-<AM lemma="bollesová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bollesová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-103-p4s5w3">
 <src.rf>manual</src.rf>
@@ -2825,17 +2737,7 @@
 <LM>w#w-ln94207-103-p4s5w25</LM>
 </w.rf>
 <form>Ronchamp</form>
-<tag>
-<AM lemma="Ronchamp_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Ronchampa_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ronchampa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ronchamp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ronchamp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ronchamp_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Ronchamp-2_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="Ronchamp" src="auto">NNMS1-----A----</AM>
-<AM lemma="ronchamp" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ronchamp_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94207-103-p4s5w26">
 <src.rf>manual</src.rf>
@@ -3130,18 +3032,7 @@
 <LM>w#w-ln94207-103-p4s7w7</LM>
 </w.rf>
 <form>Bollesová</form>
-<tag>
-<AM lemma="Bollesová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Bollesová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Bollesový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Bollesový" src="auto">AANP1----1A----</AM>
-<AM lemma="Bollesový" src="auto">AANP4----1A----</AM>
-<AM lemma="Bollesová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bollesová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bollesový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Bollesový" src="auto">AAFS5----1A----</AM>
-<AM lemma="bollesová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bollesová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-103-p4s7w8">
 <src.rf>manual</src.rf>
@@ -3327,18 +3218,7 @@
 <LM>w#w-ln94207-103-p4s8w12</LM>
 </w.rf>
 <form>Kollhoffa</form>
-<tag>
-<AM lemma="Kollhoff_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Kollhoff_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Kollhoff_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kollhoff_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kollhoff" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kollhoff" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kollhoffa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kollhoffa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kollhoff_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="kollhoffa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kollhoff_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-103-p4s8w13">
 <src.rf>manual</src.rf>

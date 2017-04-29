@@ -1651,18 +1651,7 @@
 <LM>w#w-ln95045-018-p3s6w16</LM>
 </w.rf>
 <form>Mikulášík</form>
-<tag>
-<AM lemma="Mikulášík_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mikulášík_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mikulášík" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mikulášík" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mikulášík" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mikulášík_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mikulášík_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mikulášík-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mikulášík_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="mikulášík" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mikulášík_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-018-p3s6w17">
 <src.rf>manual</src.rf>
@@ -2856,18 +2845,7 @@
 <LM>w#w-ln95045-018-p6s1w7</LM>
 </w.rf>
 <form>Mikulášík</form>
-<tag>
-<AM lemma="Mikulášík_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mikulášík_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mikulášík" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mikulášík" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mikulášík" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Mikulášík_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mikulášík_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mikulášík-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mikulášík_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="mikulášík" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mikulášík_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-018-p6s1w8">
 <src.rf>manual</src.rf>

@@ -77,16 +77,7 @@
 <LM>w#w-ln94206-72-p2s1Aw3</LM>
 </w.rf>
 <form>hug</form>
-<tag>
-<AM lemma="hug-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hugalsko_:B_;G" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="huga" src="auto">NNFP2-----A----</AM>
-<AM lemma="hug_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="hug_:B_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="hug_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="hug" src="auto">NNMS1-----A----</AM>
-<AM lemma="hug" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="hug-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94206-72-p2s1Aw4">
 <src.rf>manual</src.rf>

@@ -1436,17 +1436,7 @@
 <LM>w#w-ln94210-2-p4s5w2</LM>
 </w.rf>
 <form>av</form>
-<tag>
-<AM lemma="av-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="av_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ava" src="auto">NNFP2-----A----</AM>
-<AM lemma="av-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="av" src="auto">NNIS4-----A----</AM>
-<AM lemma="av" src="auto">NNIS1-----A----</AM>
-<AM lemma="av_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="av_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="av_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-</tag>
+<tag lemma="av-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94210-2-p4s5w3">
 <src.rf>manual</src.rf>

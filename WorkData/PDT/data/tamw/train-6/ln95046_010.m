@@ -3574,15 +3574,6 @@
 <AM lemma="Ch-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Ch-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ch-8_:B_,x_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="Ch-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Ch-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Ch-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ch-4_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Ch-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Ch-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ch-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Ch-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Ch-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ch-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="ch-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>

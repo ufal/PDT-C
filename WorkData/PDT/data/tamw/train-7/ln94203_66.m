@@ -27,18 +27,7 @@
 <LM>w#w-ln94203-66-p1s1w2</LM>
 </w.rf>
 <form>Blackie</form>
-<tag>
-<AM lemma="Blackie_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Blackie_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Blackie_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Blackie_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Blackie_;U" src="auto">NNFS2-----A----</AM>
-<AM lemma="Blackie_;U" src="auto">NNFS1-----A----</AM>
-<AM lemma="Blackie_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Blackie_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Blackie" src="auto">NNFS2-----A----</AM>
-<AM lemma="blackie" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Blackie_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-66-p1s1w3">
 <src.rf>manual</src.rf>
@@ -158,17 +147,7 @@
 <LM>w#w-ln94203-66-p1s1w17</LM>
 </w.rf>
 <form>Goodchildovi</form>
-<tag>
-<AM lemma="Goodchild_;S" src="orig">NNMS6-----A----</AM>
-<AM lemma="Goodchild_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Goodchild" src="auto">NNMS3-----A----</AM>
-<AM lemma="Goodchild_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Goodchilda_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Goodchild_;S" src="auto" recommended="1">NNMS6-----A----</AM>
-<AM lemma="Goodchild" src="auto">NNMS6-----A----</AM>
-<AM lemma="Goodchildův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="goodchildovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Goodchild_;S" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln94203-66-p1s1w18">
 <src.rf>manual</src.rf>
@@ -210,18 +189,7 @@
 <LM>w#w-ln94203-66-p1s2w1</LM>
 </w.rf>
 <form>Goodchildův</form>
-<tag>
-<AM lemma="Goodchildův_;S_^(*2)" src="orig">AUMS1M---------</AM>
-<AM lemma="Goodchildův_;S_^(*2o)" src="auto">AUIS1M---------</AM>
-<AM lemma="Goodchildův_;S_^(*2a)" src="auto">AUMS1M---------</AM>
-<AM lemma="Goodchildův_;S_^(*2a)" src="auto">AUIS4M---------</AM>
-<AM lemma="Goodchildův_;S_^(*2a)" src="auto">AUIS1M---------</AM>
-<AM lemma="Goodchildův_;S_^(*2)" src="auto" recommended="1">AUMS1M---------</AM>
-<AM lemma="Goodchildův_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Goodchildův_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Goodchildův-1_;S_^(*5s-1)" src="auto">AUMS1M---------</AM>
-<AM lemma="goodchildův" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Goodchildův_;S_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-ln94203-66-p1s2w2">
 <src.rf>manual</src.rf>

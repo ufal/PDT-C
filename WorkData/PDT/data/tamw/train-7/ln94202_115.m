@@ -93,17 +93,7 @@
 <LM>w#w-ln94202-115-p2s1Aw5</LM>
 </w.rf>
 <form>lt</form>
-<tag>
-<AM lemma="lt-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lt_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="lt_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="lt" src="auto">NNIS4-----A----</AM>
-<AM lemma="lt" src="auto">NNIS1-----A----</AM>
-<AM lemma="lta" src="auto">NNFP2-----A----</AM>
-<AM lemma="lto" src="auto">NNNP2-----A----</AM>
-<AM lemma="lt_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="lt-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-115-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -839,18 +829,7 @@
 <LM>w#w-ln94202-115-p11s5w7</LM>
 </w.rf>
 <form>Čudrák</form>
-<tag>
-<AM lemma="Čudrák_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Čudrák_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Čudrák" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čudrák" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čudrák_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čudrák" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čudrák_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čudrák_,l_^(prostor_v_kasárnách)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čudrák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="čudrák" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Čudrák_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-115-p11s5w8">
 <src.rf>manual</src.rf>

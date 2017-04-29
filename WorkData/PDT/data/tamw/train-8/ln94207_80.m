@@ -263,18 +263,7 @@
 <LM>w#w-ln94207-80-p1s2w11</LM>
 </w.rf>
 <form>Allee</form>
-<tag>
-<AM lemma="Allee_;G" src="orig">NNFXX-----A----</AM>
-<AM lemma="Allee_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Allee_;G" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Allee_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Allee_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Allee_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Allee_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Allee_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="bungee_,t_^(Allee_jumping)" src="auto">AAXXX----1A----</AM>
-<AM lemma="allee" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Allee_;G" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94207-80-p1s2w12">
 <src.rf>manual</src.rf>

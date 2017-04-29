@@ -255,18 +255,7 @@
 <LM>w#w-ln94202-21-p2s2w6</LM>
 </w.rf>
 <form>Robaina</form>
-<tag>
-<AM lemma="Robaina_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Robaina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Robain_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Robaina_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Robain_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Robaina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Robaina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Robain_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Robaina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="robaina" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Robaina_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-21-p2s2w7">
 <src.rf>manual</src.rf>

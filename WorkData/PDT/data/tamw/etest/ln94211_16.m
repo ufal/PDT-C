@@ -987,18 +987,7 @@
 <LM>w#w-ln94211-16-p5s1w5</LM>
 </w.rf>
 <form>GNI</form>
-<tag>
-<AM lemma="GNI_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GNI" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gni_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gn" src="auto">NNMP1-----A----</AM>
-<AM lemma="gni_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="gna_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="gn_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="gni_;K" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="gni-2_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="gn" src="auto">NNMP1-----A----</AM>
-</tag>
+<tag lemma="GNI_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94211-16-p5s1w6">
 <src.rf>manual</src.rf>

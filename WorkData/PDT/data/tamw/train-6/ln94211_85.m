@@ -225,18 +225,7 @@
 <LM>w#w-ln94211-85-p2s2w9</LM>
 </w.rf>
 <form>Chlystuna</form>
-<tag>
-<AM lemma="Chlystun_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Chlystuna" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chlystun_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Chlystuna_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chlystuna_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chlystuno_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Chlystuno_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Chlystuno_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Chlystun_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="chlystuna" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chlystun_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-85-p2s2w10">
 <src.rf>manual</src.rf>
@@ -308,18 +297,7 @@
 <LM>w#w-ln94211-85-p2s2w18</LM>
 </w.rf>
 <form>Espym</form>
-<tag>
-<AM lemma="Espy_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Espy_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Espym_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Espym" src="auto">NNIS4-----A----</AM>
-<AM lemma="Espym" src="auto">NNIS1-----A----</AM>
-<AM lemma="Espy_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="Espy_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Espy_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Espymum" src="auto">NNNP2-----A----</AM>
-<AM lemma="espym" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Espy_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-85-p2s2w19">
 <src.rf>manual</src.rf>

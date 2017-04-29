@@ -67,18 +67,7 @@
 <LM>w#w-ln94203-94-p1s1w7</LM>
 </w.rf>
 <form>Jungle</form>
-<tag>
-<AM lemma="jungle_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Jungle_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Jungle_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Jungle_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Jungle-1_,t_^(angl._sám,_jeden,_jediný)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Jungle" src="auto">NNFS2-----A----</AM>
-<AM lemma="Jungle" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jungle" src="auto">NNFP4-----A----</AM>
-<AM lemma="Jungl" src="auto">NNMS2-----A----</AM>
-<AM lemma="jungle" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="jungle_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94203-94-p1s1w8">
 <src.rf>manual</src.rf>

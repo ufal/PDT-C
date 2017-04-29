@@ -327,18 +327,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Vukičová</form>
-<tag>
-<AM lemma="Vukičová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Vukičová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Vukičový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Vukičový" src="auto">AANP1----1A----</AM>
-<AM lemma="Vukičový" src="auto">AANP4----1A----</AM>
-<AM lemma="Vukičová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vukičová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vukičový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Vukičový" src="auto">AAFS5----1A----</AM>
-<AM lemma="vukičová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vukičová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-070-p2s1w34">
 <src.rf>manual</src.rf>
@@ -541,18 +530,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Bakaričové</form>
-<tag>
-<AM lemma="Bakaričová_;S" src="orig">NNFS2-----A----</AM>
-<AM lemma="Bakaričový" src="auto">AAFS2----1A----</AM>
-<AM lemma="Bakaričová_;S" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Bakaričový" src="auto">AAFS6----1A----</AM>
-<AM lemma="Bakaričový" src="auto">AAFP1----1A----</AM>
-<AM lemma="Bakaričový" src="auto">AAIP1----1A----</AM>
-<AM lemma="Bakaričový" src="auto">AAIP4----1A----</AM>
-<AM lemma="Bakaričový" src="auto">AAFP4----1A----</AM>
-<AM lemma="Bakaričový" src="auto">AANS1----1A----</AM>
-<AM lemma="bakaričové" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bakaričová_;S" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95049-070-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1215,18 +1193,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Vukičová</form>
-<tag>
-<AM lemma="Vukičová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Vukičová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Vukičový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Vukičový" src="auto">AANP1----1A----</AM>
-<AM lemma="Vukičový" src="auto">AANP4----1A----</AM>
-<AM lemma="Vukičová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vukičová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vukičový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Vukičový" src="auto">AAFS5----1A----</AM>
-<AM lemma="vukičová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vukičová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-070-p4s1w31">
 <src.rf>manual</src.rf>
@@ -1774,18 +1741,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Vukičová</form>
-<tag>
-<AM lemma="Vukičová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Vukičová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Vukičový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Vukičový" src="auto">AANP1----1A----</AM>
-<AM lemma="Vukičový" src="auto">AANP4----1A----</AM>
-<AM lemma="Vukičová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vukičová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vukičový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Vukičový" src="auto">AAFS5----1A----</AM>
-<AM lemma="vukičová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vukičová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-070-p5s1w3">
 <src.rf>manual</src.rf>
@@ -3842,17 +3798,7 @@
 <LM>w#w-ln95049-070-p11s1w21</LM>
 </w.rf>
 <form>Lidija</form>
-<tag>
-<AM lemma="Lidija_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Lidija_;R" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lidija_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lidije_,t" src="auto">NNNP1-----A----</AM>
-<AM lemma="Lidija_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lidija_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lidija_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Lidija_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lidija" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lidija_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-070-p11s1w22">
 <src.rf>manual</src.rf>

@@ -143,17 +143,7 @@
 <LM>w#w-mf930709-139-p2s1Bw9</LM>
 </w.rf>
 <form>Koševo</form>
-<tag>
-<AM lemma="Koševo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Koševo" src="auto">Db-------------</AM>
-<AM lemma="Koševo_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Koševo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Koševo" src="auto">NNNS1-----A----</AM>
-<AM lemma="naKoševo" src="auto">Db-------------</AM>
-<AM lemma="Koševo_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="Koševo" src="auto">NNNS4-----A----</AM>
-<AM lemma="koševo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Koševo_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-139-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -1539,18 +1529,7 @@
 <LM>w#w-mf930709-139-p5s1w13</LM>
 </w.rf>
 <form>Anadi</form>
-<tag>
-<AM lemma="Anadi_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Anad" src="auto">NNMP1-----A----</AM>
-<AM lemma="Anad" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Anadi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Anadi_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Anadi_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Anaď" src="auto">NNFS3-----A----</AM>
-<AM lemma="Anaď" src="auto">NNFS6-----A----</AM>
-<AM lemma="anadi" src="auto">NNMS1-----A----</AM>
-<AM lemma="anadi-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="Anadi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-139-p5s1w14">
 <src.rf>manual</src.rf>
@@ -1662,17 +1641,7 @@
 <LM>w#w-mf930709-139-p5s1w27</LM>
 </w.rf>
 <form>Koševo</form>
-<tag>
-<AM lemma="Koševo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Koševo" src="auto">Db-------------</AM>
-<AM lemma="Koševo_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Koševo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Koševo" src="auto">NNNS1-----A----</AM>
-<AM lemma="naKoševo" src="auto">Db-------------</AM>
-<AM lemma="Koševo_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="Koševo" src="auto">NNNS4-----A----</AM>
-<AM lemma="koševo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Koševo_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-139-p5s1w28">
 <src.rf>manual</src.rf>

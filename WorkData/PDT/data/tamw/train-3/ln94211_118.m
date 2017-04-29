@@ -1610,14 +1610,7 @@
 <LM>w#w-ln94211-118-p4s6w11</LM>
 </w.rf>
 <form>Labeny</form>
-<tag>
-<AM lemma="Labena_;K" src="orig">NNFS2-----A----</AM>
-<AM lemma="Labit_:W" src="auto" recommended="1">VsTP---XX-AP---</AM>
-<AM lemma="Labit" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="Labet_:T" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="Laben" src="auto">NNIP4-----A----</AM>
-<AM lemma="labeny" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Labena_;K" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94211-118-p4s6w12">
 <src.rf>manual</src.rf>

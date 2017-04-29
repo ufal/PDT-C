@@ -51,24 +51,7 @@
 <LM>w#w-mf920925-019-p1s1w5</LM>
 </w.rf>
 <form>WORLD</form>
-<tag>
-<AM lemma="World_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="WORLD-1_:B_;K_,t_^(Sojuzs_Lewicy_Demokratycznej)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="WORLD_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="WORLD_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="WORLD_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="WORLD_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="WORLD_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="World_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="World_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="World_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="world" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="World_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920925-019-p1s1w6">
 <src.rf>manual</src.rf>
@@ -84,23 +67,7 @@
 <LM>w#w-mf920925-019-p1s1w7</LM>
 </w.rf>
 <form>PHOTO</form>
-<tag>
-<AM lemma="Photo_;m_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="PHOTO_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNS1-----A----</AM>
-<AM lemma="PHOTO_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="PHOTO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="PHOTO-1_:B_^(lehký_topný_olej)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PHOTO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Photo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Photo" src="auto">NNNS4-----A----</AM>
-<AM lemma="tenPho" src="auto">PDNS4----------</AM>
-<AM lemma="tenPho" src="auto">PDNS1----------</AM>
-<AM lemma="tenP" src="auto">PDZS2----------</AM>
-<AM lemma="tenP" src="auto">PDMS4----------</AM>
-<AM lemma="proto-2_^(dal_mu_co_proto,_tak_Photo!)" src="auto">Db-------------</AM>
-<AM lemma="proto-1_^(proto;_a_proto,_ale_Photo,...)" src="auto">J^-------------</AM>
-<AM lemma="photo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Photo_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920925-019-p1s1w8">
 <src.rf>manual</src.rf>
@@ -290,17 +257,7 @@
 <LM>w#w-mf920925-019-p2s3w6</LM>
 </w.rf>
 <form>Turnleye</form>
-<tag>
-<AM lemma="Turnley_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Turnley_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Turnley_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Turnley_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Turnley_;R_,t_^(motorka)" src="auto">NNIP4-----A----</AM>
-<AM lemma="Turnleye_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Turnleye_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Turnley_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="turnleye" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Turnley_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-019-p2s3w7">
 <src.rf>manual</src.rf>
@@ -634,18 +591,7 @@
 <LM>w#w-mf920925-019-p2s6w1</LM>
 </w.rf>
 <form>Turnley</form>
-<tag>
-<AM lemma="Turnley_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Turnley_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Valley_;G_,t_^(např.Silicon_Turnley)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Turnley_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Turnley_;S" src="auto">NNXXX-----A---1</AM>
-<AM lemma="Turnley_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Turnley_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Turnley_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Turnley_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="turnley" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Turnley_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-019-p2s6w2">
 <src.rf>manual</src.rf>
@@ -765,18 +711,7 @@
 <LM>w#w-mf920925-019-p2s6w16</LM>
 </w.rf>
 <form>World</form>
-<tag>
-<AM lemma="World_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="World_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="World_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="world" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="World_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920925-019-p2s6w17">
 <src.rf>manual</src.rf>
@@ -792,18 +727,7 @@
 <LM>w#w-mf920925-019-p2s6w18</LM>
 </w.rf>
 <form>Photo</form>
-<tag>
-<AM lemma="Photo_;m_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Photo" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Photo" src="auto">NNNS4-----A----</AM>
-<AM lemma="tenPho" src="auto">PDNS4----------</AM>
-<AM lemma="tenPho" src="auto">PDNS1----------</AM>
-<AM lemma="tenP" src="auto">PDZS2----------</AM>
-<AM lemma="tenP" src="auto">PDMS4----------</AM>
-<AM lemma="proto-2_^(dal_mu_co_proto,_tak_Photo!)" src="auto">Db-------------</AM>
-<AM lemma="proto-1_^(proto;_a_proto,_ale_Photo,...)" src="auto">J^-------------</AM>
-<AM lemma="photo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Photo_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920925-019-p2s6w19">
 <src.rf>manual</src.rf>
@@ -1262,26 +1186,7 @@
 <LM>w#w-mf920925-019-p4s1w1</LM>
 </w.rf>
 <form>WPP</form>
-<tag>
-<AM lemma="WPP_:B_;m" src="orig">NNNXX-----A---8</AM>
-<AM lemma="WPP_:B_;m" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="WPP_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="WPP_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="WPP-1_:B_;K_;b_^(Burza_cenných_papírů_Praha)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="WPP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="WPP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="WPP_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="WPP_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wpp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wpp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wpp_;S" src="auto">NNMSX-----A----</AM>
-<AM lemma="Wpp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wpp_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Wpp-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Wpp" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wpp" src="auto">NNIS4-----A----</AM>
-<AM lemma="wpp" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="WPP_:B_;m" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-mf920925-019-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2441,17 +2346,7 @@
 <LM>w#w-mf920925-019-p5s1w5</LM>
 </w.rf>
 <form>Turnleye</form>
-<tag>
-<AM lemma="Turnley_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Turnley_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Turnley_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Turnley_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Turnley_;R_,t_^(motorka)" src="auto">NNIP4-----A----</AM>
-<AM lemma="Turnleye_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Turnleye_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Turnley_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="turnleye" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Turnley_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-019-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2515,18 +2410,7 @@
 <LM>w#w-mf920925-019-p5s2w1</LM>
 </w.rf>
 <form>Turnley</form>
-<tag>
-<AM lemma="Turnley_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Turnley_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Valley_;G_,t_^(např.Silicon_Turnley)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Turnley_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Turnley_;S" src="auto">NNXXX-----A---1</AM>
-<AM lemma="Turnley_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Turnley_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Turnley_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Turnley_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="turnley" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Turnley_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-019-p5s2w2">
 <src.rf>manual</src.rf>
@@ -3189,16 +3073,7 @@
 <LM>w#w-mf920925-019-p5s6w5</LM>
 </w.rf>
 <form>Stéfane</form>
-<tag>
-<AM lemma="Stéfane_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Stéfat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Stéfane_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stéfanout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Stéfane_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Stéfan_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Stéfane_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="stéfane" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stéfane_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-019-p5s6w6">
 <src.rf>manual</src.rf>
@@ -3206,18 +3081,7 @@
 <LM>w#w-mf920925-019-p5s6w6</LM>
 </w.rf>
 <form>Compoint</form>
-<tag>
-<AM lemma="Compoint_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Compoint" src="auto">NNIS1-----A----</AM>
-<AM lemma="Compoint" src="auto">NNIS4-----A----</AM>
-<AM lemma="Compoint_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Compoint_;Y_,t_^(v_cizích_názvech)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Compoint_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Compoint_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Compoint_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Compoint_,t_^(j._venture;_společný_podnik)" src="auto">AAIXX----1A----</AM>
-<AM lemma="compoint" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Compoint_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-019-p5s6w7">
 <src.rf>manual</src.rf>
@@ -3557,18 +3421,7 @@
 <LM>w#w-mf920925-019-p5s8w11</LM>
 </w.rf>
 <form>Compointova</form>
-<tag>
-<AM lemma="Compointův_;S_^(*2)" src="orig">AUFS1M---------</AM>
-<AM lemma="Compointův_;S_^(*2)" src="auto" recommended="1">AUFS1M---------</AM>
-<AM lemma="Compointův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Compointov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Compointov_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Compointův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Compointův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Compointov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Compointův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="compointova" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Compointův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf920925-019-p5s8w12">
 <src.rf>manual</src.rf>

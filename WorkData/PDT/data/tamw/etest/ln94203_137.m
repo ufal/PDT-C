@@ -43,22 +43,7 @@
 <LM>w#w-ln94203-137-p1s1w4</LM>
 </w.rf>
 <form>CERGE</form>
-<tag>
-<AM lemma="CERGE_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CERGE-1_:B_;K_,t_^(General_Electric_Company)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="CERGE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="CERGE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CERGE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="Cerge_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Cerge_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cerge_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="cerge" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="CERGE_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94203-137-p1s1w5">
 <src.rf>manual</src.rf>
@@ -246,22 +231,7 @@
 <LM>w#w-ln94203-137-p2s1Bw19</LM>
 </w.rf>
 <form>CERGE</form>
-<tag>
-<AM lemma="CERGE_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CERGE-1_:B_;K_,t_^(General_Electric_Company)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="CERGE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="CERGE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CERGE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="Cerge_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Cerge_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cerge_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="cerge" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="CERGE_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94203-137-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -467,22 +437,7 @@
 <LM>w#w-ln94203-137-p3s1w6</LM>
 </w.rf>
 <form>CERGE</form>
-<tag>
-<AM lemma="CERGE_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CERGE-1_:B_;K_,t_^(General_Electric_Company)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="CERGE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="CERGE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CERGE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="Cerge_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Cerge_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cerge_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="cerge" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="CERGE_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94203-137-p3s1w7">
 <src.rf>manual</src.rf>

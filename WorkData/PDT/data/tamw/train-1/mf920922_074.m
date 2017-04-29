@@ -1055,18 +1055,7 @@
 <LM>w#w-mf920922-074-p2s6Bw16</LM>
 </w.rf>
 <form>Czechoslovak</form>
-<tag>
-<AM lemma="Czechoslovak_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Czechoslovak_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Czechoslovak_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Czechoslovak" src="auto">NNIS4-----A----</AM>
-<AM lemma="Czechoslovak" src="auto">NNIS1-----A----</AM>
-<AM lemma="Czechoslovak" src="auto">Db-------------</AM>
-<AM lemma="Czechoslovak_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Czechoslovak-1" src="auto">Db-------------</AM>
-<AM lemma="Czechoslovak" src="auto">NNMS1-----A----</AM>
-<AM lemma="czechoslovak" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Czechoslovak_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920922-074-p2s6Bw17">
 <src.rf>manual</src.rf>

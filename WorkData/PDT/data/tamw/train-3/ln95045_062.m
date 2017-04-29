@@ -1169,13 +1169,7 @@
 <LM>w#w-ln95045-062-p5s1w17</LM>
 </w.rf>
 <form>quo</form>
-<tag>
-<AM lemma="quo_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="quo_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="quo_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="quo" src="auto">NNNS4-----A----</AM>
-<AM lemma="quo" src="auto">NNNS1-----A----</AM>
-</tag>
+<tag lemma="quo_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95045-062-p5s1w18">
 <src.rf>manual</src.rf>

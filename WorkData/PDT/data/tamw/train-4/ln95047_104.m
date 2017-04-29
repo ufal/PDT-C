@@ -51,17 +51,7 @@
 <LM>w#w-ln95047-104-p1s1w5</LM>
 </w.rf>
 <form>chmurce</form>
-<tag>
-<AM lemma="chmurec" src="orig">NNMS2-----A----</AM>
-<AM lemma="chmurka" src="auto">NNFS6-----A----</AM>
-<AM lemma="chmurce" src="auto">NNMS1-----A----</AM>
-<AM lemma="chmurce" src="auto">NNFS1-----A----</AM>
-<AM lemma="chmurka" src="auto">NNFS3-----A----</AM>
-<AM lemma="chmurce" src="auto">NNMP4-----A----</AM>
-<AM lemma="chmurec" src="auto">NNIS2-----A----</AM>
-<AM lemma="chmurce" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="chmurka_^(*2)" src="auto">NNFS3-----A----</AM>
-</tag>
+<tag lemma="chmurec" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95047-104-p2s1A">
@@ -177,17 +167,7 @@
 <LM>w#w-ln95047-104-p2s1Bw12</LM>
 </w.rf>
 <form>chmurce</form>
-<tag>
-<AM lemma="chmurec" src="orig">NNMS2-----A----</AM>
-<AM lemma="chmurka" src="auto">NNFS6-----A----</AM>
-<AM lemma="chmurce" src="auto">NNMS1-----A----</AM>
-<AM lemma="chmurce" src="auto">NNFS1-----A----</AM>
-<AM lemma="chmurka" src="auto">NNFS3-----A----</AM>
-<AM lemma="chmurce" src="auto">NNMP4-----A----</AM>
-<AM lemma="chmurec" src="auto">NNIS2-----A----</AM>
-<AM lemma="chmurce" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="chmurka_^(*2)" src="auto">NNFS3-----A----</AM>
-</tag>
+<tag lemma="chmurec" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-104-p2s1Bw13">
 <src.rf>manual</src.rf>

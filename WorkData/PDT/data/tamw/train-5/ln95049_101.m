@@ -207,25 +207,7 @@
 <LM>w#w-ln95049-101-p2s1Bw15</LM>
 </w.rf>
 <form>HTT</form>
-<tag>
-<AM lemma="HTT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="HTT_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="HTT_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HTT_:B_,t_^(telekomunikace)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HTT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HTT_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="HTT-1_:B_;K_,t_^(Inter._Telephone_and_Telgraph_Corporation)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="HTT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Htt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Htt-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Htt_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Htt_;R_^(časopis)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Htt_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Htt_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Htt_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Htt_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="htt" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="HTT_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95049-101-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -637,25 +619,7 @@
 <LM>w#w-ln95049-101-p2s3w5</LM>
 </w.rf>
 <form>HTT</form>
-<tag>
-<AM lemma="HTT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="HTT_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="HTT_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HTT_:B_,t_^(telekomunikace)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HTT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HTT_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="HTT-1_:B_;K_,t_^(Inter._Telephone_and_Telgraph_Corporation)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="HTT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Htt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Htt-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Htt_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Htt_;R_^(časopis)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Htt_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Htt_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Htt_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Htt_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="htt" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="HTT_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95049-101-p2s3w6">
 <src.rf>manual</src.rf>

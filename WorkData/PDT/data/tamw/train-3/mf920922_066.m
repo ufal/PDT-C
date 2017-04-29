@@ -1093,18 +1093,7 @@
 <LM>w#w-mf920922-066-p3s2w7</LM>
 </w.rf>
 <form>Čatár</form>
-<tag>
-<AM lemma="Čatár_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Čatár_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Čatár" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čatár" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čatár_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čatár_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čatára" src="auto">NNFP2-----A----</AM>
-<AM lemma="Čatár_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čatár_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="čatár" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Čatár_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-066-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1596,15 +1585,7 @@
 <LM>w#w-mf920922-066-p4s2w8</LM>
 </w.rf>
 <form>Bandurowský</form>
-<tag>
-<AM lemma="Bandurowský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bandurowský" src="auto">AAIS1----1A----</AM>
-<AM lemma="Bandurowský" src="auto">AAMS1----1A----</AM>
-<AM lemma="Bandurowský" src="auto">AAIS4----1A----</AM>
-<AM lemma="Bandurowský_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bandurowský_;S" src="auto">AAMS1----1A----</AM>
-<AM lemma="bandurowský" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bandurowský_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-066-p4s2w9">
 <src.rf>manual</src.rf>

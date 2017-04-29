@@ -780,18 +780,7 @@
 <LM>w#w-ln95045-056-p4s1w22</LM>
 </w.rf>
 <form>Uige</form>
-<tag>
-<AM lemma="Uige_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Uige_;m_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Uige_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Uige_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Uige_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Uige_;Y" src="auto">AAXXX----1A----</AM>
-<AM lemma="Uige_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Uige_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Uige_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="uige" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Uige_;G" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95045-056-p4s1w23">
 <src.rf>manual</src.rf>

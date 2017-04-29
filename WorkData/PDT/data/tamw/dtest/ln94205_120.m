@@ -1375,18 +1375,7 @@
 <LM>w#w-ln94205-120-p2s8w14</LM>
 </w.rf>
 <form>Younesem</form>
-<tag>
-<AM lemma="Younes_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Younes" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="Younes_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Younes_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Youneso" src="auto">NNNS7-----A----</AM>
-<AM lemma="Younes_;S_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Younes_;K" src="auto">NNIS7-----A----</AM>
-<AM lemma="Younes_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Younes" src="auto">NNMS7-----A----</AM>
-<AM lemma="younesem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Younes_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-120-p2s8w15">
 <src.rf>manual</src.rf>
@@ -1792,18 +1781,7 @@
 <LM>w#w-ln94205-120-p2s9w23</LM>
 </w.rf>
 <form>Ullyetta</form>
-<tag>
-<AM lemma="Ullyett_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Ullyett_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ullyett_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Ullyetta_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ullyetta_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ullyetta_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ullyetta_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ullyetto_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ullyetto" src="auto">NNNS2-----A----</AM>
-<AM lemma="ullyetta" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ullyett_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94205-120-p2s9w24">
 <src.rf>manual</src.rf>
@@ -2137,18 +2115,7 @@
 <LM>w#w-ln94205-120-p3s1w21</LM>
 </w.rf>
 <form>Gyetko</form>
-<tag>
-<AM lemma="Gyetko_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gyetko" src="auto">NNNS1-----A----</AM>
-<AM lemma="Gyetko" src="auto">NNNS4-----A----</AM>
-<AM lemma="Gyetko_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gyetko" src="auto">Db-------------</AM>
-<AM lemma="Gyetka_;Y" src="auto">NNFS5-----A----</AM>
-<AM lemma="Gyetkový" src="auto">A2--------A----</AM>
-<AM lemma="Gyetko_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gyetký" src="auto">A2--------A----</AM>
-<AM lemma="gyetko" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gyetko_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-120-p3s1w22">
 <src.rf>manual</src.rf>
@@ -2164,18 +2131,7 @@
 <LM>w#w-ln94205-120-p3s1w23</LM>
 </w.rf>
 <form>Nainkin</form>
-<tag>
-<AM lemma="Nainkin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nainkin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nainkino" src="auto">NNNP2-----A----</AM>
-<AM lemma="Nainking_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Nainkin" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nainkina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Nainkin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nainkin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nainkin" src="auto">NNIS4-----A----</AM>
-<AM lemma="nainkin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nainkin_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-120-p3s1w24">
 <src.rf>manual</src.rf>
@@ -3295,18 +3251,7 @@
 <LM>w#w-ln94205-120-p5s2w16</LM>
 </w.rf>
 <form>French</form>
-<tag>
-<AM lemma="French_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="French_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="French_;w_,t_^(French_Open)" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_;w_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="French_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="French_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fren" src="auto">AAFP2----1A----</AM>
-<AM lemma="Fren" src="auto">AAIP2----1A----</AM>
-<AM lemma="french" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="French_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-120-p5s2w17">
 <src.rf>manual</src.rf>
@@ -3614,17 +3559,7 @@
 <LM>w#w-ln94205-120-p6s2w11</LM>
 </w.rf>
 <form>Raouxem</form>
-<tag>
-<AM lemma="Raoux_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Raoux" src="auto">NNIS7-----A----</AM>
-<AM lemma="Raoux_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Raoux_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Raoux-1_;K_;R" src="auto">NNIS7-----A----</AM>
-<AM lemma="Raoux" src="auto">NNMS7-----A----</AM>
-<AM lemma="Raouxo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Raoux_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="raouxem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Raoux_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-120-p6s2w12">
 <src.rf>manual</src.rf>

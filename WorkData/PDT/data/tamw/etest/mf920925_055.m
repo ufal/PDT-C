@@ -500,18 +500,7 @@
 <LM>w#w-mf920925-055-p5s1w2</LM>
 </w.rf>
 <form>Conmebolu</form>
-<tag>
-<AM lemma="Conmebol_;m" src="orig">NNIS2-----A----</AM>
-<AM lemma="Conmebol" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Conmebol" src="auto">NNIS6-----A----</AM>
-<AM lemma="Conmebola" src="auto">NNFS4-----A----</AM>
-<AM lemma="Conmebol" src="auto">NNIS3-----A----</AM>
-<AM lemma="Conmebol_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Conmebol_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Conmebol_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Conmebol" src="auto">NNIS6-----A---1</AM>
-<AM lemma="conmebolu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Conmebol_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920925-055-p5s1w3">
 <src.rf>manual</src.rf>

@@ -61,19 +61,7 @@
 <LM>w#w-ln94200-31-p2s1Aw3</LM>
 </w.rf>
 <form>ev</form>
-<tag>
-<AM lemma="ev-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ev" src="auto">NNFS1-----A----</AM>
-<AM lemma="ev" src="auto">NNFS4-----A----</AM>
-<AM lemma="ev" src="auto">NNIS1-----A----</AM>
-<AM lemma="ev" src="auto">NNIS4-----A----</AM>
-<AM lemma="ev-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="ev_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="eva" src="auto">NNFP2-----A----</AM>
-<AM lemma="eveřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="va" src="auto">NNFP2-----A----</AM>
-<AM lemma="vo" src="auto">NNNP2-----A----</AM>
-</tag>
+<tag lemma="ev-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-31-p2s1Aw4">
 <src.rf>manual</src.rf>

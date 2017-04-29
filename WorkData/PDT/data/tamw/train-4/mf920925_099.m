@@ -507,18 +507,7 @@
 <LM>w#w-mf920925-099-p2s3w12</LM>
 </w.rf>
 <form>Moskovskaja</form>
-<tag>
-<AM lemma="Moskovskij_;R_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="Moskovskij_;R_,t" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="Moskovskaja_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Moskovskať_,t" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="Moskovskyj_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Moskovskyj_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Moskovskij_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Moskovskaja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Moskovskaja_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="moskovskaja" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Moskovskij_;R_,t" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf920925-099-p2s3w13">
 <src.rf>manual</src.rf>

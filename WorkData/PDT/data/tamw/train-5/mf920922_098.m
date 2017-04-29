@@ -368,18 +368,7 @@
 <LM>w#w-mf920922-098-p1s2w36</LM>
 </w.rf>
 <form>Drie</form>
-<tag>
-<AM lemma="Drie_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Drie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Drie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Drie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Drie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Drie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Drie_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Drie_;R_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Drie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="drie" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Drie_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920922-098-p1s2w37">
 <src.rf>manual</src.rf>
@@ -411,18 +400,7 @@
 <LM>w#w-mf920922-098-p1s2w40</LM>
 </w.rf>
 <form>Siebengewaldu</form>
-<tag>
-<AM lemma="Siebengewald_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Siebengewald_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Siebengewald_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Siebengewald_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Siebengewaldo" src="auto">NNNS6-----A----</AM>
-<AM lemma="Siebengewalda_;Y" src="auto">NNFS4-----A----</AM>
-<AM lemma="Siebengewalda_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Siebengewald_;S" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Siebengewald" src="auto">NNIS6-----A----</AM>
-<AM lemma="siebengewaldu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Siebengewald_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920922-098-p1s2w41">
 <src.rf>manual</src.rf>

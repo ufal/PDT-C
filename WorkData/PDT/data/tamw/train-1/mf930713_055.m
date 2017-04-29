@@ -752,18 +752,7 @@
 <LM>w#w-mf930713-055-p2s4w30</LM>
 </w.rf>
 <form>Jimfa</form>
-<tag>
-<AM lemma="Jimfa_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Jimfa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jimfa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jimf_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Jimf_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Jimf_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Jimf" src="auto">NNMS4-----A----</AM>
-<AM lemma="Jimf" src="auto">NNMS2-----A----</AM>
-<AM lemma="Jimf_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="jimfa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jimfa_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-055-p2s4w31">
 <src.rf>manual</src.rf>
@@ -933,18 +922,7 @@
 <LM>w#w-mf930713-055-p2s5w20</LM>
 </w.rf>
 <form>Kressa</form>
-<tag>
-<AM lemma="Kressa_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kressa_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kressa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kressa_;G_;Y_^(operace;;město)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kressa_;G_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Kressa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kressa_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Kressa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kressa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="kressa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kressa_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-055-p2s5w21">
 <src.rf>manual</src.rf>

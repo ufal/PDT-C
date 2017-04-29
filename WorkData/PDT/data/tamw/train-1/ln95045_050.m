@@ -69,18 +69,7 @@
 <LM>w#w-ln95045-050-p2s1Aw3</LM>
 </w.rf>
 <form>Asger</form>
-<tag>
-<AM lemma="Asger_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Asger_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Asger_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Asger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Asžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Asger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Asger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Asger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Asger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="asger" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Asger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-050-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -234,20 +223,7 @@
 <LM>w#w-ln95045-050-p2s1Bw12</LM>
 </w.rf>
 <form>ASGERA</form>
-<tag>
-<AM lemma="Asger_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Asger_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="ASGERA_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Asger_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Asger_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Asgera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Asger" src="auto">NNMS4-----A----</AM>
-<AM lemma="Asger" src="auto">NNMS2-----A----</AM>
-<AM lemma="Asgera" src="auto">NNFS1-----A----</AM>
-<AM lemma="Asger_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Asgero" src="auto">NNNS2-----A----</AM>
-<AM lemma="asgera" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Asger_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-050-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -895,18 +871,7 @@
 <LM>w#w-ln95045-050-p3s3w1</LM>
 </w.rf>
 <form>Asger</form>
-<tag>
-<AM lemma="Asger_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Asger_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Asger_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Asger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Asžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Asger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Asger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Asger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Asger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="asger" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Asger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-050-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1652,18 +1617,7 @@
 <LM>w#w-ln95045-050-p3s8w1</LM>
 </w.rf>
 <form>Asger</form>
-<tag>
-<AM lemma="Asger_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Asger_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Asger_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Asger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Asžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Asger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Asger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Asger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Asger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="asger" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Asger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-050-p3s8w2">
 <src.rf>manual</src.rf>
@@ -2934,18 +2888,7 @@
 <LM>w#w-ln95045-050-p4s7w1</LM>
 </w.rf>
 <form>Asger</form>
-<tag>
-<AM lemma="Asger_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Asger_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Asger_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Asger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Asžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Asger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Asger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Asger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Asger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="asger" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Asger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-050-p4s7w2">
 <src.rf>manual</src.rf>

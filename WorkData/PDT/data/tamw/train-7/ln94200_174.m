@@ -19,18 +19,7 @@
 <LM>w#w-ln94200-174-p1s1w1</LM>
 </w.rf>
 <form>Dream</form>
-<tag>
-<AM lemma="dream-2_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Dream_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Dream_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Dream_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Dream_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Dream_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dream_;G" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Dream_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Dream-2_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dream" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="dream-2_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94200-174-p1s1w2">
 <src.rf>manual</src.rf>
@@ -53,25 +42,7 @@
 <LM>w#w-ln94200-174-p1s1w3</LM>
 </w.rf>
 <form>All</form>
-<tag>
-<AM lemma="All_;K_,t" src="orig">PLXXX----------</AM>
-<AM lemma="All_;m_,t" src="auto">PLNS4----------</AM>
-<AM lemma="All_;K_,t" src="auto" recommended="1">PLXXX----------</AM>
-<AM lemma="All_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="All_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="All_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="All_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="All_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="All_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="all_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="all_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;w_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="all_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="all_,t_^(řec._jinak)" src="auto">Db-------------</AM>
-</tag>
+<tag lemma="All_;K_,t" src="orig" selected="1">PLXXX----------</tag>
 </m>
 <m id="m-ln94200-174-p1s1w4">
 <src.rf>manual</src.rf>
@@ -79,18 +50,7 @@
 <LM>w#w-ln94200-174-p1s1w4</LM>
 </w.rf>
 <form>Stars</form>
-<tag>
-<AM lemma="Star_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Stars_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Star_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Star_;K_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Star_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Stars_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stars_:B_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Stars_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Stars-2_;R_^(planeta;;kosmická_sonda)" src="auto">NNIS4-----A----</AM>
-<AM lemma="stars" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Star_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94200-174-p1s1w5">
 <src.rf>manual</src.rf>
@@ -964,29 +924,7 @@
 <LM>w#w-ln94200-174-p2s6w7</LM>
 </w.rf>
 <form>Deo</form>
-<tag>
-<AM lemma="Deo_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="Deo_;K" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Deo_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Deo_;K_;R_;u_^(opera)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Deo_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="Deo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Deo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Deo_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Deo_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="deo-1" src="auto">NNNS1-----A----</AM>
-<AM lemma="deo-1" src="auto">NNNS4-----A----</AM>
-<AM lemma="deo-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="deo_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="deo_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="deo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="deo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="deo_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="deo_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="deobchodní_:B_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
-<AM lemma="deokresní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="deomezený_:B" src="auto">AANS7----1A---8</AM>
-</tag>
+<tag lemma="Deo_;K" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94200-174-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1013,18 +951,7 @@
 <LM>w#w-ln94200-174-p2s6w10</LM>
 </w.rf>
 <form>Peanuts</form>
-<tag>
-<AM lemma="Peanut_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Peanut_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Peanut_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Peanut_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Peanuts_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Peanut_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Peanut_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Peanut_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Peanuts_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="peanuts" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Peanut_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94200-174-p2s6w11">
 <src.rf>manual</src.rf>
@@ -1048,17 +975,7 @@
 <LM>w#w-ln94200-174-p2s6w13</LM>
 </w.rf>
 <form>pz</form>
-<tag>
-<AM lemma="pz-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="pz-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="pz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pz" src="auto">NNIS4-----A----</AM>
-<AM lemma="pz" src="auto">NNIS1-----A----</AM>
-<AM lemma="pza" src="auto">NNFP2-----A----</AM>
-<AM lemma="pz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ps" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="pz-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-174-p2s6w14">
 <src.rf>manual</src.rf>

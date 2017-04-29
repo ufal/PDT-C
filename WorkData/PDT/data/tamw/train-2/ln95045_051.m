@@ -1472,18 +1472,7 @@
 <LM>w#w-ln95045-051-p3s8w1</LM>
 </w.rf>
 <form>Doležalovci</form>
-<tag>
-<AM lemma="Doležalovec_;m" src="orig">NNMP1-----A----</AM>
-<AM lemma="Doležalovec" src="auto">NNMP1-----A----</AM>
-<AM lemma="Doležalovec" src="auto">NNMP7-----A----</AM>
-<AM lemma="Doležalovec_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Doležalovce" src="auto">NNMP1-----A----</AM>
-<AM lemma="Doležalovec" src="auto">NNIS6-----A----</AM>
-<AM lemma="Doležalovec_;m" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Doležalovec" src="auto">NNMS6-----A----</AM>
-<AM lemma="Doležalovec" src="auto">NNMS3-----A----</AM>
-<AM lemma="doležalovci" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Doležalovec_;m" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95045-051-p3s8w2">
 <src.rf>manual</src.rf>

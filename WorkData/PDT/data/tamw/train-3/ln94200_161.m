@@ -263,18 +263,7 @@
 <LM>w#w-ln94200-161-p2s1Cw14</LM>
 </w.rf>
 <form>Kieren</form>
-<tag>
-<AM lemma="Kieren_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kierna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kieren_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kieren_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kieren_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kiere_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Kierný" src="auto">ACYS------A----</AM>
-<AM lemma="Kierna" src="auto">NNNP2-----A----</AM>
-<AM lemma="Kier_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="kieren" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kieren_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-161-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -2210,21 +2199,7 @@
 <LM>w#w-ln94200-161-p5s1w9</LM>
 </w.rf>
 <form>zp</form>
-<tag>
-<AM lemma="zp-8_:B_^(ost._zkratka)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="zp" src="auto">NNIS1-----A----</AM>
-<AM lemma="zp" src="auto">NNIS4-----A----</AM>
-<AM lemma="zp" src="auto">NNMS1-----A----</AM>
-<AM lemma="zp-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="zp-8_:B_^(ost._zkratka)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="zp-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="zp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="zp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="zpage_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="zpodnik_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="zpopisný_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="způsob_:B_,a" src="auto" recommended="1">NNIXX-----A---8</AM>
-</tag>
+<tag lemma="zp-8_:B_^(ost._zkratka)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94200-161-p5s1w10">
 <src.rf>manual</src.rf>

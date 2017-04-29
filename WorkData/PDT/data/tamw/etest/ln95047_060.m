@@ -2275,18 +2275,7 @@
 <LM>w#w-ln95047-060-p4s3Aw2</LM>
 </w.rf>
 <form>Oralisté</form>
-<tag>
-<AM lemma="oralista" src="orig">NNMP1-----A----</AM>
-<AM lemma="Oralista" src="auto">NNMP1-----A----</AM>
-<AM lemma="Oralistý" src="auto">AANS1----1A----</AM>
-<AM lemma="Oralistý" src="auto">AAFS2----1A----</AM>
-<AM lemma="Oralistý" src="auto">AAIP1----1A----</AM>
-<AM lemma="Oralistý" src="auto">AAFS6----1A----</AM>
-<AM lemma="Oralistý" src="auto">AAFP4----1A----</AM>
-<AM lemma="Oralistý" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="Oralistý" src="auto">AANS4----1A----</AM>
-<AM lemma="oralisté" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="oralista" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95047-060-p4s3Aw3">
 <src.rf>manual</src.rf>
@@ -2490,17 +2479,7 @@
 <LM>w#w-ln95047-060-p4s4w2</LM>
 </w.rf>
 <form>oralismu</form>
-<tag>
-<AM lemma="oralismus" src="orig">NNIS2-----A----</AM>
-<AM lemma="oralismus" src="auto">NNIS2-----A----</AM>
-<AM lemma="oralismus" src="auto">NNIS3-----A----</AM>
-<AM lemma="oralismus" src="auto">NNIS6-----A----</AM>
-<AM lemma="oralizmus" src="auto" recommended="1">NNIS2-----A---1</AM>
-<AM lemma="oralizmus" src="auto">NNIS2-----A----</AM>
-<AM lemma="oralizmus" src="auto">NNIS3-----A---1</AM>
-<AM lemma="oralizmus" src="auto">NNIS6-----A---1</AM>
-<AM lemma="oralizmus_,x" src="auto">NNIS2-----A----</AM>
-</tag>
+<tag lemma="oralismus" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95047-060-p4s4w3">
 <src.rf>manual</src.rf>
@@ -4565,36 +4544,7 @@
 <LM>w#w-ln95047-060-p4s17w5</LM>
 </w.rf>
 <form>bilingvální</form>
-<tag>
-<AM lemma="bilingvální" src="orig">AAFS4----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAFP1----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAFP4----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAFP5----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAFS1----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAFS2----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAFS3----1A----</AM>
-<AM lemma="bilingvální" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAFS5----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAFS6----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAFS7----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAIP1----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAIP4----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAIP5----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAIS1----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAIS4----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAIS5----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAMP1----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAMP4----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAMP5----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAMS1----1A----</AM>
-<AM lemma="bilingvální" src="auto">AAMS5----1A----</AM>
-<AM lemma="bilingvální" src="auto">AANP1----1A----</AM>
-<AM lemma="bilingvální" src="auto">AANP4----1A----</AM>
-<AM lemma="bilingvální" src="auto">AANP5----1A----</AM>
-<AM lemma="bilingvální" src="auto">AANS1----1A----</AM>
-<AM lemma="bilingvální" src="auto">AANS4----1A----</AM>
-<AM lemma="bilingvální" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="bilingvální" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln95047-060-p4s17w6">
 <src.rf>manual</src.rf>

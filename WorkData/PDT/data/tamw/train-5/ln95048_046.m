@@ -953,18 +953,7 @@
 <LM>w#w-ln95048-046-p2s12w13</LM>
 </w.rf>
 <form>Rodríga</form>
-<tag>
-<AM lemma="Rodrígo_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Rodrígo_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Rodríg_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rodríg" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rodríga" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rodríg" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rodríg_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rodríga_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rodríga_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="rodríga" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rodrígo_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-046-p2s12w14">
 <src.rf>manual</src.rf>
@@ -988,21 +977,7 @@
 <LM>w#w-ln95048-046-p2s12w16</LM>
 </w.rf>
 <form>Vivar</form>
-<tag>
-<AM lemma="Vivar_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vivar" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vivar" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vivar_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vivar_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vivar_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vivar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Vivar_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vivariabilní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="vivar" src="auto">NNIS1-----A----</AM>
-<AM lemma="vivar" src="auto">NNIS4-----A----</AM>
-<AM lemma="vivar" src="auto">NNMS1-----A----</AM>
-<AM lemma="vivara_,s" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="Vivar_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-046-p2s12w17">
 <src.rf>manual</src.rf>
@@ -1806,17 +1781,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>chansons</form>
-<tag>
-<AM lemma="chanson_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="chanson_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="chanson_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="chansons_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="chanson_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="chansons_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="chanson_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="chanson_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="chanson_;K_,t" src="auto">NNNPX-----A----</AM>
-</tag>
+<tag lemma="chanson_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln95048-046-p2s18w12">
 <src.rf>manual</src.rf>
@@ -2547,13 +2512,7 @@
 <LM>w#w-ln95048-046-p2s24w3</LM>
 </w.rf>
 <form>Camili</form>
-<tag>
-<AM lemma="Camili_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Camit_:W" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Camit_:T" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Camít" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="camili" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Camili_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-046-p2s24w4">
 <src.rf>manual</src.rf>
@@ -2830,14 +2789,7 @@
 <LM>w#w-ln95048-046-p2s24w37</LM>
 </w.rf>
 <form>cidovský</form>
-<tag>
-<AM lemma="cidovský" src="orig">AAIS4----1A----</AM>
-<AM lemma="cidovský" src="auto">AAIS1----1A----</AM>
-<AM lemma="cidovský" src="auto">AAMS1----1A----</AM>
-<AM lemma="cidovský" src="auto" recommended="1">AAIS4----1A----</AM>
-<AM lemma="cidovský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="cidovský_;S" src="auto">AAMS1----1A----</AM>
-</tag>
+<tag lemma="cidovský" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln95048-046-p2s24w38">
 <src.rf>manual</src.rf>

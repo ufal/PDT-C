@@ -3241,18 +3241,7 @@
 <LM>w#w-ln94208-132-p7s3w5</LM>
 </w.rf>
 <form>mikrostátem</form>
-<tag>
-<AM lemma="mikrostát" src="orig">NNIS7-----A----</AM>
-<AM lemma="mikrostá" src="auto">NNNS7-----A----</AM>
-<AM lemma="mikrostáet" src="auto">NNIS7-----A----</AM>
-<AM lemma="mikrostát" src="auto">NNFP3-----A----</AM>
-<AM lemma="mikrostát" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="mikrostát" src="auto">NNMS7-----A----</AM>
-<AM lemma="mikrostát-1_^(státní_útvar)" src="auto">NNIS7-----A----</AM>
-<AM lemma="mikrostát_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="mikrostát_^(*3ý)" src="auto">NNFP3-----A----</AM>
-<AM lemma="mikrostáto" src="auto">NNNS7-----A----</AM>
-</tag>
+<tag lemma="mikrostát" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94208-132-p7s3w6">
 <src.rf>manual</src.rf>

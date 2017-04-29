@@ -1137,45 +1137,7 @@
 <LM>w#w-ln94204-48-p3s4w30</LM>
 </w.rf>
 <form>Podmostní</form>
-<tag>
-<AM lemma="Podmostní_;G" src="orig">AAFS6----1A----</AM>
-<AM lemma="Podmostní" src="auto">AAFS1----1A----</AM>
-<AM lemma="Podmostní" src="auto">AAFS2----1A----</AM>
-<AM lemma="Podmostní" src="auto">AAFS4----1A----</AM>
-<AM lemma="Podmostní" src="auto">AAFS7----1A----</AM>
-<AM lemma="Podmostní" src="auto">AAIS1----1A----</AM>
-<AM lemma="Podmostní" src="auto">AAIS4----1A----</AM>
-<AM lemma="Podmostní" src="auto">AANS1----1A----</AM>
-<AM lemma="Podmostní" src="auto">AANS4----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFP1----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFP4----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFP5----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFS1----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFS2----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFS3----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFS4----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFS5----1A----</AM>
-<AM lemma="podmostní" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFS7----1A----</AM>
-<AM lemma="podmostní" src="auto">AAIP1----1A----</AM>
-<AM lemma="podmostní" src="auto">AAIP4----1A----</AM>
-<AM lemma="podmostní" src="auto">AAIP5----1A----</AM>
-<AM lemma="podmostní" src="auto">AAIS1----1A----</AM>
-<AM lemma="podmostní" src="auto">AAIS4----1A----</AM>
-<AM lemma="podmostní" src="auto">AAIS5----1A----</AM>
-<AM lemma="podmostní" src="auto">AAMP1----1A----</AM>
-<AM lemma="podmostní" src="auto">AAMP4----1A----</AM>
-<AM lemma="podmostní" src="auto">AAMP5----1A----</AM>
-<AM lemma="podmostní" src="auto">AAMS1----1A----</AM>
-<AM lemma="podmostní" src="auto">AAMS5----1A----</AM>
-<AM lemma="podmostní" src="auto">AANP1----1A----</AM>
-<AM lemma="podmostní" src="auto">AANP4----1A----</AM>
-<AM lemma="podmostní" src="auto">AANP5----1A----</AM>
-<AM lemma="podmostní" src="auto">AANS1----1A----</AM>
-<AM lemma="podmostní" src="auto">AANS4----1A----</AM>
-<AM lemma="podmostní" src="auto">AANS5----1A----</AM>
-<AM lemma="podmostní" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Podmostní_;G" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94204-48-p3s4w31">
 <src.rf>manual</src.rf>
@@ -2971,45 +2933,7 @@
 <LM>w#w-ln94204-48-p6s3w3</LM>
 </w.rf>
 <form>Podmostní</form>
-<tag>
-<AM lemma="Podmostní_;G" src="orig">AAFS6----1A----</AM>
-<AM lemma="Podmostní" src="auto">AAFS1----1A----</AM>
-<AM lemma="Podmostní" src="auto">AAFS2----1A----</AM>
-<AM lemma="Podmostní" src="auto">AAFS4----1A----</AM>
-<AM lemma="Podmostní" src="auto">AAFS7----1A----</AM>
-<AM lemma="Podmostní" src="auto">AAIS1----1A----</AM>
-<AM lemma="Podmostní" src="auto">AAIS4----1A----</AM>
-<AM lemma="Podmostní" src="auto">AANS1----1A----</AM>
-<AM lemma="Podmostní" src="auto">AANS4----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFP1----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFP4----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFP5----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFS1----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFS2----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFS3----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFS4----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFS5----1A----</AM>
-<AM lemma="podmostní" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="podmostní" src="auto">AAFS7----1A----</AM>
-<AM lemma="podmostní" src="auto">AAIP1----1A----</AM>
-<AM lemma="podmostní" src="auto">AAIP4----1A----</AM>
-<AM lemma="podmostní" src="auto">AAIP5----1A----</AM>
-<AM lemma="podmostní" src="auto">AAIS1----1A----</AM>
-<AM lemma="podmostní" src="auto">AAIS4----1A----</AM>
-<AM lemma="podmostní" src="auto">AAIS5----1A----</AM>
-<AM lemma="podmostní" src="auto">AAMP1----1A----</AM>
-<AM lemma="podmostní" src="auto">AAMP4----1A----</AM>
-<AM lemma="podmostní" src="auto">AAMP5----1A----</AM>
-<AM lemma="podmostní" src="auto">AAMS1----1A----</AM>
-<AM lemma="podmostní" src="auto">AAMS5----1A----</AM>
-<AM lemma="podmostní" src="auto">AANP1----1A----</AM>
-<AM lemma="podmostní" src="auto">AANP4----1A----</AM>
-<AM lemma="podmostní" src="auto">AANP5----1A----</AM>
-<AM lemma="podmostní" src="auto">AANS1----1A----</AM>
-<AM lemma="podmostní" src="auto">AANS4----1A----</AM>
-<AM lemma="podmostní" src="auto">AANS5----1A----</AM>
-<AM lemma="podmostní" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Podmostní_;G" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94204-48-p6s3w4">
 <src.rf>manual</src.rf>

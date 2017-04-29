@@ -241,18 +241,7 @@
 <LM>w#w-ln94204-30-p2s2w7</LM>
 </w.rf>
 <form>Balladares</form>
-<tag>
-<AM lemma="Balladares_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Balladares" src="auto">NNIS4-----A----</AM>
-<AM lemma="Balladares_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Balladares" src="auto">NNIS1-----A----</AM>
-<AM lemma="Balladare_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="affaires_:B_,t_^(v_chargé_d'Balladares)" src="auto">NNNPX-----A----</AM>
-<AM lemma="Aires_;G_^(Buenos_Balladares)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Balladare_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Balladare_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="balladares" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Balladares_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-30-p2s2w8">
 <src.rf>manual</src.rf>
@@ -763,18 +752,7 @@
 <LM>w#w-ln94204-30-p2s5w7</LM>
 </w.rf>
 <form>Carpio</form>
-<tag>
-<AM lemma="Carpio_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Carpio_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Carpio_;K_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="Carpio_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Carpio_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Carpio_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Carpio_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Carpio" src="auto">NNNS1-----A----</AM>
-<AM lemma="Carpio_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="carpio" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Carpio_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-30-p2s5w8">
 <src.rf>manual</src.rf>

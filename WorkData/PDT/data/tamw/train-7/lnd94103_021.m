@@ -85,17 +85,7 @@
 <LM>w#w-lnd94103-021-p1s2w3</LM>
 </w.rf>
 <form>črk</form>
-<tag>
-<AM lemma="črk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="črk-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="črk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="črk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="črk" src="auto">NNIS1-----A----</AM>
-<AM lemma="črk" src="auto">NNIS4-----A----</AM>
-<AM lemma="črk_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="črk_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="črk_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="črk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-021-p1s2w4">
 <src.rf>manual</src.rf>
@@ -466,18 +456,7 @@
 <LM>w#w-lnd94103-021-p1s5w8</LM>
 </w.rf>
 <form>Damohorského</form>
-<tag>
-<AM lemma="Damohorský_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Damohorský" src="auto">AAIS2----1A----</AM>
-<AM lemma="Damohorský" src="auto">AANS2----1A----</AM>
-<AM lemma="Damohorský" src="auto">AAMS2----1A----</AM>
-<AM lemma="Damohorský" src="auto">AAMS4----1A----</AM>
-<AM lemma="Damohorský_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Damohorský_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="Damohorský_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="Damohorský_^(*3it)" src="auto">AAIS2----1A----</AM>
-<AM lemma="damohorského" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Damohorský_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-021-p1s5w9">
 <src.rf>manual</src.rf>

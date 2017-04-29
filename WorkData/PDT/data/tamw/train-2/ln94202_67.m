@@ -557,18 +557,7 @@
 <LM>w#w-ln94202-67-p3s1w4</LM>
 </w.rf>
 <form>Algérie</form>
-<tag>
-<AM lemma="Algérie_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Algérie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Algérie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Algérie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Algérie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Algérie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Algérie_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Algérie_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Algérie_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="algérie" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Algérie_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-67-p3s1w5">
 <src.rf>manual</src.rf>

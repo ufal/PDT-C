@@ -102,16 +102,7 @@
 <LM>w#w-mf930713-068-p2s1Aw5</LM>
 </w.rf>
 <form>dj</form>
-<tag>
-<AM lemma="dj-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="dj_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="dj-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="dj" src="auto">NNIS1-----A----</AM>
-<AM lemma="dj" src="auto">NNIS4-----A----</AM>
-<AM lemma="dj_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="dj" src="auto">NNFS4-----A----</AM>
-<AM lemma="dj" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="dj-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930713-068-p2s1Aw6">
 <src.rf>manual</src.rf>

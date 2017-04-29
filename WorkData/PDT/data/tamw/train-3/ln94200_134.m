@@ -591,18 +591,7 @@
 <LM>w#w-ln94200-134-p2s4w22</LM>
 </w.rf>
 <form>Garage</form>
-<tag>
-<AM lemma="Garage_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Garage_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Garag_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Garage_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Garage_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Garage_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Garage_;K" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Garage_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Garage_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="garage" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Garage_;K" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94200-134-p2s4w23">
 <src.rf>manual</src.rf>
@@ -815,18 +804,7 @@
 <LM>w#w-ln94200-134-p2s4w48</LM>
 </w.rf>
 <form>Lesbiens</form>
-<tag>
-<AM lemma="Lesbien_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Lesbiens_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lesbiens" src="auto">NNIS4-----A----</AM>
-<AM lemma="sapiens-1_,t_^(Homo_Lesbiens)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lesbien_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Lesbien_;K_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Lesbiensus" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lesbiens_;L_,t" src="auto">AANSX----1A----</AM>
-<AM lemma="Lesbiens_;L_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="lesbiens" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lesbien_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94200-134-p2s4w49">
 <src.rf>manual</src.rf>
@@ -927,23 +905,7 @@
 <LM>w#w-ln94200-134-p2s4w60</LM>
 </w.rf>
 <form>Lue</form>
-<tag>
-<AM lemma="Lue_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Lue_;K" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Lue_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lue_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Lue_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Lue_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lue_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lue_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="lue_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="lue_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="lue_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lue_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="lue_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="lue_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="lue_;R_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="Lue_;K" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94200-134-p2s4w61">
 <src.rf>manual</src.rf>

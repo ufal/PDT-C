@@ -257,18 +257,7 @@
 <LM>w#w-ln95047-041-p3s1w3</LM>
 </w.rf>
 <form>Wide</form>
-<tag>
-<AM lemma="Wide_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Wide_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Wide_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Wide_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wide_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wide_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Wide_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Wide_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Wide_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="wide" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Wide_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95047-041-p3s1w4">
 <src.rf>manual</src.rf>
@@ -445,18 +434,7 @@
 <LM>w#w-ln95047-041-p3s2w6</LM>
 </w.rf>
 <form>Ambivalency</form>
-<tag>
-<AM lemma="Ambivalency_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Ambivalency_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ambivalency_;K_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Ambivalency_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ambivalency-2_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ambivalency_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ambivalency_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ambivalenca_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ambivalenca_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="ambivalency" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ambivalency_;K_,t" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95047-041-p3s2w7">
 <src.rf>manual</src.rf>

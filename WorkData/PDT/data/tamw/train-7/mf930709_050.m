@@ -127,17 +127,7 @@
 <LM>w#w-mf930709-050-p3s2Aw3</LM>
 </w.rf>
 <form>md</form>
-<tag>
-<AM lemma="md-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="md-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="md" src="auto">NNIS1-----A----</AM>
-<AM lemma="md" src="auto">NNIS4-----A----</AM>
-<AM lemma="md_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mda" src="auto">NNFP2-----A----</AM>
-<AM lemma="md_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="md_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="md_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="md-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-050-p3s2Aw4">
 <src.rf>manual</src.rf>
@@ -153,17 +143,7 @@
 <LM>w#w-mf930709-050-p3s2Aw5</LM>
 </w.rf>
 <form>spa</form>
-<tag>
-<AM lemma="spa-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="spa-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="spa" src="auto">NNFS1-----A----</AM>
-<AM lemma="spa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="spa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="sp_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="sp" src="auto">NNMS2-----A----</AM>
-<AM lemma="spo" src="auto">NNNS2-----A----</AM>
-<AM lemma="sp" src="auto">NNMS4-----A----</AM>
-</tag>
+<tag lemma="spa-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-050-p3s2Aw6">
 <src.rf>manual</src.rf>
@@ -303,16 +283,7 @@
 <LM>w#w-mf930709-050-p3s3w1</LM>
 </w.rf>
 <form>Spoluzahájil</form>
-<tag>
-<AM lemma="spoluzahájit" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="Spoluzahájit" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Spoluzahájit_:T" src="auto" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="Spoluzahájit_:T_^(bránit,_obhajovat)" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Spoluzahájit_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="spoluzahájil" src="auto">NNMS1-----A----</AM>
-<AM lemma="spoluzahájit_:T_^(bránit,_obhajovat)" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="spoluzahájit_:W" src="auto">VpYS---XR-AA---</AM>
-</tag>
+<tag lemma="spoluzahájit" src="orig" selected="1">VpYS---XR-AA---</tag>
 </m>
 <m id="m-mf930709-050-p3s3w2">
 <src.rf>manual</src.rf>
@@ -985,17 +956,7 @@
 <LM>w#w-mf930709-050-p3s6w17</LM>
 </w.rf>
 <form>Chrasten</form>
-<tag>
-<AM lemma="Chrasten_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Chrasten_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chrasíst" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Chrastný" src="auto">ACYS------A----</AM>
-<AM lemma="Chrasten" src="auto" recommended="1">PDYS1----------</AM>
-<AM lemma="Chrasten" src="auto">NNIS4-----A----</AM>
-<AM lemma="Chrastno" src="auto">NNNP2-----A----</AM>
-<AM lemma="Chrastna" src="auto">NNFP2-----A----</AM>
-<AM lemma="chrasten" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chrasten_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-050-p3s6w18">
 <src.rf>manual</src.rf>

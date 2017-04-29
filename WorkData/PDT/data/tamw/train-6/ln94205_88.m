@@ -387,17 +387,7 @@
 <LM>w#w-ln94205-88-p2s3w4</LM>
 </w.rf>
 <form>Taslima</form>
-<tag>
-<AM lemma="Taslima_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Taslim_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Taslima_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Taslimum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Taslimum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Taslim_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Taslima_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Taslima_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="taslima" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Taslima_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-88-p2s3w5">
 <src.rf>manual</src.rf>
@@ -3030,18 +3020,7 @@
 <LM>w#w-ln94205-88-p7s1w10</LM>
 </w.rf>
 <form>Džamíjate</form>
-<tag>
-<AM lemma="Džamíjate_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Džamíjate_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Džamíjate_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Džamíjate_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Džamíjate_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Džamíjate_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Džamíjást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Džamíjate_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Džamíjate_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="džamíjate" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Džamíjate_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-88-p7s1w11">
 <src.rf>manual</src.rf>
@@ -3049,14 +3028,7 @@
 <LM>w#w-ln94205-88-p7s1w11</LM>
 </w.rf>
 <form>islámí</form>
-<tag>
-<AM lemma="islámí_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="islámit_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="islámit_:W" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="známý-2_^(co_isláme)" src="auto">AAMP1----1A----</AM>
-<AM lemma="známý-1_^(potkat_islámého_[člověka])" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="neznámý_^(potkat_islámého_[člověka])" src="auto">NNMP1-----A----</AM>
-</tag>
+<tag lemma="islámí_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94205-88-p7s1w12">
 <src.rf>manual</src.rf>
@@ -3889,17 +3861,7 @@
 <LM>w#w-ln94205-88-p9s1w1</LM>
 </w.rf>
 <form>Taslima</form>
-<tag>
-<AM lemma="Taslima_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Taslim_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Taslima_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Taslimum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Taslimum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Taslim_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Taslima_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Taslima_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="taslima" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Taslima_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-88-p9s1w2">
 <src.rf>manual</src.rf>

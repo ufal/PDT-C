@@ -67,36 +67,7 @@
 <LM>w#w-ln94211-83-p1s1w7</LM>
 </w.rf>
 <form>čtrnáctipodlažní</form>
-<tag>
-<AM lemma="čtrnáctipodlažní" src="orig">AAFS2----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAFP1----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAFP4----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAFP5----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAFS1----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAFS3----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAFS4----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAFS5----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAFS6----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAFS7----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAIP1----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAIP4----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAIP5----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAIS1----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAIS4----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAIS5----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAMP1----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAMP4----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAMP5----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAMS1----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AAMS5----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AANP1----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AANP4----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AANP5----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AANS1----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AANS4----1A----</AM>
-<AM lemma="čtrnáctipodlažní" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="čtrnáctipodlažní" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94211-83-p1s1w8">
 <src.rf>manual</src.rf>

@@ -563,18 +563,7 @@
 <LM>w#w-cmpr9413-036-p5s1w4</LM>
 </w.rf>
 <form>Dárkov</form>
-<tag>
-<AM lemma="Dárkov_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Dárkov_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dárkov_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Dárkov_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dárkov" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dárkov" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dárk_;G_,t" src="auto">NNMP2-----A----</AM>
-<AM lemma="Dárk-2_,t" src="auto">NNMP2-----A----</AM>
-<AM lemma="Dárkov_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="dárkov" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dárkov_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9413-036-p6s1">
@@ -2436,18 +2425,7 @@
 <LM>w#w-cmpr9413-036-p9s1w4</LM>
 </w.rf>
 <form>Postelov</form>
-<tag>
-<AM lemma="Postelov_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Postelov" src="auto">NNIS4-----A----</AM>
-<AM lemma="Postelov_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Postelov_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Postelov_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Postelov_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Postelovo" src="auto">NNNP2-----A----</AM>
-<AM lemma="postelov" src="auto">NNIS1-----A----</AM>
-<AM lemma="postelov" src="auto">NNIS4-----A----</AM>
-<AM lemma="postelov" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Postelov_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9413-036-p10s1">
@@ -5012,36 +4990,7 @@
 <LM>w#w-cmpr9413-036-p16s1w26</LM>
 </w.rf>
 <form>superkontramultiextraunikátní</form>
-<tag>
-<AM lemma="superkontramultiextraunikátní" src="orig">AAFS1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFP1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFP4----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFP5----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFS2----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFS3----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFS4----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFS5----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFS6----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFS7----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAIP1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAIP4----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAIP5----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAIS1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAIS4----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAIS5----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAMP1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAMP4----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAMP5----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAMS1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAMS5----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AANP1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AANP4----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AANP5----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AANS1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AANS4----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="superkontramultiextraunikátní" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9413-036-p16s1w27">
 <src.rf>manual</src.rf>
@@ -5369,15 +5318,7 @@
 <LM>w#w-cmpr9413-036-p17s1w4</LM>
 </w.rf>
 <form>Pravdomluvno</form>
-<tag>
-<AM lemma="Pravdomluvno_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Pravdomluvno" src="auto">NNNS1-----A----</AM>
-<AM lemma="Pravdomluvno_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Pravdomluvno-1" src="auto">Db-------------</AM>
-<AM lemma="Pravdomluvno" src="auto">NNNS4-----A----</AM>
-<AM lemma="Pravdomluvno" src="auto">Dg-------1A----</AM>
-<AM lemma="pravdomluvno" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pravdomluvno_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9413-036-p18s1">
@@ -5513,36 +5454,7 @@
 <LM>w#w-cmpr9413-036-p18s1w16</LM>
 </w.rf>
 <form>superkontramultiextraunikátní</form>
-<tag>
-<AM lemma="superkontramultiextraunikátní" src="orig">AAFS1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFP1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFP4----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFP5----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFS2----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFS3----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFS4----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFS5----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFS6----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAFS7----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAIP1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAIP4----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAIP5----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAIS1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAIS4----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAIS5----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAMP1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAMP4----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAMP5----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAMS1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AAMS5----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AANP1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AANP4----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AANP5----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AANS1----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AANS4----1A----</AM>
-<AM lemma="superkontramultiextraunikátní" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="superkontramultiextraunikátní" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9413-036-p18s1w17">
 <src.rf>manual</src.rf>
@@ -5760,36 +5672,7 @@
 <LM>w#w-cmpr9413-036-p18s2w9</LM>
 </w.rf>
 <form>ultrasuperkontramultiextraunikátní</form>
-<tag>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="orig">AAFS7----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAFP1----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAFP4----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAFP5----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAFS1----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAFS2----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAFS3----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAFS4----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAFS5----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAFS6----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto" recommended="1">AAFS7----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAIP1----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAIP4----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAIP5----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAIS1----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAIS4----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAIS5----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAMP1----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAMP4----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAMP5----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAMS1----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AAMS5----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AANP1----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AANP4----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AANP5----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AANS1----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AANS4----1A----</AM>
-<AM lemma="ultrasuperkontramultiextraunikátní" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="ultrasuperkontramultiextraunikátní" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-cmpr9413-036-p18s2w10">
 <src.rf>manual</src.rf>
@@ -5913,18 +5796,7 @@
 <LM>w#w-cmpr9413-036-p19s1w11</LM>
 </w.rf>
 <form>Chytrovice</form>
-<tag>
-<AM lemma="Chytrovice_;G" src="orig">NNFP1-----A----</AM>
-<AM lemma="Chytrovice" src="auto">NNFS2-----A----</AM>
-<AM lemma="Chytrovice" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chytrovice_;G" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="Chytrovice" src="auto">NNFP4-----A----</AM>
-<AM lemma="Chytrovice" src="auto">NNFP1-----A----</AM>
-<AM lemma="Chytrovika" src="auto">NNFS6-----A----</AM>
-<AM lemma="Chytrovika" src="auto">NNFS3-----A----</AM>
-<AM lemma="Chytrovice_^(*3ík)" src="auto">NNFS1-----A----</AM>
-<AM lemma="chytrovice" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chytrovice_;G" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-cmpr9413-036-p19s1w12">
 <src.rf>manual</src.rf>
@@ -5974,18 +5846,7 @@
 <LM>w#w-cmpr9413-036-p20s1w3</LM>
 </w.rf>
 <form>Všeodpovědna</form>
-<tag>
-<AM lemma="Všeodpovědna_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Všeodpověden" src="auto">NNIS2-----A----</AM>
-<AM lemma="Všeodpověden`1" src="auto">ClFS1----------</AM>
-<AM lemma="Všeodpovědna" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Všeodpovědno-2" src="auto">NNNS2-----A----</AM>
-<AM lemma="Všeodpovědno_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Všeodpovědný" src="auto">ACQW------A----</AM>
-<AM lemma="Všeodpovědný-1_^(být_hoden)" src="auto">ACQW------A----</AM>
-<AM lemma="všeodpovědna" src="auto">NNMS1-----A----</AM>
-<AM lemma="všeodpovědný_^(kdo_za_něco_odpovídá)" src="auto">ACQW------A----</AM>
-</tag>
+<tag lemma="Všeodpovědna_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-036-p20s1w4">
 <src.rf>manual</src.rf>
@@ -6057,18 +5918,7 @@
 <LM>w#w-cmpr9413-036-p20s1w12</LM>
 </w.rf>
 <form>Chytrovice</form>
-<tag>
-<AM lemma="Chytrovice_;G" src="orig">NNFP1-----A----</AM>
-<AM lemma="Chytrovice" src="auto">NNFS2-----A----</AM>
-<AM lemma="Chytrovice" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chytrovice_;G" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="Chytrovice" src="auto">NNFP4-----A----</AM>
-<AM lemma="Chytrovice" src="auto">NNFP1-----A----</AM>
-<AM lemma="Chytrovika" src="auto">NNFS6-----A----</AM>
-<AM lemma="Chytrovika" src="auto">NNFS3-----A----</AM>
-<AM lemma="Chytrovice_^(*3ík)" src="auto">NNFS1-----A----</AM>
-<AM lemma="chytrovice" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chytrovice_;G" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-cmpr9413-036-p20s1w13">
 <src.rf>manual</src.rf>

@@ -398,26 +398,7 @@
 <LM>w#w-mf930709-026-p2s2w15</LM>
 </w.rf>
 <form>AISIF</form>
-<tag>
-<AM lemma="AISIF_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AISIF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AISIF_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="AISIF_;K" src="auto">NNIS3-----A----</AM>
-<AM lemma="AISIF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AISIF_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AISIF-2_:B_;K_^(Harvardský_investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AISIF-2_:B_,t_^(švéd._oddíl)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AISIF-1_:B_;K_^(Nadační_investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Aisif_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aisif_,t" src="auto">J^-------------</AM>
-<AM lemma="Aisif-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Aisif" src="auto">NNIS4-----A----</AM>
-<AM lemma="Aisif" src="auto">NNIS1-----A----</AM>
-<AM lemma="Aisif_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aisif_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Aisif" src="auto">NNMS1-----A----</AM>
-<AM lemma="aisif" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="AISIF_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930709-026-p2s2w16">
 <src.rf>manual</src.rf>
@@ -441,16 +422,7 @@
 <LM>w#w-mf930709-026-p2s2w18</LM>
 </w.rf>
 <form>Rintel</form>
-<tag>
-<AM lemma="Rintel_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rintel" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rintel" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rintel" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rintel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Rintel_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rintlo-1" src="auto">NNNP2-----A----</AM>
-<AM lemma="rintel" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rintel_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-026-p2s2w19">
 <src.rf>manual</src.rf>

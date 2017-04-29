@@ -11849,15 +11849,7 @@
 <LM>w#w-ln94200-127-p29s3w25</LM>
 </w.rf>
 <form>hoc</form>
-<tag>
-<AM lemma="hoc_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="hoc_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="hoc_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="hoc_,t" src="auto">Db-------------</AM>
-<AM lemma="hoc" src="auto">NNFS4-----A----</AM>
-<AM lemma="hoc" src="auto">NNFS1-----A----</AM>
-<AM lemma="hoc_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="hoc_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-127-p29s3w26">
 <src.rf>manual</src.rf>

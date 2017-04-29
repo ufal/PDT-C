@@ -45,18 +45,7 @@
 <LM>w#w-mf930713-023-p2s1w2</LM>
 </w.rf>
 <form>Salvadorová</form>
-<tag>
-<AM lemma="Salvadorová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Salvadorová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Salvadorový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Salvadorový" src="auto">AANP1----1A----</AM>
-<AM lemma="Salvadorový" src="auto">AANP4----1A----</AM>
-<AM lemma="Salvadorová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Salvadorová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Salvadorový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Salvadorový" src="auto">AAFS5----1A----</AM>
-<AM lemma="salvadorová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Salvadorová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-023-p2s1w3">
 <src.rf>manual</src.rf>
@@ -490,18 +479,7 @@
 <LM>w#w-mf930713-023-p4s1w12</LM>
 </w.rf>
 <form>Lousanne</form>
-<tag>
-<AM lemma="Lousanne_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Lousanne_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Lousanne_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Lousanne_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lousanne_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lousanne_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lousanne_;G" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Lousanne_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Lousanne-1_;S_^(muž)" src="auto">NNMS1-----A----</AM>
-<AM lemma="lousanne" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lousanne_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930713-023-p4s1w13">
 <src.rf>manual</src.rf>
@@ -583,17 +561,7 @@
 <LM>w#w-mf930713-023-p5s1w2</LM>
 </w.rf>
 <form>Albertyn</form>
-<tag>
-<AM lemma="Albertyn_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Albertyn" src="auto">NNIS4-----A----</AM>
-<AM lemma="Albertyn" src="auto">NNIS1-----A----</AM>
-<AM lemma="Albertyn_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Albertyn" src="auto">NNMS1-----A----</AM>
-<AM lemma="Albertynamo_:B_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Albertyn_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Albertyn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="albertyn" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Albertyn_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-023-p5s1w3">
 <src.rf>manual</src.rf>
@@ -942,18 +910,7 @@
 <LM>w#w-mf930713-023-p6s1w15</LM>
 </w.rf>
 <form>Keiklinghaus</form>
-<tag>
-<AM lemma="Keiklinghaus_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Keiklinghaus_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Keiklinghaus_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Keiklinghaus_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Keiklinghaus_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Keiklinghaus_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Keiklinghaus_,t" src="auto">Db-------------</AM>
-<AM lemma="Keiklinghaus" src="auto">NNIS1-----A----</AM>
-<AM lemma="Keiklinghaus" src="auto">NNIS4-----A----</AM>
-<AM lemma="keiklinghaus" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Keiklinghaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-023-p6s1w16">
 <src.rf>manual</src.rf>
@@ -1327,26 +1284,7 @@
 <LM>w#w-mf930713-023-p8s1w9</LM>
 </w.rf>
 <form>VOKD</form>
-<tag>
-<AM lemma="VOKD_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="VOKD_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="VOKD_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VOKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="auto">NNIPX-----A---8</AM>
-<AM lemma="VOKD_:B_^(kulturní_dům)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VOKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VOKD_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VOKD_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VOKD_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Vokd" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vokd" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vokd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vokda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vokd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vokd_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vokd_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Vokd" src="auto">NNMS1-----A----</AM>
-<AM lemma="vokd" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="VOKD_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-mf930713-023-p8s1w10">
 <src.rf>manual</src.rf>

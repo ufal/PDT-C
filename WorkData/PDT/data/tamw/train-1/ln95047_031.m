@@ -2207,18 +2207,7 @@
 <LM>w#w-ln95047-031-p4s9w7</LM>
 </w.rf>
 <form>Cohan</form>
-<tag>
-<AM lemma="Cohan_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cohan_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cohan_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="hana_^(poCohana)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cohany" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cohan_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cohan_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cohan-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Cohan" src="auto">NNMS1-----A----</AM>
-<AM lemma="cohan" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cohan_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-031-p4s9w8">
 <src.rf>manual</src.rf>
@@ -2772,18 +2761,7 @@
 <LM>w#w-ln95047-031-p5s3w12</LM>
 </w.rf>
 <form>Cajon</form>
-<tag>
-<AM lemma="Cajon_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Cajon_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Cajon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cajon" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cajon" src="auto">NNIS4-----A----</AM>
-<AM lemma="Cajon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cajon_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cajon_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Cajon_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="cajon" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cajon_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-031-p5s3w13">
 <src.rf>manual</src.rf>

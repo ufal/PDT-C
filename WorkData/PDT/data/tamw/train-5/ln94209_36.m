@@ -175,18 +175,7 @@
 <LM>w#w-ln94209-36-p2s1Bw11</LM>
 </w.rf>
 <form>Makaloušová</form>
-<tag>
-<AM lemma="Makaloušová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Makaloušová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Makaloušový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Makaloušový" src="auto">AANP1----1A----</AM>
-<AM lemma="Makaloušový" src="auto">AANP4----1A----</AM>
-<AM lemma="Makaloušová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Makaloušová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Makaloušový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Makaloušový" src="auto">AAFS5----1A----</AM>
-<AM lemma="makaloušová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Makaloušová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-36-p2s1Bw12">
 <src.rf>manual</src.rf>

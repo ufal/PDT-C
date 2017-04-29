@@ -711,18 +711,7 @@
 <LM>w#w-ln94211-100-p3s1w19</LM>
 </w.rf>
 <form>Covent</form>
-<tag>
-<AM lemma="Covent_;G_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Covent" src="auto">NNIS1-----A----</AM>
-<AM lemma="Covent" src="auto">NNMS1-----A----</AM>
-<AM lemma="Covent" src="auto">NNIS4-----A----</AM>
-<AM lemma="Covent_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Covent_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Covent_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Covent_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Covent_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="covent" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Covent_;G_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94211-100-p3s1w20">
 <src.rf>manual</src.rf>
@@ -886,18 +875,7 @@
 <LM>w#w-ln94211-100-p3s3w7</LM>
 </w.rf>
 <form>Crabbeově</form>
-<tag>
-<AM lemma="Crabbeův_;S_^(*2)" src="orig">AUFS3M---------</AM>
-<AM lemma="Crabbeově_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Crabbeov_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Crabbeův_;S_^(*2)" src="auto">AUFS6M---------</AM>
-<AM lemma="Crabbeův_;S_^(*2)" src="auto">AUIS6M---------</AM>
-<AM lemma="Crabbeův_;S_^(*2)" src="auto">AUNS6M---------</AM>
-<AM lemma="Crabbeův_;S_^(*2)" src="auto" recommended="1">AUFS3M---------</AM>
-<AM lemma="Crabbeův_;S_^(*2a)" src="auto">AUFS6M---------</AM>
-<AM lemma="Crabbeov" src="auto">NNIS6-----A----</AM>
-<AM lemma="crabbeově" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Crabbeův_;S_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
 </m>
 <m id="m-ln94211-100-p3s3w8">
 <src.rf>manual</src.rf>
@@ -2099,17 +2077,7 @@
 <LM>w#w-ln94211-100-p3s10w9</LM>
 </w.rf>
 <form>amsterodamsko</form>
-<tag>
-<AM lemma="amsterodamský" src="orig">A2--------A----</AM>
-<AM lemma="amsterodamsko_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="amsterodamský" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="amsterodamsko_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="amsterodamsko" src="auto">NNNS1-----A----</AM>
-<AM lemma="amsterodamsko" src="auto">NNNS4-----A----</AM>
-<AM lemma="amsterodamský_;K" src="auto">A2--------A----</AM>
-<AM lemma="amsterodamsko_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="amsterodamsko_;G" src="auto">NNNS5-----A----</AM>
-</tag>
+<tag lemma="amsterodamský" src="orig" selected="1">A2--------A----</tag>
 </m>
 <m id="m-ln94211-100-p3s10w10">
 <src.rf>manual</src.rf>
@@ -2149,18 +2117,7 @@
 <LM>w#w-ln94211-100-p3s10w14</LM>
 </w.rf>
 <form>Haitinka</form>
-<tag>
-<AM lemma="Haitink_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Haitinka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Haitinka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Haitinek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Haitinek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Haitinka_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Haitinka_;E_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Haitinko_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Haitinka_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="haitinka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Haitink_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-100-p3s10w15">
 <src.rf>manual</src.rf>
@@ -2602,18 +2559,7 @@
 <LM>w#w-ln94211-100-p4s5w4</LM>
 </w.rf>
 <form>Covent</form>
-<tag>
-<AM lemma="Covent_;G_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Covent" src="auto">NNIS1-----A----</AM>
-<AM lemma="Covent" src="auto">NNMS1-----A----</AM>
-<AM lemma="Covent" src="auto">NNIS4-----A----</AM>
-<AM lemma="Covent_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Covent_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Covent_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Covent_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Covent_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="covent" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Covent_;G_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94211-100-p4s5w5">
 <src.rf>manual</src.rf>
@@ -2653,18 +2599,7 @@
 <LM>w#w-ln94211-100-p4s5w9</LM>
 </w.rf>
 <form>Haitink</form>
-<tag>
-<AM lemma="Haitink_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Haitink_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Haitink" src="auto">NNIS1-----A----</AM>
-<AM lemma="Haitink" src="auto">NNIS4-----A----</AM>
-<AM lemma="ink_,t_^(Haitink_jet)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pink_;K_,t_^(Haitink_Floyd)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Haiting" src="auto">NNIS1-----A----</AM>
-<AM lemma="Haitink_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Haitink-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="haitink" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Haitink_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-100-p4s5w10">
 <src.rf>manual</src.rf>

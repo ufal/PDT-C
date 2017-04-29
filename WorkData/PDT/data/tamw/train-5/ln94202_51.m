@@ -61,13 +61,7 @@
 <LM>w#w-ln94202-51-p2s1Aw3</LM>
 </w.rf>
 <form>ljď</form>
-<tag>
-<AM lemma="ljď-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ljď-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ljď" src="auto">NNFS1-----A----</AM>
-<AM lemma="ljď" src="auto">NNFS4-----A----</AM>
-<AM lemma="ljď_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ljď-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-51-p2s1Aw4">
 <src.rf>manual</src.rf>

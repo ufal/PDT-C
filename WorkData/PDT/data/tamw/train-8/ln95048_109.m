@@ -375,18 +375,7 @@
 <LM>w#w-ln95048-109-p2s1Bw39</LM>
 </w.rf>
 <form>Ratta</form>
-<tag>
-<AM lemma="Ratta_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Ratt_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ratt_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ratta_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ratta_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ratta_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ratta_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ratto_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ratto" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="ratta" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ratta_;G" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95048-109-p2s1Bw40">
 <src.rf>manual</src.rf>
@@ -394,17 +383,7 @@
 <LM>w#w-ln95048-109-p2s1Bw40</LM>
 </w.rf>
 <form>Dhotran</form>
-<tag>
-<AM lemma="Dhotran_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Dhotran_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dhotrana" src="auto">NNFP2-----A----</AM>
-<AM lemma="Dhotran_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_Dhotraně)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Dhotrany_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Dhotrancouzský_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Dhotrana-4_^(v_knize,_rukopise,...)" src="auto">NNFP2-----A----</AM>
-<AM lemma="dhotran" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dhotran_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-109-p2s1Bw41">
 <src.rf>manual</src.rf>

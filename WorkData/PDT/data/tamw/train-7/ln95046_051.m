@@ -1186,17 +1186,7 @@
 <LM>w#w-ln95046-051-p3s5w4</LM>
 </w.rf>
 <form>Iudaica</form>
-<tag>
-<AM lemma="Iudaica_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Iudaica_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Iudaica_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Iudaica_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Iudaica_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Iudaica_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Iudaica_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Iudaica_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="iudaica" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Iudaica_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95046-051-p3s5w5">
 <src.rf>manual</src.rf>
@@ -1228,15 +1218,7 @@
 <LM>w#w-ln95046-051-p3s5w8</LM>
 </w.rf>
 <form>Jazztival</form>
-<tag>
-<AM lemma="Jazztival_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Jazztivat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Jazztivat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Jazztivat_:T_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Jazztivat_:T_^(*4at)" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Jazztivat_:T_^(*3t)" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jazztival" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jazztival_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-051-p3s5w9">
 <src.rf>manual</src.rf>

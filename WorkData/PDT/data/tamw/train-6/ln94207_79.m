@@ -443,17 +443,7 @@
 <LM>w#w-ln94207-79-p3s1Cw26</LM>
 </w.rf>
 <form>Berliner</form>
-<tag>
-<AM lemma="Berliner_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Berliner_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Berliner" src="auto">NNMS1-----A----</AM>
-<AM lemma="Berliner" src="auto">NNIS1-----A----</AM>
-<AM lemma="Berline_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Berlimer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Berliner_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Berliner_;K_,t_^(měm.,_v_názvech)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="berliner" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Berliner_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-79-p3s1Cw27">
 <src.rf>manual</src.rf>
@@ -1151,17 +1141,7 @@
 <LM>w#w-ln94207-79-p4s1Bw4</LM>
 </w.rf>
 <form>Bahn</form>
-<tag>
-<AM lemma="Bahn_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Bahn_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bahn_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Bahn_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bahn_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Bahn_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bahn" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bahna" src="auto">NNFP2-----A----</AM>
-<AM lemma="bahn" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bahn_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-79-p4s1Bw5">
 <src.rf>manual</src.rf>
@@ -2800,17 +2780,7 @@
 <LM>w#w-ln94207-79-p8s3w2</LM>
 </w.rf>
 <form>Berliner</form>
-<tag>
-<AM lemma="Berliner_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Berliner_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Berliner" src="auto">NNMS1-----A----</AM>
-<AM lemma="Berliner" src="auto">NNIS1-----A----</AM>
-<AM lemma="Berline_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Berlimer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Berliner_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Berliner_;K_,t_^(měm.,_v_názvech)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="berliner" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Berliner_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-79-p8s3w3">
 <src.rf>manual</src.rf>
@@ -2924,18 +2894,7 @@
 <LM>w#w-ln94207-79-p9s1w3</LM>
 </w.rf>
 <form>Diepgen</form>
-<tag>
-<AM lemma="Diepgen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Diepgen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Diepgen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Diepgen_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Diepgen" src="auto">NNIS4-----A----</AM>
-<AM lemma="Diepgen" src="auto">NNIS1-----A----</AM>
-<AM lemma="Diepgenerální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Diepgenerál_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Diepgen_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="diepgen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Diepgen_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-79-p9s1w4">
 <src.rf>manual</src.rf>
@@ -2975,18 +2934,7 @@
 <LM>w#w-ln94207-79-p9s1w8</LM>
 </w.rf>
 <form>Werkstatt</form>
-<tag>
-<AM lemma="Werkstatt_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Werkstatt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Werkstatt_;R_^(časopis)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Werkstatt_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Werkstatt_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Werkstatt-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Werkstatt" src="auto">NNIS4-----A----</AM>
-<AM lemma="Werkstatt-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Werkstatt_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="werkstatt" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Werkstatt_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94207-79-p9s1w9">
 <src.rf>manual</src.rf>
@@ -3002,17 +2950,7 @@
 <LM>w#w-ln94207-79-p9s1w10</LM>
 </w.rf>
 <form>deutschen</form>
-<tag>
-<AM lemma="deutsche_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="deutschen_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="deutschen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="deutsche_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="deutschen_;m" src="auto">NNIXX-----A----</AM>
-<AM lemma="deutschen_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="deutschen_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="deutschen_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="deutschen" src="auto">PLYS4----------</AM>
-</tag>
+<tag lemma="deutsche_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-79-p9s1w11">
 <src.rf>manual</src.rf>
@@ -3020,17 +2958,7 @@
 <LM>w#w-ln94207-79-p9s1w11</LM>
 </w.rf>
 <form>Einheit</form>
-<tag>
-<AM lemma="Einheit_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Einheit_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Einheit_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Einheit_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Einheit_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Einheit_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Einheit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Einheit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="einheit" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Einheit_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94207-79-p9s1w12">
 <src.rf>manual</src.rf>
@@ -4882,18 +4810,7 @@
 <LM>w#w-ln94207-79-p13s7w3</LM>
 </w.rf>
 <form>Potsdamer</form>
-<tag>
-<AM lemma="Potsdamer_;G_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Potsdamer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Potsdamera" src="auto">NNFP2-----A----</AM>
-<AM lemma="Potsdamerický_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Potsdamer_;G_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Potsdamer_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Potsdamer_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Potsdamer_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Potsdamer_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="potsdamer" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Potsdamer_;G_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-79-p13s7w4">
 <src.rf>manual</src.rf>
@@ -6843,18 +6760,7 @@
 <LM>w#w-ln94207-79-p17s2w10</LM>
 </w.rf>
 <form>Wördehoffa</form>
-<tag>
-<AM lemma="Wördehoff_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Wördehoff_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Wördehoff_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Wördehoff_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Wördehoff" src="auto">NNMS4-----A----</AM>
-<AM lemma="Wördehoff" src="auto">NNMS2-----A----</AM>
-<AM lemma="Wördehoffa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Wördehoffa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Wördehoff_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="wördehoffa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Wördehoff_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-79-p17s2w11">
 <src.rf>manual</src.rf>
@@ -6910,20 +6816,7 @@
 <LM>w#w-ln94207-79-p17s2w17</LM>
 </w.rf>
 <form>Zeit</form>
-<tag>
-<AM lemma="Zeit_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Zeit_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zeit_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Zeit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Zeit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Zeit_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Zeit_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zeit_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="zeit" src="auto">NNMS1-----A----</AM>
-<AM lemma="zeit-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="zeit-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="zeitelefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Zeit_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94207-79-p17s2w18">
 <src.rf>manual</src.rf>
@@ -7329,15 +7222,7 @@
 <LM>w#w-ln94207-79-p18s1w16</LM>
 </w.rf>
 <form>Marzahnu</form>
-<tag>
-<AM lemma="Marzahn_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Marzahnout" src="auto" recommended="1">VB-S---1P-AA---</AM>
-<AM lemma="Marzahna_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Marzahna_;K" src="auto">NNFS4-----A----</AM>
-<AM lemma="Marzahna" src="auto">NNFS4-----A----</AM>
-<AM lemma="Marzahn_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="marzahnu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Marzahn_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94207-79-p18s1w17">
 <src.rf>manual</src.rf>
@@ -7386,18 +7271,7 @@
 <LM>w#w-ln94207-79-p18s1w22</LM>
 </w.rf>
 <form>Hohenschönhausenu</form>
-<tag>
-<AM lemma="Hohenschönhausen_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Hohenschönhausen_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Hohenschönhausen_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Hohenschönhausen_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Hohenschönhausena" src="auto">NNFS4-----A----</AM>
-<AM lemma="Hohenschönhausen" src="auto">NNIS2-----A----</AM>
-<AM lemma="Hohenschönhausit_:W" src="auto">VsFS4--XX-AP---</AM>
-<AM lemma="Hohenschönhausenout" src="auto">VB-S---1P-AA---</AM>
-<AM lemma="Hohenschönhausena_;Y" src="auto">NNFS4-----A----</AM>
-<AM lemma="hohenschönhausenu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hohenschönhausen_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94207-79-p18s1w23">
 <src.rf>manual</src.rf>
@@ -8338,18 +8212,7 @@
 <LM>w#w-ln94207-79-p20s1Bw8</LM>
 </w.rf>
 <form>Pampel</form>
-<tag>
-<AM lemma="Pampel_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pampel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pampel" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pampel" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pampela" src="auto">NNFP2-----A----</AM>
-<AM lemma="Pampel_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pampel_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pampel" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pampet_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="pampel" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pampel_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-79-p20s1Bw9">
 <src.rf>manual</src.rf>
@@ -10787,18 +10650,7 @@
 <LM>w#w-ln94207-79-p24s4w11</LM>
 </w.rf>
 <form>Neues</form>
-<tag>
-<AM lemma="Neues_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Neue_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Neues_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Neue_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Neues_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Neues_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Neues_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Neues" src="auto">NNNXX-----A----</AM>
-<AM lemma="Neues" src="auto">AAXXX----1A----</AM>
-<AM lemma="neues" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Neues_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-79-p24s4w12">
 <src.rf>manual</src.rf>
@@ -11626,17 +11478,7 @@
 <LM>w#w-ln94207-79-p26s2w5</LM>
 </w.rf>
 <form>lichtenberského</form>
-<tag>
-<AM lemma="lichtenberský" src="orig">AAIS2----1A----</AM>
-<AM lemma="lichtenberský" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="lichtenberský" src="auto">AANS2----1A----</AM>
-<AM lemma="lichtenberský" src="auto">AAMS2----1A----</AM>
-<AM lemma="lichtenberský" src="auto">AAMS4----1A----</AM>
-<AM lemma="lichtenberský_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="lichtenberský_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="lichtenberský_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="lichtenberský_^(*3it)" src="auto">AAIS2----1A----</AM>
-</tag>
+<tag lemma="lichtenberský" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94207-79-p26s2w6">
 <src.rf>manual</src.rf>
@@ -11652,16 +11494,7 @@
 <LM>w#w-ln94207-79-p26s2w7</LM>
 </w.rf>
 <form>Elektrokohle</form>
-<tag>
-<AM lemma="Elektrokohle_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Elektrokohle_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Elektrokohle" src="auto">Db-------------</AM>
-<AM lemma="Elektrokohle_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Elektrokohle" src="auto">PDYS1----------</AM>
-<AM lemma="Elektrokohle" src="auto">PDIS4----------</AM>
-<AM lemma="Elektrokohle" src="auto">II-------------</AM>
-<AM lemma="elektrokohle" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Elektrokohle_;K" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94207-79-p26s2w8">
 <src.rf>manual</src.rf>
@@ -13825,18 +13658,7 @@
 <LM>w#w-ln94207-79-p32s1w1</LM>
 </w.rf>
 <form>Achtung</form>
-<tag>
-<AM lemma="Achtung_,t" src="orig">TT-------------</AM>
-<AM lemma="Achtung_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Achtung_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Achtung_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Achtung_,t" src="auto" recommended="1">NNNSX-----A----</AM>
-<AM lemma="Achtung_;p" src="auto">NNMS1-----A----</AM>
-<AM lemma="Achtung_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Achtung_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Achtung_;R_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="achtung" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Achtung_,t" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94207-79-p32s1w2">
 <src.rf>manual</src.rf>
@@ -17616,15 +17438,7 @@
 <LM>w#w-ln94207-79-p39s1Aw3</LM>
 </w.rf>
 <form>total</form>
-<tag>
-<AM lemma="total_,t" src="orig">Db-------------</AM>
-<AM lemma="totat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="totat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="totat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="total_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="total_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="total_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-</tag>
+<tag lemma="total_,t" src="orig" selected="1">Db-------------</tag>
 </m>
 </s>
 <s id="m-ln94207-79-p39s1B">
@@ -17968,18 +17782,7 @@
 <LM>w#w-ln94207-79-p39s2Aw3</LM>
 </w.rf>
 <form>Kieser</form>
-<tag>
-<AM lemma="Kieser_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kieser_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kieser_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kieser_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kieser_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kieser" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kieser" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kieser" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kieser_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kieser" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kieser_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-79-p39s2Aw4">
 <src.rf>manual</src.rf>
@@ -18311,18 +18114,7 @@
 <LM>w#w-ln94207-79-p39s3w11</LM>
 </w.rf>
 <form>Wessis</form>
-<tag>
-<AM lemma="Wessis_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Wessis_;L_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="Wessis_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Wessis_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Wessis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wessis_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Wessis_;R_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Wessis_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Wessis_;L_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="wessis" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Wessis_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94207-79-p39s3w12">
 <src.rf>manual</src.rf>
@@ -23248,15 +23040,7 @@
 <LM>w#w-ln94207-79-p47s2w12</LM>
 </w.rf>
 <form>Kurfürstendamm</form>
-<tag>
-<AM lemma="Kurfürstendamm_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="Kurfürstendamm_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kurfürstendamm_;G" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Kurfürstendamm-1`milimetr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Kurfürstendam" src="auto">AAIS7----1A----</AM>
-<AM lemma="Kurfürstendam" src="auto">AANS7----1A----</AM>
-<AM lemma="kurfürstendamm" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kurfürstendamm_;G" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94207-79-p47s2w13">
 <src.rf>manual</src.rf>
@@ -23327,18 +23111,7 @@
 <LM>w#w-ln94207-79-p47s2w20</LM>
 </w.rf>
 <form>Allee</form>
-<tag>
-<AM lemma="Allee_;G" src="orig">NNFXX-----A----</AM>
-<AM lemma="Allee_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Allee_;G" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Allee_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Allee_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Allee_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Allee_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Allee_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="bungee_,t_^(Allee_jumping)" src="auto">AAXXX----1A----</AM>
-<AM lemma="allee" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Allee_;G" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94207-79-p47s2w21">
 <src.rf>manual</src.rf>

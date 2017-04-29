@@ -43,25 +43,7 @@
 <LM>w#w-ln94203-7-p1s1Aw4</LM>
 </w.rf>
 <form>Mc</form>
-<tag>
-<AM lemma="Mc_;S_,t" src="orig">NNMXX-----A----</AM>
-<AM lemma="Mc_;S_,t" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Mc_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mc_;S" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mc" src="auto">NNIS1-----A----</AM>
-<AM lemma="mc" src="auto">NNMS1-----A----</AM>
-<AM lemma="mc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mce" src="auto">NNFP2-----A----</AM>
-<AM lemma="mce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="mc" src="auto">NNIS1-----A----</AM>
-<AM lemma="mc" src="auto">NNIS4-----A----</AM>
-<AM lemma="mc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="mc_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mc_;S_,t" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94203-7-p1s1Aw5">
 <src.rf>manual</src.rf>

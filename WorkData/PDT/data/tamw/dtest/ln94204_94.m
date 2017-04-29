@@ -600,17 +600,7 @@
 <LM>w#w-ln94204-94-p4s1w1</LM>
 </w.rf>
 <form>Jaya</form>
-<tag>
-<AM lemma="Jaya_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Jaya_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Jaya_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jaya_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jayo_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Jaya_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jaya" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jay_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="jaya" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jaya_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-94-p4s1w2">
 <src.rf>manual</src.rf>
@@ -626,18 +616,7 @@
 <LM>w#w-ln94204-94-p4s1w3</LM>
 </w.rf>
 <form>Yandim</form>
-<tag>
-<AM lemma="Yandim_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Yandi_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Yandim_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Yandim_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Yandim_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Yandim-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Yandim" src="auto">NNIS4-----A----</AM>
-<AM lemma="Yandim" src="auto">NNIS1-----A----</AM>
-<AM lemma="Yandimum" src="auto">NNNP2-----A----</AM>
-<AM lemma="yandim" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Yandim_;K" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-94-p4s1w4">
 <src.rf>manual</src.rf>

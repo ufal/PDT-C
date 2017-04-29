@@ -757,18 +757,7 @@
 <LM>w#w-ln94200-116-p2s3w18</LM>
 </w.rf>
 <form>Karolosem</form>
-<tag>
-<AM lemma="Karolos_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Karolos" src="auto">NNIS7-----A----</AM>
-<AM lemma="Karolos_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Karolos_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Karoloso" src="auto">NNNS7-----A----</AM>
-<AM lemma="Karolos_;S_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Karolos_;K" src="auto">NNIS7-----A----</AM>
-<AM lemma="Karolos_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Karolos" src="auto">NNMS7-----A----</AM>
-<AM lemma="karolosem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Karolos_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-116-p2s3w19">
 <src.rf>manual</src.rf>

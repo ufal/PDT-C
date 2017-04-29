@@ -1134,16 +1134,7 @@
 <LM>w#w-mf930713-095-p2s8w7</LM>
 </w.rf>
 <form>zhrudkovatí</form>
-<tag>
-<AM lemma="zhrudkovatět" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="zhrudkovatit_:T" src="auto" recommended="1">VB-S---3P-AA---</AM>
-<AM lemma="zhrudkovatit_:W" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="zhrudkovatit_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="zhrudkovatý" src="auto">AAMP1----1A----</AM>
-<AM lemma="zhrudkovatět_:W" src="auto">VB-P---3P-AA--1</AM>
-<AM lemma="zhrudkovatět_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="zhrudkovať" src="auto">NNFS7-----A----</AM>
-</tag>
+<tag lemma="zhrudkovatět" src="orig" selected="1">VB-S---3P-AA---</tag>
 </m>
 <m id="m-mf930713-095-p2s8w8">
 <src.rf>manual</src.rf>

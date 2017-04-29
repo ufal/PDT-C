@@ -1428,25 +1428,7 @@
 <LM>w#w-mf930713-075-p4s5w4</LM>
 </w.rf>
 <form>přepečetěné</form>
-<tag>
-<AM lemma="přepečetěný" src="orig">AAFP1----1A----</AM>
-<AM lemma="přepečetěný_^(*3it)" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="přepečetěný_^(*3it)" src="auto">AAFP4----1A----</AM>
-<AM lemma="přepečetěný_^(*3it)" src="auto">AAFP5----1A----</AM>
-<AM lemma="přepečetěný_^(*3it)" src="auto">AAFS2----1A----</AM>
-<AM lemma="přepečetěný_^(*3it)" src="auto">AAFS3----1A----</AM>
-<AM lemma="přepečetěný_^(*3it)" src="auto">AAFS6----1A----</AM>
-<AM lemma="přepečetěný_^(*3it)" src="auto">AAIP1----1A----</AM>
-<AM lemma="přepečetěný_^(*3it)" src="auto">AAIP4----1A----</AM>
-<AM lemma="přepečetěný_^(*3it)" src="auto">AAIP5----1A----</AM>
-<AM lemma="přepečetěný_^(*3it)" src="auto">AAMP4----1A----</AM>
-<AM lemma="přepečetěný_^(*3it)" src="auto">AANP1----1A---6</AM>
-<AM lemma="přepečetěný_^(*3it)" src="auto">AANP4----1A---6</AM>
-<AM lemma="přepečetěný_^(*3it)" src="auto">AANP5----1A---6</AM>
-<AM lemma="přepečetěný_^(*3it)" src="auto">AANS1----1A----</AM>
-<AM lemma="přepečetěný_^(*3it)" src="auto">AANS4----1A----</AM>
-<AM lemma="přepečetěný_^(*3it)" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="přepečetěný" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-mf930713-075-p4s5w5">
 <src.rf>manual</src.rf>

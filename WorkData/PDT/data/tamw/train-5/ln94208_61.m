@@ -5651,16 +5651,7 @@
 <LM>w#w-ln94208-61-p8s3w4</LM>
 </w.rf>
 <form>kvótum</form>
-<tag>
-<AM lemma="kvótum" src="orig">NNNS4-----A----</AM>
-<AM lemma="kvótum" src="auto" recommended="1">NNNS4-----A----</AM>
-<AM lemma="kvótum" src="auto">NNNS1-----A----</AM>
-<AM lemma="kvótum_^(kalendářní)" src="auto">NNNS4-----A----</AM>
-<AM lemma="kvótum_^(kalendářní)" src="auto">NNNS1-----A----</AM>
-<AM lemma="kvótum_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kvótum_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="kvótum_;R_,t" src="auto">RR--X----------</AM>
-</tag>
+<tag lemma="kvótum" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94208-61-p8s3w5">
 <src.rf>manual</src.rf>

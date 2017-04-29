@@ -414,18 +414,7 @@
 <LM>w#w-ln94207-63-p2s1Cw28</LM>
 </w.rf>
 <form>Lightning</form>
-<tag>
-<AM lemma="Lightning_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Lightning_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lightning" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lightning_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lightning" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lightning_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lightning_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Lightning_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lightning_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="lightning" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lightning_;K" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94207-63-p2s1Cw29">
 <src.rf>manual</src.rf>
@@ -2661,18 +2650,7 @@
 <LM>w#w-ln94207-63-p3s12w22</LM>
 </w.rf>
 <form>Whalers</form>
-<tag>
-<AM lemma="Whalers_;K_,t_^(sport._klub)" src="orig">NNMPX-----A----</AM>
-<AM lemma="Whalers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Whaler_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Whalers_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Whaler_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Whaler_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Whalers_;K_,t_^(sport._klub)" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Whalers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Whalers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="whalers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Whalers_;K_,t_^(sport._klub)" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94207-63-p3s12w23">
 <src.rf>manual</src.rf>

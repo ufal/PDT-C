@@ -2312,18 +2312,7 @@
 <LM>w#w-mf930713-064-p5s1w3</LM>
 </w.rf>
 <form>Hegyie</form>
-<tag>
-<AM lemma="Hegyi_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Hegyi_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Hegyie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Hegyie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hegyie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Hegyie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Hegyie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Hegyie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hegyie_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="hegyie" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hegyi_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-064-p5s1w4">
 <src.rf>manual</src.rf>

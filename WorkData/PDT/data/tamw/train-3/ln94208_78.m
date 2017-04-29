@@ -37,18 +37,7 @@
 <LM>w#w-ln94208-78-p2s1w2</LM>
 </w.rf>
 <form>Ricupero</form>
-<tag>
-<AM lemma="Ricupero_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ricupero" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ricupero_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ricupero_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ricupero_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ricupero" src="auto">NNNS4-----A----</AM>
-<AM lemma="Ricupero_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Ricupero_;R_^(Mitsubishi_P.,_terénní_vozidlo)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ricupero_;K_^(letecká_továrna)" src="auto">NNNS4-----A----</AM>
-<AM lemma="ricupero" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ricupero_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-78-p2s1w3">
 <src.rf>manual</src.rf>
@@ -967,15 +956,7 @@
 <LM>w#w-ln94208-78-p4s1w31</LM>
 </w.rf>
 <form>Bohl</form>
-<tag>
-<AM lemma="Bohl_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Boci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Bohl_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="moci_^(mít_Božnost_[něco_dělat])" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Bohnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="Bohnout" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="bohl" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-78-p4s1w32">
 <src.rf>manual</src.rf>
@@ -1514,18 +1495,7 @@
 <LM>w#w-ln94208-78-p6s1w10</LM>
 </w.rf>
 <form>Ílamu</form>
-<tag>
-<AM lemma="Ílam_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Ílam" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ílam_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Ílam" src="auto">NNIS6-----A----</AM>
-<AM lemma="Ílam" src="auto">NNIS3-----A----</AM>
-<AM lemma="Ílam_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Ílama" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ílam_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Ílam_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="ílamu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ílam_;G" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94208-78-p6s1w11">
 <src.rf>manual</src.rf>

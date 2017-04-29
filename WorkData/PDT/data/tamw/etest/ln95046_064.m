@@ -310,17 +310,7 @@
 <LM>w#w-ln95046-064-p2s2w6</LM>
 </w.rf>
 <form>Farrahem</form>
-<tag>
-<AM lemma="Farrah_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Farrah" src="auto">NNIS7-----A----</AM>
-<AM lemma="Farrah_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Farrah_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Farrah" src="auto">NNMS7-----A----</AM>
-<AM lemma="Farraho" src="auto">NNNS7-----A----</AM>
-<AM lemma="Farrah_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Farrahem" src="auto">Db-------------</AM>
-<AM lemma="farrahem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Farrah_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-064-p2s2w7">
 <src.rf>manual</src.rf>

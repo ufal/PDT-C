@@ -805,17 +805,7 @@
 <LM>w#w-ln94200-164-p3s1w30</LM>
 </w.rf>
 <form>Carbolou</form>
-<tag>
-<AM lemma="Carbola_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Carbola" src="auto">NNFS7-----A----</AM>
-<AM lemma="Carbolý" src="auto">AAFS4----1A----</AM>
-<AM lemma="Carbolý" src="auto">AAFS7----1A----</AM>
-<AM lemma="Carbolý_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="Carbolý_^(*2nout)" src="auto">AAFS4----1A----</AM>
-<AM lemma="Carbolý_^(*2t)" src="auto">AAFS7----1A----</AM>
-<AM lemma="Carbola_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="carbolou" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Carbola_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-164-p3s1w31">
 <src.rf>manual</src.rf>

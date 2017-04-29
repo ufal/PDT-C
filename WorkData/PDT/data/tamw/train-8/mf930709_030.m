@@ -101,17 +101,7 @@
 <LM>w#w-mf930709-030-p2s1Aw3</LM>
 </w.rf>
 <form>rů</form>
-<tag>
-<AM lemma="rů-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="r" src="auto">NNIP2-----A----</AM>
-<AM lemma="r" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="r_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="r_;Y" src="auto">NNMP2-----A----</AM>
-<AM lemma="ry" src="auto">NNIP2-----A----</AM>
-<AM lemma="r_;S" src="auto">NNMP2-----A----</AM>
-<AM lemma="r_;H" src="auto">NNIP2-----A----</AM>
-<AM lemma="r_,t" src="auto">NNMP2-----A----</AM>
-</tag>
+<tag lemma="rů-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-030-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -127,17 +117,7 @@
 <LM>w#w-mf930709-030-p2s1Aw5</LM>
 </w.rf>
 <form>ptp</form>
-<tag>
-<AM lemma="ptp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ptp-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ptp-1_:B_^(a_tak_podobně)" src="auto">Db------------8</AM>
-<AM lemma="ptp" src="auto">NNIS1-----A----</AM>
-<AM lemma="ptp" src="auto">NNIS4-----A----</AM>
-<AM lemma="ptp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ptp" src="auto">NNMS1-----A----</AM>
-<AM lemma="ptp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ptp_;K" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="ptp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-030-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -2141,18 +2121,7 @@
 <LM>w#w-mf930709-030-p5s1w13</LM>
 </w.rf>
 <form>Unleaded</form>
-<tag>
-<AM lemma="Unleaded_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Unleaded_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Unleaded" src="auto">NNIS4-----A----</AM>
-<AM lemma="Unleaded" src="auto">NNIS1-----A----</AM>
-<AM lemma="Unleaded_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Unleaded-1" src="auto">Db-------------</AM>
-<AM lemma="Unleaded" src="auto">Db-------------</AM>
-<AM lemma="Unleaded_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Unleaded" src="auto">NNMS1-----A----</AM>
-<AM lemma="unleaded" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Unleaded_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930709-030-p5s1w14">
 <src.rf>manual</src.rf>
@@ -2168,26 +2137,7 @@
 <LM>w#w-mf930709-030-p5s1w15</LM>
 </w.rf>
 <form>Sans</form>
-<tag>
-<AM lemma="Sans_,t" src="orig">RR--X----------</AM>
-<AM lemma="San_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="San_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="San_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Sans_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sans_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sans_;Y" src="auto">NNMPX-----A----</AM>
-<AM lemma="Sans_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sansactions_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="sans" src="auto">NNMS1-----A----</AM>
-<AM lemma="sans-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="sans-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="sans-4_,t_^(saský_genitiv)" src="auto" recommended="1">NNXSX-----A----</AM>
-<AM lemma="sanscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="sansoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="sanspolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="sanstrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="sanstátní_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Sans_,t" src="orig" selected="1">RR--X----------</tag>
 </m>
 <m id="m-mf930709-030-p5s1w16">
 <src.rf>manual</src.rf>
@@ -2214,18 +2164,7 @@
 <LM>w#w-mf930709-030-p5s1w18</LM>
 </w.rf>
 <form>Bleifrei</form>
-<tag>
-<AM lemma="Bleifrei_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Bleifrei_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bleifrei_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bleifrei_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Bleifrei_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Bleifrei_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Dei_;S_^(Bleifrei-Anang)" src="auto">A2--------A----</AM>
-<AM lemma="Bleifreum" src="auto">NNNP7-----A----</AM>
-<AM lemma="Bleifrei_;b_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="bleifrei" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bleifrei_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930709-030-p5s1w19">
 <src.rf>manual</src.rf>

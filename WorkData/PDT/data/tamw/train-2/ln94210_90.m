@@ -2647,18 +2647,7 @@
 <LM>w#w-ln94210-90-p5s2w18</LM>
 </w.rf>
 <form>Rozamunda</form>
-<tag>
-<AM lemma="Rozamunda_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Rozamunda_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rozamunda" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rozamund_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rozamund_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rozamund_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rozamunda_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Rozamunda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rozamund_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="rozamunda" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rozamunda_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-90-p5s2w19">
 <src.rf>manual</src.rf>
@@ -3123,18 +3112,7 @@
 <LM>w#w-ln94210-90-p5s5w7</LM>
 </w.rf>
 <form>Montblank</form>
-<tag>
-<AM lemma="Montblanc_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Montblanka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Montblank_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Montblank" src="auto">NNIS1-----A----</AM>
-<AM lemma="Montblank_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Montblank" src="auto">NNIS4-----A----</AM>
-<AM lemma="Montblanc_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Montblank_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Montblank_;L" src="auto">NNMS1-----A----</AM>
-<AM lemma="montblank" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Montblanc_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-90-p5s5w8">
 <src.rf>manual</src.rf>
@@ -3150,15 +3128,7 @@
 <LM>w#w-ln94210-90-p5s5w9</LM>
 </w.rf>
 <form>Popokatepetl</form>
-<tag>
-<AM lemma="Popocatepetl_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Popokatepíst" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Popokatepést" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Popocatepetl_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Popokatepetnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="Popokatepetl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="popokatepetl" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Popocatepetl_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-90-p5s5w10">
 <src.rf>manual</src.rf>
@@ -3339,17 +3309,7 @@
 <LM>w#w-ln94210-90-p5s6w10</LM>
 </w.rf>
 <form>Ázie</form>
-<tag>
-<AM lemma="Asie_;G" src="orig">NNFS1-----A---6</AM>
-<AM lemma="Ázie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ázie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Ázie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Ázie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Asie_;G" src="auto" recommended="1">NNFS1-----A---6</AM>
-<AM lemma="Ázia_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Ázie_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="ázie" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Asie_;G" src="orig" selected="1">NNFS1-----A---6</tag>
 </m>
 <m id="m-ln94210-90-p5s6w11">
 <src.rf>manual</src.rf>
@@ -3592,17 +3552,7 @@
 <LM>w#w-ln94210-90-p5s8w8</LM>
 </w.rf>
 <form>marzu</form>
-<tag>
-<AM lemma="marzu" src="orig">NNXXX-----A----</AM>
-<AM lemma="mars_^(úpadek;;soutěž)" src="auto">NNIS6-----A---1</AM>
-<AM lemma="mars_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
-<AM lemma="mars-1_^(soutěž)" src="auto">NNIS6-----A----</AM>
-<AM lemma="mars" src="auto">NNIS6-----A---1</AM>
-<AM lemma="mars" src="auto">NNIS3-----A----</AM>
-<AM lemma="mars" src="auto">NNIS2-----A----</AM>
-<AM lemma="marza_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="marza" src="auto" recommended="1">NNFS4-----A----</AM>
-</tag>
+<tag lemma="marzu" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94210-90-p5s8w9">
 <src.rf>manual</src.rf>
@@ -4260,17 +4210,7 @@
 <LM>w#w-ln94210-90-p5s10w44</LM>
 </w.rf>
 <form>dezinficencia</form>
-<tag>
-<AM lemma="dezinficencium" src="orig">NNNP1-----A----</AM>
-<AM lemma="dezinficencium" src="auto">NNNS2-----A----</AM>
-<AM lemma="dezinficencia_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="dezinficencium_;H" src="auto">NNNS2-----A----</AM>
-<AM lemma="dezinficencium" src="auto">NNNP1-----A----</AM>
-<AM lemma="dezinficencio_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="dezinficencie_;G" src="auto">NNFS1-----A---1</AM>
-<AM lemma="dezinficencie-1_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="dezinficencia_;m" src="auto" recommended="1">NNFS1-----A----</AM>
-</tag>
+<tag lemma="dezinficencium" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-ln94210-90-p5s10w45">
 <src.rf>manual</src.rf>
@@ -4286,18 +4226,7 @@
 <LM>w#w-ln94210-90-p5s10w46</LM>
 </w.rf>
 <form>dezurbanizace</form>
-<tag>
-<AM lemma="dezurbanizace" src="orig">NNFS1-----A----</AM>
-<AM lemma="dezurbanizace" src="auto">NNFP1-----A----</AM>
-<AM lemma="dezurbanizace" src="auto">NNFP4-----A----</AM>
-<AM lemma="dezurbanizace" src="auto">NNFP5-----A----</AM>
-<AM lemma="dezurbanizace" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="dezurbanizace" src="auto">NNFS2-----A----</AM>
-<AM lemma="dezurbanizace" src="auto">NNFS5-----A----</AM>
-<AM lemma="dezurbanizace_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dezurbanizace_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="dezurbanizace_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="dezurbanizace" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-90-p5s10w47">
 <src.rf>manual</src.rf>

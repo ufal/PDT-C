@@ -289,16 +289,7 @@
 <LM>w#w-mf930713-138-p2s1w29</LM>
 </w.rf>
 <form>Boyne</form>
-<tag>
-<AM lemma="Boyne_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Boynout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Boyne_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Boynout_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Boyne_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Boyne_;R" src="auto">NNIXX-----A----</AM>
-<AM lemma="Boyne_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="boyne" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Boyne_;G" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf930713-138-p2s1w30">
 <src.rf>manual</src.rf>
@@ -3676,18 +3667,7 @@
 <LM>w#w-mf930713-138-p8s3w13</LM>
 </w.rf>
 <form>Uslteru</form>
-<tag>
-<AM lemma="Uslter_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Uslter" src="auto">NNIS2-----A----</AM>
-<AM lemma="Uslter_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Uslter" src="auto">NNIS6-----A----</AM>
-<AM lemma="Uslter_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Usltera" src="auto">NNFS4-----A----</AM>
-<AM lemma="Uslter" src="auto">NNIS3-----A----</AM>
-<AM lemma="Usltrat" src="auto">VB-S---1P-AA---</AM>
-<AM lemma="Usltera_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="uslteru" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Uslter_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930713-138-p8s3w14">
 <src.rf>manual</src.rf>
@@ -3719,18 +3699,7 @@
 <LM>w#w-mf930713-138-p8s3w17</LM>
 </w.rf>
 <form>Wilsey</form>
-<tag>
-<AM lemma="Wilsey_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Wilsey_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Wilsey_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Wilsey_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Wilsey_;K" src="auto">NNMXX-----A----</AM>
-<AM lemma="Wilsey_;G_^(ostrov)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Wilsey_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Wilsey_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Wilsey_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="wilsey" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Wilsey_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-138-p8s3w18">
 <src.rf>manual</src.rf>
@@ -5240,16 +5209,7 @@
 <LM>w#w-mf930713-138-p10s1w19</LM>
 </w.rf>
 <form>Boyne</form>
-<tag>
-<AM lemma="Boyne_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Boynout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Boyne_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Boynout_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Boyne_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Boyne_;R" src="auto">NNIXX-----A----</AM>
-<AM lemma="Boyne_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="boyne" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Boyne_;G" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf930713-138-p10s1w20">
 <src.rf>manual</src.rf>

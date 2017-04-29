@@ -87,18 +87,7 @@
 <LM>w#w-ln94202-5-p2s1Bw4</LM>
 </w.rf>
 <form>Hotzenblitz</form>
-<tag>
-<AM lemma="Hotzenblitz_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hotzenblitz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hotzenblitz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hotzenblitz_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Hotzenblitz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hotzenblitz_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Hotzenblitz_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Hotzenblitz_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hotzenblitz-1_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="hotzenblitz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hotzenblitz_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-5-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -122,18 +111,7 @@
 <LM>w#w-ln94202-5-p2s1Bw7</LM>
 </w.rf>
 <form>Hotzenblitz</form>
-<tag>
-<AM lemma="Hotzenblitz_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hotzenblitz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hotzenblitz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hotzenblitz_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Hotzenblitz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hotzenblitz_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Hotzenblitz_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Hotzenblitz_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hotzenblitz-1_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="hotzenblitz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hotzenblitz_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-5-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -141,18 +119,7 @@
 <LM>w#w-ln94202-5-p2s1Bw8</LM>
 </w.rf>
 <form>Thüringer</form>
-<tag>
-<AM lemma="Thüringer_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Thüringer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Thüringer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Thüringer_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Thürinžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Thüringer_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Thüringer_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Thüringer_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Thüringer_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="thüringer" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Thüringer_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-5-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -242,15 +209,7 @@
 <LM>w#w-ln94202-5-p2s2w6</LM>
 </w.rf>
 <form>Albieze</form>
-<tag>
-<AM lemma="Albiez_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Albieze" src="auto">NNFS2-----A----</AM>
-<AM lemma="Albiézt" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Albieze" src="auto">NNFS1-----A----</AM>
-<AM lemma="Albiez_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Albiez_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="albieze" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Albiez_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-5-p2s2w7">
 <src.rf>manual</src.rf>
@@ -574,18 +533,7 @@
 <LM>w#w-ln94202-5-p3s2w14</LM>
 </w.rf>
 <form>Hotzenblitz</form>
-<tag>
-<AM lemma="Hotzenblitz_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hotzenblitz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hotzenblitz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hotzenblitz_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Hotzenblitz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hotzenblitz_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Hotzenblitz_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Hotzenblitz_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hotzenblitz-1_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="hotzenblitz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hotzenblitz_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-5-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1007,16 +955,7 @@
 <LM>w#w-ln94202-5-p3s6w4</LM>
 </w.rf>
 <form>zinkochrómovou</form>
-<tag>
-<AM lemma="zinkochrómový" src="orig">AAFS7----1A----</AM>
-<AM lemma="zinkochrómový" src="auto">AAFS4----1A----</AM>
-<AM lemma="zinkochrómový" src="auto" recommended="1">AAFS7----1A----</AM>
-<AM lemma="zinkochrómová_;S" src="auto">NNFS7-----A----</AM>
-<AM lemma="zinkochrómová_;S" src="auto">NNFS4-----A----</AM>
-<AM lemma="zinkochrómova" src="auto">NNFS7-----A----</AM>
-<AM lemma="zinkochrómův_;S_^(*2)" src="auto">AUFS7M---------</AM>
-<AM lemma="zinkochrómova_;G" src="auto">NNFS7-----A----</AM>
-</tag>
+<tag lemma="zinkochrómový" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln94202-5-p3s6w5">
 <src.rf>manual</src.rf>

@@ -1918,17 +1918,7 @@
 <LM>w#w-ln95048-059-p5s2w25</LM>
 </w.rf>
 <form>zhůřské</form>
-<tag>
-<AM lemma="zhůřský_;G" src="orig">AAFS2----1A----</AM>
-<AM lemma="zhůřský" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="zhůřský" src="auto">AAFS6----1A----</AM>
-<AM lemma="zhůřský" src="auto">AANS1----1A----</AM>
-<AM lemma="zhůřský" src="auto">AAFP1----1A----</AM>
-<AM lemma="zhůřský" src="auto">AAIP1----1A----</AM>
-<AM lemma="zhůřský" src="auto">AANS4----1A----</AM>
-<AM lemma="zhůřský" src="auto">AAFP4----1A----</AM>
-<AM lemma="zhůřský" src="auto">AAFS3----1A----</AM>
-</tag>
+<tag lemma="zhůřský_;G" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95048-059-p5s2w26">
 <src.rf>manual</src.rf>
@@ -2853,17 +2843,7 @@
 <LM>w#w-ln95048-059-p7s3w11</LM>
 </w.rf>
 <form>sociálrealistických</form>
-<tag>
-<AM lemma="sociálrealistický" src="orig">AAFP6----1A----</AM>
-<AM lemma="sociálrealistický" src="auto">AAFP2----1A----</AM>
-<AM lemma="sociálrealistický" src="auto">AAIP2----1A----</AM>
-<AM lemma="sociálrealistický" src="auto" recommended="1">AAFP6----1A----</AM>
-<AM lemma="sociálrealistický" src="auto">AAMP2----1A----</AM>
-<AM lemma="sociálrealistický" src="auto">AANP2----1A----</AM>
-<AM lemma="sociálrealistický" src="auto">AAIP6----1A----</AM>
-<AM lemma="sociálrealistický_^(*2t)" src="auto">AAIP2----1A----</AM>
-<AM lemma="sociálrealistický_^(*2t)" src="auto">AAFP2----1A----</AM>
-</tag>
+<tag lemma="sociálrealistický" src="orig" selected="1">AAFP6----1A----</tag>
 </m>
 <m id="m-ln95048-059-p7s3w12">
 <src.rf>manual</src.rf>

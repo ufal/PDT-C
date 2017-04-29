@@ -3023,17 +3023,7 @@
 <LM>w#w-lnd94103-057-p1s14w19</LM>
 </w.rf>
 <form>Spirit</form>
-<tag>
-<AM lemma="Spirit_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Spirita" src="auto">NNFP2-----A----</AM>
-<AM lemma="Spirit" src="auto">NNIS1-----A----</AM>
-<AM lemma="Spirit" src="auto">NNIS4-----A----</AM>
-<AM lemma="Spiritánie_:B_;m" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Spiritánie_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Spiritum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Spiritský_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="spirit" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Spirit_;m_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-lnd94103-057-p1s14w20">
 <src.rf>manual</src.rf>

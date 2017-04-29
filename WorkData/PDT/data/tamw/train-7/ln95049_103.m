@@ -215,16 +215,7 @@
 <LM>w#w-ln95049-103-p2s2w4</LM>
 </w.rf>
 <form>squatterů</form>
-<tag>
-<AM lemma="squatter_,t" src="orig">NNMP2-----A----</AM>
-<AM lemma="squatter" src="auto">NNMP2-----A----</AM>
-<AM lemma="squatter" src="auto">NNIP2-----A----</AM>
-<AM lemma="squatter_;S" src="auto">NNMP2-----A----</AM>
-<AM lemma="squatter_,t" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="squatter_,h" src="auto">NNMP2-----A----</AM>
-<AM lemma="squatter-1" src="auto">NNIP2-----A----</AM>
-<AM lemma="squatter_;E" src="auto">NNMP2-----A----</AM>
-</tag>
+<tag lemma="squatter_,t" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95049-103-p2s2w5">
 <src.rf>manual</src.rf>
@@ -426,16 +417,7 @@
 <LM>w#w-ln95049-103-p2s3w8</LM>
 </w.rf>
 <form>Trade</form>
-<tag>
-<AM lemma="Trade_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Trást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Trade_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Trade_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Trade_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Made_;m_,t_^(Czech_Trade)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Trad-1" src="auto">RR--7----------</AM>
-<AM lemma="trade" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Trade_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95049-103-p2s3w9">
 <src.rf>manual</src.rf>
@@ -610,17 +592,7 @@
 <LM>w#w-ln95049-103-p2s4w9</LM>
 </w.rf>
 <form>squatteři</form>
-<tag>
-<AM lemma="squatter_,t" src="orig">NNMP1-----A----</AM>
-<AM lemma="squatter" src="auto">NNMP1-----A----</AM>
-<AM lemma="squatter_,t" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="squattera" src="auto">NNFS3-----A----</AM>
-<AM lemma="squatteře" src="auto">NNFS6-----A----</AM>
-<AM lemma="squatteře" src="auto">NNFS4-----A----</AM>
-<AM lemma="squatteře" src="auto">NNFS3-----A----</AM>
-<AM lemma="squatteř" src="auto">NNMS3-----A----</AM>
-<AM lemma="squatteř" src="auto">NNMP7-----A----</AM>
-</tag>
+<tag lemma="squatter_,t" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95049-103-p2s4w10">
 <src.rf>manual</src.rf>
@@ -1612,17 +1584,7 @@
 <LM>w#w-ln95049-103-p5s1w9</LM>
 </w.rf>
 <form>kohátem</form>
-<tag>
-<AM lemma="kohát" src="orig">NNIS7-----A----</AM>
-<AM lemma="kohát" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="kohát" src="auto">NNMS7-----A----</AM>
-<AM lemma="kohát_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="kohát_^(*3ý)" src="auto">NNFP3-----A----</AM>
-<AM lemma="koháto" src="auto">NNNS7-----A----</AM>
-<AM lemma="kohá" src="auto">NNNS7-----A----</AM>
-<AM lemma="kohát" src="auto">NNFP3-----A----</AM>
-<AM lemma="koháet" src="auto">NNIS7-----A----</AM>
-</tag>
+<tag lemma="kohát" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95049-103-p5s1w10">
 <src.rf>manual</src.rf>

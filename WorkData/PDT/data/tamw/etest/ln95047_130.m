@@ -87,18 +87,7 @@
 <LM>w#w-ln95047-130-p2s1Bw4</LM>
 </w.rf>
 <form>Robusta</form>
-<tag>
-<AM lemma="Robusta_;R" src="orig">NNFS1-----A----</AM>
-<AM lemma="Robusta" src="auto">NNMS1-----A----</AM>
-<AM lemma="Robusto" src="auto">NNNS2-----A----</AM>
-<AM lemma="Robusta_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Robusta" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Robusta_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Robustý" src="auto">ACQW------A----</AM>
-<AM lemma="Robust_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Robusta_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="robusta" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Robusta_;R" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-130-p2s1Bw5">
 <src.rf>manual</src.rf>

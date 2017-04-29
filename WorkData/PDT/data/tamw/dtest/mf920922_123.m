@@ -492,18 +492,7 @@
 <LM>w#w-mf920922-123-p3s2w15</LM>
 </w.rf>
 <form>Nedarici</form>
-<tag>
-<AM lemma="Nedarica_;G_,t" src="orig">NNFS6-----A----</AM>
-<AM lemma="Nedarice" src="auto">NNFS6-----A----</AM>
-<AM lemma="Nedarice" src="auto">NNFS4-----A----</AM>
-<AM lemma="Nedarik" src="auto">NNMP1-----A----</AM>
-<AM lemma="Nedarice" src="auto">NNFS3-----A----</AM>
-<AM lemma="Nedarice_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Nedarice_^(*3ík)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Nedarica_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Nedarice_^(*3ík)" src="auto">NNFS6-----A----</AM>
-<AM lemma="nedarici" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nedarica_;G_,t" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920922-123-p3s2w16">
 <src.rf>manual</src.rf>

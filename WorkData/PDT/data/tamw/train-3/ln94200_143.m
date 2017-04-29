@@ -3346,17 +3346,7 @@
 <LM>w#w-ln94200-143-p3s11w40</LM>
 </w.rf>
 <form>Móscickému</form>
-<tag>
-<AM lemma="Móscicki_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Móscický" src="auto">AAIS3----1A----</AM>
-<AM lemma="Móscický" src="auto">AANS3----1A----</AM>
-<AM lemma="Móscický" src="auto">AAMS3----1A----</AM>
-<AM lemma="Móscický_^(*2t)" src="auto">AAIS3----1A----</AM>
-<AM lemma="Móscický_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Móscický_^(*3it)" src="auto">AAIS3----1A----</AM>
-<AM lemma="Móscický_^(*2t)" src="auto">AANS3----1A----</AM>
-<AM lemma="móscickému" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Móscicki_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94200-143-p3s11w41">
 <src.rf>manual</src.rf>

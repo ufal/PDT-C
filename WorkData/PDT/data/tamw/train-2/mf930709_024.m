@@ -61,10 +61,7 @@
 <LM>w#w-mf930709-024-p2s1Aw3</LM>
 </w.rf>
 <form>jh</form>
-<tag>
-<AM lemma="jh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jh-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-</tag>
+<tag lemma="jh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-024-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -372,24 +369,7 @@
 <LM>w#w-mf930709-024-p2s2w23</LM>
 </w.rf>
 <form>Prestol</form>
-<tag>
-<AM lemma="Prestol_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Prestol" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prestol" src="auto">NNIS4-----A----</AM>
-<AM lemma="Prestol-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Prestol_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prestol_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Prestol_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prestola" src="auto">NNFP2-----A----</AM>
-<AM lemma="Prestoletí_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="prestol" src="auto">NNMS1-----A----</AM>
-<AM lemma="prestol-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="prestoletopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
-<AM lemma="prestoletí_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="prestolit_:T_,a_^(stolovat)" src="auto">Vi-S---2--A----</AM>
-<AM lemma="prestolit_:T_,a_^(stolovat)" src="auto">Vi-S---3--A---4</AM>
-<AM lemma="prestolitr_:B" src="auto">NNIXX-----A---8</AM>
-</tag>
+<tag lemma="Prestol_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-024-p2s2w24">
 <src.rf>manual</src.rf>

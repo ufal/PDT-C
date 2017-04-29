@@ -2298,17 +2298,7 @@
 <LM>w#w-ln94208-91-p5s5w10</LM>
 </w.rf>
 <form>proříšského</form>
-<tag>
-<AM lemma="proříšský" src="orig">AAIS2----1A----</AM>
-<AM lemma="proříšský" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="proříšský" src="auto">AAMS2----1A----</AM>
-<AM lemma="proříšský" src="auto">AAMS4----1A----</AM>
-<AM lemma="proříšský" src="auto">AANS2----1A----</AM>
-<AM lemma="proříšský_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="proříšský_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="proříšský_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="proříšský_^(*3it)" src="auto">AAIS2----1A----</AM>
-</tag>
+<tag lemma="proříšský" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94208-91-p5s5w11">
 <src.rf>manual</src.rf>

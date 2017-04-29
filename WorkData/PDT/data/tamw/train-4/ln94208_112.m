@@ -53,17 +53,7 @@
 <LM>w#w-ln94208-112-p2s1Aw3</LM>
 </w.rf>
 <form>mmz</form>
-<tag>
-<AM lemma="mmz-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mmz-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="mmz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mmz" src="auto">NNIS4-----A----</AM>
-<AM lemma="mmz" src="auto">NNIS1-----A----</AM>
-<AM lemma="mmza" src="auto">NNFP2-----A----</AM>
-<AM lemma="mmz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mmz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="mms" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="mmz-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94208-112-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -427,34 +417,7 @@
 <LM>w#w-ln94208-112-p2s2w1</LM>
 </w.rf>
 <form>Půldélkové</form>
-<tag>
-<AM lemma="půldélkový" src="orig">AANS4----1A----</AM>
-<AM lemma="Půldélková_;S" src="auto">NNFS2-----A----</AM>
-<AM lemma="Půldélkový" src="auto">AAFP1----1A----</AM>
-<AM lemma="Půldélkový" src="auto">AAFP4----1A----</AM>
-<AM lemma="Půldélkový" src="auto">AAFS2----1A----</AM>
-<AM lemma="Půldélkový" src="auto">AAFS6----1A----</AM>
-<AM lemma="Půldélkový" src="auto">AAIP1----1A----</AM>
-<AM lemma="Půldélkový" src="auto">AAIP4----1A----</AM>
-<AM lemma="Půldélkový" src="auto">AANS1----1A----</AM>
-<AM lemma="půldélkové" src="auto">NNMS1-----A----</AM>
-<AM lemma="půldélkový" src="auto">AAFP1----1A----</AM>
-<AM lemma="půldélkový" src="auto">AAFP4----1A----</AM>
-<AM lemma="půldélkový" src="auto">AAFP5----1A----</AM>
-<AM lemma="půldélkový" src="auto">AAFS2----1A----</AM>
-<AM lemma="půldélkový" src="auto">AAFS3----1A----</AM>
-<AM lemma="půldélkový" src="auto">AAFS6----1A----</AM>
-<AM lemma="půldélkový" src="auto">AAIP1----1A----</AM>
-<AM lemma="půldélkový" src="auto">AAIP4----1A----</AM>
-<AM lemma="půldélkový" src="auto">AAIP5----1A----</AM>
-<AM lemma="půldélkový" src="auto">AAMP4----1A----</AM>
-<AM lemma="půldélkový" src="auto">AANP1----1A---6</AM>
-<AM lemma="půldélkový" src="auto">AANP4----1A---6</AM>
-<AM lemma="půldélkový" src="auto">AANP5----1A---6</AM>
-<AM lemma="půldélkový" src="auto">AANS1----1A----</AM>
-<AM lemma="půldélkový" src="auto" recommended="1">AANS4----1A----</AM>
-<AM lemma="půldélkový" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="půldélkový" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln94208-112-p2s2w2">
 <src.rf>manual</src.rf>
@@ -585,18 +548,7 @@
 <LM>w#w-ln94208-112-p2s2w17</LM>
 </w.rf>
 <form>Naguiba</form>
-<tag>
-<AM lemma="Naguiba_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Naguiba_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Naguiba-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Naguiba" src="auto">NNFS1-----A----</AM>
-<AM lemma="Naguiba_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Naguiba_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Naguib_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Naguiba_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Naguib_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="naguiba" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Naguiba_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-112-p2s2w18">
 <src.rf>manual</src.rf>
@@ -761,18 +713,7 @@
 <LM>w#w-ln94208-112-p2s4w5</LM>
 </w.rf>
 <form>Lutmier</form>
-<tag>
-<AM lemma="Lutmier_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Lutmier_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lutmier_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kurier-1_;K_,t_^(souč._názvu_Der_Lutmier)" src="auto">NNISX-----A----</AM>
-<AM lemma="Lutmiéra_,x" src="auto">NNFP2-----A----</AM>
-<AM lemma="Lutmier_^(sklárna)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lutmier_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lutmier_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Lutmier_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="lutmier" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lutmier_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94208-112-p2s4w6">
 <src.rf>manual</src.rf>

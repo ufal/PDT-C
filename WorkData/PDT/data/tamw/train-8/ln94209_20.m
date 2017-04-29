@@ -453,16 +453,7 @@
 <LM>w#w-ln94209-20-p2s4w6</LM>
 </w.rf>
 <form>konsenzus</form>
-<tag>
-<AM lemma="konsens" src="orig">NNIS4-----A----</AM>
-<AM lemma="konsenzus" src="auto">NNXXX-----A----</AM>
-<AM lemma="konsens" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="konsens" src="auto">NNIS1-----A----</AM>
-<AM lemma="konsenzus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="konsenzus" src="auto">NNIS4-----A----</AM>
-<AM lemma="konsenzus" src="auto">NNIS1-----A----</AM>
-<AM lemma="konsenzus_;L_,t" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="konsens" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94209-20-p2s4w7">
 <src.rf>manual</src.rf>

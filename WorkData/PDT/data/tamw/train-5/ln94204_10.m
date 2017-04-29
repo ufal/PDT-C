@@ -19,27 +19,7 @@
 <LM>w#w-ln94204-10-p1s1w1</LM>
 </w.rf>
 <form>SIF</form>
-<tag>
-<AM lemma="SIF_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SIF-1_:B_;K_^(Nadační_investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SIF-2_:B_,t_^(švéd._oddíl)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SIF-2_:B_;K_^(Harvardský_investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SIF_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SIF_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SIF_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SIF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SIF_;K" src="auto">NNIS3-----A----</AM>
-<AM lemma="Sif" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sif" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sif" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sif-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Sif_,t" src="auto">J^-------------</AM>
-<AM lemma="Sif_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sif_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sif_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sif" src="auto">NNMS1-----A----</AM>
-<AM lemma="sif-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="SIF_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-10-p1s1w2">
 <src.rf>manual</src.rf>
@@ -1293,27 +1273,7 @@
 <LM>w#w-ln94204-10-p5s2w14</LM>
 </w.rf>
 <form>SIF</form>
-<tag>
-<AM lemma="SIF_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SIF-1_:B_;K_^(Nadační_investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SIF-2_:B_,t_^(švéd._oddíl)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SIF-2_:B_;K_^(Harvardský_investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SIF_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SIF_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SIF_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SIF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SIF_;K" src="auto">NNIS3-----A----</AM>
-<AM lemma="Sif" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sif" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sif" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sif-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Sif_,t" src="auto">J^-------------</AM>
-<AM lemma="Sif_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sif_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sif_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sif" src="auto">NNMS1-----A----</AM>
-<AM lemma="sif-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="SIF_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-10-p5s2w15">
 <src.rf>manual</src.rf>
@@ -1576,27 +1536,7 @@
 <LM>w#w-ln94204-10-p5s3w24</LM>
 </w.rf>
 <form>SIF</form>
-<tag>
-<AM lemma="SIF_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SIF-1_:B_;K_^(Nadační_investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SIF-2_:B_,t_^(švéd._oddíl)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SIF-2_:B_;K_^(Harvardský_investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SIF_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SIF_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SIF_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SIF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SIF_;K" src="auto">NNIS3-----A----</AM>
-<AM lemma="Sif" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sif" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sif" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sif-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Sif_,t" src="auto">J^-------------</AM>
-<AM lemma="Sif_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sif_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sif_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sif" src="auto">NNMS1-----A----</AM>
-<AM lemma="sif-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="SIF_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-10-p5s3w25">
 <src.rf>manual</src.rf>

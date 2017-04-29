@@ -311,17 +311,7 @@
 <LM>w#w-ln94206-9-p2s2w20</LM>
 </w.rf>
 <form>stavebněmontážních</form>
-<tag>
-<AM lemma="stavebněmontážní" src="orig">AAFP2----1A----</AM>
-<AM lemma="stavebněmontážní" src="auto" recommended="1">AAFP2----1A----</AM>
-<AM lemma="stavebněmontážní" src="auto">AAIP2----1A----</AM>
-<AM lemma="stavebněmontážní" src="auto">AAFP6----1A----</AM>
-<AM lemma="stavebněmontážní" src="auto">AANP2----1A----</AM>
-<AM lemma="stavebněmontážne" src="auto">NNFP6-----A----</AM>
-<AM lemma="stavebněmontážní" src="auto">AAIP6----1A----</AM>
-<AM lemma="stavebněmontážní" src="auto">AAMP2----1A----</AM>
-<AM lemma="stavebněmontážne_;G" src="auto">NNFP6-----A----</AM>
-</tag>
+<tag lemma="stavebněmontážní" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln94206-9-p2s2w21">
 <src.rf>manual</src.rf>

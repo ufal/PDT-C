@@ -199,19 +199,7 @@
 <LM>w#w-ln94210-21-p2s1Bw13</LM>
 </w.rf>
 <form>KGHM</form>
-<tag>
-<AM lemma="KGHM_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGHM_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="KGHM_:B_;m_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KGHM_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KGHM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Kghm" src="auto">II-------------</AM>
-<AM lemma="Kghm_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kghm-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Kgh" src="auto">AAIS7----1A----</AM>
-<AM lemma="Kgh" src="auto">AANS7----1A----</AM>
-<AM lemma="kghm" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="KGHM_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94210-21-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -294,18 +282,7 @@
 <LM>w#w-ln94210-21-p2s2w7</LM>
 </w.rf>
 <form>Sedzikowski</form>
-<tag>
-<AM lemma="Sedzikowski_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sedzikowski_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sedzikowský_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Sedzikowski_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Sedzikowski_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Sedzikovski_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sedzikowský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sedzikowski_;K_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Sedzikowski_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="sedzikowski" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sedzikowski_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-21-p2s2w8">
 <src.rf>manual</src.rf>
@@ -1065,19 +1042,7 @@
 <LM>w#w-ln94210-21-p4s1w13</LM>
 </w.rf>
 <form>KGHM</form>
-<tag>
-<AM lemma="KGHM_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGHM_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="KGHM_:B_;m_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KGHM_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KGHM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Kghm" src="auto">II-------------</AM>
-<AM lemma="Kghm_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kghm-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Kgh" src="auto">AAIS7----1A----</AM>
-<AM lemma="Kgh" src="auto">AANS7----1A----</AM>
-<AM lemma="kghm" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="KGHM_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94210-21-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1085,18 +1050,7 @@
 <LM>w#w-ln94210-21-p4s1w14</LM>
 </w.rf>
 <form>Metraco</form>
-<tag>
-<AM lemma="Metraco_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Metraco_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Metraco_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Metraco_;G_,t" src="auto">NNNS4-----A----</AM>
-<AM lemma="Metraco_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Metraco_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Metraco_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Metraco" src="auto">PZ--4----------</AM>
-<AM lemma="Metraco" src="auto">PZ--1----------</AM>
-<AM lemma="metraco" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Metraco_;K" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94210-21-p4s1w15">
 <src.rf>manual</src.rf>

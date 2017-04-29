@@ -489,17 +489,7 @@
 <LM>w#w-ln94207-107-p2s3w8</LM>
 </w.rf>
 <form>McCorquodale</form>
-<tag>
-<AM lemma="McCorquodale_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="McCorquodale_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="McCorquodale_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="McCorquodal" src="auto">NNIS6-----A----</AM>
-<AM lemma="McCorquodale_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="McCorquodala" src="auto">NNFS6-----A----</AM>
-<AM lemma="McCorquodale_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="McCorquodale-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mccorquodale" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="McCorquodale_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-107-p2s3w9">
 <src.rf>manual</src.rf>
@@ -523,19 +513,7 @@
 <LM>w#w-ln94207-107-p2s3w11</LM>
 </w.rf>
 <form>Passe</form>
-<tag>
-<AM lemma="Passe_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Pass_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pass_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Passe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Passe_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Passe_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Passe_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Passe_;m" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Passe_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="passe" src="auto">NNMS1-----A----</AM>
-<AM lemma="passe-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="Passe_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-107-p2s3w12">
 <src.rf>manual</src.rf>
@@ -584,18 +562,7 @@
 <LM>w#w-ln94207-107-p2s3w17</LM>
 </w.rf>
 <form>Ruedi</form>
-<tag>
-<AM lemma="Ruedi_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Ruedi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rued" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Rueď" src="auto">NNFS6-----A----</AM>
-<AM lemma="Rueď" src="auto">NNFS3-----A----</AM>
-<AM lemma="Rueď" src="auto" recommended="1">NNFS2-----A---1</AM>
-<AM lemma="Rueď" src="auto">NNFS2-----A----</AM>
-<AM lemma="Rueď" src="auto">NNFP1-----A---1</AM>
-<AM lemma="Ruedi_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ruedi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ruedi_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-107-p2s3w18">
 <src.rf>manual</src.rf>

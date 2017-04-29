@@ -769,18 +769,7 @@
 <LM>w#w-ln94206-115-p3s2w16</LM>
 </w.rf>
 <form>Syrcovovu</form>
-<tag>
-<AM lemma="Syrcovův_;S_^(*2)" src="orig">AUFS4M---------</AM>
-<AM lemma="Syrcovův_;S_^(*2)" src="auto" recommended="1">AUFS4M---------</AM>
-<AM lemma="Syrcovův_^(*2)" src="auto">AUFS4M---------</AM>
-<AM lemma="Syrcovův_;S_^(*2a)" src="auto">AUFS4M---------</AM>
-<AM lemma="Syrcovova" src="auto">NNFS4-----A----</AM>
-<AM lemma="Syrcovův_;S_^(*2)" src="auto">AUIS3M---------</AM>
-<AM lemma="Syrcovov" src="auto">NNIS3-----A----</AM>
-<AM lemma="Syrcovovo_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Syrcovov_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="syrcovovu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Syrcovův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln94206-115-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1218,20 +1207,7 @@
 <LM>w#w-ln94206-115-p3s5w9</LM>
 </w.rf>
 <form>Ivanikovovou</form>
-<tag>
-<AM lemma="Ivanikovův_;S_^(*2)" src="orig">AUFS7M---------</AM>
-<AM lemma="Ivanikovova" src="auto">NNFS7-----A----</AM>
-<AM lemma="Ivanikovova_;G" src="auto">NNFS7-----A----</AM>
-<AM lemma="Ivanikovová_;S" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ivanikovová_;S" src="auto">NNFS7-----A----</AM>
-<AM lemma="Ivanikovový" src="auto">AAFS4----1A----</AM>
-<AM lemma="Ivanikovový" src="auto">AAFS7----1A----</AM>
-<AM lemma="Ivanikovův_;S_^(*2)" src="auto" recommended="1">AUFS7M---------</AM>
-<AM lemma="ivanikovovou" src="auto">NNMS1-----A----</AM>
-<AM lemma="ivanikovovou-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ivanikovový" src="auto">AAFS4----1A----</AM>
-<AM lemma="ivanikovový" src="auto">AAFS7----1A----</AM>
-</tag>
+<tag lemma="Ivanikovův_;S_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-ln94206-115-p3s5w10">
 <src.rf>manual</src.rf>
@@ -2139,18 +2115,7 @@
 <LM>w#w-ln94206-115-p3s11w2</LM>
 </w.rf>
 <form>Cyplakovově</form>
-<tag>
-<AM lemma="Cyplakovův_;S_^(*2)" src="orig">AUFS3M---------</AM>
-<AM lemma="Cyplakovově_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Cyplakovov_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Cyplakovův_;S_^(*2)" src="auto">AUFS6M---------</AM>
-<AM lemma="Cyplakovův_;S_^(*2)" src="auto">AUIS6M---------</AM>
-<AM lemma="Cyplakovův_;S_^(*2)" src="auto">AUNS6M---------</AM>
-<AM lemma="Cyplakovův_;S_^(*2)" src="auto" recommended="1">AUFS3M---------</AM>
-<AM lemma="Cyplakovův_;S_^(*2a)" src="auto">AUFS6M---------</AM>
-<AM lemma="Cyplakovov" src="auto">NNIS6-----A----</AM>
-<AM lemma="cyplakovově" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cyplakovův_;S_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
 </m>
 <m id="m-ln94206-115-p3s11w3">
 <src.rf>manual</src.rf>
@@ -2475,25 +2440,7 @@
 <LM>w#w-ln94206-115-p3s12w33</LM>
 </w.rf>
 <form>Ivanikovova</form>
-<tag>
-<AM lemma="Ivanikovův_;S_^(*2)" src="orig">AUNP4M---------</AM>
-<AM lemma="Ivanikovov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ivanikovov_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ivanikovov_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Ivanikovův_;S_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="Ivanikovův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Ivanikovův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Ivanikovův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Ivanikovův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="ivanikovova" src="auto">NNMS1-----A----</AM>
-<AM lemma="ivanikovova-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="ivanikovova-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ivanikovovakciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="ivanikovovum" src="auto">NNNP1-----A----</AM>
-<AM lemma="ivanikovovum" src="auto">NNNP4-----A----</AM>
-<AM lemma="ivanikovovum" src="auto">NNNP5-----A----</AM>
-<AM lemma="ivanikovovum" src="auto">NNNS2-----A----</AM>
-</tag>
+<tag lemma="Ivanikovův_;S_^(*2)" src="orig" selected="1">AUNP4M---------</tag>
 </m>
 <m id="m-ln94206-115-p3s12w34">
 <src.rf>manual</src.rf>
@@ -2567,18 +2514,7 @@
 <LM>w#w-ln94206-115-p3s13w7</LM>
 </w.rf>
 <form>Lichtnecker</form>
-<tag>
-<AM lemma="Lichtnecker_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lichtnecker_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lichtnecker" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lichtnecker" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lichtneckra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Lichtnecker_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Lichtnecker_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lichtnecker_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lichtnecker" src="auto">NNIS4-----A----</AM>
-<AM lemma="lichtnecker" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lichtnecker_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-115-p3s13w8">
 <src.rf>manual</src.rf>

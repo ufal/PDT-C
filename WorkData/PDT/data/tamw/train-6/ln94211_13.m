@@ -392,18 +392,7 @@
 <LM>w#w-ln94211-13-p2s1Bw36</LM>
 </w.rf>
 <form>Braas</form>
-<tag>
-<AM lemma="Braas_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Braas_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Braas_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Braas_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Braas" src="auto">NNIS1-----A----</AM>
-<AM lemma="Braas" src="auto">NNIS4-----A----</AM>
-<AM lemma="Braas_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Braas" src="auto">Db-------------</AM>
-<AM lemma="Braas" src="auto">NNMS1-----A----</AM>
-<AM lemma="braas" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Braas_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94211-13-p2s1Bw37">
 <src.rf>manual</src.rf>
@@ -411,12 +400,7 @@
 <LM>w#w-ln94211-13-p2s1Bw37</LM>
 </w.rf>
 <form>Flachdachsysteme</form>
-<tag>
-<AM lemma="Flachdachsysteme_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Flachdachsystout_:W" src="auto">VB-P---1P-AA---</AM>
-<AM lemma="Flachdachsystout" src="auto">VB-P---1P-AA---</AM>
-<AM lemma="flachdachsysteme" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Flachdachsysteme_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94211-13-p2s1Bw38">
 <src.rf>manual</src.rf>
@@ -456,18 +440,7 @@
 <LM>w#w-ln94211-13-p2s1Bw42</LM>
 </w.rf>
 <form>Oberurselu</form>
-<tag>
-<AM lemma="Oberursel_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Oberursel" src="auto">NNIS2-----A----</AM>
-<AM lemma="Oberursel" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Oberursela" src="auto">NNFS4-----A----</AM>
-<AM lemma="Oberursel" src="auto">NNIS3-----A----</AM>
-<AM lemma="Oberursel_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Oberursela_;Y" src="auto">NNFS4-----A----</AM>
-<AM lemma="Oberursel_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Oberursela_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="oberurselu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Oberursel_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94211-13-p2s1Bw43">
 <src.rf>manual</src.rf>
@@ -893,18 +866,7 @@
 <LM>w#w-ln94211-13-p3s3w10</LM>
 </w.rf>
 <form>Simatos</form>
-<tag>
-<AM lemma="Simatos_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Simatos_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Simatos_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Simatos_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Simatos_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Simatos" src="auto">NNIS4-----A----</AM>
-<AM lemma="Simatos" src="auto">NNIS1-----A----</AM>
-<AM lemma="Simatos" src="auto">Db-------------</AM>
-<AM lemma="Simatos_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="simatos" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Simatos_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-13-p3s3w11">
 <src.rf>manual</src.rf>
@@ -928,18 +890,7 @@
 <LM>w#w-ln94211-13-p3s3w13</LM>
 </w.rf>
 <form>Izolfa</form>
-<tag>
-<AM lemma="Izolfa_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Izolf_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Izolf_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Izolfa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Izolf_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Izolf_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Izolfa_;K_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Izolfa_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Izolfa" src="auto">NNFS1-----A----</AM>
-<AM lemma="izolfa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Izolfa_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-13-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1104,18 +1055,7 @@
 <LM>w#w-ln94211-13-p4s1w11</LM>
 </w.rf>
 <form>Braas</form>
-<tag>
-<AM lemma="Braas_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Braas_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Braas_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Braas_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Braas" src="auto">NNIS1-----A----</AM>
-<AM lemma="Braas" src="auto">NNIS4-----A----</AM>
-<AM lemma="Braas_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Braas" src="auto">Db-------------</AM>
-<AM lemma="Braas" src="auto">NNMS1-----A----</AM>
-<AM lemma="braas" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Braas_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-13-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1659,18 +1599,7 @@
 <LM>w#w-ln94211-13-p5s2w2</LM>
 </w.rf>
 <form>Braas</form>
-<tag>
-<AM lemma="Braas_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Braas_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Braas_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Braas_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Braas" src="auto">NNIS1-----A----</AM>
-<AM lemma="Braas" src="auto">NNIS4-----A----</AM>
-<AM lemma="Braas_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Braas" src="auto">Db-------------</AM>
-<AM lemma="Braas" src="auto">NNMS1-----A----</AM>
-<AM lemma="braas" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Braas_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-13-p5s2w3">
 <src.rf>manual</src.rf>

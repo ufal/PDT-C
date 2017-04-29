@@ -27,17 +27,7 @@
 <LM>w#w-ln94204-14-p1s1w2</LM>
 </w.rf>
 <form>Petroleum</form>
-<tag>
-<AM lemma="Petroleum_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Petroleum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Petroleum" src="auto">NNNS1-----A----</AM>
-<AM lemma="Petroleus_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Petroleum_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Petroleum_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Petroleum_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Petroleum_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="petroleum" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Petroleum_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94204-14-p1s1w3">
 <src.rf>manual</src.rf>
@@ -127,17 +117,7 @@
 <LM>w#w-ln94204-14-p2s1w5</LM>
 </w.rf>
 <form>Petroleum</form>
-<tag>
-<AM lemma="Petroleum_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Petroleum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Petroleum" src="auto">NNNS1-----A----</AM>
-<AM lemma="Petroleus_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Petroleum_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Petroleum_;K" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Petroleum_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Petroleum_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="petroleum" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Petroleum_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94204-14-p2s1w6">
 <src.rf>manual</src.rf>
@@ -479,18 +459,7 @@
 <LM>w#w-ln94204-14-p3s1w16</LM>
 </w.rf>
 <form>Securities</form>
-<tag>
-<AM lemma="Security_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Security_;K_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Securitie_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Security_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Securities_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Securities_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Securities_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Securities" src="auto">NNMPX-----A----</AM>
-<AM lemma="Security_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="securities" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Security_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94204-14-p3s1w17">
 <src.rf>manual</src.rf>
@@ -553,18 +522,7 @@
 <LM>w#w-ln94204-14-p3s1w23</LM>
 </w.rf>
 <form>Fund</form>
-<tag>
-<AM lemma="Fund_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Fund_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fund_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fund_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Fund_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Fund" src="auto">NNIS4-----A----</AM>
-<AM lemma="Funda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Fund_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Fund_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="fund" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fund_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94204-14-p3s1w24">
 <src.rf>manual</src.rf>
@@ -1347,20 +1305,7 @@
 <LM>w#w-ln94204-14-p6s1w8</LM>
 </w.rf>
 <form>European</form>
-<tag>
-<AM lemma="European_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="European_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="European_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="European_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="European_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="European_;R_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="european" src="auto">NNIS1-----A----</AM>
-<AM lemma="european" src="auto">NNIS4-----A----</AM>
-<AM lemma="european" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="European_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-14-p6s1w9">
 <src.rf>manual</src.rf>
@@ -1380,16 +1325,7 @@
 <LM>w#w-ln94204-14-p6s1w10</LM>
 </w.rf>
 <form>Weekly</form>
-<tag>
-<AM lemma="Weekly_;R_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Weeknout_:W" src="auto">VpTP---XR-AA--1</AM>
-<AM lemma="Weekl" src="auto">NNIP1-----A----</AM>
-<AM lemma="Weeklus" src="auto">NNIP7-----A----</AM>
-<AM lemma="Weeklus" src="auto">NNIP1-----A----</AM>
-<AM lemma="Weekla_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Weekla_;G_;K_^(sport._klub;;průsmyk)" src="auto">NNFS2-----A----</AM>
-<AM lemma="weekly" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Weekly_;R_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94204-14-p6s1w11">
 <src.rf>manual</src.rf>

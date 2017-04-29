@@ -203,18 +203,7 @@
 <LM>w#w-mf930713-077-p2s1Bw16</LM>
 </w.rf>
 <form>Tóhoku</form>
-<tag>
-<AM lemma="Tóhoku_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Tóhok" src="auto">NNIS6-----A----</AM>
-<AM lemma="Tóhok" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Tóhok" src="auto">NNIS3-----A----</AM>
-<AM lemma="Tóhok_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Tóhoko" src="auto">NNNS6-----A----</AM>
-<AM lemma="Tóhoko_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Tóhoko_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Tóhoko" src="auto">NNNS3-----A----</AM>
-<AM lemma="tóhoku" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tóhoku_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930713-077-p2s1Bw17">
 <src.rf>manual</src.rf>

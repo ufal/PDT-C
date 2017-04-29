@@ -385,18 +385,7 @@
 <LM>w#w-lnd94103-106-p1s2Bw26</LM>
 </w.rf>
 <form>Nordiques</form>
-<tag>
-<AM lemma="Nordique_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Nordique_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Nordiques_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Nordique_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Nordiques_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nordiques_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Nordiques_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Nordiques" src="auto">NNNXX-----A----</AM>
-<AM lemma="Nordiques" src="auto">AAXXX----1A----</AM>
-<AM lemma="nordiques" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nordique_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-lnd94103-106-p1s2Bw27">
 <src.rf>manual</src.rf>

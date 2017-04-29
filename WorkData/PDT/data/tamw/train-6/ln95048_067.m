@@ -7906,17 +7906,7 @@
 <LM>w#w-ln95048-067-p22s1w18</LM>
 </w.rf>
 <form>imprint</form>
-<tag>
-<AM lemma="imprint_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="imprint" src="auto">NNIS1-----A----</AM>
-<AM lemma="imprint" src="auto">NNIS4-----A----</AM>
-<AM lemma="imprint_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="imprint_;Y_,t_^(v_cizích_názvech)" src="auto">AAXXX----1A----</AM>
-<AM lemma="imprint_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="imprint_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="imprint_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="imprint_,t_^(j._venture;_společný_podnik)" src="auto">AAIXX----1A----</AM>
-</tag>
+<tag lemma="imprint_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-067-p22s1w19">
 <src.rf>manual</src.rf>

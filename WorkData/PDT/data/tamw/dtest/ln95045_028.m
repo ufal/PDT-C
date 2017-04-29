@@ -87,18 +87,7 @@
 <LM>w#w-ln95045-028-p2s1Bw3</LM>
 </w.rf>
 <form>Tamas</form>
-<tag>
-<AM lemma="Tamas_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tamas_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tamasa_^(velké_množství)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tamas_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tamas_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="Tamas-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Tamas-2_;G_;K_;p" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tamas" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tamas" src="auto">NNIS1-----A----</AM>
-<AM lemma="tamas" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tamas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-028-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -106,17 +95,7 @@
 <LM>w#w-ln95045-028-p2s1Bw4</LM>
 </w.rf>
 <form>Dárnyi</form>
-<tag>
-<AM lemma="Dárnyi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dárnyi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dárnyi_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Dárnyo" src="auto">NNNP7-----A----</AM>
-<AM lemma="Dárnye_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Dárnye_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Dárnye_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Dárnyi_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dárnyi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dárnyi_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-028-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -368,18 +347,7 @@
 <LM>w#w-ln95045-028-p2s3w4</LM>
 </w.rf>
 <form>Népszábadság</form>
-<tag>
-<AM lemma="Népszábadság_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Népszábadság_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Népszábadság_;G" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Népszábadság_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Népszábadság" src="auto">NNMS1-----A----</AM>
-<AM lemma="Népszábadság" src="auto">NNIS1-----A----</AM>
-<AM lemma="Népszábadság" src="auto">NNIS4-----A----</AM>
-<AM lemma="Népszábadság_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Népszábadság_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="népszábadság" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Népszábadság_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-028-p2s3w5">
 <src.rf>manual</src.rf>
@@ -395,17 +363,7 @@
 <LM>w#w-ln95045-028-p2s3w6</LM>
 </w.rf>
 <form>Dárnyi</form>
-<tag>
-<AM lemma="Dárnyi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dárnyi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dárnyi_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Dárnyo" src="auto">NNNP7-----A----</AM>
-<AM lemma="Dárnye_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Dárnye_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Dárnye_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Dárnyi_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dárnyi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dárnyi_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-028-p2s3w7">
 <src.rf>manual</src.rf>
@@ -1040,17 +998,7 @@
 <LM>w#w-ln95045-028-p3s3w1</LM>
 </w.rf>
 <form>Dárnyi</form>
-<tag>
-<AM lemma="Dárnyi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dárnyi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dárnyi_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Dárnyo" src="auto">NNNP7-----A----</AM>
-<AM lemma="Dárnye_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Dárnye_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Dárnye_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Dárnyi_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dárnyi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dárnyi_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-028-p3s3w2">
 <src.rf>manual</src.rf>

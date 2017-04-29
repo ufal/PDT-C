@@ -4940,16 +4940,7 @@
 <LM>w#w-cmpr9413-025-p16s1w8</LM>
 </w.rf>
 <form>ClarisWorks</form>
-<tag>
-<AM lemma="ClarisWorks_;R" src="orig">NNIPX-----A----</AM>
-<AM lemma="ClarisWork_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="ClarisWorks_;R_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="ClarisWorks_;R" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="ClarisWorks_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="ClarisWorks_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ClarisWorks" src="auto">NNIS4-----A----</AM>
-<AM lemma="Clarisworks" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ClarisWorks_;R" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-cmpr9413-025-p16s1w9">
 <src.rf>manual</src.rf>

@@ -4105,17 +4105,7 @@
 <LM>w#w-ln94205-6-p6s2w34</LM>
 </w.rf>
 <form>nespecialista</form>
-<tag>
-<AM lemma="specialista" src="orig">NNMS1-----N----</AM>
-<AM lemma="nespecialista" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="nespecialisto" src="auto">NNNS2-----A----</AM>
-<AM lemma="nespecialista_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="nespecialista" src="auto">NNFS1-----A----</AM>
-<AM lemma="nespecialista_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="nespecialistý" src="auto">ACQW------A----</AM>
-<AM lemma="nespecialist_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="nespecialista_;G" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="specialista" src="orig" selected="1">NNMS1-----N----</tag>
 </m>
 <m id="m-ln94205-6-p6s2w35">
 <src.rf>manual</src.rf>

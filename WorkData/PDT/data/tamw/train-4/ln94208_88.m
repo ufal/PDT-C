@@ -1192,18 +1192,7 @@
 <LM>w#w-ln94208-88-p4s1w3</LM>
 </w.rf>
 <form>Mandelovci</form>
-<tag>
-<AM lemma="Mandelovec_;m" src="orig">NNMP1-----A----</AM>
-<AM lemma="Mandelovec" src="auto">NNMP1-----A----</AM>
-<AM lemma="Mandelovec" src="auto">NNMP7-----A----</AM>
-<AM lemma="Mandelovec_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Mandelovce" src="auto">NNMP1-----A----</AM>
-<AM lemma="Mandelovec" src="auto">NNIS6-----A----</AM>
-<AM lemma="Mandelovec_;m" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Mandelovec" src="auto">NNMS6-----A----</AM>
-<AM lemma="Mandelovec" src="auto">NNMS3-----A----</AM>
-<AM lemma="mandelovci" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mandelovec_;m" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94208-88-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1724,17 +1713,7 @@
 <LM>w#w-ln94208-88-p4s4w21</LM>
 </w.rf>
 <form>Márta</form>
-<tag>
-<AM lemma="Márta_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Márt_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Márt_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Márta" src="auto">NNFS1-----A----</AM>
-<AM lemma="Márt_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Márta_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Márt_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Márta_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="márta" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Márta_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-88-p4s4w22">
 <src.rf>manual</src.rf>
@@ -1878,15 +1857,7 @@
 <LM>w#w-ln94208-88-p4s4w39</LM>
 </w.rf>
 <form>polyrytmům</form>
-<tag>
-<AM lemma="polyrytmus" src="orig">NNIP3-----A----</AM>
-<AM lemma="polyrytem" src="auto">NNIP3-----A----</AM>
-<AM lemma="polyrytm" src="auto">NNIP3-----A----</AM>
-<AM lemma="polyrytm" src="auto">NNMP3-----A----</AM>
-<AM lemma="polyrytm-4_;E" src="auto">NNMP3-----A----</AM>
-<AM lemma="polyrytm_;E" src="auto">NNMP3-----A----</AM>
-<AM lemma="polyrytmus" src="auto" recommended="1">NNIP3-----A----</AM>
-</tag>
+<tag lemma="polyrytmus" src="orig" selected="1">NNIP3-----A----</tag>
 </m>
 <m id="m-ln94208-88-p4s4w40">
 <src.rf>manual</src.rf>
@@ -3939,18 +3910,7 @@
 <LM>w#w-ln94208-88-p4s18w5</LM>
 </w.rf>
 <form>Quartet</form>
-<tag>
-<AM lemma="Quartet_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Quartet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Quartet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Quartet_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Quartet_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Quartet_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Quartet" src="auto">Vf--------A----</AM>
-<AM lemma="Quarteta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Quartet_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="quartet" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Quartet_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-88-p4s18w6">
 <src.rf>manual</src.rf>

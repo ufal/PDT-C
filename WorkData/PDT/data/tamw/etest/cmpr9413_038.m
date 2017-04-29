@@ -1028,17 +1028,7 @@
 <LM>w#w-cmpr9413-038-p5s1w43</LM>
 </w.rf>
 <form>Argaláš</form>
-<tag>
-<AM lemma="Argaláš_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Argalat_:T" src="auto">VB-S---2P-AA---</AM>
-<AM lemma="Argaláš_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Argaláš-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Argaláš" src="auto">NNIS4-----A----</AM>
-<AM lemma="Argaláš" src="auto">NNIS1-----A----</AM>
-<AM lemma="Argaláš_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Argaláš" src="auto">NNMS1-----A----</AM>
-<AM lemma="argaláš" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Argaláš_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-038-p5s1w44">
 <src.rf>manual</src.rf>
@@ -1461,17 +1451,7 @@
 <LM>w#w-cmpr9413-038-p6s1w26</LM>
 </w.rf>
 <form>Argaláš</form>
-<tag>
-<AM lemma="Argaláš_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Argalat_:T" src="auto">VB-S---2P-AA---</AM>
-<AM lemma="Argaláš_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Argaláš-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Argaláš" src="auto">NNIS4-----A----</AM>
-<AM lemma="Argaláš" src="auto">NNIS1-----A----</AM>
-<AM lemma="Argaláš_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Argaláš" src="auto">NNMS1-----A----</AM>
-<AM lemma="argaláš" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Argaláš_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-038-p6s1w27">
 <src.rf>manual</src.rf>

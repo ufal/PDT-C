@@ -507,23 +507,7 @@
 <LM>w#w-ln94205-25-p2s3w6</LM>
 </w.rf>
 <form>SUDEX</form>
-<tag>
-<AM lemma="Sudex_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sudex_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="SUDEX_:B_;m_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SUDEX_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SUDEX_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SUDEX_:B_;G" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SUDEX_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Sudex" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sudex" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sudex_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sudex_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sudex_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sudex_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sudex_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="sudex" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sudex_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-25-p2s3w7">
 <src.rf>manual</src.rf>

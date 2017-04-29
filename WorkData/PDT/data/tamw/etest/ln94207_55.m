@@ -873,25 +873,7 @@
 <LM>w#w-ln94207-55-p2s3w4</LM>
 </w.rf>
 <form>All</form>
-<tag>
-<AM lemma="All_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="All_;m_,t" src="auto">PLNS4----------</AM>
-<AM lemma="All_;K_,t" src="auto" recommended="1">PLXXX----------</AM>
-<AM lemma="All_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="All_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="All_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="All_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="All_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="All_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="all_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="all_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;w_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="all_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="all_,t_^(řec._jinak)" src="auto">Db-------------</AM>
-</tag>
+<tag lemma="All_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-55-p2s3w5">
 <src.rf>manual</src.rf>
@@ -899,18 +881,7 @@
 <LM>w#w-ln94207-55-p2s3w5</LM>
 </w.rf>
 <form>England</form>
-<tag>
-<AM lemma="England_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="England_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="England_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="England_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="England_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Englanda_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="England_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="England_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Englando" src="auto">NNNP2-----A----</AM>
-<AM lemma="england" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="England_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-55-p2s3w6">
 <src.rf>manual</src.rf>

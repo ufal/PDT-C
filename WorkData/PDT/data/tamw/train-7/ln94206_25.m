@@ -1940,18 +1940,7 @@
 <LM>w#w-ln94206-25-p6s3w20</LM>
 </w.rf>
 <form>Pudík</form>
-<tag>
-<AM lemma="Pudík_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Pudík_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pudík" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pudíky" src="auto">RR--3----------</AM>
-<AM lemma="Pudík_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Pudík-1" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pudík-1" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pudík" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pudík" src="auto">NNIS4-----A----</AM>
-<AM lemma="pudík" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pudík_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-25-p6s3w21">
 <src.rf>manual</src.rf>
@@ -2092,18 +2081,7 @@
 <LM>w#w-ln94206-25-p6s3w37</LM>
 </w.rf>
 <form>Duola</form>
-<tag>
-<AM lemma="Duola_;R" src="orig">NNFS1-----A----</AM>
-<AM lemma="Duola_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Duol_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Duola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Duola" src="auto">Db-------------</AM>
-<AM lemma="Duola_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Duolo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Duol_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Duol-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="duola" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Duola_;R" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-25-p6s3w38">
 <src.rf>manual</src.rf>

@@ -1304,15 +1304,7 @@
 <LM>w#w-ln95047-070-p4s1w14</LM>
 </w.rf>
 <form>Gramm</form>
-<tag>
-<AM lemma="Gramm_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gramm_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gramm_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Gramm-1`milimetr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Gram" src="auto">AAIS7----1A----</AM>
-<AM lemma="Gram" src="auto">AANS7----1A----</AM>
-<AM lemma="gramm" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gramm_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-070-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1357,18 +1349,7 @@
 <LM>w#w-ln95047-070-p4s1w19</LM>
 </w.rf>
 <form>Lammar</form>
-<tag>
-<AM lemma="Lammar_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lammar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lammar_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lammar_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lammar_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Lammar_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lammar_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lammar_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lammar_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="lammar" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lammar_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-070-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1638,18 +1619,7 @@
 <LM>w#w-ln95047-070-p4s4w3</LM>
 </w.rf>
 <form>Specter</form>
-<tag>
-<AM lemma="Specter_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Specter_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Specter_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Specter_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Specter" src="auto">NNIS1-----A----</AM>
-<AM lemma="Spectro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Specter_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Specter" src="auto">NNIS4-----A----</AM>
-<AM lemma="Spectrum" src="auto">NNNP2-----A----</AM>
-<AM lemma="specter" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Specter_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-070-p4s4w4">
 <src.rf>manual</src.rf>
@@ -2625,15 +2595,7 @@
 <LM>w#w-ln95047-070-p5s5w13</LM>
 </w.rf>
 <form>pokydali</form>
-<tag>
-<AM lemma="pokydat" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="pokydat" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="pokydat_:T" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="pokydat_:T_:W" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="pokydat_:T_^(*3t)" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="pokydat_:T_^(*4at)" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="pokydat_:W" src="auto">VpMP---XR-AA---</AM>
-</tag>
+<tag lemma="pokydat" src="orig" selected="1">VpMP---XR-AA---</tag>
 </m>
 <m id="m-ln95047-070-p5s5w14">
 <src.rf>manual</src.rf>
@@ -3478,17 +3440,7 @@
 <LM>w#w-ln95047-070-p7s1w8</LM>
 </w.rf>
 <form>předprimárek</form>
-<tag>
-<AM lemma="předprimárky" src="orig">NNFP2-----A----</AM>
-<AM lemma="předprimárek" src="auto">NNIS1-----A----</AM>
-<AM lemma="předprimárek" src="auto">NNIS4-----A----</AM>
-<AM lemma="předprimárek" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="předprimárek_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="předprimárek_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="předprimárka" src="auto">NNFP2-----A----</AM>
-<AM lemma="předprimárka_^(*2)" src="auto">NNFP2-----A----</AM>
-<AM lemma="předprimárky" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="předprimárky" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95047-070-p7s1w9">
 <src.rf>manual</src.rf>

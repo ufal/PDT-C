@@ -722,17 +722,7 @@
 <LM>w#w-ln94202-62-p3s2w6</LM>
 </w.rf>
 <form>Juventud</form>
-<tag>
-<AM lemma="Juventud_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Juventud" src="auto">Db-------------</AM>
-<AM lemma="Juventuda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Juventud_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Juventud" src="auto">NNIS4-----A----</AM>
-<AM lemma="Juventud" src="auto">NNIS1-----A----</AM>
-<AM lemma="Juventud_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Juventud" src="auto">J,-------------</AM>
-<AM lemma="juventud" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Juventud_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-62-p3s2w7">
 <src.rf>manual</src.rf>
@@ -740,15 +730,7 @@
 <LM>w#w-ln94202-62-p3s2w7</LM>
 </w.rf>
 <form>Rebelde</form>
-<tag>
-<AM lemma="Rebelde_;R_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Rebelde_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rebeld-2_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Rebelde_;R_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Rebelít" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Rebelde" src="auto">Db-------------</AM>
-<AM lemma="rebelde" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rebelde_;R_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-62-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1158,18 +1140,7 @@
 <LM>w#w-ln94202-62-p5s2w3</LM>
 </w.rf>
 <form>Tinnirello</form>
-<tag>
-<AM lemma="Tinnirello_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tinnirello_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tinnirella_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Tinnirello_;m" src="auto">NNNSX-----A----</AM>
-<AM lemma="Tinnirello_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tinnirello_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tinnirello_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tinnirello_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tinnirello_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="tinnirello" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tinnirello_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-62-p5s2w4">
 <src.rf>manual</src.rf>

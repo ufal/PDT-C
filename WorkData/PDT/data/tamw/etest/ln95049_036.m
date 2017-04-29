@@ -799,18 +799,7 @@
 <LM>w#w-ln95049-036-p3s1w23</LM>
 </w.rf>
 <form>French</form>
-<tag>
-<AM lemma="French_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="French_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="French_;w_,t_^(French_Open)" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_;w_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="French_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="French_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fren" src="auto">AAFP2----1A----</AM>
-<AM lemma="Fren" src="auto">AAIP2----1A----</AM>
-<AM lemma="french" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="French_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95049-036-p3s1w24">
 <src.rf>manual</src.rf>
@@ -1935,17 +1924,7 @@
 <LM>w#w-ln95049-036-p3s8w4</LM>
 </w.rf>
 <form>Filderstadtu</form>
-<tag>
-<AM lemma="Filderstadt_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Filderstadt_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Filderstadt_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Filderstadt_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Filderstadt" src="auto">NNIS2-----A----</AM>
-<AM lemma="Filderstadta" src="auto">NNFS4-----A----</AM>
-<AM lemma="Filderstadt" src="auto">NNIS6-----A----</AM>
-<AM lemma="Filderstadt" src="auto">NNIS3-----A----</AM>
-<AM lemma="filderstadtu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Filderstadt_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95049-036-p3s8w5">
 <src.rf>manual</src.rf>
@@ -6241,18 +6220,7 @@
 <LM>w#w-ln95049-036-p5s14w3</LM>
 </w.rf>
 <form>Trübbachu</form>
-<tag>
-<AM lemma="Trübbach_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Trübbach" src="auto">NNIS2-----A----</AM>
-<AM lemma="Trübbach" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Trübbach" src="auto">NNIS3-----A----</AM>
-<AM lemma="Trübbacha" src="auto">NNFS4-----A----</AM>
-<AM lemma="Trübbach_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Trübbach_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Trübbach_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Trübbachu" src="auto">Db-------------</AM>
-<AM lemma="trübbachu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Trübbach_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95049-036-p5s14w4">
 <src.rf>manual</src.rf>
@@ -6372,18 +6340,7 @@
 <LM>w#w-ln95049-036-p5s14w18</LM>
 </w.rf>
 <form>Rebound</form>
-<tag>
-<AM lemma="Rebound_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Rebound_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Rebound_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rebound_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Rebound_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Rebound" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rebounda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Rebound_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Rebound_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="rebound" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rebound_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95049-036-p5s14w19">
 <src.rf>manual</src.rf>
@@ -6597,17 +6554,7 @@
 <LM>w#w-ln95049-036-p5s15w7</LM>
 </w.rf>
 <form>sparringpartnery</form>
-<tag>
-<AM lemma="sparringpartner" src="orig">NNMP4-----A----</AM>
-<AM lemma="sparringpartnera_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="sparringpartner" src="auto">NNMP4-----A----</AM>
-<AM lemma="sparringpartnera" src="auto">NNFS2-----A----</AM>
-<AM lemma="sparringpartnera" src="auto">NNFP1-----A----</AM>
-<AM lemma="sparringpartner" src="auto">NNMP7-----A----</AM>
-<AM lemma="sparringpartner" src="auto" recommended="1">NNIP4-----A----</AM>
-<AM lemma="sparringpartner" src="auto">NNIP1-----A----</AM>
-<AM lemma="sparringpartnera" src="auto">NNFP4-----A----</AM>
-</tag>
+<tag lemma="sparringpartner" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95049-036-p5s15w8">
 <src.rf>manual</src.rf>
@@ -6841,18 +6788,7 @@
 <LM>w#w-ln95049-036-p5s16w22</LM>
 </w.rf>
 <form>Trübbachu</form>
-<tag>
-<AM lemma="Trübbach_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Trübbach" src="auto">NNIS2-----A----</AM>
-<AM lemma="Trübbach" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Trübbach" src="auto">NNIS3-----A----</AM>
-<AM lemma="Trübbacha" src="auto">NNFS4-----A----</AM>
-<AM lemma="Trübbach_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Trübbach_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Trübbach_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Trübbachu" src="auto">Db-------------</AM>
-<AM lemma="trübbachu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Trübbach_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95049-036-p5s16w23">
 <src.rf>manual</src.rf>
@@ -7182,14 +7118,7 @@
 <LM>w#w-ln95049-036-p6s1w27</LM>
 </w.rf>
 <form>Vreni</form>
-<tag>
-<AM lemma="Vreni_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Vrit_:W" src="auto" recommended="1">VsMP---XX-AP---</AM>
-<AM lemma="Vrit" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Vret_:T" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Vrít" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="vreni" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vreni_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95049-036-p6s1w28">
 <src.rf>manual</src.rf>

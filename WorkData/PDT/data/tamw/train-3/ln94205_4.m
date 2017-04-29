@@ -61,20 +61,7 @@
 <LM>w#w-ln94205-4-p2s1w5</LM>
 </w.rf>
 <form>dot</form>
-<tag>
-<AM lemma="dot_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="dot" src="auto">NNIS1-----A----</AM>
-<AM lemma="dot" src="auto">NNIS4-----A----</AM>
-<AM lemma="dot" src="auto">NNMS1-----A----</AM>
-<AM lemma="dot-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dot-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="dot_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="dot_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="dot_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="dot_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="dota" src="auto">NNFP2-----A----</AM>
-<AM lemma="dotelefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="dot_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-4-p2s1w6">
 <src.rf>manual</src.rf>
@@ -90,18 +77,7 @@
 <LM>w#w-ln94205-4-p2s1w7</LM>
 </w.rf>
 <form>inch</form>
-<tag>
-<AM lemma="inch_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="French_;w_,t_^(inch_Open)" src="auto">AAXXX----1A----</AM>
-<AM lemma="in" src="auto">AAFP2----1A----</AM>
-<AM lemma="in" src="auto">AAIP2----1A----</AM>
-<AM lemma="inch-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="inch_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="inch_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="inch_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="inch_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="inch_;w_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="inch_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-4-p2s1w8">
 <src.rf>manual</src.rf>
@@ -708,17 +684,7 @@
 <LM>w#w-ln94205-4-p2s3w5</LM>
 </w.rf>
 <form>dpi</form>
-<tag>
-<AM lemma="dpi_:B_,t_^(dot_per_inch)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="dpi_:B_,t_^(dot_per_inch)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_dpě)" src="auto">NNFS6-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_dpě)" src="auto">NNFS4-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_dpě)" src="auto">NNFS3-----A----</AM>
-<AM lemma="dp-1_^(savana)" src="auto">NNFS2-----A----</AM>
-<AM lemma="dp" src="auto">NNMP1-----A----</AM>
-<AM lemma="dpi_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="dpi_,t" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="dpi_:B_,t_^(dot_per_inch)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94205-4-p2s3w6">
 <src.rf>manual</src.rf>
@@ -1702,16 +1668,7 @@
 <LM>w#w-ln94205-4-p4s1w3</LM>
 </w.rf>
 <form>Peripheral</form>
-<tag>
-<AM lemma="peripheral_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Peripherat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Peripherat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Peripherat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Peripheral_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Peripherát" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Peripheral_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="peripheral" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="peripheral_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-4-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1719,18 +1676,7 @@
 <LM>w#w-ln94205-4-p4s1w4</LM>
 </w.rf>
 <form>Component</form>
-<tag>
-<AM lemma="component_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Component" src="auto">NNIS1-----A----</AM>
-<AM lemma="Component" src="auto">NNMS1-----A----</AM>
-<AM lemma="Component" src="auto">NNIS4-----A----</AM>
-<AM lemma="Component_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Component_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Component_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Component_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Component_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="component" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="component_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-4-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1738,17 +1684,7 @@
 <LM>w#w-ln94205-4-p4s1w5</LM>
 </w.rf>
 <form>Interconnect</form>
-<tag>
-<AM lemma="interconnect_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Interconnect_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Interconnect_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Interconnect" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Interconneci" src="auto">Vf--------A----</AM>
-<AM lemma="Interconneci" src="auto">Vf--------A---1</AM>
-<AM lemma="Interconneci" src="auto">Vf--------A---6</AM>
-<AM lemma="Interconnecta" src="auto">NNFP2-----A----</AM>
-<AM lemma="interconnect" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="interconnect_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-4-p4s1w6">
 <src.rf>manual</src.rf>
@@ -2992,27 +2928,7 @@
 <LM>w#w-ln94205-4-p4s9w3</LM>
 </w.rf>
 <form>ios</form>
-<tag>
-<AM lemma="ios-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ios-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="ios-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ios-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="ios-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ios_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="ios_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ios_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ios_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="ios_;K_^(fotbalový_klub)" src="auto">NNIS1-----A----</AM>
-<AM lemma="ios_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="iosa" src="auto">NNFP2-----A----</AM>
-<AM lemma="ioscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="iosoba_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="iosobní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="iosoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="iospolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="iostrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="iostátní_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="ios-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-4-p4s9w4">
 <src.rf>manual</src.rf>

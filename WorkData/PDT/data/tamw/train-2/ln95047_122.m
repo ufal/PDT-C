@@ -143,17 +143,7 @@
 <LM>w#w-ln95047-122-p2s1Bw10</LM>
 </w.rf>
 <form>Yorkshiru</form>
-<tag>
-<AM lemma="Yorkshire_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Yorkshir_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Yorkshiro_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Yorkshira" src="auto">NNFS4-----A----</AM>
-<AM lemma="Yorkshir" src="auto">NNIS2-----A----</AM>
-<AM lemma="Yorkshiro_;m" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="Yorkshiro" src="auto">NNNS6-----A----</AM>
-<AM lemma="Yorkshiro" src="auto">NNNS3-----A----</AM>
-<AM lemma="yorkshiru" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Yorkshire_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95047-122-p2s1Bw11">
 <src.rf>manual</src.rf>

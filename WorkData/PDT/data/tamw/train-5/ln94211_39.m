@@ -77,19 +77,7 @@
 <LM>w#w-ln94211-39-p2s1Aw3</LM>
 </w.rf>
 <form>ed</form>
-<tag>
-<AM lemma="ed-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ed" src="auto">Db-------------</AM>
-<AM lemma="ed" src="auto">NNIS1-----A----</AM>
-<AM lemma="ed" src="auto">NNIS4-----A----</AM>
-<AM lemma="ed" src="auto">NNMS1-----A----</AM>
-<AM lemma="ed-1" src="auto">Db-------------</AM>
-<AM lemma="ed-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="ed-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
-<AM lemma="ed_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ed_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ed_;m_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="ed-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94211-39-p2s1Aw4">
 <src.rf>manual</src.rf>

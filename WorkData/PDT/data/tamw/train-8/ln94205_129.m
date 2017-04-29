@@ -257,18 +257,7 @@
 <LM>w#w-ln94205-129-p2s1Cw14</LM>
 </w.rf>
 <form>Foro</form>
-<tag>
-<AM lemma="Foro_;m_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Fora_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Foro_^(úsporně)" src="auto">Dg-------1A----</AM>
-<AM lemma="Foro_;m_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Foro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Foro_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Foro-2_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Foro" src="auto">Db-------------</AM>
-<AM lemma="Foro" src="auto">A2--------A----</AM>
-<AM lemma="foro" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Foro_;m_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-129-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -276,17 +265,7 @@
 <LM>w#w-ln94205-129-p2s1Cw15</LM>
 </w.rf>
 <form>Italico</form>
-<tag>
-<AM lemma="Italico_;m_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Italico_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Italico_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Italiko_;G_,t_,x" src="auto">NNNXX-----A----</AM>
-<AM lemma="ItaliCo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Italico_;m_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Italico_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Italico_;Y" src="auto">AAXXX----1A----</AM>
-<AM lemma="italico" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Italico_;m_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-129-p2s1Cw16">
 <src.rf>manual</src.rf>

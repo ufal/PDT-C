@@ -43,17 +43,7 @@
 <LM>w#w-ln94211-96-p1s1Aw4</LM>
 </w.rf>
 <form>street</form>
-<tag>
-<AM lemma="street_;G_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Street_;R_,t_^(např._Wall_street_Journal)" src="auto">NNFXX-----A----</AM>
-<AM lemma="street_;S_;K_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="street_;G_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="street_;G_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="street_;G_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="street_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="street-3_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="street-2_;m_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="street_;G_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94211-96-p1s1Aw5">
 <src.rf>manual</src.rf>

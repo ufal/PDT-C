@@ -4465,18 +4465,7 @@
 <LM>w#w-ln94208-100-p6s9w15</LM>
 </w.rf>
 <form>Forslund</form>
-<tag>
-<AM lemma="Forslund_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Forslund_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Forslund_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Forslund_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Forslund_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Forslund" src="auto">NNIS4-----A----</AM>
-<AM lemma="Forslunda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Forslund_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Forslund_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="forslund" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Forslund_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-100-p6s9w16">
 <src.rf>manual</src.rf>

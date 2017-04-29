@@ -133,23 +133,7 @@
 <LM>w#w-lnd94103-127-p1s1Bw2</LM>
 </w.rf>
 <form>UPIC</form>
-<tag>
-<AM lemma="UPIC_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="IC-7_:B_;K_^(UPIC_Banka)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="UPIC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UPIC_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="UPIC_:B_;K_,t_^(Mez._org._svazů_chemie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Upic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Upic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Upic_;K_;u" src="auto">NNIS1-----A----</AM>
-<AM lemma="Upic_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Upic_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Upice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Upice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Upice_^(*3ík)" src="auto">NNFP2-----A----</AM>
-<AM lemma="upic" src="auto">NNMS1-----A----</AM>
-<AM lemma="upicnout_:W_,h" src="auto">VpYS---XR-AA--6</AM>
-</tag>
+<tag lemma="UPIC_:B" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-127-p1s1Bw3">
 <src.rf>manual</src.rf>

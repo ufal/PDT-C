@@ -295,18 +295,7 @@
 <LM>w#w-ln94205-100-p3s1w2</LM>
 </w.rf>
 <form>Florea</form>
-<tag>
-<AM lemma="Florea_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Florea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Floreo_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Flore_;S" src="auto">NNMS4-----A---1</AM>
-<AM lemma="Florea_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Florea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Florea_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Florea_;K_,t" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="Florea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="florea" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Florea_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-100-p3s1w3">
 <src.rf>manual</src.rf>
@@ -762,19 +751,7 @@
 <LM>w#w-ln94205-100-p6s1w5</LM>
 </w.rf>
 <form>Ikonosféra</form>
-<tag>
-<AM lemma="Ikonosféra_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Ikonosfér" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ikonosfér" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ikonosfér_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ikonosfér_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ikonosféra" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ikonosféra_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ikonosféra_;m" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="ikonosféra" src="auto">NNFS1-----A----</AM>
-<AM lemma="ikonosféra" src="auto">NNMS1-----A----</AM>
-<AM lemma="pero-2_^(Ikonosftačí)" src="auto">NNNP1-----A----</AM>
-</tag>
+<tag lemma="Ikonosféra_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-100-p6s1w6">
 <src.rf>manual</src.rf>

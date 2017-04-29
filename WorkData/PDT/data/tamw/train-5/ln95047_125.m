@@ -308,18 +308,7 @@
 <LM>w#w-ln95047-125-p2s1Dw19</LM>
 </w.rf>
 <form>Equipment</form>
-<tag>
-<AM lemma="Equipment_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Equipment" src="auto">NNIS1-----A----</AM>
-<AM lemma="Equipment" src="auto">NNMS1-----A----</AM>
-<AM lemma="Equipment" src="auto">NNIS4-----A----</AM>
-<AM lemma="Equipment_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Equipment_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Equipment_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Equipment_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Equipment_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="equipment" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Equipment_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln95047-125-p2s1Dw20">
 <src.rf>manual</src.rf>
@@ -790,18 +779,7 @@
 <LM>w#w-ln95047-125-p3s4w4</LM>
 </w.rf>
 <form>Prioris</form>
-<tag>
-<AM lemma="Prioris_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Prioris_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prioris_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="libris_^(pouze_ve_spojení_ex_Prioris)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Priorid_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Priorae_,t_^(temnota)" src="auto">NNFP6-----A----</AM>
-<AM lemma="Prioris_;u_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Prioris_;R_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Prioris_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="prioris" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Prioris_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-125-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1133,14 +1111,7 @@
 <LM>w#w-ln95047-125-p4s1w15</LM>
 </w.rf>
 <form>HiNote</form>
-<tag>
-<AM lemma="HiNote_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="HiNot" src="auto">NNMS5-----A----</AM>
-<AM lemma="HiNote_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="HiNote_;R_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="HiNote_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Hinote" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="HiNote_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln95047-125-p4s1w16">
 <src.rf>manual</src.rf>

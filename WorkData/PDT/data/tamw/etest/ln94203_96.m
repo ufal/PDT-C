@@ -2291,17 +2291,7 @@
 <LM>w#w-ln94203-96-p4s4w33</LM>
 </w.rf>
 <form>Waarta</form>
-<tag>
-<AM lemma="Waart_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Waart_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Waart_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Waarta" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Waart_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Waarta_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Waart_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Waarta_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="waarta" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Waart_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-96-p4s4w34">
 <src.rf>manual</src.rf>
@@ -4068,26 +4058,7 @@
 <LM>w#w-ln94203-96-p5s5w6</LM>
 </w.rf>
 <form>Six</form>
-<tag>
-<AM lemma="six_,t" src="orig">ClXPX----------</AM>
-<AM lemma="Six" src="auto">NNIS1-----A----</AM>
-<AM lemma="Six_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Six_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Six_;K_,t" src="auto">Cn-S1----------</AM>
-<AM lemma="Six_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Six_;L_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Six_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Six_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="six" src="auto">NNIS1-----A----</AM>
-<AM lemma="six-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="six_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="six_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="six_;K_,t" src="auto">Cn-S1----------</AM>
-<AM lemma="six_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="six_;L_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="six_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="six_;Y_,t" src="auto">NNFXX-----A----</AM>
-</tag>
+<tag lemma="six_,t" src="orig" selected="1">ClXPX----------</tag>
 </m>
 <m id="m-ln94203-96-p5s5w7">
 <src.rf>manual</src.rf>
@@ -4114,17 +4085,7 @@
 <LM>w#w-ln94203-96-p5s5w9</LM>
 </w.rf>
 <form>variations</form>
-<tag>
-<AM lemma="variation_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="variation_;K_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="variation_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="variations_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="variation_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="variations_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="variation_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="variation_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="variation_;K_,t" src="auto">NNNPX-----A----</AM>
-</tag>
+<tag lemma="variation_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94203-96-p5s5w10">
 <src.rf>manual</src.rf>
@@ -4170,18 +4131,7 @@
 <LM>w#w-ln94203-96-p5s5w14</LM>
 </w.rf>
 <form>Instruments</form>
-<tag>
-<AM lemma="instrument_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Instrument_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Instrument_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Instrument_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Instrument_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Instrument_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Instrument_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Instrument_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Instruments_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="instruments" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="instrument_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94203-96-p5s5w15">
 <src.rf>manual</src.rf>
@@ -4231,18 +4181,7 @@
 <LM>w#w-ln94203-96-p5s6w5</LM>
 </w.rf>
 <form>Musicians</form>
-<tag>
-<AM lemma="Musician_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Musicians_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Musician_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Musicians_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Musician_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Musician_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Musiciansactions_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Musicians_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Musicians_;Y" src="auto">NNMPX-----A----</AM>
-<AM lemma="musicians" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Musician_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94203-96-p5s6w6">
 <src.rf>manual</src.rf>
@@ -4274,18 +4213,7 @@
 <LM>w#w-ln94203-96-p5s6w9</LM>
 </w.rf>
 <form>Symphony</form>
-<tag>
-<AM lemma="Symphony_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Symphon" src="auto">NNIP1-----A----</AM>
-<AM lemma="Symphon" src="auto">NNIP4-----A----</AM>
-<AM lemma="Symphon" src="auto">NNIP7-----A----</AM>
-<AM lemma="Symphón" src="auto">NNIP4-----A----</AM>
-<AM lemma="Symphona" src="auto">NNFP1-----A----</AM>
-<AM lemma="Symphona" src="auto">NNFS2-----A----</AM>
-<AM lemma="Symphon" src="auto">NNMP4-----A----</AM>
-<AM lemma="Symphona" src="auto">NNFP4-----A----</AM>
-<AM lemma="symphony" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Symphony_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94203-96-p5s6w10">
 <src.rf>manual</src.rf>
@@ -4322,17 +4250,7 @@
 <LM>w#w-ln94203-96-p5s6w13</LM>
 </w.rf>
 <form>Waart</form>
-<tag>
-<AM lemma="Waart_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Waart_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Waart" src="auto">NNIS1-----A----</AM>
-<AM lemma="Waart_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Waart" src="auto">NNIS4-----A----</AM>
-<AM lemma="Waarta_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="Waarta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Waart_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="waart" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Waart_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-96-p5s6w14">
 <src.rf>manual</src.rf>
@@ -4398,17 +4316,7 @@
 <LM>w#w-ln94203-96-p5s7w5</LM>
 </w.rf>
 <form>Grammophon</form>
-<tag>
-<AM lemma="Grammophon_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Grammophon" src="auto">NNIS4-----A----</AM>
-<AM lemma="Grammophon_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Grammophon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Grammophon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Grammophon" src="auto">NNIS1-----A----</AM>
-<AM lemma="Grammophon_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Grammophon_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="grammophon" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Grammophon_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-96-p5s7w6">
 <src.rf>manual</src.rf>
@@ -4432,18 +4340,7 @@
 <LM>w#w-ln94203-96-p5s7w8</LM>
 </w.rf>
 <form>Classikon</form>
-<tag>
-<AM lemma="Classikon_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Classikon" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Classikon" src="auto">NNIS4-----A----</AM>
-<AM lemma="Classikon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Classikona_,n" src="auto">NNFP2-----A----</AM>
-<AM lemma="Classikona" src="auto">NNFP2-----A----</AM>
-<AM lemma="Classikon_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Classikon_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Classikon_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="classikon" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Classikon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-96-p5s7w9">
 <src.rf>manual</src.rf>

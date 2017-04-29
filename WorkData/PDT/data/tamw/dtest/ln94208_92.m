@@ -349,18 +349,7 @@
 <LM>w#w-ln94208-92-p2s1w31</LM>
 </w.rf>
 <form>Four</form>
-<tag>
-<AM lemma="Four_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Four_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Foura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Four_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Four_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Four_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Four_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Four_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Four_;R_,t" src="auto">PSXXX-X2-------</AM>
-<AM lemma="four" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Four_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94208-92-p2s1w32">
 <src.rf>manual</src.rf>
@@ -685,18 +674,7 @@
 <LM>w#w-ln94208-92-p3s1w19</LM>
 </w.rf>
 <form>Vepřeka</form>
-<tag>
-<AM lemma="Vepřek_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Vepřek_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Vepřeka_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vepřek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vepřeka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vepřeko-2" src="auto">NNNS2-----A----</AM>
-<AM lemma="Vepřek_;G" src="auto">NNIS2-----A---1</AM>
-<AM lemma="Vepřeka" src="auto">Db-------------</AM>
-<AM lemma="Vepřeka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="vepřeka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vepřek_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-92-p3s1w20">
 <src.rf>manual</src.rf>
@@ -1764,18 +1742,7 @@
 <LM>w#w-ln94208-92-p4s5Bw2</LM>
 </w.rf>
 <form>iha</form>
-<tag>
-<AM lemma="iha-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ih" src="auto">NNMS2-----A----</AM>
-<AM lemma="ih_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ih_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="ih_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="ih_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="iha" src="auto">NNFS1-----A----</AM>
-<AM lemma="iha-1`hektar_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="iha-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="iha_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="iha-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94208-92-p4s5Bw3">
 <src.rf>manual</src.rf>

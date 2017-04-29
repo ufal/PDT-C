@@ -4228,15 +4228,7 @@
 <LM>w#w-ln95049-021-p10s4Bw2</LM>
 </w.rf>
 <form>vkl</form>
-<tag>
-<AM lemma="vkl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vkl-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="vknout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="vkl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="vkl" src="auto">NNIS4-----A----</AM>
-<AM lemma="vci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="vkl" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="vkl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95049-021-p10s4Bw3">
 <src.rf>manual</src.rf>
@@ -5525,19 +5517,7 @@
 <LM>w#w-ln95049-021-p14s4w2</LM>
 </w.rf>
 <form>Siago</form>
-<tag>
-<AM lemma="Siago_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Siaga" src="auto">NNMS5-----A----</AM>
-<AM lemma="Siago" src="auto">NNNS1-----A----</AM>
-<AM lemma="Siago" src="auto">NNNS4-----A----</AM>
-<AM lemma="Siago_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Siago_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Siago_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Siago_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Siago_^(značka)" src="auto">NNNS4-----A----</AM>
-<AM lemma="siaga" src="auto">NNMS5-----A----</AM>
-<AM lemma="siago" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Siago_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-021-p14s4w3">
 <src.rf>manual</src.rf>
@@ -5997,19 +5977,7 @@
 <LM>w#w-ln95049-021-p14s6w20</LM>
 </w.rf>
 <form>Siago</form>
-<tag>
-<AM lemma="Siago_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Siaga" src="auto">NNMS5-----A----</AM>
-<AM lemma="Siago" src="auto">NNNS1-----A----</AM>
-<AM lemma="Siago" src="auto">NNNS4-----A----</AM>
-<AM lemma="Siago_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Siago_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Siago_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Siago_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Siago_^(značka)" src="auto">NNNS4-----A----</AM>
-<AM lemma="siaga" src="auto">NNMS5-----A----</AM>
-<AM lemma="siago" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Siago_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-021-p14s6w21">
 <src.rf>manual</src.rf>
@@ -6433,17 +6401,7 @@
 <LM>w#w-ln95049-021-p18s3Bw2</LM>
 </w.rf>
 <form>wp</form>
-<tag>
-<AM lemma="wp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="wp-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="wp" src="auto">NNIS1-----A----</AM>
-<AM lemma="wp" src="auto">NNIS4-----A----</AM>
-<AM lemma="wp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="wp" src="auto">NNMS1-----A----</AM>
-<AM lemma="wp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="wp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="wpa" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="wp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95049-021-p18s3Bw3">
 <src.rf>manual</src.rf>

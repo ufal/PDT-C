@@ -713,18 +713,7 @@
 <LM>w#w-ln94208-116-p4s1Aw3</LM>
 </w.rf>
 <form>Beskrovným</form>
-<tag>
-<AM lemma="Beskrovný_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Beskrovný" src="auto">AAIS7----1A----</AM>
-<AM lemma="Beskrovný" src="auto">AANS7----1A----</AM>
-<AM lemma="Beskrovný_^(*2t)" src="auto">AAIS7----1A----</AM>
-<AM lemma="Beskrovný_^(*3it)" src="auto">AAIS7----1A----</AM>
-<AM lemma="Beskrovný" src="auto" recommended="1">AAMS7----1A----</AM>
-<AM lemma="Beskrovný" src="auto">AAFP3----1A----</AM>
-<AM lemma="Beskrovný" src="auto">AAIP3----1A----</AM>
-<AM lemma="Beskrovný_^(*3it)" src="auto">AANS7----1A----</AM>
-<AM lemma="beskrovným" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Beskrovný_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94208-116-p4s1Aw4">
 <src.rf>manual</src.rf>
@@ -2624,19 +2613,7 @@
 <LM>w#w-ln94208-116-p9s1w17</LM>
 </w.rf>
 <form>komandě</form>
-<tag>
-<AM lemma="komanda_,t" src="orig">NNFS6-----A----</AM>
-<AM lemma="komand" src="auto">NNIS6-----A----</AM>
-<AM lemma="komand_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="komanda" src="auto">NNFS3-----A----</AM>
-<AM lemma="komanda" src="auto">NNFS6-----A----</AM>
-<AM lemma="komanda_,e_,n_^(kyprá_žena;;kočka)" src="auto">NNFS3-----A----</AM>
-<AM lemma="komanda_,e_,n_^(kyprá_žena;;kočka)" src="auto">NNFS6-----A----</AM>
-<AM lemma="komanda_,t" src="auto">NNFS6-----A----</AM>
-<AM lemma="komanda_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="komanda_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="komandě" src="auto" recommended="1">Db-------------</AM>
-</tag>
+<tag lemma="komanda_,t" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94208-116-p9s1w18">
 <src.rf>manual</src.rf>

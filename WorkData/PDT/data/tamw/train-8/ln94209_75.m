@@ -353,18 +353,7 @@
 <LM>w#w-ln94209-75-p2s2w9</LM>
 </w.rf>
 <form>Niederösterreichisches</form>
-<tag>
-<AM lemma="Niederösterreichisches_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Niederösterreichisches_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Niederösterreichisches_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Niederösterreichisches_;K_,t" src="auto">AAISX----1A----</AM>
-<AM lemma="Niederösterreichisches_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Niederösterreichisches_;G" src="auto">NNFPX-----A----</AM>
-<AM lemma="Niederösterreichisches_;G" src="auto">NNFP1-----A----</AM>
-<AM lemma="Niederösterreichisches" src="auto">NNIS4-----A----</AM>
-<AM lemma="Niederösterreichische_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="niederösterreichisches" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Niederösterreichisches_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94209-75-p2s2w10">
 <src.rf>manual</src.rf>
@@ -372,18 +361,7 @@
 <LM>w#w-ln94209-75-p2s2w10</LM>
 </w.rf>
 <form>Tonkünstlerorchester</form>
-<tag>
-<AM lemma="Tonkünstlerorchester_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Tonkünstlerorchester_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tonkünstlerorchester_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tonkünstlerorchester_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tonkünstlerorchester" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tonkünstlerorchestro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Tonkünstlerorchester_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Tonkünstlerorchester" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tonkünstlerorchestrum" src="auto">NNNP2-----A----</AM>
-<AM lemma="tonkünstlerorchester" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tonkünstlerorchester_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94209-75-p2s2w11">
 <src.rf>manual</src.rf>
@@ -495,18 +473,7 @@
 <LM>w#w-ln94209-75-p2s2w24</LM>
 </w.rf>
 <form>Eschwé</form>
-<tag>
-<AM lemma="Eschwé_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eschwé_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Eschwý" src="auto">AAFS2----1A----</AM>
-<AM lemma="Eschwý" src="auto">AANS1----1A----</AM>
-<AM lemma="Eschwý" src="auto">AAFS6----1A----</AM>
-<AM lemma="Eschwý" src="auto">AAFP1----1A----</AM>
-<AM lemma="Eschwý" src="auto">AAIP1----1A----</AM>
-<AM lemma="Eschwý" src="auto">AAFP4----1A----</AM>
-<AM lemma="Eschwý" src="auto">AAIP4----1A----</AM>
-<AM lemma="eschwé" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Eschwé_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-75-p2s2w25">
 <src.rf>manual</src.rf>
@@ -2082,18 +2049,7 @@
 <LM>w#w-ln94209-75-p3s11Bw4</LM>
 </w.rf>
 <form>Niederösterreichisches</form>
-<tag>
-<AM lemma="Niederösterreichisches_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Niederösterreichisches_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Niederösterreichisches_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Niederösterreichisches_;K_,t" src="auto">AAISX----1A----</AM>
-<AM lemma="Niederösterreichisches_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Niederösterreichisches_;G" src="auto">NNFPX-----A----</AM>
-<AM lemma="Niederösterreichisches_;G" src="auto">NNFP1-----A----</AM>
-<AM lemma="Niederösterreichisches" src="auto">NNIS4-----A----</AM>
-<AM lemma="Niederösterreichische_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="niederösterreichisches" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Niederösterreichisches_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94209-75-p3s11Bw5">
 <src.rf>manual</src.rf>
@@ -2101,18 +2057,7 @@
 <LM>w#w-ln94209-75-p3s11Bw5</LM>
 </w.rf>
 <form>Tonkünstlerorchester</form>
-<tag>
-<AM lemma="Tonkünstlerorchester_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Tonkünstlerorchester_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tonkünstlerorchester_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tonkünstlerorchester_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tonkünstlerorchester" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tonkünstlerorchestro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Tonkünstlerorchester_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Tonkünstlerorchester" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tonkünstlerorchestrum" src="auto">NNNP2-----A----</AM>
-<AM lemma="tonkünstlerorchester" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tonkünstlerorchester_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94209-75-p3s11Bw6">
 <src.rf>manual</src.rf>
@@ -2136,18 +2081,7 @@
 <LM>w#w-ln94209-75-p3s11Bw8</LM>
 </w.rf>
 <form>Eschwé</form>
-<tag>
-<AM lemma="Eschwé_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eschwé_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Eschwý" src="auto">AAFS2----1A----</AM>
-<AM lemma="Eschwý" src="auto">AANS1----1A----</AM>
-<AM lemma="Eschwý" src="auto">AAFS6----1A----</AM>
-<AM lemma="Eschwý" src="auto">AAFP1----1A----</AM>
-<AM lemma="Eschwý" src="auto">AAIP1----1A----</AM>
-<AM lemma="Eschwý" src="auto">AAFP4----1A----</AM>
-<AM lemma="Eschwý" src="auto">AAIP4----1A----</AM>
-<AM lemma="eschwé" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Eschwé_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-75-p3s11Bw9">
 <src.rf>manual</src.rf>

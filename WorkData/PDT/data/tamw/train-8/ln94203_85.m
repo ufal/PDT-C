@@ -291,17 +291,7 @@
 <LM>w#w-ln94203-85-p2s2w5</LM>
 </w.rf>
 <form>all</form>
-<tag>
-<AM lemma="all_,t_^(řec._jinak)" src="orig">Db-------------</AM>
-<AM lemma="all_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="all_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="all_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;w_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="all_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="all_,t_^(řec._jinak)" src="auto" recommended="1">Db-------------</AM>
-</tag>
+<tag lemma="all_,t_^(řec._jinak)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94203-85-p2s2w6">
 <src.rf>manual</src.rf>
@@ -333,17 +323,7 @@
 <LM>w#w-ln94203-85-p2s2w9</LM>
 </w.rf>
 <form>ergein</form>
-<tag>
-<AM lemma="ergein_,t_^(řec._reagovat)" src="orig">Vf--------A----</AM>
-<AM lemma="ergein_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ergein" src="auto">NNIS4-----A----</AM>
-<AM lemma="ergein" src="auto">NNIS1-----A----</AM>
-<AM lemma="SF-2`Fein-1_;K_,t_^(Sinn_ergein)" src="auto">NNFXX-----A----</AM>
-<AM lemma="ergein_;S_;K" src="auto">NNMS1-----A----</AM>
-<AM lemma="ergein_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="ergein_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ergein_,t_^(řec._reagovat)" src="auto" recommended="1">Vf--------A----</AM>
-</tag>
+<tag lemma="ergein_,t_^(řec._reagovat)" src="orig" selected="1">Vf--------A----</tag>
 </m>
 <m id="m-ln94203-85-p2s2w10">
 <src.rf>manual</src.rf>
@@ -11583,23 +11563,7 @@
 <LM>w#w-ln94203-85-p15s9w1</LM>
 </w.rf>
 <form>Bezpéřová</form>
-<tag>
-<AM lemma="bezpéřový" src="orig">AANP1----1A----</AM>
-<AM lemma="Bezpéřová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bezpéřová_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bezpéřová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bezpéřový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Bezpéřový" src="auto">AAFS5----1A----</AM>
-<AM lemma="Bezpéřový" src="auto">AANP1----1A----</AM>
-<AM lemma="Bezpéřový" src="auto">AANP4----1A----</AM>
-<AM lemma="Bezpéřový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="bezpéřová" src="auto">NNMS1-----A----</AM>
-<AM lemma="bezpéřový" src="auto">AAFS1----1A----</AM>
-<AM lemma="bezpéřový" src="auto">AAFS5----1A----</AM>
-<AM lemma="bezpéřový" src="auto" recommended="1">AANP1----1A----</AM>
-<AM lemma="bezpéřový" src="auto">AANP4----1A----</AM>
-<AM lemma="bezpéřový" src="auto">AANP5----1A----</AM>
-</tag>
+<tag lemma="bezpéřový" src="orig" selected="1">AANP1----1A----</tag>
 </m>
 <m id="m-ln94203-85-p15s9w2">
 <src.rf>manual</src.rf>

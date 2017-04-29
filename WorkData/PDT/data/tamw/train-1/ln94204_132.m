@@ -373,17 +373,7 @@
 <LM>w#w-ln94204-132-p2s2w11</LM>
 </w.rf>
 <form>matryjálu</form>
-<tag>
-<AM lemma="matryjál_,t" src="orig">NNIS3-----A----</AM>
-<AM lemma="matryjál" src="auto">NNIS2-----A----</AM>
-<AM lemma="matryjál" src="auto">NNIS6-----A---1</AM>
-<AM lemma="matryjál" src="auto" recommended="1">NNIS3-----A----</AM>
-<AM lemma="matryjál" src="auto">NNIS6-----A----</AM>
-<AM lemma="matryjála" src="auto">NNFS4-----A----</AM>
-<AM lemma="matryjál" src="auto">NNMS3-----A---1</AM>
-<AM lemma="metryjál_;m" src="auto">NNIS6-----A----</AM>
-<AM lemma="matryjál_^(peníze)" src="auto">NNIS6-----A----</AM>
-</tag>
+<tag lemma="matryjál_,t" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln94204-132-p2s2w12">
 <src.rf>manual</src.rf>
@@ -1057,17 +1047,7 @@
 <LM>w#w-ln94204-132-p2s6w14</LM>
 </w.rf>
 <form>rozpočed</form>
-<tag>
-<AM lemma="rozpočed_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="rozpočed_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="rozpočed_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="rozpočed" src="auto">NNIS4-----A----</AM>
-<AM lemma="rozpočed" src="auto">NNIS1-----A----</AM>
-<AM lemma="rozpočed_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="rozpočed-1" src="auto">Db-------------</AM>
-<AM lemma="rozpočed" src="auto">Db-------------</AM>
-<AM lemma="rozpočed_;m_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="rozpočed_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-132-p2s6w15">
 <src.rf>manual</src.rf>

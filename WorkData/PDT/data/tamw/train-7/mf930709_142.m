@@ -4819,21 +4819,7 @@
 <LM>w#w-mf930709-142-p9s3w1</LM>
 </w.rf>
 <form>MESFIN</form>
-<tag>
-<AM lemma="Mesfin_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="MESfin_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mesfin_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="MESFInvestiční_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Mesfin_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mesfin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mesfin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mesfina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mesfin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mesfin" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mesfin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mesfin_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="mesfin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mesfin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-142-p9s3w2">
 <src.rf>manual</src.rf>
@@ -4841,22 +4827,7 @@
 <LM>w#w-mf930709-142-p9s3w2</LM>
 </w.rf>
 <form>GEDLU</form>
-<tag>
-<AM lemma="Gedlu_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gedlu_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="GEDLU_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GEDLU_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="GEDLU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Gedlo" src="auto">NNNS3-----A----</AM>
-<AM lemma="Gedlo_;Y" src="auto">NNNS3-----A----</AM>
-<AM lemma="Gedl_;G_,h" src="auto">NNIS2-----A----</AM>
-<AM lemma="Gedl" src="auto">NNIS2-----A----</AM>
-<AM lemma="Gedl" src="auto">NNIS6-----A----</AM>
-<AM lemma="Gedl" src="auto">NNIS3-----A----</AM>
-<AM lemma="Gedla" src="auto">NNFS4-----A----</AM>
-<AM lemma="Gedl" src="auto">NNIS6-----A---1</AM>
-<AM lemma="gedlu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gedlu_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930709-142-p10s1">

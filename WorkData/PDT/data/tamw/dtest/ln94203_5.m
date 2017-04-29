@@ -1884,18 +1884,7 @@
 <LM>w#w-ln94203-5-p5s4w4</LM>
 </w.rf>
 <form>Securities</form>
-<tag>
-<AM lemma="Security_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Security_;K_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Securitie_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Security_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Securities_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Securities_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Securities_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Securities" src="auto">NNMPX-----A----</AM>
-<AM lemma="Security_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="securities" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Security_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94203-5-p5s4w5">
 <src.rf>manual</src.rf>

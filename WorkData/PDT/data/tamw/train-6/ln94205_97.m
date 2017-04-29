@@ -43,18 +43,7 @@
 <LM>w#w-ln94205-97-p1s1Aw4</LM>
 </w.rf>
 <form>Garth</form>
-<tag>
-<AM lemma="Garth_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Garth_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Garth_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Garth_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Garth_;R" src="auto">NNIXX-----A----</AM>
-<AM lemma="Garth_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Garth_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Garth-2_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Garth-2_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="garth" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Garth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-97-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -78,16 +67,7 @@
 <LM>w#w-ln94205-97-p1s1Aw7</LM>
 </w.rf>
 <form>Carvey</form>
-<tag>
-<AM lemma="Carvey_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Carvey_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Carvey_;S" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Carvey_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Carvey_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Carvey_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Carvey_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="carvey" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Carvey_;S" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-97-p1s1Aw8">
 <src.rf>manual</src.rf>
@@ -159,13 +139,7 @@
 <LM>w#w-ln94205-97-p1s1Aw16</LM>
 </w.rf>
 <form>femme</form>
-<tag>
-<AM lemma="femme_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="femme_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="femit_:W" src="auto">Vi-P---1--A----</AM>
-<AM lemma="femme_;G_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="femme_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-</tag>
+<tag lemma="femme_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-97-p1s1Aw17">
 <src.rf>manual</src.rf>
@@ -173,16 +147,7 @@
 <LM>w#w-ln94205-97-p1s1Aw17</LM>
 </w.rf>
 <form>fatale</form>
-<tag>
-<AM lemma="fatale_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="fatale_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="fatale_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="fatal" src="auto">NNIS6-----A----</AM>
-<AM lemma="fatale_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="fatala" src="auto">NNFS6-----A----</AM>
-<AM lemma="fatale_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="fatale-2_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="fatale_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-97-p1s1Aw18">
 <src.rf>manual</src.rf>
@@ -190,18 +155,7 @@
 <LM>w#w-ln94205-97-p1s1Aw18</LM>
 </w.rf>
 <form>Honey</form>
-<tag>
-<AM lemma="Honey_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Honey_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Honey_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Honey_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Honey_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="Honey_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Honey-3_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Honey_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Honey_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="honey" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Honey_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-97-p1s1Aw19">
 <src.rf>manual</src.rf>

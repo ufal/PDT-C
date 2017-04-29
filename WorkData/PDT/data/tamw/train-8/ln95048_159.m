@@ -265,17 +265,7 @@
 <LM>w#w-ln95048-159-p2s2w13</LM>
 </w.rf>
 <form>Cityline</form>
-<tag>
-<AM lemma="Cityline_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Citylinout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Cityline_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cityline_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cityline_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Cityline_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Cityline_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cityline_;U_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="cityline" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cityline_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95048-159-p2s2w14">
 <src.rf>manual</src.rf>

@@ -362,11 +362,7 @@
 <LM>w#w-ln95048-012-p2s2w25</LM>
 </w.rf>
 <form>Ešte</form>
-<tag>
-<AM lemma="ešte_,t" src="orig">Db-------------</AM>
-<AM lemma="Ešte_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="ešte" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ešte_,t" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95048-012-p2s2w26">
 <src.rf>manual</src.rf>
@@ -382,16 +378,7 @@
 <LM>w#w-ln95048-012-p2s2w27</LM>
 </w.rf>
 <form>vami</form>
-<tag>
-<AM lemma="vy-2_,t" src="orig">PP-P7--2-------</AM>
-<AM lemma="va" src="auto">NNFP7-----A----</AM>
-<AM lemma="vy" src="auto">NNFP7-----A----</AM>
-<AM lemma="va_^(*2)" src="auto">NNFP7-----A----</AM>
-<AM lemma="vy_;G" src="auto">NNFP7-----A----</AM>
-<AM lemma="va_^(*2a)" src="auto">NNFP7-----A----</AM>
-<AM lemma="va_^(věda)" src="auto">NNFP7-----A----</AM>
-<AM lemma="vá_^(na_vážení;_hmotnost)" src="auto" recommended="1">NNFP7-----A---1</AM>
-</tag>
+<tag lemma="vy-2_,t" src="orig" selected="1">PP-P7--2-------</tag>
 </m>
 <m id="m-ln95048-012-p2s2w28">
 <src.rf>manual</src.rf>
@@ -399,17 +386,7 @@
 <LM>w#w-ln95048-012-p2s2w28</LM>
 </w.rf>
 <form>pobudnúť</form>
-<tag>
-<AM lemma="pobudnúť_,t" src="orig">Vf--------A----</AM>
-<AM lemma="pobudnútě" src="auto">NNNP2-----A----</AM>
-<AM lemma="pobudnúť" src="auto">NNFS4-----A----</AM>
-<AM lemma="pobudnúť" src="auto">NNFS1-----A----</AM>
-<AM lemma="pobudnúť_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="pobudnúť_,t" src="auto">Vf--------A----</AM>
-<AM lemma="pobudnúť-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="pobudnúť" src="auto">NNMS1-----A----</AM>
-<AM lemma="pobudnúť" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="pobudnúť_,t" src="orig" selected="1">Vf--------A----</tag>
 </m>
 <m id="m-ln95048-012-p2s2w29">
 <src.rf>manual</src.rf>
@@ -1651,18 +1628,7 @@
 <LM>w#w-ln95048-012-p4s1w52</LM>
 </w.rf>
 <form>Abrahamowicz</form>
-<tag>
-<AM lemma="Abrahamowicz-1_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Abrahamowicz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Abrahamowicz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Abrahamowicz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Abrahamowicza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Abrahamowicz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Abrahamowicz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Abrahamowics" src="auto">NNIS1-----A----</AM>
-<AM lemma="Abrahamowicz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="abrahamowicz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Abrahamowicz-1_;S" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95048-012-p4s1w53">
 <src.rf>manual</src.rf>
@@ -1802,18 +1768,7 @@
 <LM>w#w-ln95048-012-p4s1w69</LM>
 </w.rf>
 <form>Lauffová</form>
-<tag>
-<AM lemma="Lauffová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Lauffová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Lauffový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Lauffový" src="auto">AANP1----1A----</AM>
-<AM lemma="Lauffový" src="auto">AANP4----1A----</AM>
-<AM lemma="Lauffová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lauffová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lauffový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Lauffový" src="auto">AAFS5----1A----</AM>
-<AM lemma="lauffová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lauffová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-012-p4s1w70">
 <src.rf>manual</src.rf>
@@ -3315,36 +3270,7 @@
 <LM>w#w-ln95048-012-p6s1w9</LM>
 </w.rf>
 <form>pseudoreprezentativní</form>
-<tag>
-<AM lemma="pseudoreprezentativní" src="orig">AAIS4----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAFP1----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAFP4----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAFP5----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAFS1----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAFS2----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAFS3----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAFS4----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAFS5----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAFS6----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAFS7----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAIP1----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAIP4----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAIP5----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAIS1----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto" recommended="1">AAIS4----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAIS5----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAMP1----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAMP4----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAMP5----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAMS1----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AAMS5----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AANP1----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AANP4----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AANP5----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AANS1----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AANS4----1A----</AM>
-<AM lemma="pseudoreprezentativní" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="pseudoreprezentativní" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln95048-012-p6s1w10">
 <src.rf>manual</src.rf>

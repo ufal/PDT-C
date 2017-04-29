@@ -371,14 +371,7 @@
 <LM>w#w-ln94204-82-p2s2w27</LM>
 </w.rf>
 <form>Oslobodjenje</form>
-<tag>
-<AM lemma="Oslobodjenje_;R_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Oslobodjenj_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Oslobodjenje_;R_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Oslobodjenje_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Oslobodjenje_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="oslobodjenje" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Oslobodjenje_;R_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94204-82-p2s2w28">
 <src.rf>manual</src.rf>
@@ -1857,25 +1850,7 @@
 <LM>w#w-ln94204-82-p3s5w16</LM>
 </w.rf>
 <form>RSK</form>
-<tag>
-<AM lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="RSk_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RSK_:B_;K_^(sportovní_klub)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RSK-1_:B_^(univerzitní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RSK-1_:B_^(policejní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RSK-1_:B_;K_;w_^(sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RSK-1_:B_;K_;w_^(sportovní_klub)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Rsk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rsk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rsk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="desky_^(&quot;Rsky_zemské&quot;,záznamy,_registr)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Rsko" src="auto">NNNP2-----A----</AM>
-<AM lemma="Rsk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rsk" src="auto">II-------------</AM>
-<AM lemma="Rsk" src="auto">NNMS1-----A----</AM>
-<AM lemma="rsk" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94204-82-p3s5w17">
 <src.rf>manual</src.rf>
@@ -2079,18 +2054,7 @@
 <LM>w#w-ln94204-82-p4s2w5</LM>
 </w.rf>
 <form>Associated</form>
-<tag>
-<AM lemma="Associated_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Associated_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Associated_;K_,t_^(souč._angl._názvu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Associated_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Associated" src="auto">NNIS4-----A----</AM>
-<AM lemma="Associated" src="auto">NNIS1-----A----</AM>
-<AM lemma="Associated_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Associated-1" src="auto">Db-------------</AM>
-<AM lemma="Associated" src="auto">Db-------------</AM>
-<AM lemma="associated" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Associated_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-82-p4s2w6">
 <src.rf>manual</src.rf>

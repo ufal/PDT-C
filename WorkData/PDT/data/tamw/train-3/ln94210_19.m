@@ -235,16 +235,7 @@
 <LM>w#w-ln94210-19-p2s1Bw19</LM>
 </w.rf>
 <form>Weekly</form>
-<tag>
-<AM lemma="Weekly_;R_,t" src="orig">Db-------------</AM>
-<AM lemma="Weeknout_:W" src="auto">VpTP---XR-AA--1</AM>
-<AM lemma="Weekl" src="auto">NNIP1-----A----</AM>
-<AM lemma="Weeklus" src="auto">NNIP7-----A----</AM>
-<AM lemma="Weeklus" src="auto">NNIP1-----A----</AM>
-<AM lemma="Weekla_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Weekla_;G_;K_^(sport._klub;;průsmyk)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="weekly" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Weekly_;R_,t" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94210-19-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -522,19 +513,7 @@
 <LM>w#w-ln94210-19-p3s1w8</LM>
 </w.rf>
 <form>Automotive</form>
-<tag>
-<AM lemma="Automotive_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Automotive_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Automotive_,t" src="auto">Db-------------</AM>
-<AM lemma="Automotive_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Automotive_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Automotive_;c_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Automotive_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Automotive_;m_,t" src="auto">Dg-------1A----</AM>
-<AM lemma="Creative_;K_,t_^(Automotive_Labs)" src="auto">AAXXX----1A----</AM>
-<AM lemma="automotiv" src="auto">NNIS5-----A----</AM>
-<AM lemma="automotive" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Automotive_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-19-p3s1w9">
 <src.rf>manual</src.rf>
@@ -702,16 +681,7 @@
 <LM>w#w-ln94210-19-p3s2w4</LM>
 </w.rf>
 <form>Charade</form>
-<tag>
-<AM lemma="Charade_;R" src="orig">NNFXX-----A----</AM>
-<AM lemma="Charást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Charade_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Charade_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Charade_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Made_;m_,t_^(Czech_Charade)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Charad-1" src="auto">RR--7----------</AM>
-<AM lemma="charade" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Charade_;R" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94210-19-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1095,18 +1065,7 @@
 <LM>w#w-ln94210-19-p4s1w10</LM>
 </w.rf>
 <form>Bicycle</form>
-<tag>
-<AM lemma="Bicycle_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Bicyclo" src="auto">NNNS6-----A----</AM>
-<AM lemma="Bicycle_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Bicycle_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Bicycle_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Bicycle_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bicycl" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bicycl" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bicycl" src="auto">NNMP4-----A----</AM>
-<AM lemma="bicycle" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bicycle_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-19-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1138,18 +1097,7 @@
 <LM>w#w-ln94210-19-p4s1w14</LM>
 </w.rf>
 <form>Forever</form>
-<tag>
-<AM lemma="Forever_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Forever_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Forever_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Forever_,t" src="auto">Db-------------</AM>
-<AM lemma="Forever" src="auto">NNIS4-----A----</AM>
-<AM lemma="Forever" src="auto">NNIS1-----A----</AM>
-<AM lemma="Forever_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Forever_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Forever_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="forever" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Forever_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-19-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1157,18 +1105,7 @@
 <LM>w#w-ln94210-19-p4s1w15</LM>
 </w.rf>
 <form>Bicycle</form>
-<tag>
-<AM lemma="Bicycle_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Bicyclo" src="auto">NNNS6-----A----</AM>
-<AM lemma="Bicycle_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Bicycle_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Bicycle_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Bicycle_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bicycl" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bicycl" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bicycl" src="auto">NNMP4-----A----</AM>
-<AM lemma="bicycle" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bicycle_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-19-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1391,18 +1328,7 @@
 <LM>w#w-ln94210-19-p4s3w10</LM>
 </w.rf>
 <form>Forever</form>
-<tag>
-<AM lemma="Forever_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Forever_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Forever_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Forever_,t" src="auto">Db-------------</AM>
-<AM lemma="Forever" src="auto">NNIS4-----A----</AM>
-<AM lemma="Forever" src="auto">NNIS1-----A----</AM>
-<AM lemma="Forever_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Forever_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Forever_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="forever" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Forever_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94210-19-p4s3w11">
 <src.rf>manual</src.rf>

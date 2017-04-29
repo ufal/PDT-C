@@ -419,17 +419,7 @@
 <LM>w#w-ln94204-46-p4s1w5</LM>
 </w.rf>
 <form>kontinenci</form>
-<tag>
-<AM lemma="kontinence" src="orig">NNFS4-----A----</AM>
-<AM lemma="kontinence" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="kontinenec" src="auto">NNMP1-----A----</AM>
-<AM lemma="kontinence" src="auto">NNFS6-----A----</AM>
-<AM lemma="kontinenec" src="auto">NNMP7-----A----</AM>
-<AM lemma="kontinence" src="auto">NNFS3-----A----</AM>
-<AM lemma="kontinenec" src="auto">NNMS3-----A----</AM>
-<AM lemma="kontinenec_;E" src="auto">NNMP1-----A----</AM>
-<AM lemma="kontinenec" src="auto">NNIS6-----A----</AM>
-</tag>
+<tag lemma="kontinence" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94204-46-p4s1w6">
 <src.rf>manual</src.rf>

@@ -1404,18 +1404,7 @@
 <LM>w#w-ln94209-54-p4s3w25</LM>
 </w.rf>
 <form>Shils</form>
-<tag>
-<AM lemma="Shils_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Shil_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Shils_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Shils_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Shil_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Shils_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Shils" src="auto">NNIS1-----A----</AM>
-<AM lemma="Shil_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Shil_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="shils" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Shils_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-54-p4s3w26">
 <src.rf>manual</src.rf>

@@ -145,17 +145,7 @@
 <LM>w#w-ln95048-025-p4s7w16</LM>
 </w.rf>
 <form>otveta</form>
-<tag>
-<AM lemma="otvet_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="otveta" src="auto">NNFS1-----A----</AM>
-<AM lemma="otvet_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="otveto" src="auto">NNNS2-----A----</AM>
-<AM lemma="otvít" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="otvet_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="otvet_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="otvet" src="auto">NNMS4-----A----</AM>
-<AM lemma="otveta_;Y" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="otvet_,t" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-025-p4s7w17">
 <src.rf>manual</src.rf>
@@ -238,12 +228,7 @@
 <LM>w#w-ln95048-025-p4s7w26</LM>
 </w.rf>
 <form>polučil</form>
-<tag>
-<AM lemma="polučiť_,t" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="polučit_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="polučit_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="polučil_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="polučiť_,t" src="orig" selected="1">VpYS---XR-AA---</tag>
 </m>
 <m id="m-ln95048-025-p4s7w27">
 <src.rf>manual</src.rf>
@@ -251,17 +236,7 @@
 <LM>w#w-ln95048-025-p4s7w27</LM>
 </w.rf>
 <form>otveta</form>
-<tag>
-<AM lemma="otvet_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="otveta" src="auto">NNFS1-----A----</AM>
-<AM lemma="otvet_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="otveto" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="otvít" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="otvet_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="otvet_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="otvet" src="auto">NNMS4-----A----</AM>
-<AM lemma="otveta_;Y" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="otvet_,t" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-025-p4s7w28">
 <src.rf>manual</src.rf>

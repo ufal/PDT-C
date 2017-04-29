@@ -2748,19 +2748,7 @@
 <LM>w#w-ln95046-023-p3s7w8</LM>
 </w.rf>
 <form>Najda</form>
-<tag>
-<AM lemma="Najda_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Najd_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Najd_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Najd_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Najd_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Najda" src="auto">NNFS1-----A----</AM>
-<AM lemma="Najda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Najda_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Najda_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="najda" src="auto">NNMS1-----A----</AM>
-<AM lemma="najít_:T" src="auto">VeYS------A----</AM>
-</tag>
+<tag lemma="Najda_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-023-p3s7w9">
 <src.rf>manual</src.rf>

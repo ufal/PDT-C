@@ -971,17 +971,7 @@
 <LM>w#w-cmpr9413-017-p6s1w15</LM>
 </w.rf>
 <form>Northern</form>
-<tag>
-<AM lemma="Northern_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Northern_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Northern" src="auto">NNIS1-----A----</AM>
-<AM lemma="Northern_;K_;G_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Northern_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Northern_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Northern_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="Northern_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="northern" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Northern_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9413-017-p6s1w16">
 <src.rf>manual</src.rf>
@@ -1496,18 +1486,7 @@
 <LM>w#w-cmpr9413-017-p8s1w8</LM>
 </w.rf>
 <form>Call</form>
-<tag>
-<AM lemma="Call_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Call_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Call_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Call_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Call_;w_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Call_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Call_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Call_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Call_,t_^(řec._jinak)" src="auto">Db-------------</AM>
-<AM lemma="call" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Call_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9413-017-p8s1w9">
 <src.rf>manual</src.rf>
@@ -2173,18 +2152,7 @@
 <LM>w#w-cmpr9413-017-p9s1w4</LM>
 </w.rf>
 <form>Option</form>
-<tag>
-<AM lemma="Option_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Option_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Option_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Option_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Option_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Option" src="auto">NNIS1-----A----</AM>
-<AM lemma="Option_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Optión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Optión" src="auto">NNIS1-----A----</AM>
-<AM lemma="option" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Option_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9413-017-p9s1w5">
 <src.rf>manual</src.rf>
@@ -2288,17 +2256,7 @@
 <LM>w#w-cmpr9413-017-p9s1w17</LM>
 </w.rf>
 <form>Northern</form>
-<tag>
-<AM lemma="Northern_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Northern_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Northern" src="auto">NNIS1-----A----</AM>
-<AM lemma="Northern_;K_;G_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Northern_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Northern_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Northern_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="Northern_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="northern" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Northern_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9413-017-p9s1w18">
 <src.rf>manual</src.rf>

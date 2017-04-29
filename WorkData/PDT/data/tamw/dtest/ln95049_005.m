@@ -365,18 +365,7 @@
 <LM>w#w-ln95049-005-p3s1w12</LM>
 </w.rf>
 <form>TeleDanmark</form>
-<tag>
-<AM lemma="TeleDanmark_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="TeleDanmark_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="TeleDanmark" src="auto">NNIS1-----A----</AM>
-<AM lemma="TeleDanmark_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="TeleDanmark_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="TeleDanmark_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="TeleDanmark_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="TeleDanmark_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="TeleDanmark_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Teledanmark" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="TeleDanmark_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-005-p3s1w13">
 <src.rf>manual</src.rf>
@@ -442,19 +431,7 @@
 <LM>w#w-ln95049-005-p3s2w7</LM>
 </w.rf>
 <form>TELFAR</form>
-<tag>
-<AM lemma="TELFAR_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="TELFAR_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Telfar_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Telfara" src="auto">NNFP2-----A----</AM>
-<AM lemma="Telfar_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Telfar_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Telfar" src="auto">NNIS1-----A----</AM>
-<AM lemma="Telfar" src="auto">NNIS4-----A----</AM>
-<AM lemma="Telfar_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Telfar" src="auto">NNMS1-----A----</AM>
-<AM lemma="telfar" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="TELFAR_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95049-005-p3s2w8">
 <src.rf>manual</src.rf>
@@ -581,18 +558,7 @@
 <LM>w#w-ln95049-005-p3s2w20</LM>
 </w.rf>
 <form>Netherlands</form>
-<tag>
-<AM lemma="Netherlands_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Netherlands_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Netherlands_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Netherland_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Netherland_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Netherland_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Netherlands_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Netherland_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Netherland_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="netherlands" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Netherlands_;K_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95049-005-p3s2w21">
 <src.rf>manual</src.rf>
@@ -722,18 +688,7 @@
 <LM>w#w-ln95049-005-p3s2w35</LM>
 </w.rf>
 <form>Ameritech</form>
-<tag>
-<AM lemma="Ameritech_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Amerit" src="auto">NNIP6-----A----</AM>
-<AM lemma="Amerito" src="auto">NNNP6-----A----</AM>
-<AM lemma="Amerit" src="auto">NNMP6-----A----</AM>
-<AM lemma="Amerity_;G" src="auto">NNIP6-----A----</AM>
-<AM lemma="Amerit_^(*3ý)" src="auto">NNFP6-----A----</AM>
-<AM lemma="Amerit" src="auto">NNFP6-----A----</AM>
-<AM lemma="Ameritech" src="auto">NNIS4-----A----</AM>
-<AM lemma="Amerita" src="auto">NNMP6-----A----</AM>
-<AM lemma="ameritech" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ameritech_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-005-p3s2w36">
 <src.rf>manual</src.rf>

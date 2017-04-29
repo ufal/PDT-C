@@ -212,17 +212,7 @@
 <LM>w#w-mf920922-130-p2s2w13</LM>
 </w.rf>
 <form>Philippine</form>
-<tag>
-<AM lemma="Philippine_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Philippinout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Philippine_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Philippine_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Philippine_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Philippine_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Philippine_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Philippine_;U_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="philippine" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Philippine_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920922-130-p2s2w14">
 <src.rf>manual</src.rf>
@@ -601,18 +591,7 @@
 <LM>w#w-mf920922-130-p2s3w18</LM>
 </w.rf>
 <form>Kitanland</form>
-<tag>
-<AM lemma="Kitanland_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kitanland_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Kitanland_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kitanland_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kitanland_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kitanlanda_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kitanland_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kitanland_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kitanlando" src="auto">NNNP2-----A----</AM>
-<AM lemma="kitanland" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kitanland_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-130-p2s3w19">
 <src.rf>manual</src.rf>
@@ -814,15 +793,7 @@
 <LM>w#w-mf920922-130-p2s4w20</LM>
 </w.rf>
 <form>Saleho</form>
-<tag>
-<AM lemma="Sale-2_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Sale_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sale_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Sale_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sale_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sale-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="saleho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sale-2_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920922-130-p2s4w21">
 <src.rf>manual</src.rf>

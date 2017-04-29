@@ -187,19 +187,7 @@
 <LM>w#w-ln94208-13-p2s1Bw11</LM>
 </w.rf>
 <form>WEC</form>
-<tag>
-<AM lemma="WEC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="WEC_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Wec" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wec_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wec" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wec" src="auto">NNIS4-----A----</AM>
-<AM lemma="Wec_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wec_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wec_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Wec-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="wec" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="WEC_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94208-13-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -982,17 +970,7 @@
 <LM>w#w-ln94208-13-p4s3w10</LM>
 </w.rf>
 <form>parogenerátorových</form>
-<tag>
-<AM lemma="parogenerátorový" src="orig">AAFP2----1A----</AM>
-<AM lemma="parogenerátorový" src="auto" recommended="1">AAFP2----1A----</AM>
-<AM lemma="parogenerátorový" src="auto">AAIP2----1A----</AM>
-<AM lemma="parogenerátorový" src="auto">AAFP6----1A----</AM>
-<AM lemma="parogenerátorový" src="auto">AAMP2----1A----</AM>
-<AM lemma="parogenerátorový" src="auto">AANP2----1A----</AM>
-<AM lemma="parogenerátorový" src="auto">AAIP6----1A----</AM>
-<AM lemma="parogenerátorový_^(*2t)" src="auto">AAIP2----1A----</AM>
-<AM lemma="parogenerátorový_^(*2t)" src="auto">AAFP2----1A----</AM>
-</tag>
+<tag lemma="parogenerátorový" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln94208-13-p4s3w11">
 <src.rf>manual</src.rf>

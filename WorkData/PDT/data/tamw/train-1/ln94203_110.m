@@ -807,16 +807,7 @@
 <LM>w#w-ln94203-110-p3s1w10</LM>
 </w.rf>
 <form>Valenciu</form>
-<tag>
-<AM lemma="Valencia_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Valencia_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Valencium" src="auto">NNNS6-----A----</AM>
-<AM lemma="Valencium" src="auto">NNNS3-----A----</AM>
-<AM lemma="Valencio_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Valencio" src="auto">NNNS6-----A----</AM>
-<AM lemma="Valencio" src="auto">NNNS3-----A----</AM>
-<AM lemma="valenciu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Valencia_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94203-110-p3s1w11">
 <src.rf>manual</src.rf>

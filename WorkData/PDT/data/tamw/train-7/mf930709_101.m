@@ -3663,18 +3663,7 @@
 <LM>w#w-mf930709-101-p2s33w4</LM>
 </w.rf>
 <form>Mezzany</form>
-<tag>
-<AM lemma="Mezzana_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Mezzany_;G" src="auto">NNIP1-----A----</AM>
-<AM lemma="Mezzan_;E" src="auto">NNMP4-----A----</AM>
-<AM lemma="Mezzan" src="auto">NNMP4-----A----</AM>
-<AM lemma="Mezzan_;E" src="auto">NNMP7-----A----</AM>
-<AM lemma="Mezzan" src="auto">NNMP7-----A----</AM>
-<AM lemma="Mezzana_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="Mezzana" src="auto">NNFS2-----A----</AM>
-<AM lemma="Mezzana_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="mezzany" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mezzana_;G" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-101-p2s33w5">
 <src.rf>manual</src.rf>
@@ -3714,18 +3703,7 @@
 <LM>w#w-mf930709-101-p2s33w9</LM>
 </w.rf>
 <form>Syscom</form>
-<tag>
-<AM lemma="Syscom_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Syscom_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Syscom_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Syscom_;K_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Syscom_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Syscom_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Syscom_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Syscom" src="auto">NNIS1-----A----</AM>
-<AM lemma="Syscom" src="auto">NNIS4-----A----</AM>
-<AM lemma="syscom" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Syscom_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-101-p2s33w10">
 <src.rf>manual</src.rf>
@@ -5283,18 +5261,7 @@
 <LM>w#w-mf930709-101-p2s45w1</LM>
 </w.rf>
 <form>Ureflex</form>
-<tag>
-<AM lemma="Ureflex_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Ureflex_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ureflex" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ureflex_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ureflex" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ureflex_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Ureflex_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ureflex-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ureflex_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="ureflex" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ureflex_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-101-p2s45w2">
 <src.rf>manual</src.rf>

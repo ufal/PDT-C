@@ -217,18 +217,7 @@
 <LM>w#w-cmpr9413-013-p6s2w3</LM>
 </w.rf>
 <form>Micos</form>
-<tag>
-<AM lemma="Micos_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Micos" src="auto">PZ--4----------</AM>
-<AM lemma="Micos" src="auto">PZ--1----------</AM>
-<AM lemma="Mico-1" src="auto">PKM-4--2-------</AM>
-<AM lemma="Micos_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Micos_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Micos_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Micos" src="auto">NNIS1-----A----</AM>
-<AM lemma="Micos" src="auto">NNIS4-----A----</AM>
-<AM lemma="micos" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Micos_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-013-p6s2w4">
 <src.rf>manual</src.rf>
@@ -2007,16 +1996,7 @@
 <LM>w#w-cmpr9413-013-p15s1w20</LM>
 </w.rf>
 <form>Trade</form>
-<tag>
-<AM lemma="Trade_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Trást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Trade_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Trade_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Trade_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Made_;m_,t_^(Czech_Trade)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Trad-1" src="auto">RR--7----------</AM>
-<AM lemma="trade" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Trade_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9413-013-p15s1w21">
 <src.rf>manual</src.rf>
@@ -2024,18 +2004,7 @@
 <LM>w#w-cmpr9413-013-p15s1w21</LM>
 </w.rf>
 <form>Facilitation</form>
-<tag>
-<AM lemma="Facilitation_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Facilitation_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Facilitation_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Facilitation_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Facilitation_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Facilitation" src="auto">NNIS1-----A----</AM>
-<AM lemma="Facilitation_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Facilitatión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Facilitatión" src="auto">NNIS1-----A----</AM>
-<AM lemma="facilitation" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Facilitation_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9413-013-p15s1w22">
 <src.rf>manual</src.rf>
@@ -2940,26 +2909,7 @@
 <LM>w#w-cmpr9413-013-p18s3w22</LM>
 </w.rf>
 <form>MNCP</form>
-<tag>
-<AM lemma="MNCP_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MNCP_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="MNCP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MNCP-3_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MNCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MNCP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MNCP_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MNCP_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MNCP_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mncp" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mncp" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mncp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mncp-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Mncp" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mncp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mncp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mncpa" src="auto">NNFP2-----A----</AM>
-<AM lemma="mncp" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="MNCP_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-cmpr9413-013-p18s3w23">
 <src.rf>manual</src.rf>

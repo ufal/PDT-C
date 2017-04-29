@@ -297,16 +297,7 @@
 <LM>w#w-lnd94103-073-p1s4w18</LM>
 </w.rf>
 <form>kinegramy</form>
-<tag>
-<AM lemma="kinegram" src="orig">NNIP7-----A----</AM>
-<AM lemma="kinegram" src="auto">NNIP1-----A----</AM>
-<AM lemma="kinegram" src="auto" recommended="1">NNIP7-----A----</AM>
-<AM lemma="kinegram" src="auto">NNIP4-----A----</AM>
-<AM lemma="kinegrama_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="kinegrama" src="auto">NNFS2-----A----</AM>
-<AM lemma="sám_^(kinegramotný)" src="auto">PLIP1----------</AM>
-<AM lemma="sám_^(kinegramotný)" src="auto">PLFP1----------</AM>
-</tag>
+<tag lemma="kinegram" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-lnd94103-073-p1s4w19">
 <src.rf>manual</src.rf>
@@ -683,16 +674,7 @@
 <LM>w#w-lnd94103-073-p1s7w18</LM>
 </w.rf>
 <form>kinegram</form>
-<tag>
-<AM lemma="kinegram" src="orig">NNIS4-----A----</AM>
-<AM lemma="kinegram" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="kinegram" src="auto">NNIS1-----A----</AM>
-<AM lemma="kinegram_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kinegram_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kinegram_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="kinegram_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="kinegram_;G_,t_^(Seragram_Building)" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="kinegram" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd94103-073-p1s7w19">
 <src.rf>manual</src.rf>

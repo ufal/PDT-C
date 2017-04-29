@@ -1552,19 +1552,7 @@
 <LM>w#w-mf920922-057-p2s9Aw5</LM>
 </w.rf>
 <form>YMCOU</form>
-<tag>
-<AM lemma="YMCA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="YMCA_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Ymca_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Ymca_;R_,t" src="auto">NNFS7-----A----</AM>
-<AM lemma="Ymca_;G" src="auto">NNFS7-----A----</AM>
-<AM lemma="Ymcý" src="auto">AAFS4----1A----</AM>
-<AM lemma="Ymca" src="auto">NNFS7-----A----</AM>
-<AM lemma="Ymcý" src="auto">AAFS7----1A----</AM>
-<AM lemma="Ymcý_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="Ymcý_^(*3it)" src="auto">AAFS4----1A----</AM>
-<AM lemma="ymcou" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="YMCA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf920922-057-p2s9Aw6">
 <src.rf>manual</src.rf>

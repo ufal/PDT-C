@@ -1546,18 +1546,7 @@
 <LM>w#w-lnd94103-054-p1s11w23</LM>
 </w.rf>
 <form>Albrigtová</form>
-<tag>
-<AM lemma="Albrigtová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Albrigtová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Albrigtový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Albrigtový" src="auto">AANP1----1A----</AM>
-<AM lemma="Albrigtový" src="auto">AANP4----1A----</AM>
-<AM lemma="Albrigtová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Albrigtová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Albrigtový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Albrigtový" src="auto">AAFS5----1A----</AM>
-<AM lemma="albrigtová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Albrigtová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-054-p1s11w24">
 <src.rf>manual</src.rf>

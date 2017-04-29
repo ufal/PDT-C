@@ -656,18 +656,7 @@
 <LM>w#w-ln94200-111-p2s5w3</LM>
 </w.rf>
 <form>Markey</form>
-<tag>
-<AM lemma="Markey_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Markey_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Markey_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Markey_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Markey_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Markey_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Markey_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Markey_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Markey_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="markey" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Markey_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-111-p2s5w4">
 <src.rf>manual</src.rf>

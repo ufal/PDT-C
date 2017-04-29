@@ -69,23 +69,7 @@
 <LM>w#w-ln94205-22-p2s1Aw3</LM>
 </w.rf>
 <form>AROCO</form>
-<tag>
-<AM lemma="Aroco_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Aroco_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="AROCO_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="AROCO_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="AROCO_:B_;K_,t" src="auto">NNNXX-----A---8</AM>
-<AM lemma="AROCO_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AROCO_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Aroco_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Aroco" src="auto">PZ--4----------</AM>
-<AM lemma="Aroco_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Aroco_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco" src="auto">PZ--1----------</AM>
-<AM lemma="aroco" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Aroco_;K" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-22-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -257,23 +241,7 @@
 <LM>w#w-ln94205-22-p2s1Cw12</LM>
 </w.rf>
 <form>AROCO</form>
-<tag>
-<AM lemma="Aroco_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Aroco_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="AROCO_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="AROCO_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="AROCO_:B_;K_,t" src="auto">NNNXX-----A---8</AM>
-<AM lemma="AROCO_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AROCO_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Aroco_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Aroco" src="auto">PZ--4----------</AM>
-<AM lemma="Aroco_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Aroco_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco" src="auto">PZ--1----------</AM>
-<AM lemma="aroco" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Aroco_;K" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-22-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -688,23 +656,7 @@
 <LM>w#w-ln94205-22-p3s2w1</LM>
 </w.rf>
 <form>AROCO</form>
-<tag>
-<AM lemma="Aroco_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Aroco_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="AROCO_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="AROCO_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="AROCO_:B_;K_,t" src="auto">NNNXX-----A---8</AM>
-<AM lemma="AROCO_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AROCO_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Aroco_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Aroco" src="auto">PZ--4----------</AM>
-<AM lemma="Aroco_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Aroco_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco" src="auto">PZ--1----------</AM>
-<AM lemma="aroco" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Aroco_;K" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-22-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1195,25 +1147,7 @@
 <LM>w#w-ln94205-22-p4s3w3</LM>
 </w.rf>
 <form>AROCA</form>
-<tag>
-<AM lemma="Aroco_;K" src="orig">NNNS2-----A----</AM>
-<AM lemma="Aroco_;K" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="AROCA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AROCA_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AROCA_:B_,t_^(certifikát)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AROCA-3_:B_;K_,t_^(švédská_papírna)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AROCA-2_:B_;K_,t_^(šachová_organizace)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AROCA-2_:B_,t_^(microchannel_architekture)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Aroca_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroca_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Aroca_;R" src="auto">AAXXX----1A----</AM>
-<AM lemma="Aroca_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Aroca_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Aroco_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Aroc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Aroca_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="aroca" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Aroco_;K" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94205-22-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1309,23 +1243,7 @@
 <LM>w#w-ln94205-22-p4s3w15</LM>
 </w.rf>
 <form>AROCO</form>
-<tag>
-<AM lemma="Aroco_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Aroco_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="AROCO_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="AROCO_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="AROCO_:B_;K_,t" src="auto">NNNXX-----A---8</AM>
-<AM lemma="AROCO_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AROCO_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Aroco_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Aroco" src="auto">PZ--4----------</AM>
-<AM lemma="Aroco_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Aroco_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco" src="auto">PZ--1----------</AM>
-<AM lemma="aroco" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Aroco_;K" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-22-p4s3w16">
 <src.rf>manual</src.rf>
@@ -1723,23 +1641,7 @@
 <LM>w#w-ln94205-22-p6s1w1</LM>
 </w.rf>
 <form>AROCO</form>
-<tag>
-<AM lemma="Aroco_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Aroco_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="AROCO_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="AROCO_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="AROCO_:B_;K_,t" src="auto">NNNXX-----A---8</AM>
-<AM lemma="AROCO_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AROCO_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Aroco_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Aroco" src="auto">PZ--4----------</AM>
-<AM lemma="Aroco_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Aroco_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco" src="auto">PZ--1----------</AM>
-<AM lemma="aroco" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Aroco_;K" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-22-p6s1w2">
 <src.rf>manual</src.rf>
@@ -2217,23 +2119,7 @@
 <LM>w#w-ln94205-22-p7s2w2</LM>
 </w.rf>
 <form>AROCO</form>
-<tag>
-<AM lemma="Aroco_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Aroco_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="AROCO_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="AROCO_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="AROCO_:B_;K_,t" src="auto">NNNXX-----A---8</AM>
-<AM lemma="AROCO_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AROCO_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Aroco_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Aroco" src="auto">PZ--4----------</AM>
-<AM lemma="Aroco_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Aroco_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aroco" src="auto">PZ--1----------</AM>
-<AM lemma="aroco" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Aroco_;K" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-22-p7s2w3">
 <src.rf>manual</src.rf>

@@ -388,17 +388,7 @@
 <LM>w#w-mf920922-105-p2s4w1</LM>
 </w.rf>
 <form>Perceptual</form>
-<tag>
-<AM lemma="Perceptual_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Perceptual_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Perceptual_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perceptual_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Perceptual_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Perceptuat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Perceptuat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Perceptuat_:T_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="perceptual" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Perceptual_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920922-105-p2s4w2">
 <src.rf>manual</src.rf>
@@ -406,18 +396,7 @@
 <LM>w#w-mf920922-105-p2s4w2</LM>
 </w.rf>
 <form>Cells</form>
-<tag>
-<AM lemma="Cell_;m_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Cells_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cell_;m_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Cells_;R" src="auto">NNIPX-----A----</AM>
-<AM lemma="Cells_;G_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Cell_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Cells_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Cells" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cell_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="cells" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cell_;m_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-mf920922-105-p2s4w3">
 <src.rf>manual</src.rf>
@@ -724,16 +703,7 @@
 <LM>w#w-mf920922-105-p2s7w17</LM>
 </w.rf>
 <form>peep</form>
-<tag>
-<AM lemma="peep_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="peep_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="peep_,t" src="auto">Vf--------A----</AM>
-<AM lemma="peep_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="peep" src="auto">NNIS1-----A----</AM>
-<AM lemma="peep-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="peepublika_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="peep" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="peep_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920922-105-p2s7w18">
 <src.rf>manual</src.rf>
@@ -1512,18 +1482,7 @@
 <LM>w#w-mf920922-105-p2s15w6</LM>
 </w.rf>
 <form>Call</form>
-<tag>
-<AM lemma="call_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Call_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Call_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Call_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Call_;w_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Call_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Call_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Call_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Call_,t_^(řec._jinak)" src="auto">Db-------------</AM>
-<AM lemma="call" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="call_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf920922-105-p2s15w7">
 <src.rf>manual</src.rf>

@@ -480,17 +480,7 @@
 <LM>w#w-ln94204-93-p2s2w38</LM>
 </w.rf>
 <form>Flintstoneovi</form>
-<tag>
-<AM lemma="Flintstoneův_;S_^(*2)" src="orig">AUMP1M---------</AM>
-<AM lemma="Flintstone_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Flintstone" src="auto">NNMS3-----A----</AM>
-<AM lemma="Flintstone_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Flintstonea_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Flintstone_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Flintstone" src="auto">NNMS6-----A----</AM>
-<AM lemma="Flintstoneův_;S_^(*2)" src="auto" recommended="1">AUMP1M---------</AM>
-<AM lemma="flintstoneovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Flintstoneův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94204-93-p2s2w39">
 <src.rf>manual</src.rf>
@@ -1528,17 +1518,7 @@
 <LM>w#w-ln94204-93-p3s4w3</LM>
 </w.rf>
 <form>Flintstoneovi</form>
-<tag>
-<AM lemma="Flintstoneův_;S_^(*2)" src="orig">AUMP1M---------</AM>
-<AM lemma="Flintstone_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Flintstone" src="auto">NNMS3-----A----</AM>
-<AM lemma="Flintstone_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Flintstonea_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Flintstone_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Flintstone" src="auto">NNMS6-----A----</AM>
-<AM lemma="Flintstoneův_;S_^(*2)" src="auto" recommended="1">AUMP1M---------</AM>
-<AM lemma="flintstoneovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Flintstoneův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94204-93-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1638,18 +1618,7 @@
 <LM>w#w-ln94204-93-p3s4w15</LM>
 </w.rf>
 <form>Pictures</form>
-<tag>
-<AM lemma="Picture_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Pictures" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pictures_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pictures" src="auto">NNIS1-----A----</AM>
-<AM lemma="Picture_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="affaires_:B_,t_^(v_chargé_d'Pictures)" src="auto">NNNPX-----A----</AM>
-<AM lemma="Aires_;G_^(Buenos_Pictures)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Picture_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Picture_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="pictures" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Picture_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94204-93-p3s4w16">
 <src.rf>manual</src.rf>
@@ -2021,17 +1990,7 @@
 <LM>w#w-ln94204-93-p3s6w4</LM>
 </w.rf>
 <form>jaf</form>
-<tag>
-<AM lemma="jaf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jaf-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jaf" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf" src="auto">NNIS4-----A----</AM>
-<AM lemma="jaf" src="auto">NNIS1-----A----</AM>
-<AM lemma="jaf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="jaf_;R" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="jaf-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-93-p3s6w5">
 <src.rf>manual</src.rf>

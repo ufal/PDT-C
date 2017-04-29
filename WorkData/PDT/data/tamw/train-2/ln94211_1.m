@@ -53,16 +53,7 @@
 <LM>w#w-ln94211-1-p2s1w2</LM>
 </w.rf>
 <form>Intergraph</form>
-<tag>
-<AM lemma="Intergraph_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Intergraph_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Intergraph-1_;K_,t_^(souč._názvu_Daily_T.)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Intergraph_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Intergraph_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Intergraph_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Intergraph-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="intergraph" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Intergraph_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-1-p2s1w3">
 <src.rf>manual</src.rf>
@@ -150,10 +141,7 @@
 <LM>w#w-ln94211-1-p2s1w13</LM>
 </w.rf>
 <form>®</form>
-<tag>
-<AM lemma="®_^(registrovaná_obchodní_značka)" src="orig">Z:-------------</AM>
-<AM lemma="®_^(registrovaná_obchodní_značka)" src="auto" recommended="1">Z:-------------</AM>
-</tag>
+<tag lemma="®_^(registrovaná_obchodní_značka)" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-ln94211-1-p2s1w14">
 <src.rf>manual</src.rf>
@@ -771,22 +759,7 @@
 <LM>w#w-ln94211-1-p3s4w9</LM>
 </w.rf>
 <form>AKTIS</form>
-<tag>
-<AM lemma="Aktis_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Aktis_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="AKTisa_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="AKTIS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AKTIS_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Aktis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aktisíc-2`1000_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Aktis_;m_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Aktis_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Aktis_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Aktis_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Aktis-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aktis" src="auto">NNIS1-----A----</AM>
-<AM lemma="aktis" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Aktis_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-1-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1491,23 +1464,7 @@
 <LM>w#w-ln94211-1-p4s1w20</LM>
 </w.rf>
 <form>SCENIC</form>
-<tag>
-<AM lemma="Scenic_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Scenic_;R_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="IC-7_:B_;K_^(SCENIC_Banka)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="SCENIC_:B_;K_,t_^(Mez._org._svazů_chemie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SCENIC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SCENIC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Scenice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Scenice_^(*3ík)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Scenice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Scenic_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Scenic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Scenic" src="auto">Db-------------</AM>
-<AM lemma="Scenice_;G_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="Scenice-2_^(místo_výkonu_služby)" src="auto">NNFP2-----A----</AM>
-<AM lemma="scenic" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Scenic_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94211-1-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1611,17 +1568,7 @@
 <LM>w#w-ln94211-1-p4s1w33</LM>
 </w.rf>
 <form>bitcon</form>
-<tag>
-<AM lemma="bitcon_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="bitcon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="bitcon_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Silicon_;G_,t_^(bitcon_Valley)" src="auto">AAXXX----1A----</AM>
-<AM lemma="bitcon_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="bitcon_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="bitcon_,t" src="auto">RR--X----------</AM>
-<AM lemma="bitcon-2_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="bitcon-2_;K" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="bitcon_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-1-p4s1w34">
 <src.rf>manual</src.rf>
@@ -1791,26 +1738,7 @@
 <LM>w#w-ln94211-1-p4s2w20</LM>
 </w.rf>
 <form>PCD</form>
-<tag>
-<AM lemma="PCD_:B_;R" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PCD_:B_;R" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="PCD-2_:B_;b_,t_^(Cash_Deposit)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PCD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="PCD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PCD" src="auto">NNNXX-----A----</AM>
-<AM lemma="PCD_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PCD_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="PCD_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Pcd" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pcd" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pcd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pcda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Pcd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pcd_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pcd_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pcd" src="auto">NNMS1-----A----</AM>
-<AM lemma="pcd" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="PCD_:B_;R" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94211-1-p4s2w21">
 <src.rf>manual</src.rf>
@@ -2102,23 +2030,7 @@
 <LM>w#w-ln94211-1-p4s4Bw22</LM>
 </w.rf>
 <form>SCENIC</form>
-<tag>
-<AM lemma="Scenic_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Scenic_;R_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="IC-7_:B_;K_^(SCENIC_Banka)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="SCENIC_:B_;K_,t_^(Mez._org._svazů_chemie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SCENIC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SCENIC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Scenice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Scenice_^(*3ík)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Scenice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Scenic_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Scenic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Scenic" src="auto">Db-------------</AM>
-<AM lemma="Scenice_;G_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="Scenice-2_^(místo_výkonu_služby)" src="auto">NNFP2-----A----</AM>
-<AM lemma="scenic" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Scenic_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94211-1-p4s4Bw23">
 <src.rf>manual</src.rf>
@@ -2224,17 +2136,7 @@
 <LM>w#w-ln94211-1-p4s5w8</LM>
 </w.rf>
 <form>bitcon</form>
-<tag>
-<AM lemma="bitcon_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="bitcon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="bitcon_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Silicon_;G_,t_^(bitcon_Valley)" src="auto">AAXXX----1A----</AM>
-<AM lemma="bitcon_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="bitcon_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="bitcon_,t" src="auto">RR--X----------</AM>
-<AM lemma="bitcon-2_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="bitcon-2_;K" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="bitcon_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-1-p4s5w9">
 <src.rf>manual</src.rf>
@@ -2767,15 +2669,7 @@
 <LM>w#w-ln94211-1-p5s4w12</LM>
 </w.rf>
 <form>Systems</form>
-<tag>
-<AM lemma="Systems_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="System_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Systems_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Systems_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Systems_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Systes" src="auto">PZZS7----------</AM>
-<AM lemma="systems" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Systems_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94211-1-p5s4w13">
 <src.rf>manual</src.rf>
@@ -3091,26 +2985,7 @@
 <LM>w#w-ln94211-1-p6s1w1</LM>
 </w.rf>
 <form>SWS</form>
-<tag>
-<AM lemma="SWS_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SWS_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SWS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SWS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SWS_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SWS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SWS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SWS_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SWS_:B_;K" src="auto">NNFPX-----A---8</AM>
-<AM lemma="Sws_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sws_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Sws_;G_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Sws_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Sws-2_;G_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Sws-1_;K_,t_^(souč._názvů,_např._Daily_N.)" src="auto">NNFPX-----A----</AM>
-<AM lemma="Sws" src="auto">NNIPX-----A----</AM>
-<AM lemma="Sws" src="auto">NNIS1-----A----</AM>
-<AM lemma="sws" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SWS_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94211-1-p6s1w2">
 <src.rf>manual</src.rf>
@@ -3353,16 +3228,7 @@
 <LM>w#w-ln94211-1-p6s2w5</LM>
 </w.rf>
 <form>Plextor</form>
-<tag>
-<AM lemma="Plextor_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Plextor" src="auto">NNMS1-----A----</AM>
-<AM lemma="Plextor" src="auto">NNIS4-----A----</AM>
-<AM lemma="Plextor" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Plextor_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Plextor_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Monitor-1_;K_,t_^(souč._názvů,_např._Christian_Plextor)" src="auto">NNISX-----A----</AM>
-<AM lemma="plextor" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Plextor_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-1-p6s2w6">
 <src.rf>manual</src.rf>
@@ -3412,23 +3278,7 @@
 <LM>w#w-ln94211-1-p6s3w5</LM>
 </w.rf>
 <form>PLEX</form>
-<tag>
-<AM lemma="PLEX_:B_;R" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PLEX_:B_;R" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="PLEX_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PLEX_:B_;m_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PLEX_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PLEX_:B_;G" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Plex_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Plex" src="auto">NNIS1-----A----</AM>
-<AM lemma="Plex_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Plex" src="auto">NNIS4-----A----</AM>
-<AM lemma="Plex_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Plex_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Plex-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Plex_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="plex" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="PLEX_:B_;R" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94211-1-p6s3w6">
 <src.rf>manual</src.rf>

@@ -1094,18 +1094,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Milosevičovo</form>
-<tag>
-<AM lemma="Miloševičův_;S_^(*2)" src="orig">AUNS4M---------</AM>
-<AM lemma="Milosevičův_;S_^(*2)" src="auto">AUNS1M---------</AM>
-<AM lemma="Milosevičův_;S_^(*2)" src="auto">AUNS4M---------</AM>
-<AM lemma="Milosevičův_^(*2)" src="auto" recommended="1">AUNS4M---------</AM>
-<AM lemma="Milosevičův_;S_^(*2a)" src="auto">AUNS1M---------</AM>
-<AM lemma="Milosevičův_^(*2)" src="auto">AUNS1M---------</AM>
-<AM lemma="Milosevičovo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Milosevičův_^(*3ec)" src="auto">AUNS1M---------</AM>
-<AM lemma="Milosevičův_;S_^(*3ek)" src="auto">AUNS1M---------</AM>
-<AM lemma="milosevičovo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miloševičův_;S_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-ln94203-20-p4s2w26">
 <src.rf>manual</src.rf>
@@ -1398,19 +1387,7 @@
 <LM>w#w-ln94203-20-p4s4w7</LM>
 </w.rf>
 <form>Sanadera</form>
-<tag>
-<AM lemma="Sanader_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Sanader" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sanader" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sanader_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sanader_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sanader_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sanadera" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sanadera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sanadero" src="auto">NNNS2-----A----</AM>
-<AM lemma="sanadera" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="sanadera-1_:B_,t_^(radiatus,_druh_oblaku)" src="auto">NNIXX-----A---8</AM>
-</tag>
+<tag lemma="Sanader_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-20-p4s4w8">
 <src.rf>manual</src.rf>

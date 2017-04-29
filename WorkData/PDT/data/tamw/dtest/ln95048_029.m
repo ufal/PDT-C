@@ -56,12 +56,7 @@
 <LM>w#w-ln95048-029-p2s1Aw2</LM>
 </w.rf>
 <form>chodeš</form>
-<tag>
-<AM lemma="chodeš_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="choít" src="auto">VB-S---2P-AA---</AM>
-<AM lemma="chodeš_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="chodout" src="auto">VB-S---2P-AA---</AM>
-</tag>
+<tag lemma="chodeš_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95048-029-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -580,12 +575,7 @@
 <LM>w#w-ln95048-029-p2s2w31</LM>
 </w.rf>
 <form>chodeš</form>
-<tag>
-<AM lemma="chodeš_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="choít" src="auto">VB-S---2P-AA---</AM>
-<AM lemma="chodeš_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="chodout" src="auto">VB-S---2P-AA---</AM>
-</tag>
+<tag lemma="chodeš_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95048-029-p2s2w32">
 <src.rf>manual</src.rf>

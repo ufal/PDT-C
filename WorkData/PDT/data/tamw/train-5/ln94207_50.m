@@ -802,18 +802,7 @@
 <LM>w#w-ln94207-50-p2s4w8</LM>
 </w.rf>
 <form>Bellaria</form>
-<tag>
-<AM lemma="Bellaria_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Bellarium" src="auto">NNNS2-----A----</AM>
-<AM lemma="Bellarium" src="auto">NNNP4-----A----</AM>
-<AM lemma="Bellaria_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bellarium" src="auto">NNNP1-----A----</AM>
-<AM lemma="Bellaria_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Bellario_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bellarie_;G" src="auto">NNFS1-----A---1</AM>
-<AM lemma="Austria_;K_,t_^(fotbalový_klub_Bellaria_Wien)" src="auto">NNFS1-----A----</AM>
-<AM lemma="bellaria" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bellaria_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-50-p2s4w9">
 <src.rf>manual</src.rf>
@@ -2601,18 +2590,7 @@
 <LM>w#w-ln94207-50-p5s1w4</LM>
 </w.rf>
 <form>Ghedin</form>
-<tag>
-<AM lemma="Ghedin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ghedin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ghedina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ghedin" src="auto">NNIS1-----A----</AM>
-<AM lemma="kWh-1`Ghedina" src="auto">NNFP2-----A----</AM>
-<AM lemma="MWh-1`Ghedina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ghediny_^(přístroj)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ghedina_^(jednotka_času)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ghedin_^(medvěd)_(*2a)" src="auto">AUIS1F---------</AM>
-<AM lemma="ghedin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ghedin_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-50-p5s1w5">
 <src.rf>manual</src.rf>
@@ -2958,14 +2936,7 @@
 <LM>w#w-ln94207-50-p5s3w11</LM>
 </w.rf>
 <form>Busuttil</form>
-<tag>
-<AM lemma="Busuttil_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Busuttit_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Busuttit_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Busuttil_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Busuttil" src="auto">NNIS1-----A----</AM>
-<AM lemma="busuttil" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Busuttil_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-50-p5s3w12">
 <src.rf>manual</src.rf>
@@ -3037,18 +3008,7 @@
 <LM>w#w-ln94207-50-p5s3w20</LM>
 </w.rf>
 <form>Sliemy</form>
-<tag>
-<AM lemma="Sliema_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Sliem" src="auto">NNIP1-----A----</AM>
-<AM lemma="Sliem" src="auto">NNIP4-----A----</AM>
-<AM lemma="Sliema_;K" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Sliéma" src="auto">NNFP4-----A----</AM>
-<AM lemma="Sliemy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sliemy_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sliema" src="auto">NNFS2-----A----</AM>
-<AM lemma="Sliem" src="auto">NNIP7-----A----</AM>
-<AM lemma="sliemy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sliema_;K" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-50-p5s3w21">
 <src.rf>manual</src.rf>
@@ -3056,18 +3016,7 @@
 <LM>w#w-ln94207-50-p5s3w21</LM>
 </w.rf>
 <form>Wanderers</form>
-<tag>
-<AM lemma="Wanderers_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Wanderers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wanderer_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Wanderers_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Wanderer_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Wanderer_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Wanderers_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Wanderers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wanderers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="wanderers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Wanderers_;K" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94207-50-p5s3w22">
 <src.rf>manual</src.rf>

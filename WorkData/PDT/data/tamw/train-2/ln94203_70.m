@@ -167,17 +167,7 @@
 <LM>w#w-ln94203-70-p2s1Bw13</LM>
 </w.rf>
 <form>Nyrup</form>
-<tag>
-<AM lemma="Nyrup_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nyrup_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nyrup" src="auto">NNIS4-----A----</AM>
-<AM lemma="Nyrup_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nyrup" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nyrup" src="auto">NNMS1-----A----</AM>
-<AM lemma="up_;m_,t_^(pick-Nyrup)" src="auto">NNIS1-----A----</AM>
-<AM lemma="up_,t_^(pick-Nyrup)" src="auto">NNIS1-----A----</AM>
-<AM lemma="nyrup" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nyrup_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-70-p2s1Bw14">
 <src.rf>manual</src.rf>

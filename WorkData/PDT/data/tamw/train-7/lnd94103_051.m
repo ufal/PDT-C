@@ -547,18 +547,7 @@
 <LM>w#w-lnd94103-051-p1s5w12</LM>
 </w.rf>
 <form>Sainte</form>
-<tag>
-<AM lemma="Sainte_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Sainte_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Sainte_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Sainte_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Saint" src="auto">NNIS5-----A----</AM>
-<AM lemma="Sainte_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sainte_,t" src="auto">RR--X----------</AM>
-<AM lemma="Sainte_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="Sainte_,t" src="auto">Db-------------</AM>
-<AM lemma="sainte" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sainte_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-lnd94103-051-p1s5w13">
 <src.rf>manual</src.rf>
@@ -566,18 +555,7 @@
 <LM>w#w-lnd94103-051-p1s5w13</LM>
 </w.rf>
 <form>Famille</form>
-<tag>
-<AM lemma="Famille_,t" src="orig">NNFSX-----A----</AM>
-<AM lemma="Famille_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Famille_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Famille_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Famille_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Famillo_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Familla_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Famill_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Famille_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="famille" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Famille_,t" src="orig" selected="1">NNFSX-----A----</tag>
 </m>
 <m id="m-lnd94103-051-p1s5w14">
 <src.rf>manual</src.rf>

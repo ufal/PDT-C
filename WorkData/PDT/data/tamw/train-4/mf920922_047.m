@@ -306,16 +306,7 @@
 <LM>w#w-mf920922-047-p9s1w1</LM>
 </w.rf>
 <form>fran</form>
-<tag>
-<AM lemma="francouzský_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="fran_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="frana" src="auto">NNFP2-----A----</AM>
-<AM lemma="fran_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_franě)" src="auto">NNFP2-----A----</AM>
-<AM lemma="frany_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="francouzský_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="frana-4_^(v_knize,_rukopise,...)" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="francouzský_:B" src="orig" selected="1">AAXXX----1A---8</tag>
 </m>
 <m id="m-mf920922-047-p9s1w2">
 <src.rf>manual</src.rf>

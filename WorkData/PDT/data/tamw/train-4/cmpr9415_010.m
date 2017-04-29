@@ -170,18 +170,7 @@
 <LM>w#w-cmpr9415-010-p4s1w6</LM>
 </w.rf>
 <form>Complex</form>
-<tag>
-<AM lemma="Complex_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Complex_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Complex" src="auto">NNIS1-----A----</AM>
-<AM lemma="Complex_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Complex" src="auto">NNIS4-----A----</AM>
-<AM lemma="Complex_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Complex_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Complex-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Complex_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="complex" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Complex_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-010-p4s1w7">
 <src.rf>manual</src.rf>
@@ -788,17 +777,7 @@
 <LM>w#w-cmpr9415-010-p9s3w7</LM>
 </w.rf>
 <form>Sienja</form>
-<tag>
-<AM lemma="Sienja_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Sienjo_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sienja_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Sienja_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sienja_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sienja_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sienja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sienja_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sienja" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sienja_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-010-p9s3w8">
 <src.rf>manual</src.rf>

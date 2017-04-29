@@ -141,22 +141,7 @@
 <LM>w#w-mf920922-032-p3s1w6</LM>
 </w.rf>
 <form>BBK</form>
-<tag>
-<AM lemma="BBK_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="BBK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BBK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BBK_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="BBK_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="BBK_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Bbk-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Bbk-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Bbk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bbk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bbk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bbk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bbk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="bbk" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="BBK_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920922-032-p3s1w7">
 <src.rf>manual</src.rf>

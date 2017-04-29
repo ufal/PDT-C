@@ -2441,17 +2441,7 @@
 <LM>w#w-ln95047-008-p5s1w12</LM>
 </w.rf>
 <form>jamburgského</form>
-<tag>
-<AM lemma="jamburgský" src="orig">AAIS2----1A----</AM>
-<AM lemma="jamburgský" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="jamburgský" src="auto">AANS2----1A----</AM>
-<AM lemma="jamburgský" src="auto">AAMS2----1A----</AM>
-<AM lemma="jamburgský" src="auto">AAMS4----1A----</AM>
-<AM lemma="jamburgský_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="jamburgský_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="jamburgský_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="jamburgský_^(*3it)" src="auto">AAIS2----1A----</AM>
-</tag>
+<tag lemma="jamburgský" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln95047-008-p5s1w13">
 <src.rf>manual</src.rf>

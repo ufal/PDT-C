@@ -722,16 +722,7 @@
 <LM>w#w-ln94200-5-p3s2w2</LM>
 </w.rf>
 <form>dk</form>
-<tag>
-<AM lemma="dk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="dk-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="dk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="dk" src="auto">NNIS1-----A----</AM>
-<AM lemma="dk" src="auto">NNIS4-----A----</AM>
-<AM lemma="dk" src="auto">NNMS1-----A----</AM>
-<AM lemma="dk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="dk_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="dk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-5-p3s2w3">
 <src.rf>manual</src.rf>

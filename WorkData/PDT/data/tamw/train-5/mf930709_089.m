@@ -635,18 +635,7 @@
 <LM>w#w-mf930709-089-p4s1w10</LM>
 </w.rf>
 <form>Herve</form>
-<tag>
-<AM lemma="Herve_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Herve" src="auto">Db-------------</AM>
-<AM lemma="Herev" src="auto">NNFS2-----A----</AM>
-<AM lemma="Hervát" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Herve_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hervat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Herev" src="auto">NNFP4-----A----</AM>
-<AM lemma="Herev" src="auto">NNFP1-----A----</AM>
-<AM lemma="Herve_,t" src="auto">Vf--------A----</AM>
-<AM lemma="herve" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Herve_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-089-p4s1w11">
 <src.rf>manual</src.rf>
@@ -776,18 +765,7 @@
 <LM>w#w-mf930709-089-p5s1w6</LM>
 </w.rf>
 <form>Nets</form>
-<tag>
-<AM lemma="Nets_;K" src="orig">NNMPX-----A----</AM>
-<AM lemma="Net_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Net_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Net_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Nets_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Nets_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nets_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Nets_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Nets_;K" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="nets" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nets_;K" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-mf930709-089-p5s1w7">
 <src.rf>manual</src.rf>
@@ -918,18 +896,7 @@
 <LM>w#w-mf930709-089-p5s2w1</LM>
 </w.rf>
 <form>Nets</form>
-<tag>
-<AM lemma="Nets_;K" src="orig">NNMPX-----A----</AM>
-<AM lemma="Net_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Net_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Net_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Nets_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Nets_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nets_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Nets_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Nets_;K" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="nets" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nets_;K" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-mf930709-089-p5s2w2">
 <src.rf>manual</src.rf>

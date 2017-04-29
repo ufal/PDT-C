@@ -109,17 +109,7 @@
 <LM>w#w-ln94202-127-p2s1Aw5</LM>
 </w.rf>
 <form>jvs</form>
-<tag>
-<AM lemma="jvs-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jvs_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jvs_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jvs" src="auto">NNIS1-----A----</AM>
-<AM lemma="jvs" src="auto">NNIS4-----A----</AM>
-<AM lemma="jvs_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="jvs_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jvs_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="jv_;K_,t" src="auto">NNMPX-----A----</AM>
-</tag>
+<tag lemma="jvs-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-127-p2s1Aw6">
 <src.rf>manual</src.rf>

@@ -27,18 +27,7 @@
 <LM>w#w-ln95046-116-p1s1w2</LM>
 </w.rf>
 <form>Consult</form>
-<tag>
-<AM lemma="Consult_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Consult_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Consult_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consult_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Consult" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consulta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Consult_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Consult_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consult_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="consult" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Consult_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-116-p1s1w3">
 <src.rf>manual</src.rf>
@@ -98,18 +87,7 @@
 <LM>w#w-ln95046-116-p2s1Bw3</LM>
 </w.rf>
 <form>Consult</form>
-<tag>
-<AM lemma="Consult_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Consult_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Consult_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consult_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Consult" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consulta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Consult_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Consult_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consult_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="consult" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Consult_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-116-p2s1Bw4">
 <src.rf>manual</src.rf>

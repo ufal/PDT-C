@@ -2481,18 +2481,7 @@
 <LM>w#w-lnd94103-096-p1s12w54</LM>
 </w.rf>
 <form>Cardillo</form>
-<tag>
-<AM lemma="Cardillo_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cardillo_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cardilla_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Cardillo_;m" src="auto">NNNSX-----A----</AM>
-<AM lemma="Cardillo_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cardillo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cardillo_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Cardillo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Cardillo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="cardillo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cardillo_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-096-p1s12w55">
 <src.rf>manual</src.rf>
@@ -2524,16 +2513,7 @@
 <LM>w#w-lnd94103-096-p1s12w58</LM>
 </w.rf>
 <form>Giménez</form>
-<tag>
-<AM lemma="Giménez_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Giménez_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Giménez_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Giménez" src="auto">NNIS4-----A----</AM>
-<AM lemma="Giménez" src="auto">NNIS1-----A----</AM>
-<AM lemma="Giménez" src="auto">NNFS1-----A----</AM>
-<AM lemma="jíst_^(konzumovat_Giménídlo)" src="auto">Vi-S---2--A----</AM>
-<AM lemma="giménez" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Giménez_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-096-p1s12w59">
 <src.rf>manual</src.rf>
@@ -2565,17 +2545,7 @@
 <LM>w#w-lnd94103-096-p1s12w62</LM>
 </w.rf>
 <form>Nieto</form>
-<tag>
-<AM lemma="Nieto_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nieto" src="auto">NNNS1-----A----</AM>
-<AM lemma="Nieto" src="auto">NNNS4-----A----</AM>
-<AM lemma="Nieto_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nieta" src="auto">NNFS5-----A----</AM>
-<AM lemma="Niet" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="Nieto_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nieto_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="nieto" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nieto_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-096-p1s12w63">
 <src.rf>manual</src.rf>
@@ -2607,18 +2577,7 @@
 <LM>w#w-lnd94103-096-p1s12w66</LM>
 </w.rf>
 <form>Soutullo</form>
-<tag>
-<AM lemma="Soutullo_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Soutullo_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Soutulla_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Soutullo_;m" src="auto">NNNSX-----A----</AM>
-<AM lemma="Soutullo_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Soutullo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Soutullo_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Soutullo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Soutullo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="soutullo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Soutullo_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-096-p1s12w67">
 <src.rf>manual</src.rf>
@@ -2700,13 +2659,7 @@
 <LM>w#w-lnd94103-096-p1s13w4</LM>
 </w.rf>
 <form>zarzuelám</form>
-<tag>
-<AM lemma="zarzuela" src="orig">NNFP3-----A----</AM>
-<AM lemma="zarzuela" src="auto" recommended="1">NNFP3-----A----</AM>
-<AM lemma="zarzuelat_:T" src="auto">VB-S---1P-AA---</AM>
-<AM lemma="zarzuelat_:W" src="auto">VB-S---1P-AA---</AM>
-<AM lemma="zarzuelám" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="zarzuela" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-lnd94103-096-p1s13w5">
 <src.rf>manual</src.rf>
@@ -3426,18 +3379,7 @@
 <LM>w#w-lnd94103-096-p1s17w25</LM>
 </w.rf>
 <form>Promotion</form>
-<tag>
-<AM lemma="Promotion_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Promotion_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Promotion_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Promotion_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Promotion_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Promotion" src="auto">NNIS1-----A----</AM>
-<AM lemma="Promotion_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Promotión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Promotión" src="auto">NNIS1-----A----</AM>
-<AM lemma="promotion" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Promotion_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94103-096-p1s17w26">
 <src.rf>manual</src.rf>

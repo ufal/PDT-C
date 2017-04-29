@@ -255,21 +255,7 @@
 <LM>w#w-ln94207-38-p2s2w5</LM>
 </w.rf>
 <form>IKUE</form>
-<tag>
-<AM lemma="IKUE_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IKUE_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="IKUE_;R" src="auto">NNIXX-----A----</AM>
-<AM lemma="IKUE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IKUE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ikue_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ikue_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ikue_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ikue_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ikue_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ikue_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ikue_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="ikue" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="IKUE_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94207-38-p2s2w6">
 <src.rf>manual</src.rf>
@@ -891,17 +877,7 @@
 <LM>w#w-ln94207-38-p2s5w26</LM>
 </w.rf>
 <form>teepee</form>
-<tag>
-<AM lemma="teepee_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="teepee_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="teepee_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="teepee_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="teepee_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="teepee_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="teepee_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="teepee_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="bungee_,t_^(teepee_jumping)" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="teepee_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94207-38-p2s5w27">
 <src.rf>manual</src.rf>

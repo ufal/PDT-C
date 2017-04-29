@@ -349,18 +349,7 @@
 <LM>w#w-ln94209-70-p2s1w34</LM>
 </w.rf>
 <form>Cantar</form>
-<tag>
-<AM lemma="Cantar_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Cantar_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cantar_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Cantar_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cantar_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Cantar_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ha-1`Cantar" src="auto">NNIS4-----A----</AM>
-<AM lemma="ha-1`Cantar" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cantara" src="auto">NNFP2-----A----</AM>
-<AM lemma="cantar" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cantar_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94209-70-p2s1w35">
 <src.rf>manual</src.rf>
@@ -376,17 +365,7 @@
 <LM>w#w-ln94209-70-p2s1w36</LM>
 </w.rf>
 <form>mio</form>
-<tag>
-<AM lemma="mio_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="mio_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="mio_,t_^(it._můj)" src="auto">PSHS5-S1-------</AM>
-<AM lemma="mio_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mio_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="mio_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mio" src="auto">NNNS1-----A----</AM>
-<AM lemma="mio_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="mio_;G" src="auto">NNNS1-----A----</AM>
-</tag>
+<tag lemma="mio_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94209-70-p2s1w37">
 <src.rf>manual</src.rf>
@@ -420,18 +399,7 @@
 <LM>w#w-ln94209-70-p2s2w1</LM>
 </w.rf>
 <form>Cidovská</form>
-<tag>
-<AM lemma="cidovský" src="orig">AAFS1----1A----</AM>
-<AM lemma="Cidovský" src="auto">AAFS1----1A----</AM>
-<AM lemma="Cidovský" src="auto">AANP1----1A----</AM>
-<AM lemma="Cidovský" src="auto">AANP4----1A----</AM>
-<AM lemma="Cidovská_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cidovský_;G" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="Cidovská_;G" src="auto">AAFS1----1A----</AM>
-<AM lemma="Cidovský_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cidovskat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="cidovská" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="cidovský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94209-70-p2s2w2">
 <src.rf>manual</src.rf>
@@ -1100,18 +1068,7 @@
 <LM>w#w-ln94209-70-p3s1w12</LM>
 </w.rf>
 <form>Abbata</form>
-<tag>
-<AM lemma="Abbato_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Abbata" src="auto">NNFS1-----A----</AM>
-<AM lemma="Abbe" src="auto">NNNP4-----A----</AM>
-<AM lemma="Abbe" src="auto">NNNP1-----A----</AM>
-<AM lemma="Abba" src="auto">NNNP1-----A----</AM>
-<AM lemma="Abba" src="auto">NNNP4-----A----</AM>
-<AM lemma="Abbat" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Abbata_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Abbmout" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="abbata" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Abbato_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-70-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1257,17 +1214,7 @@
 <LM>w#w-ln94209-70-p3s2w4</LM>
 </w.rf>
 <form>rekonkvisty</form>
-<tag>
-<AM lemma="rekonkvista" src="orig">NNFS2-----A----</AM>
-<AM lemma="rekonkvista" src="auto">NNMS2-----A----</AM>
-<AM lemma="rekonkvista" src="auto">NNMP4-----A----</AM>
-<AM lemma="rekonkvista" src="auto">NNMP7-----A----</AM>
-<AM lemma="rekonkvist" src="auto">NNIP1-----A----</AM>
-<AM lemma="rekonkvist" src="auto">NNIP4-----A----</AM>
-<AM lemma="rekonkvista" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="rekonkvist" src="auto">NNIP7-----A----</AM>
-<AM lemma="rekonkvista_;S" src="auto">NNMS2-----A----</AM>
-</tag>
+<tag lemma="rekonkvista" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94209-70-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1431,21 +1378,7 @@
 <LM>w#w-ln94209-70-p3s2w24</LM>
 </w.rf>
 <form>Vivar</form>
-<tag>
-<AM lemma="Vivar_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vivar" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vivar" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vivar_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vivar_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vivar_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vivar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Vivar_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vivariabilní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="vivar" src="auto">NNIS1-----A----</AM>
-<AM lemma="vivar" src="auto">NNIS4-----A----</AM>
-<AM lemma="vivar" src="auto">NNMS1-----A----</AM>
-<AM lemma="vivara_,s" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="Vivar_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-70-p3s2w25">
 <src.rf>manual</src.rf>
@@ -1485,18 +1418,7 @@
 <LM>w#w-ln94209-70-p3s2w29</LM>
 </w.rf>
 <form>Campeador</form>
-<tag>
-<AM lemma="Campeador_;Y_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Campeador_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Campeador" src="auto">NNIS4-----A----</AM>
-<AM lemma="Campeador" src="auto">NNIS1-----A----</AM>
-<AM lemma="Campeador_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Campeador_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Campeador_;Y_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Campeador_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Campeador_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="campeador" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Campeador_;Y_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94209-70-p3s2w30">
 <src.rf>manual</src.rf>
@@ -1941,12 +1863,7 @@
 <LM>w#w-ln94209-70-p4s1w31</LM>
 </w.rf>
 <form>geste</form>
-<tag>
-<AM lemma="geste_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="gesit" src="auto">Vi-P---2--A----</AM>
-<AM lemma="ge" src="auto">J,-P---2-------</AM>
-<AM lemma="geste_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="geste_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94209-70-p4s1w32">
 <src.rf>manual</src.rf>

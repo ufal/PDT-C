@@ -2240,18 +2240,7 @@
 <LM>w#w-ln94210-130-p4s5w10</LM>
 </w.rf>
 <form>Lightning</form>
-<tag>
-<AM lemma="Lightning_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Lightning_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lightning" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lightning_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lightning" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lightning_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lightning_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Lightning_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lightning_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="lightning" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lightning_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94210-130-p4s5w11">
 <src.rf>manual</src.rf>

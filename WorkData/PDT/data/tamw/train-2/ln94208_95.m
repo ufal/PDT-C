@@ -87,18 +87,7 @@
 <LM>w#w-ln94208-95-p2s1Bw3</LM>
 </w.rf>
 <form>Núreddín</form>
-<tag>
-<AM lemma="Núreddín_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Núreddín_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Núreddín_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Núreddín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Núreddín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Núreddín" src="auto">NNIS1-----A----</AM>
-<AM lemma="Núreddín" src="auto">NNIS4-----A----</AM>
-<AM lemma="Núreddín" src="auto">NNMS1-----A----</AM>
-<AM lemma="Núreddína" src="auto">NNFP2-----A----</AM>
-<AM lemma="núreddín" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Núreddín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-95-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -1005,18 +994,7 @@
 <LM>w#w-ln94208-95-p4s1w4</LM>
 </w.rf>
 <form>Charlety</form>
-<tag>
-<AM lemma="Charlety_;m_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Charleta" src="auto">NNFS2-----A----</AM>
-<AM lemma="Charlet" src="auto">NNIP1-----A----</AM>
-<AM lemma="Charleta" src="auto">NNFP4-----A----</AM>
-<AM lemma="Charleta" src="auto">NNFP1-----A----</AM>
-<AM lemma="Charlet" src="auto">NNIP4-----A----</AM>
-<AM lemma="Charlít" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="Charlet" src="auto">NNIP7-----A----</AM>
-<AM lemma="Charleta_;Y" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="charlety" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Charlety_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94208-95-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1343,13 +1321,7 @@
 <LM>w#w-ln94208-95-p4s4w5</LM>
 </w.rf>
 <form>Merlene</form>
-<tag>
-<AM lemma="Merlene_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Merlen" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Merlenout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Merleno" src="auto">NNNS2-----A---1</AM>
-<AM lemma="merlene" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Merlene_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94208-95-p4s4w6">
 <src.rf>manual</src.rf>

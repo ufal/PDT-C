@@ -163,18 +163,7 @@
 <LM>w#w-mf920922-030-p1s1Bw12</LM>
 </w.rf>
 <form>Leszcylowski</form>
-<tag>
-<AM lemma="Leszcylowski_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Leszcylowski_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Leszcylowský_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Leszcylowski_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Leszcylowski_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Leszcylovski_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Leszcylowský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Leszcylowski_;K_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Leszcylowski_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="leszcylowski" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Leszcylowski_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-030-p1s1Bw13">
 <src.rf>manual</src.rf>
@@ -400,17 +389,7 @@
 <LM>w#w-mf920922-030-p1s2w2</LM>
 </w.rf>
 <form>Grandes</form>
-<tag>
-<AM lemma="grand_,t" src="orig">AAXPX----1A----</AM>
-<AM lemma="Grandes_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Grande_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Grand_,t" src="auto" recommended="1">AAXPX----1A----</AM>
-<AM lemma="Grandes_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Grandes_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Grandes_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Grandes_,t_^(z_franc._de,_zejm._ve_jménech)" src="auto">RR--X----------</AM>
-<AM lemma="grandes" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="grand_,t" src="orig" selected="1">AAXPX----1A----</tag>
 </m>
 <m id="m-mf920922-030-p1s2w3">
 <src.rf>manual</src.rf>
@@ -418,18 +397,7 @@
 <LM>w#w-mf920922-030-p1s2w3</LM>
 </w.rf>
 <form>Orgues</form>
-<tag>
-<AM lemma="orgue_,t" src="orig">NNXPX-----A----</AM>
-<AM lemma="Orgue_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Orgues_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Orgue_,t" src="auto" recommended="1">NNXPX-----A----</AM>
-<AM lemma="Orgues_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Orgues_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Orgues_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Orgues" src="auto">NNNXX-----A----</AM>
-<AM lemma="Orgues" src="auto">AAXXX----1A----</AM>
-<AM lemma="orgues" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="orgue_,t" src="orig" selected="1">NNXPX-----A----</tag>
 </m>
 <m id="m-mf920922-030-p1s2w4">
 <src.rf>manual</src.rf>
@@ -587,18 +555,7 @@
 <LM>w#w-mf920922-030-p1s3w4</LM>
 </w.rf>
 <form>Balbastra</form>
-<tag>
-<AM lemma="Balbastro_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Balbastr" src="auto">NNMS2-----A----</AM>
-<AM lemma="Balbastr" src="auto">NNMS4-----A----</AM>
-<AM lemma="Balbastra" src="auto">NNFS1-----A----</AM>
-<AM lemma="Balbastra_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Balbastro" src="auto">NNNS2-----A----</AM>
-<AM lemma="Balbastrum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Balbastrum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Balbastro_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="balbastra" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Balbastro_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-030-p1s3w5">
 <src.rf>manual</src.rf>
@@ -630,18 +587,7 @@
 <LM>w#w-mf920922-030-p1s3w8</LM>
 </w.rf>
 <form>Boelmanna</form>
-<tag>
-<AM lemma="Boelmann_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Boelmann_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Boelmanna_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Boelmann_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Boelmanna_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="vinný-1_^(kdo_je_vinen/Boelmanna)" src="auto">ACQW------A----</AM>
-<AM lemma="Boelmanný" src="auto">ACQW------A----</AM>
-<AM lemma="Boelmann_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Boelmann_;G" src="auto">NNMS4-----A----</AM>
-<AM lemma="boelmanna" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Boelmann_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-030-p1s3w9">
 <src.rf>manual</src.rf>
@@ -705,18 +651,7 @@
 <LM>w#w-mf920922-030-p1s3w16</LM>
 </w.rf>
 <form>Vierna</form>
-<tag>
-<AM lemma="Vierno_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Vierna" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vierna_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vierný" src="auto">ACQW------A----</AM>
-<AM lemma="Vierno_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Viern_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Viern_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Vierna_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vierna_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="vierna" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vierno_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-030-p1s3w17">
 <src.rf>manual</src.rf>

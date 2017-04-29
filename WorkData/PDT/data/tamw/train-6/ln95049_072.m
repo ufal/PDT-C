@@ -805,18 +805,7 @@
 <LM>w#w-ln95049-072-p4s2w14</LM>
 </w.rf>
 <form>Sahafi</form>
-<tag>
-<AM lemma="Sahafi_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Sahafe_,h" src="auto">NNNS6-----A----</AM>
-<AM lemma="Sahafi_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="fiction-2_:B_,t_^(angl._fantastický,_sci-Sahafi)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="fiction-1_:B_,t_^(angl._fantastický,_sci-Sahafi)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Sahafi_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sahafi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sahafi_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sahafe" src="auto">NNFS4-----A----</AM>
-<AM lemma="sahafi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sahafi_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95049-072-p4s2w15">
 <src.rf>manual</src.rf>

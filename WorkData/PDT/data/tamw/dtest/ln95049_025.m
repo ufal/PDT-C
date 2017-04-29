@@ -1836,18 +1836,7 @@
 <LM>w#w-ln95049-025-p4s6w15</LM>
 </w.rf>
 <form>Varnier</form>
-<tag>
-<AM lemma="Varnier_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Varnier_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Varnier_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kurier-1_;K_,t_^(souč._názvu_Der_Varnier)" src="auto">NNISX-----A----</AM>
-<AM lemma="Varniéra_,x" src="auto">NNFP2-----A----</AM>
-<AM lemma="Varnier_^(sklárna)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Varnier_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Varnier_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Varnier_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="varnier" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Varnier_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-025-p4s6w16">
 <src.rf>manual</src.rf>
@@ -3320,18 +3309,7 @@
 <LM>w#w-ln95049-025-p6s7w10</LM>
 </w.rf>
 <form>Sainte</form>
-<tag>
-<AM lemma="Sainte_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Sainte_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Sainte_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Sainte_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Saint" src="auto">NNIS5-----A----</AM>
-<AM lemma="Sainte_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sainte_,t" src="auto" recommended="1">RR--X----------</AM>
-<AM lemma="Sainte_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="Sainte_,t" src="auto">Db-------------</AM>
-<AM lemma="sainte" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sainte_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95049-025-p6s7w11">
 <src.rf>manual</src.rf>

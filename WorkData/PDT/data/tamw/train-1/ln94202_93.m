@@ -95,18 +95,7 @@
 <LM>w#w-ln94202-93-p2s1Bw5</LM>
 </w.rf>
 <form>FLINTSTONEOVI</form>
-<tag>
-<AM lemma="Flintstoneův_;S_^(*2)" src="orig">AUMP1M---------</AM>
-<AM lemma="Flintstoneův_;S_^(*2)" src="auto" recommended="1">AUMP1M---------</AM>
-<AM lemma="Flintstone_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Flintstone" src="auto">NNMS3-----A----</AM>
-<AM lemma="Flintstone_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Flintstonea_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Flintstone_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Flintstone" src="auto">NNMS6-----A----</AM>
-<AM lemma="Flintstoneův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="flintstoneovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Flintstoneův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94202-93-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -130,18 +119,7 @@
 <LM>w#w-ln94202-93-p2s1Bw8</LM>
 </w.rf>
 <form>Flintstones</form>
-<tag>
-<AM lemma="Flintstone_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Flintstones_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Flintstones" src="auto">Db-------------</AM>
-<AM lemma="Stones_;K_,t_^(Rolling_Flintstones)" src="auto">NNIPX-----A----</AM>
-<AM lemma="Flintstone_;m_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Flintstone_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Flintstonést" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Flintstones_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Flintstones_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="flintstones" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Flintstone_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94202-93-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -804,17 +782,7 @@
 <LM>w#w-ln94202-93-p3s1w9</LM>
 </w.rf>
 <form>Flintstoneovi</form>
-<tag>
-<AM lemma="Flintstoneův_;S_^(*2)" src="orig">AUMP1M---------</AM>
-<AM lemma="Flintstone_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Flintstone" src="auto">NNMS3-----A----</AM>
-<AM lemma="Flintstone_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Flintstonea_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Flintstone_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Flintstone" src="auto">NNMS6-----A----</AM>
-<AM lemma="Flintstoneův_;S_^(*2)" src="auto" recommended="1">AUMP1M---------</AM>
-<AM lemma="flintstoneovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Flintstoneův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94202-93-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1330,18 +1298,7 @@
 <LM>w#w-ln94202-93-p3s3w17</LM>
 </w.rf>
 <form>Kyle</form>
-<tag>
-<AM lemma="Kyle_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kyle_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kyla" src="auto">NNFS6-----A----</AM>
-<AM lemma="Kyla" src="auto">NNFS3-----A----</AM>
-<AM lemma="Kyle_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kyle_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kyl" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kyl" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kyl" src="auto">NNMP4-----A----</AM>
-<AM lemma="kyle" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kyle_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-93-p3s3w18">
 <src.rf>manual</src.rf>
@@ -1429,18 +1386,7 @@
 <LM>w#w-ln94202-93-p3s3w28</LM>
 </w.rf>
 <form>Twin</form>
-<tag>
-<AM lemma="Twin_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Twin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Twin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Twin_;G" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Twina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Twin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Twin" src="auto">NNIS4-----A----</AM>
-<AM lemma="Twin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Twin_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="twin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Twin_;G" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-93-p3s3w29">
 <src.rf>manual</src.rf>
@@ -1448,16 +1394,7 @@
 <LM>w#w-ln94202-93-p3s3w29</LM>
 </w.rf>
 <form>Peaks</form>
-<tag>
-<AM lemma="Peak_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="Peak_;G" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Peaks_,t_^(závod_pro_klisny)" src="auto">NNIPX-----A----</AM>
-<AM lemma="Peaks_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Peak_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Peaks" src="auto">NNIS4-----A----</AM>
-<AM lemma="Peak_;R_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="peaks" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Peak_;G" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94202-93-p3s3w30">
 <src.rf>manual</src.rf>
@@ -1782,18 +1719,7 @@
 <LM>w#w-ln94202-93-p3s3w69</LM>
 </w.rf>
 <form>Moranis</form>
-<tag>
-<AM lemma="Moranis_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Moranis_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Moranis_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Moranis_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Moranis_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Moranis_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Moranis_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Moranis" src="auto">NNIS4-----A----</AM>
-<AM lemma="Moranis" src="auto">NNIS1-----A----</AM>
-<AM lemma="moranis" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Moranis_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-93-p3s3w70">
 <src.rf>manual</src.rf>
@@ -2255,17 +2181,7 @@
 <LM>w#w-ln94202-93-p4s1w45</LM>
 </w.rf>
 <form>diktapták</form>
-<tag>
-<AM lemma="diktapták" src="orig">NNMS1-----A----</AM>
-<AM lemma="diktapták_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="diktapták" src="auto">NNMS1-----A----</AM>
-<AM lemma="diktapták" src="auto">NNIS4-----A----</AM>
-<AM lemma="diktapták-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="diktapták" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="diktapták_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="diktapták_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="diktapták_;G" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="diktapták" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-93-p4s1w46">
 <src.rf>manual</src.rf>
@@ -2466,16 +2382,7 @@
 <LM>w#w-ln94202-93-p4s2w23</LM>
 </w.rf>
 <form>brontojeřáb</form>
-<tag>
-<AM lemma="brontojeřáb" src="orig">NNIS1-----A----</AM>
-<AM lemma="brontojeřáb-3_^(stroj)" src="auto">NNIS4-----A----</AM>
-<AM lemma="brontojeřáb" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="brontojeřáb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="brontojeřáb_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="brontojeřáb_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="brontojeřáb" src="auto">NNIS4-----A----</AM>
-<AM lemma="brontojeřába" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="brontojeřáb" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-93-p4s2w24">
 <src.rf>manual</src.rf>
@@ -2637,18 +2544,7 @@
 <LM>w#w-ln94202-93-p4s3w2</LM>
 </w.rf>
 <form>Flintstoneových</form>
-<tag>
-<AM lemma="Flintstoneův_;S_^(*2)" src="orig">AUMP2M---------</AM>
-<AM lemma="Flintstoneový" src="auto">AAFP2----1A----</AM>
-<AM lemma="Flintstoneový" src="auto">AAIP2----1A----</AM>
-<AM lemma="Flintstoneový" src="auto">AAFP6----1A----</AM>
-<AM lemma="Flintstoneový" src="auto" recommended="1">AAMP2----1A----</AM>
-<AM lemma="Flintstoneový" src="auto">AANP2----1A----</AM>
-<AM lemma="Flintstoneový" src="auto">AAIP6----1A----</AM>
-<AM lemma="Flintstoneový_^(*2t)" src="auto">AAIP2----1A----</AM>
-<AM lemma="Flintstoneový_^(*2t)" src="auto">AAFP2----1A----</AM>
-<AM lemma="flintstoneových" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Flintstoneův_;S_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-ln94202-93-p4s3w3">
 <src.rf>manual</src.rf>
@@ -2930,17 +2826,7 @@
 <LM>w#w-ln94202-93-p5s1w14</LM>
 </w.rf>
 <form>soap</form>
-<tag>
-<AM lemma="soap_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="soap" src="auto">NNIS1-----A----</AM>
-<AM lemma="soap" src="auto">NNIS4-----A----</AM>
-<AM lemma="soap-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="soap_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="soapa" src="auto">NNFP2-----A----</AM>
-<AM lemma="soapod-1_:B_^(a_podobně)" src="auto">Db------------8</AM>
-<AM lemma="soapod_:B_^(a_podobně)" src="auto">Db------------9</AM>
-<AM lemma="soaponsko_;G" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="soap_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-93-p5s1w15">
 <src.rf>manual</src.rf>
@@ -3182,17 +3068,7 @@
 <LM>w#w-ln94202-93-p5s2w1</LM>
 </w.rf>
 <form>Flintstoneovi</form>
-<tag>
-<AM lemma="Flintstoneův_;S_^(*2)" src="orig">AUMP1M---------</AM>
-<AM lemma="Flintstone_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Flintstone" src="auto">NNMS3-----A----</AM>
-<AM lemma="Flintstone_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Flintstonea_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Flintstone_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Flintstone" src="auto">NNMS6-----A----</AM>
-<AM lemma="Flintstoneův_;S_^(*2)" src="auto" recommended="1">AUMP1M---------</AM>
-<AM lemma="flintstoneovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Flintstoneův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94202-93-p5s2w2">
 <src.rf>manual</src.rf>
@@ -3511,18 +3387,7 @@
 <LM>w#w-ln94202-93-p5s6w7</LM>
 </w.rf>
 <form>Moranis</form>
-<tag>
-<AM lemma="Moranis_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Moranis_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Moranis_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Moranis_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Moranis_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Moranis_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Moranis_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Moranis" src="auto">NNIS4-----A----</AM>
-<AM lemma="Moranis" src="auto">NNIS1-----A----</AM>
-<AM lemma="moranis" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Moranis_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-93-p5s6w8">
 <src.rf>manual</src.rf>
@@ -3562,18 +3427,7 @@
 <LM>w#w-ln94202-93-p5s6w12</LM>
 </w.rf>
 <form>Kyle</form>
-<tag>
-<AM lemma="Kyle_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kyle_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kyla" src="auto">NNFS6-----A----</AM>
-<AM lemma="Kyla" src="auto">NNFS3-----A----</AM>
-<AM lemma="Kyle_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kyle_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kyl" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kyl" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kyl" src="auto">NNMP4-----A----</AM>
-<AM lemma="kyle" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kyle_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-93-p5s6w13">
 <src.rf>manual</src.rf>

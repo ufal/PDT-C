@@ -2124,15 +2124,7 @@
 <LM>w#w-ln94206-143-p7s1w11</LM>
 </w.rf>
 <form>carry</form>
-<tag>
-<AM lemma="carry_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="carry_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="carry_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="carry_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="carra_;G_;R" src="auto">NNFS2-----A----</AM>
-<AM lemma="carra_,t" src="auto">AAFS2----1A----</AM>
-<AM lemma="carry_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-</tag>
+<tag lemma="carry_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94206-143-p7s1w12">
 <src.rf>manual</src.rf>

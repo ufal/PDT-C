@@ -443,18 +443,7 @@
 <LM>w#w-ln95046-014-p3s1w8</LM>
 </w.rf>
 <form>Surga</form>
-<tag>
-<AM lemma="Surga_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Surg_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Surg_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Surgo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Surg" src="auto">NNMS4-----A----</AM>
-<AM lemma="Surg" src="auto">NNMS2-----A----</AM>
-<AM lemma="Surg_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Surg_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Surg-2_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="surga" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Surga_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-014-p3s1w9">
 <src.rf>manual</src.rf>
@@ -806,18 +795,7 @@
 <LM>w#w-ln95046-014-p3s5w5</LM>
 </w.rf>
 <form>Surgy</form>
-<tag>
-<AM lemma="Surga_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Surgy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Surga_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Surgy_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Surgy_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Surg" src="auto">NNMP7-----A----</AM>
-<AM lemma="Surg" src="auto">NNMP4-----A----</AM>
-<AM lemma="Surga" src="auto">NNFS2-----A----</AM>
-<AM lemma="Surg" src="auto">NNIP1-----A----</AM>
-<AM lemma="surgy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Surga_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-014-p3s5w6">
 <src.rf>manual</src.rf>
@@ -1173,18 +1151,7 @@
 <LM>w#w-ln95046-014-p4s1w7</LM>
 </w.rf>
 <form>Surgy</form>
-<tag>
-<AM lemma="Surga_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Surgy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Surga_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Surgy_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Surgy_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Surg" src="auto">NNMP7-----A----</AM>
-<AM lemma="Surg" src="auto">NNMP4-----A----</AM>
-<AM lemma="Surga" src="auto">NNFS2-----A----</AM>
-<AM lemma="Surg" src="auto">NNIP1-----A----</AM>
-<AM lemma="surgy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Surga_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-014-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1838,18 +1805,7 @@
 <LM>w#w-ln95046-014-p4s4w26</LM>
 </w.rf>
 <form>Surga</form>
-<tag>
-<AM lemma="Surga_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Surg_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Surg_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Surgo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Surg" src="auto">NNMS4-----A----</AM>
-<AM lemma="Surg" src="auto">NNMS2-----A----</AM>
-<AM lemma="Surg_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Surg_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Surg-2_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="surga" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Surga_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-014-p4s4w27">
 <src.rf>manual</src.rf>
@@ -2303,18 +2259,7 @@
 <LM>w#w-ln95046-014-p4s7w12</LM>
 </w.rf>
 <form>Surga</form>
-<tag>
-<AM lemma="Surga_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Surg_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Surg_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Surgo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Surg" src="auto">NNMS4-----A----</AM>
-<AM lemma="Surg" src="auto">NNMS2-----A----</AM>
-<AM lemma="Surg_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Surg_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Surg-2_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="surga" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Surga_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-014-p4s7w13">
 <src.rf>manual</src.rf>

@@ -677,18 +677,7 @@
 <LM>w#w-mf930709-148-p1s3w14</LM>
 </w.rf>
 <form>Kabunem</form>
-<tag>
-<AM lemma="Kabun_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Kabun" src="auto">NNIS7-----A----</AM>
-<AM lemma="Kabun_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Kabun_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Kabun" src="auto">NNMS7-----A----</AM>
-<AM lemma="Kabun_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Kabuno" src="auto">NNNS7-----A----</AM>
-<AM lemma="Kabuen" src="auto">NNIS7-----A----</AM>
-<AM lemma="Kabun_;E" src="auto">NNMS7-----A----</AM>
-<AM lemma="kabunem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kabun_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930709-148-p1s3w15">
 <src.rf>manual</src.rf>
@@ -696,17 +685,7 @@
 <LM>w#w-mf930709-148-p1s3w15</LM>
 </w.rf>
 <form>Mutó</form>
-<tag>
-<AM lemma="Mutó_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="Mutó_;S" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Mutó_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mutó-1" src="auto">II-------------</AM>
-<AM lemma="Mutó_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mutó_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mutó_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mutó" src="auto">II-------------</AM>
-<AM lemma="mutó" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mutó_;S" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-mf930709-148-p1s3w16">
 <src.rf>manual</src.rf>
@@ -1892,18 +1871,7 @@
 <LM>w#w-mf930709-148-p1s9w10</LM>
 </w.rf>
 <form>Kabun</form>
-<tag>
-<AM lemma="Kabun_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kabun_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kabun" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kabuna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kabun_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kabun" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kabun" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kabun_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kabun_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="kabun" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kabun_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-148-p1s9w11">
 <src.rf>manual</src.rf>
@@ -1911,17 +1879,7 @@
 <LM>w#w-mf930709-148-p1s9w11</LM>
 </w.rf>
 <form>Mutó</form>
-<tag>
-<AM lemma="Mutó_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="Mutó_;S" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Mutó_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mutó-1" src="auto">II-------------</AM>
-<AM lemma="Mutó_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mutó_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mutó_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mutó" src="auto">II-------------</AM>
-<AM lemma="mutó" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mutó_;S" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-mf930709-148-p1s9w12">
 <src.rf>manual</src.rf>

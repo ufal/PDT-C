@@ -115,18 +115,7 @@
 <LM>w#w-mf920925-102-p1s1w13</LM>
 </w.rf>
 <form>Petre</form>
-<tag>
-<AM lemma="Petre_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Petre_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Petre_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Petre_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Petre_;R_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Petre_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Petre_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Petre_;K_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Petre_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="petre" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Petre_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-102-p1s1w14">
 <src.rf>manual</src.rf>
@@ -206,22 +195,7 @@
 <LM>w#w-mf920925-102-p1s1w23</LM>
 </w.rf>
 <form>FNS</form>
-<tag>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Fns_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fn_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fns_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fns_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fns" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="fns" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920925-102-p1s1w24">
 <src.rf>manual</src.rf>
@@ -229,18 +203,7 @@
 <LM>w#w-mf920925-102-p1s1w24</LM>
 </w.rf>
 <form>Caius</form>
-<tag>
-<AM lemma="Caius_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Caius_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Caius" src="auto">NNMS1-----A----</AM>
-<AM lemma="Caius_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Caius_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Caius_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Caius_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Caius_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Caius_;L_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="caius" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Caius_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-102-p1s1w25">
 <src.rf>manual</src.rf>
@@ -248,18 +211,7 @@
 <LM>w#w-mf920925-102-p1s1w25</LM>
 </w.rf>
 <form>Traian</form>
-<tag>
-<AM lemma="Traian_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Traian_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Traian_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Traian_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Traian_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Traián_;Y_,x" src="auto">NNMS1-----A----</AM>
-<AM lemma="Traián_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Traianum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Traiano" src="auto">NNNP2-----A----</AM>
-<AM lemma="traian" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Traian_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-102-p1s1w26">
 <src.rf>manual</src.rf>

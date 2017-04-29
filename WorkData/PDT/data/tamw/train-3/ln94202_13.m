@@ -3611,16 +3611,7 @@
 <LM>w#w-ln94202-13-p5s1w11</LM>
 </w.rf>
 <form>natura</form>
-<tag>
-<AM lemma="natura_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="natura" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="natura_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="natur_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="natur" src="auto">NNMS4-----A----</AM>
-<AM lemma="natur" src="auto">NNMS2-----A----</AM>
-<AM lemma="natura-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="natur_;Y" src="auto">NNMS4-----A----</AM>
-</tag>
+<tag lemma="natura_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-13-p5s1w12">
 <src.rf>manual</src.rf>

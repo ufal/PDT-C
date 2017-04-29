@@ -519,18 +519,7 @@
 <LM>w#w-mf930713-145-p2s2w23</LM>
 </w.rf>
 <form>Macharia</form>
-<tag>
-<AM lemma="Macharia_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Macharium" src="auto">NNNS2-----A----</AM>
-<AM lemma="Macharium" src="auto">NNNP4-----A----</AM>
-<AM lemma="Macharia_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Macharium" src="auto">NNNP1-----A----</AM>
-<AM lemma="Macharia_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Machario_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Macharie_;G" src="auto">NNFS1-----A---1</AM>
-<AM lemma="Austria_;K_,t_^(fotbalový_klub_Macharia_Wien)" src="auto">NNFS1-----A----</AM>
-<AM lemma="macharia" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Macharia_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s2w24">
 <src.rf>manual</src.rf>
@@ -700,18 +689,7 @@
 <LM>w#w-mf930713-145-p2s3w11</LM>
 </w.rf>
 <form>Hosea</form>
-<tag>
-<AM lemma="Hosea_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hosea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hozeum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Hossea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hoseus_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Hose_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Hose_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Hosea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hosea_;G_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="hosea" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hosea_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s4w1">
 <src.rf>manual</src.rf>
@@ -1293,25 +1271,7 @@
 <LM>w#w-mf930713-145-p2s8w20</LM>
 </w.rf>
 <form>UNOSOM</form>
-<tag>
-<AM lemma="UNOSOM_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="UNOSOM_:B_;m" src="auto">NNFXX-----A---8</AM>
-<AM lemma="UNOSOM-3_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="UNOSOM_:B_;c_,t_^(Read-only_memory,_trv._paměť)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="UNOSOM_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="UNOSOM_:B_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="UNOSOM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UNOSOM_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Unos_,t" src="auto">NNIS7-----A----</AM>
-<AM lemma="Unosom" src="auto">NNMS1-----A----</AM>
-<AM lemma="Unosom" src="auto">NNIS1-----A----</AM>
-<AM lemma="Unosom" src="auto">NNIS4-----A----</AM>
-<AM lemma="Unosom_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Unosom_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Unosom" src="auto">Db-------------</AM>
-<AM lemma="Unosen" src="auto">PDZS6----------</AM>
-<AM lemma="unosom" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="UNOSOM_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930713-145-p2s8w21">
 <src.rf>manual</src.rf>
@@ -1643,18 +1603,7 @@
 <LM>w#w-mf930713-145-p2s10w8</LM>
 </w.rf>
 <form>Kabdida</form>
-<tag>
-<AM lemma="Kabdid_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Kabdida" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kabdid_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Kabdid_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kabdid_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kabdida_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kabdidět_:T" src="auto">VeYS------A----</AM>
-<AM lemma="Kabdido_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kabdido" src="auto">NNNS2-----A----</AM>
-<AM lemma="kabdida" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kabdid_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s10w9">
 <src.rf>manual</src.rf>
@@ -2188,13 +2137,7 @@
 <LM>w#w-mf930713-145-p2s13w4</LM>
 </w.rf>
 <form>Dhimbil</form>
-<tag>
-<AM lemma="Dhimbil_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dhimbit_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dhimbit_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dhimbít" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="dhimbil" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dhimbil_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s13w5">
 <src.rf>manual</src.rf>

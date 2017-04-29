@@ -3450,18 +3450,7 @@
 <LM>w#w-ln94206-73-p7s3w13</LM>
 </w.rf>
 <form>Nahda</form>
-<tag>
-<AM lemma="Nahda_;K_,t" src="orig">NNFSX-----A----</AM>
-<AM lemma="Nahda" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Nahda_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nahd_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Nahd_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Nahd_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Nahd_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Nahda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nahda_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="nahda" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nahda_;K_,t" src="orig" selected="1">NNFSX-----A----</tag>
 </m>
 <m id="m-ln94206-73-p7s3w14">
 <src.rf>manual</src.rf>

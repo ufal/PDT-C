@@ -106,18 +106,7 @@
 <LM>w#w-ln94204-41-p2s1Bw4</LM>
 </w.rf>
 <form>Proconsult</form>
-<tag>
-<AM lemma="Proconsult_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Proconsult_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Proconsult_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Proconsult_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Proconsult" src="auto">NNIS1-----A----</AM>
-<AM lemma="Proconsulta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Proconsult_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Proconsult_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Proconsult_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="proconsult" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Proconsult_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-41-p2s1Bw5">
 <src.rf>manual</src.rf>

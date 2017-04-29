@@ -1214,18 +1214,7 @@
 <LM>w#w-ln95046-065-p3s1w28</LM>
 </w.rf>
 <form>Saká</form>
-<tag>
-<AM lemma="Saká_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Saký" src="auto">PZFS1----------</AM>
-<AM lemma="Saký" src="auto">PZNP4----------</AM>
-<AM lemma="Saká_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Saký" src="auto">PZNP1----------</AM>
-<AM lemma="Saký" src="auto">P4NP4----------</AM>
-<AM lemma="Saký" src="auto">P4NP1----------</AM>
-<AM lemma="Saký" src="auto">P4FS1----------</AM>
-<AM lemma="Saký" src="auto">AANP1----1A----</AM>
-<AM lemma="saká" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Saká_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-065-p3s1w29">
 <src.rf>manual</src.rf>
@@ -1551,18 +1540,7 @@
 <LM>w#w-ln95046-065-p3s4w14</LM>
 </w.rf>
 <form>Šaká</form>
-<tag>
-<AM lemma="Šaká_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Šaký" src="auto">PZFS1----------</AM>
-<AM lemma="Šaký" src="auto">PZNP4----------</AM>
-<AM lemma="Šaká_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Šaký" src="auto">PZNP1----------</AM>
-<AM lemma="Šaký" src="auto">P4NP4----------</AM>
-<AM lemma="Šaký" src="auto">P4NP1----------</AM>
-<AM lemma="Šaký" src="auto">P4FS1----------</AM>
-<AM lemma="Šaký" src="auto">AANP1----1A----</AM>
-<AM lemma="šaká" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Šaká_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-065-p3s4w15">
 <src.rf>manual</src.rf>

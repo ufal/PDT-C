@@ -165,18 +165,7 @@
 <LM>w#w-mf920922-049-p2s1w15</LM>
 </w.rf>
 <form>Ferencvárosu</form>
-<tag>
-<AM lemma="Ferencvarosz_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Ferencváros" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ferencváros_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ferencváros" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Ferencváros" src="auto">NNIS6-----A----</AM>
-<AM lemma="Ferencváros" src="auto">NNIS3-----A----</AM>
-<AM lemma="Ferencváros_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ferencvarosz_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Ferencvárosa" src="auto">NNFS4-----A----</AM>
-<AM lemma="ferencvárosu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ferencvarosz_;K" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-049-p2s1w16">
 <src.rf>manual</src.rf>
@@ -690,22 +679,7 @@
 <LM>w#w-mf920922-049-p2s2w38</LM>
 </w.rf>
 <form>NÉPSZABADSÁG</form>
-<tag>
-<AM lemma="Népszabadság_;R_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Népszabadság_;R_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="NÉPSZABADSÁG_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NÉPSZABADSÁG_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NÉPSZABADSÁG_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Népszabadság_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Népszabadság_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Népszabadság_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Népszabadság" src="auto">NNMS1-----A----</AM>
-<AM lemma="Népszabadság" src="auto">NNIS1-----A----</AM>
-<AM lemma="Népszabadság" src="auto">NNIS4-----A----</AM>
-<AM lemma="Népszabadság_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Népszabadság_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="népszabadság" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Népszabadság_;R_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf920922-049-p2s2w39">
 <src.rf>manual</src.rf>
@@ -1101,18 +1075,7 @@
 <LM>w#w-mf920922-049-p2s4w23</LM>
 </w.rf>
 <form>Ferencvárosu</form>
-<tag>
-<AM lemma="Ferencvarosz_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Ferencváros" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ferencváros_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ferencváros" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Ferencváros" src="auto">NNIS6-----A----</AM>
-<AM lemma="Ferencváros" src="auto">NNIS3-----A----</AM>
-<AM lemma="Ferencváros_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ferencvarosz_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Ferencvárosa" src="auto">NNFS4-----A----</AM>
-<AM lemma="ferencvárosu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ferencvarosz_;K" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-049-p2s4w24">
 <src.rf>manual</src.rf>

@@ -19,18 +19,7 @@
 <LM>w#w-ln94200-165-p1s1w1</LM>
 </w.rf>
 <form>Urbionalistické</form>
-<tag>
-<AM lemma="urbionalistický" src="orig">AAFP1----1A----</AM>
-<AM lemma="Urbionalistický" src="auto">AAFS2----1A----</AM>
-<AM lemma="Urbionalistický" src="auto">AANS1----1A----</AM>
-<AM lemma="Urbionalistický" src="auto">AAFS6----1A----</AM>
-<AM lemma="Urbionalistický" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="Urbionalistický" src="auto">AAIP1----1A----</AM>
-<AM lemma="Urbionalistický" src="auto">AAIP4----1A----</AM>
-<AM lemma="Urbionalistický" src="auto">AAFP4----1A----</AM>
-<AM lemma="Urbionalistický" src="auto">AANS4----1A----</AM>
-<AM lemma="urbionalistické" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="urbionalistický" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln94200-165-p1s1w2">
 <src.rf>manual</src.rf>
@@ -194,15 +183,7 @@
 <LM>w#w-ln94200-165-p2s1Bw3</LM>
 </w.rf>
 <form>urbionalisticky</form>
-<tag>
-<AM lemma="urbionalisticky" src="orig">Dg-------1A----</AM>
-<AM lemma="urbionalisticky_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="urbionalisticka" src="auto">NNFP1-----A----</AM>
-<AM lemma="urbionalisticka" src="auto">NNFP4-----A----</AM>
-<AM lemma="urbionalisticka-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="urbionalisticky_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="urbionalisticky" src="auto" recommended="1">Dg-------1A----</AM>
-</tag>
+<tag lemma="urbionalisticky" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94200-165-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -500,30 +481,7 @@
 <LM>w#w-ln94200-165-p2s2Aw23</LM>
 </w.rf>
 <form>WD</form>
-<tag>
-<AM lemma="WD_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="WD_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="WD_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="WD_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="WD_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="WD_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Wd" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wd" src="auto">NNIS4-----A----</AM>
-<AM lemma="Wd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Wd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wd_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wd_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Wd" src="auto">NNMS1-----A----</AM>
-<AM lemma="wd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="wd" src="auto">NNIS1-----A----</AM>
-<AM lemma="wd" src="auto">NNIS4-----A----</AM>
-<AM lemma="wda" src="auto">NNFP2-----A----</AM>
-<AM lemma="wd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="wd_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="wd_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="wd" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="WD_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-165-p2s2Aw24">
 <src.rf>manual</src.rf>

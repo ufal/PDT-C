@@ -5400,18 +5400,7 @@
 <LM>w#w-cmpr9413-048-p21s1w8</LM>
 </w.rf>
 <form>Jeka</form>
-<tag>
-<AM lemma="Jeka_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Jek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Jeka_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Jeka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jeko-2" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="Jek_;G" src="auto">NNIS2-----A---1</AM>
-<AM lemma="Jeka" src="auto">Db-------------</AM>
-<AM lemma="Jeka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jeka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jeka_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-048-p21s1w9">
 <src.rf>manual</src.rf>
@@ -5639,18 +5628,7 @@
 <LM>w#w-cmpr9413-048-p21s3w2</LM>
 </w.rf>
 <form>Jeka</form>
-<tag>
-<AM lemma="Jeka_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Jek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Jeka_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Jek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Jeka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jeko-2" src="auto">NNNS2-----A----</AM>
-<AM lemma="Jek_;G" src="auto">NNIS2-----A---1</AM>
-<AM lemma="Jeka" src="auto">Db-------------</AM>
-<AM lemma="Jeka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jeka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jeka_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-048-p21s3w3">
 <src.rf>manual</src.rf>

@@ -719,13 +719,7 @@
 <LM>w#w-ln94203-71-p3s1w18</LM>
 </w.rf>
 <form>Šás</form>
-<tag>
-<AM lemma="Šás_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Šás_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Šýs" src="auto">PZFS1----------</AM>
-<AM lemma="šýs" src="auto">PZFS1----------</AM>
-<AM lemma="šás_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Šás_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-71-p3s1w19">
 <src.rf>manual</src.rf>
@@ -2893,18 +2887,7 @@
 <LM>w#w-ln94203-71-p7s1w9</LM>
 </w.rf>
 <form>Nájifa</form>
-<tag>
-<AM lemma="Nájif_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Nájifo_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Nájifo_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Nájif_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Nájif_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Nájif" src="auto">NNMS4-----A----</AM>
-<AM lemma="Nájif" src="auto">NNMS2-----A----</AM>
-<AM lemma="Nájif_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Nájif_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="nájifa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nájif_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-71-p7s1w10">
 <src.rf>manual</src.rf>
@@ -2912,18 +2895,7 @@
 <LM>w#w-ln94203-71-p7s1w10</LM>
 </w.rf>
 <form>Havatmy</form>
-<tag>
-<AM lemma="Havatma_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Havatmus" src="auto">NNIP1-----A----</AM>
-<AM lemma="Havatma_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Havatma" src="auto">NNFS2-----A----</AM>
-<AM lemma="Havatm" src="auto">NNIP1-----A----</AM>
-<AM lemma="Havatm" src="auto">NNIP4-----A----</AM>
-<AM lemma="Havatm" src="auto">NNIP7-----A----</AM>
-<AM lemma="Havatma" src="auto">NNFP4-----A----</AM>
-<AM lemma="Havatma" src="auto">NNFP1-----A----</AM>
-<AM lemma="havatmy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Havatma_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-71-p7s1w11">
 <src.rf>manual</src.rf>
@@ -4081,16 +4053,7 @@
 <LM>w#w-ln94203-71-p9s2w9</LM>
 </w.rf>
 <form>Faisala</form>
-<tag>
-<AM lemma="Faisal_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Faisat_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Faisat_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Faisat_:T_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Faisat" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Faisal_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Faisat_:T_^(*4at)" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="faisala" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Faisal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-71-p9s2w10">
 <src.rf>manual</src.rf>

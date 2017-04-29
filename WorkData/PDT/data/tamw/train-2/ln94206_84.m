@@ -207,18 +207,7 @@
 <LM>w#w-ln94206-84-p2s1Bw7</LM>
 </w.rf>
 <form>Lahav</form>
-<tag>
-<AM lemma="Lahav_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lahav_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lahav_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lahava" src="auto">NNFP2-----A----</AM>
-<AM lemma="Lahav-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lahav" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lahav" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lahav_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lahav_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="lahav" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lahav_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-84-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -1624,17 +1613,7 @@
 <LM>w#w-ln94206-84-p4s2w9</LM>
 </w.rf>
 <form>Rafáh</form>
-<tag>
-<AM lemma="Rafáh_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Rafáh_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Rafáh_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rafáh_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rafáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rafáh" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rafáh" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rafáh" src="auto">NNIS1-----A----</AM>
-<AM lemma="rafáh" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rafáh_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-84-p4s2w10">
 <src.rf>manual</src.rf>

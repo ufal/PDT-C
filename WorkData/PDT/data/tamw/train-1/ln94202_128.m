@@ -1137,26 +1137,7 @@
 <LM>w#w-ln94202-128-p3s3w23</LM>
 </w.rf>
 <form>EMRC</form>
-<tag>
-<AM lemma="EMRC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="EMRC-4_:B_;m_,t_^(Responsible_Care)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EMRC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EMRC_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Emrc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Emrciální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Emrc_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Emrc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Emrc_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Emrc_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Emrc_,l" src="auto">NNIS1-----A----</AM>
-<AM lemma="Emrc" src="auto">NNMS1-----A----</AM>
-<AM lemma="emrc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="EMRC_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-128-p3s3w24">
 <src.rf>manual</src.rf>
@@ -1172,20 +1153,7 @@
 <LM>w#w-ln94202-128-p3s3w25</LM>
 </w.rf>
 <form>European</form>
-<tag>
-<AM lemma="European_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="European_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="European_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="European_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="European_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="European_;R_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="european" src="auto">NNIS1-----A----</AM>
-<AM lemma="european" src="auto">NNIS4-----A----</AM>
-<AM lemma="european" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="European_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-128-p3s3w26">
 <src.rf>manual</src.rf>
@@ -1205,19 +1173,7 @@
 <LM>w#w-ln94202-128-p3s3w27</LM>
 </w.rf>
 <form>research</form>
-<tag>
-<AM lemma="research-2_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Research-1_;K_,t_^(souč._názvů,_např._IBM_research)" src="auto" recommended="1">NNISX-----A----</AM>
-<AM lemma="research" src="auto">NNIS1-----A----</AM>
-<AM lemma="research" src="auto">NNIS4-----A----</AM>
-<AM lemma="research_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="research_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="research_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="researcha" src="auto">NNFP2-----A----</AM>
-<AM lemma="researchitekt_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="researchitektka_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="researchives_:B_;R_,t" src="auto">NNIPX-----A---8</AM>
-</tag>
+<tag lemma="research-2_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-128-p3s3w28">
 <src.rf>manual</src.rf>
@@ -1380,18 +1336,7 @@
 <LM>w#w-ln94202-128-p3s3w48</LM>
 </w.rf>
 <form>Award</form>
-<tag>
-<AM lemma="Award_;m_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Award_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Award_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Award" src="auto">NNIS1-----A----</AM>
-<AM lemma="Award_;m_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Award_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Award" src="auto">NNMS1-----A----</AM>
-<AM lemma="Award" src="auto">NNIS4-----A----</AM>
-<AM lemma="Awarda`1000000000" src="auto">NNFP2-----A----</AM>
-<AM lemma="award" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Award_;m_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-128-p3s3w49">
 <src.rf>manual</src.rf>
@@ -1683,26 +1628,7 @@
 <LM>w#w-ln94202-128-p4s1w14</LM>
 </w.rf>
 <form>EMRC</form>
-<tag>
-<AM lemma="EMRC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="EMRC-4_:B_;m_,t_^(Responsible_Care)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EMRC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EMRC_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Emrc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Emrciální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Emrc_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Emrc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Emrc_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Emrc_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Emrc_,l" src="auto">NNIS1-----A----</AM>
-<AM lemma="Emrc" src="auto">NNMS1-----A----</AM>
-<AM lemma="emrc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="EMRC_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-128-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1918,18 +1844,7 @@
 <LM>w#w-ln94202-128-p4s1w41</LM>
 </w.rf>
 <form>Quality</form>
-<tag>
-<AM lemma="Quality_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Qualita" src="auto">NNFS2-----A----</AM>
-<AM lemma="Qualita" src="auto">NNFP4-----A----</AM>
-<AM lemma="Qualita" src="auto">NNFP1-----A----</AM>
-<AM lemma="Qualit" src="auto">NNIP4-----A----</AM>
-<AM lemma="Qualit" src="auto">NNIP1-----A----</AM>
-<AM lemma="Qualit" src="auto">NNIP7-----A----</AM>
-<AM lemma="Qualít" src="auto" recommended="1">VsTP---XX-AP---</AM>
-<AM lemma="Qualita_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="quality" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Quality_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-128-p4s1w42">
 <src.rf>manual</src.rf>
@@ -1945,18 +1860,7 @@
 <LM>w#w-ln94202-128-p4s1w43</LM>
 </w.rf>
 <form>Award</form>
-<tag>
-<AM lemma="Award_;m_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Award_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Award_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Award" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Award_;m_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Award_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Award" src="auto">NNMS1-----A----</AM>
-<AM lemma="Award" src="auto">NNIS4-----A----</AM>
-<AM lemma="Awarda`1000000000" src="auto">NNFP2-----A----</AM>
-<AM lemma="award" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Award_;m_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-128-p4s1w44">
 <src.rf>manual</src.rf>
@@ -2288,26 +2192,7 @@
 <LM>w#w-ln94202-128-p5s1w25</LM>
 </w.rf>
 <form>EMRC</form>
-<tag>
-<AM lemma="EMRC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="EMRC-4_:B_;m_,t_^(Responsible_Care)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EMRC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EMRC_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Emrc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Emrciální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Emrc_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Emrc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Emrc_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Emrc_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Emrc_,l" src="auto">NNIS1-----A----</AM>
-<AM lemma="Emrc" src="auto">NNMS1-----A----</AM>
-<AM lemma="emrc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="EMRC_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-128-p5s1w26">
 <src.rf>manual</src.rf>

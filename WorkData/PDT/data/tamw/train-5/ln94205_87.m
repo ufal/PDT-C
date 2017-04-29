@@ -4442,34 +4442,7 @@
 <LM>w#w-ln94205-87-p6s1w4</LM>
 </w.rf>
 <form>vnitropolský</form>
-<tag>
-<AM lemma="vnitropolský" src="orig">AAIS1----1A----</AM>
-<AM lemma="vnitropolský" src="auto">AAFP1----1A---6</AM>
-<AM lemma="vnitropolský" src="auto">AAFP4----1A---6</AM>
-<AM lemma="vnitropolský" src="auto">AAFP5----1A---6</AM>
-<AM lemma="vnitropolský" src="auto">AAFS2----1A---6</AM>
-<AM lemma="vnitropolský" src="auto">AAFS3----1A---6</AM>
-<AM lemma="vnitropolský" src="auto">AAFS6----1A---6</AM>
-<AM lemma="vnitropolský" src="auto">AAIP1----1A---6</AM>
-<AM lemma="vnitropolský" src="auto">AAIP4----1A---6</AM>
-<AM lemma="vnitropolský" src="auto">AAIP5----1A---6</AM>
-<AM lemma="vnitropolský" src="auto">AAIS1----1A----</AM>
-<AM lemma="vnitropolský" src="auto" recommended="1">AAIS4----1A----</AM>
-<AM lemma="vnitropolský" src="auto">AAIS5----1A----</AM>
-<AM lemma="vnitropolský" src="auto">AAMP1----1A---6</AM>
-<AM lemma="vnitropolský" src="auto">AAMP4----1A---6</AM>
-<AM lemma="vnitropolský" src="auto">AAMP5----1A---6</AM>
-<AM lemma="vnitropolský" src="auto">AAMS1----1A----</AM>
-<AM lemma="vnitropolský" src="auto">AAMS5----1A----</AM>
-<AM lemma="vnitropolský" src="auto">AANP1----1A---6</AM>
-<AM lemma="vnitropolský" src="auto">AANP4----1A---6</AM>
-<AM lemma="vnitropolský" src="auto">AANP5----1A---6</AM>
-<AM lemma="vnitropolský" src="auto">AANS1----1A---6</AM>
-<AM lemma="vnitropolský" src="auto">AANS4----1A---6</AM>
-<AM lemma="vnitropolský" src="auto">AANS5----1A---6</AM>
-<AM lemma="vnitropolský_;S" src="auto">AAMS1----1A----</AM>
-<AM lemma="vnitropolský_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="vnitropolský" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94205-87-p6s1w5">
 <src.rf>manual</src.rf>

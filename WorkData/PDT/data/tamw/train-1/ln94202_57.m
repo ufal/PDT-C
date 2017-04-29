@@ -1030,17 +1030,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zústavnění</form>
-<tag>
-<AM lemma="zústavnění" src="orig">NNNS4-----A----</AM>
-<AM lemma="zústavnění_^(*3it)" src="auto">NNNS4-----A----</AM>
-<AM lemma="zústavnění_^(*3it)" src="auto">NNNS2-----A----</AM>
-<AM lemma="zústavnění_^(*3it)" src="auto">NNNS1-----A----</AM>
-<AM lemma="zústavnění_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="zústavnění_^(*3it)" src="auto">NNNS6-----A----</AM>
-<AM lemma="zústavnění_^(*2t)" src="auto">NNNS2-----A----</AM>
-<AM lemma="zústavnění_^(*2t)" src="auto" recommended="1">NNNS4-----A----</AM>
-<AM lemma="zústavnění_^(*2t)" src="auto">NNNS1-----A----</AM>
-</tag>
+<tag lemma="zústavnění" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94202-57-p3s4w21">
 <src.rf>manual</src.rf>

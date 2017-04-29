@@ -1338,13 +1338,7 @@
 <LM>w#w-ln95045-073-p4s1w13</LM>
 </w.rf>
 <form>Petrosi</form>
-<tag>
-<AM lemma="Petros_;Y" src="orig">NNMS6-----A----</AM>
-<AM lemma="Petros" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Petros_;Y" src="auto" recommended="1">NNMS6-----A----</AM>
-<AM lemma="Petrosi_;m_,t" src="auto">Db-------------</AM>
-<AM lemma="petrosi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Petros_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln95045-073-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1352,17 +1346,7 @@
 <LM>w#w-ln95045-073-p4s1w14</LM>
 </w.rf>
 <form>Alexandridisovi</form>
-<tag>
-<AM lemma="Alexandridisov_;S" src="orig">NNMS6-----A----</AM>
-<AM lemma="Alexandridis_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Alexandridis" src="auto">NNMS3-----A----</AM>
-<AM lemma="Alexandridis_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Alexandridisa_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Alexandridis_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Alexandridis" src="auto" recommended="1">NNMS6-----A----</AM>
-<AM lemma="Alexandridisův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="alexandridisovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Alexandridisov_;S" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln95045-073-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1492,18 +1476,7 @@
 <LM>w#w-ln95045-073-p4s2w7</LM>
 </w.rf>
 <form>Alexandridis</form>
-<tag>
-<AM lemma="Alexandridisov_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Addis_;G_,t_^(Alexandridis_Abeba)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Alexandridisov_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Alexandridis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alexandridis_;L_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Alexandridis_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Alexandridis_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Alexandridis-2_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Alexandridis" src="auto">NNIS1-----A----</AM>
-<AM lemma="alexandridis" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Alexandridisov_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-073-p4s2w8">
 <src.rf>manual</src.rf>

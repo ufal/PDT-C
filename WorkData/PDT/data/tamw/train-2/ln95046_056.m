@@ -75,17 +75,7 @@
 <LM>w#w-ln95046-056-p1s1w8</LM>
 </w.rf>
 <form>vampírského</form>
-<tag>
-<AM lemma="vampírský" src="orig">AAIS2----1A----</AM>
-<AM lemma="vampírský" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="vampírský" src="auto">AANS2----1A----</AM>
-<AM lemma="vampírský" src="auto">AAMS2----1A----</AM>
-<AM lemma="vampírský" src="auto">AAMS4----1A----</AM>
-<AM lemma="vampírský_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="vampírský_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="vampírský_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="vampírský_^(*3it)" src="auto">AAIS2----1A----</AM>
-</tag>
+<tag lemma="vampírský" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln95046-056-p1s1w9">
 <src.rf>manual</src.rf>
@@ -1055,18 +1045,7 @@
 <LM>w#w-ln95046-056-p3s1w48</LM>
 </w.rf>
 <form>Mission</form>
-<tag>
-<AM lemma="mission_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Mission_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Mission_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Mission_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Mission_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mission" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mission_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Missión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Missión" src="auto">NNIS1-----A----</AM>
-<AM lemma="mission" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="mission_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95046-056-p3s1w49">
 <src.rf>manual</src.rf>
@@ -1074,18 +1053,7 @@
 <LM>w#w-ln95046-056-p3s1w49</LM>
 </w.rf>
 <form>Impossible</form>
-<tag>
-<AM lemma="impossible_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Impossible_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Impossible_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Impossible_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="bubble-1_;c_,t_^(Impossible-jet)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Gamble-1_;K_,t_^(angl.;_firma_Procter_and_Impossible)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Impossibl" src="auto">NNIP1-----A----</AM>
-<AM lemma="Impossible_;m" src="auto">NNNXX-----A----</AM>
-<AM lemma="Impossible_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="impossible" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="impossible_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95046-056-p3s1w50">
 <src.rf>manual</src.rf>

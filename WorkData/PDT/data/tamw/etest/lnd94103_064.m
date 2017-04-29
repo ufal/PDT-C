@@ -6044,16 +6044,7 @@
 <LM>w#w-lnd94103-064-p1s22w39</LM>
 </w.rf>
 <form>Steuber</form>
-<tag>
-<AM lemma="Steuber_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Steuber_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Steubra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Steubry_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Steubrat" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Steuber_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Steuber_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="steuber" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Steuber_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-064-p1s22w40">
 <src.rf>manual</src.rf>

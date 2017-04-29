@@ -35,14 +35,7 @@
 <LM>w#w-ln94207-72-p1s1w3</LM>
 </w.rf>
 <form>médyjí</form>
-<tag>
-<AM lemma="médyjum_,h" src="orig">NNNP2-----A----</AM>
-<AM lemma="médýt" src="auto">VB-P---3P-AA--1</AM>
-<AM lemma="médyje_;G" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="médyjí_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="médyjí_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="médyt_:T" src="auto">VB-P---3P-AA---</AM>
-</tag>
+<tag lemma="médyjum_,h" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-72-p2s1A">
@@ -2469,17 +2462,7 @@
 <LM>w#w-ln94207-72-p4s6w27</LM>
 </w.rf>
 <form>Médyja</form>
-<tag>
-<AM lemma="médyjum_,h" src="orig">NNNP1-----A----</AM>
-<AM lemma="Médyja_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Médyja_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Médyja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Médyja_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Médyja_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Médyja_;R" src="auto">NNFS1-----A----</AM>
-<AM lemma="Médyja_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="médyja" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="médyjum_,h" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-ln94207-72-p4s6w28">
 <src.rf>manual</src.rf>
@@ -2563,17 +2546,7 @@
 <LM>w#w-ln94207-72-p4s6w38</LM>
 </w.rf>
 <form>imyž</form>
-<tag>
-<AM lemma="imyž_,h" src="orig">NNIS4-----A----</AM>
-<AM lemma="imyž_,t" src="auto">J,-------------</AM>
-<AM lemma="imyž" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="imyž" src="auto">J,-------------</AM>
-<AM lemma="imyž" src="auto">NNFS1-----A----</AM>
-<AM lemma="imyž" src="auto">Db-------------</AM>
-<AM lemma="imyž_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="imyž_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="imyž-1" src="auto">Db-------------</AM>
-</tag>
+<tag lemma="imyž_,h" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94207-72-p4s6w39">
 <src.rf>manual</src.rf>
@@ -2969,17 +2942,7 @@
 <LM>w#w-ln94207-72-p4s8w14</LM>
 </w.rf>
 <form>Žakrusó</form>
-<tag>
-<AM lemma="Žakrusó_;S_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="Žakrusó_;S" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Žakrusó_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Žakrusó-1" src="auto">II-------------</AM>
-<AM lemma="Žakrusó_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Žakrusó_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Žakrusó_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Žakrusó" src="auto">II-------------</AM>
-<AM lemma="žakrusó" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Žakrusó_;S_,t" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-72-p4s8w15">
 <src.rf>manual</src.rf>

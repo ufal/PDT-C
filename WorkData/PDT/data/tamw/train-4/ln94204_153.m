@@ -207,18 +207,7 @@
 <LM>w#w-ln94204-153-p2s2w6</LM>
 </w.rf>
 <form>Republic</form>
-<tag>
-<AM lemma="Republic_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Republice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Republic_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Republice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Republic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Republíce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Republic_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Republic_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Republic_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="republic" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Republic_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-153-p2s2w7">
 <src.rf>manual</src.rf>
@@ -226,18 +215,7 @@
 <LM>w#w-ln94204-153-p2s2w7</LM>
 </w.rf>
 <form>Fund</form>
-<tag>
-<AM lemma="Fund_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Fund_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fund_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fund_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Fund_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Fund" src="auto">NNIS4-----A----</AM>
-<AM lemma="Funda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Fund_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Fund_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="fund" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fund_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94204-153-p2s2w8">
 <src.rf>manual</src.rf>
@@ -479,18 +457,7 @@
 <LM>w#w-ln94204-153-p4s1w1</LM>
 </w.rf>
 <form>Spolchemia</form>
-<tag>
-<AM lemma="Spolchemia_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Spolchemium" src="auto">NNNS2-----A----</AM>
-<AM lemma="Spolchemia_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Spolchemia_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Spolchemia_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Spolchemia_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Spolchemia_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Spolchemia-1_;K_^(české_akad._nakladatelství)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Spolchemium" src="auto">NNNP4-----A----</AM>
-<AM lemma="spolchemia" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Spolchemia_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-153-p4s1w2">
 <src.rf>manual</src.rf>

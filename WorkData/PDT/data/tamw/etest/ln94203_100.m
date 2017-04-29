@@ -1503,18 +1503,7 @@
 <LM>w#w-ln94203-100-p3s2w29</LM>
 </w.rf>
 <form>Whitnail</form>
-<tag>
-<AM lemma="Whitnail_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Whitnail" src="auto">NNIS1-----A----</AM>
-<AM lemma="Whitnail_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Whitnail_;R_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Whitnail_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Whitnail_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Whitnail_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Whitnail" src="auto">NNIS4-----A----</AM>
-<AM lemma="Whitnait_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="whitnail" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Whitnail_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-100-p3s2w30">
 <src.rf>manual</src.rf>

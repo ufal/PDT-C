@@ -267,17 +267,7 @@
 <LM>w#w-ln94202-31-p2s1Bw18</LM>
 </w.rf>
 <form>Unica</form>
-<tag>
-<AM lemma="Unica_;m_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Unica_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Unica_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Unica_;m_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Unica_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Unica_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Unica_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Unica_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="unica" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Unica_;m_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-31-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -763,18 +753,7 @@
 <LM>w#w-ln94202-31-p3s2w7</LM>
 </w.rf>
 <form>Dansy</form>
-<tag>
-<AM lemma="Dansa_;Y" src="orig">NNFS2-----A----</AM>
-<AM lemma="Dansa_;Y" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Dansa_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Dansy_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Dansy" src="auto">NNIP4-----A----</AM>
-<AM lemma="Dans" src="auto">NNIP1-----A----</AM>
-<AM lemma="Dans" src="auto">NNIP4-----A----</AM>
-<AM lemma="Dans" src="auto">NNIP7-----A----</AM>
-<AM lemma="Dansa" src="auto">NNFS2-----A----</AM>
-<AM lemma="dansy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dansa_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-31-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1056,18 +1035,7 @@
 <LM>w#w-ln94202-31-p3s3w12</LM>
 </w.rf>
 <form>Falle</form>
-<tag>
-<AM lemma="Falle_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Falle_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Falle_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Falle_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Falle_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fallo_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Falla_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Fall_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Falle_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="falle" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Falle_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-31-p3s3w13">
 <src.rf>manual</src.rf>

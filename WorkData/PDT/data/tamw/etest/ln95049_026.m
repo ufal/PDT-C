@@ -27,17 +27,7 @@
 <LM>w#w-ln95049-026-p1s1w2</LM>
 </w.rf>
 <form>řej</form>
-<tag>
-<AM lemma="řej-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="řej_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="řej-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="řý" src="auto">AAMS1----1A---6</AM>
-<AM lemma="řej" src="auto">NNIS1-----A----</AM>
-<AM lemma="řý" src="auto">AAIS1----1A---6</AM>
-<AM lemma="řej_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="řej" src="auto">NNIS4-----A----</AM>
-<AM lemma="řat_:T" src="auto">Vi-S---2--A----</AM>
-</tag>
+<tag lemma="řej-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95049-026-p1s1w3">
 <src.rf>manual</src.rf>
@@ -3532,17 +3522,7 @@
 <LM>w#w-ln95049-026-p5s6w15</LM>
 </w.rf>
 <form>Kiwomya</form>
-<tag>
-<AM lemma="Kiwomya_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kiwomya_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kiwomya_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kiwomya_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kiwomyo_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Kiwomya_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kiwomya" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kiwomy_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="kiwomya" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kiwomya_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-026-p5s6w16">
 <src.rf>manual</src.rf>
@@ -3706,18 +3686,7 @@
 <LM>w#w-ln95049-026-p6s1w19</LM>
 </w.rf>
 <form>Beguiristaina</form>
-<tag>
-<AM lemma="Beguiristain_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Beguiristaina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Beguiristain_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Beguiristaina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Beguiristain_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Beguiristaina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Beguiristaina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Beguiristain_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Beguiristaina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="beguiristaina" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Beguiristain_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-026-p6s1w20">
 <src.rf>manual</src.rf>

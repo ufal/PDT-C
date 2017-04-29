@@ -363,18 +363,7 @@
 <LM>w#w-ln94211-89-p2s2w24</LM>
 </w.rf>
 <form>Ricupero</form>
-<tag>
-<AM lemma="Ricupero_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ricupero" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ricupero_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ricupero_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ricupero_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ricupero" src="auto">NNNS4-----A----</AM>
-<AM lemma="Ricupero_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Ricupero_;R_^(Mitsubishi_P.,_terénní_vozidlo)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ricupero_;K_^(letecká_továrna)" src="auto">NNNS4-----A----</AM>
-<AM lemma="ricupero" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ricupero_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-89-p2s2w25">
 <src.rf>manual</src.rf>
@@ -767,17 +756,7 @@
 <LM>w#w-ln94211-89-p2s6w1</LM>
 </w.rf>
 <form>Ricuperovi</form>
-<tag>
-<AM lemma="Ricupero_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Ricuper_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Ricuper" src="auto">NNMS3-----A----</AM>
-<AM lemma="Ricuper_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Ricupera_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Ricuper_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Ricuper" src="auto">NNMS6-----A----</AM>
-<AM lemma="Ricuperův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="ricuperovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ricupero_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94211-89-p2s6w2">
 <src.rf>manual</src.rf>
@@ -991,18 +970,7 @@
 <LM>w#w-ln94211-89-p3s1w14</LM>
 </w.rf>
 <form>Henriqua</form>
-<tag>
-<AM lemma="Henrique_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Henrique_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Henriqua_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Henriqua_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Henriqua_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Henriqua_,t_^(voda)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Henriqu_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Henriqu_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Henriquum" src="auto">NNNS2-----A----</AM>
-<AM lemma="henriqua" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Henrique_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-89-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1384,18 +1352,7 @@
 <LM>w#w-ln94211-89-p4s1w1</LM>
 </w.rf>
 <form>Ricupero</form>
-<tag>
-<AM lemma="Ricupero_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ricupero" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Ricupero_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ricupero_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ricupero_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ricupero" src="auto">NNNS4-----A----</AM>
-<AM lemma="Ricupero_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Ricupero_;R_^(Mitsubishi_P.,_terénní_vozidlo)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ricupero_;K_^(letecká_továrna)" src="auto">NNNS4-----A----</AM>
-<AM lemma="ricupero" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ricupero_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-89-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2593,18 +2550,7 @@
 <LM>w#w-ln94211-89-p5s4w1</LM>
 </w.rf>
 <form>Ricupero</form>
-<tag>
-<AM lemma="Ricupero_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ricupero" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ricupero_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ricupero_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ricupero_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ricupero" src="auto">NNNS4-----A----</AM>
-<AM lemma="Ricupero_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Ricupero_;R_^(Mitsubishi_P.,_terénní_vozidlo)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ricupero_;K_^(letecká_továrna)" src="auto">NNNS4-----A----</AM>
-<AM lemma="ricupero" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ricupero_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-89-p5s4w2">
 <src.rf>manual</src.rf>
@@ -3177,19 +3123,7 @@
 <LM>w#w-ln94211-89-p6s1w8</LM>
 </w.rf>
 <form>Itamar</form>
-<tag>
-<AM lemma="Itamar_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Itamar_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="Itamar_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Itamar_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Itamar_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Itamar_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Itamar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Itamar_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Itamar_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="iTamara-2_;R_^(radiolokátor)" src="auto">NNFP2-----A----</AM>
-<AM lemma="itamar" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Itamar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-89-p6s1w9">
 <src.rf>manual</src.rf>
@@ -3383,17 +3317,7 @@
 <LM>w#w-ln94211-89-p6s2w10</LM>
 </w.rf>
 <form>Ricuperovou</form>
-<tag>
-<AM lemma="Ricuperův_;S_^(*2o)" src="orig">AUFS7M---------</AM>
-<AM lemma="Ricuperový" src="auto">AAFS4----1A----</AM>
-<AM lemma="Ricuperový" src="auto">AAFS7----1A----</AM>
-<AM lemma="Ricuperová_;S" src="auto">NNFS7-----A----</AM>
-<AM lemma="Ricuperová_;S" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ricuperova" src="auto">NNFS7-----A----</AM>
-<AM lemma="Ricuperův_;S_^(*2)" src="auto" recommended="1">AUFS7M---------</AM>
-<AM lemma="Ricuperova_;G" src="auto">NNFS7-----A----</AM>
-<AM lemma="ricuperovou" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ricuperův_;S_^(*2o)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-ln94211-89-p6s2w11">
 <src.rf>manual</src.rf>
@@ -4168,17 +4092,7 @@
 <LM>w#w-ln94211-89-p8s3w2</LM>
 </w.rf>
 <form>Cardosu</form>
-<tag>
-<AM lemma="Cardoso_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Cardos" src="auto">NNIS2-----A----</AM>
-<AM lemma="Cardos_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Cardos" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Cardos" src="auto">NNIS6-----A----</AM>
-<AM lemma="Cardos" src="auto">NNIS3-----A----</AM>
-<AM lemma="Cardos_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Cardosa" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="cardosu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cardoso_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94211-89-p8s3w3">
 <src.rf>manual</src.rf>
@@ -5067,18 +4981,7 @@
 <LM>w#w-ln94211-89-p9s1w2</LM>
 </w.rf>
 <form>Ricupero</form>
-<tag>
-<AM lemma="Ricupero_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ricupero" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ricupero_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ricupero_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ricupero_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ricupero" src="auto">NNNS4-----A----</AM>
-<AM lemma="Ricupero_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Ricupero_;R_^(Mitsubishi_P.,_terénní_vozidlo)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ricupero_;K_^(letecká_továrna)" src="auto">NNNS4-----A----</AM>
-<AM lemma="ricupero" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ricupero_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-89-p9s1w3">
 <src.rf>manual</src.rf>

@@ -149,18 +149,7 @@
 <LM>w#w-ln94207-75-p2s1Aw14</LM>
 </w.rf>
 <form>English</form>
-<tag>
-<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="English_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
-<AM lemma="English_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="English_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="English_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="English_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="English_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="english" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="English_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-75-p2s1Aw15">
 <src.rf>manual</src.rf>
@@ -1392,18 +1381,7 @@
 <LM>w#w-ln94207-75-p4s1w36</LM>
 </w.rf>
 <form>English</form>
-<tag>
-<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="English_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
-<AM lemma="English_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="English_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="English_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="English_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="English_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="english" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="English_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-75-p4s1w37">
 <src.rf>manual</src.rf>
@@ -2517,18 +2495,7 @@
 <LM>w#w-ln94207-75-p7s4w3</LM>
 </w.rf>
 <form>English</form>
-<tag>
-<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="English_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
-<AM lemma="English_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="English_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="English_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="English_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="English_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="english" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="English_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-75-p7s4w4">
 <src.rf>manual</src.rf>
@@ -3092,18 +3059,7 @@
 <LM>w#w-ln94207-75-p8s2w7</LM>
 </w.rf>
 <form>English</form>
-<tag>
-<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="English_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
-<AM lemma="English_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="English_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="English_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="English_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="English_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="english" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="English_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-75-p8s2w8">
 <src.rf>manual</src.rf>
@@ -5233,18 +5189,7 @@
 <LM>w#w-ln94207-75-p10s1w15</LM>
 </w.rf>
 <form>English</form>
-<tag>
-<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="English_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
-<AM lemma="English_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="English_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="English_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="English_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="English_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="english" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="English_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-75-p10s1w16">
 <src.rf>manual</src.rf>
@@ -5736,18 +5681,7 @@
 <LM>w#w-ln94207-75-p11s1w5</LM>
 </w.rf>
 <form>English</form>
-<tag>
-<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="English_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
-<AM lemma="English_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="English_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="English_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="English_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="English_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="english" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="English_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-75-p11s1w6">
 <src.rf>manual</src.rf>
@@ -6145,19 +6079,7 @@
 <LM>w#w-ln94207-75-p11s4w14</LM>
 </w.rf>
 <form>IGSCE</form>
-<tag>
-<AM lemma="IGSCE_:B_;m" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IGSCE_:B_;m" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Igska" src="auto">NNFS6-----A----</AM>
-<AM lemma="Igska_;R_,h" src="auto">NNFS6-----A----</AM>
-<AM lemma="Igska_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Igska" src="auto">NNFS3-----A----</AM>
-<AM lemma="Igsec_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Igsec" src="auto">NNMS4-----A----</AM>
-<AM lemma="Igsec" src="auto">NNMS2-----A----</AM>
-<AM lemma="Igsec" src="auto">NNIP4-----A----</AM>
-<AM lemma="igsce" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="IGSCE_:B_;m" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94207-75-p11s4w15">
 <src.rf>manual</src.rf>
@@ -6185,18 +6107,7 @@
 <LM>w#w-ln94207-75-p11s4w17</LM>
 </w.rf>
 <form>Certificate</form>
-<tag>
-<AM lemma="Certificate_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Certificate_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Certificate_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Certificate_;m_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Certificate_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Certificate_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Certificást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Certificate_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Certificate_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="certificate" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Certificate_;m_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94207-75-p11s4w18">
 <src.rf>manual</src.rf>
@@ -6212,18 +6123,7 @@
 <LM>w#w-ln94207-75-p11s4w19</LM>
 </w.rf>
 <form>Secondary</form>
-<tag>
-<AM lemma="Secondary_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Secondar" src="auto">NNIP1-----A----</AM>
-<AM lemma="Secondar" src="auto">NNIP4-----A----</AM>
-<AM lemma="Secondar" src="auto">NNIP7-----A----</AM>
-<AM lemma="Secondara_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Secondara" src="auto">NNFS2-----A----</AM>
-<AM lemma="Secondary_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Secondar_;E" src="auto">NNMP7-----A----</AM>
-<AM lemma="Secondar_;E" src="auto">NNMP4-----A----</AM>
-<AM lemma="secondary" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Secondary_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-75-p11s4w20">
 <src.rf>manual</src.rf>
@@ -6231,18 +6131,7 @@
 <LM>w#w-ln94207-75-p11s4w20</LM>
 </w.rf>
 <form>Education</form>
-<tag>
-<AM lemma="Education_;m_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Education_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Education_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Education_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Education_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Education" src="auto">NNIS1-----A----</AM>
-<AM lemma="Education_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Educatión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Educatión" src="auto">NNIS1-----A----</AM>
-<AM lemma="education" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Education_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94207-75-p11s4w21">
 <src.rf>manual</src.rf>
@@ -6352,18 +6241,7 @@
 <LM>w#w-ln94207-75-p11s5w11</LM>
 </w.rf>
 <form>Baccalaureate</form>
-<tag>
-<AM lemma="Baccalaureate_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Baccalaureate_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Baccalaureate_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Baccalaureate_;m_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Baccalaureate_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Baccalaureate_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Baccalaureást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Baccalaureate_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Baccalaureate_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="baccalaureate" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Baccalaureate_;m_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94207-75-p11s5w12">
 <src.rf>manual</src.rf>
@@ -6613,18 +6491,7 @@
 <LM>w#w-ln94207-75-p11s6w14</LM>
 </w.rf>
 <form>English</form>
-<tag>
-<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="English_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
-<AM lemma="English_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="English_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="English_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="English_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="English_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="english" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="English_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-75-p11s6w15">
 <src.rf>manual</src.rf>
@@ -6937,19 +6804,7 @@
 <LM>w#w-ln94207-75-p12s2w10</LM>
 </w.rf>
 <form>IGSCE</form>
-<tag>
-<AM lemma="IGSCE_:B_;m" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IGSCE_:B_;m" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Igska" src="auto">NNFS6-----A----</AM>
-<AM lemma="Igska_;R_,h" src="auto">NNFS6-----A----</AM>
-<AM lemma="Igska_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Igska" src="auto">NNFS3-----A----</AM>
-<AM lemma="Igsec_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Igsec" src="auto">NNMS4-----A----</AM>
-<AM lemma="Igsec" src="auto">NNMS2-----A----</AM>
-<AM lemma="Igsec" src="auto">NNIP4-----A----</AM>
-<AM lemma="igsce" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="IGSCE_:B_;m" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94207-75-p12s2w11">
 <src.rf>manual</src.rf>
@@ -8675,17 +8530,7 @@
 <LM>w#w-ln94207-75-p13s14w20</LM>
 </w.rf>
 <form>Geelong</form>
-<tag>
-<AM lemma="Geelong_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Geelong_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Geelong_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Geelong_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Geelong-2_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Geelong" src="auto">NNIS1-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-Geelong)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Long-1_;G_,t_^(Geelong_Island_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="geelong" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Geelong_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-75-p13s14w21">
 <src.rf>manual</src.rf>
@@ -8693,18 +8538,7 @@
 <LM>w#w-ln94207-75-p13s14w21</LM>
 </w.rf>
 <form>Grammar</form>
-<tag>
-<AM lemma="Grammar_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Grammar_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Grammar_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Grammar_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Grammar_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Grammar_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Grammar_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Grammar_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Grammar_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="grammar" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Grammar_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-75-p13s14w22">
 <src.rf>manual</src.rf>
@@ -8712,18 +8546,7 @@
 <LM>w#w-ln94207-75-p13s14w22</LM>
 </w.rf>
 <form>School</form>
-<tag>
-<AM lemma="School_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="School_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="School_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="School_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="School_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="School-2_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="School" src="auto">NNIS4-----A----</AM>
-<AM lemma="School_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="School" src="auto">NNIS1-----A----</AM>
-<AM lemma="school" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="School_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94207-75-p13s14w23">
 <src.rf>manual</src.rf>
@@ -8985,18 +8808,7 @@
 <LM>w#w-ln94207-75-p13s16Bw15</LM>
 </w.rf>
 <form>English</form>
-<tag>
-<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="English_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
-<AM lemma="English_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="English_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="English_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="English_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="English_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="english" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="English_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-75-p13s16Bw16">
 <src.rf>manual</src.rf>

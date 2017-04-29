@@ -125,14 +125,7 @@
 <LM>w#w-cmpr9413-037-p3s1Aw8</LM>
 </w.rf>
 <form>Yo</form>
-<tag>
-<AM lemma="Yo_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Yo_;K" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="yo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="yo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="yo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="yo" src="auto">NNNS1-----A----</AM>
-</tag>
+<tag lemma="Yo_;K" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9413-037-p3s1Aw9">
 <src.rf>manual</src.rf>
@@ -140,14 +133,7 @@
 <LM>w#w-cmpr9413-037-p3s1Aw9</LM>
 </w.rf>
 <form>Yo</form>
-<tag>
-<AM lemma="Yo_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Yo_;K" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="yo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="yo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="yo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="yo" src="auto">NNNS1-----A----</AM>
-</tag>
+<tag lemma="Yo_;K" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9413-037-p3s1Aw10">
 <src.rf>manual</src.rf>

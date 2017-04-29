@@ -1142,18 +1142,7 @@
 <LM>w#w-mf930713-025-p2s7w11</LM>
 </w.rf>
 <form>Tigelen</form>
-<tag>
-<AM lemma="Tigelen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tigelit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Tigelit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Tigelna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tigelen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tigelen" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tigelet" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Tigelena" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tigelen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="tigelen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tigelen_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s7w12">
 <src.rf>manual</src.rf>
@@ -2821,15 +2810,7 @@
 <LM>w#w-mf930713-025-p2s22w10</LM>
 </w.rf>
 <form>impulzívnost</form>
-<tag>
-<AM lemma="impulzivnost" src="orig">NNFS1-----A----</AM>
-<AM lemma="impulzívnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="impulzívnost_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="impulzívnost" src="auto">NNFS4-----A----</AM>
-<AM lemma="impulzívnost" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="impulzívnost" src="auto">NNIS4-----A----</AM>
-<AM lemma="impulzívnost_,a_^(*3ý)" src="auto">NNFS4-----A----</AM>
-</tag>
+<tag lemma="impulzivnost" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s22w11">
 <src.rf>manual</src.rf>

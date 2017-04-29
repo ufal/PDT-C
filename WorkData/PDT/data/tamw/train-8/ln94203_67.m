@@ -297,18 +297,7 @@
 <LM>w#w-ln94203-67-p3s1w8</LM>
 </w.rf>
 <form>Lisičanskem</form>
-<tag>
-<AM lemma="Lisičansk_;G" src="orig">NNIS7-----A----</AM>
-<AM lemma="Lisičansk" src="auto">NNIS7-----A----</AM>
-<AM lemma="Lisičansek" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="Lisičansk" src="auto">NNMS7-----A----</AM>
-<AM lemma="Lisičansk_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Lisičansek_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Lisičansko_;G" src="auto">NNNS7-----A----</AM>
-<AM lemma="Lisičansko" src="auto">NNNS7-----A----</AM>
-<AM lemma="Lisičansek" src="auto">NNMS7-----A----</AM>
-<AM lemma="lisičanskem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lisičansk_;G" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94203-67-p3s1w9">
 <src.rf>manual</src.rf>
@@ -438,18 +427,7 @@
 <LM>w#w-ln94203-67-p3s2Aw7</LM>
 </w.rf>
 <form>Transněfť</form>
-<tag>
-<AM lemma="Transněfť_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Transněfť_;K_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Transněftě" src="auto">NNNP2-----A----</AM>
-<AM lemma="Transněfť" src="auto">NNFS4-----A----</AM>
-<AM lemma="Transněfť" src="auto">NNFS1-----A----</AM>
-<AM lemma="Transněfť_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Transněfť_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Transněfť-1" src="auto">Db-------------</AM>
-<AM lemma="Transněfť" src="auto">NNMS1-----A----</AM>
-<AM lemma="transněfť" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Transněfť_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-67-p3s2Aw8">
 <src.rf>manual</src.rf>
@@ -1534,18 +1512,7 @@
 <LM>w#w-ln94203-67-p5s2w13</LM>
 </w.rf>
 <form>Algabid</form>
-<tag>
-<AM lemma="Algabid_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Algabid_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Algabid" src="auto">NNIS1-----A----</AM>
-<AM lemma="Algabid" src="auto">NNIS4-----A----</AM>
-<AM lemma="Algabid_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Algabid_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Algabid_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Algabid_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="id-2_^(Algabid-)" src="auto">NNNXX-----A----</AM>
-<AM lemma="algabid" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Algabid_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-67-p5s2w14">
 <src.rf>manual</src.rf>

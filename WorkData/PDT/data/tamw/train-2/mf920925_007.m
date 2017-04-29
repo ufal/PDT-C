@@ -35,25 +35,7 @@
 <LM>w#w-mf920925-007-p1s1w3</LM>
 </w.rf>
 <form>FSÚ</form>
-<tag>
-<AM lemma="FSÚ_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FSÚ_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="FSÚ_:B_;K_^(Český_statistický_úřad)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="FSÚ_:B_;K_,t_^(slovenská_strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FSÚ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FSÚ_:B_;K_^(Nár._kontrolní_úřad)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="FSÚ_:B_;K_^(Nár._kontrolní_úřad)" src="auto">NNIXX-----A----</AM>
-<AM lemma="FSÚ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FSÚ-1_:B_^(školský_úřad)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Džammú_;G_^(Fsú_a_Kašmír;_svazový_stát_v_Indii)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Fsý-2_,t_^(slov.)" src="auto">AAFS4----1A----</AM>
-<AM lemma="Fsý-2_,t" src="auto">AAFS4----1A----</AM>
-<AM lemma="Fsá_;G_,t" src="auto">AAFS4----1A----</AM>
-<AM lemma="Fsúčet_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Fsú_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fsú_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="fsú" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FSÚ_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 </s>
 <s id="m-mf920925-007-p2s1">
@@ -518,15 +500,7 @@
 <LM>w#w-mf920925-007-p4s1w2</LM>
 </w.rf>
 <form>jš</form>
-<tag>
-<AM lemma="jš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jš_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jš-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jš_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jš" src="auto">NNIS1-----A----</AM>
-<AM lemma="jš" src="auto">NNFS4-----A----</AM>
-<AM lemma="jš" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="jš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920925-007-p4s1w3">
 <src.rf>manual</src.rf>

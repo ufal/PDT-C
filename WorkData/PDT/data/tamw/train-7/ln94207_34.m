@@ -506,18 +506,7 @@
 <LM>w#w-ln94207-34-p3s1w9</LM>
 </w.rf>
 <form>Tocké</form>
-<tag>
-<AM lemma="Tocký_;G_;K" src="orig">AAFS6----1A----</AM>
-<AM lemma="Tocký" src="auto">AAFS2----1A----</AM>
-<AM lemma="Tocký" src="auto">AANS1----1A----</AM>
-<AM lemma="Tocký" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="Tocký" src="auto">AAFP1----1A----</AM>
-<AM lemma="Tocký" src="auto">AAIP1----1A----</AM>
-<AM lemma="Tocký" src="auto">AAIP4----1A----</AM>
-<AM lemma="Tocký" src="auto">AAFP4----1A----</AM>
-<AM lemma="Tocký" src="auto">AANS4----1A----</AM>
-<AM lemma="tocké" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tocký_;G_;K" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94207-34-p3s1w10">
 <src.rf>manual</src.rf>

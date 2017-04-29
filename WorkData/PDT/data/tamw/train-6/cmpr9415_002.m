@@ -1157,15 +1157,7 @@
 <LM>w#w-cmpr9415-002-p8s4w7</LM>
 </w.rf>
 <form>Kaizen</form>
-<tag>
-<AM lemma="Kaizen" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kaidit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Kaidit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Kaizit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Kaizet_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Kaizen" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="kaizen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kaizen" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p8s4w8">
 <src.rf>manual</src.rf>
@@ -2269,15 +2261,7 @@
 <LM>w#w-cmpr9415-002-p11s1w2</LM>
 </w.rf>
 <form>Kaizen</form>
-<tag>
-<AM lemma="Kaizen" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kaidit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Kaidit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Kaizit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Kaizet_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Kaizen" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="kaizen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kaizen" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p11s1w3">
 <src.rf>manual</src.rf>
@@ -4236,15 +4220,7 @@
 <LM>w#w-cmpr9415-002-p13s2w6</LM>
 </w.rf>
 <form>Kaizen</form>
-<tag>
-<AM lemma="Kaizen" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kaidit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Kaidit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Kaizit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Kaizet_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Kaizen" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="kaizen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kaizen" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p13s2w7">
 <src.rf>manual</src.rf>
@@ -6192,18 +6168,7 @@
 <LM>w#w-cmpr9415-002-p18s2w18</LM>
 </w.rf>
 <form>Mazareanu</form>
-<tag>
-<AM lemma="Mazareanu_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="Mazareana" src="auto">NNFS4-----A----</AM>
-<AM lemma="Mazarean_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Mazarean" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Mazarean_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Mazarean_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Mazareana_;Y" src="auto">NNFS4-----A----</AM>
-<AM lemma="Mazareano_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Mazarean_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="mazareanu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mazareanu_;S" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p18s2w19">
 <src.rf>manual</src.rf>
@@ -7365,18 +7330,7 @@
 <LM>w#w-cmpr9415-002-p19s3w14</LM>
 </w.rf>
 <form>Mazareanu</form>
-<tag>
-<AM lemma="Mazareanu_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="Mazareana" src="auto">NNFS4-----A----</AM>
-<AM lemma="Mazarean_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Mazarean" src="auto">NNIS2-----A----</AM>
-<AM lemma="Mazarean_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Mazarean_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Mazareana_;Y" src="auto">NNFS4-----A----</AM>
-<AM lemma="Mazareano_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Mazarean_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="mazareanu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mazareanu_;S" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p19s3w15">
 <src.rf>manual</src.rf>

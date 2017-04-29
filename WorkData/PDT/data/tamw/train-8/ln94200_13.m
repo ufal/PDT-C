@@ -579,17 +579,7 @@
 <LM>w#w-ln94200-13-p2s4w2</LM>
 </w.rf>
 <form>ář</form>
-<tag>
-<AM lemma="ář-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ář" src="auto">NNMS1-----A----</AM>
-<AM lemma="ář" src="auto">NNIS1-----A----</AM>
-<AM lemma="ář" src="auto">NNIS4-----A----</AM>
-<AM lemma="ář_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ář" src="auto">NNFS4-----A----</AM>
-<AM lemma="ář" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="ář_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="ář_,l" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ář-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-13-p2s4w3">
 <src.rf>manual</src.rf>

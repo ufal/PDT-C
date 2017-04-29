@@ -417,18 +417,7 @@
 <LM>w#w-mf920922-041-p2s3w11</LM>
 </w.rf>
 <form>Wachsmutha</form>
-<tag>
-<AM lemma="Wachsmuth_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Wachsmuth_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Wachsmuth_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Wachsmutha_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Wachsmuth_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Wachsmuth" src="auto">NNMS2-----A----</AM>
-<AM lemma="Wachsmutha_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Wachsmutha_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wachsmutha_;G_,t" src="auto">RR--X----------</AM>
-<AM lemma="wachsmutha" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Wachsmuth_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-041-p2s3w12">
 <src.rf>manual</src.rf>

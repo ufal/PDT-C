@@ -508,26 +508,7 @@
 <LM>w#w-ln94204-113-p2s2w18</LM>
 </w.rf>
 <form>ISTAF</form>
-<tag>
-<AM lemma="ISTAF_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ISTAF_:B_;K_;w_^(Mez._atletická_federace)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ISTAF_:B_;K_,t_^(Severoamer._fotbalová_konfederace)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ISTAF_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ISTAF-1_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ISTAF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ISTAF_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ISTAF_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="ISTAF_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Istaf" src="auto">NNMS1-----A----</AM>
-<AM lemma="Istaf" src="auto">NNIS4-----A----</AM>
-<AM lemma="Istaf" src="auto">NNIS1-----A----</AM>
-<AM lemma="Istaf-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Istaf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Istaf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Istaf_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Istaf_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="istaf" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ISTAF_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-113-p2s2w19">
 <src.rf>manual</src.rf>

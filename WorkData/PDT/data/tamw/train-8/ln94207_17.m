@@ -1442,17 +1442,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>ľudácké</form>
-<tag>
-<AM lemma="ľudácký" src="orig">AAFS2----1A----</AM>
-<AM lemma="ľudácký" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="ľudácký" src="auto">AANS1----1A----</AM>
-<AM lemma="ľudácký" src="auto">AAFS6----1A----</AM>
-<AM lemma="ľudácký" src="auto">AAFP1----1A----</AM>
-<AM lemma="ľudácký" src="auto">AAIP1----1A----</AM>
-<AM lemma="ľudácký" src="auto">AAIP4----1A----</AM>
-<AM lemma="ľudácký" src="auto">AAFP4----1A----</AM>
-<AM lemma="ľudácký" src="auto">AANS4----1A----</AM>
-</tag>
+<tag lemma="ľudácký" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94207-17-p4s3w15">
 <src.rf>manual</src.rf>
@@ -2418,17 +2408,7 @@
 <LM>w#w-ln94207-17-p6s2w11</LM>
 </w.rf>
 <form>ľudáků</form>
-<tag>
-<AM lemma="ľudák_,t" src="orig">NNMP2-----A----</AM>
-<AM lemma="ľudák" src="auto">NNMP2-----A----</AM>
-<AM lemma="ľudák" src="auto">NNIP2-----A----</AM>
-<AM lemma="ľudák_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="ľudáky" src="auto">NNIP2-----A----</AM>
-<AM lemma="ľudák_,t" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="ľudák_,l" src="auto">NNMP2-----A----</AM>
-<AM lemma="ľudák_,h" src="auto">NNMP2-----A----</AM>
-<AM lemma="ľudák-1_^(př._donský)" src="auto">NNMP2-----A----</AM>
-</tag>
+<tag lemma="ľudák_,t" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94207-17-p6s2w12">
 <src.rf>manual</src.rf>
@@ -3108,17 +3088,7 @@
 <LM>w#w-ln94207-17-p6s4w35</LM>
 </w.rf>
 <form>národniarů</form>
-<tag>
-<AM lemma="národniar_,t" src="orig">NNMP2-----A----</AM>
-<AM lemma="národniar" src="auto">NNIP2-----A----</AM>
-<AM lemma="národniar_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="národniar_;Y" src="auto">NNMP2-----A----</AM>
-<AM lemma="ha-1`národniar" src="auto">NNIP2-----A----</AM>
-<AM lemma="Vary_;G_^(Karlovy_národniary)" src="auto">NNIP2-----A---1</AM>
-<AM lemma="národniar_;b" src="auto">NNIP2-----A----</AM>
-<AM lemma="národniar_;S" src="auto">NNMP2-----A----</AM>
-<AM lemma="národniar_,t" src="auto" recommended="1">NNMP2-----A----</AM>
-</tag>
+<tag lemma="národniar_,t" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94207-17-p6s4w36">
 <src.rf>manual</src.rf>
@@ -4034,18 +4004,7 @@
 <LM>w#w-ln94207-17-p7s4w28</LM>
 </w.rf>
 <form>Justícia</form>
-<tag>
-<AM lemma="Justícia_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Justícium" src="auto">NNNS2-----A----</AM>
-<AM lemma="Justícia_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Justícium_;H" src="auto">NNNS2-----A----</AM>
-<AM lemma="Justícium" src="auto">NNNP1-----A----</AM>
-<AM lemma="Justício_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Justície_;G" src="auto">NNFS1-----A---1</AM>
-<AM lemma="Justície-1_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Justícia_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="justícia" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Justícia_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-17-p7s4w29">
 <src.rf>manual</src.rf>

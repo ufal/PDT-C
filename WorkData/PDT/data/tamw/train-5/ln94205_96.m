@@ -637,18 +637,7 @@
 <LM>w#w-ln94205-96-p2s3w20</LM>
 </w.rf>
 <form>Theater</form>
-<tag>
-<AM lemma="Theater_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Theater_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Theater_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Theater_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Theater" src="auto">NNIS1-----A----</AM>
-<AM lemma="Theatro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Theater_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Theater" src="auto">NNIS4-----A----</AM>
-<AM lemma="Theatrum" src="auto">NNNP2-----A----</AM>
-<AM lemma="theater" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Theater_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94205-96-p2s3w21">
 <src.rf>manual</src.rf>

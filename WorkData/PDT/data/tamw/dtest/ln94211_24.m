@@ -792,25 +792,7 @@
 <LM>w#w-ln94211-24-p2s4w29</LM>
 </w.rf>
 <form>Lúč</form>
-<tag>
-<AM lemma="Lúč_;R_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Lúč_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lúč_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lúč" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lúč" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lúč" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lúč_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lúč-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Lúč" src="auto">NNFS4-----A----</AM>
-<AM lemma="lúč_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="lúč_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lúč" src="auto">NNMS1-----A----</AM>
-<AM lemma="lúč" src="auto">NNIS1-----A----</AM>
-<AM lemma="lúč" src="auto">NNIS4-----A----</AM>
-<AM lemma="lúč_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="lúč-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="lúč" src="auto">NNFS4-----A----</AM>
-</tag>
+<tag lemma="Lúč_;R_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-24-p2s4w30">
 <src.rf>manual</src.rf>

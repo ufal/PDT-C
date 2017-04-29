@@ -864,30 +864,7 @@
 <LM>w#w-ln94211-127-p3s2w17</LM>
 </w.rf>
 <form>EGL</form>
-<tag>
-<AM lemma="EGL_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EGL_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="EGL-2_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EGL-2_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EGL_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EGL_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Egl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Egl" src="auto">NNIS1-----A----</AM>
-<AM lemma="Eglie_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Eglický_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Eglicky_:B" src="auto">Dg-------1A---8</AM>
-<AM lemma="Egl_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Egl_,l" src="auto">NNIS4-----A----</AM>
-<AM lemma="Egt_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="egl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="egl" src="auto">NNIS1-----A----</AM>
-<AM lemma="eglie_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="eglický_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="eglicky_:B" src="auto">Dg-------1A---8</AM>
-<AM lemma="egl_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="egl_,l" src="auto">NNIS4-----A----</AM>
-<AM lemma="egt_:W" src="auto">VpYS---XR-AA---</AM>
-</tag>
+<tag lemma="EGL_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94211-127-p3s2w18">
 <src.rf>manual</src.rf>
@@ -943,25 +920,7 @@
 <LM>w#w-ln94211-127-p3s2w24</LM>
 </w.rf>
 <form>MEB</form>
-<tag>
-<AM lemma="MEB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MEB_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="EB-2_:B_;K_^(MEB_Brokers)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="MEB-2_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MEB-2_:B_;K_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="MEB_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MEB_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MEB_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Mba" src="auto">NNFP2-----A----</AM>
-<AM lemma="Meb_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Meb" src="auto">NNIS1-----A----</AM>
-<AM lemma="Meb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Meb_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mba_^(všechny_významy)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Meby_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Mebo_,a" src="auto">J^------------2</AM>
-<AM lemma="meb" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="MEB_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94211-127-p3s2w25">
 <src.rf>manual</src.rf>

@@ -200,18 +200,7 @@
 <LM>w#w-ln94209-81-p2s1Bw18</LM>
 </w.rf>
 <form>Ťing</form>
-<tag>
-<AM lemma="Ťing_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Ťing_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ťing" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ťing_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ťing" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ťing_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ťing_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Ťing_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Ťing_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ťing" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ťing_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94209-81-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -899,17 +888,7 @@
 <LM>w#w-ln94209-81-p2s5w4</LM>
 </w.rf>
 <form>Kuo</form>
-<tag>
-<AM lemma="Kuo_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kuo_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Kuo_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kuo" src="auto">NNNS4-----A----</AM>
-<AM lemma="Kuo" src="auto">NNNS1-----A----</AM>
-<AM lemma="kuo_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="kuo_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="kuo" src="auto">NNNS4-----A----</AM>
-<AM lemma="kuo" src="auto">NNNS1-----A----</AM>
-</tag>
+<tag lemma="Kuo_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94209-81-p2s5w5">
 <src.rf>manual</src.rf>
@@ -925,17 +904,7 @@
 <LM>w#w-ln94209-81-p2s5w6</LM>
 </w.rf>
 <form>chung</form>
-<tag>
-<AM lemma="chung_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="chung_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="chung_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="chung_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="chung_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="chung_;p" src="auto">NNMS1-----A----</AM>
-<AM lemma="chung_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="chung_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="chung_;R_,t" src="auto">NNFPX-----A----</AM>
-</tag>
+<tag lemma="chung_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94209-81-p2s5w7">
 <src.rf>manual</src.rf>

@@ -114,18 +114,7 @@
 <LM>w#w-ln95049-043-p2s1Bw2</LM>
 </w.rf>
 <form>Mountain</form>
-<tag>
-<AM lemma="Mountain_;G_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Mountain_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mountain_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mountain_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mountain_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mountain_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mountain_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mountain_;G_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Mountain_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="mountain" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mountain_;G_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95049-043-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -202,18 +191,7 @@
 <LM>w#w-ln95049-043-p2s1Cw6</LM>
 </w.rf>
 <form>Mountain</form>
-<tag>
-<AM lemma="Mountain_;G_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Mountain_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mountain_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mountain_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mountain_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mountain_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mountain_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mountain_;G_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Mountain_;G_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="mountain" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mountain_;G_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95049-043-p2s1Cw7">
 <src.rf>manual</src.rf>
@@ -959,17 +937,7 @@
 <LM>w#w-ln95049-043-p4s1w4</LM>
 </w.rf>
 <form>Obersdorfu</form>
-<tag>
-<AM lemma="Obersdorf_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Obersdorf_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Obersdorf_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Obersdorf_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Obersdorf" src="auto">NNIS2-----A----</AM>
-<AM lemma="Obersdorf" src="auto">NNIS6-----A----</AM>
-<AM lemma="Obersdorf_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Obersdorfa" src="auto">NNFS4-----A----</AM>
-<AM lemma="obersdorfu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Obersdorf_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95049-043-p4s1w5">
 <src.rf>manual</src.rf>

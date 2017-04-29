@@ -503,18 +503,7 @@
 <LM>w#w-ln94204-95-p2s5w5</LM>
 </w.rf>
 <form>Hargrove</form>
-<tag>
-<AM lemma="Hargrove_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hargrvát_,n_,x" src="auto" recommended="1">VB-S---3P-AA---</AM>
-<AM lemma="Hargrov_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Hargrove_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hargrove_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Hargrove_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Hargrove_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Hargrove_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Hargrove_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="hargrove" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hargrove_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-95-p2s5w6">
 <src.rf>manual</src.rf>
@@ -745,17 +734,7 @@
 <LM>w#w-ln94204-95-p3s1w2</LM>
 </w.rf>
 <form>Turrentine</form>
-<tag>
-<AM lemma="Turrentine_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Turrentinout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Turrentine_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Turrentine_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Turrentine_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Turrentine_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Turrentine_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Turrentine_;U_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="turrentine" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Turrentine_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-95-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1399,18 +1378,7 @@
 <LM>w#w-ln94204-95-p4s1w2</LM>
 </w.rf>
 <form>Hargrove</form>
-<tag>
-<AM lemma="Hargrove_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hargrvát_,n_,x" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Hargrov_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Hargrove_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hargrove_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Hargrove_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Hargrove_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Hargrove_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Hargrove_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="hargrove" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hargrove_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-95-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1842,18 +1810,7 @@
 <LM>w#w-ln94204-95-p4s3w1</LM>
 </w.rf>
 <form>Hargrove</form>
-<tag>
-<AM lemma="Hargrove_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hargrvát_,n_,x" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Hargrov_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Hargrove_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hargrove_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Hargrove_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Hargrove_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Hargrove_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Hargrove_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="hargrove" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hargrove_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-95-p4s3w2">
 <src.rf>manual</src.rf>
@@ -2013,18 +1970,7 @@
 <LM>w#w-ln94204-95-p4s3w21</LM>
 </w.rf>
 <form>Chestnut</form>
-<tag>
-<AM lemma="Chestnut_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chestnout_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Chestnout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Chestnout_,x" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Chestnuta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Chestnut_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Chestnut" src="auto">Vf--------A----</AM>
-<AM lemma="Chestnut_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chestnut_:T" src="auto">Vf--------A----</AM>
-<AM lemma="chestnut" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chestnut_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-95-p4s3w22">
 <src.rf>manual</src.rf>
@@ -2194,18 +2140,7 @@
 <LM>w#w-ln94204-95-p5s1w12</LM>
 </w.rf>
 <form>Hargrove</form>
-<tag>
-<AM lemma="Hargrove_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hargrvát_,n_,x" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Hargrov_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Hargrove_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hargrove_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Hargrove_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Hargrove_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Hargrove_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Hargrove_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="hargrove" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hargrove_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-95-p5s1w13">
 <src.rf>manual</src.rf>
@@ -2213,18 +2148,7 @@
 <LM>w#w-ln94204-95-p5s1w13</LM>
 </w.rf>
 <form>Quintet</form>
-<tag>
-<AM lemma="Quintet_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Quintet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Quintet" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Quintet_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Quintet_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Quintet_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Quintet" src="auto">Vf--------A----</AM>
-<AM lemma="Quinteta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Quintet_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="quintet" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Quintet_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-95-p5s1w14">
 <src.rf>manual</src.rf>
@@ -2264,18 +2188,7 @@
 <LM>w#w-ln94204-95-p5s1w18</LM>
 </w.rf>
 <form>Jazztet</form>
-<tag>
-<AM lemma="Jazztet_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Jazztet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Jazztet" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Jazztet_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jazztet_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jazztet_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Jazztet" src="auto">Vf--------A----</AM>
-<AM lemma="Jazzteta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Jazztet_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jazztet" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jazztet_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-95-p5s1w19">
 <src.rf>manual</src.rf>
@@ -2472,18 +2385,7 @@
 <LM>w#w-ln94204-95-p5s2w3</LM>
 </w.rf>
 <form>Hargrove</form>
-<tag>
-<AM lemma="Hargrove_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hargrvát_,n_,x" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Hargrov_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Hargrove_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hargrove_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Hargrove_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Hargrove_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Hargrove_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Hargrove_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="hargrove" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hargrove_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-95-p5s2w4">
 <src.rf>manual</src.rf>
@@ -2523,18 +2425,7 @@
 <LM>w#w-ln94204-95-p5s2w8</LM>
 </w.rf>
 <form>Messengers</form>
-<tag>
-<AM lemma="Messenger_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Messengers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Messenger_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Messengers_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Messenger_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Messenger_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Messengers_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Messengers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Messengers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="messengers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Messenger_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94204-95-p5s2w9">
 <src.rf>manual</src.rf>
@@ -2566,17 +2457,7 @@
 <LM>w#w-ln94204-95-p5s2w12</LM>
 </w.rf>
 <form>Horace</form>
-<tag>
-<AM lemma="Horace_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Horace" src="auto">NNFS1-----A----</AM>
-<AM lemma="Horace" src="auto">NNFS2-----A----</AM>
-<AM lemma="Horace" src="auto">NNFP4-----A----</AM>
-<AM lemma="Horace" src="auto">NNFP1-----A----</AM>
-<AM lemma="Horace_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Horace_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Horace_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="horace" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Horace_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-95-p5s2w13">
 <src.rf>manual</src.rf>
@@ -2595,18 +2476,7 @@
 <LM>w#w-ln94204-95-p5s2w14</LM>
 </w.rf>
 <form>Quintet</form>
-<tag>
-<AM lemma="Quintet_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Quintet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Quintet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Quintet_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Quintet_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Quintet_:T" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="Quintet" src="auto">Vf--------A----</AM>
-<AM lemma="Quinteta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Quintet_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="quintet" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Quintet_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-95-p5s2w15">
 <src.rf>manual</src.rf>
@@ -2746,17 +2616,7 @@
 <LM>w#w-ln94204-95-p5s4w5</LM>
 </w.rf>
 <form>Down</form>
-<tag>
-<AM lemma="Down_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Down_;m_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="Down_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Down_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Down_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Down-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Down_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Down" src="auto">NNIS1-----A----</AM>
-<AM lemma="down" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Down_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-95-p5s4w6">
 <src.rf>manual</src.rf>

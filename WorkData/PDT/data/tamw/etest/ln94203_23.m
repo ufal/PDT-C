@@ -1482,18 +1482,7 @@
 <LM>w#w-ln94203-23-p4s1w13</LM>
 </w.rf>
 <form>Moulyneux</form>
-<tag>
-<AM lemma="Moulyneux_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Moulyneux_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Moulyneux_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Moulyneux_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Moulyneux_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="faux_,h_,t_^(Moulyneux_pas)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Moulyneux_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Moulyneux_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Moulyneux_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="moulyneux" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Moulyneux_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-23-p4s1w14">
 <src.rf>manual</src.rf>

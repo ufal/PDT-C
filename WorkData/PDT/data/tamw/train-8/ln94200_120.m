@@ -2367,17 +2367,7 @@
 <LM>w#w-ln94200-120-p6s3w18</LM>
 </w.rf>
 <form>Gortariho</form>
-<tag>
-<AM lemma="Gortari_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Gortari_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gortari_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Gortari_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gortari_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gortari_;m" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gortari_;S_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gortari-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="gortariho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gortari_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-120-p6s3w19">
 <src.rf>manual</src.rf>
@@ -3560,18 +3550,7 @@
 <LM>w#w-ln94200-120-p8s3w28</LM>
 </w.rf>
 <form>Cevallose</form>
-<tag>
-<AM lemma="Cevallose_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="Cevallos_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cevallos_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Cevallosa" src="auto">NNFS6-----A----</AM>
-<AM lemma="Cevallose_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cevallosa_,t" src="auto">NNFS6-----A----</AM>
-<AM lemma="Cevallosa" src="auto">NNFS3-----A----</AM>
-<AM lemma="Cevallos_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Cevallos_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="cevallose" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cevallose_;S" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94200-120-p8s3w29">
 <src.rf>manual</src.rf>
@@ -3980,18 +3959,7 @@
 <LM>w#w-ln94200-120-p9s1w9</LM>
 </w.rf>
 <form>Cuauthémoc</form>
-<tag>
-<AM lemma="Cuauthémoc_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cuauthémoc" src="auto">NNFS4-----A----</AM>
-<AM lemma="Cuauthémoc" src="auto">NNFS1-----A----</AM>
-<AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._Cuauthémoc_hezká)" src="auto">Db-------------</AM>
-<AM lemma="Cuauthémoc_^(choroba)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Cuauthémoc_^(choroba)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cuauthémoc_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cuauthémoc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto">Ca--X----------</AM>
-<AM lemma="Cuauthémoc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS4-----A----</AM>
-<AM lemma="cuauthémoc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cuauthémoc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-120-p9s1w10">
 <src.rf>manual</src.rf>
@@ -4011,18 +3979,7 @@
 <LM>w#w-ln94200-120-p9s1w11</LM>
 </w.rf>
 <form>Solórzano</form>
-<tag>
-<AM lemma="Solórzano_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Solórzano_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Solórzano_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Solórzano_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Solórzano_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Solórzano" src="auto">NNNS4-----A----</AM>
-<AM lemma="Solórzano" src="auto">NNNS1-----A----</AM>
-<AM lemma="Solórzano_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Solórzano_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="solórzano" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Solórzano_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-120-p9s1w12">
 <src.rf>manual</src.rf>
@@ -4922,18 +4879,7 @@
 <LM>w#w-ln94200-120-p10s4w9</LM>
 </w.rf>
 <form>Cuauthémoc</form>
-<tag>
-<AM lemma="Cuauthémoc_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cuauthémoc" src="auto">NNFS4-----A----</AM>
-<AM lemma="Cuauthémoc" src="auto">NNFS1-----A----</AM>
-<AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._Cuauthémoc_hezká)" src="auto">Db-------------</AM>
-<AM lemma="Cuauthémoc_^(choroba)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Cuauthémoc_^(choroba)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cuauthémoc_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cuauthémoc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto">Ca--X----------</AM>
-<AM lemma="Cuauthémoc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS4-----A----</AM>
-<AM lemma="cuauthémoc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cuauthémoc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-120-p10s4w10">
 <src.rf>manual</src.rf>
@@ -4953,18 +4899,7 @@
 <LM>w#w-ln94200-120-p10s4w11</LM>
 </w.rf>
 <form>Solórzano</form>
-<tag>
-<AM lemma="Solórzano_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Solórzano_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Solórzano_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Solórzano_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Solórzano_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Solórzano" src="auto">NNNS4-----A----</AM>
-<AM lemma="Solórzano" src="auto">NNNS1-----A----</AM>
-<AM lemma="Solórzano_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Solórzano_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="solórzano" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Solórzano_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-120-p10s4w12">
 <src.rf>manual</src.rf>

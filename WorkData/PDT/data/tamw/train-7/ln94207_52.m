@@ -523,18 +523,7 @@
 <LM>w#w-ln94207-52-p2s3w21</LM>
 </w.rf>
 <form>Radakrishnan</form>
-<tag>
-<AM lemma="Radakrishnan_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Radakrishnan_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Radakrishnan_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Radakrishnan_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Radakrishnan-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Radakrishnan" src="auto">NNMS1-----A----</AM>
-<AM lemma="Radakrishnan_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Radakrishnany_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Radakrishnan" src="auto">NNIS1-----A----</AM>
-<AM lemma="radakrishnan" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Radakrishnan_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-52-p2s3w22">
 <src.rf>manual</src.rf>
@@ -882,18 +871,7 @@
 <LM>w#w-ln94207-52-p3s2w16</LM>
 </w.rf>
 <form>Malaccou</form>
-<tag>
-<AM lemma="Malacca_;G" src="orig">NNFS7-----A----</AM>
-<AM lemma="Malacca_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Malacca_;R_,t" src="auto">NNFS7-----A----</AM>
-<AM lemma="Malacca_;G" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="Malaccý" src="auto">AAFS4----1A----</AM>
-<AM lemma="Malacca" src="auto">NNFS7-----A----</AM>
-<AM lemma="Malaccý" src="auto">AAFS7----1A----</AM>
-<AM lemma="Malaccý_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="Malaccý_^(*3it)" src="auto">AAFS4----1A----</AM>
-<AM lemma="malaccou" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Malacca_;G" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94207-52-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1212,18 +1190,7 @@
 <LM>w#w-ln94207-52-p3s4w19</LM>
 </w.rf>
 <form>Rajendrana</form>
-<tag>
-<AM lemma="Rajendran_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Rajendran_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rajendran_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rajendran_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Rajendran_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rajendran" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rajendran" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rajendrana" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rajendran_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="rajendrana" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rajendran_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-52-p3s4w20">
 <src.rf>manual</src.rf>
@@ -1231,18 +1198,7 @@
 <LM>w#w-ln94207-52-p3s4w20</LM>
 </w.rf>
 <form>Kurusamyho</form>
-<tag>
-<AM lemma="Kurusamy_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Kurusamy_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Kurusamy_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kurusamy_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kurusamy_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kurusamy_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kurusam_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kurusamy_;S_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kurusamy_;S_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="kurusamyho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kurusamy_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-52-p3s4w21">
 <src.rf>manual</src.rf>
@@ -1436,17 +1392,7 @@
 <LM>w#w-ln94207-52-p3s5w6</LM>
 </w.rf>
 <form>Rajendran</form>
-<tag>
-<AM lemma="Rajendran_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rajendran_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rajendrana" src="auto">NNFP2-----A----</AM>
-<AM lemma="Rajendran_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_Rajendraně)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Rajendrany_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Rajendrancouzský_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Rajendrana-4_^(v_knize,_rukopise,...)" src="auto">NNFP2-----A----</AM>
-<AM lemma="rajendran" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rajendran_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-52-p3s5w7">
 <src.rf>manual</src.rf>
@@ -1454,17 +1400,7 @@
 <LM>w#w-ln94207-52-p3s5w7</LM>
 </w.rf>
 <form>Kurusamy</form>
-<tag>
-<AM lemma="Kurusamy_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kurusam" src="auto">NNIP1-----A----</AM>
-<AM lemma="Kurusam" src="auto">NNIP7-----A----</AM>
-<AM lemma="Kurusam" src="auto">NNIP4-----A----</AM>
-<AM lemma="Kurusama_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Kurusama" src="auto">NNFS2-----A----</AM>
-<AM lemma="sám_^(Kurusamotný)" src="auto">PLIP1----------</AM>
-<AM lemma="sám_^(Kurusamotný)" src="auto">PLFP1----------</AM>
-<AM lemma="kurusamy" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kurusamy_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-52-p3s5w8">
 <src.rf>manual</src.rf>

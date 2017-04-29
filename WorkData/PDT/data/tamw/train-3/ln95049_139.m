@@ -35,21 +35,7 @@
 <LM>w#w-ln95049-139-p1s1w3</LM>
 </w.rf>
 <form>Agronetu</form>
-<tag>
-<AM lemma="Agronet_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Agronet" src="auto">NNIS2-----A----</AM>
-<AM lemma="Agronet" src="auto">NNIS3-----A----</AM>
-<AM lemma="Agronet" src="auto">NNIS6-----A----</AM>
-<AM lemma="Agronet" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Agronet_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Agronet_;K" src="auto">NNIS6-----A----</AM>
-<AM lemma="Agroneta" src="auto">NNFS4-----A----</AM>
-<AM lemma="Agroneto" src="auto">NNNS3-----A----</AM>
-<AM lemma="agronet" src="auto">NNIS2-----A----</AM>
-<AM lemma="agronet" src="auto">NNIS3-----A----</AM>
-<AM lemma="agronet" src="auto">NNIS6-----A----</AM>
-<AM lemma="agronetu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Agronet_;K" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95049-139-p1s1w4">
 <src.rf>manual</src.rf>
@@ -117,20 +103,7 @@
 <LM>w#w-ln95049-139-p2s1Bw4</LM>
 </w.rf>
 <form>Agronet</form>
-<tag>
-<AM lemma="Agronet_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Agronet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Agronet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Agronet_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Agronet_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Agronet_;R_^(letadlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Agronet_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Agronet_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Agroneta" src="auto">NNFP2-----A----</AM>
-<AM lemma="agronet" src="auto">NNIS1-----A----</AM>
-<AM lemma="agronet" src="auto">NNIS4-----A----</AM>
-<AM lemma="agronet" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Agronet_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-139-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -428,21 +401,7 @@
 <LM>w#w-ln95049-139-p2s2w5</LM>
 </w.rf>
 <form>Agronetu</form>
-<tag>
-<AM lemma="Agronet_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Agronet" src="auto">NNIS2-----A----</AM>
-<AM lemma="Agronet" src="auto">NNIS3-----A----</AM>
-<AM lemma="Agronet" src="auto">NNIS6-----A----</AM>
-<AM lemma="Agronet" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Agronet_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Agronet_;K" src="auto">NNIS6-----A----</AM>
-<AM lemma="Agroneta" src="auto">NNFS4-----A----</AM>
-<AM lemma="Agroneto" src="auto">NNNS3-----A----</AM>
-<AM lemma="agronet" src="auto">NNIS2-----A----</AM>
-<AM lemma="agronet" src="auto">NNIS3-----A----</AM>
-<AM lemma="agronet" src="auto">NNIS6-----A----</AM>
-<AM lemma="agronetu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Agronet_;K" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95049-139-p2s2w6">
 <src.rf>manual</src.rf>

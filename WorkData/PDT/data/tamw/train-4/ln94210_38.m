@@ -724,18 +724,7 @@
 <LM>w#w-ln94210-38-p3s3w11</LM>
 </w.rf>
 <form>Sarkanderovy</form>
-<tag>
-<AM lemma="Sarkanderův_;S_^(*2)" src="orig">AUFS2M---------</AM>
-<AM lemma="Sarkanderův_;S_^(*2)" src="auto" recommended="1">AUFS2M---------</AM>
-<AM lemma="Sarkanderův_;S_^(*2)" src="auto">AUFP1M---------</AM>
-<AM lemma="Sarkanderův_^(*2)" src="auto">AUFS2M---------</AM>
-<AM lemma="Sarkanderův_;S_^(*2)" src="auto">AUIP1M---------</AM>
-<AM lemma="Sarkanderův_;S_^(*2a)" src="auto">AUFS2M---------</AM>
-<AM lemma="Sarkanderova" src="auto">NNFS2-----A----</AM>
-<AM lemma="Sarkanderův_;S_^(*2)" src="auto">AUIP4M---------</AM>
-<AM lemma="Sarkanderův_;S_^(*2)" src="auto">AUFP4M---------</AM>
-<AM lemma="sarkanderovy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sarkanderův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94210-38-p3s3w12">
 <src.rf>manual</src.rf>

@@ -75,18 +75,7 @@
 <LM>w#w-ln94208-76-p1s1Aw8</LM>
 </w.rf>
 <form>Kahimbu</form>
-<tag>
-<AM lemma="Kahimbo_;G" src="orig">NNNS6-----A----</AM>
-<AM lemma="Kahimba" src="auto">NNFS4-----A----</AM>
-<AM lemma="Kahimbo_;G" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="Kahimb" src="auto">NNIS2-----A----</AM>
-<AM lemma="Kahimb" src="auto">NNIS6-----A----</AM>
-<AM lemma="Kahimb" src="auto">NNIS3-----A----</AM>
-<AM lemma="Kahimb_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Kahimb_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Kahimba_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="kahimbu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kahimbo_;G" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 </s>
 <s id="m-ln94208-76-p1s1B">

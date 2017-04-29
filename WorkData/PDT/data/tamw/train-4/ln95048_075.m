@@ -1422,22 +1422,7 @@
 <LM>w#w-ln95048-075-p4s3w20</LM>
 </w.rf>
 <form>protofašistické</form>
-<tag>
-<AM lemma="protofašistický" src="orig">AAIP4----1A----</AM>
-<AM lemma="protofašistický" src="auto">AAFP1----1A----</AM>
-<AM lemma="protofašistický" src="auto">AAFP4----1A----</AM>
-<AM lemma="protofašistický" src="auto">AAFP5----1A----</AM>
-<AM lemma="protofašistický" src="auto">AAFS2----1A----</AM>
-<AM lemma="protofašistický" src="auto">AAFS3----1A----</AM>
-<AM lemma="protofašistický" src="auto">AAFS6----1A----</AM>
-<AM lemma="protofašistický" src="auto">AAIP1----1A----</AM>
-<AM lemma="protofašistický" src="auto" recommended="1">AAIP4----1A----</AM>
-<AM lemma="protofašistický" src="auto">AAIP5----1A----</AM>
-<AM lemma="protofašistický" src="auto">AAMP4----1A----</AM>
-<AM lemma="protofašistický" src="auto">AANS1----1A----</AM>
-<AM lemma="protofašistický" src="auto">AANS4----1A----</AM>
-<AM lemma="protofašistický" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="protofašistický" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln95048-075-p4s3w21">
 <src.rf>manual</src.rf>

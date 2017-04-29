@@ -4023,18 +4023,7 @@
 <LM>w#w-ln94200-130-p5s7w11</LM>
 </w.rf>
 <form>Yolande</form>
-<tag>
-<AM lemma="Yolande_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Yolande" src="auto">Db-------------</AM>
-<AM lemma="Monde_;R_^(Le_Yolande)" src="auto">NNISX-----A----</AM>
-<AM lemma="Monde_;R_^(Le_Yolande)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Yolande_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Yolande_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Yolande_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Yolande_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Yolande_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="yolande" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Yolande_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94200-130-p5s7w12">
 <src.rf>manual</src.rf>

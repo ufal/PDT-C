@@ -93,16 +93,7 @@
 <LM>w#w-mf930713-071-p2s1Aw3</LM>
 </w.rf>
 <form>vm</form>
-<tag>
-<AM lemma="vm-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="v" src="auto">AAIS7----1A----</AM>
-<AM lemma="v" src="auto">AANS7----1A----</AM>
-<AM lemma="vm-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="vm-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="vmetr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="vminuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="vměsto_:B" src="auto">NNNXX-----A---8</AM>
-</tag>
+<tag lemma="vm-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930713-071-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -456,17 +447,7 @@
 <LM>w#w-mf930713-071-p2s3w2</LM>
 </w.rf>
 <form>téměr</form>
-<tag>
-<AM lemma="téměr" src="orig">Db-------------</AM>
-<AM lemma="téměr" src="auto">NNIS1-----A----</AM>
-<AM lemma="téměr" src="auto">NNIS4-----A----</AM>
-<AM lemma="míra_^(měřítko,potéměr)" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="téměra-2_^(úřední_vyrozumění)" src="auto">NNIS4-----A----</AM>
-<AM lemma="téměr_^(úřední_vyrozumění)" src="auto">NNIS4-----A----</AM>
-<AM lemma="téměr_^(úřední_vyrozumění)" src="auto">NNIS1-----A----</AM>
-<AM lemma="téměr_^(vztah_mezi_2_věcmi/lidmi)" src="auto">NNIS4-----A----</AM>
-<AM lemma="téměr_^(vztah_mezi_2_věcmi/lidmi)" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="téměr" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930713-071-p2s3w3">
 <src.rf>manual</src.rf>
@@ -1583,24 +1564,7 @@
 <LM>w#w-mf930713-071-p3s3w24</LM>
 </w.rf>
 <form>pětiset</form>
-<tag>
-<AM lemma="pětisetkoruna" src="orig">NNFP4-----A----</AM>
-<AM lemma="pětiset" src="auto">Vf--------A----</AM>
-<AM lemma="pětiset-1_^(sada)" src="auto">NNIS1-----A----</AM>
-<AM lemma="pětiset-1_^(sada)" src="auto">NNIS4-----A----</AM>
-<AM lemma="pětiset-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="pětiset-2_,t_^(angl._množina,_soubor)" src="auto">NNIXX-----A----</AM>
-<AM lemma="pětiset-3_,t_^(angl._množinový)" src="auto">AAXXX----1A----</AM>
-<AM lemma="pětiset-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="pětiset_:T" src="auto">Vf--------A----</AM>
-<AM lemma="pětiset_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pětiset`10" src="auto" recommended="1">Cn-S4----------</AM>
-<AM lemma="pětiseta_^(měna_španělská,_portugalská_atd.)" src="auto">NNFP2-----A----</AM>
-<AM lemma="pětisetelefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
-<AM lemma="pětisetkoruna" src="auto">NNFP4-----A----</AM>
-<AM lemma="pětisto-1`100" src="auto">ClXP3---------1</AM>
-<AM lemma="pětisto-2`100" src="auto">NNNP2-----A----</AM>
-</tag>
+<tag lemma="pětisetkoruna" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf930713-071-p3s3w25">
 <src.rf>manual</src.rf>

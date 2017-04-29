@@ -85,13 +85,7 @@
 <LM>w#w-lnd94103-020-p1s2w5</LM>
 </w.rf>
 <form>ivh</form>
-<tag>
-<AM lemma="ivh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ivh-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ivh-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ivhodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ivhodina_:B_,x" src="auto">NNFXX-----A---9</AM>
-</tag>
+<tag lemma="ivh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-020-p1s2w6">
 <src.rf>manual</src.rf>

@@ -239,17 +239,7 @@
 <LM>w#w-mf920925-091-p3s1w2</LM>
 </w.rf>
 <form>zkratkosloví</form>
-<tag>
-<AM lemma="zkratkosloví" src="orig">NNNS1-----A----</AM>
-<AM lemma="zkratkoslový" src="auto">AAMP1----1A----</AM>
-<AM lemma="zkratkosloví" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="zkratkoslovit_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="zkratkosloví" src="auto">NNNS2-----A----</AM>
-<AM lemma="zkratkoslovědět" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="zkratkosloví" src="auto">NNNS4-----A----</AM>
-<AM lemma="zkratkoslovědět" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="zkratkosloví" src="auto">NNNS6-----A----</AM>
-</tag>
+<tag lemma="zkratkosloví" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-091-p4s1">
@@ -2147,7 +2137,6 @@
 <AM lemma="Britský_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="Británie_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="br-1_:B_,t_^(brand,_obchodní_značka,_známka,_jakost,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="br-7_:B_,t_^(bills_receivable,_směnečné_pohledávky)" src="auto">NNFPX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p8s4w19">

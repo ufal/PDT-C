@@ -653,17 +653,7 @@
 <LM>w#w-ln95047-075-p2s4w5</LM>
 </w.rf>
 <form>Libre</form>
-<tag>
-<AM lemma="Libre_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Libre_;R_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Libre_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Libre_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Libre_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Libr" src="auto">NNMS5-----A----</AM>
-<AM lemma="Libre_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Libre_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="libre" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Libre_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-075-p2s4w6">
 <src.rf>manual</src.rf>
@@ -671,17 +661,7 @@
 <LM>w#w-ln95047-075-p2s4w6</LM>
 </w.rf>
 <form>Belgique</form>
-<tag>
-<AM lemma="Belgique_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Belgique_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Belgique_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Belgique_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Belgique_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Belgique_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Belgique_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Belgique_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="belgique" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Belgique_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95047-075-p2s4w7">
 <src.rf>manual</src.rf>
@@ -825,14 +805,7 @@
 <LM>w#w-ln95047-075-p2s4w24</LM>
 </w.rf>
 <form>Vandenbrouckemu</form>
-<tag>
-<AM lemma="Vandenbroucke_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Vandenbroucke_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Vandenbrouckem" src="auto">NNIS2-----A----</AM>
-<AM lemma="Vandenbrouckem" src="auto">NNIS3-----A----</AM>
-<AM lemma="Vandenbroucke_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="vandenbrouckemu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vandenbroucke_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95047-075-p2s4w25">
 <src.rf>manual</src.rf>
@@ -872,18 +845,7 @@
 <LM>w#w-ln95047-075-p2s4w29</LM>
 </w.rf>
 <form>Tobbackovi</form>
-<tag>
-<AM lemma="Tobback_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Tobback_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Tobback" src="auto">NNMS3-----A----</AM>
-<AM lemma="Tobback_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Tobbacka_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Tobback_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Tobback" src="auto">NNMS6-----A----</AM>
-<AM lemma="Tobbackův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="Tobbacek_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="tobbackovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tobback_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95047-075-p2s4w30">
 <src.rf>manual</src.rf>

@@ -1519,13 +1519,7 @@
 <LM>w#w-ln94205-99-p4s4w3</LM>
 </w.rf>
 <form>Vitomil</form>
-<tag>
-<AM lemma="Vitomil_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vitomit_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Vitomil_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Vitomit_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="vitomil" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vitomil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-99-p4s4w4">
 <src.rf>manual</src.rf>
@@ -3322,19 +3316,7 @@
 <LM>w#w-ln94205-99-p7s2w13</LM>
 </w.rf>
 <form>Ihan</form>
-<tag>
-<AM lemma="Ihan_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ihan" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ihan-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ihan_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ihan_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ihan_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ihan_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ihany" src="auto">NNFP2-----A----</AM>
-<AM lemma="hana_^(poIhana)" src="auto">NNFP2-----A----</AM>
-<AM lemma="ihan" src="auto">NNMS1-----A----</AM>
-<AM lemma="ihana_^(pohana)" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="Ihan_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-99-p7s2w14">
 <src.rf>manual</src.rf>
@@ -3725,19 +3707,7 @@
 <LM>w#w-ln94205-99-p8s1w7</LM>
 </w.rf>
 <form>polofilozofických</form>
-<tag>
-<AM lemma="polofilozofický" src="orig">AAIP2----1A----</AM>
-<AM lemma="polofilozofický" src="auto">AAFP2----1A----</AM>
-<AM lemma="polofilozofický" src="auto">AAFP6----1A----</AM>
-<AM lemma="polofilozofický" src="auto" recommended="1">AAIP2----1A----</AM>
-<AM lemma="polofilozofický" src="auto">AAIP6----1A----</AM>
-<AM lemma="polofilozofický" src="auto">AAMP2----1A----</AM>
-<AM lemma="polofilozofický" src="auto">AAMP6----1A----</AM>
-<AM lemma="polofilozofický" src="auto">AANP2----1A----</AM>
-<AM lemma="polofilozofický" src="auto">AANP6----1A----</AM>
-<AM lemma="polofilozofický_^(*2t)" src="auto">AAFP2----1A----</AM>
-<AM lemma="polofilozofický_^(*2t)" src="auto">AAIP2----1A----</AM>
-</tag>
+<tag lemma="polofilozofický" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln94205-99-p8s1w8">
 <src.rf>manual</src.rf>
@@ -3745,17 +3715,7 @@
 <LM>w#w-ln94205-99-p8s1w8</LM>
 </w.rf>
 <form>Problemů</form>
-<tag>
-<AM lemma="Problem_;R_,t" src="orig">NNIP2-----A----</AM>
-<AM lemma="Problem" src="auto">NNIP2-----A----</AM>
-<AM lemma="Problem_;R_,t" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="Problemus" src="auto">NNIP2-----A----</AM>
-<AM lemma="Probleem" src="auto">NNIP2-----A----</AM>
-<AM lemma="Problem" src="auto">NNMP2-----A----</AM>
-<AM lemma="Probleme_,t_^(hra)" src="auto">NNIP2-----A----</AM>
-<AM lemma="Problem_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="problemů" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Problem_;R_,t" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94205-99-p8s1w9">
 <src.rf>manual</src.rf>
@@ -4373,17 +4333,7 @@
 <LM>w#w-ln94205-99-p9s2w9</LM>
 </w.rf>
 <form>Vilenica</form>
-<tag>
-<AM lemma="Vilenica_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Vilenica_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vilenica_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vilenica_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vilenica_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Vilenica_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Vilenica_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Vilenica_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="vilenica" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vilenica_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-99-p9s2w10">
 <src.rf>manual</src.rf>
@@ -5293,21 +5243,7 @@
 <LM>w#w-ln94205-99-p10s5w21</LM>
 </w.rf>
 <form>Vilenici</form>
-<tag>
-<AM lemma="Vilenica_;m" src="orig">NNFS4-----A----</AM>
-<AM lemma="Vilenica_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Vilenice" src="auto">NNFS3-----A----</AM>
-<AM lemma="Vilenice" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Vilenice" src="auto">NNFS6-----A----</AM>
-<AM lemma="Vilenice_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Vilenice_^(*3ík)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Vilenice_^(*3ík)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Vilenik" src="auto">NNMP1-----A----</AM>
-<AM lemma="vilenice_^(*3ík)" src="auto">NNFS3-----A----</AM>
-<AM lemma="vilenice_^(*3ík)" src="auto">NNFS4-----A----</AM>
-<AM lemma="vilenice_^(*3ík)" src="auto">NNFS6-----A----</AM>
-<AM lemma="vilenici" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vilenica_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94205-99-p10s5w22">
 <src.rf>manual</src.rf>
@@ -6951,19 +6887,7 @@
 <LM>w#w-ln94205-99-p14s3w11</LM>
 </w.rf>
 <form>nadliterárních</form>
-<tag>
-<AM lemma="nadliterární" src="orig">AAFP2----1A----</AM>
-<AM lemma="nadliterárne" src="auto">NNFP6-----A----</AM>
-<AM lemma="nadliterárne_;G" src="auto">NNFP6-----A----</AM>
-<AM lemma="nadliterární" src="auto" recommended="1">AAFP2----1A----</AM>
-<AM lemma="nadliterární" src="auto">AAFP6----1A----</AM>
-<AM lemma="nadliterární" src="auto">AAIP2----1A----</AM>
-<AM lemma="nadliterární" src="auto">AAIP6----1A----</AM>
-<AM lemma="nadliterární" src="auto">AAMP2----1A----</AM>
-<AM lemma="nadliterární" src="auto">AAMP6----1A----</AM>
-<AM lemma="nadliterární" src="auto">AANP2----1A----</AM>
-<AM lemma="nadliterární" src="auto">AANP6----1A----</AM>
-</tag>
+<tag lemma="nadliterární" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln94205-99-p14s3w12">
 <src.rf>manual</src.rf>
@@ -8301,18 +8225,7 @@
 <LM>w#w-ln94205-99-p16s6w3</LM>
 </w.rf>
 <form>Lainšček</form>
-<tag>
-<AM lemma="Lainšček_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lainšček_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lainščka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Lainšček" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lainšček" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lainšček" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lainščka_^(*2)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Lainščko" src="auto">NNNP2-----A----</AM>
-<AM lemma="Lainšček-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lainšček" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lainšček_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-99-p16s6w4">
 <src.rf>manual</src.rf>

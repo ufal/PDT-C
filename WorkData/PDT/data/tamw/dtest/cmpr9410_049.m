@@ -1077,10 +1077,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>°</form>
-<tag>
-<AM lemma="°_^(stupeň)" src="orig">NNIP2-----A---8</AM>
-<AM lemma="°_^(stupeň)" src="auto" recommended="1">NNIP2-----A---8</AM>
-</tag>
+<tag lemma="°_^(stupeň)" src="orig" selected="1">NNIP2-----A---8</tag>
 </m>
 <m id="m-cmpr9410-049-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1243,10 +1240,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>°</form>
-<tag>
-<AM lemma="°_^(stupeň)" src="orig">NNIP2-----A---8</AM>
-<AM lemma="°_^(stupeň)" src="auto" recommended="1">NNIP2-----A---8</AM>
-</tag>
+<tag lemma="°_^(stupeň)" src="orig" selected="1">NNIP2-----A---8</tag>
 </m>
 <m id="m-cmpr9410-049-p5s2w11">
 <src.rf>manual</src.rf>

@@ -663,19 +663,7 @@
 <LM>w#w-mf930713-008-p2s1w2</LM>
 </w.rf>
 <form>vd</form>
-<tag>
-<AM lemma="vd-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vd" src="auto">NNIS1-----A----</AM>
-<AM lemma="vd" src="auto">NNIS4-----A----</AM>
-<AM lemma="vd-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="vd-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
-<AM lemma="vd-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="vd_:B_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="vd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="vd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="vda" src="auto">NNFP2-----A----</AM>
-<AM lemma="vda-1" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="vd-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930713-008-p2s1w3">
 <src.rf>manual</src.rf>
@@ -1431,17 +1419,7 @@
 <LM>w#w-mf930713-008-p3s1w2</LM>
 </w.rf>
 <form>zat</form>
-<tag>
-<AM lemma="zat-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="zat" src="auto">Vf--------A----</AM>
-<AM lemma="zat-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="zat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="zat_:T_:W" src="auto">Vf--------A----</AM>
-<AM lemma="zat_:T_^(*4at)" src="auto">Vf--------A----</AM>
-<AM lemma="zat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="zat_^(např._provazem;_se_k_čemu)" src="auto">Vf--------A----</AM>
-<AM lemma="zatmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto">NNFXX-----A---8</AM>
-</tag>
+<tag lemma="zat-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930713-008-p3s1w3">
 <src.rf>manual</src.rf>

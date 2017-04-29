@@ -374,17 +374,7 @@
 <LM>w#w-ln95045-045-p3s1w3</LM>
 </w.rf>
 <form>ante</form>
-<tag>
-<AM lemma="ante_,t" src="orig">RR--X----------</AM>
-<AM lemma="ante_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="ante_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="ante_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ant" src="auto">NNIS5-----A----</AM>
-<AM lemma="ante_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ante_,t" src="auto" recommended="1">RR--X----------</AM>
-<AM lemma="ante_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="ante_,t" src="auto">Db-------------</AM>
-</tag>
+<tag lemma="ante_,t" src="orig" selected="1">RR--X----------</tag>
 </m>
 <m id="m-ln95045-045-p3s1w4">
 <src.rf>manual</src.rf>

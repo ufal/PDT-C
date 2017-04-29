@@ -1912,18 +1912,7 @@
 <LM>w#w-ln95047-024-p6s1w18</LM>
 </w.rf>
 <form>Rainke</form>
-<tag>
-<AM lemma="Rainke_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rainke_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Rainke_,t" src="auto">VB-S---1P-AA---</AM>
-<AM lemma="Rainke_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Rainke_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rainke_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Rainke_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rainke_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Rainka_,t" src="auto">NNFS6-----A----</AM>
-<AM lemma="rainke" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rainke_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-024-p6s1w19">
 <src.rf>manual</src.rf>

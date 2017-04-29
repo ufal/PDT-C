@@ -199,18 +199,7 @@
 <LM>w#w-ln95049-136-p2s1Bw15</LM>
 </w.rf>
 <form>Plonsku</form>
-<tag>
-<AM lemma="Plonsk_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Plonsko_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Plonsko_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Plonsk" src="auto">NNIS2-----A----</AM>
-<AM lemma="Plonsko" src="auto">NNNS6-----A----</AM>
-<AM lemma="Plonska" src="auto">NNFS4-----A----</AM>
-<AM lemma="Plonsk" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Plonsk_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Plonsko" src="auto">NNNS3-----A----</AM>
-<AM lemma="plonsku" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Plonsk_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95049-136-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -276,18 +265,7 @@
 <LM>w#w-ln95049-136-p2s2w7</LM>
 </w.rf>
 <form>Plonsku</form>
-<tag>
-<AM lemma="Plonsk_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Plonsko_;G" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="Plonsko_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Plonsk" src="auto">NNIS2-----A----</AM>
-<AM lemma="Plonsko" src="auto">NNNS6-----A----</AM>
-<AM lemma="Plonska" src="auto">NNFS4-----A----</AM>
-<AM lemma="Plonsk" src="auto">NNIS6-----A----</AM>
-<AM lemma="Plonsk_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Plonsko" src="auto">NNNS3-----A----</AM>
-<AM lemma="plonsku" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Plonsk_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95049-136-p2s2w8">
 <src.rf>manual</src.rf>
@@ -418,18 +396,7 @@
 <LM>w#w-ln95049-136-p2s3w11</LM>
 </w.rf>
 <form>Werke</form>
-<tag>
-<AM lemma="Werk_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Werke_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Werke_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Werke_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Werke_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Werke_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Werka_,t" src="auto">NNFS6-----A----</AM>
-<AM lemma="Werk-1" src="auto">RV--3----------</AM>
-<AM lemma="Werke_;Y_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="werke" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Werk_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln95049-136-p2s3w12">
 <src.rf>manual</src.rf>
@@ -461,18 +428,7 @@
 <LM>w#w-ln95049-136-p2s3w15</LM>
 </w.rf>
 <form>Saarlouis</form>
-<tag>
-<AM lemma="Saarlouis_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Louis-2_;G_^(př._St._Saarlouis)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Louis-2_;G_^(př._St._Saarlouis)" src="auto">NNISX-----A----</AM>
-<AM lemma="Louis-2_;G_^(př._St._Saarlouis)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Saarlouis_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Saarlouis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Saarlouis_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Saarlouis-4_;K_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Saarlouis-3_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="saarlouis" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Saarlouis_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln95049-136-p2s3w16">
 <src.rf>manual</src.rf>

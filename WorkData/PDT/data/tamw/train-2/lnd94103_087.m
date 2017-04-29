@@ -1397,18 +1397,7 @@
 <LM>w#w-lnd94103-087-p1s14w10</LM>
 </w.rf>
 <form>Radjan</form>
-<tag>
-<AM lemma="Radjan_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Radjan_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Radjan" src="auto">NNMS1-----A----</AM>
-<AM lemma="Radjan_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Radjan_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Radjan_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Radjany_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Radjan" src="auto">NNIS1-----A----</AM>
-<AM lemma="Radjan_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="radjan" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Radjan_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-087-p1s14w11">
 <src.rf>manual</src.rf>
@@ -4555,18 +4544,7 @@
 <LM>w#w-lnd94103-087-p1s47w1</LM>
 </w.rf>
 <form>Kleňák</form>
-<tag>
-<AM lemma="kleňák_^(poslední,_nosný_kámen_v_klenbě)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kleňák_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kleňák_^(poslední,_nosný_kámen_v_klenbě)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Kleňák_,h" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kleňák" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kleňák" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kleňák" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kleňák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kleňák_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="kleňák" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="kleňák_^(poslední,_nosný_kámen_v_klenbě)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-087-p1s47w2">
 <src.rf>manual</src.rf>
@@ -4678,17 +4656,7 @@
 <LM>w#w-lnd94103-087-p1s47w15</LM>
 </w.rf>
 <form>kleňák</form>
-<tag>
-<AM lemma="kleňák_^(poslední,_nosný_kámen_v_klenbě)" src="orig">NNIS1-----A----</AM>
-<AM lemma="kleňák_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kleňák_^(poslední,_nosný_kámen_v_klenbě)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="kleňák_,h" src="auto">NNMS1-----A----</AM>
-<AM lemma="kleňák" src="auto">NNMS1-----A----</AM>
-<AM lemma="kleňák" src="auto">NNIS4-----A----</AM>
-<AM lemma="kleňák" src="auto">NNIS1-----A----</AM>
-<AM lemma="kleňák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="kleňák_;G" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="kleňák_^(poslední,_nosný_kámen_v_klenbě)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-087-p1s47w16">
 <src.rf>manual</src.rf>
@@ -4706,18 +4674,7 @@
 <LM>w#w-lnd94103-087-p1s48w1</LM>
 </w.rf>
 <form>Kleňák</form>
-<tag>
-<AM lemma="kleňák_^(poslední,_nosný_kámen_v_klenbě)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kleňák_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kleňák_^(poslední,_nosný_kámen_v_klenbě)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Kleňák_,h" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kleňák" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kleňák" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kleňák" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kleňák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kleňák_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="kleňák" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="kleňák_^(poslední,_nosný_kámen_v_klenbě)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-087-p1s48w2">
 <src.rf>manual</src.rf>
@@ -4799,17 +4756,7 @@
 <LM>w#w-lnd94103-087-p1s49w2</LM>
 </w.rf>
 <form>kleňák</form>
-<tag>
-<AM lemma="kleňák_^(poslední,_nosný_kámen_v_klenbě)" src="orig">NNIS1-----A----</AM>
-<AM lemma="kleňák_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kleňák_^(poslední,_nosný_kámen_v_klenbě)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="kleňák_,h" src="auto">NNMS1-----A----</AM>
-<AM lemma="kleňák" src="auto">NNMS1-----A----</AM>
-<AM lemma="kleňák" src="auto">NNIS4-----A----</AM>
-<AM lemma="kleňák" src="auto">NNIS1-----A----</AM>
-<AM lemma="kleňák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="kleňák_;G" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="kleňák_^(poslední,_nosný_kámen_v_klenbě)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-087-p1s49w3">
 <src.rf>manual</src.rf>
@@ -7255,18 +7202,7 @@
 <LM>w#w-lnd94103-087-p1s73Cw2</LM>
 </w.rf>
 <form>Gazzi</form>
-<tag>
-<AM lemma="Gazzi_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gazzi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gazzi_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gazzi_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="Gazze" src="auto">NNFS4-----A----</AM>
-<AM lemma="Gazze" src="auto">NNFS6-----A----</AM>
-<AM lemma="Gazze" src="auto">NNFS3-----A----</AM>
-<AM lemma="Gazh" src="auto">NNMP1-----A----</AM>
-<AM lemma="Gazz" src="auto">NNMS3-----A----</AM>
-<AM lemma="gazzi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gazzi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-087-p1s73Cw3">
 <src.rf>manual</src.rf>
@@ -11211,21 +11147,7 @@
 <LM>w#w-lnd94103-087-p1s113Bw7</LM>
 </w.rf>
 <form>Fotoport</form>
-<tag>
-<AM lemma="Fotoport_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Fotoport" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fotoport" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fotoport_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fotoport_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Fotoport_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fotoport_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Report_;K_;u_,t_^(umělecký_soubor_Wheather_Fotoport)" src="auto">NNIXX-----A----</AM>
-<AM lemma="fotoport" src="auto">NNIS1-----A----</AM>
-<AM lemma="fotoport" src="auto">NNIS4-----A----</AM>
-<AM lemma="fotoport" src="auto">NNMS1-----A----</AM>
-<AM lemma="fotoporta" src="auto">NNFP2-----A----</AM>
-<AM lemma="fotoporto" src="auto">NNNP2-----A----</AM>
-</tag>
+<tag lemma="Fotoport_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-087-p1s113Bw8">
 <src.rf>manual</src.rf>

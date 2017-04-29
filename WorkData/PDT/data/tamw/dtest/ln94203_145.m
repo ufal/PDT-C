@@ -3127,15 +3127,7 @@
 <LM>w#w-ln94203-145-p9s1w10</LM>
 </w.rf>
 <form>nóvum</form>
-<tag>
-<AM lemma="nóvum" src="orig">NNNS1-----A----</AM>
-<AM lemma="nóvum" src="auto">NNNS4-----A----</AM>
-<AM lemma="nóvum" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="nóvum_^(pohledávka,_přebytek,_majetek;;lingvistický_termín_[činný_rod])" src="auto">NNNS4-----A----</AM>
-<AM lemma="nóvum_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="nóvum_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="nóvum_,x" src="auto">NNNS4-----A----</AM>
-</tag>
+<tag lemma="nóvum" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94203-145-p9s1w11">
 <src.rf>manual</src.rf>

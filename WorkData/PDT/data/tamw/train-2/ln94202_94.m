@@ -27,18 +27,7 @@
 <LM>w#w-ln94202-94-p1s1Aw2</LM>
 </w.rf>
 <form>Flintstone</form>
-<tag>
-<AM lemma="Flintstone_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Flintstone_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Flintstonout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Flintstone_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Flintstone`1_,t" src="auto">ClXSX----------</AM>
-<AM lemma="Flintstone_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Flintstone_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Flintstone_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Flintstone_;R" src="auto">NNXSX-----A----</AM>
-<AM lemma="flintstone" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Flintstone_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-94-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -118,17 +107,7 @@
 <LM>w#w-ln94202-94-p1s1Aw12</LM>
 </w.rf>
 <form>diktaptákem</form>
-<tag>
-<AM lemma="diktapták" src="orig">NNMS7-----A----</AM>
-<AM lemma="diktapták" src="auto">NNIS7-----A----</AM>
-<AM lemma="diktaptáek" src="auto">NNIS7-----A----</AM>
-<AM lemma="diktapták" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="diktapták_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="diktaptáek_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="diktaptáko_;G" src="auto">NNNS7-----A----</AM>
-<AM lemma="diktaptáko" src="auto">NNNS7-----A----</AM>
-<AM lemma="diktaptáek" src="auto">NNMS7-----A----</AM>
-</tag>
+<tag lemma="diktapták" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-94-p1s1B">

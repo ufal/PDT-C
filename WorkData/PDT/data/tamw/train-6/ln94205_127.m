@@ -817,18 +817,7 @@
 <LM>w#w-ln94205-127-p3s1w11</LM>
 </w.rf>
 <form>Slovakia</form>
-<tag>
-<AM lemma="Slovakia_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Slovakia_;G_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Slovakyo_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Slovakia_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Slovakia_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Slovakia_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Slovakia_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Slovakia_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Slovakia_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="slovakia" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Slovakia_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-127-p3s1w12">
 <src.rf>manual</src.rf>
@@ -2046,18 +2035,7 @@
 <LM>w#w-ln94205-127-p3s8w7</LM>
 </w.rf>
 <form>Tuzika</form>
-<tag>
-<AM lemma="Tuzik_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Tuzika" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tuzik" src="auto">NNMS2-----A----</AM>
-<AM lemma="Tuzik" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Tuzik_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Tuzika_^(věda)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tuzika_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tuzikum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Tuzikum" src="auto">NNNP4-----A----</AM>
-<AM lemma="tuzika" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tuzik_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94205-127-p3s8w8">
 <src.rf>manual</src.rf>

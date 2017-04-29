@@ -27,25 +27,7 @@
 <LM>w#w-ln95045-078-p1s1w2</LM>
 </w.rf>
 <form>LUNSZ</form>
-<tag>
-<AM lemma="LUNSZ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LUNseverozápad_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="LUNSZ_:B_;K_^(Pražská_správa_sociálního_zabezpečení)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="LUNSZ_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="LUNSZ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="LUNSZ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="LUNSZ-1_:B_;K_^(Strana_zelených)" src="auto">NNFXX-----A----</AM>
-<AM lemma="LUNSZ-1_:B_;K_,t_^(Fiatal_Demokraták_Szövetsége)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Lunsz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lunsz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lunsz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lunsz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lunsz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lunsza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Lunss" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lunsz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="lunsz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="LUNSZ_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95045-078-p1s1w3">
 <src.rf>manual</src.rf>
@@ -228,25 +210,7 @@
 <LM>w#w-ln95045-078-p2s1Cw14</LM>
 </w.rf>
 <form>LUNSZ</form>
-<tag>
-<AM lemma="LUNSZ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LUNseverozápad_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="LUNSZ_:B_;K_^(Pražská_správa_sociálního_zabezpečení)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="LUNSZ_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="LUNSZ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="LUNSZ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="LUNSZ-1_:B_;K_^(Strana_zelených)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="LUNSZ-1_:B_;K_,t_^(Fiatal_Demokraták_Szövetsége)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Lunsz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lunsz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lunsz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lunsz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lunsz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lunsza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Lunss" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lunsz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="lunsz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="LUNSZ_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95045-078-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -556,17 +520,7 @@
 <LM>w#w-ln95045-078-p2s2w15</LM>
 </w.rf>
 <form>teátry</form>
-<tag>
-<AM lemma="teátr" src="orig">NNIP4-----A----</AM>
-<AM lemma="teátr" src="auto" recommended="1">NNIP4-----A----</AM>
-<AM lemma="teátr" src="auto">NNIP1-----A----</AM>
-<AM lemma="teátr" src="auto">NNMP7-----A----</AM>
-<AM lemma="teátr" src="auto">NNMP4-----A----</AM>
-<AM lemma="teátrum" src="auto">NNNP7-----A----</AM>
-<AM lemma="teátra" src="auto">NNFS2-----A----</AM>
-<AM lemma="teátra" src="auto">NNFP1-----A----</AM>
-<AM lemma="teátr" src="auto">NNIP7-----A----</AM>
-</tag>
+<tag lemma="teátr" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln95045-078-p2s2w16">
 <src.rf>manual</src.rf>

@@ -3382,16 +3382,7 @@
 <LM>w#w-ln95048-062-p3s19w11</LM>
 </w.rf>
 <form>fundátorovi</form>
-<tag>
-<AM lemma="fundátor" src="orig">NNMS3-----A----</AM>
-<AM lemma="fundátor_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="fundátor" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="fundátor_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="fundátora_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="fundátor_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="fundátor" src="auto">NNMS6-----A----</AM>
-<AM lemma="fundátorův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-</tag>
+<tag lemma="fundátor" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95048-062-p3s19w12">
 <src.rf>manual</src.rf>
@@ -4301,17 +4292,7 @@
 <LM>w#w-ln95048-062-p3s23w29</LM>
 </w.rf>
 <form>Božetěchou</form>
-<tag>
-<AM lemma="Božetěcha_;Y" src="orig">NNFS7-----A----</AM>
-<AM lemma="Božetěcha" src="auto">NNFS7-----A----</AM>
-<AM lemma="Božetěchý" src="auto">AAFS7----1A----</AM>
-<AM lemma="Božetěchý" src="auto">AAFS4----1A----</AM>
-<AM lemma="Božetěcha_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Božetěcci" src="auto">VB-P---3P-AA--1</AM>
-<AM lemma="Božetěcha_;Y" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="Božetěcha" src="auto">NNMS7-----A----</AM>
-<AM lemma="božetěchou" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Božetěcha_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95048-062-p3s23w30">
 <src.rf>manual</src.rf>
@@ -4661,14 +4642,7 @@
 <LM>w#w-ln95048-062-p3s25w7</LM>
 </w.rf>
 <form>beneficiemi</form>
-<tag>
-<AM lemma="beneficie" src="orig">NNFP7-----A----</AM>
-<AM lemma="beneficie" src="auto" recommended="1">NNFP7-----A----</AM>
-<AM lemma="benefici" src="auto">NNFP7-----A----</AM>
-<AM lemma="beneficie_;G" src="auto">NNFP7-----A----</AM>
-<AM lemma="beneficie_^(*3ík)" src="auto">NNFP7-----A----</AM>
-<AM lemma="beneficiechen" src="auto">PLXP7----------</AM>
-</tag>
+<tag lemma="beneficie" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-ln95048-062-p3s25w8">
 <src.rf>manual</src.rf>
@@ -5738,16 +5712,7 @@
 <LM>w#w-ln95048-062-p3s31w10</LM>
 </w.rf>
 <form>temporalibus</form>
-<tag>
-<AM lemma="temporalibus_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="temporalibus" src="auto">NNIS1-----A----</AM>
-<AM lemma="temporalibus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="temporalibus_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="temporalibus_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="temporalibus_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="temporalibus_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="temporalibus" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="temporalibus_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95048-062-p3s31w11">
 <src.rf>manual</src.rf>
@@ -5843,16 +5808,7 @@
 <LM>w#w-ln95048-062-p3s31w22</LM>
 </w.rf>
 <form>spiritualibus</form>
-<tag>
-<AM lemma="spiritualibus_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="spiritualibus" src="auto">NNIS1-----A----</AM>
-<AM lemma="spiritualibus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="spiritualibus_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="spiritualibus_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="spiritualibus_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="spiritualibus_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="spiritualibus" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="spiritualibus_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95048-062-p3s31w23">
 <src.rf>manual</src.rf>

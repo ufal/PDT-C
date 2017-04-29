@@ -61,24 +61,7 @@
 <LM>w#w-cmpr9415-011-p2s1w3</LM>
 </w.rf>
 <form>PROG</form>
-<tag>
-<AM lemma="PROG_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="PROG_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PROG_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PROG_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PROG_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Prog" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prog" src="auto">NNIS4-----A----</AM>
-<AM lemma="Prog" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prog_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Prog_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prog_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prog_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Proga" src="auto">NNFP2-----A----</AM>
-<AM lemma="prog" src="auto">NNMS1-----A----</AM>
-<AM lemma="prog-1`gram_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="prog-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="PROG_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-011-p3s1">
@@ -683,18 +666,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Mausola</form>
-<tag>
-<AM lemma="Mausolos_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Mausola_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mausol_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mausola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mausola" src="auto">Db-------------</AM>
-<AM lemma="Mausola_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mausolo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Mausol_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Mausol-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="mausola" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mausolos_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-011-p9s2w7">
 <src.rf>manual</src.rf>

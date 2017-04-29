@@ -1214,21 +1214,7 @@
 <LM>w#w-ln94211-79-p5s1w14</LM>
 </w.rf>
 <form>Nadlaku</form>
-<tag>
-<AM lemma="Nadlak_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Nadlak" src="auto">NNIS2-----A----</AM>
-<AM lemma="Nadlak" src="auto">NNIS3-----A----</AM>
-<AM lemma="Nadlak" src="auto">NNIS6-----A----</AM>
-<AM lemma="Nadlaka" src="auto">NNFS4-----A----</AM>
-<AM lemma="Nadlako" src="auto">NNNS3-----A----</AM>
-<AM lemma="Nadlako_;G" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="break_,t_^(tie-Nadlak)" src="auto">NNIS6-----A----</AM>
-<AM lemma="nadlak" src="auto">NNIS2-----A----</AM>
-<AM lemma="nadlak" src="auto">NNIS3-----A----</AM>
-<AM lemma="nadlak" src="auto">NNIS5-----A----</AM>
-<AM lemma="nadlak" src="auto">NNIS6-----A----</AM>
-<AM lemma="nadlaku" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nadlak_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94211-79-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1821,18 +1807,7 @@
 <LM>w#w-ln94211-79-p6s2w16</LM>
 </w.rf>
 <form>Tocké</form>
-<tag>
-<AM lemma="tocký" src="orig">AAFS6----1A----</AM>
-<AM lemma="Tocký" src="auto">AAFS2----1A----</AM>
-<AM lemma="Tocký" src="auto">AANS1----1A----</AM>
-<AM lemma="Tocký" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="Tocký" src="auto">AAFP1----1A----</AM>
-<AM lemma="Tocký" src="auto">AAIP1----1A----</AM>
-<AM lemma="Tocký" src="auto">AAIP4----1A----</AM>
-<AM lemma="Tocký" src="auto">AAFP4----1A----</AM>
-<AM lemma="Tocký" src="auto">AANS4----1A----</AM>
-<AM lemma="tocké" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="tocký" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94211-79-p6s2w17">
 <src.rf>manual</src.rf>
@@ -1933,18 +1908,7 @@
 <LM>w#w-ln94211-79-p7s1w7</LM>
 </w.rf>
 <form>Mining</form>
-<tag>
-<AM lemma="Mining_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Mining_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mining" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mining_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mining" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mining_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mining_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mining_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mining_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="mining" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mining_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94211-79-p7s1w8">
 <src.rf>manual</src.rf>
@@ -2098,18 +2062,7 @@
 <LM>w#w-ln94211-79-p7s2w4</LM>
 </w.rf>
 <form>Australian</form>
-<tag>
-<AM lemma="Australian_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Australian_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australian_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australian_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Australian_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Australián_;Y_,x" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australián_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australianum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Australiano" src="auto">NNNP2-----A----</AM>
-<AM lemma="australian" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Australian_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94211-79-p7s2w5">
 <src.rf>manual</src.rf>
@@ -2117,18 +2070,7 @@
 <LM>w#w-ln94211-79-p7s2w5</LM>
 </w.rf>
 <form>Financial</form>
-<tag>
-<AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Financial_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Escorial-1_;G_^(El_Financial,_šp._král._sídlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Financial_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Financial_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="financial" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Financial_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94211-79-p7s2w6">
 <src.rf>manual</src.rf>

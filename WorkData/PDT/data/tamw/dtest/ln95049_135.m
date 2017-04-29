@@ -605,24 +605,7 @@
 <LM>w#w-ln95049-135-p3s1w22</LM>
 </w.rf>
 <form>PTB</form>
-<tag>
-<AM lemma="PTB_:B_;K_,t_^(Fyzikálně_technický_ústav_v_Brauschweigu)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PTB_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PTB_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PTB_:B_;m" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="PTB_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PTB_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PTB_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="b-8_:PTB_^(ost._zkratka)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Ptb" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ptb" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ptba" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ptb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ptb-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ptb_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ptb_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ptb" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="PTB_:B_;K_,t_^(Fyzikálně_technický_ústav_v_Brauschweigu)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln95049-135-p3s1w23">
 <src.rf>manual</src.rf>
@@ -1452,18 +1435,7 @@
 <LM>w#w-ln95049-135-p4s5w21</LM>
 </w.rf>
 <form>Pedoll</form>
-<tag>
-<AM lemma="Pedoll_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pedoll_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pedoll_^(typ_stupnice,_hudební)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Pedoll_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pedoll_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pedoll-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Pedoll-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pedoll" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pedoll_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="pedoll" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pedoll_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-135-p4s5w22">
 <src.rf>manual</src.rf>
@@ -1479,24 +1451,7 @@
 <LM>w#w-ln95049-135-p4s5w23</LM>
 </w.rf>
 <form>PTB</form>
-<tag>
-<AM lemma="PTB_:B_;K_,t_^(Fyzikálně_technický_ústav_v_Brauschweigu)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PTB_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="PTB_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PTB_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PTB_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PTB_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PTB_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="b-8_:PTB_^(ost._zkratka)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Ptb" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ptb" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ptba" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ptb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ptb-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ptb_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ptb_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ptb" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="PTB_:B_;K_,t_^(Fyzikálně_technický_ústav_v_Brauschweigu)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln95049-135-p4s5w24">
 <src.rf>manual</src.rf>

@@ -71,19 +71,7 @@
 <LM>w#w-ln94204-147-p2s1Bw3</LM>
 </w.rf>
 <form>TABAN</form>
-<tag>
-<AM lemma="TABAN_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="TABAN_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Taban_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Taban_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Taban_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Taban_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Taban" src="auto">NNMS1-----A----</AM>
-<AM lemma="Taban_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tabany_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Taban" src="auto">NNIS1-----A----</AM>
-<AM lemma="taban" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="TABAN_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-147-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -665,17 +653,7 @@
 <LM>w#w-ln94204-147-p2s4w5</LM>
 </w.rf>
 <form>tabanské</form>
-<tag>
-<AM lemma="tabanský_;G" src="orig">AAFS6----1A----</AM>
-<AM lemma="tabanský" src="auto">AAFS2----1A----</AM>
-<AM lemma="tabanský" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="tabanský" src="auto">AANS1----1A----</AM>
-<AM lemma="tabanský" src="auto">AAFP1----1A----</AM>
-<AM lemma="tabanský" src="auto">AAIP1----1A----</AM>
-<AM lemma="tabanský" src="auto">AANS4----1A----</AM>
-<AM lemma="tabanský" src="auto">AAFP4----1A----</AM>
-<AM lemma="tabanský" src="auto">AAFS3----1A----</AM>
-</tag>
+<tag lemma="tabanský_;G" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94204-147-p2s4w6">
 <src.rf>manual</src.rf>

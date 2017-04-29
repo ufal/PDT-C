@@ -133,18 +133,7 @@
 <LM>w#w-ln94204-130-p2s1Aw9</LM>
 </w.rf>
 <form>Oilers</form>
-<tag>
-<AM lemma="Oiler_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Oilers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Oiler_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Oilers_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Oiler_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Oiler_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Oilers_;K_,t_^(sport._klub)" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Oilers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Oilers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="oilers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Oiler_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94204-130-p2s1Aw10">
 <src.rf>manual</src.rf>
@@ -3342,18 +3331,7 @@
 <LM>w#w-ln94204-130-p4s14w9</LM>
 </w.rf>
 <form>Oilers</form>
-<tag>
-<AM lemma="Oiler_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Oilers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Oiler_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Oilers_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Oiler_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Oiler_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Oilers_;K_,t_^(sport._klub)" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Oilers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Oilers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="oilers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Oiler_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94204-130-p4s14w10">
 <src.rf>manual</src.rf>
@@ -3541,17 +3519,7 @@
 <LM>w#w-ln94204-130-p4s16w10</LM>
 </w.rf>
 <form>free</form>
-<tag>
-<AM lemma="free_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="free_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="free_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="free_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="free_;L_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="free_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="free_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="free_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="free_,t" src="auto">ClXPX----------</AM>
-</tag>
+<tag lemma="free_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-130-p4s16w11">
 <src.rf>manual</src.rf>
@@ -4045,18 +4013,7 @@
 <LM>w#w-ln94204-130-p4s19w18</LM>
 </w.rf>
 <form>Oilers</form>
-<tag>
-<AM lemma="Oiler_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Oilers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Oiler_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Oilers_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Oiler_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Oiler_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Oilers_;K_,t_^(sport._klub)" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Oilers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Oilers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="oilers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Oiler_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94204-130-p4s19w19">
 <src.rf>manual</src.rf>

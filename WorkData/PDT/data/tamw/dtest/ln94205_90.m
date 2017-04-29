@@ -4477,18 +4477,7 @@
 <LM>w#w-ln94205-90-p8s2w21</LM>
 </w.rf>
 <form>Fall</form>
-<tag>
-<AM lemma="Fall_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Fall_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fall_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Fall_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Fall_;w_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fall_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Fall_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Fall_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fall_,t_^(řec._jinak)" src="auto">Db-------------</AM>
-<AM lemma="fall" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fall_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-90-p8s2w22">
 <src.rf>manual</src.rf>
@@ -5084,17 +5073,7 @@
 <LM>w#w-ln94205-90-p8s4w24</LM>
 </w.rf>
 <form>belli</form>
-<tag>
-<AM lemma="belli_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="belli_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="bellus_,t" src="auto">NNIP1-----A----</AM>
-<AM lemma="belli_^(koření)" src="auto">NNNXX-----A----</AM>
-<AM lemma="belli_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="belli_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="belt_:W" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="belt_:T" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="belt" src="auto">VpMP---XR-AA---</AM>
-</tag>
+<tag lemma="belli_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-90-p8s4w25">
 <src.rf>manual</src.rf>

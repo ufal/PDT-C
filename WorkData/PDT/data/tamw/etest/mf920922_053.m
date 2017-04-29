@@ -101,18 +101,7 @@
 <LM>w#w-mf920922-053-p2s1w9</LM>
 </w.rf>
 <form>Bromontu</form>
-<tag>
-<AM lemma="Bromont_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Bromont" src="auto">NNIS2-----A----</AM>
-<AM lemma="Bromont" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Bromont" src="auto">NNIS3-----A----</AM>
-<AM lemma="Bromont" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Bromonta" src="auto">NNFS4-----A----</AM>
-<AM lemma="Bromont" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Bromont_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Bromonto_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="bromontu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bromont_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920922-053-p2s1w10">
 <src.rf>manual</src.rf>
@@ -330,18 +319,7 @@
 <LM>w#w-mf920922-053-p2s2w8</LM>
 </w.rf>
 <form>Osguthorp</form>
-<tag>
-<AM lemma="Osguthorp_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Osguthorporation_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Osguthorp_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Osguthorp" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Osguthorp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Osguthorp-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Osguthorp" src="auto">NNIS1-----A----</AM>
-<AM lemma="Osguthorp" src="auto">NNIS4-----A----</AM>
-<AM lemma="Osguthorp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="osguthorp" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Osguthorp_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-053-p2s2w9">
 <src.rf>manual</src.rf>
@@ -718,18 +696,7 @@
 <LM>w#w-mf920922-053-p2s3Aw24</LM>
 </w.rf>
 <form>Deaton</form>
-<tag>
-<AM lemma="Deaton_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Deaton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Deaton" src="auto">NNIS1-----A----</AM>
-<AM lemma="Deaton_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Deaton_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Deaton" src="auto">NNIS4-----A----</AM>
-<AM lemma="Deaton-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Deaton-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Deaton_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="deaton" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Deaton_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-053-p2s3Aw25">
 <src.rf>manual</src.rf>
@@ -820,18 +787,7 @@
 <LM>w#w-mf920922-053-p2s3Aw35</LM>
 </w.rf>
 <form>Taillefer</form>
-<tag>
-<AM lemma="Taillefer_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Taillefer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Taillefer_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Taillefer_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Taillefer_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Taillefer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Taillefer" src="auto">NNIS4-----A----</AM>
-<AM lemma="Taillefer" src="auto">NNIS1-----A----</AM>
-<AM lemma="Taillefer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="taillefer" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Taillefer_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-053-p2s3Aw36">
 <src.rf>manual</src.rf>

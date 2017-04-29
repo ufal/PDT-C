@@ -159,21 +159,7 @@
 <LM>w#w-ln94203-24-p2s1Bw3</LM>
 </w.rf>
 <form>ip</form>
-<tag>
-<AM lemma="ip-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ip" src="auto">NNIS1-----A----</AM>
-<AM lemma="ip" src="auto">NNIS4-----A----</AM>
-<AM lemma="ip-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ip_;K" src="auto" recommended="1">NNISX-----A----</AM>
-<AM lemma="ip_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ip_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ip_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="ip_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ip_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="ipage_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="ipodnik_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ipopisný_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="ip-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94203-24-p2s1Bw4">
 <src.rf>manual</src.rf>

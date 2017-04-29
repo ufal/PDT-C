@@ -154,18 +154,7 @@
 <LM>w#w-ln95049-045-p2s1Bw9</LM>
 </w.rf>
 <form>Worldloppet</form>
-<tag>
-<AM lemma="Worldloppet_;m" src="orig">NNIXX-----A----</AM>
-<AM lemma="Worldloppeta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Worldloppet_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Worldloppet-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Worldloppet_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Worldloppet" src="auto">Vf--------A----</AM>
-<AM lemma="Worldloppet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Worldloppet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Worldloppet_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="worldloppet" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Worldloppet_;m" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln95049-045-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -285,18 +274,7 @@
 <LM>w#w-ln95049-045-p2s1Bw24</LM>
 </w.rf>
 <form>Jungen</form>
-<tag>
-<AM lemma="Jungen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jungen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Jungen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jungen_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jungen" src="auto">NNIS4-----A----</AM>
-<AM lemma="Jungen" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jungenerální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Jungenerál_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Jungen_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="jungen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jungen_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-045-p2s1Bw25">
 <src.rf>manual</src.rf>

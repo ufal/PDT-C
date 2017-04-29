@@ -95,18 +95,7 @@
 <LM>w#w-ln94204-148-p2s1w5</LM>
 </w.rf>
 <form>Tabánu</form>
-<tag>
-<AM lemma="Tabán_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Tabán_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Tabán" src="auto">NNIS2-----A----</AM>
-<AM lemma="Tabán_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Tabán_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Tabán_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Tabán" src="auto">NNIS6-----A----</AM>
-<AM lemma="Tabána" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tabán" src="auto">NNIS6-----A---1</AM>
-<AM lemma="tabánu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tabán_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94204-148-p2s1w6">
 <src.rf>manual</src.rf>
@@ -539,17 +528,7 @@
 <LM>w#w-ln94204-148-p2s4w3</LM>
 </w.rf>
 <form>Bluesapest</form>
-<tag>
-<AM lemma="Bluesapest_;m_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Bluesapest_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bluesapest" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bluesapest" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bluesapest" src="auto">NNFS4-----A----</AM>
-<AM lemma="Bluesapest_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bluesapest" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bluesapest_;m_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="bluesapest" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bluesapest_;m_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-148-p2s4w4">
 <src.rf>manual</src.rf>
@@ -817,16 +796,7 @@
 <LM>w#w-ln94204-148-p2s6w2</LM>
 </w.rf>
 <form>gb</form>
-<tag>
-<AM lemma="gb-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="gb-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="gb-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="gb" src="auto">NNIS1-----A----</AM>
-<AM lemma="gb" src="auto">NNIS4-----A----</AM>
-<AM lemma="gba" src="auto">NNFP2-----A----</AM>
-<AM lemma="gb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="gb_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="gb-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-148-p2s6w3">
 <src.rf>manual</src.rf>

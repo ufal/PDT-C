@@ -199,16 +199,7 @@
 <LM>w#w-ln95047-001-p2s1Bw3</LM>
 </w.rf>
 <form>ikr</form>
-<tag>
-<AM lemma="ikr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ikr-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ikr" src="auto">NNIS1-----A----</AM>
-<AM lemma="ikr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ikr" src="auto">NNIS4-----A----</AM>
-<AM lemma="ikrajina_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ikr" src="auto">NNMS1-----A----</AM>
-<AM lemma="ikr_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ikr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95047-001-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -796,18 +787,7 @@
 <LM>w#w-ln95047-001-p4s1w11</LM>
 </w.rf>
 <form>Schlossbergera</form>
-<tag>
-<AM lemma="Schlossberger_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Schlossberger_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Schlossberger_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Schlossbergera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schlossberger" src="auto">NNMS4-----A----</AM>
-<AM lemma="Schlossberger" src="auto">NNMS2-----A----</AM>
-<AM lemma="Schlossbergera" src="auto">NNFS1-----A----</AM>
-<AM lemma="Schlossberger_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Schlossbergero" src="auto">NNNS2-----A----</AM>
-<AM lemma="schlossbergera" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Schlossberger_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-001-p4s1w12">
 <src.rf>manual</src.rf>

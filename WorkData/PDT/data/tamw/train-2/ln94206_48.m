@@ -117,16 +117,7 @@
 <LM>w#w-ln94206-48-p2s1Aw3</LM>
 </w.rf>
 <form>škr</form>
-<tag>
-<AM lemma="škr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="škr-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="škr" src="auto">NNIS1-----A----</AM>
-<AM lemma="škr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="škr" src="auto">NNIS4-----A----</AM>
-<AM lemma="škrajina_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="škr" src="auto">NNMS1-----A----</AM>
-<AM lemma="škr_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="škr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94206-48-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -1412,22 +1403,7 @@
 <LM>w#w-ln94206-48-p4s2w18</LM>
 </w.rf>
 <form>protiprimátorské</form>
-<tag>
-<AM lemma="protiprimátorský" src="orig">AAFS2----1A----</AM>
-<AM lemma="protiprimátorský" src="auto">AAFP1----1A----</AM>
-<AM lemma="protiprimátorský" src="auto">AAFP4----1A----</AM>
-<AM lemma="protiprimátorský" src="auto">AAFP5----1A----</AM>
-<AM lemma="protiprimátorský" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="protiprimátorský" src="auto">AAFS3----1A----</AM>
-<AM lemma="protiprimátorský" src="auto">AAFS6----1A----</AM>
-<AM lemma="protiprimátorský" src="auto">AAIP1----1A----</AM>
-<AM lemma="protiprimátorský" src="auto">AAIP4----1A----</AM>
-<AM lemma="protiprimátorský" src="auto">AAIP5----1A----</AM>
-<AM lemma="protiprimátorský" src="auto">AAMP4----1A----</AM>
-<AM lemma="protiprimátorský" src="auto">AANS1----1A----</AM>
-<AM lemma="protiprimátorský" src="auto">AANS4----1A----</AM>
-<AM lemma="protiprimátorský" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="protiprimátorský" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94206-48-p4s2w19">
 <src.rf>manual</src.rf>

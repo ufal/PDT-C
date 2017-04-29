@@ -1510,15 +1510,7 @@
 <LM>w#w-mf930709-097-p2s10w22</LM>
 </w.rf>
 <form>Krimpena</form>
-<tag>
-<AM lemma="Krimpen_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Krimpit_:W" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="Krimpit" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="Krimpen_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Krimpen_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Krimpena_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="krimpena" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Krimpen_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-097-p2s10w23">
 <src.rf>manual</src.rf>

@@ -202,20 +202,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Vineyard</form>
-<tag>
-<AM lemma="Vineyard_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="Vineyard" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vineyard" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vineyard" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vineyard_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vineyard_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vineyard_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vineyard_;m_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Vineyarda`1000000000" src="auto">NNFP2-----A----</AM>
-<AM lemma="vineyard" src="auto">NNIS1-----A----</AM>
-<AM lemma="vineyard" src="auto">NNIS4-----A----</AM>
-<AM lemma="vineyard" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vineyard_;G" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-61-p1s1B">

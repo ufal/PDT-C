@@ -183,17 +183,7 @@
 <LM>w#w-ln94204-106-p2s1Bw16</LM>
 </w.rf>
 <form>heavy</form>
-<tag>
-<AM lemma="heavy_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="heava" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="heava" src="auto">NNFP1-----A----</AM>
-<AM lemma="heava" src="auto">NNFP4-----A----</AM>
-<AM lemma="heava_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="heav" src="auto">NNIP4-----A----</AM>
-<AM lemma="heav" src="auto">NNIP1-----A----</AM>
-<AM lemma="heava_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="heava_;S" src="auto">NNMS2-----A----</AM>
-</tag>
+<tag lemma="heavy_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-106-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -435,17 +425,7 @@
 <LM>w#w-ln94204-106-p2s2w6</LM>
 </w.rf>
 <form>grunge</form>
-<tag>
-<AM lemma="grunge_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="grunge_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="grunge_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="grunge_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="grunge_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="grunge_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="grunge_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="grunge_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="grunge_;G" src="auto">NNXXX-----A----</AM>
-</tag>
+<tag lemma="grunge_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94204-106-p2s2w7">
 <src.rf>manual</src.rf>
@@ -954,19 +934,7 @@
 <LM>w#w-ln94204-106-p3s1w31</LM>
 </w.rf>
 <form>YEAR</form>
-<tag>
-<AM lemma="Year_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Year_;R_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Year_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Year_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Year_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Year_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Year_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Year" src="auto">NNIS1-----A----</AM>
-<AM lemma="Year" src="auto">NNIS4-----A----</AM>
-<AM lemma="Year_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="year" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Year_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94204-106-p3s1w32">
 <src.rf>manual</src.rf>
@@ -1008,18 +976,7 @@
 <LM>w#w-ln94204-106-p3s2w4</LM>
 </w.rf>
 <form>Sounds</form>
-<tag>
-<AM lemma="Sound_;R_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Sounds_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sounds_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Sound_;R_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Sound_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Sound_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Sounds_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Sound_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Sound_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="sounds" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sound_;R_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94204-106-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1405,18 +1362,7 @@
 <LM>w#w-ln94204-106-p3s3w22</LM>
 </w.rf>
 <form>Thalassocracy</form>
-<tag>
-<AM lemma="thalassocracy_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Thalassocracy_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Thalassocracy_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Thalassocracy_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Thalassocracy_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Thalassocracy_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Thalassocracy_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Thalassocracy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Thalassocraca_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="thalassocracy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="thalassocracy_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94204-106-p3s3w23">
 <src.rf>manual</src.rf>
@@ -1451,18 +1397,7 @@
 <LM>w#w-ln94204-106-p3s3w26</LM>
 </w.rf>
 <form>Wicked</form>
-<tag>
-<AM lemma="wicked_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Wicked_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Wicked" src="auto">NNIS4-----A----</AM>
-<AM lemma="Wicked" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wicked_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wicked-1" src="auto">Db-------------</AM>
-<AM lemma="Wicked" src="auto">Db-------------</AM>
-<AM lemma="Wicked_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Wicked" src="auto">NNMS1-----A----</AM>
-<AM lemma="wicked" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="wicked_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-106-p3s3w27">
 <src.rf>manual</src.rf>
@@ -1470,18 +1405,7 @@
 <LM>w#w-ln94204-106-p3s3w27</LM>
 </w.rf>
 <form>World</form>
-<tag>
-<AM lemma="world_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="World_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="World_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="world" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="world_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94204-106-p3s3w28">
 <src.rf>manual</src.rf>
@@ -1615,18 +1539,7 @@
 <LM>w#w-ln94204-106-p3s4w14</LM>
 </w.rf>
 <form>Speedy</form>
-<tag>
-<AM lemma="speedy_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Speed" src="auto">NNIP1-----A----</AM>
-<AM lemma="Speed" src="auto">NNIP4-----A----</AM>
-<AM lemma="Speed" src="auto">NNIP7-----A----</AM>
-<AM lemma="Speeda_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="Speeda" src="auto">NNFS2-----A----</AM>
-<AM lemma="Speeda_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Speeda_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Speeda" src="auto">NNMS2-----A----</AM>
-<AM lemma="speedy" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="speedy_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-106-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1650,18 +1563,7 @@
 <LM>w#w-ln94204-106-p3s4w17</LM>
 </w.rf>
 <form>Superabound</form>
-<tag>
-<AM lemma="superabound_,t" src="orig">Vf--------A----</AM>
-<AM lemma="Superabound_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Superabound_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Superabound_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Superabound_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Superabound" src="auto">NNIS4-----A----</AM>
-<AM lemma="Superabounda" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Superabound_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Superabound_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="superabound" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="superabound_,t" src="orig" selected="1">Vf--------A----</tag>
 </m>
 <m id="m-ln94204-106-p3s4w18">
 <src.rf>manual</src.rf>
@@ -1963,18 +1865,7 @@
 <LM>w#w-ln94204-106-p4s1w35</LM>
 </w.rf>
 <form>Calistan</form>
-<tag>
-<AM lemma="calistan_;m_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Calistan_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Calistan" src="auto">NNIS1-----A----</AM>
-<AM lemma="Calistan_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Calistan" src="auto">NNIS4-----A----</AM>
-<AM lemma="Calistany_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Calistan_;m_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Calistan_;R" src="auto">NNIXX-----A----</AM>
-<AM lemma="Calistan_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="calistan" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="calistan_;m_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94204-106-p4s1w36">
 <src.rf>manual</src.rf>
@@ -2030,18 +1921,7 @@
 <LM>w#w-ln94204-106-p4s1w42</LM>
 </w.rf>
 <form>Want</form>
-<tag>
-<AM lemma="want_,t" src="orig">VB-X---XP-AA---</AM>
-<AM lemma="Want" src="auto">NNMS1-----A----</AM>
-<AM lemma="Want" src="auto">NNIS1-----A----</AM>
-<AM lemma="Want_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Want" src="auto">NNIS4-----A----</AM>
-<AM lemma="Wanta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Want_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Want_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wantický_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="want" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="want_,t" src="orig" selected="1">VB-X---XP-AA---</tag>
 </m>
 <m id="m-ln94204-106-p4s1w43">
 <src.rf>manual</src.rf>
@@ -2091,17 +1971,7 @@
 <LM>w#w-ln94204-106-p4s1w47</LM>
 </w.rf>
 <form>Abstract</form>
-<tag>
-<AM lemma="abstract_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Abstract_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Abstraci" src="auto">Vf--------A----</AM>
-<AM lemma="Abstraci" src="auto">Vf--------A---1</AM>
-<AM lemma="Abstraci" src="auto">Vf--------A---6</AM>
-<AM lemma="Abstracta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Abstract`19" src="auto">Cn-S4----------</AM>
-<AM lemma="Abstract`19" src="auto">Cn-S1----------</AM>
-<AM lemma="abstract" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="abstract_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-106-p4s1w48">
 <src.rf>manual</src.rf>
@@ -2109,18 +1979,7 @@
 <LM>w#w-ln94204-106-p4s1w48</LM>
 </w.rf>
 <form>Plain</form>
-<tag>
-<AM lemma="plain_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Plain_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Plain_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Plain_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Plain_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Plain_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Plain_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Plain_;G_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Plain_;G_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="plain" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="plain_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94204-106-p4s1w49">
 <src.rf>manual</src.rf>
@@ -2192,18 +2051,7 @@
 <LM>w#w-ln94204-106-p4s1w57</LM>
 </w.rf>
 <form>Vanishing</form>
-<tag>
-<AM lemma="vanishing_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Vanishing_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vanishing" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vanishing_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Vanishing" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vanishing_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vanishing_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Vanishing_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Vanishing_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="vanishing" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="vanishing_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-106-p4s1w58">
 <src.rf>manual</src.rf>
@@ -2211,18 +2059,7 @@
 <LM>w#w-ln94204-106-p4s1w58</LM>
 </w.rf>
 <form>Spies</form>
-<tag>
-<AM lemma="spy_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Spy_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Spie_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Spy_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Spies_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Spies_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Spies_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Spies" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Spy_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="spies" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="spy_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94204-106-p4s1w59">
 <src.rf>manual</src.rf>
@@ -2254,17 +2091,7 @@
 <LM>w#w-ln94204-106-p4s1w62</LM>
 </w.rf>
 <form>Headache</form>
-<tag>
-<AM lemma="headache_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Headach_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Headache_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Headache_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Headache_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Headach_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Manche_;G_^(La_Headache)" src="auto">NNISX-----A----</AM>
-<AM lemma="Headach_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="headache" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="headache_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94204-106-p4s1w63">
 <src.rf>manual</src.rf>
@@ -2632,18 +2459,7 @@
 <LM>w#w-ln94204-106-p4s4w9</LM>
 </w.rf>
 <form>Clash</form>
-<tag>
-<AM lemma="Clash_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Clash_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Clash_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Clash_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Clash_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Clash_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Clash_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Clash_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Clash_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="clash" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Clash_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-106-p4s4w10">
 <src.rf>manual</src.rf>
@@ -2992,18 +2808,7 @@
 <LM>w#w-ln94204-106-p4s7Bw7</LM>
 </w.rf>
 <form>Year</form>
-<tag>
-<AM lemma="Year_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Year_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Year_;R_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Year_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Year_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Year_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Year" src="auto">NNIS1-----A----</AM>
-<AM lemma="Year" src="auto">NNIS4-----A----</AM>
-<AM lemma="Year_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="year" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Year_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94204-106-p4s7Bw8">
 <src.rf>manual</src.rf>
@@ -3150,18 +2955,7 @@
 <LM>w#w-ln94204-106-p4s9w12</LM>
 </w.rf>
 <form>Mute</form>
-<tag>
-<AM lemma="Mute_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Mute_,t" src="auto">Db-------------</AM>
-<AM lemma="Mute_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mute_;K_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mute_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mute_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Mute_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Mute_;K_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Mute_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="mute" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mute_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94204-106-p4s9w13">
 <src.rf>manual</src.rf>
@@ -3169,18 +2963,7 @@
 <LM>w#w-ln94204-106-p4s9w13</LM>
 </w.rf>
 <form>Czechoslovakia</form>
-<tag>
-<AM lemma="Czechoslovakia_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Czechoslovakia_;G_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Czechoslovakyo_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Czechoslovakia_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Czechoslovakia_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Czechoslovakia_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Czechoslovakia_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Czechoslovakia_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Czechoslovakia_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="czechoslovakia" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Czechoslovakia_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94204-106-p4s9w14">
 <src.rf>manual</src.rf>

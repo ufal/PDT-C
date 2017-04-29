@@ -220,17 +220,7 @@
 <LM>w#w-ln95049-131-p2s1w18</LM>
 </w.rf>
 <form>road</form>
-<tag>
-<AM lemma="road_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="road_;G_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="road_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="road_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="road_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="road" src="auto">NNIS1-----A----</AM>
-<AM lemma="road" src="auto">NNIS4-----A----</AM>
-<AM lemma="roada" src="auto">NNFP2-----A----</AM>
-<AM lemma="road_;G" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="road_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95049-131-p2s1w19">
 <src.rf>manual</src.rf>
@@ -465,18 +455,7 @@
 <LM>w#w-ln95049-131-p2s3w9</LM>
 </w.rf>
 <form>Recreation</form>
-<tag>
-<AM lemma="recreation_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Recreation_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Recreation_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Recreation_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Recreation_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Recreation" src="auto">NNIS1-----A----</AM>
-<AM lemma="Recreation_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Recreatión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Recreatión" src="auto">NNIS1-----A----</AM>
-<AM lemma="recreation" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="recreation_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95049-131-p2s3w10">
 <src.rf>manual</src.rf>
@@ -496,18 +475,7 @@
 <LM>w#w-ln95049-131-p2s3w11</LM>
 </w.rf>
 <form>Vehicle</form>
-<tag>
-<AM lemma="vehicle_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Vehiclo" src="auto">NNNS6-----A----</AM>
-<AM lemma="Vehicle_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Vehicle_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Vehicle_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Vehicle_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Vehicl" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vehicl" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vehicl" src="auto">NNMP4-----A----</AM>
-<AM lemma="vehicle" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="vehicle_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-131-p2s3w12">
 <src.rf>manual</src.rf>
@@ -701,18 +669,7 @@
 <LM>w#w-ln95049-131-p2s4w6</LM>
 </w.rf>
 <form>Seiki</form>
-<tag>
-<AM lemma="Seiki_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Seiki_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Seik_,t" src="auto">NNMP5-----A----</AM>
-<AM lemma="Seiki_;u_,t_^(název_festivalu)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Seiki_;Y" src="auto" recommended="1">NNMSX-----A----</AM>
-<AM lemma="Seiki_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Seiký_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Seiki_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Seiki_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="seiki" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Seiki_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-131-p2s4w7">
 <src.rf>manual</src.rf>
@@ -720,18 +677,7 @@
 <LM>w#w-ln95049-131-p2s4w7</LM>
 </w.rf>
 <form>Higuchi</form>
-<tag>
-<AM lemma="Higuchi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Higuchi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Higuchi_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Higuch_;R_,t" src="auto">NNIP1-----A----</AM>
-<AM lemma="Higuh_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Higuchi_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Higuchi_;K_,t" src="auto">AAMP1----1A----</AM>
-<AM lemma="Higuchi_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Higuchi" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="higuchi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Higuchi_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-131-p2s4w8">
 <src.rf>manual</src.rf>

@@ -1977,18 +1977,7 @@
 <LM>w#w-ln94210-117-p2s16w4</LM>
 </w.rf>
 <form>Ghedin</form>
-<tag>
-<AM lemma="Ghedin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ghedin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ghedina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ghedin" src="auto">NNIS1-----A----</AM>
-<AM lemma="kWh-1`Ghedina" src="auto">NNFP2-----A----</AM>
-<AM lemma="MWh-1`Ghedina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ghediny_^(přístroj)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ghedina_^(jednotka_času)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ghedin_^(medvěd)_(*2a)" src="auto">AUIS1F---------</AM>
-<AM lemma="ghedin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ghedin_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-117-p2s16w5">
 <src.rf>manual</src.rf>

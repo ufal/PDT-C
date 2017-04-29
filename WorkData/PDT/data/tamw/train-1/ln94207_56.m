@@ -313,27 +313,7 @@
 <LM>w#w-ln94207-56-p2s2w14</LM>
 </w.rf>
 <form>Prosser</form>
-<tag>
-<AM lemma="Prosser_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Prosser" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prosser" src="auto">NNIS4-----A----</AM>
-<AM lemma="Prosser" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prosser_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prosser_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prosser_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prosser_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Prosser_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="prosser" src="auto">NNMS1-----A----</AM>
-<AM lemma="prosser-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="prosser_^(er-forma)" src="auto">A2--------A----</AM>
-<AM lemma="prosser_^(název_hlásky_r)" src="auto">NNNXX-----A----</AM>
-<AM lemma="prosserežie_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="prosserok_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="prosseručení_:B" src="auto">NNNS7-----A---8</AM>
-<AM lemma="prossrát" src="auto">Vi-S---2--A----</AM>
-<AM lemma="prossrát" src="auto">Vi-S---3--A---4</AM>
-<AM lemma="prossérum" src="auto">NNNP2-----A----</AM>
-</tag>
+<tag lemma="Prosser_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-56-p2s2w15">
 <src.rf>manual</src.rf>
@@ -421,18 +401,7 @@
 <LM>w#w-ln94207-56-p2s2w25</LM>
 </w.rf>
 <form>Gysina</form>
-<tag>
-<AM lemma="Gysin_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Gysina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gysin_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gysina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gysin_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Gysina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gysina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gysin_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gysina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="gysina" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gysin_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94207-56-p2s2w26">
 <src.rf>manual</src.rf>

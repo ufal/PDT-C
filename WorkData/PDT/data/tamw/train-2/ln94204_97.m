@@ -561,18 +561,7 @@
 <LM>w#w-ln94204-97-p2s5w2</LM>
 </w.rf>
 <form>Giardini</form>
-<tag>
-<AM lemma="Giardini_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Giardini_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Giardini_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Giardin" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Giardin" src="auto">NNMP1-----A----</AM>
-<AM lemma="Giardini_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Giardini_;K_^(nakladatelství)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Giardini_,h_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Giardini-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="giardini" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Giardini_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94204-97-p2s5w3">
 <src.rf>manual</src.rf>

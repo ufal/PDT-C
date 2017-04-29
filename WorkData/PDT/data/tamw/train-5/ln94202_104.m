@@ -59,18 +59,7 @@
 <LM>w#w-ln94202-104-p1s1Aw6</LM>
 </w.rf>
 <form>Furlongem</form>
-<tag>
-<AM lemma="Furlong_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Furlong" src="auto">NNIS7-----A----</AM>
-<AM lemma="Furlong_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Furlong_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Furlong" src="auto">NNMS7-----A----</AM>
-<AM lemma="Furlonge_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Furlongo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Furlong_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Furlonge_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="furlongem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Furlong_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94202-104-p1s1Aw7">
 <src.rf>manual</src.rf>

@@ -643,18 +643,7 @@
 <LM>w#w-ln94205-103-p3s1w29</LM>
 </w.rf>
 <form>Sight</form>
-<tag>
-<AM lemma="Sight_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sight_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sight_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sight_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sight_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sight_;m_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Sight_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sight_;Y" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sight_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="sight" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sight_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-103-p3s1w30">
 <src.rf>manual</src.rf>
@@ -670,18 +659,7 @@
 <LM>w#w-ln94205-103-p3s1w31</LM>
 </w.rf>
 <form>Sound</form>
-<tag>
-<AM lemma="Sound_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sound_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sound_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sound_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Sound_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Sound" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sounda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Sound_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Sound_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sound" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sound_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-103-p3s1w32">
 <src.rf>manual</src.rf>
@@ -939,17 +917,7 @@
 <LM>w#w-ln94205-103-p4s1w15</LM>
 </w.rf>
 <form>free</form>
-<tag>
-<AM lemma="free_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="free_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="free_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="free_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="free_;L_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="free_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="free_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="free_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="free_,t" src="auto" recommended="1">ClXPX----------</AM>
-</tag>
+<tag lemma="free_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-103-p4s1w16">
 <src.rf>manual</src.rf>
@@ -957,16 +925,7 @@
 <LM>w#w-ln94205-103-p4s1w16</LM>
 </w.rf>
 <form>cinema</form>
-<tag>
-<AM lemma="cinema_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="cinem_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="cinemus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="cinemi" src="auto">PLXP7---------6</AM>
-<AM lemma="cinema_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="cinema_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="cinema_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="cinema" src="auto" recommended="1">NNNS4-----A----</AM>
-</tag>
+<tag lemma="cinema_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94205-103-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1320,18 +1279,7 @@
 <LM>w#w-ln94205-103-p4s2w25</LM>
 </w.rf>
 <form>if</form>
-<tag>
-<AM lemma="if_;R_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="if" src="auto">NNIS1-----A----</AM>
-<AM lemma="if" src="auto">NNIS4-----A----</AM>
-<AM lemma="if" src="auto">NNMS1-----A----</AM>
-<AM lemma="if-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="if-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="if_,t" src="auto">J^-------------</AM>
-<AM lemma="if_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="if_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="if_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="if_;R_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94205-103-p4s2w26">
 <src.rf>manual</src.rf>
@@ -3081,17 +3029,7 @@
 <LM>w#w-ln94205-103-p6s3w2</LM>
 </w.rf>
 <form>jaf</form>
-<tag>
-<AM lemma="jaf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jaf-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jaf" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf" src="auto">NNIS4-----A----</AM>
-<AM lemma="jaf" src="auto">NNIS1-----A----</AM>
-<AM lemma="jaf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="jaf_;R" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="jaf-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-103-p6s3w3">
 <src.rf>manual</src.rf>

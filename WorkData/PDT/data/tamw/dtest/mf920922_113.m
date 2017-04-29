@@ -373,17 +373,7 @@
 <LM>w#w-mf920922-113-p4s3w4</LM>
 </w.rf>
 <form>Mutaně</form>
-<tag>
-<AM lemma="Mutana_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Mutaně_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Mutana" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Mutana_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Mutana_;Y" src="auto">NNFS3-----A----</AM>
-<AM lemma="Mutana" src="auto">NNFS3-----A----</AM>
-<AM lemma="Mutaň" src="auto">NNFS2-----A----</AM>
-<AM lemma="Mutana_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="mutaně" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mutana_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920922-113-p4s3w5">
 <src.rf>manual</src.rf>

@@ -77,10 +77,7 @@
 <LM>w#w-mf930713-067-p2s1Aw3</LM>
 </w.rf>
 <form>jh</form>
-<tag>
-<AM lemma="jh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jh-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-</tag>
+<tag lemma="jh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930713-067-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -96,17 +93,7 @@
 <LM>w#w-mf930713-067-p2s1Aw5</LM>
 </w.rf>
 <form>bau</form>
-<tag>
-<AM lemma="bau-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bao_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="bau_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="bau_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="bau_,t" src="auto">NNNS4-----A----</AM>
-<AM lemma="bau-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="bau_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="bau_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="au-2_,t_^(bau-pair)" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="bau-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930713-067-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -1297,33 +1284,7 @@
 <LM>w#w-mf930713-067-p3s3w8</LM>
 </w.rf>
 <form>EKOSS</form>
-<tag>
-<AM lemma="EKOSS_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EKOSS_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EKOSS_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="EKOSS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EKOSS_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EKOSS_:B_;K_;p_^(Komunistická_strana_Slovenska)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EKOSS_:B_;K_^(Východoslov._strojárne)" src="auto">NNFPX-----A---8</AM>
-<AM lemma="EKOSS_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Ekoss" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ekoss_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ekoss_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ekoss_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ekoss_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ekoss_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ekoss_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Ekoss_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ekoss" src="auto">NNMS1-----A----</AM>
-<AM lemma="ekoss-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="ekoss-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ekoss-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="ekosscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ekossoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="ekosspolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ekosstrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ekosstátní_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="EKOSS_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-mf930713-067-p3s3w9">
 <src.rf>manual</src.rf>
@@ -2069,19 +2030,7 @@
 <LM>w#w-mf930713-067-p3s8w12</LM>
 </w.rf>
 <form>eurosystému</form>
-<tag>
-<AM lemma="eurosystém" src="orig">NNIS2-----A----</AM>
-<AM lemma="eurosystém" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="eurosystém" src="auto">NNIS3-----A----</AM>
-<AM lemma="eurosystém" src="auto">NNIS6-----A----</AM>
-<AM lemma="eurosystý" src="auto">AAIS3----1A----</AM>
-<AM lemma="eurosystý" src="auto">AAMS3----1A----</AM>
-<AM lemma="eurosystý" src="auto">AANS3----1A----</AM>
-<AM lemma="eurosystý_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="eurosystý_^(*2t)" src="auto">AAIS3----1A----</AM>
-<AM lemma="eurosystý_^(*2t)" src="auto">AANS3----1A----</AM>
-<AM lemma="eurosystý_^(*3it)" src="auto">AAIS3----1A----</AM>
-</tag>
+<tag lemma="eurosystém" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-067-p3s8w13">
 <src.rf>manual</src.rf>

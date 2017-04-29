@@ -507,22 +507,7 @@
 <LM>w#w-mf930709-077-p2s3w16</LM>
 </w.rf>
 <form>FIDE</form>
-<tag>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Fide_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Fide_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fide_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fide_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fide_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Fide_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fide_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fide_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="fide" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930709-077-p2s3w17">
 <src.rf>manual</src.rf>
@@ -628,22 +613,7 @@
 <LM>w#w-mf930709-077-p2s4w11</LM>
 </w.rf>
 <form>FIDE</form>
-<tag>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FIDE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FIDE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Fide_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Fide_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fide_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fide_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fide_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Fide_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fide_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fide_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="fide" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930709-077-p2s4w12">
 <src.rf>manual</src.rf>

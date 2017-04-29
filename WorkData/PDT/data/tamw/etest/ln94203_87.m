@@ -399,18 +399,7 @@
 <LM>w#w-ln94203-87-p1s3w6</LM>
 </w.rf>
 <form>Westermeyer</form>
-<tag>
-<AM lemma="Westermeyer_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Westermeyer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Westermeyer" src="auto">NNIS1-----A----</AM>
-<AM lemma="Westermeyer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Westermeyer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Westermeyer_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Westermeyer" src="auto">NNIS4-----A----</AM>
-<AM lemma="Westermeyer_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Westermeyra" src="auto">NNFP2-----A----</AM>
-<AM lemma="westermeyer" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Westermeyer_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-87-p1s3w7">
 <src.rf>manual</src.rf>

@@ -1700,17 +1700,7 @@
 <LM>w#w-ln94204-142-p2s9Aw22</LM>
 </w.rf>
 <form>wyborczej</form>
-<tag>
-<AM lemma="wyborcza_;R_,t_^(pol._Gazeta_wyborcza)" src="orig">AAFS2----1A----</AM>
-<AM lemma="wyborcza_;R_,t_^(pol._Gazeta_wyborcza)" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="wyborczej_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="wyborczej_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="wyborczý" src="auto">AAMS1----1A---6</AM>
-<AM lemma="wyborczej" src="auto">NNIS1-----A----</AM>
-<AM lemma="wyborczý" src="auto">AAIS1----1A---6</AM>
-<AM lemma="wyborczej_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="wyborczej" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="wyborcza_;R_,t_^(pol._Gazeta_wyborcza)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94204-142-p2s9Aw23">
 <src.rf>manual</src.rf>
@@ -1842,17 +1832,7 @@
 <LM>w#w-ln94204-142-p2s10Aw5</LM>
 </w.rf>
 <form>wyborczej</form>
-<tag>
-<AM lemma="wyborcza_;R_,t_^(pol._Gazeta_wyborcza)" src="orig">AAFS2----1A----</AM>
-<AM lemma="wyborcza_;R_,t_^(pol._Gazeta_wyborcza)" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="wyborczej_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="wyborczej_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="wyborczý" src="auto">AAMS1----1A---6</AM>
-<AM lemma="wyborczej" src="auto">NNIS1-----A----</AM>
-<AM lemma="wyborczý" src="auto">AAIS1----1A---6</AM>
-<AM lemma="wyborczej_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="wyborczej" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="wyborcza_;R_,t_^(pol._Gazeta_wyborcza)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94204-142-p2s10Aw6">
 <src.rf>manual</src.rf>
@@ -3023,18 +3003,7 @@
 <LM>w#w-ln94204-142-p2s16Bw12</LM>
 </w.rf>
 <form>Ciastoň</form>
-<tag>
-<AM lemma="Ciastoň_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ciastoň_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ciastoň" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ciastoň_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ciastoň_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ciastoň-1" src="auto">Db-------------</AM>
-<AM lemma="Ciastoň_;L" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ciastoň_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ciastoň_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="ciastoň" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ciastoň_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-142-p2s16Bw13">
 <src.rf>manual</src.rf>
@@ -3608,18 +3577,7 @@
 <LM>w#w-ln94204-142-p2s19w23</LM>
 </w.rf>
 <form>Pietruszka</form>
-<tag>
-<AM lemma="Pietruszka_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pietruszka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pietruszek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pietruszka_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pietruszek_;Y_,h" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pietruszek_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pietruszek-1_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Pietruszek-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pietruszek" src="auto">NNMS4-----A----</AM>
-<AM lemma="pietruszka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pietruszka_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-142-p2s19w24">
 <src.rf>manual</src.rf>

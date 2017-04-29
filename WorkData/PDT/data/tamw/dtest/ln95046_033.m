@@ -1016,14 +1016,7 @@
 <LM>w#w-ln95046-033-p3s1w29</LM>
 </w.rf>
 <form>Ruffíni</form>
-<tag>
-<AM lemma="Ruffíni_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ruffíň" src="auto">NNFS6-----A----</AM>
-<AM lemma="Ruffín_;E" src="auto">NNMP1-----A----</AM>
-<AM lemma="Ruffíni_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ruffín" src="auto">NNMP1-----A----</AM>
-<AM lemma="ruffíni" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ruffíni_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-033-p3s1w30">
 <src.rf>manual</src.rf>
@@ -1573,22 +1566,7 @@
 <LM>w#w-ln95046-033-p4s3w12</LM>
 </w.rf>
 <form>přek</form>
-<tag>
-<AM lemma="přek_:B_^(překážky)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="přek" src="auto">NNIS1-----A----</AM>
-<AM lemma="přek" src="auto">NNIS4-----A----</AM>
-<AM lemma="přek-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="přek-4`kůň_:B_^(jednotka_výkonu)" src="auto" recommended="1">NNMXX-----A---8</AM>
-<AM lemma="přek_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="překa" src="auto">NNFP2-----A----</AM>
-<AM lemma="překomanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="překoncernový_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="překuo-1_:B_,t_^(stará_jednotka_výkonu)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="přka" src="auto">NNFP2-----A----</AM>
-<AM lemma="přka" src="auto">NNNP2-----A----</AM>
-<AM lemma="přka_^(*2)" src="auto">NNFP2-----A----</AM>
-<AM lemma="příci_:W" src="auto">VmYS------A----</AM>
-</tag>
+<tag lemma="přek_:B_^(překážky)" src="orig" selected="1">NNFPX-----A---8</tag>
 </m>
 <m id="m-ln95046-033-p4s3w13">
 <src.rf>manual</src.rf>
@@ -2175,22 +2153,7 @@
 <LM>w#w-ln95046-033-p5s2w27</LM>
 </w.rf>
 <form>přek</form>
-<tag>
-<AM lemma="přek_:B_^(překážky)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="přek" src="auto">NNIS1-----A----</AM>
-<AM lemma="přek" src="auto">NNIS4-----A----</AM>
-<AM lemma="přek-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="přek-4`kůň_:B_^(jednotka_výkonu)" src="auto" recommended="1">NNMXX-----A---8</AM>
-<AM lemma="přek_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="překa" src="auto">NNFP2-----A----</AM>
-<AM lemma="překomanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="překoncernový_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="překuo-1_:B_,t_^(stará_jednotka_výkonu)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="přka" src="auto">NNFP2-----A----</AM>
-<AM lemma="přka" src="auto">NNNP2-----A----</AM>
-<AM lemma="přka_^(*2)" src="auto">NNFP2-----A----</AM>
-<AM lemma="příci_:W" src="auto">VmYS------A----</AM>
-</tag>
+<tag lemma="přek_:B_^(překážky)" src="orig" selected="1">NNFPX-----A---8</tag>
 </m>
 <m id="m-ln95046-033-p5s2w28">
 <src.rf>manual</src.rf>

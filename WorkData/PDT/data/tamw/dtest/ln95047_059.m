@@ -1782,14 +1782,7 @@
 <LM>w#w-ln95047-059-p4s4w19</LM>
 </w.rf>
 <form>zmalířštěly</form>
-<tag>
-<AM lemma="zmalířštět" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="zmalířštět" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="zmalířštět_:T" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="zmalířštít" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="zmalířštět_:W" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="zmalířštěl" src="auto" recommended="1">NNIP4-----A----</AM>
-</tag>
+<tag lemma="zmalířštět" src="orig" selected="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m-ln95047-059-p4s4w20">
 <src.rf>manual</src.rf>

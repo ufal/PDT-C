@@ -455,26 +455,7 @@
 <LM>w#w-mf920922-068-p3s1w10</LM>
 </w.rf>
 <form>VOKD</form>
-<tag>
-<AM lemma="VOKD_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="VOKD_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="VOKD_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VOKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="auto">NNIPX-----A---8</AM>
-<AM lemma="VOKD_:B_^(kulturní_dům)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VOKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VOKD_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VOKD_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VOKD_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Vokd" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vokd" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vokd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vokda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vokd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vokd_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vokd_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Vokd" src="auto">NNMS1-----A----</AM>
-<AM lemma="vokd" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="VOKD_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920922-068-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1197,18 +1178,7 @@
 <LM>w#w-mf920922-068-p4s2w26</LM>
 </w.rf>
 <form>Araboza</form>
-<tag>
-<AM lemma="Araboza_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Araboza_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Araboza_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Araboza_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Araboza" src="auto">RR--2----------</AM>
-<AM lemma="Araboza" src="auto">NNFS1-----A----</AM>
-<AM lemma="Araboza_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Araboza_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Arabozo_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="araboza" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Araboza_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-068-p4s2w27">
 <src.rf>manual</src.rf>
@@ -1728,16 +1698,7 @@
 <LM>w#w-mf920922-068-p5s1Aw18</LM>
 </w.rf>
 <form>Locateli</form>
-<tag>
-<AM lemma="Locateli_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Locatel" src="auto">NNMP7-----A----</AM>
-<AM lemma="Locatet_:T" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Locatel" src="auto">NNMS3-----A----</AM>
-<AM lemma="Locatet" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Locatel" src="auto">NNMS6-----A----</AM>
-<AM lemma="Locatít" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="locateli" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Locateli_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-068-p5s1Aw19">
 <src.rf>manual</src.rf>
@@ -1753,18 +1714,7 @@
 <LM>w#w-mf920922-068-p5s1Aw20</LM>
 </w.rf>
 <form>Aubier</form>
-<tag>
-<AM lemma="Aubier_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Aubier_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Aubier_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kurier-1_;K_,t_^(souč._názvu_Der_Aubier)" src="auto">NNISX-----A----</AM>
-<AM lemma="Aubiéra_,x" src="auto">NNFP2-----A----</AM>
-<AM lemma="Aubier_^(sklárna)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Aubier_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Aubier_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Aubier_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="aubier" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Aubier_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-068-p5s1Aw21">
 <src.rf>manual</src.rf>
@@ -1796,19 +1746,7 @@
 <LM>w#w-mf920922-068-p5s1Aw24</LM>
 </w.rf>
 <form>Pretot</form>
-<tag>
-<AM lemma="Pretot_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pretot" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pretot" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pretot" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pretot_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pretot_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pretot_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pretot_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pretota" src="auto">NNFP2-----A----</AM>
-<AM lemma="pretot" src="auto">NNMS1-----A----</AM>
-<AM lemma="pretoto" src="auto">NNNP2-----A----</AM>
-</tag>
+<tag lemma="Pretot_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-068-p5s1Aw25">
 <src.rf>manual</src.rf>
@@ -2016,18 +1954,7 @@
 <LM>w#w-mf920922-068-p5s1Bw7</LM>
 </w.rf>
 <form>Tancer</form>
-<tag>
-<AM lemma="Tancer_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tancer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tancera" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tancer_;m_,t_^(fotbal)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tancer-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tancer" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tancer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tancer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tancer_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="tancer" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tancer_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-068-p5s1Bw8">
 <src.rf>manual</src.rf>

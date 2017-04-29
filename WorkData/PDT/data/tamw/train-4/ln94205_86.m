@@ -2545,17 +2545,7 @@
 <LM>w#w-ln94205-86-p5s2w5</LM>
 </w.rf>
 <form>Paldiski</form>
-<tag>
-<AM lemma="Paldiski_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Paldiski_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paldiský_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Paldiski_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Paldiski_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Paldiský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paldiski_;K_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Paldiski_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="paldiski" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Paldiski_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94205-86-p5s2w6">
 <src.rf>manual</src.rf>
@@ -4112,17 +4102,7 @@
 <LM>w#w-ln94205-86-p7s5w8</LM>
 </w.rf>
 <form>happy</form>
-<tag>
-<AM lemma="happy_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="happy_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="happy_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="happy" src="auto">AAXXX----1A----</AM>
-<AM lemma="happ" src="auto">NNIP4-----A----</AM>
-<AM lemma="happ" src="auto">NNIP1-----A----</AM>
-<AM lemma="happ" src="auto">NNIP7-----A----</AM>
-<AM lemma="happa" src="auto">NNFS2-----A----</AM>
-<AM lemma="happa" src="auto">NNFP1-----A----</AM>
-</tag>
+<tag lemma="happy_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-86-p7s5w9">
 <src.rf>manual</src.rf>

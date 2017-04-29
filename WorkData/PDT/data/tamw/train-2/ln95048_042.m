@@ -663,18 +663,7 @@
 <LM>w#w-ln95048-042-p4s1w2</LM>
 </w.rf>
 <form>Pertuz</form>
-<tag>
-<AM lemma="Pertuz_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pertuz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pertuza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Pertuz_^(raketa)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pertuz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pertuz_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pertuz_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pertuz_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pertuz" src="auto">NNIS4-----A----</AM>
-<AM lemma="pertuz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pertuz_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-042-p4s1w3">
 <src.rf>manual</src.rf>
@@ -830,18 +819,7 @@
 <LM>w#w-ln95048-042-p4s2w15</LM>
 </w.rf>
 <form>Meyrinika</form>
-<tag>
-<AM lemma="Meyrinik_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Meyrinika" src="auto">NNFS1-----A----</AM>
-<AM lemma="Meyrinik" src="auto">NNMS2-----A----</AM>
-<AM lemma="Meyrinik" src="auto">NNMS4-----A----</AM>
-<AM lemma="Meyrinik_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Meyrinika_^(věda)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Meyrinika_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Meyrinikum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Meyrinikum" src="auto">NNNP4-----A----</AM>
-<AM lemma="meyrinika" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Meyrinik_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-042-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1280,26 +1258,7 @@
 <LM>w#w-ln95048-042-p5s2w16</LM>
 </w.rf>
 <form>JiMfa</form>
-<tag>
-<AM lemma="JiMfa_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="JiMfa_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="JiMf_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="JiMf_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="JiMf_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="JiMf" src="auto">NNMS4-----A----</AM>
-<AM lemma="JiMf" src="auto">NNMS2-----A----</AM>
-<AM lemma="JiMfa" src="auto">NNFS1-----A----</AM>
-<AM lemma="JiMfa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jimfa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jimfa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jimf_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Jimf_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Jimf_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Jimf" src="auto">NNMS4-----A----</AM>
-<AM lemma="Jimf" src="auto">NNMS2-----A----</AM>
-<AM lemma="Jimf_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="jimfa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="JiMfa_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95048-042-p5s2w17">
 <src.rf>manual</src.rf>

@@ -595,18 +595,7 @@
 <LM>w#w-ln95047-067-p2s3w27</LM>
 </w.rf>
 <form>Mastírí</form>
-<tag>
-<AM lemma="Mastírí_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mastírí_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mastírí_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mastírí_;G" src="auto">AAFXX----1A----</AM>
-<AM lemma="Mastírí" src="auto">AAFS1----1A----</AM>
-<AM lemma="Mastírí" src="auto">AAFS2----1A----</AM>
-<AM lemma="Mastírí" src="auto">AAIS1----1A----</AM>
-<AM lemma="Mastírí" src="auto">AAFS4----1A----</AM>
-<AM lemma="Mastírí" src="auto">AAIS4----1A----</AM>
-<AM lemma="mastírí" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mastírí_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-067-p2s3w28">
 <src.rf>manual</src.rf>
@@ -994,16 +983,7 @@
 <LM>w#w-ln95047-067-p2s5w23</LM>
 </w.rf>
 <form>Hezbe</form>
-<tag>
-<AM lemma="Hezbe_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Hezbe_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Hezbe_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Hezbe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hezbat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Hezbe_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Probe_;R_^(automobil_Ford_Hezbe)" src="auto">NNIXX-----A----</AM>
-<AM lemma="hezbe" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hezbe_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95047-067-p2s5w24">
 <src.rf>manual</src.rf>
@@ -1011,14 +991,7 @@
 <LM>w#w-ln95047-067-p2s5w24</LM>
 </w.rf>
 <form>islámí</form>
-<tag>
-<AM lemma="islámí_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="islámit_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="islámit_:W" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="známý-2_^(co_isláme)" src="auto">AAMP1----1A----</AM>
-<AM lemma="známý-1_^(potkat_islámého_[člověka])" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="neznámý_^(potkat_islámého_[člověka])" src="auto">NNMP1-----A----</AM>
-</tag>
+<tag lemma="islámí_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95047-067-p2s5w25">
 <src.rf>manual</src.rf>

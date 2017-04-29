@@ -1579,18 +1579,7 @@
 <LM>w#w-ln94205-67-p3s6w24</LM>
 </w.rf>
 <form>Production</form>
-<tag>
-<AM lemma="Production_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Production_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Production_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Production_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Production_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Production" src="auto">NNIS1-----A----</AM>
-<AM lemma="Production_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Productión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Productión" src="auto">NNIS1-----A----</AM>
-<AM lemma="production" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Production_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-67-p3s6w25">
 <src.rf>manual</src.rf>

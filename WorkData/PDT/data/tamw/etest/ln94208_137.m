@@ -465,17 +465,7 @@
 <LM>w#w-ln94208-137-p2s2w15</LM>
 </w.rf>
 <form>minikrámek</form>
-<tag>
-<AM lemma="minikrámek" src="orig">NNIS4-----A----</AM>
-<AM lemma="minikrámek" src="auto">NNIS1-----A----</AM>
-<AM lemma="minikrámek" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="minikrámek" src="auto">NNMS1-----A----</AM>
-<AM lemma="minikrámek-3_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="minikrámek_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="minikrámka" src="auto">NNFP2-----A----</AM>
-<AM lemma="minikrámka_^(*2)" src="auto">NNFP2-----A----</AM>
-<AM lemma="minikrámko" src="auto">NNNP2-----A----</AM>
-</tag>
+<tag lemma="minikrámek" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94208-137-p2s2w16">
 <src.rf>manual</src.rf>

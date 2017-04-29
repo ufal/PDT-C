@@ -697,18 +697,7 @@
 <LM>w#w-mf930709-081-p1s5w7</LM>
 </w.rf>
 <form>Ulsar</form>
-<tag>
-<AM lemma="Ulsar_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ulsar_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ulsar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ulsar_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ulsar_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ulsar" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ulsar" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ulsar" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ulsar_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ulsar" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ulsar_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-081-p1s5w8">
 <src.rf>manual</src.rf>
@@ -732,18 +721,7 @@
 <LM>w#w-mf930709-081-p1s5w10</LM>
 </w.rf>
 <form>Louw</form>
-<tag>
-<AM lemma="Louw_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Louw_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Louw_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Louw_;G_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Louw" src="auto">NNNXX-----A----</AM>
-<AM lemma="Louw" src="auto">NNFXX-----A----</AM>
-<AM lemma="know_,t_^(Louw_how)" src="auto">NNNXX-----A----</AM>
-<AM lemma="how_,t_^(know_Louw)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Louw_,t" src="auto">RR--6----------</AM>
-<AM lemma="louw" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Louw_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-081-p1s5w11">
 <src.rf>manual</src.rf>
@@ -759,18 +737,7 @@
 <LM>w#w-mf930709-081-p1s5w12</LM>
 </w.rf>
 <form>Hiemstra</form>
-<tag>
-<AM lemma="Hiemstra_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hiemstr" src="auto">NNMS2-----A----</AM>
-<AM lemma="Hiemstr" src="auto">NNMS4-----A----</AM>
-<AM lemma="Hiemstra" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hiemstra_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hiemstro" src="auto">NNNS2-----A----</AM>
-<AM lemma="Hiemstrum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Hiemstrum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Hiemstro_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="hiemstra" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hiemstra_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-081-p1s5w13">
 <src.rf>manual</src.rf>

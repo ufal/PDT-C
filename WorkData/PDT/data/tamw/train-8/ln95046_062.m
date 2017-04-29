@@ -151,18 +151,7 @@
 <LM>w#w-ln95046-062-p2s1Bw10</LM>
 </w.rf>
 <form>Osservatore</form>
-<tag>
-<AM lemma="Osservatore_;R_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Osservator" src="auto">NNMS5-----A----</AM>
-<AM lemma="Osservatore_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Osservatore_;u_,l_,t_^(hudební_styl)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Osservatore_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Osservatore_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Osservatore_;R_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Osservatore_;K_,t" src="auto">Dg-------2A----</AM>
-<AM lemma="Osservatore_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="osservatore" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Osservatore_;R_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95046-062-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -1090,25 +1079,7 @@
 <LM>w#w-ln95046-062-p2s6w20</LM>
 </w.rf>
 <form>EZLN</form>
-<tag>
-<AM lemma="EZLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EZLN-2_:B_;R_^(Nedělní_Lidové_Noviny)" src="auto">NNFPX-----A---8</AM>
-<AM lemma="EZLN-2_:B_;R_^(Nedělní_Lidové_Noviny)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EZLN_:B_;K" src="auto">NNFPX-----A---8</AM>
-<AM lemma="EZLN_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EZLN_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EZLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="EZLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EZLN_:B_;R" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Ezln" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ezln-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ezln_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ezln_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ezln_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ezlna" src="auto">NNFP2-----A----</AM>
-<AM lemma="ezln" src="auto">NNMS1-----A----</AM>
-<AM lemma="ezln_:B_^(přirozený_logaritmus)" src="auto">NNIXX-----A---8</AM>
-</tag>
+<tag lemma="EZLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95046-062-p2s6w21">
 <src.rf>manual</src.rf>

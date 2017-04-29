@@ -3297,18 +3297,7 @@
 <LM>w#w-ln94210-109-p5s6w2</LM>
 </w.rf>
 <form>iha</form>
-<tag>
-<AM lemma="iha-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ih" src="auto">NNMS2-----A----</AM>
-<AM lemma="ih_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ih_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="ih_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="ih_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="iha" src="auto">NNFS1-----A----</AM>
-<AM lemma="iha-1`hektar_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="iha-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="iha_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="iha-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94210-109-p5s6w3">
 <src.rf>manual</src.rf>

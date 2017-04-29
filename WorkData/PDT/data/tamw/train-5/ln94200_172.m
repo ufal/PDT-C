@@ -734,18 +734,7 @@
 <LM>w#w-ln94200-172-p2s4w28</LM>
 </w.rf>
 <form>Decaea</form>
-<tag>
-<AM lemma="Decae_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Decae_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Decaea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Decaea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Decaea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Decaea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Decae_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Decae-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Decaea_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="decaea" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Decae_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-172-p2s4w29">
 <src.rf>manual</src.rf>
@@ -980,18 +969,7 @@
 <LM>w#w-ln94200-172-p2s5w1</LM>
 </w.rf>
 <form>Decaeova</form>
-<tag>
-<AM lemma="Decaeův_;S_^(*2)" src="orig">AUFS1M---------</AM>
-<AM lemma="Decaeův_;S_^(*2)" src="auto" recommended="1">AUFS1M---------</AM>
-<AM lemma="Decaeův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Decaeov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Decaeov_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Decaeův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Decaeův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Decaeov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Decaeův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="decaeova" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Decaeův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94200-172-p2s5w2">
 <src.rf>manual</src.rf>
@@ -2046,18 +2024,7 @@
 <LM>w#w-ln94200-172-p4s1w9</LM>
 </w.rf>
 <form>Sardent</form>
-<tag>
-<AM lemma="Sardent_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sardent" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Sardent" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sardent" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sardent_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sardent_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sardent_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sardent_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Sardent_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="sardent" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sardent_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-172-p4s1w10">
 <src.rf>manual</src.rf>
@@ -2561,19 +2528,7 @@
 <LM>w#w-ln94200-172-p4s4w8</LM>
 </w.rf>
 <form>Sergem</form>
-<tag>
-<AM lemma="Serge_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Serg" src="auto">NNIS7-----A----</AM>
-<AM lemma="Serg" src="auto">NNMS7-----A----</AM>
-<AM lemma="Serg_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Serg_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Serg_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Serge_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Serge_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="Sergo" src="auto">NNNS7-----A----</AM>
-<AM lemma="serg" src="auto">NNIS7-----A----</AM>
-<AM lemma="sergem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Serge_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-172-p4s4w9">
 <src.rf>manual</src.rf>

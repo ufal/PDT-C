@@ -1269,25 +1269,7 @@
 <LM>w#w-mf920922-011-p1s9w3</LM>
 </w.rf>
 <form>CBNC</form>
-<tag>
-<AM lemma="CBNC_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="CBNC_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="CBNC_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CBNC-1_:B_;K_^(Africký_národní_kongres)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="CBNC-1_:B_,t_^(computer_numerical_control)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CBNC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CBNC_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="CBNC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Cbnc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Inc_:B_;K_,t_^(Cbncorporated)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Inc_:B_;K_,t_^(Cbncorporated)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Inc_:B_;K_,t_^(Cbncorporated)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cbncorporation_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Cbncorporated_:B_;K_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Cbnc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cbnc_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="cbnc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="CBNC_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920922-011-p1s9w4">
 <src.rf>manual</src.rf>
@@ -1757,18 +1739,7 @@
 <LM>w#w-mf920922-011-p1s13w3</LM>
 </w.rf>
 <form>Giesecke</form>
-<tag>
-<AM lemma="Giesecke_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Giesecke_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Giesecke_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Giesecke_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Giesecke_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Giesecke_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Giesecke_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Giesecka_,t" src="auto">NNFS6-----A----</AM>
-<AM lemma="Gieseck-1" src="auto">RV--3----------</AM>
-<AM lemma="giesecke" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Giesecke_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-011-p1s13w4">
 <src.rf>manual</src.rf>
@@ -2466,23 +2437,7 @@
 <LM>w#w-mf920922-011-p1s17w9</LM>
 </w.rf>
 <form>Rue</form>
-<tag>
-<AM lemma="Rue_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Rue_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Rue_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rue_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Rue_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rue_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Rue_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Rue_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="rue_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="rue_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rue_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="rue_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="rue_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="rue_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="rue_;m_,t" src="auto">NNFXX-----A----</AM>
-</tag>
+<tag lemma="Rue_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920922-011-p1s17w10">
 <src.rf>manual</src.rf>
@@ -2855,18 +2810,7 @@
 <LM>w#w-mf920922-011-p1s19w15</LM>
 </w.rf>
 <form>England</form>
-<tag>
-<AM lemma="England_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="England_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="England_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="England_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="England_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Englanda_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="England_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="England_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Englando" src="auto">NNNP2-----A----</AM>
-<AM lemma="england" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="England_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf920922-011-p1s19w16">
 <src.rf>manual</src.rf>
@@ -2907,23 +2851,7 @@
 <LM>w#w-mf920922-011-p1s20w3</LM>
 </w.rf>
 <form>Rue</form>
-<tag>
-<AM lemma="Rue_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Rue_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Rue_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rue_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Rue_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rue_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Rue_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Rue_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="rue_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="rue_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rue_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="rue_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="rue_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="rue_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="rue_;m_,t" src="auto">NNFXX-----A----</AM>
-</tag>
+<tag lemma="Rue_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920922-011-p1s20w4">
 <src.rf>manual</src.rf>

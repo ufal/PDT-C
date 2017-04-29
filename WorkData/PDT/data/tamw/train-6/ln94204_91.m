@@ -29,12 +29,7 @@
 <LM>w#w-ln94204-91-p2s1w1</LM>
 </w.rf>
 <form>Ulsterší</form>
-<tag>
-<AM lemma="Ulsterský_;G" src="orig">AAMP1----1A----</AM>
-<AM lemma="Ulsteršit_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Ulsteršet" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="ulsterší" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ulsterský_;G" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-ln94204-91-p2s1w2">
 <src.rf>manual</src.rf>
@@ -1333,22 +1328,7 @@
 <LM>w#w-ln94204-91-p6s1w6</LM>
 </w.rf>
 <form>prohutské</form>
-<tag>
-<AM lemma="prohutský" src="orig">AAFS2----1A----</AM>
-<AM lemma="prohutský" src="auto">AAFP1----1A----</AM>
-<AM lemma="prohutský" src="auto">AAFP4----1A----</AM>
-<AM lemma="prohutský" src="auto">AAFP5----1A----</AM>
-<AM lemma="prohutský" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="prohutský" src="auto">AAFS3----1A----</AM>
-<AM lemma="prohutský" src="auto">AAFS6----1A----</AM>
-<AM lemma="prohutský" src="auto">AAIP1----1A----</AM>
-<AM lemma="prohutský" src="auto">AAIP4----1A----</AM>
-<AM lemma="prohutský" src="auto">AAIP5----1A----</AM>
-<AM lemma="prohutský" src="auto">AAMP4----1A----</AM>
-<AM lemma="prohutský" src="auto">AANS1----1A----</AM>
-<AM lemma="prohutský" src="auto">AANS4----1A----</AM>
-<AM lemma="prohutský" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="prohutský" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94204-91-p6s1w7">
 <src.rf>manual</src.rf>
@@ -1598,18 +1578,7 @@
 <LM>w#w-ln94204-91-p6s2w8</LM>
 </w.rf>
 <form>Šahrján</form>
-<tag>
-<AM lemma="Šahrján_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Šahrján_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Šahrján_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Šahrjat_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Šahrjat_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Šahrjat_:T_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Šahrjat" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Šahrján_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Šahrján" src="auto">NNIS1-----A----</AM>
-<AM lemma="šahrján" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Šahrján_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-91-p6s2w9">
 <src.rf>manual</src.rf>

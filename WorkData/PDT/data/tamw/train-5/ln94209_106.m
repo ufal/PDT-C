@@ -66,20 +66,7 @@
 <LM>w#w-ln94209-106-p1s1w6</LM>
 </w.rf>
 <form>Inreka</form>
-<tag>
-<AM lemma="Inreka_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Inrek_;G" src="auto">NNIS2-----A---1</AM>
-<AM lemma="Inrek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Inrek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Inreka" src="auto">Db-------------</AM>
-<AM lemma="Inreka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Inreka_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Inreka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Inreko-2" src="auto">NNNS2-----A----</AM>
-<AM lemma="inrek" src="auto">NNMS2-----A----</AM>
-<AM lemma="inrek" src="auto">NNMS4-----A----</AM>
-<AM lemma="inreka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Inreka_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-106-p1s1w7">
 <src.rf>manual</src.rf>

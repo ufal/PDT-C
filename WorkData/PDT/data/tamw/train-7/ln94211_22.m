@@ -143,18 +143,7 @@
 <LM>w#w-ln94211-22-p2s1Bw3</LM>
 </w.rf>
 <form>iha</form>
-<tag>
-<AM lemma="iha-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ih" src="auto">NNMS2-----A----</AM>
-<AM lemma="ih_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ih_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="ih_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="ih_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="iha" src="auto">NNFS1-----A----</AM>
-<AM lemma="iha-1`hektar_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="iha-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="iha_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="iha-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94211-22-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -534,17 +523,7 @@
 <LM>w#w-ln94211-22-p3s1w14</LM>
 </w.rf>
 <form>Shine</form>
-<tag>
-<AM lemma="Shine_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Shinout" src="auto" recommended="1">VB-S---3P-AA---</AM>
-<AM lemma="Shine_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shine_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Shine_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Shine_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Shine_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Shine_;U_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="shine" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Shine_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94211-22-p3s1w15">
 <src.rf>manual</src.rf>
@@ -560,25 +539,7 @@
 <LM>w#w-ln94211-22-p3s1w16</LM>
 </w.rf>
 <form>You</form>
-<tag>
-<AM lemma="You_,t" src="orig">PP-S4--2-------</AM>
-<AM lemma="You_;m_,t" src="auto">PP-S4--2-------</AM>
-<AM lemma="You_,t" src="auto" recommended="1">PP-S4--2-------</AM>
-<AM lemma="You_,t" src="auto">PP-S1--2-------</AM>
-<AM lemma="Yý" src="auto">AAFS4----1A----</AM>
-<AM lemma="Ya" src="auto">NNFS7-----A----</AM>
-<AM lemma="Yý" src="auto">AAFS7----1A----</AM>
-<AM lemma="Yý_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="Yý_^(*3it)" src="auto">AAFS4----1A----</AM>
-<AM lemma="you_,t" src="auto">PP-SX--2-------</AM>
-<AM lemma="yý" src="auto">AAFS4----1A----</AM>
-<AM lemma="ya" src="auto">NNFS7-----A----</AM>
-<AM lemma="yý" src="auto">AAFS7----1A----</AM>
-<AM lemma="yý_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="yý_^(*3it)" src="auto">AAFS4----1A----</AM>
-<AM lemma="ya_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="yý_^(*2t)" src="auto">AAFS7----1A----</AM>
-</tag>
+<tag lemma="You_,t" src="orig" selected="1">PP-S4--2-------</tag>
 </m>
 <m id="m-ln94211-22-p3s1w17">
 <src.rf>manual</src.rf>
@@ -627,18 +588,7 @@
 <LM>w#w-ln94211-22-p3s1w21</LM>
 </w.rf>
 <form>Wish</form>
-<tag>
-<AM lemma="Wish_,t" src="orig">Vi-S---2--A----</AM>
-<AM lemma="Wish_;R_,t" src="auto" recommended="1">NNISX-----A----</AM>
-<AM lemma="Wish_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Wish_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Wish_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Wish_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Wish_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Wish_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wish_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="wish" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Wish_,t" src="orig" selected="1">Vi-S---2--A----</tag>
 </m>
 <m id="m-ln94211-22-p3s1w22">
 <src.rf>manual</src.rf>
@@ -646,25 +596,7 @@
 <LM>w#w-ln94211-22-p3s1w22</LM>
 </w.rf>
 <form>You</form>
-<tag>
-<AM lemma="You_,t" src="orig">PP-S1--2-------</AM>
-<AM lemma="You_;m_,t" src="auto">PP-S4--2-------</AM>
-<AM lemma="You_,t" src="auto">PP-S4--2-------</AM>
-<AM lemma="You_,t" src="auto">PP-S1--2-------</AM>
-<AM lemma="Yý" src="auto">AAFS4----1A----</AM>
-<AM lemma="Ya" src="auto">NNFS7-----A----</AM>
-<AM lemma="Yý" src="auto">AAFS7----1A----</AM>
-<AM lemma="Yý_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="Yý_^(*3it)" src="auto">AAFS4----1A----</AM>
-<AM lemma="you_,t" src="auto" recommended="1">PP-SX--2-------</AM>
-<AM lemma="yý" src="auto">AAFS4----1A----</AM>
-<AM lemma="ya" src="auto">NNFS7-----A----</AM>
-<AM lemma="yý" src="auto">AAFS7----1A----</AM>
-<AM lemma="yý_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="yý_^(*3it)" src="auto">AAFS4----1A----</AM>
-<AM lemma="ya_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="yý_^(*2t)" src="auto">AAFS7----1A----</AM>
-</tag>
+<tag lemma="You_,t" src="orig" selected="1">PP-S1--2-------</tag>
 </m>
 <m id="m-ln94211-22-p3s1w23">
 <src.rf>manual</src.rf>
@@ -672,16 +604,7 @@
 <LM>w#w-ln94211-22-p3s1w23</LM>
 </w.rf>
 <form>Were</form>
-<tag>
-<AM lemma="Were_,t" src="orig">VpFS---2R-AA---</AM>
-<AM lemma="Wrat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Were_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wrát" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Were_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="zabrat_^([Wavit]_něco_někomu)" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Wrát-2" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="were" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Were_,t" src="orig" selected="1">VpFS---2R-AA---</tag>
 </m>
 <m id="m-ln94211-22-p3s1w24">
 <src.rf>manual</src.rf>
@@ -689,16 +612,7 @@
 <LM>w#w-ln94211-22-p3s1w24</LM>
 </w.rf>
 <form>Here</form>
-<tag>
-<AM lemma="Here_,t" src="orig">Db-------------</AM>
-<AM lemma="Hrat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Here_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hrát" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Here_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="zabrat_^([Havit]_něco_někomu)" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Hrát-2" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="here" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Here_,t" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94211-22-p3s1w25">
 <src.rf>manual</src.rf>

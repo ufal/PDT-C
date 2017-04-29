@@ -1634,17 +1634,7 @@
 <LM>w#w-ln94208-11-p3s4w29</LM>
 </w.rf>
 <form>wirtshaftlichen</form>
-<tag>
-<AM lemma="wirtshaftlichen_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="wirtshaftlichen_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="wirtshaftlichen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="wirtshaftliche_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="wirtshaftlichen_;m" src="auto">NNIXX-----A----</AM>
-<AM lemma="wirtshaftlichen_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="wirtshaftlichen_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="wirtshaftlichen_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="wirtshaftlichen" src="auto">PLYS4----------</AM>
-</tag>
+<tag lemma="wirtshaftlichen_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94208-11-p3s4w30">
 <src.rf>manual</src.rf>
@@ -1652,18 +1642,7 @@
 <LM>w#w-ln94208-11-p3s4w30</LM>
 </w.rf>
 <form>Entwicklung</form>
-<tag>
-<AM lemma="Entwicklung_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Entwicklung_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Entwicklung_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Entwicklung_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Entwicklung_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Entwicklung_;p" src="auto">NNMS1-----A----</AM>
-<AM lemma="Entwicklung_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Entwicklung_;R_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Entwicklung_;R_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="entwicklung" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Entwicklung_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94208-11-p3s4w31">
 <src.rf>manual</src.rf>
@@ -1827,17 +1806,7 @@
 <LM>w#w-ln94208-11-p3s6w3</LM>
 </w.rf>
 <form>walrasovského</form>
-<tag>
-<AM lemma="walrasovský" src="orig">AAIS2----1A----</AM>
-<AM lemma="walrasovský" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="walrasovský" src="auto">AANS2----1A----</AM>
-<AM lemma="walrasovský" src="auto">AAMS2----1A----</AM>
-<AM lemma="walrasovský" src="auto">AAMS4----1A----</AM>
-<AM lemma="walrasovský_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="walrasovský_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="walrasovský_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="walrasovský_^(*3it)" src="auto">AAIS2----1A----</AM>
-</tag>
+<tag lemma="walrasovský" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94208-11-p3s6w4">
 <src.rf>manual</src.rf>
@@ -5394,17 +5363,7 @@
 <LM>w#w-ln94208-11-p3s26w18</LM>
 </w.rf>
 <form>Capitalism</form>
-<tag>
-<AM lemma="Capitalism_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Capitalism_;R_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Capitalism_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Capitalism_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Capitalism_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Capitalismeno_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Capitalism`8" src="auto">Cn-S4----------</AM>
-<AM lemma="Capitalism`8" src="auto">Cn-S1----------</AM>
-<AM lemma="capitalism" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Capitalism_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94208-11-p3s26w19">
 <src.rf>manual</src.rf>
@@ -5440,18 +5399,7 @@
 <LM>w#w-ln94208-11-p3s26w22</LM>
 </w.rf>
 <form>Democracy</form>
-<tag>
-<AM lemma="Democracy_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Democracy_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Democracy_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Democracy_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Democracy_;R_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Democracy_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Democracy_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Democracy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Democraca_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="democracy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Democracy_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94208-11-p3s26w23">
 <src.rf>manual</src.rf>
@@ -8858,25 +8806,7 @@
 <LM>w#w-ln94208-11-p5s9w13</LM>
 </w.rf>
 <form>poloposvátné</form>
-<tag>
-<AM lemma="poloposvátný" src="orig">AAFP4----1A----</AM>
-<AM lemma="poloposvátný" src="auto">AAFP1----1A----</AM>
-<AM lemma="poloposvátný" src="auto" recommended="1">AAFP4----1A----</AM>
-<AM lemma="poloposvátný" src="auto">AAFP5----1A----</AM>
-<AM lemma="poloposvátný" src="auto">AAFS2----1A----</AM>
-<AM lemma="poloposvátný" src="auto">AAFS3----1A----</AM>
-<AM lemma="poloposvátný" src="auto">AAFS6----1A----</AM>
-<AM lemma="poloposvátný" src="auto">AAIP1----1A----</AM>
-<AM lemma="poloposvátný" src="auto">AAIP4----1A----</AM>
-<AM lemma="poloposvátný" src="auto">AAIP5----1A----</AM>
-<AM lemma="poloposvátný" src="auto">AAMP4----1A----</AM>
-<AM lemma="poloposvátný" src="auto">AANP1----1A---6</AM>
-<AM lemma="poloposvátný" src="auto">AANP4----1A---6</AM>
-<AM lemma="poloposvátný" src="auto">AANP5----1A---6</AM>
-<AM lemma="poloposvátný" src="auto">AANS1----1A----</AM>
-<AM lemma="poloposvátný" src="auto">AANS4----1A----</AM>
-<AM lemma="poloposvátný" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="poloposvátný" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln94208-11-p5s9w14">
 <src.rf>manual</src.rf>
@@ -11133,18 +11063,7 @@
 <LM>w#w-ln94208-11-p6s4w11</LM>
 </w.rf>
 <form>Stagnacionisté</form>
-<tag>
-<AM lemma="stagnacionista" src="orig">NNMP1-----A----</AM>
-<AM lemma="Stagnacionista" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Stagnacionistý" src="auto">AANS1----1A----</AM>
-<AM lemma="Stagnacionistý" src="auto">AAFS2----1A----</AM>
-<AM lemma="Stagnacionistý" src="auto">AAIP1----1A----</AM>
-<AM lemma="Stagnacionistý" src="auto">AAFS6----1A----</AM>
-<AM lemma="Stagnacionistý" src="auto">AAFP4----1A----</AM>
-<AM lemma="Stagnacionistý" src="auto">AAFP1----1A----</AM>
-<AM lemma="Stagnacionistý" src="auto">AANS4----1A----</AM>
-<AM lemma="stagnacionisté" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="stagnacionista" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94208-11-p6s4w12">
 <src.rf>manual</src.rf>
@@ -11472,15 +11391,7 @@
 <LM>w#w-ln94208-11-p6s6w4</LM>
 </w.rf>
 <form>Cycles</form>
-<tag>
-<AM lemma="Cycles_;R_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Cycles_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cycles" src="auto">NNIS4-----A----</AM>
-<AM lemma="Cycles" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cycle_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Cycleso" src="auto">NNNP2-----A----</AM>
-<AM lemma="cycles" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cycles_;R_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94208-11-p6s6w5">
 <src.rf>manual</src.rf>

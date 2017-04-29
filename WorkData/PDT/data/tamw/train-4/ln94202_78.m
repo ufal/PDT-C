@@ -1461,18 +1461,7 @@
 <LM>w#w-ln94202-78-p4s1w5</LM>
 </w.rf>
 <form>Robaina</form>
-<tag>
-<AM lemma="Robaina_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Robaina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Robain_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Robaina_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Robain_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Robaina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Robaina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Robain_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Robaina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="robaina" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Robaina_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-78-p4s1w6">
 <src.rf>manual</src.rf>
@@ -2010,17 +1999,7 @@
 <LM>w#w-ln94202-78-p4s3w37</LM>
 </w.rf>
 <form>emigracechtivých</form>
-<tag>
-<AM lemma="emigracechtivý" src="orig">AAMP2----1A----</AM>
-<AM lemma="emigracechtivý" src="auto">AAFP2----1A----</AM>
-<AM lemma="emigracechtivý" src="auto">AAIP2----1A----</AM>
-<AM lemma="emigracechtivý" src="auto">AAFP6----1A----</AM>
-<AM lemma="emigracechtivý" src="auto" recommended="1">AAMP2----1A----</AM>
-<AM lemma="emigracechtivý" src="auto">AANP2----1A----</AM>
-<AM lemma="emigracechtivý" src="auto">AAIP6----1A----</AM>
-<AM lemma="emigracechtivý_^(*2t)" src="auto">AAIP2----1A----</AM>
-<AM lemma="emigracechtivý_^(*2t)" src="auto">AAFP2----1A----</AM>
-</tag>
+<tag lemma="emigracechtivý" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln94202-78-p4s3w38">
 <src.rf>manual</src.rf>
@@ -2346,18 +2325,7 @@
 <LM>w#w-ln94202-78-p5s1w11</LM>
 </w.rf>
 <form>Robaina</form>
-<tag>
-<AM lemma="Robaina_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Robaina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Robain_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Robaina_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Robain_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Robaina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Robaina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Robain_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Robaina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="robaina" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Robaina_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-78-p5s1w12">
 <src.rf>manual</src.rf>
@@ -4511,17 +4479,7 @@
 <LM>w#w-ln94202-78-p8s3w3</LM>
 </w.rf>
 <form>máximo</form>
-<tag>
-<AM lemma="máximo_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="máximo_;R_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="máximo_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="máximo-2" src="auto">Db-------------</AM>
-<AM lemma="máximo-1" src="auto">RR--4----------</AM>
-<AM lemma="máximo-1" src="auto">RR--2----------</AM>
-<AM lemma="máximo" src="auto">Db-------------</AM>
-<AM lemma="máximo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="máximo" src="auto">NNNS1-----A----</AM>
-</tag>
+<tag lemma="máximo_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-78-p8s3w4">
 <src.rf>manual</src.rf>
@@ -4529,17 +4487,7 @@
 <LM>w#w-ln94202-78-p8s3w4</LM>
 </w.rf>
 <form>líderem</form>
-<tag>
-<AM lemma="líder" src="orig">NNMS7-----A----</AM>
-<AM lemma="líder" src="auto">NNIS7-----A----</AM>
-<AM lemma="líder" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="líder_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="líder_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="lídero" src="auto">NNNS7-----A----</AM>
-<AM lemma="líder_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="líderma" src="auto">NNFP2-----A----</AM>
-<AM lemma="lídere_;S" src="auto">NNMS7-----A----</AM>
-</tag>
+<tag lemma="líder" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94202-78-p8s3w5">
 <src.rf>manual</src.rf>

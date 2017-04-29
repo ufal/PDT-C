@@ -303,17 +303,7 @@
 <LM>w#w-ln95045-057-p2s1Bw21</LM>
 </w.rf>
 <form>Mierta</form>
-<tag>
-<AM lemma="Miert_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Miert_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Miert_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mierta" src="auto">NNFS1-----A----</AM>
-<AM lemma="Miert_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Mierta_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Miert_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Mierta_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mierta" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miert_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-057-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -387,17 +377,7 @@
 <LM>w#w-ln95045-057-p2s2w8</LM>
 </w.rf>
 <form>Mierta</form>
-<tag>
-<AM lemma="Miert_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Miert_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Miert_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mierta" src="auto">NNFS1-----A----</AM>
-<AM lemma="Miert_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Mierta_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Miert_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Mierta_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mierta" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miert_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-057-p2s2w9">
 <src.rf>manual</src.rf>
@@ -1369,18 +1349,7 @@
 <LM>w#w-ln95045-057-p3s3w5</LM>
 </w.rf>
 <form>Spitaels</form>
-<tag>
-<AM lemma="Spitaels_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Spitaels_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Spitael_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Spitael_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Spitael_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Spitael_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Spitaels_;m_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Spitaels_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Spitaels_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="spitaels" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Spitaels_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-057-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1436,18 +1405,7 @@
 <LM>w#w-ln95045-057-p3s3w12</LM>
 </w.rf>
 <form>Malshot</form>
-<tag>
-<AM lemma="Malshot_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Malshoty_^(pomn.)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Malshot_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Malshot_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Malshot_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Malshot_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Malshot-2_,h_,t_^(angl._horký)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Malshot" src="auto">NNIS1-----A----</AM>
-<AM lemma="Malshot" src="auto">NNIS4-----A----</AM>
-<AM lemma="malshot" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Malshot_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-057-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1495,12 +1453,7 @@
 <LM>w#w-ln95045-057-p3s3w18</LM>
 </w.rf>
 <form>CoĎme</form>
-<tag>
-<AM lemma="CoĎme_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="CoĎme_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Codět" src="auto">Vi-P---1--A----</AM>
-<AM lemma="coďme" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="CoĎme_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-057-p3s3w19">
 <src.rf>manual</src.rf>
@@ -3375,17 +3328,7 @@
 <LM>w#w-ln95045-057-p6s3w18</LM>
 </w.rf>
 <form>Walleyn</form>
-<tag>
-<AM lemma="Walleyn_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Walleyn_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Walleyn" src="auto">NNIS4-----A----</AM>
-<AM lemma="Walleyn" src="auto">NNIS1-----A----</AM>
-<AM lemma="Walleyn" src="auto">NNMS1-----A----</AM>
-<AM lemma="Walleynamo_:B_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Walleyn_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Walleyn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="walleyn" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Walleyn_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-057-p6s3w19">
 <src.rf>manual</src.rf>
@@ -3590,17 +3533,7 @@
 <LM>w#w-ln95045-057-p6s4w17</LM>
 </w.rf>
 <form>Mierta</form>
-<tag>
-<AM lemma="Miert_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Miert_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Miert_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mierta" src="auto">NNFS1-----A----</AM>
-<AM lemma="Miert_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Mierta_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Miert_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Mierta_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mierta" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miert_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-057-p6s4w18">
 <src.rf>manual</src.rf>
@@ -3844,18 +3777,7 @@
 <LM>w#w-ln95045-057-p7s2w4</LM>
 </w.rf>
 <form>Miert</form>
-<tag>
-<AM lemma="Miert_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Miert_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Miert_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miert_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miert" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miert" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miert" src="auto">NNIS4-----A----</AM>
-<AM lemma="Miert_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Miert_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="miert" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miert_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-057-p7s2w5">
 <src.rf>manual</src.rf>
@@ -4271,15 +4193,7 @@
 <LM>w#w-ln95045-057-p7s4w7</LM>
 </w.rf>
 <form>Dehaena</form>
-<tag>
-<AM lemma="Dehaen_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Dehait_:W" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="Dehait" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="Dehaen_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Dehaen_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Dehaena_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="dehaena" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dehaen_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-057-p7s4w8">
 <src.rf>manual</src.rf>

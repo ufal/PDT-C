@@ -53,23 +53,7 @@
 <LM>w#w-mf930713-031-p2s1Aw1</LM>
 </w.rf>
 <form>Lac</form>
-<tag>
-<AM lemma="Lac_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Lac_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Lac_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mac_;S_^(LacIntosh)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lac_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lac_;R_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Lac_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lac_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="lac-2_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="lac_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lac_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mac_;S_^(lacIntosh)" src="auto">NNMS1-----A----</AM>
-<AM lemma="lac_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="lac_;R_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="lac_;R" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="Lac_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-031-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -85,17 +69,7 @@
 <LM>w#w-mf930713-031-p2s1Aw3</LM>
 </w.rf>
 <form>Madine</form>
-<tag>
-<AM lemma="Madine_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Madinout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Madine_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Madine_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Madine_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Madine_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Madine_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Madine_;U_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="madine" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Madine_;G" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf930713-031-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -193,18 +167,7 @@
 <LM>w#w-mf930713-031-p2s1Bw11</LM>
 </w.rf>
 <form>Tour</form>
-<tag>
-<AM lemma="Tour_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tour_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Toura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Tour_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tour_;R_,t" src="auto">PSXXX-X2-------</AM>
-<AM lemma="tour" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tour_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930713-031-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -334,18 +297,7 @@
 <LM>w#w-mf930713-031-p2s2w3</LM>
 </w.rf>
 <form>Breukinkem</form>
-<tag>
-<AM lemma="Breukink_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Breukink" src="auto">NNIS7-----A----</AM>
-<AM lemma="Breukinek" src="auto">NNIS7-----A----</AM>
-<AM lemma="Breukink" src="auto">NNMS7-----A----</AM>
-<AM lemma="Breukink_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Breukinek_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Breukinko_;G" src="auto">NNNS7-----A----</AM>
-<AM lemma="Breukinko" src="auto">NNNS7-----A----</AM>
-<AM lemma="Breukinek" src="auto">NNMS7-----A----</AM>
-<AM lemma="breukinkem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Breukink_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930713-031-p2s2w4">
 <src.rf>manual</src.rf>
@@ -427,18 +379,7 @@
 <LM>w#w-mf930713-031-p2s3w3</LM>
 </w.rf>
 <form>Tour</form>
-<tag>
-<AM lemma="Tour_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tour_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Toura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Tour_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tour_;R_,t" src="auto">PSXXX-X2-------</AM>
-<AM lemma="tour" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tour_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930713-031-p2s3w4">
 <src.rf>manual</src.rf>
@@ -706,18 +647,7 @@
 <LM>w#w-mf930713-031-p2s7w1</LM>
 </w.rf>
 <form>Breukink</form>
-<tag>
-<AM lemma="Breukink_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Breukink_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Breukink" src="auto">NNIS1-----A----</AM>
-<AM lemma="Breukink" src="auto">NNIS4-----A----</AM>
-<AM lemma="ink_,t_^(Breukink_jet)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pink_;K_,t_^(Breukink_Floyd)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Breuking" src="auto">NNIS1-----A----</AM>
-<AM lemma="Breukink_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Breukink-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="breukink" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Breukink_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-031-p2s7w2">
 <src.rf>manual</src.rf>

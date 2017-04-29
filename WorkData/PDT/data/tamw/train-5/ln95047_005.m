@@ -289,22 +289,7 @@
 <LM>w#w-ln95047-005-p2s2w9</LM>
 </w.rf>
 <form>ČECHROS</form>
-<tag>
-<AM lemma="ČECHROS_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ČECHROS_:B_;K_^(Rada_obrany_státu)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČECHROS_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ČECHROS_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČECHROS_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čechros_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čechros_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čechros" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čechr_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Čechros_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čechros_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Čechros_;G_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čechros_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="čechros" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ČECHROS_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95047-005-p2s2w10">
 <src.rf>manual</src.rf>
@@ -376,18 +361,7 @@
 <LM>w#w-ln95047-005-p2s2w18</LM>
 </w.rf>
 <form>Obminskij</form>
-<tag>
-<AM lemma="Obminskij_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Obminskij_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Obminský_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Obminský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Obminskij_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Obminskij_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="Obminskij_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Obminskít" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Obminskij_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="obminskij" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Obminskij_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-005-p2s2w19">
 <src.rf>manual</src.rf>
@@ -737,22 +711,7 @@
 <LM>w#w-ln95047-005-p4s1w2</LM>
 </w.rf>
 <form>ČECHROS</form>
-<tag>
-<AM lemma="ČECHROS_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ČECHROS_:B_;K_^(Rada_obrany_státu)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČECHROS_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ČECHROS_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČECHROS_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čechros_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čechros_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čechros" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čechr_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Čechros_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čechros_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Čechros_;G_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čechros_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="čechros" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ČECHROS_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95047-005-p4s1w3">
 <src.rf>manual</src.rf>

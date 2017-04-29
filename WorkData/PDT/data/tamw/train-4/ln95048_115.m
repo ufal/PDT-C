@@ -1353,16 +1353,7 @@
 <LM>w#w-ln95048-115-p4s2w21</LM>
 </w.rf>
 <form>Boulogni</form>
-<tag>
-<AM lemma="Boulogn_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Boulogni_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Boulogna_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Boulogn_;G" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Boulogni_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Boulogni-2_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Boulogn" src="auto">NNMP1-----A----</AM>
-<AM lemma="boulogni" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Boulogn_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95048-115-p4s2w22">
 <src.rf>manual</src.rf>
@@ -1649,17 +1640,7 @@
 <LM>w#w-ln95048-115-p5s2w14</LM>
 </w.rf>
 <form>az</form>
-<tag>
-<AM lemma="az_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="az" src="auto">NNIS4-----A----</AM>
-<AM lemma="az" src="auto">NNIS1-----A----</AM>
-<AM lemma="az_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="az_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="az_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="azílie_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="aza" src="auto">NNFP2-----A----</AM>
-<AM lemma="az_;R_,t" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="az_;G" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95048-115-p5s2w15">
 <src.rf>manual</src.rf>
@@ -1675,18 +1656,7 @@
 <LM>w#w-ln95048-115-p5s2w16</LM>
 </w.rf>
 <form>Zajját</form>
-<tag>
-<AM lemma="Zajját_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Zajját_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Zajját-2_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zajját" src="auto">Vf--------A----</AM>
-<AM lemma="Zajját" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zajját" src="auto">NNIS4-----A----</AM>
-<AM lemma="Zajját" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zajját_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zajját" src="auto">Cv-------------</AM>
-<AM lemma="zajját" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Zajját_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-115-p5s2w17">
 <src.rf>manual</src.rf>

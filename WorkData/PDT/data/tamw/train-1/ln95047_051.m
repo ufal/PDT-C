@@ -19,18 +19,7 @@
 <LM>w#w-ln95047-051-p1s1w1</LM>
 </w.rf>
 <form>Stahuljakova</form>
-<tag>
-<AM lemma="Stahuljakův_;S_^(*2)" src="orig">AUFS1M---------</AM>
-<AM lemma="Stahuljakův_;S_^(*2)" src="auto" recommended="1">AUFS1M---------</AM>
-<AM lemma="Stahuljakův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Stahuljakov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Stahuljakov_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Stahuljakův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Stahuljakův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Stahuljakov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Stahuljakův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="stahuljakova" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stahuljakův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95047-051-p1s1w2">
 <src.rf>manual</src.rf>
@@ -80,15 +69,7 @@
 <LM>w#w-ln95047-051-p2s1w3</LM>
 </w.rf>
 <form>Jurji</form>
-<tag>
-<AM lemma="Jurja_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Jurja_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Jur_^(*1ý)" src="auto">Dg-------2A----</AM>
-<AM lemma="Jurj" src="auto">NNIS6-----A----</AM>
-<AM lemma="Jurj" src="auto">NNIP7-----A----</AM>
-<AM lemma="Jur_^(*1í)" src="auto">Dg-------2A----</AM>
-<AM lemma="jurji" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jurja_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-051-p2s1w4">
 <src.rf>manual</src.rf>
@@ -96,17 +77,7 @@
 <LM>w#w-ln95047-051-p2s1w4</LM>
 </w.rf>
 <form>Stahuljaka</form>
-<tag>
-<AM lemma="Stahuljak_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Stahuljak_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Stahuljak_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Stahuljak" src="auto">NNMS4-----A----</AM>
-<AM lemma="Stahuljaka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stahuljaka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Stahuljaco_;Y" src="auto">NNMS2-----A---1</AM>
-<AM lemma="Stahuljakum" src="auto">NNNP4-----A----</AM>
-<AM lemma="stahuljaka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stahuljak_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-051-p2s1w5">
 <src.rf>manual</src.rf>
@@ -610,18 +581,7 @@
 <LM>w#w-ln95047-051-p2s3w15</LM>
 </w.rf>
 <form>Misa</form>
-<tag>
-<AM lemma="misa_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Misa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Miso_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Miso_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Misa_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Misa_;R_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Misa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Misa_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Misa" src="auto">NNFS1-----A----</AM>
-<AM lemma="misa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="misa_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-051-p2s3w16">
 <src.rf>manual</src.rf>
@@ -637,18 +597,7 @@
 <LM>w#w-ln95047-051-p2s3w17</LM>
 </w.rf>
 <form>Miserij</form>
-<tag>
-<AM lemma="miserij_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Miserij_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miserij_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Miserij_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miserý_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Miserý_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miserít" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Miserij_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Miserij_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="miserij" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="miserij_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95047-051-p2s3w18">
 <src.rf>manual</src.rf>
@@ -1174,18 +1123,7 @@
 <LM>w#w-ln95047-051-p3s2w5</LM>
 </w.rf>
 <form>Stahuljakovy</form>
-<tag>
-<AM lemma="Stahuljakův_;S_^(*2)" src="orig">AUFS2M---------</AM>
-<AM lemma="Stahuljakův_;S_^(*2)" src="auto" recommended="1">AUFS2M---------</AM>
-<AM lemma="Stahuljakův_;S_^(*2)" src="auto">AUFP1M---------</AM>
-<AM lemma="Stahuljakův_^(*2)" src="auto">AUFS2M---------</AM>
-<AM lemma="Stahuljakův_;S_^(*2)" src="auto">AUIP1M---------</AM>
-<AM lemma="Stahuljakův_;S_^(*2a)" src="auto">AUFS2M---------</AM>
-<AM lemma="Stahuljakova" src="auto">NNFS2-----A----</AM>
-<AM lemma="Stahuljakův_;S_^(*2)" src="auto">AUIP4M---------</AM>
-<AM lemma="Stahuljakův_;S_^(*2)" src="auto">AUFP4M---------</AM>
-<AM lemma="stahuljakovy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stahuljakův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95047-051-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1593,18 +1531,7 @@
 <LM>w#w-ln95047-051-p3s4w25</LM>
 </w.rf>
 <form>Stahuljakovu</form>
-<tag>
-<AM lemma="Stahuljakův_;S_^(*2)" src="orig">AUFS4M---------</AM>
-<AM lemma="Stahuljakův_;S_^(*2)" src="auto" recommended="1">AUFS4M---------</AM>
-<AM lemma="Stahuljakův_^(*2)" src="auto">AUFS4M---------</AM>
-<AM lemma="Stahuljakův_;S_^(*2a)" src="auto">AUFS4M---------</AM>
-<AM lemma="Stahuljakova" src="auto">NNFS4-----A----</AM>
-<AM lemma="Stahuljakův_;S_^(*2)" src="auto">AUIS3M---------</AM>
-<AM lemma="Stahuljakov" src="auto">NNIS3-----A----</AM>
-<AM lemma="Stahuljakovo_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Stahuljakov_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="stahuljakovu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stahuljakův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95047-051-p3s4w26">
 <src.rf>manual</src.rf>
@@ -2101,18 +2028,7 @@
 <LM>w#w-ln95047-051-p4s2w18</LM>
 </w.rf>
 <form>Stahuljak</form>
-<tag>
-<AM lemma="Stahuljak_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Stahuljak_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stahuljak" src="auto">Db-------------</AM>
-<AM lemma="Stahuljak" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stahuljak_;S" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Stahuljak_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stahuljak-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Stahuljak-3" src="auto">Db-------------</AM>
-<AM lemma="Stahuljak-2" src="auto">J^-------------</AM>
-<AM lemma="stahuljak" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stahuljak_;S" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95047-051-p4s2w19">
 <src.rf>manual</src.rf>
@@ -2276,18 +2192,7 @@
 <LM>w#w-ln95047-051-p5s1w2</LM>
 </w.rf>
 <form>Stahuljakovy</form>
-<tag>
-<AM lemma="Stahuljakův_;S_^(*2)" src="orig">AUFS2M---------</AM>
-<AM lemma="Stahuljakův_;S_^(*2)" src="auto" recommended="1">AUFS2M---------</AM>
-<AM lemma="Stahuljakův_;S_^(*2)" src="auto">AUFP1M---------</AM>
-<AM lemma="Stahuljakův_^(*2)" src="auto">AUFS2M---------</AM>
-<AM lemma="Stahuljakův_;S_^(*2)" src="auto">AUIP1M---------</AM>
-<AM lemma="Stahuljakův_;S_^(*2a)" src="auto">AUFS2M---------</AM>
-<AM lemma="Stahuljakova" src="auto">NNFS2-----A----</AM>
-<AM lemma="Stahuljakův_;S_^(*2)" src="auto">AUIP4M---------</AM>
-<AM lemma="Stahuljakův_;S_^(*2)" src="auto">AUFP4M---------</AM>
-<AM lemma="stahuljakovy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stahuljakův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95047-051-p5s1w3">
 <src.rf>manual</src.rf>

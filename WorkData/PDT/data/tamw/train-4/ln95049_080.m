@@ -953,14 +953,7 @@
 <LM>w#w-ln95049-080-p2s6w12</LM>
 </w.rf>
 <form>Turadžonzádeh</form>
-<tag>
-<AM lemma="Turadžonzádeh_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Turadžonzádeh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Turadžonzádeh" src="auto">NNIS1-----A----</AM>
-<AM lemma="Turadžonzádeh" src="auto">NNIS4-----A----</AM>
-<AM lemma="Turadžonzádeh_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="turadžonzádeh" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Turadžonzádeh_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-080-p2s6w13">
 <src.rf>manual</src.rf>

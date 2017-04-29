@@ -371,18 +371,7 @@
 <LM>w#w-ln95045-036-p2s3w6</LM>
 </w.rf>
 <form>Maifredi</form>
-<tag>
-<AM lemma="Maifredi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Maifredi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Maifred" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Maifreď" src="auto">NNFS6-----A----</AM>
-<AM lemma="Maifreď" src="auto">NNFS3-----A----</AM>
-<AM lemma="Maifreď" src="auto">NNFS2-----A---1</AM>
-<AM lemma="Maifreď" src="auto">NNFS2-----A----</AM>
-<AM lemma="Maifreď" src="auto">NNFP1-----A---1</AM>
-<AM lemma="Maifredi_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="maifredi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Maifredi_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-036-p2s3w7">
 <src.rf>manual</src.rf>

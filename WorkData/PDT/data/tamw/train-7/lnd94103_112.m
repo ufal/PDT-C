@@ -439,18 +439,7 @@
 <LM>w#w-lnd94103-112-p1s26w4</LM>
 </w.rf>
 <form>Hipp</form>
-<tag>
-<AM lemma="Hipp_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hipp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hipp_;S" src="auto">NNMSX-----A----</AM>
-<AM lemma="Hipp_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hipp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hipp_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Hipp-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Hipp" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hipp" src="auto">NNIS4-----A----</AM>
-<AM lemma="hipp" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hipp_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-112-p1s26w5">
 <src.rf>manual</src.rf>

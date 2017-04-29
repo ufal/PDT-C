@@ -19,18 +19,7 @@
 <LM>w#w-ln95049-046-p1s1w1</LM>
 </w.rf>
 <form>Ngugimu</form>
-<tag>
-<AM lemma="Ngugi_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Ngugi_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Ngugim_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Ngugim" src="auto">NNIS6-----A----</AM>
-<AM lemma="Ngugim" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ngugimum" src="auto">NNNS3-----A----</AM>
-<AM lemma="Ngugima_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ngugima-1" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ngugim_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="ngugimu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ngugi_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95049-046-p1s1w2">
 <src.rf>manual</src.rf>
@@ -242,17 +231,7 @@
 <LM>w#w-ln95049-046-p2s1Bw20</LM>
 </w.rf>
 <form>Ngugiho</form>
-<tag>
-<AM lemma="Ngugi_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Ngugi_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ngugi_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Ngugi_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ngugi_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ngugi_;m" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ngugi_;S_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ngugi-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ngugiho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ngugi_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-046-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -390,18 +369,7 @@
 <LM>w#w-ln95049-046-p2s2w6</LM>
 </w.rf>
 <form>Ngugi</form>
-<tag>
-<AM lemma="Ngugi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ngug_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Ngugi_;w_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Ngugi_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Ngugi_;m" src="auto">II-------------</AM>
-<AM lemma="Ngugi_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ngugi_;S_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ngugi_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Ngugi-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ngugi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ngugi_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-046-p2s2w7">
 <src.rf>manual</src.rf>

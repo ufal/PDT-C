@@ -1568,20 +1568,7 @@
 <LM>w#w-mf930709-126-p35s1w4</LM>
 </w.rf>
 <form>mezin</form>
-<tag>
-<AM lemma="mezinárodní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="mezin" src="auto">NNIS1-----A----</AM>
-<AM lemma="mezin" src="auto">NNIS4-----A----</AM>
-<AM lemma="mezin-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="mezin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mezin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mezin_^(n-tice)" src="auto">A2--------A----</AM>
-<AM lemma="mezina" src="auto">NNFP2-----A----</AM>
-<AM lemma="mezinádraží_:B" src="auto">NNNXX-----A---9</AM>
-<AM lemma="mezinárodní_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="mezín" src="auto">NNIS1-----A----</AM>
-<AM lemma="mezín" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="mezinárodní_:B" src="orig" selected="1">AAXXX----1A---8</tag>
 </m>
 <m id="m-mf930709-126-p35s1w5">
 <src.rf>manual</src.rf>
@@ -2731,16 +2718,7 @@
 <LM>w#w-mf930709-126-p65s1w4</LM>
 </w.rf>
 <form>Wildou</form>
-<tag>
-<AM lemma="Wilda_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Wilda" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="Wilít" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="Wildý" src="auto">AAFS4----1A----</AM>
-<AM lemma="Wilda_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Wildý" src="auto">AAFS7----1A----</AM>
-<AM lemma="Wilt" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="wildou" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Wilda_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930709-126-p65s1w5">
 <src.rf>manual</src.rf>
@@ -2863,17 +2841,7 @@
 <LM>w#w-mf930709-126-p69s1w2</LM>
 </w.rf>
 <form>Headline</form>
-<tag>
-<AM lemma="Headline_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Headlinout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Headline_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Headline_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Headline_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Headline_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Headline_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Headline_;U_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="headline" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Headline_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930709-126-p69s1w3">
 <src.rf>manual</src.rf>
@@ -2914,18 +2882,7 @@
 <LM>w#w-mf930709-126-p70s1w2</LM>
 </w.rf>
 <form>World</form>
-<tag>
-<AM lemma="World_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="World_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="World_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="world" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="World_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930709-126-p70s1w3">
 <src.rf>manual</src.rf>
@@ -2952,17 +2909,7 @@
 <LM>w#w-mf930709-126-p71s1w2</LM>
 </w.rf>
 <form>Headline</form>
-<tag>
-<AM lemma="Headline_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Headlinout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Headline_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Headline_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Headline_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Headline_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Headline_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Headline_;U_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="headline" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Headline_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930709-126-p71s1w3">
 <src.rf>manual</src.rf>
@@ -3003,18 +2950,7 @@
 <LM>w#w-mf930709-126-p72s1w2</LM>
 </w.rf>
 <form>World</form>
-<tag>
-<AM lemma="World_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="World_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="World_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="world" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="World_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930709-126-p72s1w3">
 <src.rf>manual</src.rf>
@@ -3041,17 +2977,7 @@
 <LM>w#w-mf930709-126-p73s1w2</LM>
 </w.rf>
 <form>Moneyline</form>
-<tag>
-<AM lemma="Moneyline_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Moneylinout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Moneyline_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Moneyline_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Moneyline_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Moneyline_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Moneyline_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Moneyline_;U_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="moneyline" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Moneyline_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 </s>
 <s id="m-mf930709-126-p74s1">
@@ -3070,18 +2996,7 @@
 <LM>w#w-mf930709-126-p74s1w2</LM>
 </w.rf>
 <form>Worldwide</form>
-<tag>
-<AM lemma="Worldwide_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Worldwide_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Worldwide_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Worldwide_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Worldwide_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Worldwide_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Worldwide_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Worldwide_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Worldwide_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="worldwide" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Worldwide_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930709-126-p74s1w3">
 <src.rf>manual</src.rf>
@@ -3114,17 +3029,7 @@
 <LM>w#w-mf930709-126-p75s1w2</LM>
 </w.rf>
 <form>Headline</form>
-<tag>
-<AM lemma="Headline_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Headlinout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Headline_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Headline_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Headline_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Headline_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Headline_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Headline_;U_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="headline" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Headline_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930709-126-p75s1w3">
 <src.rf>manual</src.rf>
@@ -3173,18 +3078,7 @@
 <LM>w#w-mf930709-126-p76s1w3</LM>
 </w.rf>
 <form>Newsroom</form>
-<tag>
-<AM lemma="Newsroom_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Newsroom_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Newsroom_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Newsroom" src="auto">NNIS1-----A----</AM>
-<AM lemma="Newsroom" src="auto">NNIS4-----A----</AM>
-<AM lemma="Newsroom_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Newsroom" src="auto">NNMS1-----A----</AM>
-<AM lemma="Newsroom_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Newsroom" src="auto">Db-------------</AM>
-<AM lemma="newsroom" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Newsroom_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 </s>
 <s id="m-mf930709-126-p77s1">
@@ -3232,18 +3126,7 @@
 <LM>w#w-mf930709-126-p82s1w3</LM>
 </w.rf>
 <form>Morning</form>
-<tag>
-<AM lemma="Morning_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Morning_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Morning" src="auto">NNIS4-----A----</AM>
-<AM lemma="Morning_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Morning" src="auto">NNIS1-----A----</AM>
-<AM lemma="Morning_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Morning_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Morning_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Morning_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="morning" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Morning_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 </s>
 <s id="m-mf930709-126-p84s1">
@@ -3652,18 +3535,7 @@
 <LM>w#w-mf930709-126-p94s1w4</LM>
 </w.rf>
 <form>Newsfile</form>
-<tag>
-<AM lemma="Newsfile_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Newsfile_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Newsfila" src="auto">NNFS6-----A----</AM>
-<AM lemma="Newsfile" src="auto">NNFP4-----A----</AM>
-<AM lemma="Newsfil" src="auto">NNMS5-----A----</AM>
-<AM lemma="Newsfile_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Newsfile" src="auto">NNFS2-----A----</AM>
-<AM lemma="Newsfile" src="auto">NNFS1-----A----</AM>
-<AM lemma="Newsfile" src="auto">NNFP1-----A----</AM>
-<AM lemma="newsfile" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Newsfile_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 </s>
 <s id="m-mf930709-126-p95s1">
@@ -3681,18 +3553,7 @@
 <LM>w#w-mf930709-126-p95s1w2</LM>
 </w.rf>
 <form>Heute</form>
-<tag>
-<AM lemma="Heute_,t" src="orig">Db-------------</AM>
-<AM lemma="Heute_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="Heute_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Heute_;K_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Heute_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Heute_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Heute_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Heute_;K_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Heute_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="heute" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Heute_,t" src="orig" selected="1">Db-------------</tag>
 </m>
 </s>
 <s id="m-mf930709-126-p96s1">
@@ -3831,18 +3692,7 @@
 <LM>w#w-mf930709-126-p100s1w2</LM>
 </w.rf>
 <form>Stars</form>
-<tag>
-<AM lemma="Stars_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Stars_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Star_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Star_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Star_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Stars_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stars_:B_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Stars_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Stars-2_;R_^(planeta;;kosmická_sonda)" src="auto">NNIS4-----A----</AM>
-<AM lemma="stars" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stars_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-mf930709-126-p100s1w3">
 <src.rf>manual</src.rf>
@@ -3958,17 +3808,7 @@
 <LM>w#w-mf930709-126-p104s1w3</LM>
 </w.rf>
 <form>Showbiz</form>
-<tag>
-<AM lemma="Showbiz_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Showbiz_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Showbiz_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Showbiz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Showbíza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Showbizstán_:B_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="Showbizozemí_:B_;G" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Showbiza" src="auto">NNFP2-----A----</AM>
-<AM lemma="showbiz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Showbiz_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf930709-126-p104s1w4">
 <src.rf>manual</src.rf>
@@ -3976,18 +3816,7 @@
 <LM>w#w-mf930709-126-p104s1w4</LM>
 </w.rf>
 <form>Today</form>
-<tag>
-<AM lemma="Today_,t" src="orig">Db-------------</AM>
-<AM lemma="Today_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Today_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="Today_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Today_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Today_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Today_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Today_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Today_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="today" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Today_,t" src="orig" selected="1">Db-------------</tag>
 </m>
 </s>
 </mdata>

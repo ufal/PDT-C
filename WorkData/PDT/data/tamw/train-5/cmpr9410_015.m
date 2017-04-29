@@ -557,18 +557,7 @@
 <LM>w#w-cmpr9410-015-p8s1w5</LM>
 </w.rf>
 <form>Formed</form>
-<tag>
-<AM lemma="Formed_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Formedie_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formedicina_:B_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formed_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Formed_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS4-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS1-----A----</AM>
-<AM lemma="Formed_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Formed_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="formed" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p8s1w6">
 <src.rf>manual</src.rf>
@@ -1345,18 +1334,7 @@
 <LM>w#w-cmpr9410-015-p11s3w2</LM>
 </w.rf>
 <form>Formed</form>
-<tag>
-<AM lemma="Formed_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Formedie_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formedicina_:B_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formed_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Formed_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS4-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS1-----A----</AM>
-<AM lemma="Formed_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Formed_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="formed" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p11s3w3">
 <src.rf>manual</src.rf>
@@ -1963,18 +1941,7 @@
 <LM>w#w-cmpr9410-015-p11s7w16</LM>
 </w.rf>
 <form>Formed</form>
-<tag>
-<AM lemma="Formed_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Formedie_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formedicina_:B_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formed_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Formed_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS4-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS1-----A----</AM>
-<AM lemma="Formed_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Formed_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="formed" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p11s7w17">
 <src.rf>manual</src.rf>
@@ -2064,18 +2031,7 @@
 <LM>w#w-cmpr9410-015-p11s8w10</LM>
 </w.rf>
 <form>Formed</form>
-<tag>
-<AM lemma="Formed_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Formedie_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formedicina_:B_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formed_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Formed_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS4-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS1-----A----</AM>
-<AM lemma="Formed_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Formed_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="formed" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p11s8w11">
 <src.rf>manual</src.rf>
@@ -2435,18 +2391,7 @@
 <LM>w#w-cmpr9410-015-p13s2w1</LM>
 </w.rf>
 <form>Formed</form>
-<tag>
-<AM lemma="Formed_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Formedie_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formedicina_:B_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formed_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Formed_;K" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS4-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS1-----A----</AM>
-<AM lemma="Formed_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Formed_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="formed" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Formed_;K" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p13s2w2">
 <src.rf>manual</src.rf>
@@ -2828,18 +2773,7 @@
 <LM>w#w-cmpr9410-015-p14s1w5</LM>
 </w.rf>
 <form>Formed</form>
-<tag>
-<AM lemma="Formed_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Formedie_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formedicina_:B_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formed_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Formed_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS4-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS1-----A----</AM>
-<AM lemma="Formed_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Formed_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="formed" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p14s1w6">
 <src.rf>manual</src.rf>
@@ -3947,18 +3881,7 @@
 <LM>w#w-cmpr9410-015-p17s4w8</LM>
 </w.rf>
 <form>Formed</form>
-<tag>
-<AM lemma="Formed_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Formedie_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formedicina_:B_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formed_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Formed_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS4-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS1-----A----</AM>
-<AM lemma="Formed_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Formed_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="formed" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p17s4w9">
 <src.rf>manual</src.rf>
@@ -4122,18 +4045,7 @@
 <LM>w#w-cmpr9410-015-p19s1w1</LM>
 </w.rf>
 <form>Formed</form>
-<tag>
-<AM lemma="Formed_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Formedie_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formedicina_:B_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formed_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Formed_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS4-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS1-----A----</AM>
-<AM lemma="Formed_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Formed_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="formed" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p19s1w2">
 <src.rf>manual</src.rf>
@@ -4613,18 +4525,7 @@
 <LM>w#w-cmpr9410-015-p19s5w6</LM>
 </w.rf>
 <form>Chiradent</form>
-<tag>
-<AM lemma="Chiradent_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Chiradent" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Chiradent" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chiradent" src="auto">NNIS4-----A----</AM>
-<AM lemma="Chiradent_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Chiradent_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chiradent_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Chiradent_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Chiradent_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="chiradent" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chiradent_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p19s5w7">
 <src.rf>manual</src.rf>
@@ -5190,18 +5091,7 @@
 <LM>w#w-cmpr9410-015-p20s4w2</LM>
 </w.rf>
 <form>Formed</form>
-<tag>
-<AM lemma="Formed_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Formedie_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formedicina_:B_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formed_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Formed_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS4-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS1-----A----</AM>
-<AM lemma="Formed_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Formed_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="formed" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p20s4w3">
 <src.rf>manual</src.rf>
@@ -5413,18 +5303,7 @@
 <LM>w#w-cmpr9410-015-p21s1w3</LM>
 </w.rf>
 <form>Formed</form>
-<tag>
-<AM lemma="Formed_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Formedie_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formedicina_:B_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formed_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Formed_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS4-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS1-----A----</AM>
-<AM lemma="Formed_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Formed_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="formed" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p21s1w4">
 <src.rf>manual</src.rf>
@@ -5746,18 +5625,7 @@
 <LM>w#w-cmpr9410-015-p22s1w8</LM>
 </w.rf>
 <form>Formed</form>
-<tag>
-<AM lemma="Formed_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Formedie_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formedicina_:B_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Formed_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Formed_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS4-----A----</AM>
-<AM lemma="Formed" src="auto">NNIS1-----A----</AM>
-<AM lemma="Formed_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Formed_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="formed" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p22s1w9">
 <src.rf>manual</src.rf>

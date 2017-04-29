@@ -1049,18 +1049,7 @@
 <LM>w#w-ln94208-128-p3s4w22</LM>
 </w.rf>
 <form>Laferia</form>
-<tag>
-<AM lemma="Laferia_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Laferium" src="auto">NNNS2-----A----</AM>
-<AM lemma="Laferium" src="auto">NNNP4-----A----</AM>
-<AM lemma="Laferia_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Laferium" src="auto">NNNP1-----A----</AM>
-<AM lemma="Laferia_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Laferio_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Laferie_;G" src="auto">NNFS1-----A---1</AM>
-<AM lemma="Austria_;K_,t_^(fotbalový_klub_Laferia_Wien)" src="auto">NNFS1-----A----</AM>
-<AM lemma="laferia" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Laferia_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-128-p3s4w23">
 <src.rf>manual</src.rf>
@@ -2296,18 +2285,7 @@
 <LM>w#w-ln94208-128-p4s6w11</LM>
 </w.rf>
 <form>Ghedin</form>
-<tag>
-<AM lemma="Ghedin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ghedin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ghedina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ghedin" src="auto">NNIS1-----A----</AM>
-<AM lemma="kWh-1`Ghedina" src="auto">NNFP2-----A----</AM>
-<AM lemma="MWh-1`Ghedina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ghediny_^(přístroj)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ghedina_^(jednotka_času)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ghedin_^(medvěd)_(*2a)" src="auto">AUIS1F---------</AM>
-<AM lemma="ghedin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ghedin_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-128-p4s6w12">
 <src.rf>manual</src.rf>
@@ -2639,17 +2617,7 @@
 <LM>w#w-ln94208-128-p4s9w2</LM>
 </w.rf>
 <form>řej</form>
-<tag>
-<AM lemma="řej-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="řej_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="řej-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="řý" src="auto">AAMS1----1A---6</AM>
-<AM lemma="řej" src="auto">NNIS1-----A----</AM>
-<AM lemma="řý" src="auto">AAIS1----1A---6</AM>
-<AM lemma="řej_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="řej" src="auto">NNIS4-----A----</AM>
-<AM lemma="řat_:T" src="auto">Vi-S---2--A----</AM>
-</tag>
+<tag lemma="řej-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94208-128-p4s9w3">
 <src.rf>manual</src.rf>

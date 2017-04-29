@@ -2030,18 +2030,7 @@
 <LM>w#w-mf920922-026-p2s12Bw9</LM>
 </w.rf>
 <form>Promotion</form>
-<tag>
-<AM lemma="Promotion_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Promotion_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Promotion_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Promotion_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Promotion_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Promotion" src="auto">NNIS1-----A----</AM>
-<AM lemma="Promotion_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Promotión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Promotión" src="auto">NNIS1-----A----</AM>
-<AM lemma="promotion" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Promotion_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920922-026-p2s12Bw10">
 <src.rf>manual</src.rf>
@@ -2049,17 +2038,7 @@
 <LM>w#w-mf920922-026-p2s12Bw10</LM>
 </w.rf>
 <form>agency</form>
-<tag>
-<AM lemma="agency_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="agency_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="agency_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="agency_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="agency-2_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="agency_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="agency_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="agenca_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="agenca_;R_,t" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="agency_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920922-026-p2s12Bw11">
 <src.rf>manual</src.rf>

@@ -149,22 +149,7 @@
 <LM>w#w-ln94203-59-p2s1w10</LM>
 </w.rf>
 <form>CERGE</form>
-<tag>
-<AM lemma="CERGE_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CERGE-1_:B_;K_,t_^(General_Electric_Company)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="CERGE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="CERGE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CERGE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Cerge_;Y_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="Cerge_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Cerge_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cerge_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="cerge" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="CERGE_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94203-59-p2s1w11">
 <src.rf>manual</src.rf>
@@ -3729,13 +3714,7 @@
 <LM>w#w-ln94203-59-p5s8w3</LM>
 </w.rf>
 <form>quo</form>
-<tag>
-<AM lemma="quo_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="quo_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="quo_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="quo" src="auto">NNNS4-----A----</AM>
-<AM lemma="quo" src="auto">NNNS1-----A----</AM>
-</tag>
+<tag lemma="quo_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94203-59-p5s8w4">
 <src.rf>manual</src.rf>
@@ -5335,17 +5314,7 @@
 <LM>w#w-ln94203-59-p7s4w21</LM>
 </w.rf>
 <form>neúdržby</form>
-<tag>
-<AM lemma="údržba" src="orig">NNFS2-----N----</AM>
-<AM lemma="neúdržba" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="neúdržba" src="auto">NNFP4-----A----</AM>
-<AM lemma="neúdržba" src="auto">NNFP1-----A----</AM>
-<AM lemma="neúdržby_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="neúdržb" src="auto">NNIP4-----A----</AM>
-<AM lemma="neúdržb" src="auto">NNIP1-----A----</AM>
-<AM lemma="neúdržb" src="auto">NNIP7-----A----</AM>
-<AM lemma="neúdržba_;S" src="auto">NNMS2-----A----</AM>
-</tag>
+<tag lemma="údržba" src="orig" selected="1">NNFS2-----N----</tag>
 </m>
 <m id="m-ln94203-59-p7s4w22">
 <src.rf>manual</src.rf>

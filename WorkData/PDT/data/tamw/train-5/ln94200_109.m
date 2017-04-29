@@ -91,18 +91,7 @@
 <LM>w#w-ln94200-109-p1s1w10</LM>
 </w.rf>
 <form>Goletta</form>
-<tag>
-<AM lemma="Goletta_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Golett_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Golett_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Goletta_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Goletta_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Goletta_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Goletta_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Goletto_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Goletto" src="auto">NNNS2-----A----</AM>
-<AM lemma="goletta" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Goletta_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-109-p1s1w11">
 <src.rf>manual</src.rf>

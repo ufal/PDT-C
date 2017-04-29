@@ -123,17 +123,7 @@
 <LM>w#w-mf920922-020-p1s1w14</LM>
 </w.rf>
 <form>standby</form>
-<tag>
-<AM lemma="standby_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="standba" src="auto">NNFS2-----A----</AM>
-<AM lemma="standba" src="auto">NNFP4-----A----</AM>
-<AM lemma="standba" src="auto">NNFP1-----A----</AM>
-<AM lemma="standby_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="standby_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="standb" src="auto">NNIP4-----A----</AM>
-<AM lemma="standb" src="auto">NNIP1-----A----</AM>
-<AM lemma="standb" src="auto">NNIP7-----A----</AM>
-</tag>
+<tag lemma="standby_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920922-020-p1s1w15">
 <src.rf>manual</src.rf>
@@ -141,17 +131,7 @@
 <LM>w#w-mf920922-020-p1s1w15</LM>
 </w.rf>
 <form>arrangement</form>
-<tag>
-<AM lemma="arrangement_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="arrangement" src="auto">NNIS1-----A----</AM>
-<AM lemma="arrangement" src="auto">NNMS1-----A----</AM>
-<AM lemma="arrangement" src="auto">NNIS4-----A----</AM>
-<AM lemma="arrangement_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="arrangement_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="arrangement_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="arrangement_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="arrangement_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="arrangement_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf920922-020-p1s1w16">
 <src.rf>manual</src.rf>

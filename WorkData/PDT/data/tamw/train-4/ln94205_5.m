@@ -43,18 +43,7 @@
 <LM>w#w-ln94205-5-p1s1w4</LM>
 </w.rf>
 <form>Mascou</form>
-<tag>
-<AM lemma="Masca_;R_,t" src="orig">NNFS7-----A----</AM>
-<AM lemma="Masca_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Masca_;R_,t" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="Masca_;G" src="auto">NNFS7-----A----</AM>
-<AM lemma="Mascý" src="auto">AAFS4----1A----</AM>
-<AM lemma="Masca" src="auto">NNFS7-----A----</AM>
-<AM lemma="Mascý" src="auto">AAFS7----1A----</AM>
-<AM lemma="Mascý_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="Mascý_^(*3it)" src="auto">AAFS4----1A----</AM>
-<AM lemma="mascou" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Masca_;R_,t" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94205-5-p1s1w5">
 <src.rf>manual</src.rf>
@@ -994,16 +983,7 @@
 <LM>w#w-ln94205-5-p3s1w1</LM>
 </w.rf>
 <form>Mascu</form>
-<tag>
-<AM lemma="Masca_;R_,t" src="orig">NNFS4-----A----</AM>
-<AM lemma="Mascu_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Masca_;R_,t" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Masko_;G_,x" src="auto">NNNS6-----A----</AM>
-<AM lemma="Masc" src="auto">NNIS2-----A----</AM>
-<AM lemma="Masc_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Masc_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="mascu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Masca_;R_,t" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94205-5-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1375,16 +1355,7 @@
 <LM>w#w-ln94205-5-p3s3w8</LM>
 </w.rf>
 <form>Mascu</form>
-<tag>
-<AM lemma="Masca_;R_,t" src="orig">NNFS4-----A----</AM>
-<AM lemma="Mascu_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Masca_;R_,t" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Masko_;G_,x" src="auto">NNNS6-----A----</AM>
-<AM lemma="Masc" src="auto">NNIS2-----A----</AM>
-<AM lemma="Masc_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Masc_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="mascu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Masca_;R_,t" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94205-5-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1636,18 +1607,7 @@
 <LM>w#w-ln94205-5-p3s5w2</LM>
 </w.rf>
 <form>Mascy</form>
-<tag>
-<AM lemma="Masca_;R_,t" src="orig">NNFS2-----A----</AM>
-<AM lemma="Masca_;R_,t" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Mascy_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Mascy_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mascy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mascy_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Masca_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Masc_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Mascy_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="mascy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Masca_;R_,t" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-5-p3s5w3">
 <src.rf>manual</src.rf>
@@ -2057,18 +2017,7 @@
 <LM>w#w-ln94205-5-p4s1w1</LM>
 </w.rf>
 <form>Masca</form>
-<tag>
-<AM lemma="Masca_;R_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Masca_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Masca_;R_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Masca_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Masca_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Masco_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Masc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Masca_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Masca_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="masca" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Masca_;R_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-5-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2456,16 +2405,7 @@
 <LM>w#w-ln94205-5-p4s3w2</LM>
 </w.rf>
 <form>wig</form>
-<tag>
-<AM lemma="wig-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="wig_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="wig_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="wig-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="wig_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="wig_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="wig_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Big-1_;K_,t_^(souč._názvů,_např._wig_Ben)" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="wig-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-5-p4s3w3">
 <src.rf>manual</src.rf>

@@ -1140,25 +1140,7 @@
 <LM>w#w-ln95046-073-p3s5w19</LM>
 </w.rf>
 <form>Mc</form>
-<tag>
-<AM lemma="Mc_;S_,t" src="orig">NNMXX-----A----</AM>
-<AM lemma="Mc_;S_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mc_;S" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Mc_;S" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mc" src="auto">NNIS1-----A----</AM>
-<AM lemma="mc" src="auto">NNMS1-----A----</AM>
-<AM lemma="mc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mce" src="auto">NNFP2-----A----</AM>
-<AM lemma="mce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="mc" src="auto">NNIS1-----A----</AM>
-<AM lemma="mc" src="auto">NNIS4-----A----</AM>
-<AM lemma="mc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="mc_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mc_;S_,t" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln95046-073-p3s5w20">
 <src.rf>manual</src.rf>
@@ -1830,24 +1812,7 @@
 <LM>w#w-ln95046-073-p4s3w8</LM>
 </w.rf>
 <form>Television</form>
-<tag>
-<AM lemma="Television_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Television" src="auto">NNIS1-----A----</AM>
-<AM lemma="Television_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Television_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Television_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Television_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Television_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Televisión" src="auto">NNIS1-----A----</AM>
-<AM lemma="Televisión" src="auto">NNIS4-----A----</AM>
-<AM lemma="television" src="auto">NNIS1-----A----</AM>
-<AM lemma="television" src="auto">NNIS4-----A----</AM>
-<AM lemma="television" src="auto">NNMS1-----A----</AM>
-<AM lemma="television-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="television_^(n-tice)" src="auto">A2--------A----</AM>
-<AM lemma="televisionádraží_:B" src="auto">NNNXX-----A---9</AM>
-<AM lemma="televisionárodní_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Television_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95046-073-p4s3w9">
 <src.rf>manual</src.rf>
@@ -1993,25 +1958,7 @@
 <LM>w#w-ln95046-073-p4s4w6</LM>
 </w.rf>
 <form>Mc</form>
-<tag>
-<AM lemma="Mc_;S_,t" src="orig">NNMXX-----A----</AM>
-<AM lemma="Mc_;S_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mc_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mc_;S" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Mc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mc" src="auto">NNIS1-----A----</AM>
-<AM lemma="mc" src="auto">NNMS1-----A----</AM>
-<AM lemma="mc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mce" src="auto">NNFP2-----A----</AM>
-<AM lemma="mce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="mc" src="auto">NNIS1-----A----</AM>
-<AM lemma="mc" src="auto">NNIS4-----A----</AM>
-<AM lemma="mc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="mc_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mc_;S_,t" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln95046-073-p4s4w7">
 <src.rf>manual</src.rf>

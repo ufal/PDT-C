@@ -398,18 +398,7 @@
 <LM>w#w-ln94202-119-p2s2w20</LM>
 </w.rf>
 <form>Mauro</form>
-<tag>
-<AM lemma="Mauro_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Maura" src="auto">NNFS5-----A----</AM>
-<AM lemma="Mauro_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mauro_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mauro_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Mauro-4_;K_,t_^(jako_adj.)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mauro" src="auto">NNNS1-----A----</AM>
-<AM lemma="Mauro_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mauro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="mauro" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mauro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-119-p2s2w21">
 <src.rf>manual</src.rf>
@@ -547,18 +536,7 @@
 <LM>w#w-ln94202-119-p2s3w5</LM>
 </w.rf>
 <form>Lendoiro</form>
-<tag>
-<AM lemma="Lendoiro_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lendoiro_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lendoiro_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lendoiro_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lendoiro" src="auto">NNNS1-----A----</AM>
-<AM lemma="Giro-1_;m_;w_,t_^(lat.,_souč._názvu,_např._Lendoiro_d'Italia)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Lendoiro_;Y" src="auto">NNMSX-----A----</AM>
-<AM lemma="Lendoiro_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lendoiro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="lendoiro" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lendoiro_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-119-p2s3w6">
 <src.rf>manual</src.rf>
@@ -830,18 +808,7 @@
 <LM>w#w-ln94202-119-p3s1w2</LM>
 </w.rf>
 <form>Lendoiro</form>
-<tag>
-<AM lemma="Lendoiro_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lendoiro_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lendoiro_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lendoiro_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lendoiro" src="auto">NNNS1-----A----</AM>
-<AM lemma="Giro-1_;m_;w_,t_^(lat.,_souč._názvu,_např._Lendoiro_d'Italia)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Lendoiro_;Y" src="auto">NNMSX-----A----</AM>
-<AM lemma="Lendoiro_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lendoiro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="lendoiro" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lendoiro_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-119-p3s1w3">
 <src.rf>manual</src.rf>

@@ -61,17 +61,7 @@
 <LM>w#w-mf920922-035-p2s1w2</LM>
 </w.rf>
 <form>brp</form>
-<tag>
-<AM lemma="brp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="brp-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="brporation_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="brp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="brp_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="brp" src="auto">NNMS1-----A----</AM>
-<AM lemma="brp" src="auto">NNIS1-----A----</AM>
-<AM lemma="brp" src="auto">NNIS4-----A----</AM>
-<AM lemma="brp_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="brp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920922-035-p2s1w3">
 <src.rf>manual</src.rf>

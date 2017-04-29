@@ -579,18 +579,7 @@
 <LM>w#w-ln95045-059-p3s1w20</LM>
 </w.rf>
 <form>Riina</form>
-<tag>
-<AM lemma="Riina_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Riina" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Riin_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Riina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Riin_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Riina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Riina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Riin_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Riina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="riina" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Riina_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-059-p3s1w21">
 <src.rf>manual</src.rf>
@@ -672,18 +661,7 @@
 <LM>w#w-ln95045-059-p3s2w1</LM>
 </w.rf>
 <form>Riina</form>
-<tag>
-<AM lemma="Riina_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Riina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Riin_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Riina_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Riin_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Riina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Riina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Riin_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Riina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="riina" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Riina_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-059-p3s2w2">
 <src.rf>manual</src.rf>

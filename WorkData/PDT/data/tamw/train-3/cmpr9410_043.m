@@ -4539,17 +4539,7 @@
 <LM>w#w-cmpr9410-043-p15s1w4</LM>
 </w.rf>
 <form>západoevropany</form>
-<tag>
-<AM lemma="západoevropan" src="orig">NNMP4-----A----</AM>
-<AM lemma="západoevropany_;G" src="auto">NNIP1-----A----</AM>
-<AM lemma="západoevropan_;E" src="auto">NNMP4-----A----</AM>
-<AM lemma="západoevropan" src="auto" recommended="1">NNMP4-----A----</AM>
-<AM lemma="západoevropan_;E" src="auto">NNMP7-----A----</AM>
-<AM lemma="západoevropan" src="auto">NNMP7-----A----</AM>
-<AM lemma="západoevropana_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="západoevropana" src="auto">NNFS2-----A----</AM>
-<AM lemma="západoevropana_;G" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="západoevropan" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-cmpr9410-043-p15s1w5">
 <src.rf>manual</src.rf>
@@ -7009,18 +6999,7 @@
 <LM>w#w-cmpr9410-043-p23s1w1</LM>
 </w.rf>
 <form>Economic</form>
-<tag>
-<AM lemma="Economic_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Economic_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Economic_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Economic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Economic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Economice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Economice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Economic_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Economice_^(*3ík)" src="auto">NNFP2-----A----</AM>
-<AM lemma="economic" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Economic_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9410-043-p23s1w2">
 <src.rf>manual</src.rf>
@@ -7028,16 +7007,7 @@
 <LM>w#w-cmpr9410-043-p23s1w2</LM>
 </w.rf>
 <form>Survey</form>
-<tag>
-<AM lemma="Survey_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Survey_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Survey_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Survey_;R_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Survey_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Survey_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Survey_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="survey" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Survey_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-043-p23s1w3">
 <src.rf>manual</src.rf>
@@ -7196,18 +7166,7 @@
 <LM>w#w-cmpr9410-043-p24s1w2</LM>
 </w.rf>
 <form>Economic</form>
-<tag>
-<AM lemma="Economic_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Economic_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Economic_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Economic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Economic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Economice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Economice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Economic_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Economice_^(*3ík)" src="auto">NNFP2-----A----</AM>
-<AM lemma="economic" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Economic_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9410-043-p24s1w3">
 <src.rf>manual</src.rf>

@@ -971,18 +971,7 @@
 <LM>w#w-lnd94103-074-p1s6w20</LM>
 </w.rf>
 <form>Paraquay</form>
-<tag>
-<AM lemma="Paraquay_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Paraquay_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Paraquay_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Paraquay_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paraquay_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paraquay_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Paraquay_,t" src="auto">Db-------------</AM>
-<AM lemma="Paraquej" src="auto">NNIS4-----A----</AM>
-<AM lemma="Paraquej" src="auto">NNIS1-----A----</AM>
-<AM lemma="paraquay" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Paraquay_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94103-074-p1s6w21">
 <src.rf>manual</src.rf>
@@ -3001,18 +2990,7 @@
 <LM>w#w-lnd94103-074-p1s19w12</LM>
 </w.rf>
 <form>Mitop</form>
-<tag>
-<AM lemma="Mitop_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mitop" src="auto">NNIS1-----A----</AM>
-<AM lemma="stop-1_^(zastavení,_i_Mitopování)" src="auto">NNIS4-----A----</AM>
-<AM lemma="stop-1_^(zastavení,_i_Mitopování)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mitopa_^(míra;_otisk_s.;_s._po_něčem_[malé_množství])" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mitopa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mitop-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Mitop-4_,t_^(angl.,_jako_sloveso)" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Mitop-3_,t_^(angl.,_jako_subst.)" src="auto">NNNXX-----A----</AM>
-<AM lemma="mitop" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mitop_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-074-p1s19w13">
 <src.rf>manual</src.rf>
@@ -3225,25 +3203,7 @@
 <LM>w#w-lnd94103-074-p1s21w9</LM>
 </w.rf>
 <form>All</form>
-<tag>
-<AM lemma="All_;K_,t" src="orig">PLXXX----------</AM>
-<AM lemma="All_;m_,t" src="auto">PLNS4----------</AM>
-<AM lemma="All_;K_,t" src="auto" recommended="1">PLXXX----------</AM>
-<AM lemma="All_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="All_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="All_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="All_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="All_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="All_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="all_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="all_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;w_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="all_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="all_,t_^(řec._jinak)" src="auto">Db-------------</AM>
-</tag>
+<tag lemma="All_;K_,t" src="orig" selected="1">PLXXX----------</tag>
 </m>
 <m id="m-lnd94103-074-p1s21w10">
 <src.rf>manual</src.rf>

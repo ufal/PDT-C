@@ -221,18 +221,7 @@
 <LM>w#w-lnd94103-097-p1s4w4</LM>
 </w.rf>
 <form>Braillo</form>
-<tag>
-<AM lemma="Braillo_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Braillo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Brailla_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Braillo_;m" src="auto">NNNSX-----A----</AM>
-<AM lemma="Braillo_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Braillo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Braillo_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Braillo_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Braillo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="braillo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Braillo_;K" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94103-097-p1s4w5">
 <src.rf>manual</src.rf>

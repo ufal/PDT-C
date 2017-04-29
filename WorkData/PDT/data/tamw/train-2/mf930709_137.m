@@ -99,17 +99,7 @@
 <LM>w#w-mf930709-137-p1s1w11</LM>
 </w.rf>
 <form>Tamiši</form>
-<tag>
-<AM lemma="Tamiši_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tamich" src="auto">NNMP1-----A----</AM>
-<AM lemma="Tamiša_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Tamiš_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tamiši_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Tamiši-2_;R_^(vozidlo)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Tamiše" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tamiš_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="tamiši" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tamiši_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-137-p1s1w12">
 <src.rf>manual</src.rf>

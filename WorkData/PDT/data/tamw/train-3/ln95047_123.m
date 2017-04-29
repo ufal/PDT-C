@@ -231,17 +231,7 @@
 <LM>w#w-ln95047-123-p2s2w9</LM>
 </w.rf>
 <form>Mecsekuran</form>
-<tag>
-<AM lemma="Mecsekuran_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mecsekuran_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mecsekurana" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mecsekuran_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_Mecsekuraně)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mecsekurany_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mecsekurancouzský_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Mecsekurana-4_^(v_knize,_rukopise,...)" src="auto">NNFP2-----A----</AM>
-<AM lemma="mecsekuran" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mecsekuran_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-123-p2s2w10">
 <src.rf>manual</src.rf>
@@ -249,25 +239,7 @@
 <LM>w#w-ln95047-123-p2s2w10</LM>
 </w.rf>
 <form>Kft</form>
-<tag>
-<AM lemma="Kft_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Kft_:B_;K_,t" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="Kft_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kft_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kft_^(jako_součást_názvu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kft_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kft_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Kft_;K_;b_;c" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kft_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="kft_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="kft_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="kft_^(jako_součást_názvu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="kft_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="kft_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="kft_;K_;b_;c" src="auto">NNIS1-----A----</AM>
-<AM lemma="kft_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="kft_;K" src="auto">NNXXX-----A----</AM>
-</tag>
+<tag lemma="Kft_:B_;K_,t" src="orig" selected="1">AAXXX----1A---8</tag>
 </m>
 <m id="m-ln95047-123-p2s2w11">
 <src.rf>manual</src.rf>
@@ -307,18 +279,7 @@
 <LM>w#w-ln95047-123-p2s2w15</LM>
 </w.rf>
 <form>Mecseki</form>
-<tag>
-<AM lemma="Mecseki_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Mecseki_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mecseki_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mecseki_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mecseký_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Mecseki_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mecseki_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Mecseki_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mecseki_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="mecseki" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mecseki_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95047-123-p2s2w16">
 <src.rf>manual</src.rf>
@@ -326,14 +287,7 @@
 <LM>w#w-ln95047-123-p2s2w16</LM>
 </w.rf>
 <form>Ercbanyaszati</form>
-<tag>
-<AM lemma="Ercbanyaszati_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Ercbanyaszat_:T" src="auto">Vf--------A---2</AM>
-<AM lemma="Ercbanyaszat" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Ercbanyaszať" src="auto">NNFS6-----A----</AM>
-<AM lemma="Ercbanyaszat_:W" src="auto">Vf--------A---2</AM>
-<AM lemma="ercbanyaszati" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ercbanyaszati_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95047-123-p2s2w17">
 <src.rf>manual</src.rf>
@@ -341,17 +295,7 @@
 <LM>w#w-ln95047-123-p2s2w17</LM>
 </w.rf>
 <form>Vallálat</form>
-<tag>
-<AM lemma="Vallálat_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Vallálat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Vallálat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Vallálat" src="auto">Vf--------A----</AM>
-<AM lemma="Vallále" src="auto">NNNP2-----A----</AM>
-<AM lemma="vallálat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Vallálata" src="auto">NNFP2-----A----</AM>
-<AM lemma="vallálat-1_:W_^(peníze)" src="auto">Vf--------A----</AM>
-<AM lemma="vallálat" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vallálat_;K" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln95047-123-p2s2w18">
 <src.rf>manual</src.rf>

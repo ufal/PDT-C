@@ -2111,26 +2111,7 @@
 <LM>w#w-ln94204-71-p4s5w14</LM>
 </w.rf>
 <form>BMV</form>
-<tag>
-<AM lemma="BMV_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="BMV_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="BMV_:B_;K_^(České_ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="BMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="BMV_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BMV_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="BMV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="BMV-1_:B_;K_^(Karlovarské_minerální_vody)" src="auto">NNFPX-----A---8</AM>
-<AM lemma="BMV_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Bmv_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bmv_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Bmv_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bmv" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bmva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bmv_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Bmv" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bmv_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="bmv" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="BMV_:B" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-71-p4s5w15">
 <src.rf>manual</src.rf>

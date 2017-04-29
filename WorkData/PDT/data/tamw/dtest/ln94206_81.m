@@ -765,18 +765,7 @@
 <LM>w#w-ln94206-81-p5s1w16</LM>
 </w.rf>
 <form>Kiseljovsku</form>
-<tag>
-<AM lemma="Kiseljovsk_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Kiseljovsko_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Kiseljovsko_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Kiseljovsk" src="auto">NNIS2-----A----</AM>
-<AM lemma="Kiseljovsko" src="auto">NNNS6-----A----</AM>
-<AM lemma="Kiseljovska" src="auto">NNFS4-----A----</AM>
-<AM lemma="Kiseljovsk" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Kiseljovsk_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Kiseljovsko" src="auto">NNNS3-----A----</AM>
-<AM lemma="kiseljovsku" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kiseljovsk_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94206-81-p5s1w17">
 <src.rf>manual</src.rf>
@@ -1538,18 +1527,7 @@
 <LM>w#w-ln94206-81-p8s1w15</LM>
 </w.rf>
 <form>Balladares</form>
-<tag>
-<AM lemma="Balladares_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Balladares" src="auto">NNIS4-----A----</AM>
-<AM lemma="Balladares_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Balladares" src="auto">NNIS1-----A----</AM>
-<AM lemma="Balladare_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="affaires_:B_,t_^(v_chargé_d'Balladares)" src="auto">NNNPX-----A----</AM>
-<AM lemma="Aires_;G_^(Buenos_Balladares)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Balladare_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Balladare_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="balladares" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Balladares_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-81-p8s1w16">
 <src.rf>manual</src.rf>
@@ -1941,18 +1919,7 @@
 <LM>w#w-ln94206-81-p10s1w16</LM>
 </w.rf>
 <form>Nainitalu</form>
-<tag>
-<AM lemma="Nainitalu_;G" src="orig">NNNSX-----A----</AM>
-<AM lemma="Nainital" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Nainital" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Nainital_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Nainital" src="auto">NNIS3-----A----</AM>
-<AM lemma="Nainital_;K" src="auto">NNIS3-----A----</AM>
-<AM lemma="Nainital_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Nainital_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Nainitala_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="nainitalu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nainitalu_;G" src="orig" selected="1">NNNSX-----A----</tag>
 </m>
 <m id="m-ln94206-81-p10s1w17">
 <src.rf>manual</src.rf>
@@ -2124,18 +2091,7 @@
 <LM>w#w-ln94206-81-p11s1w9</LM>
 </w.rf>
 <form>Dhlakama</form>
-<tag>
-<AM lemma="Dhlakama_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dhlak" src="auto">NNIP7-----A---6</AM>
-<AM lemma="Dhlakam_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Dhlakama_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dhlakama_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dhlakama" src="auto">NNNS4-----A----</AM>
-<AM lemma="Dhlakama" src="auto">NNNS1-----A----</AM>
-<AM lemma="Dhlaka" src="auto">NNFD7-----A----</AM>
-<AM lemma="Dhlakamo" src="auto">NNNS2-----A----</AM>
-<AM lemma="dhlakama" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dhlakama_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-81-p11s1w10">
 <src.rf>manual</src.rf>

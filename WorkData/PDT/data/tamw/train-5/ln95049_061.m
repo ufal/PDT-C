@@ -735,16 +735,7 @@
 <LM>w#w-ln95049-061-p3s1w5</LM>
 </w.rf>
 <form>rozvroucněně</form>
-<tag>
-<AM lemma="rozvroucněně" src="orig">Dg-------1A----</AM>
-<AM lemma="rozvroucněně_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="rozvroucněna" src="auto">NNFS6-----A----</AM>
-<AM lemma="rozvroucněna" src="auto">NNFS3-----A----</AM>
-<AM lemma="rozvroucněna-2_^(pracovní;...)" src="auto">NNFS6-----A----</AM>
-<AM lemma="rozvroucněna-1_^(výměna_za_něco)" src="auto">NNFS6-----A----</AM>
-<AM lemma="rozvroucněna-1_^(výměna_za_něco)" src="auto">NNFS3-----A----</AM>
-<AM lemma="rozvroucněně" src="auto" recommended="1">Dg-------1A----</AM>
-</tag>
+<tag lemma="rozvroucněně" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95049-061-p3s1w6">
 <src.rf>manual</src.rf>
@@ -2557,19 +2548,7 @@
 <LM>w#w-ln95049-061-p4s2w4</LM>
 </w.rf>
 <form>výlis</form>
-<tag>
-<AM lemma="výlis" src="orig">NNIS4-----A----</AM>
-<AM lemma="výlis" src="auto">NNIS1-----A----</AM>
-<AM lemma="výlis" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="výlis_,t" src="auto">AAISX----1A----</AM>
-<AM lemma="výlis_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="výlis_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="výlis_;L_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="výlis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="výlis_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="výlis_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="výlisa" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="výlis" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95049-061-p4s2w5">
 <src.rf>manual</src.rf>

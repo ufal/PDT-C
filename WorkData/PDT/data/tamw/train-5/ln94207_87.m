@@ -1924,17 +1924,7 @@
 <LM>w#w-ln94207-87-p5s1w3</LM>
 </w.rf>
 <form>postouplým</form>
-<tag>
-<AM lemma="postouplý" src="orig">AAMP3----1A----</AM>
-<AM lemma="postouplý" src="auto">AANS7----1A----</AM>
-<AM lemma="postouplý" src="auto">AAIS7----1A----</AM>
-<AM lemma="postouplý_^(*2t)" src="auto">AANS7----1A----</AM>
-<AM lemma="postouplý_^(*2t)" src="auto">AAMS7----1A----</AM>
-<AM lemma="postouplý_^(*2t)" src="auto" recommended="1">AAMP3----1A----</AM>
-<AM lemma="postouplý_^(*2t)" src="auto">AAIS7----1A----</AM>
-<AM lemma="postouplý_^(*2nout)" src="auto">AAIS7----1A----</AM>
-<AM lemma="postouplý" src="auto">AAFP3----1A----</AM>
-</tag>
+<tag lemma="postouplý" src="orig" selected="1">AAMP3----1A----</tag>
 </m>
 <m id="m-ln94207-87-p5s1w4">
 <src.rf>manual</src.rf>
@@ -2136,25 +2126,7 @@
 <LM>w#w-ln94207-87-p5s2w15</LM>
 </w.rf>
 <form>Kc</form>
-<tag>
-<AM lemma="Kc6-1_;w_^(šachový_tah)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Kc6-1_;w_^(šachový_tah)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Kc" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="Kc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kc" src="auto">NNIS4-----A----</AM>
-<AM lemma="kc" src="auto">NNMS1-----A----</AM>
-<AM lemma="kc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kce" src="auto">NNFP2-----A----</AM>
-<AM lemma="kce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="kc" src="auto">NNIS1-----A----</AM>
-<AM lemma="kc" src="auto">NNIS4-----A----</AM>
-<AM lemma="kc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="kc_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kc6-1_;w_^(šachový_tah)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94207-87-p5s2w16">
 <src.rf>manual</src.rf>
@@ -2170,24 +2142,7 @@
 <LM>w#w-ln94207-87-p5s2w17</LM>
 </w.rf>
 <form>Vb</form>
-<tag>
-<AM lemma="Vb1-1_;w_^(šachový_tah)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Vb" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vb" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vb-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Vb1-1_;w_^(šachový_tah)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="Vb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vb_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vba" src="auto">NNFP2-----A----</AM>
-<AM lemma="vb" src="auto">NNIS1-----A----</AM>
-<AM lemma="vb" src="auto">NNIS4-----A----</AM>
-<AM lemma="vb-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="vb-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="vb_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="vb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="vb_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="vba" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="Vb1-1_;w_^(šachový_tah)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94207-87-p5s2w18">
 <src.rf>manual</src.rf>
@@ -2246,17 +2201,7 @@
 <LM>w#w-ln94207-87-p5s2w24</LM>
 </w.rf>
 <form>pg</form>
-<tag>
-<AM lemma="pg2-1_;w_^(šachový_tah)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="pg2-1_;w_^(šachový_tah)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="pg_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pg_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="pg" src="auto">NNMS1-----A----</AM>
-<AM lemma="pg" src="auto">NNIS1-----A----</AM>
-<AM lemma="pg" src="auto">NNIS4-----A----</AM>
-<AM lemma="pg_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="pg_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="pg2-1_;w_^(šachový_tah)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94207-87-p5s2w25">
 <src.rf>manual</src.rf>
@@ -2552,17 +2497,7 @@
 <LM>w#w-ln94207-87-p6s2w3</LM>
 </w.rf>
 <form>Euwe</form>
-<tag>
-<AM lemma="Euwe_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Euwe_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Euwe_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Euwe_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Euwe_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Euwe_,t" src="auto">PP-P1--1-------</AM>
-<AM lemma="Euwe" src="auto">NNFS2-----A----</AM>
-<AM lemma="Euwe" src="auto">NNFS1-----A----</AM>
-<AM lemma="euwe" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Euwe_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-87-p6s2w4">
 <src.rf>manual</src.rf>
@@ -2578,18 +2513,7 @@
 <LM>w#w-ln94207-87-p6s2w5</LM>
 </w.rf>
 <form>Capablanca</form>
-<tag>
-<AM lemma="Capablanca_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Capablanco" src="auto">NNNS2-----A----</AM>
-<AM lemma="Capablanc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Capablanca_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Capablanca_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Capablanco_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Capablanca_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Capablanca_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Capablanca_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="capablanca" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Capablanca_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-87-p6s2w6">
 <src.rf>manual</src.rf>
@@ -3059,16 +2983,7 @@
 <LM>w#w-ln94207-87-p7s1w9</LM>
 </w.rf>
 <form>Kremeněcký</form>
-<tag>
-<AM lemma="Kremeněcký_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kremeněcký" src="auto">AAIS1----1A----</AM>
-<AM lemma="Kremeněcký" src="auto">AAIS4----1A----</AM>
-<AM lemma="Kremeněcký" src="auto">AAMS1----1A----</AM>
-<AM lemma="Kremeněcký_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kremeněcký_;S" src="auto">AAMS1----1A----</AM>
-<AM lemma="Kremeněcký_;U" src="auto">AAMS1----1A----</AM>
-<AM lemma="kremeněcký" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kremeněcký_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-87-p7s1w10">
 <src.rf>manual</src.rf>
@@ -3084,18 +2999,7 @@
 <LM>w#w-ln94207-87-p7s1w11</LM>
 </w.rf>
 <form>Minasjan</form>
-<tag>
-<AM lemma="Minasjan_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Minasjan_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Minasjan" src="auto">NNMS1-----A----</AM>
-<AM lemma="Minasjan_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Minasjan_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Minasjan_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Minasjany_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Minasjan" src="auto">NNIS1-----A----</AM>
-<AM lemma="Minasjan_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="minasjan" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Minasjan_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-87-p7s1w12">
 <src.rf>manual</src.rf>

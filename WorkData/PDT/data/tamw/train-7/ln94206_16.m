@@ -2768,17 +2768,7 @@
 <LM>w#w-ln94206-16-p6s2w8</LM>
 </w.rf>
 <form>závlažek</form>
-<tag>
-<AM lemma="závlažka" src="orig">NNFP2-----A----</AM>
-<AM lemma="závlažka" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="závlažek_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="závlažek" src="auto">NNIS4-----A----</AM>
-<AM lemma="závlažek" src="auto">NNIS1-----A----</AM>
-<AM lemma="závlažek" src="auto">NNMS1-----A----</AM>
-<AM lemma="závlažky" src="auto">NNFP2-----A----</AM>
-<AM lemma="závlažko" src="auto">NNNP2-----A----</AM>
-<AM lemma="závlažka_^(*2)" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="závlažka" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94206-16-p6s2w9">
 <src.rf>manual</src.rf>
@@ -4121,18 +4111,7 @@
 <LM>w#w-ln94206-16-p8s3w9</LM>
 </w.rf>
 <form>Gradua</form>
-<tag>
-<AM lemma="Gradua_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Graduum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Graduum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Graduum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Graduo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Graduo" src="auto">NNNP1-----A----</AM>
-<AM lemma="Gradua_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Gradu_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gradu_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="gradua" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gradua_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-16-p8s3w10">
 <src.rf>manual</src.rf>

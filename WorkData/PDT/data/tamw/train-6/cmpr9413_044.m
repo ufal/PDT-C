@@ -2795,18 +2795,7 @@
 <LM>w#w-cmpr9413-044-p11s1w16</LM>
 </w.rf>
 <form>Reitknechtka</form>
-<tag>
-<AM lemma="Reitknechtka_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Reitknechtka" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Reitknechtka_^(*2a)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Reitknechtka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Reitknechtka_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Reitknechtek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Reitknechtko" src="auto">NNNP4-----A----</AM>
-<AM lemma="Reitknechtko" src="auto">NNNP1-----A----</AM>
-<AM lemma="Reitknechtko" src="auto">NNNS2-----A----</AM>
-<AM lemma="reitknechtka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Reitknechtka_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-044-p11s1w17">
 <src.rf>manual</src.rf>
@@ -3144,13 +3133,7 @@
 <LM>w#w-cmpr9413-044-p14s1w5</LM>
 </w.rf>
 <form>AUVI</form>
-<tag>
-<AM lemma="Auvi_;m" src="orig">NNNXX-----A----</AM>
-<AM lemma="AUVI" src="auto">NNMS1-----A----</AM>
-<AM lemma="Auv" src="auto">NNFS3-----A----</AM>
-<AM lemma="Auv" src="auto">NNFS2-----A----</AM>
-<AM lemma="Auvi_;m" src="auto" recommended="1">NNNXX-----A----</AM>
-</tag>
+<tag lemma="Auvi_;m" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-cmpr9413-044-p14s1w6">
 <src.rf>manual</src.rf>
@@ -3713,25 +3696,7 @@
 <LM>w#w-cmpr9413-044-p15s1w5</LM>
 </w.rf>
 <form>DOMO</form>
-<tag>
-<AM lemma="Domo_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="DOMO_:B_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DOMO_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DOMO-1_:B_;K_^(Státní_ústav_pro_rekonstr._památ._měst..)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="DOMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A----</AM>
-<AM lemma="DOMO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DOMO_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DOMO_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Homo-1_;L_,t_^(např._Domo_sapiens)" src="auto">NNISX-----A----</AM>
-<AM lemma="Domý" src="auto">ACNS------A----</AM>
-<AM lemma="Domo_;m" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Domo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Domo_;G_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Domo" src="auto">Db-------------</AM>
-<AM lemma="Domo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Domo" src="auto">NNNS1-----A----</AM>
-<AM lemma="domo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Domo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-044-p15s1w6">
 <src.rf>manual</src.rf>
@@ -4010,22 +3975,7 @@
 <LM>w#w-cmpr9413-044-p16s1w5</LM>
 </w.rf>
 <form>HOGA</form>
-<tag>
-<AM lemma="Hoga_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="HOGA_:B_;m_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="HOGA_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HOGA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="HOGA_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Hog" src="auto">NNMS2-----A----</AM>
-<AM lemma="Hog" src="auto">NNMS4-----A----</AM>
-<AM lemma="Hoga" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Hogo_^(značka)" src="auto">NNNS2-----A----</AM>
-<AM lemma="Hogo_^(značka)" src="auto">NNNP4-----A----</AM>
-<AM lemma="Hog_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Hog_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Hog" src="auto">NNIS2-----A----</AM>
-<AM lemma="hoga" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hoga_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-044-p16s1w6">
 <src.rf>manual</src.rf>
@@ -4903,18 +4853,7 @@
 <LM>w#w-cmpr9413-044-p19s1w6</LM>
 </w.rf>
 <form>FASHION</form>
-<tag>
-<AM lemma="Fashion_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="FASHION" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fashion_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fashion_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Fashion_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fashion_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fashion" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fashion_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fashión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fashión" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="Fashion_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9413-044-p19s1w7">
 <src.rf>manual</src.rf>
@@ -6706,18 +6645,7 @@
 <LM>w#w-cmpr9413-044-p27s2w2</LM>
 </w.rf>
 <form>Olbron</form>
-<tag>
-<AM lemma="Olbron_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Olbron_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Olbron" src="auto">NNIS1-----A----</AM>
-<AM lemma="Olbron_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Olbron_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Olbron_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Olbron_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Olbron-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Iron-3_;G_,t_^(Olbron_Mountain)" src="auto">AAXXX----1A----</AM>
-<AM lemma="olbron" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Olbron_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-044-p27s2w3">
 <src.rf>manual</src.rf>
@@ -7390,26 +7318,7 @@
 <LM>w#w-cmpr9413-044-p28s2w8</LM>
 </w.rf>
 <form>AMT</form>
-<tag>
-<AM lemma="AMT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AMT_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="AMT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMT_:B_;K_^(Ministerstvo_školství_mládeže_a_tělovýchovy)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="AMT-1_:B_;K_,t_^(Int._Ausstel._für_Caravan,_Motor,_Tourism)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AMT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AMT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="AMT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Amt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Amt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Amt" src="auto">Vf--------A----</AM>
-<AM lemma="Amt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Amt_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Amt" src="auto">NNIS1-----A----</AM>
-<AM lemma="Amt" src="auto">NNIS4-----A----</AM>
-<AM lemma="Amt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="amt" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="AMT_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-cmpr9413-044-p28s2w9">
 <src.rf>manual</src.rf>
@@ -7753,18 +7662,7 @@
 <LM>w#w-cmpr9413-044-p30s1w9</LM>
 </w.rf>
 <form>Reitknechtka</form>
-<tag>
-<AM lemma="Reitknechtka_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Reitknechtka" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Reitknechtka_^(*2a)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Reitknechtka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Reitknechtka_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Reitknechtek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Reitknechtko" src="auto">NNNP4-----A----</AM>
-<AM lemma="Reitknechtko" src="auto">NNNP1-----A----</AM>
-<AM lemma="Reitknechtko" src="auto">NNNS2-----A----</AM>
-<AM lemma="reitknechtka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Reitknechtka_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-044-p30s1w10">
 <src.rf>manual</src.rf>

@@ -366,18 +366,7 @@
 <LM>w#w-mf930709-085-p1s1Dw28</LM>
 </w.rf>
 <form>Trnavák</form>
-<tag>
-<AM lemma="Trnavák_;E" src="orig">NNMS1-----A----</AM>
-<AM lemma="Trnavák_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Trnavák" src="auto">NNMS1-----A----</AM>
-<AM lemma="Trnavák_;E" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Trnavák_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Trnavák-2_,h_^(nervózní_člověk)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Trnavák-1_,h_^(film,_kniha_atd._silně_dráždící_nervy)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Trnavák" src="auto">NNIS4-----A----</AM>
-<AM lemma="Trnavák" src="auto">NNIS1-----A----</AM>
-<AM lemma="trnavák" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Trnavák_;E" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-085-p1s1Dw29">
 <src.rf>manual</src.rf>

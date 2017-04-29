@@ -516,18 +516,7 @@
 <LM>w#w-ln94202-110-p4s1w18</LM>
 </w.rf>
 <form>Bushkillu</form>
-<tag>
-<AM lemma="Bushkill_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Bushkill_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Bushkill" src="auto">NNIS2-----A----</AM>
-<AM lemma="Bushkille-1_;G" src="auto">NNIS2-----A---1</AM>
-<AM lemma="Bushkilla_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bushkill_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Bushkill_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Bushkill_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Bushkill_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="bushkillu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bushkill_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94202-110-p4s1w19">
 <src.rf>manual</src.rf>
@@ -609,18 +598,7 @@
 <LM>w#w-ln94202-110-p5s1w4</LM>
 </w.rf>
 <form>Eubank</form>
-<tag>
-<AM lemma="Eubank_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eubanka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Eubank_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Eubank" src="auto">NNIS1-----A----</AM>
-<AM lemma="Eubank_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Eubank" src="auto">NNIS4-----A----</AM>
-<AM lemma="Eubanc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Eubank_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Eubank_;L" src="auto">NNMS1-----A----</AM>
-<AM lemma="eubank" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Eubank_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-110-p5s1w5">
 <src.rf>manual</src.rf>

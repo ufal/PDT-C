@@ -207,18 +207,7 @@
 <LM>w#w-mf920922-061-p2s1w15</LM>
 </w.rf>
 <form>Ferencvárosu</form>
-<tag>
-<AM lemma="Ferencvarosz_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Ferencváros" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ferencváros_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ferencváros" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Ferencváros" src="auto">NNIS6-----A----</AM>
-<AM lemma="Ferencváros" src="auto">NNIS3-----A----</AM>
-<AM lemma="Ferencváros_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ferencvarosz_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Ferencvárosa" src="auto">NNFS4-----A----</AM>
-<AM lemma="ferencvárosu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ferencvarosz_;K" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-061-p2s1w16">
 <src.rf>manual</src.rf>
@@ -648,22 +637,7 @@
 <LM>w#w-mf920922-061-p2s2w27</LM>
 </w.rf>
 <form>NÉPSZABADSÁG</form>
-<tag>
-<AM lemma="Népszabadság_;R_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Népszabadság_;R_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="NÉPSZABADSÁG_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NÉPSZABADSÁG_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NÉPSZABADSÁG_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Népszabadság_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Népszabadság_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Népszabadság_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Népszabadság" src="auto">NNMS1-----A----</AM>
-<AM lemma="Népszabadság" src="auto">NNIS1-----A----</AM>
-<AM lemma="Népszabadság" src="auto">NNIS4-----A----</AM>
-<AM lemma="Népszabadság_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Népszabadság_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="népszabadság" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Népszabadság_;R_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf920922-061-p2s2w28">
 <src.rf>manual</src.rf>
@@ -1515,26 +1489,7 @@
 <LM>w#w-mf920922-061-p2s8w23</LM>
 </w.rf>
 <form>FTC</form>
-<tag>
-<AM lemma="FTC_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="FTC_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="FTC-4_:B_;K_,t_^(International_Typeface_Corporation)" src="auto">NNFXX-----A----</AM>
-<AM lemma="FTC-2_:B_^(letecké_taktické_cvičení)" src="auto">NNNXX-----A----</AM>
-<AM lemma="FTC-2_:B_;K_,t_^(European_Translation_Centre)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="FTC-1_:B_;K_,t_^(Öster._Autom.-Motorrad-und_Touring_Club)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="FTC_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FTC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FTC_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Ftc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ftc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ftce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ftce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ftc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ftc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ftc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ftc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ftc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FTC_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920922-061-p2s8w24">
 <src.rf>manual</src.rf>
@@ -1893,18 +1848,7 @@
 <LM>w#w-mf920922-061-p2s10w11</LM>
 </w.rf>
 <form>Hungarovendetta</form>
-<tag>
-<AM lemma="Hungarovendetta_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Hungarovendett_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Hungarovendett_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Hungarovendetta_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hungarovendetta_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Hungarovendetta_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hungarovendetta_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hungarovendetto_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Hungarovendetto" src="auto">NNNS2-----A----</AM>
-<AM lemma="hungarovendetta" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hungarovendetta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-061-p2s10w12">
 <src.rf>manual</src.rf>

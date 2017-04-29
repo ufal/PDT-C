@@ -451,15 +451,7 @@
 <LM>w#w-ln94202-102-p2s2w13</LM>
 </w.rf>
 <form>Virenqueho</form>
-<tag>
-<AM lemma="Virenque_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Virenque_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Virenque_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Virenque_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Virenque_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Virenque-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="virenqueho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Virenque_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-102-p2s2w14">
 <src.rf>manual</src.rf>
@@ -720,17 +712,7 @@
 <LM>w#w-ln94202-102-p3s1w11</LM>
 </w.rf>
 <form>Chippucciho</form>
-<tag>
-<AM lemma="Chippucci_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Chippucci_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Chippucci_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Chippucci_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Chippucci_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Chippucci_;m" src="auto">NNMS2-----A----</AM>
-<AM lemma="Chippucci_;S_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Chippucci-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="chippucciho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chippucci_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-102-p3s1w12">
 <src.rf>manual</src.rf>
@@ -824,17 +806,7 @@
 <LM>w#w-ln94202-102-p3s1w22</LM>
 </w.rf>
 <form>azzury</form>
-<tag>
-<AM lemma="azzura" src="orig">NNFS2-----A----</AM>
-<AM lemma="azzura" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="azzura" src="auto">NNFP1-----A----</AM>
-<AM lemma="azzura" src="auto">NNFP4-----A----</AM>
-<AM lemma="azzura_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="azzury_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="azzurus" src="auto">NNIP1-----A----</AM>
-<AM lemma="azzura_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="azzura_;G" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="azzura" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-102-p3s1w23">
 <src.rf>manual</src.rf>
@@ -1398,18 +1370,7 @@
 <LM>w#w-ln94202-102-p4s2w5</LM>
 </w.rf>
 <form>Faresin</form>
-<tag>
-<AM lemma="Faresin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Faresin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Farezin_;H" src="auto">NNIS1-----A----</AM>
-<AM lemma="Faresino" src="auto">NNNP2-----A----</AM>
-<AM lemma="Faresin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Faresin_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Faresin_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Faresina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Faresin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="faresin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Faresin_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-102-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1449,18 +1410,7 @@
 <LM>w#w-ln94202-102-p4s2w10</LM>
 </w.rf>
 <form>Podenzana</form>
-<tag>
-<AM lemma="Podenzana_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Podenzan_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Podenzan_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Podenzan_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Podenzan_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Podenzan" src="auto">NNMS4-----A----</AM>
-<AM lemma="Podenzan" src="auto">NNMS2-----A----</AM>
-<AM lemma="Podenzana" src="auto">NNFS1-----A----</AM>
-<AM lemma="Podenzan_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="podenzana" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Podenzana_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-102-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1599,18 +1549,7 @@
 <LM>w#w-ln94202-102-p4s2w27</LM>
 </w.rf>
 <form>Tour</form>
-<tag>
-<AM lemma="Tour_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tour_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Toura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Tour_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tour_;R_,t" src="auto">PSXXX-X2-------</AM>
-<AM lemma="tour" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tour_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-102-p4s2w28">
 <src.rf>manual</src.rf>
@@ -1934,18 +1873,7 @@
 <LM>w#w-ln94202-102-p4s4w11</LM>
 </w.rf>
 <form>Ghirotto</form>
-<tag>
-<AM lemma="Ghirotto_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ghirotto_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ghirotto_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Ghirotto_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ghirotto_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ghirotto_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ghirotto" src="auto">TT-------------</AM>
-<AM lemma="Ghirotto" src="auto">NNNS4-----A----</AM>
-<AM lemma="Ghirotto" src="auto">NNNS1-----A----</AM>
-<AM lemma="ghirotto" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ghirotto_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-102-p4s4w12">
 <src.rf>manual</src.rf>
@@ -2139,17 +2067,7 @@
 <LM>w#w-ln94202-102-p4s5w7</LM>
 </w.rf>
 <form>Virenque</form>
-<tag>
-<AM lemma="Virenque_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Virenque_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Virenque_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Virenque_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Virenque_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Virenque_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Virenque_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Virenque_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="virenque" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Virenque_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-102-p4s5w8">
 <src.rf>manual</src.rf>
@@ -2455,18 +2373,7 @@
 <LM>w#w-ln94202-102-p5s1w17</LM>
 </w.rf>
 <form>Ghirotto</form>
-<tag>
-<AM lemma="Ghirotto_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ghirotto_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ghirotto_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Ghirotto_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ghirotto_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ghirotto_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ghirotto" src="auto">TT-------------</AM>
-<AM lemma="Ghirotto" src="auto">NNNS4-----A----</AM>
-<AM lemma="Ghirotto" src="auto">NNNS1-----A----</AM>
-<AM lemma="ghirotto" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ghirotto_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-102-p5s1w18">
 <src.rf>manual</src.rf>

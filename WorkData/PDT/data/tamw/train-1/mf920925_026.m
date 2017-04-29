@@ -109,17 +109,7 @@
 <LM>w#w-mf920925-026-p2s1w5</LM>
 </w.rf>
 <form>peo</form>
-<tag>
-<AM lemma="peo-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="peo-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="peo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="peo_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="peo_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="peo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="peo_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="peo_;K_;R_;u_^(opera)" src="auto">NNNS1-----A----</AM>
-<AM lemma="peo_;K_,t" src="auto">NNNS1-----A----</AM>
-</tag>
+<tag lemma="peo-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920925-026-p2s1w6">
 <src.rf>manual</src.rf>
@@ -251,17 +241,7 @@
 <LM>w#w-mf920925-026-p2s3w2</LM>
 </w.rf>
 <form>Salah</form>
-<tag>
-<AM lemma="Salah_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Salah_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Salah_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Salah" src="auto">NNIS1-----A----</AM>
-<AM lemma="Salah" src="auto">NNIS4-----A----</AM>
-<AM lemma="Salaha" src="auto">NNFP2-----A----</AM>
-<AM lemma="Salah_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Salah" src="auto">NNMS1-----A----</AM>
-<AM lemma="salah" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Salah_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-026-p2s3w3">
 <src.rf>manual</src.rf>

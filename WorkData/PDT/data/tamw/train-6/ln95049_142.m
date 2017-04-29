@@ -1000,18 +1000,7 @@
 <LM>w#w-ln95049-142-p2s7w8</LM>
 </w.rf>
 <form>Publishing</form>
-<tag>
-<AM lemma="Publishing_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Publishing_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Publishing" src="auto">NNIS4-----A----</AM>
-<AM lemma="Publishing_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Publishing" src="auto">NNIS1-----A----</AM>
-<AM lemma="Publishing_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Publishing_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Publishing_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Publishing_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="publishing" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Publishing_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95049-142-p2s7w9">
 <src.rf>manual</src.rf>

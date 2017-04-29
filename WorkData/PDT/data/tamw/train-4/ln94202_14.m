@@ -384,16 +384,7 @@
 <LM>w#w-ln94202-14-p2s1Bw30</LM>
 </w.rf>
 <form>Plelude</form>
-<tag>
-<AM lemma="Prelude_;R_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Plelýt" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Prelude_;R_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Plelýt" src="auto">VB-S---3P-AA--1</AM>
-<AM lemma="Plelýt" src="auto">VB-S---3F-AA---</AM>
-<AM lemma="Plelude_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Plelude_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="plelude" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Prelude_;R_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94202-14-p2s1Bw31">
 <src.rf>manual</src.rf>

@@ -815,17 +815,7 @@
 <LM>w#w-ln94208-10-p3s2w13</LM>
 </w.rf>
 <form>keynesianismem</form>
-<tag>
-<AM lemma="keynesianizmus" src="orig">NNIS7-----A---1</AM>
-<AM lemma="keynesianismus" src="auto">NNIS7-----A----</AM>
-<AM lemma="keynesianism" src="auto">NNIS7-----A----</AM>
-<AM lemma="keynesianizmus" src="auto">NNIS7-----A----</AM>
-<AM lemma="keynesianizmus" src="auto" recommended="1">NNIS7-----A---1</AM>
-<AM lemma="keynesianisem" src="auto">NNIS7-----A----</AM>
-<AM lemma="keynesianism_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="keynesianism_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="keynesianism_;S" src="auto">NNMS7-----A----</AM>
-</tag>
+<tag lemma="keynesianizmus" src="orig" selected="1">NNIS7-----A---1</tag>
 </m>
 <m id="m-ln94208-10-p3s2w14">
 <src.rf>manual</src.rf>
@@ -3085,23 +3075,7 @@
 <LM>w#w-ln94208-10-p6s4w1</LM>
 </w.rf>
 <form>Pseudokeynesiánská</form>
-<tag>
-<AM lemma="pseudokeynesiánský" src="orig">AAFS1----1A----</AM>
-<AM lemma="Pseudokeynesiánskat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Pseudokeynesiánská_;G" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="Pseudokeynesiánská_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pseudokeynesiánský" src="auto">AAFS1----1A----</AM>
-<AM lemma="Pseudokeynesiánský" src="auto">AANP1----1A----</AM>
-<AM lemma="Pseudokeynesiánský" src="auto">AANP4----1A----</AM>
-<AM lemma="Pseudokeynesiánský_;G" src="auto">AAFS1----1A----</AM>
-<AM lemma="Pseudokeynesiánský_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="pseudokeynesiánská" src="auto">NNMS1-----A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAFS1----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAFS5----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AANP1----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AANP4----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AANP5----1A----</AM>
-</tag>
+<tag lemma="pseudokeynesiánský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94208-10-p6s4w2">
 <src.rf>manual</src.rf>
@@ -3728,22 +3702,7 @@
 <LM>w#w-ln94208-10-p7s3w6</LM>
 </w.rf>
 <form>pseudokeynesiánské</form>
-<tag>
-<AM lemma="pseudokeynesiánský" src="orig">AANS1----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAFP1----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAFP4----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAFP5----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAFS2----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAFS3----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAFS6----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAIP1----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAIP4----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAIP5----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAMP4----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AANS4----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="pseudokeynesiánský" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln94208-10-p7s3w7">
 <src.rf>manual</src.rf>
@@ -4107,22 +4066,7 @@
 <LM>w#w-ln94208-10-p8s1w10</LM>
 </w.rf>
 <form>pseudokeynesiánské</form>
-<tag>
-<AM lemma="pseudokeynesiánský" src="orig">AAIP4----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAFP1----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAFP4----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAFP5----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAFS2----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAFS3----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAFS6----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAIP1----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto" recommended="1">AAIP4----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAIP5----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AAMP4----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AANS1----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AANS4----1A----</AM>
-<AM lemma="pseudokeynesiánský" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="pseudokeynesiánský" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln94208-10-p8s1w11">
 <src.rf>manual</src.rf>

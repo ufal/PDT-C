@@ -2204,18 +2204,7 @@
 <LM>w#w-lnd94103-134-p1s15w8</LM>
 </w.rf>
 <form>Stuttgarteru</form>
-<tag>
-<AM lemma="Stuttgarter_;K_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="Stuttgarter" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Stuttgarter_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Stuttgarter" src="auto">NNIS6-----A----</AM>
-<AM lemma="Stuttgarter_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Stuttgartera" src="auto">NNFS4-----A----</AM>
-<AM lemma="Stuttgarter" src="auto">NNIS3-----A----</AM>
-<AM lemma="Stuttgartrat" src="auto">VB-S---1P-AA---</AM>
-<AM lemma="Stuttgartera_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="stuttgarteru" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stuttgarter_;K_,t" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94103-134-p1s15w9">
 <src.rf>manual</src.rf>
@@ -2223,18 +2212,7 @@
 <LM>w#w-lnd94103-134-p1s15w9</LM>
 </w.rf>
 <form>Kickers</form>
-<tag>
-<AM lemma="Kicker_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Kickers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kicker_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Kickers_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Kicker_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Kicker_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Kickers_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Kickers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kickers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="kickers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kicker_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-lnd94103-134-p1s15w10">
 <src.rf>manual</src.rf>

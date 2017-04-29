@@ -546,18 +546,7 @@
 <LM>w#w-ln94205-79-p2s3Aw14</LM>
 </w.rf>
 <form>Comandos</form>
-<tag>
-<AM lemma="Comando_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Comandos_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Comando_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Comando" src="auto">PZM-1---------1</AM>
-<AM lemma="Comandos_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Comandos_;S_,t" src="auto">RR--X----------</AM>
-<AM lemma="Comandos_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Comandos_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Comandos-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="comandos" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Comando_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94205-79-p2s3Aw15">
 <src.rf>manual</src.rf>
@@ -1432,18 +1421,7 @@
 <LM>w#w-ln94205-79-p3s5w1</LM>
 </w.rf>
 <form>Comandos</form>
-<tag>
-<AM lemma="Comando_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Comandos_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Comando_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Comando" src="auto">PZM-1---------1</AM>
-<AM lemma="Comandos_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Comandos_;S_,t" src="auto">RR--X----------</AM>
-<AM lemma="Comandos_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Comandos_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Comandos-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="comandos" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Comando_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94205-79-p3s5w2">
 <src.rf>manual</src.rf>

@@ -131,17 +131,7 @@
 <LM>w#w-ln95048-114-p1s1w15</LM>
 </w.rf>
 <form>Calvalhovi</form>
-<tag>
-<AM lemma="Calvalho_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Calvalh_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Calvalh" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Calvalh_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Calvalha_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Calvalh_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Calvalh" src="auto">NNMS6-----A----</AM>
-<AM lemma="Calvalhův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="calvalhovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Calvalho_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95048-114-p1s1w16">
 <src.rf>manual</src.rf>

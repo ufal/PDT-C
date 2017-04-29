@@ -1007,18 +1007,7 @@
 <LM>w#w-ln94204-121-p3s4w13</LM>
 </w.rf>
 <form>Biltmore</form>
-<tag>
-<AM lemma="Biltmore_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Biltmor" src="auto">NNMS5-----A----</AM>
-<AM lemma="Biltmore_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Biltmore_;u_,l_,t_^(hudební_styl)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Biltmore_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Biltmore_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Biltmore_;R_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Biltmore_;K_,t" src="auto">Dg-------2A----</AM>
-<AM lemma="Biltmore_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="biltmore" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Biltmore_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-121-p3s4w14">
 <src.rf>manual</src.rf>

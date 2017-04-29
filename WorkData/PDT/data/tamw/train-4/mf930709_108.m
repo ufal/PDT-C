@@ -219,18 +219,7 @@
 <LM>w#w-mf930709-108-p2s1Bw14</LM>
 </w.rf>
 <form>Skloform</form>
-<tag>
-<AM lemma="Skloform_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Skloform_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Skloform_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Skloform_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Skloform_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Skloform" src="auto">NNIS1-----A----</AM>
-<AM lemma="Skloform" src="auto">NNIS4-----A----</AM>
-<AM lemma="Skloform_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Skloform_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="skloform" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Skloform_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-108-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -583,18 +572,7 @@
 <LM>w#w-mf930709-108-p2s3w1</LM>
 </w.rf>
 <form>Skloform</form>
-<tag>
-<AM lemma="Skloform_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Skloform_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Skloform_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Skloform_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Skloform_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Skloform" src="auto">NNIS1-----A----</AM>
-<AM lemma="Skloform" src="auto">NNIS4-----A----</AM>
-<AM lemma="Skloform_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Skloform_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="skloform" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Skloform_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-108-p2s3w2">
 <src.rf>manual</src.rf>
@@ -772,18 +750,7 @@
 <LM>w#w-mf930709-108-p2s4w1</LM>
 </w.rf>
 <form>Skloform</form>
-<tag>
-<AM lemma="Skloform_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Skloform_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Skloform_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Skloform_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Skloform_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Skloform" src="auto">NNIS1-----A----</AM>
-<AM lemma="Skloform" src="auto">NNIS4-----A----</AM>
-<AM lemma="Skloform_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Skloform_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="skloform" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Skloform_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-108-p2s4w2">
 <src.rf>manual</src.rf>

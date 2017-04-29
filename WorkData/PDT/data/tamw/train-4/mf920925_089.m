@@ -5103,17 +5103,7 @@
 <LM>w#w-mf920925-089-p5s8w9</LM>
 </w.rf>
 <form>Volkssport</form>
-<tag>
-<AM lemma="Volkssport_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Volkssport" src="auto">NNIS1-----A----</AM>
-<AM lemma="Volkssport" src="auto">NNIS4-----A----</AM>
-<AM lemma="Volkssport_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Volkssport_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Volkssport_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Volkssport_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Report_;K_;u_,t_^(umělecký_soubor_Wheather_Volkssport)" src="auto">NNIXX-----A----</AM>
-<AM lemma="volkssport" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Volkssport_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-089-p5s8w10">
 <src.rf>manual</src.rf>
@@ -5539,18 +5529,7 @@
 <LM>w#w-mf920925-089-p5s9w30</LM>
 </w.rf>
 <form>Volkssportu</form>
-<tag>
-<AM lemma="Volkssport_;K_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="Volkssport" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Volkssport_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Volkssport" src="auto">NNIS6-----A----</AM>
-<AM lemma="Volkssport" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Volkssport" src="auto">NNIS3-----A----</AM>
-<AM lemma="Volkssporta" src="auto">NNFS4-----A----</AM>
-<AM lemma="Volkssport_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Volkssport_;m" src="auto">NNIS2-----A----</AM>
-<AM lemma="volkssportu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Volkssport_;K_,t" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920925-089-p5s9w31">
 <src.rf>manual</src.rf>
@@ -6888,18 +6867,7 @@
 <LM>w#w-mf920925-089-p7s3w12</LM>
 </w.rf>
 <form>Formise</form>
-<tag>
-<AM lemma="Formis_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Formis_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Formis" src="auto">NNIS6-----A----</AM>
-<AM lemma="Formis_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Formise" src="auto">NNFS2-----A----</AM>
-<AM lemma="Formis_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Formise" src="auto">NNFS1-----A----</AM>
-<AM lemma="Formise" src="auto">NNFP4-----A----</AM>
-<AM lemma="Formise" src="auto">NNFP1-----A----</AM>
-<AM lemma="formise" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Formis_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-089-p7s3w13">
 <src.rf>manual</src.rf>

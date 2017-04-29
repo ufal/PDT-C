@@ -456,15 +456,7 @@
 <LM>w#w-ln95045-115-p3s1w12</LM>
 </w.rf>
 <form>celojaponskou</form>
-<tag>
-<AM lemma="celojaponský" src="orig">AAFS4----1A----</AM>
-<AM lemma="celojaponska" src="auto">NNFS7-----A----</AM>
-<AM lemma="celojaponska_;G" src="auto">NNFS7-----A----</AM>
-<AM lemma="celojaponska_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="celojaponska_^(*2)" src="auto">NNFS7-----A----</AM>
-<AM lemma="celojaponský" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="celojaponský" src="auto">AAFS7----1A----</AM>
-</tag>
+<tag lemma="celojaponský" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln95045-115-p3s1w13">
 <src.rf>manual</src.rf>

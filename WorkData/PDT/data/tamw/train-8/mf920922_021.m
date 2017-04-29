@@ -101,11 +101,7 @@
 <LM>w#w-mf920922-021-p2s1w3</LM>
 </w.rf>
 <form>lh</form>
-<tag>
-<AM lemma="lh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lha" src="auto">NNFP2-----A----</AM>
-<AM lemma="lh-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-</tag>
+<tag lemma="lh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920922-021-p2s1w4">
 <src.rf>manual</src.rf>

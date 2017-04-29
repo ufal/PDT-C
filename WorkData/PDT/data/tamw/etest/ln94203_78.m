@@ -1030,18 +1030,7 @@
 <LM>w#w-ln94203-78-p3s1w5</LM>
 </w.rf>
 <form>Gardai</form>
-<tag>
-<AM lemma="Gardai_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Gardai_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gardai_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Gardai_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gardai_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Gardai_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Gardai_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Gardai_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Gardai_,t" src="auto" recommended="1">NNISX-----A----</AM>
-<AM lemma="gardai" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gardai_;K_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-78-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1403,20 +1392,7 @@
 <LM>w#w-ln94203-78-p3s2w20</LM>
 </w.rf>
 <form>podoma</form>
-<tag>
-<AM lemma="podoma" src="orig">Db-------------</AM>
-<AM lemma="podom" src="auto">NNMS2-----A----</AM>
-<AM lemma="podom-1_,t_^(šlechtický_titul)" src="auto">NNMS2-----A----</AM>
-<AM lemma="podom-1_,t_^(šlechtický_titul)" src="auto">NNMS4-----A----</AM>
-<AM lemma="podom_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="podom_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="podoma" src="auto">Db-------------</AM>
-<AM lemma="podoma-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="podoma_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="podoma_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="podoma_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="podomý" src="auto">ACQW------A----</AM>
-</tag>
+<tag lemma="podoma" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94203-78-p3s2w21">
 <src.rf>manual</src.rf>
@@ -1557,17 +1533,7 @@
 <LM>w#w-ln94203-78-p3s3w14</LM>
 </w.rf>
 <form>Armalite</form>
-<tag>
-<AM lemma="Armalite_;R_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Armalite_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Armalite_;Y" src="auto">NNMSX-----A----</AM>
-<AM lemma="Armalite_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Armalite_;R_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Armalite_;K" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Armalite_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Armalite-1_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="armalite" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Armalite_;R_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94203-78-p3s3w15">
 <src.rf>manual</src.rf>
@@ -2248,18 +2214,7 @@
 <LM>w#w-ln94203-78-p4s2w1</LM>
 </w.rf>
 <form>Gardai</form>
-<tag>
-<AM lemma="Gardai_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Gardai_;K_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Gardai_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Gardai_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gardai_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Gardai_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Gardai_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Gardai_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Gardai_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="gardai" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gardai_;K_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-78-p4s2w2">
 <src.rf>manual</src.rf>
@@ -2910,18 +2865,7 @@
 <LM>w#w-ln94203-78-p5s2w10</LM>
 </w.rf>
 <form>Eksund</form>
-<tag>
-<AM lemma="Eksund_;m_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Eksund_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eksund_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eksund_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Eksund_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Eksund" src="auto">NNIS4-----A----</AM>
-<AM lemma="Eksunda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Eksund_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Eksund_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="eksund" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Eksund_;m_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-78-p5s2w11">
 <src.rf>manual</src.rf>

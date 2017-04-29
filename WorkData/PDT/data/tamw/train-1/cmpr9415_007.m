@@ -180,18 +180,7 @@
 <LM>w#w-cmpr9415-007-p4s1w6</LM>
 </w.rf>
 <form>Marines</form>
-<tag>
-<AM lemma="Marine_;m_,t" src="orig">NNXPX-----A----</AM>
-<AM lemma="Marines_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Marines" src="auto">Db-------------</AM>
-<AM lemma="Stones_;K_,t_^(Rolling_Marines)" src="auto">NNIPX-----A----</AM>
-<AM lemma="Marine_;m_,t" src="auto" recommended="1">NNXPX-----A----</AM>
-<AM lemma="Marine_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Marinést" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Marines_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Marines_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="marines" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Marine_;m_,t" src="orig" selected="1">NNXPX-----A----</tag>
 </m>
 <m id="m-cmpr9415-007-p4s1w7">
 <src.rf>manual</src.rf>
@@ -692,18 +681,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Funèsem</form>
-<tag>
-<AM lemma="Funès_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Funès" src="auto">NNIS7-----A----</AM>
-<AM lemma="Funès_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Funès_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Funèso" src="auto">NNNS7-----A----</AM>
-<AM lemma="Funès_;S_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Funès_;K" src="auto">NNIS7-----A----</AM>
-<AM lemma="Funès_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Funès" src="auto">NNMS7-----A----</AM>
-<AM lemma="funèsem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Funès_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9415-007-p9s2w13">
 <src.rf>manual</src.rf>

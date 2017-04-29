@@ -785,27 +785,7 @@
 <LM>w#w-mf920925-045-p2s6w2</LM>
 </w.rf>
 <form>Anes</form>
-<tag>
-<AM lemma="Anes_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Ane_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Ane_;m_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Anes" src="auto">Db-------------</AM>
-<AM lemma="Anes_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Anes_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Anes_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Anést" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Stones_;K_,t_^(Rolling_Anes)" src="auto">NNIPX-----A----</AM>
-<AM lemma="anes" src="auto">NNMS1-----A----</AM>
-<AM lemma="anes-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="anes-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="anes-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="anescriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="aneso" src="auto">NNNP2-----A----</AM>
-<AM lemma="anesoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="anespolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="anestrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="anestátní_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Anes_;K" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf920925-045-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1017,15 +997,7 @@
 <LM>w#w-mf920925-045-p2s8w3</LM>
 </w.rf>
 <form>Vainauskase</form>
-<tag>
-<AM lemma="Vainauskas_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Vainauskas_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vainauskas_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Vainauskas" src="auto">NNIS6-----A----</AM>
-<AM lemma="Vainauskasa" src="auto">NNFS6-----A----</AM>
-<AM lemma="Vainauskase_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="vainauskase" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vainauskas_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-045-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1041,17 +1013,7 @@
 <LM>w#w-mf920925-045-p2s8w5</LM>
 </w.rf>
 <form>Tamkevičuse</form>
-<tag>
-<AM lemma="Tamkevičus_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Tamkevičus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Tamkevičus" src="auto">NNIS6-----A----</AM>
-<AM lemma="Tamkevičus_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Tamkevičus_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Tamkevičuse_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tamkevičuse_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Tamkevičuse" src="auto">NNFP1-----A----</AM>
-<AM lemma="tamkevičuse" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tamkevičus_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-045-p2s8w6">
 <src.rf>manual</src.rf>
@@ -1366,26 +1328,7 @@
 <LM>w#w-mf920925-045-p2s10w12</LM>
 </w.rf>
 <form>BVC</form>
-<tag>
-<AM lemma="BVC_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="BVC_:B_;K_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BVC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BVC_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="BVC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BVC_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BVC_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="BVC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="BVC_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Bvc" src="auto">NNNXX-----A----</AM>
-<AM lemma="Bvc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bvc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bvce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bvce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bvc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bvc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bvc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="bvc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="BVC_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-mf920925-045-p2s10w13">
 <src.rf>manual</src.rf>

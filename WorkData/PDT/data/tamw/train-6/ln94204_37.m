@@ -178,22 +178,7 @@
 <LM>w#w-ln94204-37-p2s1Bw11</LM>
 </w.rf>
 <form>MEDIPO</form>
-<tag>
-<AM lemma="MEDIPO_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MEDIPO_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="MEDIPO_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MEDIPO_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MEDIPO_:B_;m_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Medipo-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Medipo_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Medipo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Medipo-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Medipo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Medipo" src="auto">NNNS4-----A----</AM>
-<AM lemma="po-2_:B_,x_^(Medipondělí)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Medipo_;m" src="auto">NNNXX-----A----</AM>
-<AM lemma="medipo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="MEDIPO_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-37-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -315,13 +300,7 @@
 <LM>w#w-ln94204-37-p2s2w2</LM>
 </w.rf>
 <form>Medilit</form>
-<tag>
-<AM lemma="Medilit_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Medilit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Medilit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Medilita" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="medilit" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Medilit_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-37-p2s2w3">
 <src.rf>manual</src.rf>

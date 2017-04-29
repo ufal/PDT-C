@@ -974,17 +974,7 @@
 <LM>w#w-ln94210-147-p3s3w4</LM>
 </w.rf>
 <form>world</form>
-<tag>
-<AM lemma="world_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="world_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="world_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="world_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="world_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="world_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="world_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="world_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="world_;K_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="world_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-147-p3s3w5">
 <src.rf>manual</src.rf>
@@ -992,15 +982,7 @@
 <LM>w#w-ln94210-147-p3s3w5</LM>
 </w.rf>
 <form>competitiveness</form>
-<tag>
-<AM lemma="competitiveness_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="competitiveness_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="competitiveness_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="competitiveness_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="competitiveness_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="competitiveness_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Ness_;G_^(jezero_Loch_competitiveness)" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="competitiveness_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94210-147-p3s3w6">
 <src.rf>manual</src.rf>
@@ -3102,20 +3084,7 @@
 <LM>w#w-ln94210-147-p7s3w2</LM>
 </w.rf>
 <form>ol</form>
-<tag>
-<AM lemma="ol-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ol" src="auto">NNIS1-----A----</AM>
-<AM lemma="ol" src="auto">NNIS4-----A----</AM>
-<AM lemma="ol-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ol-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ol_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ol_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ol_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ola" src="auto">NNFP2-----A----</AM>
-<AM lemma="oletopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
-<AM lemma="olitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="olo" src="auto">NNNP2-----A----</AM>
-</tag>
+<tag lemma="ol-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94210-147-p7s3w3">
 <src.rf>manual</src.rf>

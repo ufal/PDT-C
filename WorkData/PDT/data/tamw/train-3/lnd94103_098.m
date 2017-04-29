@@ -629,23 +629,7 @@
 <LM>w#w-lnd94103-098-p1s3w31</LM>
 </w.rf>
 <form>HDK</form>
-<tag>
-<AM lemma="HDK_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HDK_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="HDK_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HDK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HDK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HDK_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HDK_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Hdk-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Hdk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hdk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hdk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hdk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hdk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hdk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="hdk" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="HDK_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-098-p1s3w32">
 <src.rf>manual</src.rf>
@@ -985,23 +969,7 @@
 <LM>w#w-lnd94103-098-p1s5w13</LM>
 </w.rf>
 <form>HDK</form>
-<tag>
-<AM lemma="HDK_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="HDK_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="HDK_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HDK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HDK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HDK_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HDK_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Hdk-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Hdk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hdk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hdk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hdk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hdk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hdk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="hdk" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="HDK_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-098-p1s5w14">
 <src.rf>manual</src.rf>

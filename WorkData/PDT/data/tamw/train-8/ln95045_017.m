@@ -420,18 +420,7 @@
 <LM>w#w-ln95045-017-p2s1Bw39</LM>
 </w.rf>
 <form>Fours</form>
-<tag>
-<AM lemma="Fours_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Fours" src="auto">NNIS1-----A----</AM>
-<AM lemma="Foursovní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Fours_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fours_^(úpadek;;soutěž)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fours_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Fours_;S" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Fours_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Fours_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="fours" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fours_;S" src="orig" selected="1">NNMXX-----A---8</tag>
 </m>
 <m id="m-ln95045-017-p2s1Bw40">
 <src.rf>manual</src.rf>
@@ -1081,18 +1070,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Fragebogen</form>
-<tag>
-<AM lemma="Fragebogen_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Fragebogen_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fragebogen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fragebogen_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fragebogen" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fragebogen" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fragebogenerální_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="Fragebogenerál_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Fragebogen_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="fragebogen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fragebogen_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln95045-017-p3s3w25">
 <src.rf>manual</src.rf>

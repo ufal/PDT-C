@@ -1942,17 +1942,7 @@
 <LM>w#w-ln95049-068-p6s3w11</LM>
 </w.rf>
 <form>königsbergského</form>
-<tag>
-<AM lemma="königsbergský" src="orig">AAMS2----1A----</AM>
-<AM lemma="königsbergský" src="auto">AAIS2----1A----</AM>
-<AM lemma="königsbergský" src="auto">AANS2----1A----</AM>
-<AM lemma="königsbergský" src="auto" recommended="1">AAMS2----1A----</AM>
-<AM lemma="königsbergský" src="auto">AAMS4----1A----</AM>
-<AM lemma="königsbergský_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="königsbergský_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="königsbergský_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="königsbergský_^(*3it)" src="auto">AAIS2----1A----</AM>
-</tag>
+<tag lemma="königsbergský" src="orig" selected="1">AAMS2----1A----</tag>
 </m>
 <m id="m-ln95049-068-p6s3w12">
 <src.rf>manual</src.rf>
@@ -6123,17 +6113,7 @@
 <LM>w#w-ln95049-068-p15s4w2</LM>
 </w.rf>
 <form>Kajn</form>
-<tag>
-<AM lemma="kajn_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Kajn_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kajn_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Kajn-3" src="auto">II-------------</AM>
-<AM lemma="Kajn_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kajn" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kajna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kajn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="kajn" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="kajn_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95049-068-p15s4w3">
 <src.rf>manual</src.rf>
@@ -6141,17 +6121,7 @@
 <LM>w#w-ln95049-068-p15s4w3</LM>
 </w.rf>
 <form>dojč</form>
-<tag>
-<AM lemma="dojč_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="dojč_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="dojčit_:W" src="auto">Vi-S---2--A----</AM>
-<AM lemma="dojč_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="dojč" src="auto">NNMS1-----A----</AM>
-<AM lemma="dojč" src="auto">NNIS1-----A----</AM>
-<AM lemma="dojč" src="auto">NNIS4-----A----</AM>
-<AM lemma="dojč_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="dojč-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-</tag>
+<tag lemma="dojč_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95049-068-p15s4w4">
 <src.rf>manual</src.rf>
@@ -6159,17 +6129,7 @@
 <LM>w#w-ln95049-068-p15s4w4</LM>
 </w.rf>
 <form>márk</form>
-<tag>
-<AM lemma="márk_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="márk_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="márk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="márk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="márk" src="auto">NNIS1-----A----</AM>
-<AM lemma="márk" src="auto">NNIS4-----A----</AM>
-<AM lemma="márk-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="márk_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="márk_;m_,t" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="márk_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95049-068-p15s4w5">
 <src.rf>manual</src.rf>
@@ -6281,17 +6241,7 @@
 <LM>w#w-ln95049-068-p15s6w6</LM>
 </w.rf>
 <form>njů</form>
-<tag>
-<AM lemma="njů_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="njů_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="nj" src="auto">NNIP2-----A----</AM>
-<AM lemma="nj" src="auto">NNMP2-----A----</AM>
-<AM lemma="zpravodaj-1_^(tiskovina;_njství)" src="auto">NNIP2-----A----</AM>
-<AM lemma="předprodej_^(akt_nje_zboží;_i_místo_předp.)" src="auto">NNIP2-----A----</AM>
-<AM lemma="prodej_^(akt_nje_zboží)" src="auto">NNIP2-----A----</AM>
-<AM lemma="háj_^(př._zelený_nj)" src="auto">NNIP2-----A----</AM>
-<AM lemma="nj_;Y" src="auto">NNMP2-----A----</AM>
-</tag>
+<tag lemma="njů_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95049-068-p15s6w7">
 <src.rf>manual</src.rf>
@@ -6299,17 +6249,7 @@
 <LM>w#w-ln95049-068-p15s6w7</LM>
 </w.rf>
 <form>cajt</form>
-<tag>
-<AM lemma="cajt_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="cajt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="cajt_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="cajt_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="cajt_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="cajt" src="auto">NNMS1-----A----</AM>
-<AM lemma="cajt_,h" src="auto">Vf--------A---6</AM>
-<AM lemma="cajt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="cajt_:T" src="auto">Vf--------A----</AM>
-</tag>
+<tag lemma="cajt_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-068-p15s6w8">
 <src.rf>manual</src.rf>

@@ -186,18 +186,7 @@
 <LM>w#w-ln95047-052-p2s2w3</LM>
 </w.rf>
 <form>Sotheby</form>
-<tag>
-<AM lemma="Sotheby_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sotheba" src="auto">NNFS2-----A----</AM>
-<AM lemma="Sotheba_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Sotheba" src="auto">NNFP4-----A----</AM>
-<AM lemma="Sotheba" src="auto">NNFP1-----A----</AM>
-<AM lemma="Sotheby_;K_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Sotheby_;G" src="auto">NNIP1-----A----</AM>
-<AM lemma="Sotheb" src="auto">NNIP4-----A----</AM>
-<AM lemma="Sotheb" src="auto">NNIP1-----A----</AM>
-<AM lemma="sotheby" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sotheby_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-052-p2s2w4">
 <src.rf>manual</src.rf>

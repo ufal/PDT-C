@@ -667,18 +667,7 @@
 <LM>w#w-mf920925-020-p2s5w7</LM>
 </w.rf>
 <form>Pescaderu</form>
-<tag>
-<AM lemma="Pescadero_;G" src="orig">NNNS6-----A----</AM>
-<AM lemma="Pescader" src="auto">NNIS2-----A----</AM>
-<AM lemma="Pescader_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Pescader" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Pescader_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Pescadera" src="auto">NNFS4-----A----</AM>
-<AM lemma="Pescader" src="auto">NNIS3-----A----</AM>
-<AM lemma="Pescadrat" src="auto">VB-S---1P-AA---</AM>
-<AM lemma="Pescadera_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="pescaderu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pescadero_;G" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920925-020-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1044,22 +1033,7 @@
 <LM>w#w-mf920925-020-p3s1w3</LM>
 </w.rf>
 <form>FREEJACK</form>
-<tag>
-<AM lemma="freejack_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="FREEJACK_:B_;K_^(Energetické_centrum_v_Kladně)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="FREEJACK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FREEJACK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FREEJACK_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="FREEJACK_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Freejack_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Freejack" src="auto">NNIS4-----A----</AM>
-<AM lemma="Freejack_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Freejack_;R_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Freejack_;R" src="auto">NNMS1-----A----</AM>
-<AM lemma="Freejack_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Freejack_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="freejack" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="freejack_,t" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-020-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1510,16 +1484,7 @@
 <LM>w#w-mf920925-020-p3s5w6</LM>
 </w.rf>
 <form>freejack</form>
-<tag>
-<AM lemma="freejack_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="freejack_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="freejack" src="auto">NNIS4-----A----</AM>
-<AM lemma="freejack_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="freejack_;R_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="freejack_;R" src="auto">NNMS1-----A----</AM>
-<AM lemma="freejack_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="freejack_,t" src="auto">NNIXX-----A----</AM>
-</tag>
+<tag lemma="freejack_,t" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-020-p3s5w7">
 <src.rf>manual</src.rf>
@@ -1631,17 +1596,7 @@
 <LM>w#w-mf920925-020-p3s5w20</LM>
 </w.rf>
 <form>nolands</form>
-<tag>
-<AM lemma="noland_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="nolands_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="nolands_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="noland_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="noland_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="noland_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="nolands_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="noland_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="noland_,t" src="auto">NNNPX-----A----</AM>
-</tag>
+<tag lemma="noland_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-mf920925-020-p3s5w21">
 <src.rf>manual</src.rf>
@@ -1811,17 +1766,7 @@
 <LM>w#w-mf920925-020-p3s6w16</LM>
 </w.rf>
 <form>Vacendaka</form>
-<tag>
-<AM lemma="Vacendak_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Vacendak_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Vacendak_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vacendak" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vacendaka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vacendaka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vacendaco_;Y" src="auto">NNMS2-----A---1</AM>
-<AM lemma="Vacendakum" src="auto">NNNP4-----A----</AM>
-<AM lemma="vacendaka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vacendak_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-020-p3s6w17">
 <src.rf>manual</src.rf>
@@ -2036,17 +1981,7 @@
 <LM>w#w-mf920925-020-p3s8w6</LM>
 </w.rf>
 <form>Freejack</form>
-<tag>
-<AM lemma="freejack_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="Freejack_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Freejack" src="auto">NNIS4-----A----</AM>
-<AM lemma="Freejack_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Freejack_;R_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Freejack_;R" src="auto">NNMS1-----A----</AM>
-<AM lemma="Freejack_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Freejack_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="freejack" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="freejack_,t" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-020-p3s8w7">
 <src.rf>manual</src.rf>
@@ -2640,18 +2575,7 @@
 <LM>w#w-mf920925-020-p4s3w27</LM>
 </w.rf>
 <form>Maylama</form>
-<tag>
-<AM lemma="Maylam_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Mayl" src="auto">NNIP7-----A---6</AM>
-<AM lemma="Maylam_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Maylama_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Maylama_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Maylama" src="auto">NNNS4-----A----</AM>
-<AM lemma="Maylama" src="auto">NNNS1-----A----</AM>
-<AM lemma="Mayla" src="auto">NNFD7-----A----</AM>
-<AM lemma="Maylamo" src="auto">NNNS2-----A----</AM>
-<AM lemma="maylama" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Maylam_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-020-p4s3w28">
 <src.rf>manual</src.rf>
@@ -2733,15 +2657,7 @@
 <LM>w#w-mf920925-020-p5s1w9</LM>
 </w.rf>
 <form>polokrimi</form>
-<tag>
-<AM lemma="polokrimi" src="orig">NNNXX-----A----</AM>
-<AM lemma="opolokr-1" src="auto">P5XP7--3-------</AM>
-<AM lemma="polokrim_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="polokrim_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="polokrimi-1" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="polokrimi-2" src="auto">AAXXX----1A----</AM>
-<AM lemma="polokrimi_;Y" src="auto">NNFSX-----A----</AM>
-</tag>
+<tag lemma="polokrimi" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920925-020-p5s1w10">
 <src.rf>manual</src.rf>

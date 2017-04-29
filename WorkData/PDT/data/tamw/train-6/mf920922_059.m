@@ -375,17 +375,7 @@
 <LM>w#w-mf920922-059-p2s4w3</LM>
 </w.rf>
 <form>Lartique</form>
-<tag>
-<AM lemma="Lartique_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lartique_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lartique_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lartique_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Lartique_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Lartique_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Lartique_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Lartique_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="lartique" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lartique_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-059-p2s4w4">
 <src.rf>manual</src.rf>
@@ -481,18 +471,7 @@
 <LM>w#w-mf920922-059-p2s4w15</LM>
 </w.rf>
 <form>Sabym</form>
-<tag>
-<AM lemma="Saby_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Saby_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Sabym_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sabym" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sabym" src="auto">NNIS1-----A----</AM>
-<AM lemma="Saby_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="Saby_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Saby_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Sabymum" src="auto">NNNP2-----A----</AM>
-<AM lemma="sabym" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Saby_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-059-p2s4w16">
 <src.rf>manual</src.rf>
@@ -630,18 +609,7 @@
 <LM>w#w-mf920922-059-p2s5w6</LM>
 </w.rf>
 <form>Shinozuka</form>
-<tag>
-<AM lemma="Shinozuka_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Shinozuk_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Shinozuka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Shinozuk_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Shinozuk" src="auto">NNMS2-----A----</AM>
-<AM lemma="Shinozuk_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Shinozuk" src="auto">NNMS4-----A----</AM>
-<AM lemma="Shinozuka_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Shinozuc_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="shinozuka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Shinozuka_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-059-p2s5w7">
 <src.rf>manual</src.rf>
@@ -944,17 +912,7 @@
 <LM>w#w-mf920922-059-p2s6w6</LM>
 </w.rf>
 <form>Lartique</form>
-<tag>
-<AM lemma="Lartique_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lartique_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lartique_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lartique_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Lartique_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Lartique_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Lartique_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Lartique_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="lartique" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lartique_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-059-p2s6w7">
 <src.rf>manual</src.rf>
@@ -1050,18 +1008,7 @@
 <LM>w#w-mf920922-059-p2s6w18</LM>
 </w.rf>
 <form>Sabym</form>
-<tag>
-<AM lemma="Saby_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Saby_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Sabym_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sabym" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sabym" src="auto">NNIS1-----A----</AM>
-<AM lemma="Saby_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="Saby_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Saby_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Sabymum" src="auto">NNNP2-----A----</AM>
-<AM lemma="sabym" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Saby_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-059-p2s6w19">
 <src.rf>manual</src.rf>
@@ -1335,25 +1282,7 @@
 <LM>w#w-mf920922-059-p3s1w26</LM>
 </w.rf>
 <form>XTZ</form>
-<tag>
-<AM lemma="XTZ_:B_;R" src="orig">NNXXX-----A----</AM>
-<AM lemma="XTZ_:B_;R" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="XTZ-2_:B_^(tepelný_záznam)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="XTZ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="XTZ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AZ-2_:B_;K_^(např._XTZ_agentura)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="XTz-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="XTz-1" src="auto">RR--2----------</AM>
-<AM lemma="Xtz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Xtz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Xtz_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Xtz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Xtz_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Xtz_;K" src="auto">NNMXX-----A----</AM>
-<AM lemma="Xtz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Xtz_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="xtz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="XTZ_:B_;R" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf920922-059-p3s1w27">
 <src.rf>manual</src.rf>
@@ -1487,17 +1416,7 @@
 <LM>w#w-mf920922-059-p3s2w13</LM>
 </w.rf>
 <form>Houssat</form>
-<tag>
-<AM lemma="Houssat_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Houssat" src="auto">Vf--------A----</AM>
-<AM lemma="Houssat_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Houssat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Houssat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Housse" src="auto">NNNP2-----A----</AM>
-<AM lemma="Houssat_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Houssat_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="houssat" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Houssat_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-059-p3s2w14">
 <src.rf>manual</src.rf>
@@ -2550,17 +2469,7 @@
 <LM>w#w-mf920922-059-p4s2w63</LM>
 </w.rf>
 <form>Houssat</form>
-<tag>
-<AM lemma="Houssat_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Houssat" src="auto">Vf--------A----</AM>
-<AM lemma="Houssat_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Houssat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Houssat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Housse" src="auto">NNNP2-----A----</AM>
-<AM lemma="Houssat_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Houssat_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="houssat" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Houssat_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-059-p4s2w64">
 <src.rf>manual</src.rf>

@@ -771,18 +771,7 @@
 <LM>w#w-ln94211-103-p2s4w12</LM>
 </w.rf>
 <form>Andela</form>
-<tag>
-<AM lemma="Andel_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Andel_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Andel_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Andela" src="auto">NNFS1-----A----</AM>
-<AM lemma="Andela_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Andet" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Andet_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Andít" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="andela" src="auto">NNMS1-----A----</AM>
-<AM lemma="andela-2_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="Andel_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-103-p2s4w13">
 <src.rf>manual</src.rf>
@@ -1000,18 +989,7 @@
 <LM>w#w-ln94211-103-p2s5w12</LM>
 </w.rf>
 <form>Lorée</form>
-<tag>
-<AM lemma="Lorée_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Lorée_;K" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Lorée_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Lorée_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Lorée_;S" src="auto">NNMSX-----A----</AM>
-<AM lemma="Lorée_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lorée_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lorée" src="auto">NNFS2-----A----</AM>
-<AM lemma="Lorée" src="auto">NNFS1-----A----</AM>
-<AM lemma="lorée" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lorée_;K" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94211-103-p2s5w13">
 <src.rf>manual</src.rf>
@@ -1035,33 +1013,7 @@
 <LM>w#w-ln94211-103-p2s5w15</LM>
 </w.rf>
 <form>bezpáskový</form>
-<tag>
-<AM lemma="bezpáskový" src="orig">AAIS1----1A----</AM>
-<AM lemma="bezpáskový" src="auto">AAFP1----1A---6</AM>
-<AM lemma="bezpáskový" src="auto">AAFP4----1A---6</AM>
-<AM lemma="bezpáskový" src="auto">AAFP5----1A---6</AM>
-<AM lemma="bezpáskový" src="auto">AAFS2----1A---6</AM>
-<AM lemma="bezpáskový" src="auto">AAFS3----1A---6</AM>
-<AM lemma="bezpáskový" src="auto">AAFS6----1A---6</AM>
-<AM lemma="bezpáskový" src="auto">AAIP1----1A---6</AM>
-<AM lemma="bezpáskový" src="auto">AAIP4----1A---6</AM>
-<AM lemma="bezpáskový" src="auto">AAIP5----1A---6</AM>
-<AM lemma="bezpáskový" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="bezpáskový" src="auto">AAIS4----1A----</AM>
-<AM lemma="bezpáskový" src="auto">AAIS5----1A----</AM>
-<AM lemma="bezpáskový" src="auto">AAMP1----1A---6</AM>
-<AM lemma="bezpáskový" src="auto">AAMP4----1A---6</AM>
-<AM lemma="bezpáskový" src="auto">AAMP5----1A---6</AM>
-<AM lemma="bezpáskový" src="auto">AAMS1----1A----</AM>
-<AM lemma="bezpáskový" src="auto">AAMS5----1A----</AM>
-<AM lemma="bezpáskový" src="auto">AANP1----1A---6</AM>
-<AM lemma="bezpáskový" src="auto">AANP4----1A---6</AM>
-<AM lemma="bezpáskový" src="auto">AANP5----1A---6</AM>
-<AM lemma="bezpáskový" src="auto">AANS1----1A---6</AM>
-<AM lemma="bezpáskový" src="auto">AANS4----1A---6</AM>
-<AM lemma="bezpáskový" src="auto">AANS5----1A---6</AM>
-<AM lemma="bezpáskový_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="bezpáskový" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94211-103-p2s5w16">
 <src.rf>manual</src.rf>
@@ -1093,18 +1045,7 @@
 <LM>w#w-ln94211-103-p2s5w19</LM>
 </w.rf>
 <form>Otari</form>
-<tag>
-<AM lemma="Otari_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="Otari_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Otari_;K_;R" src="auto">NNNXX-----A----</AM>
-<AM lemma="Otari_;K" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Otari_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Otari_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Otari_,t" src="auto">Db-------------</AM>
-<AM lemma="Otari_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Otari_;m" src="auto">ClXP1----------</AM>
-<AM lemma="otari" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Otari_;K" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94211-103-p2s5w20">
 <src.rf>manual</src.rf>
@@ -1598,19 +1539,7 @@
 <LM>w#w-ln94211-103-p4s2w8</LM>
 </w.rf>
 <form>Sobranců</form>
-<tag>
-<AM lemma="Sobrance_;G" src="orig">NNIP2-----A----</AM>
-<AM lemma="Sobranc" src="auto">NNMP2-----A----</AM>
-<AM lemma="Sobrance" src="auto">NNMP2-----A----</AM>
-<AM lemma="Sobrance_;G" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="Sobrance_;G" src="auto">NNIP2-----A---1</AM>
-<AM lemma="Sobranec" src="auto">NNIP2-----A----</AM>
-<AM lemma="Sobranec" src="auto">NNMP2-----A----</AM>
-<AM lemma="Sobranec_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="obrněnec-1_^(Sobraný_vůz)" src="auto">NNIP2-----A----</AM>
-<AM lemma="sobranců" src="auto">NNMS1-----A----</AM>
-<AM lemma="sobranec" src="auto">NNMP2-----A----</AM>
-</tag>
+<tag lemma="Sobrance_;G" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94211-103-p4s2w9">
 <src.rf>manual</src.rf>

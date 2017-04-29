@@ -311,17 +311,7 @@
 <LM>w#w-mf930709-021-p2s1Bw29</LM>
 </w.rf>
 <form>Contex</form>
-<tag>
-<AM lemma="Contex_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Contex_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Contex_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Contex_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Contex" src="auto">NNIS4-----A----</AM>
-<AM lemma="Contex" src="auto">NNIS1-----A----</AM>
-<AM lemma="Contex_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Contex_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="contex" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Contex_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -347,18 +337,7 @@
 <LM>w#w-mf930709-021-p2s2w2</LM>
 </w.rf>
 <form>Contexu</form>
-<tag>
-<AM lemma="Contex_;K" src="orig">NNIS6-----A----</AM>
-<AM lemma="Contex" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Contex" src="auto">NNIS2-----A----</AM>
-<AM lemma="Contex_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Contex_;R" src="auto">NNIS2-----A----</AM>
-<AM lemma="Contex_;K" src="auto">NNIS6-----A----</AM>
-<AM lemma="Contex" src="auto">NNIS3-----A----</AM>
-<AM lemma="Contexa_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Contex_;m" src="auto">NNIS2-----A----</AM>
-<AM lemma="contexu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Contex_;K" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s2w3">
 <src.rf>manual</src.rf>
@@ -748,18 +727,7 @@
 <LM>w#w-mf930709-021-p2s5w8</LM>
 </w.rf>
 <form>Contexu</form>
-<tag>
-<AM lemma="Contex_;K" src="orig">NNIS6-----A----</AM>
-<AM lemma="Contex" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Contex" src="auto">NNIS2-----A----</AM>
-<AM lemma="Contex_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Contex_;R" src="auto">NNIS2-----A----</AM>
-<AM lemma="Contex_;K" src="auto">NNIS6-----A----</AM>
-<AM lemma="Contex" src="auto">NNIS3-----A----</AM>
-<AM lemma="Contexa_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Contex_;m" src="auto">NNIS2-----A----</AM>
-<AM lemma="contexu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Contex_;K" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1059,18 +1027,7 @@
 <LM>w#w-mf930709-021-p2s7w3</LM>
 </w.rf>
 <form>Contexu</form>
-<tag>
-<AM lemma="Contex_;K" src="orig">NNIS3-----A----</AM>
-<AM lemma="Contex" src="auto">NNIS6-----A----</AM>
-<AM lemma="Contex" src="auto">NNIS2-----A----</AM>
-<AM lemma="Contex_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Contex_;R" src="auto">NNIS2-----A----</AM>
-<AM lemma="Contex_;K" src="auto">NNIS6-----A----</AM>
-<AM lemma="Contex" src="auto">NNIS3-----A----</AM>
-<AM lemma="Contexa_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Contex_;m" src="auto">NNIS2-----A----</AM>
-<AM lemma="contexu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Contex_;K" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1354,17 +1311,7 @@
 <LM>w#w-mf930709-021-p2s9w1</LM>
 </w.rf>
 <form>Contex</form>
-<tag>
-<AM lemma="Contex_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Contex_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Contex_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Contex_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Contex" src="auto">NNIS4-----A----</AM>
-<AM lemma="Contex" src="auto">NNIS1-----A----</AM>
-<AM lemma="Contex_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Contex_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="contex" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Contex_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s9w2">
 <src.rf>manual</src.rf>
@@ -1452,18 +1399,7 @@
 <LM>w#w-mf930709-021-p2s9w12</LM>
 </w.rf>
 <form>Enving</form>
-<tag>
-<AM lemma="Enving_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Enving_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Enving" src="auto">NNIS4-----A----</AM>
-<AM lemma="Enving_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Enving" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Enving_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Enving_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Enving_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Enving_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="enving" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Enving_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s9w13">
 <src.rf>manual</src.rf>
@@ -1715,18 +1651,7 @@
 <LM>w#w-mf930709-021-p2s11w2</LM>
 </w.rf>
 <form>Contexu</form>
-<tag>
-<AM lemma="Contex_;K" src="orig">NNIS6-----A----</AM>
-<AM lemma="Contex" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Contex" src="auto">NNIS2-----A----</AM>
-<AM lemma="Contex_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Contex_;R" src="auto">NNIS2-----A----</AM>
-<AM lemma="Contex_;K" src="auto">NNIS6-----A----</AM>
-<AM lemma="Contex" src="auto">NNIS3-----A----</AM>
-<AM lemma="Contexa_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Contex_;m" src="auto">NNIS2-----A----</AM>
-<AM lemma="contexu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Contex_;K" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s11w3">
 <src.rf>manual</src.rf>
@@ -1870,18 +1795,7 @@
 <LM>w#w-mf930709-021-p2s11w20</LM>
 </w.rf>
 <form>Enving</form>
-<tag>
-<AM lemma="Enving_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Enving_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Enving" src="auto">NNIS4-----A----</AM>
-<AM lemma="Enving_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Enving" src="auto">NNIS1-----A----</AM>
-<AM lemma="Enving_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Enving_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Enving_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Enving_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="enving" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Enving_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s11w21">
 <src.rf>manual</src.rf>
@@ -2093,18 +2007,7 @@
 <LM>w#w-mf930709-021-p2s13w2</LM>
 </w.rf>
 <form>Contexu</form>
-<tag>
-<AM lemma="Contex_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Contex" src="auto">NNIS6-----A----</AM>
-<AM lemma="Contex" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Contex_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Contex_;R" src="auto">NNIS2-----A----</AM>
-<AM lemma="Contex_;K" src="auto">NNIS6-----A----</AM>
-<AM lemma="Contex" src="auto">NNIS3-----A----</AM>
-<AM lemma="Contexa_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Contex_;m" src="auto">NNIS2-----A----</AM>
-<AM lemma="contexu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Contex_;K" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s13w3">
 <src.rf>manual</src.rf>

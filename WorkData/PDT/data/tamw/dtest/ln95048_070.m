@@ -1880,17 +1880,7 @@
 <LM>w#w-ln95048-070-p3s4Aw2</LM>
 </w.rf>
 <form>tvářinka</form>
-<tag>
-<AM lemma="tvářinka" src="orig">NNFS1-----A----</AM>
-<AM lemma="tvářinka" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="tvářinka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tvářinek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="tvářinek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="tvářinka_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="tvářinka_;E_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="tvářinko_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="tvářinka_^(*2)" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="tvářinka" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-070-p3s4Aw3">
 <src.rf>manual</src.rf>
@@ -3986,17 +3976,7 @@
 <LM>w#w-ln95048-070-p5s8w3</LM>
 </w.rf>
 <form>transkulturální</form>
-<tag>
-<AM lemma="transkulturální" src="orig">AAIS1----1A----</AM>
-<AM lemma="transkulturální" src="auto">AAFS1----1A----</AM>
-<AM lemma="transkulturální" src="auto">AAFS2----1A----</AM>
-<AM lemma="transkulturální" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="transkulturální" src="auto">AAFS4----1A----</AM>
-<AM lemma="transkulturální" src="auto">AAIS4----1A----</AM>
-<AM lemma="transkulturální" src="auto">AAFS6----1A----</AM>
-<AM lemma="transkulturální" src="auto">AAFP4----1A----</AM>
-<AM lemma="transkulturální" src="auto">AANS1----1A----</AM>
-</tag>
+<tag lemma="transkulturální" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln95048-070-p5s8w4">
 <src.rf>manual</src.rf>
@@ -4218,17 +4198,7 @@
 <LM>w#w-ln95048-070-p5s11w9</LM>
 </w.rf>
 <form>tvářinka</form>
-<tag>
-<AM lemma="tvářinka" src="orig">NNFS1-----A----</AM>
-<AM lemma="tvářinka" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="tvářinka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tvářinek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="tvářinek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="tvářinka_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="tvářinka_;E_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="tvářinko_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="tvářinka_^(*2)" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="tvářinka" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-070-p5s11w10">
 <src.rf>manual</src.rf>
@@ -7829,17 +7799,7 @@
 <LM>w#w-ln95048-070-p6s14w2</LM>
 </w.rf>
 <form>nedopisy</form>
-<tag>
-<AM lemma="dopis" src="orig">NNIP1-----N----</AM>
-<AM lemma="nedopis" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="nedopis" src="auto">NNIP7-----A----</AM>
-<AM lemma="nedopis" src="auto">NNIP4-----A----</AM>
-<AM lemma="nedopisa_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="nedopisa_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="nedopisa" src="auto">NNFP4-----A----</AM>
-<AM lemma="nedopisa" src="auto">NNFP1-----A----</AM>
-<AM lemma="nedopisy_;Y_,t" src="auto">NNFXX-----A----</AM>
-</tag>
+<tag lemma="dopis" src="orig" selected="1">NNIP1-----N----</tag>
 </m>
 <m id="m-ln95048-070-p6s14w3">
 <src.rf>manual</src.rf>
@@ -10618,15 +10578,7 @@
 <LM>w#w-ln95048-070-p9s4w8</LM>
 </w.rf>
 <form>hororfraškami</form>
-<tag>
-<AM lemma="hororfraška" src="orig">NNFP7-----A----</AM>
-<AM lemma="hororfraška" src="auto" recommended="1">NNFP7-----A----</AM>
-<AM lemma="hororfrašky" src="auto">NNFP7-----A----</AM>
-<AM lemma="hororfraška_^(*2)" src="auto">NNFP7-----A----</AM>
-<AM lemma="hororfrašky_;G" src="auto">NNFP7-----A----</AM>
-<AM lemma="hororfraška_^(*2a)" src="auto">NNFP7-----A----</AM>
-<AM lemma="hororfraška_^(věda)" src="auto">NNFP7-----A----</AM>
-</tag>
+<tag lemma="hororfraška" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-ln95048-070-p9s4w9">
 <src.rf>manual</src.rf>

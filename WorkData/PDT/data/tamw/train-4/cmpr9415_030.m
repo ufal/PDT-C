@@ -45,17 +45,7 @@
 <LM>w#w-cmpr9415-030-p3s1w3</LM>
 </w.rf>
 <form>Gastrex</form>
-<tag>
-<AM lemma="Gastrex_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Gastrex_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Gastrex_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gastrex" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gastrex" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gastrex_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gastrex_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gastrex_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="gastrex" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gastrex_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-030-p3s1w4">
 <src.rf>manual</src.rf>

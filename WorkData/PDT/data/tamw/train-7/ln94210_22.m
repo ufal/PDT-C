@@ -143,18 +143,7 @@
 <LM>w#w-ln94210-22-p2s1Bw9</LM>
 </w.rf>
 <form>Dark</form>
-<tag>
-<AM lemma="Dark_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Dark_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dark" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dark_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dark_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Dark_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dark_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dark_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Dark_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dark" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dark_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-22-p2s1Bw10">
 <src.rf>manual</src.rf>

@@ -313,18 +313,7 @@
 <LM>w#w-ln94205-65-p2s1Cw24</LM>
 </w.rf>
 <form>Tropio</form>
-<tag>
-<AM lemma="Tropio_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tropio_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tropio_;K_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tropio_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Tropio_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tropio_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tropio_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tropio" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tropio_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="tropio" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tropio_;K" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-65-p2s1Cw25">
 <src.rf>manual</src.rf>

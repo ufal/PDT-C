@@ -1620,18 +1620,7 @@
 <LM>w#w-lnd94103-122-p1s7w5</LM>
 </w.rf>
 <form>Rögle</form>
-<tag>
-<AM lemma="Rögle_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Rögle_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Rögle_;K" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Rögle_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Rögle-1_,t_^(angl._sám,_jeden,_jediný)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Rögle" src="auto">NNFS2-----A----</AM>
-<AM lemma="Rögle" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rögle" src="auto">NNFP4-----A----</AM>
-<AM lemma="Rögl" src="auto">NNMS2-----A----</AM>
-<AM lemma="rögle" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rögle_;K" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-lnd94103-122-p1s7w6">
 <src.rf>manual</src.rf>

@@ -591,18 +591,7 @@
 <LM>w#w-ln95048-105-p2s4w5</LM>
 </w.rf>
 <form>Friedhelma</form>
-<tag>
-<AM lemma="Friedhelm_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Friedhelm_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Friedhelma_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Friedhelma" src="auto">NNFS1-----A----</AM>
-<AM lemma="Alma_;G_^(Friedhelma-Ata)" src="auto">NNFSX-----A----</AM>
-<AM lemma="Friedhelma_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Friedhelma_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Friedhelma_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Friedhelma" src="auto">NNNS1-----A----</AM>
-<AM lemma="friedhelma" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Friedhelm_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-105-p2s4w6">
 <src.rf>manual</src.rf>
@@ -610,15 +599,7 @@
 <LM>w#w-ln95048-105-p2s4w6</LM>
 </w.rf>
 <form>Busseho</form>
-<tag>
-<AM lemma="Busse_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Busse_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Busse_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Busse_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Busse_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Busse-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="busseho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Busse_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-105-p2s4w7">
 <src.rf>manual</src.rf>

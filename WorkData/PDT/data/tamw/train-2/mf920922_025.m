@@ -433,18 +433,7 @@
 <LM>w#w-mf920922-025-p2s3w19</LM>
 </w.rf>
 <form>Stankret</form>
-<tag>
-<AM lemma="Stankret_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Stankret" src="auto">NNIS4-----A----</AM>
-<AM lemma="Stankret_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stankreta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Stankret" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stankrta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Stankret_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Stankret_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stankret_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="stankret" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stankret_;S" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920922-025-p2s3w20">
 <src.rf>manual</src.rf>
@@ -1962,18 +1951,7 @@
 <LM>w#w-mf920922-025-p2s10w19</LM>
 </w.rf>
 <form>Stankret</form>
-<tag>
-<AM lemma="Stankret_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Stankret" src="auto">NNIS4-----A----</AM>
-<AM lemma="Stankret_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stankreta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Stankret" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Stankrta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Stankret_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Stankret_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stankret_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="stankret" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stankret_;S" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920922-025-p2s10w20">
 <src.rf>manual</src.rf>

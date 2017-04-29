@@ -233,18 +233,7 @@
 <LM>w#w-ln94205-134-p2s1Cw12</LM>
 </w.rf>
 <form>Eagle</form>
-<tag>
-<AM lemma="Eagle_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Eagle_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Eagle_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Eagle_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Eagle-1_,t_^(angl._sám,_jeden,_jediný)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Eagle" src="auto">NNFS2-----A----</AM>
-<AM lemma="Eagle" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eagle" src="auto">NNFP4-----A----</AM>
-<AM lemma="Eagl" src="auto">NNMS2-----A----</AM>
-<AM lemma="eagle" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Eagle_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-134-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -380,17 +369,7 @@
 <LM>w#w-ln94205-134-p2s1Cw29</LM>
 </w.rf>
 <form>Elbitu</form>
-<tag>
-<AM lemma="Elbit_;K_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="Elbita" src="auto">NNFS4-----A----</AM>
-<AM lemma="Elbit" src="auto">NNIS2-----A----</AM>
-<AM lemma="Elbit" src="auto">NNIS6-----A----</AM>
-<AM lemma="Elbit" src="auto">NNIS3-----A----</AM>
-<AM lemma="Elbit_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Elbit_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Elbit" src="auto">NNIS6-----A---1</AM>
-<AM lemma="elbitu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Elbit_;K_,t" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94205-134-p2s1Cw30">
 <src.rf>manual</src.rf>
@@ -777,18 +756,7 @@
 <LM>w#w-ln94205-134-p3s1w39</LM>
 </w.rf>
 <form>Eagle</form>
-<tag>
-<AM lemma="Eagle_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Eagle_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Eagle_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Eagle_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Eagle-1_,t_^(angl._sám,_jeden,_jediný)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Eagle" src="auto">NNFS2-----A----</AM>
-<AM lemma="Eagle" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eagle" src="auto">NNFP4-----A----</AM>
-<AM lemma="Eagl" src="auto">NNMS2-----A----</AM>
-<AM lemma="eagle" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Eagle_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-134-p3s1w40">
 <src.rf>manual</src.rf>

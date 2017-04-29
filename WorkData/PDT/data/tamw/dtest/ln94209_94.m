@@ -159,21 +159,7 @@
 <LM>w#w-ln94209-94-p2s1Bw6</LM>
 </w.rf>
 <form>DECARO</form>
-<tag>
-<AM lemma="Decaro_;w_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="DECARO_:B_;U_^(anesteziologicko-resuscitační_oddělení)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="DECAro_;K_,t" src="auto">RR--X----------</AM>
-<AM lemma="DECAro_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Decaro_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Decarý" src="auto">A2--------A----</AM>
-<AM lemma="Decaro_;S_;Y_;R" src="auto">NNIXX-----A----</AM>
-<AM lemma="Decaro_;R" src="auto">NNNS4-----A----</AM>
-<AM lemma="Decaro-2_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Decaro" src="auto">NNNS4-----A----</AM>
-<AM lemma="Decaro" src="auto">NNNS1-----A----</AM>
-<AM lemma="Decaro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="decaro" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Decaro_;w_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94209-94-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -333,18 +319,7 @@
 <LM>w#w-ln94209-94-p2s1Bw26</LM>
 </w.rf>
 <form>Hämaläinen</form>
-<tag>
-<AM lemma="Hämaläinen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hämaläinen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="vinný-1_^(kdo_je_Hämaläinen/vinna)" src="auto">ACYS------A----</AM>
-<AM lemma="Hämaläine_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Hämaläinný" src="auto">ACYS------A----</AM>
-<AM lemma="Hämaläinna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Hämaläin_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Hämaläinen" src="auto">PDYS1----------</AM>
-<AM lemma="Hämaläinen" src="auto">PDIS4----------</AM>
-<AM lemma="hämaläinen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hämaläinen_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-94-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -384,18 +359,7 @@
 <LM>w#w-ln94209-94-p2s1Bw31</LM>
 </w.rf>
 <form>Dagard</form>
-<tag>
-<AM lemma="Dagard_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dagard_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dagard_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dagard" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dagard_;m_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Dagard_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dagard" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dagard" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dagarda`1000000000" src="auto">NNFP2-----A----</AM>
-<AM lemma="dagard" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dagard_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-94-p2s1Bw32">
 <src.rf>manual</src.rf>
@@ -669,18 +633,7 @@
 <LM>w#w-ln94209-94-p2s2w30</LM>
 </w.rf>
 <form>Talance</form>
-<tag>
-<AM lemma="Talance_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Talance" src="auto">NNFS1-----A----</AM>
-<AM lemma="Talance" src="auto">NNFS2-----A----</AM>
-<AM lemma="Talance" src="auto">NNFP1-----A----</AM>
-<AM lemma="Talanec" src="auto">NNMP4-----A----</AM>
-<AM lemma="Talanka" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Talanka" src="auto">NNFS3-----A----</AM>
-<AM lemma="Talance" src="auto">NNFP4-----A----</AM>
-<AM lemma="Talanec" src="auto">NNMS2-----A----</AM>
-<AM lemma="talance" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Talance_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94209-94-p2s2w31">
 <src.rf>manual</src.rf>
@@ -836,18 +789,7 @@
 <LM>w#w-ln94209-94-p2s4w9</LM>
 </w.rf>
 <form>Palziat</form>
-<tag>
-<AM lemma="Palziat_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Palziat_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Palziat_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Palziat_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Palziat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Palziat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Palziat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Palziat_:T_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Palziat_:T_^(*4at)" src="auto">Vf--------A----</AM>
-<AM lemma="palziat" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Palziat_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-94-p2s4w10">
 <src.rf>manual</src.rf>
@@ -959,18 +901,7 @@
 <LM>w#w-ln94209-94-p2s4w23</LM>
 </w.rf>
 <form>Ftitz</form>
-<tag>
-<AM lemma="Ftitz_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ftitz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ftitz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ftitz_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ftitz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ftitz_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ftitz_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Ftitz_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ftitz-1_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ftitz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ftitz_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-94-p2s4w24">
 <src.rf>manual</src.rf>

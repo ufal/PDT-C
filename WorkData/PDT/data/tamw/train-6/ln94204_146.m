@@ -2831,16 +2831,7 @@
 <LM>w#w-ln94204-146-p2s13Bw19</LM>
 </w.rf>
 <form>stomatologicko</form>
-<tag>
-<AM lemma="stomatologický" src="orig">A2--------A----</AM>
-<AM lemma="stomatologický" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="stomatologicko_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="stomatologicko_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="stomatologicek" src="auto">PLNS4----------</AM>
-<AM lemma="stomatologicek" src="auto">PLNS1----------</AM>
-<AM lemma="stomatologicko_;G_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="stomatologicko_;G" src="auto">NNNS5-----A----</AM>
-</tag>
+<tag lemma="stomatologický" src="orig" selected="1">A2--------A----</tag>
 </m>
 <m id="m-ln94204-146-p2s13Bw20">
 <src.rf>manual</src.rf>
@@ -3244,18 +3235,7 @@
 <LM>w#w-ln94204-146-p2s15Aw19</LM>
 </w.rf>
 <form>Wiron</form>
-<tag>
-<AM lemma="wiron" src="orig">NNIS1-----A----</AM>
-<AM lemma="Wiron_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wiron" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Wiron_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wiron_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wiron_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wiron_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Wiron-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Iron-3_;G_,t_^(Wiron_Mountain)" src="auto">AAXXX----1A----</AM>
-<AM lemma="wiron" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="wiron" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-146-p2s15Aw20">
 <src.rf>manual</src.rf>

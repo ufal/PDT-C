@@ -2174,18 +2174,7 @@
 <LM>w#w-ln95046-123-p4s1w11</LM>
 </w.rf>
 <form>Security</form>
-<tag>
-<AM lemma="security_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Securita" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Securita" src="auto">NNFP4-----A----</AM>
-<AM lemma="Securita" src="auto">NNFP1-----A----</AM>
-<AM lemma="Securit" src="auto">NNIP4-----A----</AM>
-<AM lemma="Securit" src="auto">NNIP1-----A----</AM>
-<AM lemma="Securit" src="auto">NNIP7-----A----</AM>
-<AM lemma="Securít" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="Securita_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="security" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="security_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95046-123-p4s1w12">
 <src.rf>manual</src.rf>
@@ -2193,18 +2182,7 @@
 <LM>w#w-ln95046-123-p4s1w12</LM>
 </w.rf>
 <form>Identification</form>
-<tag>
-<AM lemma="identification_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Identification_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Identification_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Identification_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Identification_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Identification" src="auto">NNIS1-----A----</AM>
-<AM lemma="Identification_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Identificatión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Identificatión" src="auto">NNIS1-----A----</AM>
-<AM lemma="identification" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="identification_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95046-123-p4s1w13">
 <src.rf>manual</src.rf>
@@ -2300,18 +2278,7 @@
 <LM>w#w-ln95046-123-p4s1w24</LM>
 </w.rf>
 <form>Bohemian</form>
-<tag>
-<AM lemma="Bohemian_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Bohemian_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bohemian_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bohemian_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Bohemian_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bohemián_;Y_,x" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bohemián_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bohemianum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Bohemiano" src="auto">NNNP2-----A----</AM>
-<AM lemma="bohemian" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bohemian_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95046-123-p4s1w25">
 <src.rf>manual</src.rf>
@@ -2319,18 +2286,7 @@
 <LM>w#w-ln95046-123-p4s1w25</LM>
 </w.rf>
 <form>Indentification</form>
-<tag>
-<AM lemma="indentification_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Indentification_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Indentification_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Indentification_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Indentification_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Indentification" src="auto">NNIS1-----A----</AM>
-<AM lemma="Indentification_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Indentificatión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Indentificatión" src="auto">NNIS1-----A----</AM>
-<AM lemma="indentification" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="indentification_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95046-123-p4s1w26">
 <src.rf>manual</src.rf>

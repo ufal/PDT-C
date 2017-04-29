@@ -1754,18 +1754,7 @@
 <LM>w#w-ln95046-026-p6s1w5</LM>
 </w.rf>
 <form>Edessaikos</form>
-<tag>
-<AM lemma="Edessaikos_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Edessaikos_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Edessaikos_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Edessaikos_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Edessaikos_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Edessaikos_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="Edessaikos" src="auto">NNIS1-----A----</AM>
-<AM lemma="Edessaikos" src="auto">NNIS4-----A----</AM>
-<AM lemma="Edessaikos_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="edessaikos" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Edessaikos_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-026-p6s1w6">
 <src.rf>manual</src.rf>

@@ -225,17 +225,7 @@
 <LM>w#w-ln95047-026-p2s1Cw14</LM>
 </w.rf>
 <form>Thunder</form>
-<tag>
-<AM lemma="Thunder_;G_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Thunder_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Thunder_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Thundro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Thunder_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="thunder-2_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Thundry_;G" src="auto">NNIP2-----A---1</AM>
-<AM lemma="Thundra_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="thunder" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Thunder_;G_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95047-026-p2s1Cw15">
 <src.rf>manual</src.rf>

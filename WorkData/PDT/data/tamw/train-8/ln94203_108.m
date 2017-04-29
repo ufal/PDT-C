@@ -452,18 +452,7 @@
 <LM>w#w-ln94203-108-p3s1w6</LM>
 </w.rf>
 <form>Salbutomalu</form>
-<tag>
-<AM lemma="Salbutomal" src="orig">NNIS2-----A----</AM>
-<AM lemma="Salbutomal" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Salbutomal" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Salbutomal_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Salbutomal" src="auto">NNIS3-----A----</AM>
-<AM lemma="Salbutomal_;K" src="auto">NNIS3-----A----</AM>
-<AM lemma="Salbutomal_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Salbutomal_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Salbutomala_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="salbutomalu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Salbutomal" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-108-p3s1w7">
 <src.rf>manual</src.rf>
@@ -876,16 +865,7 @@
 <LM>w#w-ln94203-108-p3s3w11</LM>
 </w.rf>
 <form>Salbutomal</form>
-<tag>
-<AM lemma="Salbutomal_;U" src="orig">NNIS1-----A----</AM>
-<AM lemma="Salbutomat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Salbutomal_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Salbutomat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Salbutomat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="minimal_;u_,t_^(pouze_ve_spojení_Salbutomal_art)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Salbutomala_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="salbutomal" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Salbutomal_;U" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-108-p3s3w12">
 <src.rf>manual</src.rf>

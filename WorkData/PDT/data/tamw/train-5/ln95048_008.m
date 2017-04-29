@@ -51,17 +51,7 @@
 <LM>w#w-ln95048-008-p1s1w5</LM>
 </w.rf>
 <form>telecom</form>
-<tag>
-<AM lemma="telecom_;K_,t" src="orig">NNIS4-----A----</AM>
-<AM lemma="telecom_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="telecom_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="telecom_;K_,t" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="telecom_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="telecom_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="telecom_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="telecom" src="auto">NNIS1-----A----</AM>
-<AM lemma="telecom" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="telecom_;K_,t" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln95048-008-p2s1A">
@@ -145,18 +135,7 @@
 <LM>w#w-ln95048-008-p2s1Bw8</LM>
 </w.rf>
 <form>Ameritech</form>
-<tag>
-<AM lemma="Ameritech_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Amerit" src="auto">NNIP6-----A----</AM>
-<AM lemma="Amerito" src="auto">NNNP6-----A----</AM>
-<AM lemma="Amerit" src="auto">NNMP6-----A----</AM>
-<AM lemma="Amerity_;G" src="auto">NNIP6-----A----</AM>
-<AM lemma="Amerit_^(*3ý)" src="auto">NNFP6-----A----</AM>
-<AM lemma="Amerit" src="auto">NNFP6-----A----</AM>
-<AM lemma="Ameritech" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Amerita" src="auto">NNMP6-----A----</AM>
-<AM lemma="ameritech" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ameritech_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-008-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -282,18 +261,7 @@
 <LM>w#w-ln95048-008-p3s1w1</LM>
 </w.rf>
 <form>Ameritech</form>
-<tag>
-<AM lemma="Ameritech_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Amerit" src="auto">NNIP6-----A----</AM>
-<AM lemma="Amerito" src="auto">NNNP6-----A----</AM>
-<AM lemma="Amerit" src="auto">NNMP6-----A----</AM>
-<AM lemma="Amerity_;G" src="auto">NNIP6-----A----</AM>
-<AM lemma="Amerit_^(*3ý)" src="auto">NNFP6-----A----</AM>
-<AM lemma="Amerit" src="auto">NNFP6-----A----</AM>
-<AM lemma="Ameritech" src="auto">NNIS4-----A----</AM>
-<AM lemma="Amerita" src="auto">NNMP6-----A----</AM>
-<AM lemma="ameritech" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ameritech_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-008-p3s1w2">
 <src.rf>manual</src.rf>

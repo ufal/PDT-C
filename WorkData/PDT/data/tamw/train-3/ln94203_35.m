@@ -417,18 +417,7 @@
 <LM>w#w-ln94203-35-p2s2w24</LM>
 </w.rf>
 <form>Magyarlyho</form>
-<tag>
-<AM lemma="Magyarly_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Magyarly_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Magyarly_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Magyarly_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Magyarly_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Magyarly_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Magyarl_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Magyarly_;S_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Magyarly_;S_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="magyarlyho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Magyarly_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-35-p2s2w25">
 <src.rf>manual</src.rf>

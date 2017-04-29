@@ -2798,17 +2798,7 @@
 <LM>w#w-ln94210-75-p5s1w7</LM>
 </w.rf>
 <form>ante</form>
-<tag>
-<AM lemma="ante_,t" src="orig">Db-------------</AM>
-<AM lemma="ante_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="ante_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="ante_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ant" src="auto">NNIS5-----A----</AM>
-<AM lemma="ante_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ante_,t" src="auto">RR--X----------</AM>
-<AM lemma="ante_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="ante_,t" src="auto" recommended="1">Db-------------</AM>
-</tag>
+<tag lemma="ante_,t" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94210-75-p5s1w8">
 <src.rf>manual</src.rf>
@@ -4921,18 +4911,7 @@
 <LM>w#w-ln94210-75-p6s4w13</LM>
 </w.rf>
 <form>Proposition</form>
-<tag>
-<AM lemma="proposition_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Proposition_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Proposition_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Proposition_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Proposition_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Proposition" src="auto">NNIS1-----A----</AM>
-<AM lemma="Proposition_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Propositión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Propositión" src="auto">NNIS1-----A----</AM>
-<AM lemma="proposition" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="proposition_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94210-75-p6s4w14">
 <src.rf>manual</src.rf>

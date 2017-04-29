@@ -1570,12 +1570,7 @@
 <LM>w#w-ln94205-130-p3s5w15</LM>
 </w.rf>
 <form>Tiličo</form>
-<tag>
-<AM lemma="Tiličo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tiličo_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tiličový" src="auto">A2--------A----</AM>
-<AM lemma="tiličo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tiličo_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-130-p3s5w16">
 <src.rf>manual</src.rf>
@@ -1835,14 +1830,7 @@
 <LM>w#w-ln94205-130-p3s7w8</LM>
 </w.rf>
 <form>Bhagirati</form>
-<tag>
-<AM lemma="Bhagirati_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Bhagirat_:T" src="auto">Vf--------A---2</AM>
-<AM lemma="Bhagirat" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Bhagirať" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Bhagirat_:W" src="auto">Vf--------A---2</AM>
-<AM lemma="bhagirati" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bhagirati_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94205-130-p3s7w9">
 <src.rf>manual</src.rf>
@@ -1908,18 +1896,7 @@
 <LM>w#w-ln94205-130-p3s8Aw1</LM>
 </w.rf>
 <form>Suchel</form>
-<tag>
-<AM lemma="Suchel_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Suchel_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Suchla" src="auto">NNFP2-----A----</AM>
-<AM lemma="Suchel" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Suchel_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Suchel" src="auto">NNIS4-----A----</AM>
-<AM lemma="Suchel_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Suchel_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Suchel" src="auto">NNMS1-----A----</AM>
-<AM lemma="suchel" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Suchel_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-130-p3s8Aw2">
 <src.rf>manual</src.rf>
@@ -3996,18 +3973,7 @@
 <LM>w#w-ln94205-130-p5s2w9</LM>
 </w.rf>
 <form>Agency</form>
-<tag>
-<AM lemma="Agency_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Agency_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Agency_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Agency_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Agency-2_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Agency_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Agency_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Agenca_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Agenca_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="agency" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Agency_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-130-p5s2w10">
 <src.rf>manual</src.rf>

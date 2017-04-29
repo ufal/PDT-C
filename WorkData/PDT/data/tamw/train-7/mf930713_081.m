@@ -499,18 +499,7 @@
 <LM>w#w-mf930713-081-p3s2w5</LM>
 </w.rf>
 <form>Sahháf</form>
-<tag>
-<AM lemma="Sahháf_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sahháf_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sahháf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sahháf" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sahháf" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sahháf_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sahháf" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sahháf-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Sahháf_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="sahháf" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sahháf_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-081-p3s2w6">
 <src.rf>manual</src.rf>

@@ -1094,26 +1094,7 @@
 <LM>w#w-mf920922-050-p2s4w33</LM>
 </w.rf>
 <form>TGT</form>
-<tag>
-<AM lemma="TGT_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="TGT_:B_;R_^(gran_turismo)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="TGT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Tgt_;G_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Tgt_:B_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Tgt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tgt_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tgt" src="auto">NNIS1-----A----</AM>
-<AM lemma="tgt" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="TGT_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
 </m>
 <m id="m-mf920922-050-p2s4w34">
 <src.rf>manual</src.rf>
@@ -1991,26 +1972,7 @@
 <LM>w#w-mf920922-050-p2s8Aw9</LM>
 </w.rf>
 <form>TGT</form>
-<tag>
-<AM lemma="TGT_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="TGT_:B_;R_^(gran_turismo)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="TGT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Tgt_;G_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Tgt_:B_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Tgt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tgt_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tgt" src="auto">NNIS1-----A----</AM>
-<AM lemma="tgt" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="TGT_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
 </m>
 <m id="m-mf920922-050-p2s8Aw10">
 <src.rf>manual</src.rf>
@@ -2979,26 +2941,7 @@
 <LM>w#w-mf920922-050-p2s13w2</LM>
 </w.rf>
 <form>TGT</form>
-<tag>
-<AM lemma="TGT_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="TGT_:B_;R_^(gran_turismo)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="TGT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Tgt_;G_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Tgt_:B_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Tgt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tgt_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tgt" src="auto">NNIS1-----A----</AM>
-<AM lemma="tgt" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="TGT_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
 </m>
 <m id="m-mf920922-050-p2s13w3">
 <src.rf>manual</src.rf>
@@ -3724,18 +3667,7 @@
 <LM>w#w-mf920922-050-p2s17w17</LM>
 </w.rf>
 <form>Advantage</form>
-<tag>
-<AM lemma="Advantage_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Advantage_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Advantag_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Advantage_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Advantage_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Advantage_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Advantage_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Advantage_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Advantage_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="advantage" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Advantage_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-050-p2s17w18">
 <src.rf>manual</src.rf>

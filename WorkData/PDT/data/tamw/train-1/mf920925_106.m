@@ -465,18 +465,7 @@
 <LM>w#w-mf920925-106-p3s1w25</LM>
 </w.rf>
 <form>Ramin</form>
-<tag>
-<AM lemma="Ramin_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ramin_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ramin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ramina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ramín_,x" src="auto">NNIS4-----A----</AM>
-<AM lemma="Raminuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Raminimální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Ramin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ramin" src="auto">NNIS4-----A----</AM>
-<AM lemma="ramin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ramin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-106-p3s1w26">
 <src.rf>manual</src.rf>
@@ -484,18 +473,7 @@
 <LM>w#w-mf920925-106-p3s1w26</LM>
 </w.rf>
 <form>Čelidze</form>
-<tag>
-<AM lemma="Čelidze_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Čelidze_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Čelidze_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Čelidze" src="auto">NNFS1-----A----</AM>
-<AM lemma="Čelidze" src="auto">NNFS2-----A----</AM>
-<AM lemma="Čelidha" src="auto">NNFS6-----A----</AM>
-<AM lemma="Čelidz_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Čelidha" src="auto">NNFS3-----A----</AM>
-<AM lemma="Čelidza" src="auto">NNFS6-----A----</AM>
-<AM lemma="čelidze" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Čelidze_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-106-p3s1w27">
 <src.rf>manual</src.rf>

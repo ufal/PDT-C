@@ -35,17 +35,7 @@
 <LM>w#w-ln94206-140-p1s1w3</LM>
 </w.rf>
 <form>nedoma</form>
-<tag>
-<AM lemma="doma" src="orig">Dg-------1N----</AM>
-<AM lemma="nedom_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="nedom" src="auto">NNMS2-----A----</AM>
-<AM lemma="nedom_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="nedoma_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="nedoma_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="nedoma_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="doma" src="auto" recommended="1">Dg-------1N----</AM>
-<AM lemma="nedomý" src="auto">ACQW------A----</AM>
-</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-ln94206-140-p1s1w4">
 <src.rf>manual</src.rf>

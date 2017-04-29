@@ -3493,16 +3493,7 @@
 <LM>w#w-ln94211-5-p6s4w15</LM>
 </w.rf>
 <form>Personal</form>
-<tag>
-<AM lemma="Personal_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Personat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Personat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Personat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Personal_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="personat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Personal_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="personal" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Personal_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94211-5-p6s4w16">
 <src.rf>manual</src.rf>
@@ -4056,32 +4047,7 @@
 <LM>w#w-ln94211-5-p7s3w16</LM>
 </w.rf>
 <form>XT</form>
-<tag>
-<AM lemma="XT_:B_;R" src="orig">NNNXX-----A---8</AM>
-<AM lemma="XT_:B_;R" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="XT_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="XT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="XT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="XT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="XT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="XT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Xt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Xt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Xt" src="auto">Vf--------A----</AM>
-<AM lemma="Xt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Xt_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Xt" src="auto">NNIS1-----A----</AM>
-<AM lemma="Xt" src="auto">NNIS4-----A----</AM>
-<AM lemma="Xt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="xt" src="auto">NNIS1-----A----</AM>
-<AM lemma="xt" src="auto">NNIS4-----A----</AM>
-<AM lemma="xt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="xt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="xt" src="auto">Vf--------A----</AM>
-<AM lemma="xt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="xt_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="xt_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="XT_:B_;R" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94211-5-p7s3w17">
 <src.rf>manual</src.rf>

@@ -1817,19 +1817,7 @@
 <LM>w#w-ln94208-83-p4s5w7</LM>
 </w.rf>
 <form>postdoktorandi</form>
-<tag>
-<AM lemma="postdoktorand" src="orig">NNMP1-----A----</AM>
-<AM lemma="postdoktorand" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="postdoktorand" src="auto">NNMP5-----A----</AM>
-<AM lemma="postdoktorandi_,t" src="auto">NNIS2-----A----</AM>
-<AM lemma="postdoktorandi_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="postdoktorandi_;G_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="postdoktorandi_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="postdoktorandi_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="postdoktorandi_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="postdoktorandum_,t" src="auto">NNNS2-----A----</AM>
-<AM lemma="postdoktorandus_,t" src="auto">NNIS2-----A----</AM>
-</tag>
+<tag lemma="postdoktorand" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94208-83-p4s5w8">
 <src.rf>manual</src.rf>
@@ -2983,17 +2971,7 @@
 <LM>w#w-ln94208-83-p5s7w5</LM>
 </w.rf>
 <form>undergraduate</form>
-<tag>
-<AM lemma="undergraduate_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="undergraduate_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="undergraduate_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="undergraduate_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="undergraduate_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="undergraduate_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="undergraduást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="undergraduate_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="undergraduate_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="undergraduate_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94208-83-p5s7w6">
 <src.rf>manual</src.rf>
@@ -3001,17 +2979,7 @@
 <LM>w#w-ln94208-83-p5s7w6</LM>
 </w.rf>
 <form>schools</form>
-<tag>
-<AM lemma="schools_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="school_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="schools_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="schools_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="schools_;S" src="auto">NNFSX-----A----</AM>
-<AM lemma="schools_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="schools" src="auto">NNIS1-----A----</AM>
-<AM lemma="school_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="school_;m_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-</tag>
+<tag lemma="schools_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94208-83-p5s7w7">
 <src.rf>manual</src.rf>
@@ -3107,17 +3075,7 @@
 <LM>w#w-ln94208-83-p5s7w18</LM>
 </w.rf>
 <form>graduate</form>
-<tag>
-<AM lemma="graduate_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="graduate_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="graduate_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="graduate_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="graduate_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="graduate_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="graduást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="graduate_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="graduate_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="graduate_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94208-83-p5s7w19">
 <src.rf>manual</src.rf>
@@ -3125,17 +3083,7 @@
 <LM>w#w-ln94208-83-p5s7w19</LM>
 </w.rf>
 <form>schools</form>
-<tag>
-<AM lemma="schools_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="school_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="schools_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="schools_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="schools_;S" src="auto">NNFSX-----A----</AM>
-<AM lemma="schools_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="schools" src="auto">NNIS1-----A----</AM>
-<AM lemma="school_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="school_;m_,t" src="auto">NNFPX-----A----</AM>
-</tag>
+<tag lemma="schools_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94208-83-p5s7w20">
 <src.rf>manual</src.rf>
@@ -3217,17 +3165,7 @@
 <LM>w#w-ln94208-83-p5s8w2</LM>
 </w.rf>
 <form>graduate</form>
-<tag>
-<AM lemma="graduate_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="graduate_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="graduate_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="graduate_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="graduate_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="graduate_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="graduást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="graduate_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="graduate_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="graduate_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94208-83-p5s8w3">
 <src.rf>manual</src.rf>
@@ -3235,17 +3173,7 @@
 <LM>w#w-ln94208-83-p5s8w3</LM>
 </w.rf>
 <form>schools</form>
-<tag>
-<AM lemma="schools_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="school_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="schools_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="schools_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="schools_;S" src="auto">NNFSX-----A----</AM>
-<AM lemma="schools_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="schools" src="auto">NNIS1-----A----</AM>
-<AM lemma="school_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="school_;m_,t" src="auto">NNFPX-----A----</AM>
-</tag>
+<tag lemma="schools_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94208-83-p5s8w4">
 <src.rf>manual</src.rf>
@@ -4369,17 +4297,7 @@
 <LM>w#w-ln94208-83-p8s1w2</LM>
 </w.rf>
 <form>graduate</form>
-<tag>
-<AM lemma="graduate_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="graduate_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="graduate_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="graduate_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="graduate_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="graduate_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="graduást" src="auto" recommended="1">VB-S---3P-AA---</AM>
-<AM lemma="graduate_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="graduate_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="graduate_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94208-83-p8s1w3">
 <src.rf>manual</src.rf>
@@ -4387,17 +4305,7 @@
 <LM>w#w-ln94208-83-p8s1w3</LM>
 </w.rf>
 <form>schools</form>
-<tag>
-<AM lemma="schools_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="school_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="schools_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="schools_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="schools_;S" src="auto">NNFSX-----A----</AM>
-<AM lemma="schools_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="schools" src="auto">NNIS1-----A----</AM>
-<AM lemma="school_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="school_;m_,t" src="auto">NNFPX-----A----</AM>
-</tag>
+<tag lemma="schools_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94208-83-p8s1w4">
 <src.rf>manual</src.rf>

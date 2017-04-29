@@ -1924,17 +1924,7 @@
 <LM>w#w-lnd94103-101-p1s9w33</LM>
 </w.rf>
 <form>martinuovské</form>
-<tag>
-<AM lemma="martinuovský" src="orig">AAFS2----1A----</AM>
-<AM lemma="martinuovský" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="martinuovský" src="auto">AAFS6----1A----</AM>
-<AM lemma="martinuovský" src="auto">AANS1----1A----</AM>
-<AM lemma="martinuovský" src="auto">AAFP1----1A----</AM>
-<AM lemma="martinuovský" src="auto">AAIP1----1A----</AM>
-<AM lemma="martinuovský" src="auto">AANS4----1A----</AM>
-<AM lemma="martinuovský" src="auto">AAFP4----1A----</AM>
-<AM lemma="martinuovský" src="auto">AAFS3----1A----</AM>
-</tag>
+<tag lemma="martinuovský" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd94103-101-p1s9w34">
 <src.rf>manual</src.rf>
@@ -3521,17 +3511,7 @@
 <LM>w#w-lnd94103-101-p1s17Aw12</LM>
 </w.rf>
 <form>con</form>
-<tag>
-<AM lemma="con_,t" src="orig">RR--X----------</AM>
-<AM lemma="con_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="con_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Silicon_;G_,t_^(con_Valley)" src="auto">AAXXX----1A----</AM>
-<AM lemma="con_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="con_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="con_,t" src="auto" recommended="1">RR--X----------</AM>
-<AM lemma="con-2_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="con-2_;K" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="con_,t" src="orig" selected="1">RR--X----------</tag>
 </m>
 <m id="m-lnd94103-101-p1s17Aw13">
 <src.rf>manual</src.rf>
@@ -3539,17 +3519,7 @@
 <LM>w#w-lnd94103-101-p1s17Aw13</LM>
 </w.rf>
 <form>variacioni</form>
-<tag>
-<AM lemma="variacioni_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="variacioni_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="variacion" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="variacioň_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="variacioni" src="auto">Db-------------</AM>
-<AM lemma="vvariacioni_,h" src="auto">Db------------1</AM>
-<AM lemma="variaciůň" src="auto">NNMS6-----A----</AM>
-<AM lemma="variaciůň" src="auto">NNMP7-----A----</AM>
-<AM lemma="variacioňa_;Y" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="variacioni_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-lnd94103-101-p1s17Aw14">
 <src.rf>manual</src.rf>
@@ -3637,17 +3607,7 @@
 <LM>w#w-lnd94103-101-p1s17Aw24</LM>
 </w.rf>
 <form>danaj</form>
-<tag>
-<AM lemma="danaj_,n" src="orig">II-------------</AM>
-<AM lemma="danaj_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="danaj_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="danaj_,n" src="auto" recommended="1">II-------------</AM>
-<AM lemma="danaj-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="danaj" src="auto">NNIS4-----A----</AM>
-<AM lemma="danaj" src="auto">NNIS1-----A----</AM>
-<AM lemma="danaj_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="danaj_;G" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="danaj_,n" src="orig" selected="1">II-------------</tag>
 </m>
 <m id="m-lnd94103-101-p1s17Aw25">
 <src.rf>manual</src.rf>

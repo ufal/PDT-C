@@ -330,18 +330,7 @@
 <LM>w#w-ln94200-113-p2s2w5</LM>
 </w.rf>
 <form>Chaperon</form>
-<tag>
-<AM lemma="Chaperon_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chaperon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chaperon" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chaperon_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chaperon_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chaperon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chaperon_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Chaperon-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Iron-3_;G_,t_^(Chaperon_Mountain)" src="auto">AAXXX----1A----</AM>
-<AM lemma="chaperon" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chaperon_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-113-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1014,17 +1003,7 @@
 <LM>w#w-ln94200-113-p3s3w13</LM>
 </w.rf>
 <form>Šačirbej</form>
-<tag>
-<AM lemma="Šačirbej_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Šačirbej_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Šačirbý" src="auto">AAMS1----1A---6</AM>
-<AM lemma="Šačirbej" src="auto">NNIS1-----A----</AM>
-<AM lemma="Šačirbej_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Šačirbý" src="auto">AAIS1----1A---6</AM>
-<AM lemma="Šačirbej" src="auto">NNIS4-----A----</AM>
-<AM lemma="Šačirbat_:T" src="auto">Vi-S---2--A----</AM>
-<AM lemma="šačirbej" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Šačirbej_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-113-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1050,18 +1029,7 @@
 <LM>w#w-ln94200-113-p3s5w2</LM>
 </w.rf>
 <form>Šačirbeje</form>
-<tag>
-<AM lemma="Šačirbej_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Šačirbej" src="auto">NNIS2-----A----</AM>
-<AM lemma="Šačirbát" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Šačirbej" src="auto">NNFP1-----A----</AM>
-<AM lemma="Šačirbea_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Šačirbej_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Šačirbej_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Šačirbej" src="auto">NNIP4-----A----</AM>
-<AM lemma="Šačirbej" src="auto">NNFS2-----A----</AM>
-<AM lemma="šačirbeje" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Šačirbej_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-113-p3s5w3">
 <src.rf>manual</src.rf>

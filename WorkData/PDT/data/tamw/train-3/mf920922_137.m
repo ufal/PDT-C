@@ -331,18 +331,7 @@
 <LM>w#w-mf920922-137-p3s1Cw26</LM>
 </w.rf>
 <form>Tomási</form>
-<tag>
-<AM lemma="Tomási_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Tomýsi" src="auto">PZNP1----------</AM>
-<AM lemma="Tomýsi" src="auto">PZFS1----------</AM>
-<AM lemma="Tomási_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Tomáse" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tomáse" src="auto">NNFS3-----A----</AM>
-<AM lemma="Tomási_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tomáse" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tomási" src="auto">Db-------------</AM>
-<AM lemma="tomási" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tomási_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-mf920922-137-p3s1Cw27">
 <src.rf>manual</src.rf>

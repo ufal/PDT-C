@@ -43,17 +43,7 @@
 <LM>w#w-mf930713-060-p1s1w4</LM>
 </w.rf>
 <form>autokarikatuře</form>
-<tag>
-<AM lemma="autokarikatura" src="orig">NNFS6-----A----</AM>
-<AM lemma="autokarikatura" src="auto">NNFS3-----A----</AM>
-<AM lemma="autokarikatura" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="autokarikatura_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="autokarikatura_;K" src="auto">NNFS6-----A----</AM>
-<AM lemma="autokarikatuř" src="auto">NNIP1-----A----</AM>
-<AM lemma="autokarikatuř" src="auto">NNIS2-----A----</AM>
-<AM lemma="autokarikatuře" src="auto">NNNS1-----A----</AM>
-<AM lemma="autokarikatuře" src="auto">NNNS4-----A----</AM>
-</tag>
+<tag lemma="autokarikatura" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 </mdata>

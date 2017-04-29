@@ -1852,15 +1852,7 @@
 <LM>w#w-ln95049-100-p3s11w4</LM>
 </w.rf>
 <form>jednasemdesátiletá</form>
-<tag>
-<AM lemma="jednasemdesátiletý" src="orig">AAFS1----1A----</AM>
-<AM lemma="jednasemdesátiletý" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="jednasemdesátiletý_^(*1)" src="auto">AAFS1----1A----</AM>
-<AM lemma="jednasemdesátiletý" src="auto">AANP4----1A----</AM>
-<AM lemma="jednasemdesátiletat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="jednasemdesátiletat_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="jednasemdesátiletý_^(*3out)" src="auto">AAFS1----1A----</AM>
-</tag>
+<tag lemma="jednasemdesátiletý" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln95049-100-p3s11w5">
 <src.rf>manual</src.rf>

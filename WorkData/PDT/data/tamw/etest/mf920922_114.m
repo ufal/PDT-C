@@ -475,18 +475,7 @@
 <LM>w#w-mf920922-114-p2s4w6</LM>
 </w.rf>
 <form>Dienel</form>
-<tag>
-<AM lemma="Dienel_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dienel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dienel" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dienel" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dienel_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dienel_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dienel_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Dienel-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Dienel" src="auto">NNMS1-----A----</AM>
-<AM lemma="dienel" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dienel_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-114-p2s4w7">
 <src.rf>manual</src.rf>
@@ -763,18 +752,7 @@
 <LM>w#w-mf920922-114-p2s5w8</LM>
 </w.rf>
 <form>Werthebach</form>
-<tag>
-<AM lemma="Werthebach_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Werthebach_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Werthebach" src="auto">NNIS1-----A----</AM>
-<AM lemma="Werthebach" src="auto">NNIS4-----A----</AM>
-<AM lemma="Werthebach_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Werthebach_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="prach-1_^(střelný_Werthebach)" src="auto">NNIS4-----A----</AM>
-<AM lemma="prach-1_^(střelný_Werthebach)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Werthebacha" src="auto">NNFP2-----A----</AM>
-<AM lemma="werthebach" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Werthebach_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-114-p2s5w9">
 <src.rf>manual</src.rf>

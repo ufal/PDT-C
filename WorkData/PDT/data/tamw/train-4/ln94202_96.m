@@ -64,18 +64,7 @@
 <LM>w#w-ln94202-96-p2s1Aw3</LM>
 </w.rf>
 <form>Francorchamps</form>
-<tag>
-<AM lemma="Francorchamps_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Francorchamps_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Francorchamps_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Francorchamp_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Francorchamps_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Francorchamps_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Francorchamps_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Francorchamps_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Francorchamps-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="francorchamps" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Francorchamps_;G" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-96-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -264,18 +253,7 @@
 <LM>w#w-ln94202-96-p2s1Bw22</LM>
 </w.rf>
 <form>Francorchamps</form>
-<tag>
-<AM lemma="Francorchamps_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Francorchamps_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Francorchamps_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Francorchamp_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Francorchamps_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Francorchamps_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Francorchamps_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Francorchamps_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Francorchamps-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="francorchamps" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Francorchamps_;G" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-96-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -703,18 +681,7 @@
 <LM>w#w-ln94202-96-p2s3w10</LM>
 </w.rf>
 <form>Walkinshaw</form>
-<tag>
-<AM lemma="Walkinshaw_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Walkinshaw_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Walkinshaw_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Walkinshaw_;G_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Walkinshaw" src="auto">NNNXX-----A----</AM>
-<AM lemma="Walkinshaw" src="auto">NNFXX-----A----</AM>
-<AM lemma="know_,t_^(Walkinshaw_how)" src="auto">NNNXX-----A----</AM>
-<AM lemma="how_,t_^(know_Walkinshaw)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Walkinshaw_,t" src="auto">RR--6----------</AM>
-<AM lemma="walkinshaw" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Walkinshaw_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-96-p2s3w11">
 <src.rf>manual</src.rf>

@@ -1771,18 +1771,7 @@
 <LM>w#w-ln94211-122-p5s4w1</LM>
 </w.rf>
 <form>Protivahou</form>
-<tag>
-<AM lemma="protiváha" src="orig">NNFS7-----A----</AM>
-<AM lemma="Protivaci" src="auto">VB-P---3P-AA--1</AM>
-<AM lemma="Protivaha" src="auto">NNFS7-----A----</AM>
-<AM lemma="Protivaha" src="auto">NNMS7-----A----</AM>
-<AM lemma="Protivaha_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Protivaha_;Y" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="Protivahý" src="auto">AAFS4----1A----</AM>
-<AM lemma="Protivahý" src="auto">AAFS7----1A----</AM>
-<AM lemma="protivahou" src="auto">NNMS1-----A----</AM>
-<AM lemma="protiváha_^(na_vážení;_hmotnost)" src="auto">NNFS7-----A---1</AM>
-</tag>
+<tag lemma="protiváha" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94211-122-p5s4w2">
 <src.rf>manual</src.rf>

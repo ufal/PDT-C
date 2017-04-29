@@ -2795,18 +2795,7 @@
 <LM>w#w-ln94200-136-p6s1w22</LM>
 </w.rf>
 <form>Rudolphina</form>
-<tag>
-<AM lemma="Rudolphina_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Rudolphina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rudolphin_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rudolphina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rudolphin_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rudolphina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rudolphina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rudolphin_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rudolphina_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="rudolphina" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rudolphina_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-136-p6s1w23">
 <src.rf>manual</src.rf>
@@ -2926,18 +2915,7 @@
 <LM>w#w-ln94200-136-p6s1w37</LM>
 </w.rf>
 <form>Florea</form>
-<tag>
-<AM lemma="Florea_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Florea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Floreo_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Flore_;S" src="auto">NNMS4-----A---1</AM>
-<AM lemma="Florea_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Florea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Florea_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Florea_;K_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Florea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="florea" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Florea_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94200-136-p6s1w38">
 <src.rf>manual</src.rf>
@@ -3064,18 +3042,7 @@
 <LM>w#w-ln94200-136-p6s2w3</LM>
 </w.rf>
 <form>Quartet</form>
-<tag>
-<AM lemma="Quartet_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Quartet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Quartet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Quartet_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Quartet_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Quartet_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Quartet" src="auto">Vf--------A----</AM>
-<AM lemma="Quarteta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Quartet_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="quartet" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Quartet_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-136-p6s2w4">
 <src.rf>manual</src.rf>
@@ -3341,18 +3308,7 @@
 <LM>w#w-ln94200-136-p7s1w23</LM>
 </w.rf>
 <form>Niederösterreichisches</form>
-<tag>
-<AM lemma="Niederösterreichisches_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Niederösterreichisches_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Niederösterreichisches_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Niederösterreichisches_;K_,t" src="auto">AAISX----1A----</AM>
-<AM lemma="Niederösterreichisches_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Niederösterreichisches_;G" src="auto">NNFPX-----A----</AM>
-<AM lemma="Niederösterreichisches_;G" src="auto">NNFP1-----A----</AM>
-<AM lemma="Niederösterreichisches" src="auto">NNIS4-----A----</AM>
-<AM lemma="Niederösterreichische_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="niederösterreichisches" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Niederösterreichisches_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94200-136-p7s1w24">
 <src.rf>manual</src.rf>
@@ -3360,18 +3316,7 @@
 <LM>w#w-ln94200-136-p7s1w24</LM>
 </w.rf>
 <form>Tonkünstlerorchester</form>
-<tag>
-<AM lemma="Tonkünstlerorchester_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Tonkünstlerorchester_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tonkünstlerorchester_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tonkünstlerorchester_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tonkünstlerorchester" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tonkünstlerorchestro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Tonkünstlerorchester_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Tonkünstlerorchester" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tonkünstlerorchestrum" src="auto">NNNP2-----A----</AM>
-<AM lemma="tonkünstlerorchester" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tonkünstlerorchester_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-136-p7s1w25">
 <src.rf>manual</src.rf>

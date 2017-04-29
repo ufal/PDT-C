@@ -158,28 +158,7 @@
 <LM>w#w-ln94209-102-p2s1Bw6</LM>
 </w.rf>
 <form>NEOBLBA</form>
-<tag>
-<AM lemma="NEOBLBA_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="NEOBLBA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NEOBLBA_:B_;K_,t_^(Bermuda_International_Bussiness_Association)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NEOBLBA_:B_;K_,t_^(British_Airways)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NEOBLBA_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="NEOBLBA_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Neoblb" src="auto">NNMS2-----A----</AM>
-<AM lemma="Neoblba" src="auto">NNFS1-----A----</AM>
-<AM lemma="Neoblba-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Neoblba_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Neoblbum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Neoblbum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Neoblbum" src="auto">NNNS2-----A----</AM>
-<AM lemma="neoblb" src="auto">NNMS2-----A----</AM>
-<AM lemma="neoblb" src="auto">NNMS4-----A----</AM>
-<AM lemma="neoblba" src="auto">NNMS1-----A----</AM>
-<AM lemma="neoblbo_^(koukat_do_blba)" src="auto">NNNP1-----A----</AM>
-<AM lemma="neoblbo_^(koukat_do_blba)" src="auto">NNNP4-----A----</AM>
-<AM lemma="neoblbo_^(koukat_do_blba)" src="auto">NNNP5-----A----</AM>
-<AM lemma="neoblbo_^(koukat_do_blba)" src="auto">NNNS2-----A----</AM>
-</tag>
+<tag lemma="NEOBLBA_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-102-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -811,28 +790,7 @@
 <LM>w#w-ln94209-102-p3s4w1</LM>
 </w.rf>
 <form>NEOBLBA</form>
-<tag>
-<AM lemma="NEOBLBA_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="NEOBLBA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NEOBLBA_:B_;K_,t_^(Bermuda_International_Bussiness_Association)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NEOBLBA_:B_;K_,t_^(British_Airways)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NEOBLBA_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="NEOBLBA_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Neoblb" src="auto">NNMS2-----A----</AM>
-<AM lemma="Neoblba" src="auto">NNFS1-----A----</AM>
-<AM lemma="Neoblba-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Neoblba_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Neoblbum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Neoblbum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Neoblbum" src="auto">NNNS2-----A----</AM>
-<AM lemma="neoblb" src="auto">NNMS2-----A----</AM>
-<AM lemma="neoblb" src="auto">NNMS4-----A----</AM>
-<AM lemma="neoblba" src="auto">NNMS1-----A----</AM>
-<AM lemma="neoblbo_^(koukat_do_blba)" src="auto">NNNP1-----A----</AM>
-<AM lemma="neoblbo_^(koukat_do_blba)" src="auto">NNNP4-----A----</AM>
-<AM lemma="neoblbo_^(koukat_do_blba)" src="auto">NNNP5-----A----</AM>
-<AM lemma="neoblbo_^(koukat_do_blba)" src="auto">NNNS2-----A----</AM>
-</tag>
+<tag lemma="NEOBLBA_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-102-p3s4w2">
 <src.rf>manual</src.rf>

@@ -119,17 +119,7 @@
 <LM>w#w-ln94203-117-p2s1Bw5</LM>
 </w.rf>
 <form>Dragiša</form>
-<tag>
-<AM lemma="Dragiša_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dragišo_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Dragiša_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dragiša_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dragiša_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dragišo_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Dragiš_;S_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Dragiša_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="dragiša" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dragiša_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-117-p2s1Bw6">
 <src.rf>manual</src.rf>

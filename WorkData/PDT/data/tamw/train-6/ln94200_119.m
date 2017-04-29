@@ -441,18 +441,7 @@
 <LM>w#w-ln94200-119-p3s1w9</LM>
 </w.rf>
 <form>Bnai</form>
-<tag>
-<AM lemma="Bnai_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Bnai_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Bnai_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Bnai_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bnai_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bnai_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bnai_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Bnai_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Bnai_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="bnai" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bnai_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94200-119-p3s1w10">
 <src.rf>manual</src.rf>
@@ -460,18 +449,7 @@
 <LM>w#w-ln94200-119-p3s1w10</LM>
 </w.rf>
 <form>Brith</form>
-<tag>
-<AM lemma="Brith_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Brith_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Brith_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Brith_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Brith_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Brith_;K_^(hudební_skupina)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Brith_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Brith_,t" src="auto">RR--X----------</AM>
-<AM lemma="Brith_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="brith" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Brith_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94200-119-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1516,18 +1494,7 @@
 <LM>w#w-ln94200-119-p7s1w5</LM>
 </w.rf>
 <form>Murajama</form>
-<tag>
-<AM lemma="Murajama_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Muraj" src="auto">NNIP7-----A---6</AM>
-<AM lemma="Murajam_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Murajama_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Murajama_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Murajama" src="auto">NNNS4-----A----</AM>
-<AM lemma="Murajama" src="auto">NNNS1-----A----</AM>
-<AM lemma="Muraja" src="auto">NNFD7-----A----</AM>
-<AM lemma="Murajamo" src="auto">NNNS2-----A----</AM>
-<AM lemma="murajama" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Murajama_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-119-p7s1w6">
 <src.rf>manual</src.rf>
@@ -1697,18 +1664,7 @@
 <LM>w#w-ln94200-119-p7s2w1</LM>
 </w.rf>
 <form>Murajama</form>
-<tag>
-<AM lemma="Murajama_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Muraj" src="auto">NNIP7-----A---6</AM>
-<AM lemma="Murajam_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Murajama_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Murajama_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Murajama" src="auto">NNNS4-----A----</AM>
-<AM lemma="Murajama" src="auto">NNNS1-----A----</AM>
-<AM lemma="Muraja" src="auto">NNFD7-----A----</AM>
-<AM lemma="Murajamo" src="auto">NNNS2-----A----</AM>
-<AM lemma="murajama" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Murajama_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-119-p7s2w2">
 <src.rf>manual</src.rf>
@@ -1936,18 +1892,7 @@
 <LM>w#w-ln94200-119-p8s1w11</LM>
 </w.rf>
 <form>Najak</form>
-<tag>
-<AM lemma="Najak_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Najak_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Najak" src="auto">Db-------------</AM>
-<AM lemma="Najak" src="auto">NNIS1-----A----</AM>
-<AM lemma="Najak_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Najak_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Najak-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Najak-3" src="auto">Db-------------</AM>
-<AM lemma="Najak-2" src="auto">J^-------------</AM>
-<AM lemma="najak" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Najak_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-119-p8s1w12">
 <src.rf>manual</src.rf>
@@ -2758,18 +2703,7 @@
 <LM>w#w-ln94200-119-p10s3w10</LM>
 </w.rf>
 <form>Seda</form>
-<tag>
-<AM lemma="Seda_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sed_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Seda_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Seda" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Seda" src="auto">NNMS1-----A----</AM>
-<AM lemma="Séd_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sed_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Seda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sédés_;S_,x" src="auto">NNMS2-----A----</AM>
-<AM lemma="seda" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Seda_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-119-p10s3w11">
 <src.rf>manual</src.rf>

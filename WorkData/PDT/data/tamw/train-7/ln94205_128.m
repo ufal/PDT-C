@@ -196,17 +196,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Kledrowetzem</form>
-<tag>
-<AM lemma="Kledrowetz_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Kledrowetz" src="auto">NNIS7-----A----</AM>
-<AM lemma="Kledrowetz_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Kledrowetz_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Kledrowets" src="auto">NNIS7-----A----</AM>
-<AM lemma="Kledrowetzo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Kledrowetz_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Kledrowetz" src="auto">NNMS7-----A----</AM>
-<AM lemma="kledrowetzem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kledrowetz_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-128-p1s1B">

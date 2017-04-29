@@ -197,18 +197,7 @@
 <LM>w#w-mf920922-052-p2s1w20</LM>
 </w.rf>
 <form>McCaightem</form>
-<tag>
-<AM lemma="McCaight_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="McCaight" src="auto">NNIS7-----A----</AM>
-<AM lemma="McCaight" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="McCaight_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="McCaight_^(*3ý)" src="auto">NNFP3-----A----</AM>
-<AM lemma="McCaighto" src="auto">NNNS7-----A----</AM>
-<AM lemma="McCaigh" src="auto">NNNS7-----A----</AM>
-<AM lemma="McCaight" src="auto">NNFP3-----A----</AM>
-<AM lemma="McCaighet" src="auto">NNIS7-----A----</AM>
-<AM lemma="Mccaightem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="McCaight_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-052-p2s1w21">
 <src.rf>manual</src.rf>
@@ -636,17 +625,7 @@
 <LM>w#w-mf920922-052-p2s3w19</LM>
 </w.rf>
 <form>Kábale</form>
-<tag>
-<AM lemma="Kábale_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kábale_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Kábale_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kábal" src="auto">NNIS6-----A----</AM>
-<AM lemma="Kábale_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Kábala" src="auto">NNFS6-----A----</AM>
-<AM lemma="Kábale_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kábale-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kábale" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kábale_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-052-p2s3w20">
 <src.rf>manual</src.rf>

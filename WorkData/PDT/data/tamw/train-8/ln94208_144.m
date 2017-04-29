@@ -1416,21 +1416,7 @@
 <LM>w#w-ln94208-144-p4s4w14</LM>
 </w.rf>
 <form>TWIN</form>
-<tag>
-<AM lemma="TWIN_;R" src="orig">NNIS4-----A----</AM>
-<AM lemma="Twin_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="TWIN_;R" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="TWInvestiční_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Twin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Twin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Twin_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Twina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Twin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Twin" src="auto">NNIS4-----A----</AM>
-<AM lemma="Twin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Twin_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="twin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="TWIN_;R" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94208-144-p4s4w15">
 <src.rf>manual</src.rf>
@@ -1578,18 +1564,7 @@
 <LM>w#w-ln94208-144-p4s4w32</LM>
 </w.rf>
 <form>Helinger</form>
-<tag>
-<AM lemma="Helinger_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Helinger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Helinger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Helinger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Helinžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Helinger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Helinger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Helinger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Helinger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="helinger" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Helinger_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-144-p4s4w33">
 <src.rf>manual</src.rf>
@@ -1883,18 +1858,7 @@
 <LM>w#w-ln94208-144-p5s2w5</LM>
 </w.rf>
 <form>Amalgerol</form>
-<tag>
-<AM lemma="Amalgerol_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Amalgerola" src="auto">NNFP2-----A----</AM>
-<AM lemma="Amalgerol" src="auto">NNIS4-----A----</AM>
-<AM lemma="Amalgerology_:B_;R_,t" src="auto">NNFSX-----A---8</AM>
-<AM lemma="Amalgerol_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Amalgerol_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Amalgerol_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Amalgerol_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Amalgerol_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="amalgerol" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Amalgerol_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-144-p5s2w6">
 <src.rf>manual</src.rf>
@@ -2640,18 +2604,7 @@
 <LM>w#w-ln94208-144-p5s6w27</LM>
 </w.rf>
 <form>Bürgen</form>
-<tag>
-<AM lemma="Bürgen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bürgen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bürgen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bürgen_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bürgen" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bürgen" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bürgenerální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Bürgenerál_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Bürgen_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="bürgen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bürgen_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-144-p5s6w28">
 <src.rf>manual</src.rf>

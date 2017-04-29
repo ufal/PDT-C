@@ -2044,13 +2044,7 @@
 <LM>w#w-ln94211-95-p4s3w16</LM>
 </w.rf>
 <form>too</form>
-<tag>
-<AM lemma="too_,t" src="orig">Db-------------</AM>
-<AM lemma="too_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="too_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="too_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="too-1_;K" src="auto">NNFXX-----A----</AM>
-</tag>
+<tag lemma="too_,t" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94211-95-p4s3w17">
 <src.rf>manual</src.rf>
@@ -2058,17 +2052,7 @@
 <LM>w#w-ln94211-95-p4s3w17</LM>
 </w.rf>
 <form>bad</form>
-<tag>
-<AM lemma="bad_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="bad_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="bad_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="bad_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="bad" src="auto">NNIS1-----A----</AM>
-<AM lemma="bad" src="auto">NNIS4-----A----</AM>
-<AM lemma="bada" src="auto">NNFP2-----A----</AM>
-<AM lemma="bad_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="bad_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="bad_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94211-95-p4s3w18">
 <src.rf>manual</src.rf>
@@ -2095,13 +2079,7 @@
 <LM>w#w-ln94211-95-p4s3w20</LM>
 </w.rf>
 <form>too</form>
-<tag>
-<AM lemma="too_,t" src="orig">Db-------------</AM>
-<AM lemma="too_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="too_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="too_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="too-1_;K" src="auto">NNFXX-----A----</AM>
-</tag>
+<tag lemma="too_,t" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94211-95-p4s3w21">
 <src.rf>manual</src.rf>
@@ -2109,17 +2087,7 @@
 <LM>w#w-ln94211-95-p4s3w21</LM>
 </w.rf>
 <form>good</form>
-<tag>
-<AM lemma="good_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="good_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="good_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="good_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="good_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="good_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="good_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="good_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="good-2_;S" src="auto">NNFXX-----A----</AM>
-</tag>
+<tag lemma="good_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94211-95-p4s3w22">
 <src.rf>manual</src.rf>
@@ -2681,18 +2649,7 @@
 <LM>w#w-ln94211-95-p5s4w8</LM>
 </w.rf>
 <form>Carrowmore</form>
-<tag>
-<AM lemma="Carrowmore_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Carrowmor" src="auto">NNMS5-----A----</AM>
-<AM lemma="Carrowmore_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Carrowmore_;u_,l_,t_^(hudební_styl)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Carrowmore_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Carrowmore_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Carrowmore_;R_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Carrowmore_;K_,t" src="auto" recommended="1">Dg-------2A----</AM>
-<AM lemma="Carrowmore_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="carrowmore" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Carrowmore_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94211-95-p5s4w9">
 <src.rf>manual</src.rf>
@@ -5348,16 +5305,7 @@
 <LM>w#w-ln94211-95-p9s3w11</LM>
 </w.rf>
 <form>insula</form>
-<tag>
-<AM lemma="insula_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="insout" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="insula_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="insula" src="auto">NNFS1-----A----</AM>
-<AM lemma="insul_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="insula_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="insula_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="insula_;G" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="insula_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-95-p9s3w12">
 <src.rf>manual</src.rf>
@@ -5365,16 +5313,7 @@
 <LM>w#w-ln94211-95-p9s3w12</LM>
 </w.rf>
 <form>sanctorum</form>
-<tag>
-<AM lemma="sanctus_,t" src="orig">AAMP2----1A----</AM>
-<AM lemma="sanctorum" src="auto">NNNS1-----A----</AM>
-<AM lemma="sanctorum" src="auto">NNNS4-----A----</AM>
-<AM lemma="res_;R_,t_^(De_sanctorum_natura)" src="auto">NNIP2-----A----</AM>
-<AM lemma="sanctor_,t" src="auto">AAMP2----1A----</AM>
-<AM lemma="sanctus_,t" src="auto" recommended="1">AAMP2----1A----</AM>
-<AM lemma="sanctorum_;w_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="sanctorum_;m" src="auto">NNNS1-----A----</AM>
-</tag>
+<tag lemma="sanctus_,t" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln94211-95-p9s3w13">
 <src.rf>manual</src.rf>
@@ -8249,18 +8188,7 @@
 <LM>w#w-ln94211-95-p12s1Bw12</LM>
 </w.rf>
 <form>Irishmen</form>
-<tag>
-<AM lemma="Irishmen_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Irishmen" src="auto">NNIS1-----A----</AM>
-<AM lemma="Irishmeno" src="auto">NNNP2-----A----</AM>
-<AM lemma="Irishmen" src="auto">NNIS4-----A----</AM>
-<AM lemma="Irishmit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Irishmen_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Irishmit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Irishmen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Irishméno" src="auto">NNNP2-----A----</AM>
-<AM lemma="irishmen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Irishmen_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94211-95-p12s1Bw13">
 <src.rf>manual</src.rf>
@@ -8764,18 +8692,7 @@
 <LM>w#w-ln94211-95-p12s5w11</LM>
 </w.rf>
 <form>Catholic</form>
-<tag>
-<AM lemma="Catholic_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Catholice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Catholic_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Catholice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Catholic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Catholíce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Catholic_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Catholic_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Catholic_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="catholic" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Catholic_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94211-95-p12s5w12">
 <src.rf>manual</src.rf>
@@ -8783,18 +8700,7 @@
 <LM>w#w-ln94211-95-p12s5w12</LM>
 </w.rf>
 <form>Committee</form>
-<tag>
-<AM lemma="Committee_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Committee_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Committee-1_,t_^(fin.:_souč._term._Bank_G.)" src="auto">NNFSX-----A----</AM>
-<AM lemma="Committee_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Committee_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Committee_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Committee_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Committee_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="bungee_,t_^(Committee_jumping)" src="auto">AAXXX----1A----</AM>
-<AM lemma="committee" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Committee_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94211-95-p12s5w13">
 <src.rf>manual</src.rf>
@@ -8882,18 +8788,7 @@
 <LM>w#w-ln94211-95-p12s5w23</LM>
 </w.rf>
 <form>Connella</form>
-<tag>
-<AM lemma="Connell_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Connell_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Connella_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Connella_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Connell_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Connella_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Connell_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="della_;R_,t_^(it.,_ve_jménech,_př._Connella_Rebia)" src="auto">RR--X----------</AM>
-<AM lemma="Villa-3_;G_^(součást_gegraf._názvů_např._Connella_Adriana)" src="auto">NNFS1-----A----</AM>
-<AM lemma="connella" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Connell_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-95-p12s5w24">
 <src.rf>manual</src.rf>
@@ -9544,18 +9439,7 @@
 <LM>w#w-ln94211-95-p13s4w10</LM>
 </w.rf>
 <form>Gaelic</form>
-<tag>
-<AM lemma="Gaelic_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Gaelice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gaelic_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Gaelice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gaelic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Gaelíce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gaelic_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Gaelic_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Gaelic_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="gaelic" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gaelic_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94211-95-p13s4w11">
 <src.rf>manual</src.rf>
@@ -9563,18 +9447,7 @@
 <LM>w#w-ln94211-95-p13s4w11</LM>
 </w.rf>
 <form>League</form>
-<tag>
-<AM lemma="League_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="League_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="League_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="League_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="League_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="League_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="League_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="League_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="League_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="league" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="League_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94211-95-p13s4w12">
 <src.rf>manual</src.rf>
@@ -13524,15 +13397,7 @@
 <LM>w#w-ln94211-95-p18s3w8</LM>
 </w.rf>
 <form>guinness</form>
-<tag>
-<AM lemma="guinness_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="guinness_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="guinness_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="guinness_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="guinness_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="guinness_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ness_;G_^(jezero_Loch_guinness)" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="guinness_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-95-p18s3w9">
 <src.rf>manual</src.rf>
@@ -14991,18 +14856,7 @@
 <LM>w#w-ln94211-95-p19s4w5</LM>
 </w.rf>
 <form>Éire</form>
-<tag>
-<AM lemma="Éire_;G_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Éire_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Éire_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Éire_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Éire_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Éire_;K_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Éire_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Éire_;G_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Éire_,t" src="auto">Vf--------A----</AM>
-<AM lemma="éire" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Éire_;G_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94211-95-p19s4w6">
 <src.rf>manual</src.rf>
@@ -15047,18 +14901,7 @@
 <LM>w#w-ln94211-95-p19s4w10</LM>
 </w.rf>
 <form>Átha</form>
-<tag>
-<AM lemma="Átha_;G_,t" src="orig">RR--X----------</AM>
-<AM lemma="Áth_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Áth_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Átha_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Áth_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Áth" src="auto">NNMS2-----A----</AM>
-<AM lemma="Átha_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Átha_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Átha_;G_,t" src="auto" recommended="1">RR--X----------</AM>
-<AM lemma="átha" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Átha_;G_,t" src="orig" selected="1">RR--X----------</tag>
 </m>
 <m id="m-ln94211-95-p19s4w11">
 <src.rf>manual</src.rf>
@@ -15066,17 +14909,7 @@
 <LM>w#w-ln94211-95-p19s4w11</LM>
 </w.rf>
 <form>Cliath</form>
-<tag>
-<AM lemma="Cliath_;G_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Cliath_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sabbath_;K_;u_,t_^(z_názvu_skupiny_Black_Cliath)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Cliath_;G_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Cliath_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cliath_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Cliath_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Cliath_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="cliath" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cliath_;G_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94211-95-p19s4w12">
 <src.rf>manual</src.rf>
@@ -16298,18 +16131,7 @@
 <LM>w#w-ln94211-95-p20s10w21</LM>
 </w.rf>
 <form>Sinéad</form>
-<tag>
-<AM lemma="Sinéad_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Sinéad_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Sinéad_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sinéad" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sinéad" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sinéada" src="auto">NNFP2-----A----</AM>
-<AM lemma="Sinéad_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sinéad_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sinéad_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sinéad" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sinéad_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94211-95-p20s10w22">
 <src.rf>manual</src.rf>
@@ -16743,17 +16565,7 @@
 <LM>w#w-ln94211-95-p21s5w2</LM>
 </w.rf>
 <form>Christ</form>
-<tag>
-<AM lemma="Christ_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Christ_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Christ" src="auto">NNFS4-----A----</AM>
-<AM lemma="Christ" src="auto">NNFS1-----A----</AM>
-<AM lemma="Christ_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Christ" src="auto">NNIS4-----A----</AM>
-<AM lemma="Christý" src="auto">ACYS------A----</AM>
-<AM lemma="Christ_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="christ" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Christ_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94211-95-p21s5w3">
 <src.rf>manual</src.rf>
@@ -16937,18 +16749,7 @@
 <LM>w#w-ln94211-95-p21s7w3</LM>
 </w.rf>
 <form>Trinity</form>
-<tag>
-<AM lemma="Trinity_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Trinita" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Trinita" src="auto">NNFP4-----A----</AM>
-<AM lemma="Trinita" src="auto">NNFP1-----A----</AM>
-<AM lemma="Trinit" src="auto">NNIP4-----A----</AM>
-<AM lemma="Trinit" src="auto">NNIP1-----A----</AM>
-<AM lemma="Trinit" src="auto">NNIP7-----A----</AM>
-<AM lemma="Trinít" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="Trinita_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="trinity" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Trinity_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94211-95-p21s7w4">
 <src.rf>manual</src.rf>

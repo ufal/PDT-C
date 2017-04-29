@@ -914,17 +914,7 @@
 <LM>w#w-ln94200-8-p2s6w2</LM>
 </w.rf>
 <form>tod</form>
-<tag>
-<AM lemma="tod-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="toda" src="auto">NNFP2-----A----</AM>
-<AM lemma="tod-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="tod" src="auto">NNMS1-----A----</AM>
-<AM lemma="tod" src="auto">NNIS4-----A----</AM>
-<AM lemma="tod" src="auto">NNIS1-----A----</AM>
-<AM lemma="tod_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tod_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="tod_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="tod-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-8-p2s6w3">
 <src.rf>manual</src.rf>

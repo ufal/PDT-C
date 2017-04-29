@@ -369,18 +369,7 @@
 <LM>w#w-ln95045-039-p2s2w17</LM>
 </w.rf>
 <form>Glogr</form>
-<tag>
-<AM lemma="Glogr_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Glogr_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Glogr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Glogr-1_:B_^(magistr)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Glogr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Glogr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Glogr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Glogr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Glogra" src="auto">NNFP2-----A----</AM>
-<AM lemma="glogr" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Glogr_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-039-p2s2w18">
 <src.rf>manual</src.rf>
@@ -1110,17 +1099,7 @@
 <LM>w#w-ln95045-039-p3s5w16</LM>
 </w.rf>
 <form>toyenovskými</form>
-<tag>
-<AM lemma="toyenovský" src="orig">AAFP7----1A----</AM>
-<AM lemma="toyenovský" src="auto">AAIP7----1A----</AM>
-<AM lemma="toyenovský" src="auto" recommended="1">AAFP7----1A----</AM>
-<AM lemma="toyenovský" src="auto">AAMP7----1A----</AM>
-<AM lemma="toyenovský" src="auto">AANP7----1A----</AM>
-<AM lemma="toyenovský_^(*2t)" src="auto">AAIP7----1A----</AM>
-<AM lemma="toyenovský_^(*2t)" src="auto">AAFP7----1A----</AM>
-<AM lemma="toyenovský_^(*3it)" src="auto">AAIP7----1A----</AM>
-<AM lemma="toyenovský_^(*3it)" src="auto">AAFP7----1A----</AM>
-</tag>
+<tag lemma="toyenovský" src="orig" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-ln95045-039-p3s5w17">
 <src.rf>manual</src.rf>
@@ -1916,18 +1895,7 @@
 <LM>w#w-ln95045-039-p4s4w17</LM>
 </w.rf>
 <form>Roderigo</form>
-<tag>
-<AM lemma="Roderigo_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Roderigo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Roderigo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Roderigo-1_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Roderigo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Roderigo" src="auto">NNNS4-----A----</AM>
-<AM lemma="Roderigo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Roderigo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Roderiga" src="auto">NNMS5-----A----</AM>
-<AM lemma="roderigo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Roderigo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-039-p4s4w18">
 <src.rf>manual</src.rf>

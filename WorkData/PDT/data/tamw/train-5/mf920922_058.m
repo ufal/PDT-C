@@ -1580,18 +1580,7 @@
 <LM>w#w-mf920922-058-p2s6Aw7</LM>
 </w.rf>
 <form>Gudlaugssona</form>
-<tag>
-<AM lemma="Gudlaugsson_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Gudlaugsson_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Gudlaugsson_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Gudlaugssona" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gudlaugsson_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gudlaugsson" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gudlaugssona_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gudlaugssona_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gudlaugssona_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="gudlaugssona" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gudlaugsson_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-058-p2s6Aw8">
 <src.rf>manual</src.rf>
@@ -1841,18 +1830,7 @@
 <LM>w#w-mf920922-058-p2s6Bw2</LM>
 </w.rf>
 <form>Gudlaugsson</form>
-<tag>
-<AM lemma="Gudlaugsson_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gudlaugsson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gudlaugsson_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gudlaugsson_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gudlaugsson_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gudlaugsson" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gudlagson_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gudlaugsson_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gudlaugsson_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="gudlaugsson" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gudlaugsson_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-058-p2s6Bw3">
 <src.rf>manual</src.rf>
@@ -2286,17 +2264,7 @@
 <LM>w#w-mf920922-058-p2s7w21</LM>
 </w.rf>
 <form>Mörköre</form>
-<tag>
-<AM lemma="Mörköre_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mörköre_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mörköre_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mörköre_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mörköre_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mörkör" src="auto">NNMS5-----A----</AM>
-<AM lemma="Mörköre_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Mörköre_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="mörköre" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mörköre_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-058-p2s7w22">
 <src.rf>manual</src.rf>
@@ -2376,18 +2344,7 @@
 <LM>w#w-mf920922-058-p2s7w31</LM>
 </w.rf>
 <form>Reynheim</form>
-<tag>
-<AM lemma="Reynheim_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reynhem_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Reynheim_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Reynheim_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Reynheim_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="Reynheim_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Reynhei_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Reynheim_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Reynheim_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="reynheim" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Reynheim_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-058-p2s7w32">
 <src.rf>manual</src.rf>
@@ -2419,17 +2376,7 @@
 <LM>w#w-mf920922-058-p2s7w35</LM>
 </w.rf>
 <form>Justinusen</form>
-<tag>
-<AM lemma="Justinusen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Justinusen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Justinusen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Justinusen_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Justinusen-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Justinusna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Justinusit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Justinusen_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="justinusen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Justinusen_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-058-p2s7w36">
 <src.rf>manual</src.rf>
@@ -2445,18 +2392,7 @@
 <LM>w#w-mf920922-058-p2s7w37</LM>
 </w.rf>
 <form>Arge</form>
-<tag>
-<AM lemma="Arge_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Arge_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Arge_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Arge_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Arge_;Y_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Arge_;Y_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="Arge_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Arge_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Arge_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="arge" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Arge_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-058-p2s7w38">
 <src.rf>manual</src.rf>
@@ -2488,18 +2424,7 @@
 <LM>w#w-mf920922-058-p2s7w41</LM>
 </w.rf>
 <form>Johannesen</form>
-<tag>
-<AM lemma="Johannesen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Johannesen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Johannést" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Johannesen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Johannesen_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Johannesen-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Johannesna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Johannesit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Johannesen_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="johannesen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Johannesen_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-058-p2s7w42">
 <src.rf>manual</src.rf>
@@ -2799,18 +2724,7 @@
 <LM>w#w-mf920922-058-p2s9w17</LM>
 </w.rf>
 <form>Gudlaugsson</form>
-<tag>
-<AM lemma="Gudlaugsson_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gudlaugsson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gudlaugsson_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gudlaugsson_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gudlaugsson_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gudlaugsson" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gudlagson_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gudlaugsson_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gudlaugsson_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="gudlaugsson" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gudlaugsson_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-058-p2s9w18">
 <src.rf>manual</src.rf>

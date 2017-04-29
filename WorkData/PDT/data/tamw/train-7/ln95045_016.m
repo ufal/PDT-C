@@ -969,18 +969,7 @@
 <LM>w#w-ln95045-016-p2s6w26</LM>
 </w.rf>
 <form>Uzlova</form>
-<tag>
-<AM lemma="Uzlův_;S_^(*3el)" src="orig">AUFS1M---------</AM>
-<AM lemma="Uzlův_;S_^(*2)" src="auto" recommended="1">AUFS1M---------</AM>
-<AM lemma="Uzlův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Uzlov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Uzlov_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Uzlův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Uzlův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Uzlov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Uzlův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="uzlova" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Uzlův_;S_^(*3el)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95045-016-p2s6w27">
 <src.rf>manual</src.rf>

@@ -462,18 +462,7 @@
 <LM>w#w-ln94210-15-p3s1w10</LM>
 </w.rf>
 <form>Tüf</form>
-<tag>
-<AM lemma="Tüf_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tüf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tüf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tüf" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tüf" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tüf_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tüf" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tüf-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Tüf_;m" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="tüf" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tüf_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94210-15-p3s1w11">
 <src.rf>manual</src.rf>
@@ -972,18 +961,7 @@
 <LM>w#w-ln94210-15-p4s2w8</LM>
 </w.rf>
 <form>Krompa</form>
-<tag>
-<AM lemma="Kromp_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Krompa" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Krompo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Krompo" src="auto">NNNP4-----A----</AM>
-<AM lemma="Krompo" src="auto">NNNP1-----A----</AM>
-<AM lemma="Kromp_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Krompa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Krompa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kromp" src="auto">NNMS2-----A----</AM>
-<AM lemma="krompa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kromp_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-15-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1023,17 +1001,7 @@
 <LM>w#w-ln94210-15-p4s2w13</LM>
 </w.rf>
 <form>Meura</form>
-<tag>
-<AM lemma="Meura_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Meura" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Meura_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Meur_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Meur" src="auto">NNMS4-----A----</AM>
-<AM lemma="Meur" src="auto">NNMS2-----A----</AM>
-<AM lemma="Meura-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Meur_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="meura" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Meura_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-15-p4s2w14">
 <src.rf>manual</src.rf>

@@ -101,20 +101,7 @@
 <LM>w#w-ln95049-038-p2s1Aw3</LM>
 </w.rf>
 <form>sa</form>
-<tag>
-<AM lemma="sa-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="sa" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="sa-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="sa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="sa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="sa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="sakciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="so" src="auto">NNNP4-----A----</AM>
-<AM lemma="so" src="auto">NNNS2-----A----</AM>
-<AM lemma="so_;S" src="auto">NNMS2-----A----</AM>
-</tag>
+<tag lemma="sa-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95049-038-p2s1Aw4">
 <src.rf>manual</src.rf>

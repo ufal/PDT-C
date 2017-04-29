@@ -79,18 +79,7 @@
 <LM>w#w-ln94204-140-p2s1Bw1</LM>
 </w.rf>
 <form>Svetlana</form>
-<tag>
-<AM lemma="Svetlana_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Svetlan_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Svetlan_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Svetlan_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Svetlan_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Svetlan" src="auto">NNMS4-----A----</AM>
-<AM lemma="Svetlan" src="auto">NNMS2-----A----</AM>
-<AM lemma="Svetlana" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Svetlan_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="svetlana" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Svetlana_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-140-p2s1Bw2">
 <src.rf>manual</src.rf>

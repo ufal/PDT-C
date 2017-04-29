@@ -1883,18 +1883,7 @@
 <LM>w#w-ln95045-054-p5s1w21</LM>
 </w.rf>
 <form>Sealink</form>
-<tag>
-<AM lemma="Sealink_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sealink_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sealink" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sealink" src="auto">NNIS4-----A----</AM>
-<AM lemma="ink_,t_^(Sealink_jet)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pink_;K_,t_^(Sealink_Floyd)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sealing" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sealink_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Sealink-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="sealink" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sealink_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-054-p5s1w22">
 <src.rf>manual</src.rf>
@@ -2614,18 +2603,7 @@
 <LM>w#w-ln95045-054-p6s3w6</LM>
 </w.rf>
 <form>Shoreham</form>
-<tag>
-<AM lemma="Shoreham_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Shoreham_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Shoreham_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shorehám_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shoreham_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shoreham_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Shoreham_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Shoreham_;G_;S" src="auto">NNIS1-----A----</AM>
-<AM lemma="Shoreham_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="shoreham" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Shoreham_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-054-p6s3w7">
 <src.rf>manual</src.rf>
@@ -2641,18 +2619,7 @@
 <LM>w#w-ln95045-054-p6s3w8</LM>
 </w.rf>
 <form>Brightlingsea</form>
-<tag>
-<AM lemma="Brightlingsea_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Brightlingsea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Brightlingzeum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Brightlingssea" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Brightlingseus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Brightlingse_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Brightlingse_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Brightlingsea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Brightlingsea_;G_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="brightlingsea" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Brightlingsea_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95045-054-p6s3w9">
 <src.rf>manual</src.rf>
@@ -2888,18 +2855,7 @@
 <LM>w#w-ln95045-054-p6s5w10</LM>
 </w.rf>
 <form>Phipssová</form>
-<tag>
-<AM lemma="Phipssová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Phipssová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Phipssový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Phipssový" src="auto">AANP1----1A----</AM>
-<AM lemma="Phipssový" src="auto">AANP4----1A----</AM>
-<AM lemma="Phipssová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Phipssová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Phipssový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Phipssový" src="auto">AAFS5----1A----</AM>
-<AM lemma="phipssová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Phipssová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-054-p6s5w11">
 <src.rf>manual</src.rf>
@@ -3747,18 +3703,7 @@
 <LM>w#w-ln95045-054-p7s4w19</LM>
 </w.rf>
 <form>Waldegrave</form>
-<tag>
-<AM lemma="Waldegrave_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Waldegrave_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Waldegravat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Waldegrav_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Waldegrave_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Waldegrave_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Waldegrave-2_,t_^(buď_zdráv)" src="auto">TT-------------</AM>
-<AM lemma="Waldegraev" src="auto">NNFS2-----A----</AM>
-<AM lemma="Waldegraev" src="auto">NNFP4-----A----</AM>
-<AM lemma="waldegrave" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Waldegrave_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-054-p7s4w20">
 <src.rf>manual</src.rf>

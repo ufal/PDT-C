@@ -333,18 +333,7 @@
 <LM>w#w-ln94208-79-p2s2w9</LM>
 </w.rf>
 <form>Correaová</form>
-<tag>
-<AM lemma="Correaová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Correaová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Correaový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Correaový" src="auto">AANP1----1A----</AM>
-<AM lemma="Correaový" src="auto">AANP4----1A----</AM>
-<AM lemma="Correaová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Correaová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Correaový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Correaový" src="auto">AAFS5----1A----</AM>
-<AM lemma="correaová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Correaová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-79-p2s2w10">
 <src.rf>manual</src.rf>
@@ -600,26 +589,7 @@
 <LM>w#w-ln94208-79-p2s2w41</LM>
 </w.rf>
 <form>ICPD</form>
-<tag>
-<AM lemma="ICPD_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ICPD_:B_;m" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ICPD-2_:B_,t_^(Collections_Premieren_Dusseldorf)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ICPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ICPD_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ICPD_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ICPD_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ICPD_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ICPD_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Icpd-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Icpd" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Icpd" src="auto">NNIS1-----A----</AM>
-<AM lemma="Icpd" src="auto">NNIS4-----A----</AM>
-<AM lemma="Icpd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Icpda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Icpd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Icpd_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="icpd" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ICPD_:B_;m" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94208-79-p2s2w42">
 <src.rf>manual</src.rf>
@@ -757,17 +727,7 @@
 <LM>w#w-ln94208-79-p3s1w8</LM>
 </w.rf>
 <form>ouředničtiny</form>
-<tag>
-<AM lemma="ouředničtina_,h" src="orig">NNFS2-----A----</AM>
-<AM lemma="ouředničtina" src="auto">NNFS2-----A----</AM>
-<AM lemma="ouředničtina" src="auto">NNFP4-----A----</AM>
-<AM lemma="ouředničtina" src="auto">NNFP1-----A----</AM>
-<AM lemma="ouředničtina_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ouředničtina_;Y" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="ouředničtina_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="ouředničtiny" src="auto">NNFP4-----A----</AM>
-<AM lemma="ouředničtina" src="auto">CyFS2----------</AM>
-</tag>
+<tag lemma="ouředničtina_,h" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-79-p3s1w9">
 <src.rf>manual</src.rf>

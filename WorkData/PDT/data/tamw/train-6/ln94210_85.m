@@ -131,17 +131,7 @@
 <LM>w#w-ln94210-85-p1s1w15</LM>
 </w.rf>
 <form>Znamenskoje</form>
-<tag>
-<AM lemma="Znamenskoje_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Znamenskoj" src="auto">NNIS2-----A----</AM>
-<AM lemma="Znamenskoj" src="auto">NNIP4-----A----</AM>
-<AM lemma="Znamenskoj" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="Znamenskojí" src="auto">CdXP4---------1</AM>
-<AM lemma="Znamenskoj_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Znamenskoj" src="auto">NNFS2-----A----</AM>
-<AM lemma="Znamenskoje" src="auto">Db-------------</AM>
-<AM lemma="znamenskoje" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Znamenskoje_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94210-85-p1s1w16">
 <src.rf>manual</src.rf>

@@ -271,18 +271,7 @@
 <LM>w#w-lnd94103-077-p1s2w7</LM>
 </w.rf>
 <form>Refreshments</form>
-<tag>
-<AM lemma="Refreshment_;K_,t" src="orig">NNNPX-----A----</AM>
-<AM lemma="Refreshment_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Refreshment_;K_,t" src="auto" recommended="1">NNNPX-----A----</AM>
-<AM lemma="Refreshment_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Refreshment_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Refreshment_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Refreshment_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Refreshment_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Refreshments_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="refreshments" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Refreshment_;K_,t" src="orig" selected="1">NNNPX-----A----</tag>
 </m>
 <m id="m-lnd94103-077-p1s2w8">
 <src.rf>manual</src.rf>
@@ -298,24 +287,7 @@
 <LM>w#w-lnd94103-077-p1s2w9</LM>
 </w.rf>
 <form>CCRM</form>
-<tag>
-<AM lemma="CCRM_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CCRM_:B_;K_,t" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="RM_:B_;K_;b_^(CCRM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="CCRM_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CCRM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CCRM_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CCRM_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Ccrm" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ccrm_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ccrm" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ccrm_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ccrm_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ccrm_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ccrm_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ccrm_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ccrm" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="CCRM_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-077-p1s2w10">
 <src.rf>manual</src.rf>
@@ -679,24 +651,7 @@
 <LM>w#w-lnd94103-077-p1s4w7</LM>
 </w.rf>
 <form>CCRM</form>
-<tag>
-<AM lemma="CCRM_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CCRM_:B_;K_,t" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="RM_:B_;K_;b_^(CCRM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="CCRM_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CCRM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CCRM_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CCRM_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Ccrm" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ccrm_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ccrm" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ccrm_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ccrm_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ccrm_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ccrm_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ccrm_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ccrm" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="CCRM_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-077-p1s4w8">
 <src.rf>manual</src.rf>
@@ -874,24 +829,7 @@
 <LM>w#w-lnd94103-077-p1s5w1</LM>
 </w.rf>
 <form>CCRM</form>
-<tag>
-<AM lemma="CCRM_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CCRM_:B_;K_,t" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="RM_:B_;K_;b_^(CCRM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="CCRM_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CCRM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CCRM_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CCRM_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Ccrm" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ccrm_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ccrm" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ccrm_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ccrm_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ccrm_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ccrm_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ccrm_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ccrm" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="CCRM_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-077-p1s5w2">
 <src.rf>manual</src.rf>

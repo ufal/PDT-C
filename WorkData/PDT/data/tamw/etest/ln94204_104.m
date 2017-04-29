@@ -27,23 +27,7 @@
 <LM>w#w-ln94204-104-p1s1Aw2</LM>
 </w.rf>
 <form>Starodubová</form>
-<tag>
-<AM lemma="Starodubová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Starodubová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Starodubová_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Starodubová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Starodubový" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="Starodubový" src="auto">AAFS5----1A----</AM>
-<AM lemma="Starodubový" src="auto">AANP1----1A----</AM>
-<AM lemma="Starodubový" src="auto">AANP4----1A----</AM>
-<AM lemma="Starodubový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="starodubová" src="auto">NNMS1-----A----</AM>
-<AM lemma="starodubový" src="auto">AAFS1----1A----</AM>
-<AM lemma="starodubový" src="auto">AAFS5----1A----</AM>
-<AM lemma="starodubový" src="auto">AANP1----1A----</AM>
-<AM lemma="starodubový" src="auto">AANP4----1A----</AM>
-<AM lemma="starodubový" src="auto">AANP5----1A----</AM>
-</tag>
+<tag lemma="Starodubová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-104-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -91,18 +75,7 @@
 <LM>w#w-ln94204-104-p1s1Aw8</LM>
 </w.rf>
 <form>Lachin</form>
-<tag>
-<AM lemma="Lachin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lachin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lachina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Lachin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lachin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lachin" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lachin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lachin_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lachiny" src="auto">NNFP2-----A----</AM>
-<AM lemma="lachin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lachin_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-104-p1s1Aw9">
 <src.rf>manual</src.rf>
@@ -222,20 +195,7 @@
 <LM>w#w-ln94204-104-p1s1Aw23</LM>
 </w.rf>
 <form>Pokrovce</form>
-<tag>
-<AM lemma="Pokrovka_;K" src="orig">NNFS6-----A----</AM>
-<AM lemma="Pokrovec" src="auto">NNMP4-----A----</AM>
-<AM lemma="Pokrovec" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pokrovec" src="auto">NNMS4-----A----</AM>
-<AM lemma="Pokrovec_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Pokrovec_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pokrovka" src="auto">NNFS3-----A----</AM>
-<AM lemma="Pokrovka" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Pokrovka_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="pokrovce" src="auto">NNMS1-----A----</AM>
-<AM lemma="pokrovka" src="auto">NNFS3-----A----</AM>
-<AM lemma="pokrovka" src="auto">NNFS6-----A----</AM>
-</tag>
+<tag lemma="Pokrovka_;K" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94204-104-p1s1Aw24">
 <src.rf>manual</src.rf>

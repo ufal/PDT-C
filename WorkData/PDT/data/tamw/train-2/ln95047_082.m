@@ -306,18 +306,7 @@
 <LM>w#w-ln95047-082-p2s2w13</LM>
 </w.rf>
 <form>Velika</form>
-<tag>
-<AM lemma="Velika_;G_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="Velika" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Velik" src="auto">NNMS2-----A----</AM>
-<AM lemma="Velik" src="auto">NNMS4-----A----</AM>
-<AM lemma="Velik_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Velika_^(věda)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Velika_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Velikum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Velikum" src="auto">NNNP4-----A----</AM>
-<AM lemma="velika" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Velika_;G_,t" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln95047-082-p2s2w14">
 <src.rf>manual</src.rf>

@@ -118,17 +118,7 @@
 <LM>w#w-mf930709-062-p2s1Aw5</LM>
 </w.rf>
 <form>lík</form>
-<tag>
-<AM lemma="lík-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lík_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík" src="auto">NNIS4-----A----</AM>
-<AM lemma="lík" src="auto">NNIS1-----A----</AM>
-<AM lemma="lík" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="lík-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-</tag>
+<tag lemma="lík-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-062-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -186,18 +176,7 @@
 <LM>w#w-mf930709-062-p2s1Bw5</LM>
 </w.rf>
 <form>Charlli</form>
-<tag>
-<AM lemma="Charlli_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Charlli_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Charllus_,t" src="auto">NNIP1-----A----</AM>
-<AM lemma="Charlli_^(koření)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Charlli_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Charlli_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Charlt_:W" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Charlt_:T" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Charlt" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="charlli" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Charlli_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-062-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -1013,18 +992,7 @@
 <LM>w#w-mf930709-062-p3s2w32</LM>
 </w.rf>
 <form>Charlli</form>
-<tag>
-<AM lemma="Charlli_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Charlli_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Charllus_,t" src="auto">NNIP1-----A----</AM>
-<AM lemma="Charlli_^(koření)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Charlli_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Charlli_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Charlt_:W" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Charlt_:T" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Charlt" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="charlli" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Charlli_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-062-p3s2w33">
 <src.rf>manual</src.rf>
@@ -1430,18 +1398,7 @@
 <LM>w#w-mf930709-062-p4s2w3</LM>
 </w.rf>
 <form>Charlli</form>
-<tag>
-<AM lemma="Charlli_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Charlli_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Charllus_,t" src="auto">NNIP1-----A----</AM>
-<AM lemma="Charlli_^(koření)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Charlli_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Charlli_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Charlt_:W" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Charlt_:T" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Charlt" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="charlli" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Charlli_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-062-p4s2w4">
 <src.rf>manual</src.rf>

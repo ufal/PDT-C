@@ -231,20 +231,7 @@
 <LM>w#w-ln95046-027-p2s1Bw23</LM>
 </w.rf>
 <form>Turboair</form>
-<tag>
-<AM lemma="Turboair_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Turboair_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Turboair_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Turboair_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Turboair_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Turboair_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Turboair_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Turboair_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="pair-2_^(au-Turboair)" src="auto">NNFXX-----A----</AM>
-<AM lemma="turboair" src="auto">NNMS1-----A----</AM>
-<AM lemma="turboair_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="turboair_,t" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="Turboair_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-027-p2s1Bw24">
 <src.rf>manual</src.rf>

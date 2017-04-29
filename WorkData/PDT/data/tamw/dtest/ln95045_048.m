@@ -3425,17 +3425,7 @@
 <LM>w#w-ln95045-048-p3s3w24</LM>
 </w.rf>
 <form>serra</form>
-<tag>
-<AM lemma="serra_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="serra_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Serra-2_;R_^(vozidlo)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="serro_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="serre_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="serre_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="serra_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="serra_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="serra_;G_;R" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="serra_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-048-p3s3w25">
 <src.rf>manual</src.rf>
@@ -3837,17 +3827,7 @@
 <LM>w#w-ln95045-048-p4s1w49</LM>
 </w.rf>
 <form>one</form>
-<tag>
-<AM lemma="one_,t" src="orig">ClXSX----------</AM>
-<AM lemma="one_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="onout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="one_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="one`1_,t" src="auto">ClXSX----------</AM>
-<AM lemma="one_;m" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="one_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="one_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="one_;R" src="auto">NNXSX-----A----</AM>
-</tag>
+<tag lemma="one_,t" src="orig" selected="1">ClXSX----------</tag>
 </m>
 <m id="m-ln95045-048-p4s1w50">
 <src.rf>manual</src.rf>
@@ -3975,18 +3955,7 @@
 <LM>w#w-ln95045-048-p4s1w65</LM>
 </w.rf>
 <form>Flute</form>
-<tag>
-<AM lemma="Flute_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Flute_,t" src="auto">Db-------------</AM>
-<AM lemma="Flute_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Flute_;K_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Flute_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Flute_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Flute_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Flute_;K_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Flute_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="flute" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Flute_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95045-048-p4s1w66">
 <src.rf>manual</src.rf>
@@ -4574,18 +4543,7 @@
 <LM>w#w-ln95045-048-p5s2w26</LM>
 </w.rf>
 <form>Yinon</form>
-<tag>
-<AM lemma="Yinon_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Yinon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Yinon_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Yinon_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Yinona" src="auto">NNFP2-----A----</AM>
-<AM lemma="Yinon_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Yinon_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Yinon_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Yinon_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="yinon" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Yinon_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-048-p5s2w27">
 <src.rf>manual</src.rf>
@@ -4609,17 +4567,7 @@
 <LM>w#w-ln95045-048-p5s2w29</LM>
 </w.rf>
 <form>polystylově</form>
-<tag>
-<AM lemma="polystylově" src="orig">Dg-------1A----</AM>
-<AM lemma="polystylov" src="auto">NNIS6-----A----</AM>
-<AM lemma="polystylov_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="polystylově_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="polystylův_;S_^(*2)" src="auto">AUFS3M---------</AM>
-<AM lemma="polystylův_;S_^(*2)" src="auto">AUFS6M---------</AM>
-<AM lemma="polystylův_;S_^(*2)" src="auto">AUIS6M---------</AM>
-<AM lemma="polystylův_;S_^(*2)" src="auto">AUNS6M---------</AM>
-<AM lemma="polystylův_;S_^(*2a)" src="auto">AUFS6M---------</AM>
-</tag>
+<tag lemma="polystylově" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95045-048-p5s2w30">
 <src.rf>manual</src.rf>

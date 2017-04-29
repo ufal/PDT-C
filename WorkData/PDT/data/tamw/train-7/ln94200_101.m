@@ -949,15 +949,7 @@
 <LM>w#w-ln94200-101-p4s2w6</LM>
 </w.rf>
 <form>pidiosobností</form>
-<tag>
-<AM lemma="pidiosobnost" src="orig">NNFP2-----A----</AM>
-<AM lemma="pidiosobnost_^(*3ý)" src="auto">NNFS7-----A----</AM>
-<AM lemma="pidiosobnost_^(*3ý)" src="auto">NNFP2-----A----</AM>
-<AM lemma="pidiosobnost" src="auto">NNFS7-----A----</AM>
-<AM lemma="pidiosobnost" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="pidiosobnostit_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="pidiosobností" src="auto">NNNS4-----A----</AM>
-</tag>
+<tag lemma="pidiosobnost" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94200-101-p4s2w7">
 <src.rf>manual</src.rf>

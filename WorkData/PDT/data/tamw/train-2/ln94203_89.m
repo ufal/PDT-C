@@ -81,24 +81,7 @@
 <LM>w#w-ln94203-89-p2s1w6</LM>
 </w.rf>
 <form>INSOMNIAC</form>
-<tag>
-<AM lemma="Insomniac_;R_,t" src="orig">NNMXX-----A----</AM>
-<AM lemma="Insomniac_;R_,t" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="AC-1_:B_;K_;w_^(př._INSOMNIAC_Sparta_Praha)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="INSOMNIAC_:B_;K_,t_^(Vojenská_komise_pro_příměří_v_Koreji)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="INSOMNIAC_:B_;K_,t_^(Vojenská_komise_pro_příměří_v_Koreji)" src="auto">NNFXX-----A----</AM>
-<AM lemma="INSOMNIAC_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="INSOMNIAC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="INSOMNIAC_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Insomniac_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Insomniac_;R_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Insomniac_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mac_;S_^(InsomniacIntosh)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Insomniac_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Insomniac_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Insomniac_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="insomniac" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Insomniac_;R_,t" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94203-89-p2s1w7">
 <src.rf>manual</src.rf>
@@ -122,23 +105,7 @@
 <LM>w#w-ln94203-89-p2s1w9</LM>
 </w.rf>
 <form>DREAMS</form>
-<tag>
-<AM lemma="Dream_;R_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Dream_;R_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="DREAMS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MS-8_:B_;K_;c_,t_^(Microsoft,_např._DREAMS-DOS)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="DREAms_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="DREAMS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="DREAMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="DREAMS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DREAMS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Dreams_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dream_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Dreams_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Dreams-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dreas" src="auto">PZZS7----------</AM>
-<AM lemma="dreams" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dream_;R_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94203-89-p2s1w10">
 <src.rf>manual</src.rf>
@@ -576,18 +543,7 @@
 <LM>w#w-ln94203-89-p2s3w15</LM>
 </w.rf>
 <form>Dancers</form>
-<tag>
-<AM lemma="Dancer_;R_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Dancers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dancer_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Dancers_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Dancer_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Dancer_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Dancers_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Dancers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dancers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dancers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dancer_;R_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94203-89-p2s3w16">
 <src.rf>manual</src.rf>
@@ -1003,18 +959,7 @@
 <LM>w#w-ln94203-89-p3s2w21</LM>
 </w.rf>
 <form>Stranger</form>
-<tag>
-<AM lemma="stranger_,t" src="orig">NNMXX-----A----</AM>
-<AM lemma="Stranger_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stranger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stranger_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Stranžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stranger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Stranger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Stranger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Stranger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="stranger" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="stranger_,t" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94203-89-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1144,13 +1089,7 @@
 <LM>w#w-ln94203-89-p3s3w10</LM>
 </w.rf>
 <form>Without</form>
-<tag>
-<AM lemma="without_,t" src="orig">RR--X----------</AM>
-<AM lemma="Without_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Without" src="auto">Vf--------A----</AM>
-<AM lemma="Without_:T" src="auto">Vf--------A----</AM>
-<AM lemma="without" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="without_,t" src="orig" selected="1">RR--X----------</tag>
 </m>
 <m id="m-ln94203-89-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1185,17 +1124,7 @@
 <LM>w#w-ln94203-89-p3s3w12</LM>
 </w.rf>
 <form>Trace</form>
-<tag>
-<AM lemma="trace_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Trace" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Trace" src="auto">NNFS2-----A----</AM>
-<AM lemma="Trace" src="auto">NNFP4-----A----</AM>
-<AM lemma="Trace" src="auto">NNFP1-----A----</AM>
-<AM lemma="Trace_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Trace_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Trace_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="trace" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="trace_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94203-89-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1533,18 +1462,7 @@
 <LM>w#w-ln94203-89-p3s4w25</LM>
 </w.rf>
 <form>Waterboys</form>
-<tag>
-<AM lemma="Waterboy_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Waterboy_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Waterboys_;L_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Waterboys_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Waterboys" src="auto">NNIS1-----A----</AM>
-<AM lemma="Waterboys" src="auto">NNIS4-----A----</AM>
-<AM lemma="Waterboy" src="auto">J,-S---2-------</AM>
-<AM lemma="Waterboýt" src="auto">Vc-S---2-------</AM>
-<AM lemma="Waterboy_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="waterboys" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Waterboy_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94203-89-p3s4w26">
 <src.rf>manual</src.rf>
@@ -1976,17 +1894,7 @@
 <LM>w#w-ln94203-89-p3s7w8</LM>
 </w.rf>
 <form>Insomniac</form>
-<tag>
-<AM lemma="Insomniac_;R_,t" src="orig">NNMXX-----A----</AM>
-<AM lemma="Insomniac_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Insomniac_;R_,t" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Insomniac_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mac_;S_^(InsomniacIntosh)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Insomniac_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Insomniac_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Insomniac_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="insomniac" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Insomniac_;R_,t" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94203-89-p3s7w9">
 <src.rf>manual</src.rf>
@@ -2010,18 +1918,7 @@
 <LM>w#w-ln94203-89-p3s7w11</LM>
 </w.rf>
 <form>Dream</form>
-<tag>
-<AM lemma="Dream_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Dream_;R_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Dream_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Dream_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Dream_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Dream_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dream_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Dream_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Dream-2_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dream" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dream_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94203-89-p3s7w12">
 <src.rf>manual</src.rf>

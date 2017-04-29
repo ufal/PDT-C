@@ -61,15 +61,7 @@
 <LM>w#w-ln94200-37-p2s1w2</LM>
 </w.rf>
 <form>Schwalbe</form>
-<tag>
-<AM lemma="Schwalbe_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Schwalbe_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Schwalbat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Schwalbe_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Probe_;R_^(automobil_Ford_Schwalbe)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Schwal_^(zvr._zájmeno/částice)" src="auto">P6-X4----------</AM>
-<AM lemma="schwalbe" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Schwalbe_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-37-p2s1w3">
 <src.rf>manual</src.rf>

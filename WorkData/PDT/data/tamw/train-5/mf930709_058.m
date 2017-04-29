@@ -451,17 +451,7 @@
 <LM>w#w-mf930709-058-p2s3w30</LM>
 </w.rf>
 <form>Goddes</form>
-<tag>
-<AM lemma="Goddes_;m_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Goddes_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Godde_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Godd_,t" src="auto">AAXPX----1A----</AM>
-<AM lemma="Goddes_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Goddes_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Goddes_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Goddes_,t_^(z_franc._de,_zejm._ve_jménech)" src="auto">RR--X----------</AM>
-<AM lemma="goddes" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Goddes_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930709-058-p2s3w31">
 <src.rf>manual</src.rf>
@@ -728,24 +718,7 @@
 <LM>w#w-mf930709-058-p2s5w6</LM>
 </w.rf>
 <form>Direvision</form>
-<tag>
-<AM lemma="Direvision_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Direvision" src="auto">NNIS1-----A----</AM>
-<AM lemma="Direvision_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Direvision_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Direvision_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Direvision_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Direvision_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Direvisión" src="auto">NNIS1-----A----</AM>
-<AM lemma="Direvisión" src="auto">NNIS4-----A----</AM>
-<AM lemma="direvision" src="auto">NNIS1-----A----</AM>
-<AM lemma="direvision" src="auto">NNIS4-----A----</AM>
-<AM lemma="direvision" src="auto">NNMS1-----A----</AM>
-<AM lemma="direvision-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="direvision_^(n-tice)" src="auto">A2--------A----</AM>
-<AM lemma="direvisionádraží_:B" src="auto">NNNXX-----A---9</AM>
-<AM lemma="direvisionárodní_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Direvision_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930709-058-p2s5w7">
 <src.rf>manual</src.rf>

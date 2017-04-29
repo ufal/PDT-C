@@ -271,18 +271,7 @@
 <LM>w#w-cmpr9410-010-p2s2w8</LM>
 </w.rf>
 <form>Daklar</form>
-<tag>
-<AM lemma="Daklar_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Daklar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Daklar_;b" src="auto">NNIS1-----A----</AM>
-<AM lemma="Daklar_;b" src="auto">NNIS4-----A----</AM>
-<AM lemma="Daklar_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Daklar_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Daklar" src="auto">NNIS1-----A----</AM>
-<AM lemma="Daklar" src="auto">NNIS4-----A----</AM>
-<AM lemma="Daklar_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="daklar" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Daklar_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9410-010-p2s2w9">
 <src.rf>manual</src.rf>
@@ -322,18 +311,7 @@
 <LM>w#w-cmpr9410-010-p2s2w13</LM>
 </w.rf>
 <form>Roxby</form>
-<tag>
-<AM lemma="Roxby_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Roxba" src="auto">NNFS2-----A----</AM>
-<AM lemma="Roxba" src="auto">NNFP4-----A----</AM>
-<AM lemma="Roxba" src="auto">NNFP1-----A----</AM>
-<AM lemma="Roxb" src="auto">NNIP4-----A----</AM>
-<AM lemma="Roxb" src="auto">NNIP1-----A----</AM>
-<AM lemma="Roxb" src="auto">NNIP7-----A----</AM>
-<AM lemma="Roxba_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Roxby_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="roxby" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Roxby_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-010-p2s2w14">
 <src.rf>manual</src.rf>
@@ -639,18 +617,7 @@
 <LM>w#w-cmpr9410-010-p5s3w1</LM>
 </w.rf>
 <form>Daklar</form>
-<tag>
-<AM lemma="Daklar_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Daklar_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Daklar_;b" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Daklar_;b" src="auto">NNIS4-----A----</AM>
-<AM lemma="Daklar_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Daklar_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Daklar" src="auto">NNIS1-----A----</AM>
-<AM lemma="Daklar" src="auto">NNIS4-----A----</AM>
-<AM lemma="Daklar_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="daklar" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Daklar_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9410-010-p5s3w2">
 <src.rf>manual</src.rf>
@@ -1705,34 +1672,7 @@
 <LM>w#w-cmpr9410-010-p8s2Bw8</LM>
 </w.rf>
 <form>TOPS</form>
-<tag>
-<AM lemma="TOPS_;m" src="orig">NNXXX-----A----</AM>
-<AM lemma="TOPS-2_:B_^(Závody_přesného_strojírenství)" src="auto">NNIPX-----A---8</AM>
-<AM lemma="TOPS-3_:B_;K_^(Přerovské_strojírny)" src="auto">NNFPX-----A---8</AM>
-<AM lemma="TOPS-4_:B_;K_,t_^(Algérie_Presse_Service)" src="auto">NNFXX-----A----</AM>
-<AM lemma="TOPS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TOPS_:B_;K" src="auto">NNFPX-----A---8</AM>
-<AM lemma="TOPS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TOPS_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="TOPS_;R" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Top_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Tops-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Tops_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Tops_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Tops_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Tops_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Tops_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tops_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="tops" src="auto">NNMS1-----A----</AM>
-<AM lemma="tops-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="tops-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="tops-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="topscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="topsoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="topspolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="topstrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="topstátní_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="TOPS_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-010-p8s2Bw9">
 <src.rf>manual</src.rf>
@@ -1748,26 +1688,7 @@
 <LM>w#w-cmpr9410-010-p8s2Bw10</LM>
 </w.rf>
 <form>TIPS</form>
-<tag>
-<AM lemma="TIPS_;m" src="orig">NNXXX-----A----</AM>
-<AM lemma="TIPS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TIPS_;R" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="TIPS_:B_;K" src="auto">NNFPX-----A---8</AM>
-<AM lemma="TIPS_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="TIPS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TIPS-4_:B_;K_,t_^(Algérie_Presse_Service)" src="auto">NNFXX-----A----</AM>
-<AM lemma="TIPS-3_:B_;K_^(Přerovské_strojírny)" src="auto">NNFPX-----A---8</AM>
-<AM lemma="TIPS-2_:B_^(Závody_přesného_strojírenství)" src="auto">NNIPX-----A---8</AM>
-<AM lemma="Tip_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Tips_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tips_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tips_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Tips_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Tips_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Tips_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Tips-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="tips" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="TIPS_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-010-p8s2Bw11">
 <src.rf>manual</src.rf>
@@ -2815,18 +2736,7 @@
 <LM>w#w-cmpr9410-010-p12s1w17</LM>
 </w.rf>
 <form>Daklar</form>
-<tag>
-<AM lemma="Daklar_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Daklar_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Daklar_;b" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Daklar_;b" src="auto">NNIS4-----A----</AM>
-<AM lemma="Daklar_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Daklar_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Daklar" src="auto">NNIS1-----A----</AM>
-<AM lemma="Daklar" src="auto">NNIS4-----A----</AM>
-<AM lemma="Daklar_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="daklar" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Daklar_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9410-010-p12s1w18">
 <src.rf>manual</src.rf>
@@ -3681,18 +3591,7 @@
 <LM>w#w-cmpr9410-010-p14s1w3</LM>
 </w.rf>
 <form>Daklar</form>
-<tag>
-<AM lemma="Daklar_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Daklar_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Daklar_;b" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Daklar_;b" src="auto">NNIS4-----A----</AM>
-<AM lemma="Daklar_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Daklar_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Daklar" src="auto">NNIS1-----A----</AM>
-<AM lemma="Daklar" src="auto">NNIS4-----A----</AM>
-<AM lemma="Daklar_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="daklar" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Daklar_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9410-010-p14s1w4">
 <src.rf>manual</src.rf>

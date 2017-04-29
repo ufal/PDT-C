@@ -585,26 +585,7 @@
 <LM>w#w-cmpr9413-049-p4s5w10</LM>
 </w.rf>
 <form>TTI</form>
-<tag>
-<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TTI_:B_;K" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="TTI-1_:B_;K_,t_^(Press_Trust_of_India)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Tt" src="auto">NNFS2-----A----</AM>
-<AM lemma="Tt" src="auto">NNMP1-----A----</AM>
-<AM lemma="Tt" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFP4-----A----</AM>
-<AM lemma="tti_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tti_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="tti_;G_;S" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="tt_^(*3ý)" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="TTI_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
 </m>
 <m id="m-cmpr9413-049-p4s5w11">
 <src.rf>manual</src.rf>
@@ -2507,26 +2488,7 @@
 <LM>w#w-cmpr9413-049-p11s3w2</LM>
 </w.rf>
 <form>TTI</form>
-<tag>
-<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TTI_:B_;K" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="TTI-1_:B_;K_,t_^(Press_Trust_of_India)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Tt" src="auto">NNFS2-----A----</AM>
-<AM lemma="Tt" src="auto">NNMP1-----A----</AM>
-<AM lemma="Tt" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFP4-----A----</AM>
-<AM lemma="tti_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tti_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="tti_;G_;S" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="tt_^(*3ý)" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="TTI_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
 </m>
 <m id="m-cmpr9413-049-p11s3w3">
 <src.rf>manual</src.rf>
@@ -4356,26 +4318,7 @@
 <LM>w#w-cmpr9413-049-p15s1w1</LM>
 </w.rf>
 <form>TTI</form>
-<tag>
-<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TTI_:B_;K" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="TTI-1_:B_;K_,t_^(Press_Trust_of_India)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Tt" src="auto">NNFS2-----A----</AM>
-<AM lemma="Tt" src="auto">NNMP1-----A----</AM>
-<AM lemma="Tt" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFP4-----A----</AM>
-<AM lemma="tti_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tti_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="tti_;G_;S" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="tt_^(*3ý)" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="TTI_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
 </m>
 <m id="m-cmpr9413-049-p15s1w2">
 <src.rf>manual</src.rf>
@@ -4687,26 +4630,7 @@
 <LM>w#w-cmpr9413-049-p16s1w2</LM>
 </w.rf>
 <form>TTI</form>
-<tag>
-<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TTI_:B_;K" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="TTI-1_:B_;K_,t_^(Press_Trust_of_India)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Tt" src="auto">NNFS2-----A----</AM>
-<AM lemma="Tt" src="auto">NNMP1-----A----</AM>
-<AM lemma="Tt" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFP4-----A----</AM>
-<AM lemma="tti_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tti_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="tti_;G_;S" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="tt_^(*3ý)" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="TTI_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
 </m>
 <m id="m-cmpr9413-049-p16s1w3">
 <src.rf>manual</src.rf>
@@ -5341,26 +5265,7 @@
 <LM>w#w-cmpr9413-049-p17s1w1</LM>
 </w.rf>
 <form>TTI</form>
-<tag>
-<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TTI_:B_;K" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="TTI-1_:B_;K_,t_^(Press_Trust_of_India)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Tt" src="auto">NNFS2-----A----</AM>
-<AM lemma="Tt" src="auto">NNMP1-----A----</AM>
-<AM lemma="Tt" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFP4-----A----</AM>
-<AM lemma="tti_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tti_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="tti_;G_;S" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="tt_^(*3ý)" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="TTI_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
 </m>
 <m id="m-cmpr9413-049-p17s1w2">
 <src.rf>manual</src.rf>
@@ -5596,26 +5501,7 @@
 <LM>w#w-cmpr9413-049-p17s3w1</LM>
 </w.rf>
 <form>TTI</form>
-<tag>
-<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TTI_:B_;K" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="TTI-1_:B_;K_,t_^(Press_Trust_of_India)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Tt" src="auto">NNFS2-----A----</AM>
-<AM lemma="Tt" src="auto">NNMP1-----A----</AM>
-<AM lemma="Tt" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFP4-----A----</AM>
-<AM lemma="tti_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tti_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="tti_;G_;S" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="tt_^(*3ý)" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="TTI_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
 </m>
 <m id="m-cmpr9413-049-p17s3w2">
 <src.rf>manual</src.rf>
@@ -5945,26 +5831,7 @@
 <LM>w#w-cmpr9413-049-p21s1Bw8</LM>
 </w.rf>
 <form>TTI</form>
-<tag>
-<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TTI_:B_;K" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="TTI-1_:B_;K_,t_^(Press_Trust_of_India)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Tt" src="auto">NNFS2-----A----</AM>
-<AM lemma="Tt" src="auto">NNMP1-----A----</AM>
-<AM lemma="Tt" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tt_^(*3ý)" src="auto">NNFP4-----A----</AM>
-<AM lemma="tti_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tti_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="tti_;G_;S" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="tti_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="tt_^(*3ý)" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="TTI_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
 </m>
 <m id="m-cmpr9413-049-p21s1Bw9">
 <src.rf>manual</src.rf>

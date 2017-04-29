@@ -373,18 +373,7 @@
 <LM>w#w-ln94202-42-p1s2w25</LM>
 </w.rf>
 <form>Fashion</form>
-<tag>
-<AM lemma="Fashion_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Fashion_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fashion_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fashion_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fashion_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Fashion" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fashion_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fashión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fashión" src="auto">NNIS1-----A----</AM>
-<AM lemma="fashion" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fashion_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-42-p1s2w26">
 <src.rf>manual</src.rf>

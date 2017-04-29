@@ -427,18 +427,7 @@
 <LM>w#w-mf920922-090-p1s1Bw44</LM>
 </w.rf>
 <form>Czechoslowak</form>
-<tag>
-<AM lemma="Czechoslowak_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Czechoslowak_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Czechoslowak_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Czechoslowak" src="auto">NNIS1-----A----</AM>
-<AM lemma="Czechoslowak" src="auto">NNIS4-----A----</AM>
-<AM lemma="Czechoslowak" src="auto">Db-------------</AM>
-<AM lemma="Czechoslowak_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Czechoslowak-1" src="auto">Db-------------</AM>
-<AM lemma="Czechoslowak" src="auto">NNMS1-----A----</AM>
-<AM lemma="czechoslowak" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Czechoslowak_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920922-090-p1s1Bw45">
 <src.rf>manual</src.rf>
@@ -446,18 +435,7 @@
 <LM>w#w-mf920922-090-p1s1Bw45</LM>
 </w.rf>
 <form>Models</form>
-<tag>
-<AM lemma="Model_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Models_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Model_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Model_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Model_;K_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Model_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Models_;m_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Models_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Models_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="models" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Model_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-mf920922-090-p1s1Bw46">
 <src.rf>manual</src.rf>

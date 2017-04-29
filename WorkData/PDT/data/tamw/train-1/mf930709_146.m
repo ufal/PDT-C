@@ -615,17 +615,7 @@
 <LM>w#w-mf930709-146-p4s1Bw6</LM>
 </w.rf>
 <form>Alioune</form>
-<tag>
-<AM lemma="Alioune_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Aliounout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Alioune_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Alioune_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Alioune_;R" src="auto">NNIXX-----A----</AM>
-<AM lemma="Alioune_,t_^(fr._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Aliounout_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Alioune_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="alioune" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Alioune_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-146-p4s1Bw7">
 <src.rf>manual</src.rf>
@@ -648,17 +638,7 @@
 <LM>w#w-mf930709-146-p4s1Bw8</LM>
 </w.rf>
 <form>Beye</form>
-<tag>
-<AM lemma="Beye_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bey_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bey_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bey_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bey_;R_,t_^(motorka)" src="auto">NNIP4-----A----</AM>
-<AM lemma="Beye_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Beye_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bey_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="beye" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Beye_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-146-p4s1Bw9">
 <src.rf>manual</src.rf>

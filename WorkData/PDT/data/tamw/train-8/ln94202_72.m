@@ -2156,17 +2156,7 @@
 <LM>w#w-ln94202-72-p4s5w16</LM>
 </w.rf>
 <form>štát</form>
-<tag>
-<AM lemma="štát_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="štát" src="auto">Vf--------A----</AM>
-<AM lemma="štát" src="auto">NNIS4-----A----</AM>
-<AM lemma="štát" src="auto">NNIS1-----A----</AM>
-<AM lemma="štát_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="štát_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="stát-1_^(štátní_útvar)" src="auto">NNIS4-----A----</AM>
-<AM lemma="stát-1_^(štátní_útvar)" src="auto">NNIS1-----A----</AM>
-<AM lemma="štát_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-</tag>
+<tag lemma="štát_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-72-p4s5w17">
 <src.rf>manual</src.rf>
@@ -2376,17 +2366,7 @@
 <LM>w#w-ln94202-72-p4s6w17</LM>
 </w.rf>
 <form>štátu</form>
-<tag>
-<AM lemma="štát_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="štát" src="auto">NNIS2-----A----</AM>
-<AM lemma="štát" src="auto">NNIS6-----A---1</AM>
-<AM lemma="štát" src="auto">NNIS3-----A----</AM>
-<AM lemma="štát_;H" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="štát" src="auto">NNIS6-----A----</AM>
-<AM lemma="štáta" src="auto">NNFS4-----A----</AM>
-<AM lemma="štát_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="štát" src="auto">NNMS3-----A---1</AM>
-</tag>
+<tag lemma="štát_,t" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94202-72-p4s6w18">
 <src.rf>manual</src.rf>

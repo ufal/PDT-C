@@ -375,20 +375,7 @@
 <LM>w#w-ln94208-18-p2s2w24</LM>
 </w.rf>
 <form>GPY</form>
-<tag>
-<AM lemma="GPY_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="GPY_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="GPY_:B_;b_^(japonský_jen)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Gp" src="auto">NNIP4-----A----</AM>
-<AM lemma="Gp" src="auto">NNIP1-----A----</AM>
-<AM lemma="Gp" src="auto">NNIP7-----A----</AM>
-<AM lemma="Gpa" src="auto">NNFS2-----A----</AM>
-<AM lemma="Gpa" src="auto">NNFP1-----A----</AM>
-<AM lemma="Gpa" src="auto">NNFP4-----A----</AM>
-<AM lemma="Gpa_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Gpa_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="gpy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="GPY_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94208-18-p2s2w25">
 <src.rf>manual</src.rf>

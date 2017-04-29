@@ -19,15 +19,7 @@
 <LM>w#w-ln94202-120-p1s1Aw1</LM>
 </w.rf>
 <form>Tottenhamský</form>
-<tag>
-<AM lemma="tottenhamský" src="orig">AAMS1----1A----</AM>
-<AM lemma="Tottenhamský" src="auto">AAIS1----1A----</AM>
-<AM lemma="Tottenhamský" src="auto">AAMS1----1A----</AM>
-<AM lemma="Tottenhamský" src="auto">AAIS4----1A----</AM>
-<AM lemma="Tottenhamský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tottenhamský_;S" src="auto" recommended="1">AAMS1----1A----</AM>
-<AM lemma="tottenhamský" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="tottenhamský" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-ln94202-120-p1s1Aw2">
 <src.rf>manual</src.rf>

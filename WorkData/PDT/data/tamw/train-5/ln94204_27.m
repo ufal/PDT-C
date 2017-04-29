@@ -551,17 +551,7 @@
 <LM>w#w-ln94204-27-p2s3w10</LM>
 </w.rf>
 <form>veřejněobchodní</form>
-<tag>
-<AM lemma="veřejněobchodní" src="orig">AAFS2----1A----</AM>
-<AM lemma="veřejněobchodní" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="veřejněobchodní" src="auto">AAFS1----1A----</AM>
-<AM lemma="veřejněobchodní" src="auto">AAIS1----1A----</AM>
-<AM lemma="veřejněobchodní" src="auto">AAFS4----1A----</AM>
-<AM lemma="veřejněobchodní" src="auto">AAIS4----1A----</AM>
-<AM lemma="veřejněobchodní" src="auto">AAFS6----1A----</AM>
-<AM lemma="veřejněobchodní" src="auto">AAFP1----1A----</AM>
-<AM lemma="veřejněobchodní" src="auto">AAIP1----1A----</AM>
-</tag>
+<tag lemma="veřejněobchodní" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94204-27-p2s3w11">
 <src.rf>manual</src.rf>

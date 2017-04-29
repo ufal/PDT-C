@@ -85,17 +85,7 @@
 <LM>w#w-mf930709-004-p2s1Aw3</LM>
 </w.rf>
 <form>rg</form>
-<tag>
-<AM lemma="rg-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rg_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rg_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="rg" src="auto">NNMS1-----A----</AM>
-<AM lemma="rk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="rg_;G_^(osada)" src="auto">NNIS1-----A----</AM>
-<AM lemma="rg_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="rgentina_:B_;G" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="rga_;G" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="rg-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-004-p2s1Aw4">
 <src.rf>manual</src.rf>

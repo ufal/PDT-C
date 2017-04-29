@@ -85,21 +85,7 @@
 <LM>w#w-lnd94103-009-p1s2w3</LM>
 </w.rf>
 <form>ip</form>
-<tag>
-<AM lemma="ip-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ip" src="auto">NNIS1-----A----</AM>
-<AM lemma="ip" src="auto">NNIS4-----A----</AM>
-<AM lemma="ip-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ip_;K" src="auto" recommended="1">NNISX-----A----</AM>
-<AM lemma="ip_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ip_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ip_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="ip_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ip_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="ipage_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="ipodnik_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ipopisný_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="ip-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-009-p1s2w4">
 <src.rf>manual</src.rf>
@@ -255,18 +241,7 @@
 <LM>w#w-lnd94103-009-p1s4w6</LM>
 </w.rf>
 <form>Keetley</form>
-<tag>
-<AM lemma="Keetley_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Keetley_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Valley_;G_,t_^(např.Silicon_Keetley)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Keetley_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Keetley_;S" src="auto">NNXXX-----A---1</AM>
-<AM lemma="Keetley_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Keetley_;K" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Keetley_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Keetley_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="keetley" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Keetley_;K" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94103-009-p1s4w7">
 <src.rf>manual</src.rf>
@@ -338,26 +313,7 @@
 <LM>w#w-lnd94103-009-p1s4w15</LM>
 </w.rf>
 <form>NCCC</form>
-<tag>
-<AM lemma="NCCC_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="NCCC_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="NCCC_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NCCC_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NCCC_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="NCCC-2_:B_;K_^(švédská_firma)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NCCC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NCCC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NCCC_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Nccc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nccc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nccce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Nccce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Nccc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nccc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Nccc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nccc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="nccc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="NCCC_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-009-p1s4w16">
 <src.rf>manual</src.rf>
@@ -488,26 +444,7 @@
 <LM>w#w-lnd94103-009-p1s5w15</LM>
 </w.rf>
 <form>NCCC</form>
-<tag>
-<AM lemma="NCCC_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="NCCC_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="NCCC_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NCCC_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NCCC_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="NCCC-2_:B_;K_^(švédská_firma)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NCCC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NCCC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NCCC_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Nccc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nccc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nccce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Nccce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Nccc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nccc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Nccc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nccc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="nccc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="NCCC_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-009-p1s5w16">
 <src.rf>manual</src.rf>
@@ -752,18 +689,7 @@
 <LM>w#w-lnd94103-009-p1s7w8</LM>
 </w.rf>
 <form>Keetley</form>
-<tag>
-<AM lemma="Keetley_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Keetley_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Valley_;G_,t_^(např.Silicon_Keetley)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Keetley_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Keetley_;S" src="auto">NNXXX-----A---1</AM>
-<AM lemma="Keetley_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Keetley_;K" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Keetley_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Keetley_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="keetley" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Keetley_;K" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94103-009-p1s7w9">
 <src.rf>manual</src.rf>
@@ -815,18 +741,7 @@
 <LM>w#w-lnd94103-009-p1s7w14</LM>
 </w.rf>
 <form>Trading</form>
-<tag>
-<AM lemma="Trading_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Trading_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Trading" src="auto">NNIS4-----A----</AM>
-<AM lemma="Trading_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Trading" src="auto">NNIS1-----A----</AM>
-<AM lemma="Trading_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Trading_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Trading_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Trading_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="trading" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Trading_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-lnd94103-009-p1s7w15">
 <src.rf>manual</src.rf>

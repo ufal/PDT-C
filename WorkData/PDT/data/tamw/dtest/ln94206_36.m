@@ -3686,17 +3686,7 @@
 <LM>w#w-ln94206-36-p8s1w22</LM>
 </w.rf>
 <form>nečinem</form>
-<tag>
-<AM lemma="čin" src="orig">NNIS7-----N----</AM>
-<AM lemma="nečin" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="nečin_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="nečin_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="nečin" src="auto">NNMS7-----A----</AM>
-<AM lemma="nečin_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="nečino" src="auto">NNNS7-----A----</AM>
-<AM lemma="nečien" src="auto">NNIS7-----A----</AM>
-<AM lemma="nečin_;E" src="auto">NNMS7-----A----</AM>
-</tag>
+<tag lemma="čin" src="orig" selected="1">NNIS7-----N----</tag>
 </m>
 <m id="m-ln94206-36-p8s1w23">
 <src.rf>manual</src.rf>

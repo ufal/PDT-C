@@ -191,18 +191,7 @@
 <LM>w#w-ln94200-110-p2s1Bw15</LM>
 </w.rf>
 <form>Katabuanga</form>
-<tag>
-<AM lemma="Katabuanga_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Katabuang_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Katabuang_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Katabuang_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Katabuango_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Katabuanga_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="katabuang_;L" src="auto">NNMS2-----A----</AM>
-<AM lemma="Katabuango_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Katabuango" src="auto">NNNS2-----A----</AM>
-<AM lemma="katabuanga" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Katabuanga_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-110-p2s1Bw16">
 <src.rf>manual</src.rf>

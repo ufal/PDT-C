@@ -1684,15 +1684,7 @@
 <LM>w#w-ln94208-63-p4s1w12</LM>
 </w.rf>
 <form>protiprimátorskou</form>
-<tag>
-<AM lemma="protiprimátorský" src="orig">AAFS4----1A----</AM>
-<AM lemma="protiprimátorska" src="auto">NNFS7-----A----</AM>
-<AM lemma="protiprimátorska_;G" src="auto">NNFS7-----A----</AM>
-<AM lemma="protiprimátorska_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="protiprimátorska_^(*2)" src="auto">NNFS7-----A----</AM>
-<AM lemma="protiprimátorský" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="protiprimátorský" src="auto">AAFS7----1A----</AM>
-</tag>
+<tag lemma="protiprimátorský" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94208-63-p4s1w13">
 <src.rf>manual</src.rf>
@@ -2802,17 +2794,7 @@
 <LM>w#w-ln94208-63-p5s3w20</LM>
 </w.rf>
 <form>protiprimátorského</form>
-<tag>
-<AM lemma="protiprimátorský" src="orig">AAIS2----1A----</AM>
-<AM lemma="protiprimátorský" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="protiprimátorský" src="auto">AAMS2----1A----</AM>
-<AM lemma="protiprimátorský" src="auto">AAMS4----1A----</AM>
-<AM lemma="protiprimátorský" src="auto">AANS2----1A----</AM>
-<AM lemma="protiprimátorský_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="protiprimátorský_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="protiprimátorský_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="protiprimátorský_^(*3it)" src="auto">AAIS2----1A----</AM>
-</tag>
+<tag lemma="protiprimátorský" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94208-63-p5s3w21">
 <src.rf>manual</src.rf>

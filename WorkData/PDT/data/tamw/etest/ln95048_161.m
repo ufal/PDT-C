@@ -302,18 +302,7 @@
 <LM>w#w-ln95048-161-p3s1w8</LM>
 </w.rf>
 <form>Rubbermaid</form>
-<tag>
-<AM lemma="Rubbermaid_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Rubbermaid_;m_,t" src="auto">VpXX---XR-AA---</AM>
-<AM lemma="Rubbermaid_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Rubbermaid_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rubbermaid" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rubbermaid" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rubbermaid_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rubbermaid_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rubbermaid_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="rubbermaid" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rubbermaid_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-161-p3s1w9">
 <src.rf>manual</src.rf>

@@ -191,18 +191,7 @@
 <LM>w#w-ln94200-147-p2s1Bw18</LM>
 </w.rf>
 <form>Hibernians</form>
-<tag>
-<AM lemma="Hibernian_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Hibernians_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hibernian_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Hibernians_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hibernian_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Hibernian_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Hiberniansactions_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Hibernians_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hibernians_;Y" src="auto">NNMPX-----A----</AM>
-<AM lemma="hibernians" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hibernian_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94200-147-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -218,18 +207,7 @@
 <LM>w#w-ln94200-147-p2s1Bw20</LM>
 </w.rf>
 <form>Valleta</form>
-<tag>
-<AM lemma="Valleta_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Valleta" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Vallet_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Valleto" src="auto">NNNS2-----A----</AM>
-<AM lemma="Vallít" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="Vallet_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vallet_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vallet" src="auto">NNMS4-----A----</AM>
-<AM lemma="Valleta_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="valleta" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Valleta_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-147-p2s1Bw21">
 <src.rf>manual</src.rf>

@@ -433,17 +433,7 @@
 <LM>w#w-ln94207-48-p2s2w28</LM>
 </w.rf>
 <form>Brokstedtu</form>
-<tag>
-<AM lemma="Brokstedt_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Brokstedt_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Brokstedt_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Brokstedt_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Brokstedt" src="auto">NNIS2-----A----</AM>
-<AM lemma="Brokstedta" src="auto">NNFS4-----A----</AM>
-<AM lemma="Brokstedt" src="auto">NNIS6-----A----</AM>
-<AM lemma="Brokstedt" src="auto">NNIS3-----A----</AM>
-<AM lemma="brokstedtu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Brokstedt_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94207-48-p2s2w29">
 <src.rf>manual</src.rf>

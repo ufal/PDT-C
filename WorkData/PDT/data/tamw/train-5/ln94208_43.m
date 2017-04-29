@@ -379,18 +379,7 @@
 <LM>w#w-ln94208-43-p2s3w3</LM>
 </w.rf>
 <form>Slovakia</form>
-<tag>
-<AM lemma="Slovakia_;G_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Slovakia_;G_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Slovakyo_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Slovakia_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Slovakia_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Slovakia_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Slovakia_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Slovakia_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Slovakia_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="slovakia" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Slovakia_;G_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-43-p2s3w4">
 <src.rf>manual</src.rf>
@@ -704,17 +693,7 @@
 <LM>w#w-ln94208-43-p2s4w30</LM>
 </w.rf>
 <form>piatok</form>
-<tag>
-<AM lemma="piatok_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="piatok" src="auto">NNIS4-----A----</AM>
-<AM lemma="piatok" src="auto">NNIS1-----A----</AM>
-<AM lemma="piatok_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="piatok_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="piatok_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="piatok_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="piatok_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="piatok" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="piatok_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-43-p2s4w31">
 <src.rf>manual</src.rf>
@@ -1000,16 +979,7 @@
 <LM>w#w-ln94208-43-p2s5w33</LM>
 </w.rf>
 <form>Fireworks</form>
-<tag>
-<AM lemma="Fireworks_;R_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Firework_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Fireworks_;R_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Fireworks_;R" src="auto">NNIPX-----A----</AM>
-<AM lemma="Fireworks_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fireworks_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fireworks" src="auto">NNIS4-----A----</AM>
-<AM lemma="fireworks" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fireworks_;R_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94208-43-p2s5w34">
 <src.rf>manual</src.rf>

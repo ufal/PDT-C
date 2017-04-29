@@ -53,16 +53,7 @@
 <LM>w#w-ln94206-17-p2s1w1</LM>
 </w.rf>
 <form>Stěpanjuk</form>
-<tag>
-<AM lemma="Stěpanjuk_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Stěpanjuk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stěpanjuk_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Stěpanjuk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stěpanjuk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Stěpanjuk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stěpanjuka" src="auto">NNFP2-----A----</AM>
-<AM lemma="stěpanjuk" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stěpanjuk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-17-p2s1w2">
 <src.rf>manual</src.rf>
@@ -70,17 +61,7 @@
 <LM>w#w-ln94206-17-p2s1w2</LM>
 </w.rf>
 <form>Loski</form>
-<tag>
-<AM lemma="Loski_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Loski_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Loský_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Loski_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Loski_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Loský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Loski_;K_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Loski_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="loski" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Loski_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-17-p2s1w3">
 <src.rf>manual</src.rf>
@@ -1814,16 +1795,7 @@
 <LM>w#w-ln94206-17-p5s4w14</LM>
 </w.rf>
 <form>Stěpanjuk</form>
-<tag>
-<AM lemma="Stěpanjuk_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Stěpanjuk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stěpanjuk_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Stěpanjuk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stěpanjuk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Stěpanjuk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stěpanjuka" src="auto">NNFP2-----A----</AM>
-<AM lemma="stěpanjuk" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stěpanjuk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-17-p5s4w15">
 <src.rf>manual</src.rf>
@@ -2783,16 +2755,7 @@
 <LM>w#w-ln94206-17-p7s2w1</LM>
 </w.rf>
 <form>Stěpanjuk</form>
-<tag>
-<AM lemma="Stěpanjuk_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Stěpanjuk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stěpanjuk_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Stěpanjuk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stěpanjuk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Stěpanjuk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stěpanjuka" src="auto">NNFP2-----A----</AM>
-<AM lemma="stěpanjuk" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stěpanjuk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-17-p7s2w2">
 <src.rf>manual</src.rf>
@@ -3506,18 +3469,7 @@
 <LM>w#w-ln94206-17-p9s1w2</LM>
 </w.rf>
 <form>Stěpanjuka</form>
-<tag>
-<AM lemma="Stěpanjuk_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Stěpanjuk_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Stěpanjuka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Stěpanjuk_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Stěpanjuk" src="auto">NNMS2-----A----</AM>
-<AM lemma="Stěpanjuk_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Stěpanjuk" src="auto">NNMS4-----A----</AM>
-<AM lemma="Stěpanjuka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stěpanjuc_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="stěpanjuka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stěpanjuk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-17-p9s1w3">
 <src.rf>manual</src.rf>
@@ -4369,16 +4321,7 @@
 <LM>w#w-ln94206-17-p10s4w1</LM>
 </w.rf>
 <form>Stěpanjuk</form>
-<tag>
-<AM lemma="Stěpanjuk_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Stěpanjuk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stěpanjuk_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Stěpanjuk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stěpanjuk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Stěpanjuk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stěpanjuka" src="auto">NNFP2-----A----</AM>
-<AM lemma="stěpanjuk" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stěpanjuk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-17-p10s4w2">
 <src.rf>manual</src.rf>
@@ -4386,17 +4329,7 @@
 <LM>w#w-ln94206-17-p10s4w2</LM>
 </w.rf>
 <form>Loski</form>
-<tag>
-<AM lemma="Loski_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Loski_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Loský_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Loski_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Loski_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Loský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Loski_;K_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Loski_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="loski" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Loski_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-17-p10s4w3">
 <src.rf>manual</src.rf>

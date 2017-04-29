@@ -1081,15 +1081,7 @@
 <LM>w#w-mf920925-074-p4s1w2</LM>
 </w.rf>
 <form>pen</form>
-<tag>
-<AM lemma="pen-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="pit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="pit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="loupen-1_;m_,t_^(pen_clean,_označení_čistoty_diamantu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="pný" src="auto">ACYS------A----</AM>
-<AM lemma="penalta_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="pen_;m_,t" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="pen-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920925-074-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1737,16 +1729,7 @@
 <LM>w#w-mf920925-074-p6s1w2</LM>
 </w.rf>
 <form>jl</form>
-<tag>
-<AM lemma="jl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jl-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jl" src="auto">NNIS4-----A----</AM>
-<AM lemma="jt_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jt_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jt" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jnout_:W" src="auto">VpYS---XR-AA--1</AM>
-</tag>
+<tag lemma="jl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920925-074-p6s1w3">
 <src.rf>manual</src.rf>

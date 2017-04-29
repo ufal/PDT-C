@@ -1527,17 +1527,7 @@
 <LM>w#w-ln94202-63-p6s1w11</LM>
 </w.rf>
 <form>Stülpnagel</form>
-<tag>
-<AM lemma="Stülpnagel_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Stülpnagel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Stülpnagel_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stülpnagel_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Stülpnagel_;R_,t_^(př._něm._noviny)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stülpnagel_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stülpnagel-1_;K_,t_^(souč._názvu_Der_S.)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Stülpnagel" src="auto">NNMS1-----A----</AM>
-<AM lemma="stülpnagel" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stülpnagel_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-63-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1666,25 +1656,7 @@
 <LM>w#w-ln94202-63-p6s1w27</LM>
 </w.rf>
 <form>RSK</form>
-<tag>
-<AM lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="RSk_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RSK_:B_;K_^(sportovní_klub)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RSK-1_:B_^(univerzitní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RSK-1_:B_^(policejní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RSK-1_:B_;K_;w_^(sportovní_klub)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RSK-1_:B_;K_;w_^(sportovní_klub)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Rsk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rsk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rsk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="desky_^(&quot;Rsky_zemské&quot;,záznamy,_registr)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Rsko" src="auto">NNNP2-----A----</AM>
-<AM lemma="Rsk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rsk" src="auto">II-------------</AM>
-<AM lemma="Rsk" src="auto">NNMS1-----A----</AM>
-<AM lemma="rsk" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94202-63-p6s1w28">
 <src.rf>manual</src.rf>
@@ -1913,18 +1885,7 @@
 <LM>w#w-ln94202-63-p6s2w6</LM>
 </w.rf>
 <form>Topuško</form>
-<tag>
-<AM lemma="Topuško_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Topuško_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Topuško_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Topušký" src="auto">A2--------A----</AM>
-<AM lemma="Topuško" src="auto">NNNS1-----A----</AM>
-<AM lemma="Topuško_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="Topuško" src="auto">NNNS4-----A----</AM>
-<AM lemma="Topuško" src="auto">Db-------------</AM>
-<AM lemma="Topuška" src="auto">NNFS5-----A----</AM>
-<AM lemma="topuško" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Topuško_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94202-63-p6s2w7">
 <src.rf>manual</src.rf>
@@ -2067,17 +2028,7 @@
 <LM>w#w-ln94202-63-p6s3w1</LM>
 </w.rf>
 <form>Stülpnagel</form>
-<tag>
-<AM lemma="Stülpnagel_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Stülpnagel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Stülpnagel_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stülpnagel_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Stülpnagel_;R_,t_^(př._něm._noviny)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stülpnagel_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stülpnagel-1_;K_,t_^(souč._názvu_Der_S.)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Stülpnagel" src="auto">NNMS1-----A----</AM>
-<AM lemma="stülpnagel" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stülpnagel_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-63-p6s3w2">
 <src.rf>manual</src.rf>

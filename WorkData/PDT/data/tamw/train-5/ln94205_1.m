@@ -241,18 +241,7 @@
 <LM>w#w-ln94205-1-p2s3w2</LM>
 </w.rf>
 <form>Hungary</form>
-<tag>
-<AM lemma="Hungary_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Hungar" src="auto">NNIP1-----A----</AM>
-<AM lemma="Hungar" src="auto">NNIP4-----A----</AM>
-<AM lemma="Hungar" src="auto">NNIP7-----A----</AM>
-<AM lemma="Hungara_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Hungara" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Hungary_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hungar_;E" src="auto">NNMP7-----A----</AM>
-<AM lemma="Hungar_;E" src="auto">NNMP4-----A----</AM>
-<AM lemma="hungary" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hungary_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94205-1-p2s3w3">
 <src.rf>manual</src.rf>
@@ -740,18 +729,7 @@
 <LM>w#w-ln94205-1-p4s1w4</LM>
 </w.rf>
 <form>Production</form>
-<tag>
-<AM lemma="Production_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Production_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Production_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Production_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Production_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Production" src="auto">NNIS1-----A----</AM>
-<AM lemma="Production_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Productión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Productión" src="auto">NNIS1-----A----</AM>
-<AM lemma="production" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Production_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-1-p4s1w5">
 <src.rf>manual</src.rf>
@@ -799,17 +777,7 @@
 <LM>w#w-ln94205-1-p4s1w10</LM>
 </w.rf>
 <form>multilinguální</form>
-<tag>
-<AM lemma="multilinguální" src="orig">AAIP4----1A----</AM>
-<AM lemma="multilinguální" src="auto">AAFS1----1A----</AM>
-<AM lemma="multilinguální" src="auto">AAFS2----1A----</AM>
-<AM lemma="multilinguální" src="auto">AAIS1----1A----</AM>
-<AM lemma="multilinguální" src="auto">AAFS4----1A----</AM>
-<AM lemma="multilinguální" src="auto" recommended="1">AAIS4----1A----</AM>
-<AM lemma="multilinguální" src="auto">AAFS6----1A----</AM>
-<AM lemma="multilinguální" src="auto">AAFP4----1A----</AM>
-<AM lemma="multilinguální" src="auto">AANS1----1A----</AM>
-</tag>
+<tag lemma="multilinguální" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln94205-1-p4s1w11">
 <src.rf>manual</src.rf>
@@ -913,15 +881,7 @@
 <LM>w#w-ln94205-1-p4s1w23</LM>
 </w.rf>
 <form>UniType</form>
-<tag>
-<AM lemma="UniType_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="UniTypat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="UniType_;R_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="UniType_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="UniType_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="UniType_;Y_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Unitype" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="UniType_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-1-p4s1w24">
 <src.rf>manual</src.rf>
@@ -1317,18 +1277,7 @@
 <LM>w#w-ln94205-1-p5s1w11</LM>
 </w.rf>
 <form>Stylus</form>
-<tag>
-<AM lemma="Stylus_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Stylus_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Stylus" src="auto">NNIS4-----A----</AM>
-<AM lemma="Stylus_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="plus-2_^(mat._operace;_1_plus_1,_též_Stylus_dva_stupně)" src="auto">J*-------------</AM>
-<AM lemma="plus-1_^(znaménko_Stylus;_vyjádření_kladné_vlastnosti)" src="auto">NNIS4-----A----</AM>
-<AM lemma="plus-1_^(znaménko_Stylus;_vyjádření_kladné_vlastnosti)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stylus_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stylus_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="stylus" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stylus_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-1-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1392,17 +1341,7 @@
 <LM>w#w-ln94205-1-p5s1w18</LM>
 </w.rf>
 <form>dpi</form>
-<tag>
-<AM lemma="dpi_:B_,t_^(dot_per_inch)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="dpi_:B_,t_^(dot_per_inch)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_dpě)" src="auto">NNFS6-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_dpě)" src="auto">NNFS4-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_dpě)" src="auto">NNFS3-----A----</AM>
-<AM lemma="dp-1_^(savana)" src="auto">NNFS2-----A----</AM>
-<AM lemma="dp" src="auto">NNMP1-----A----</AM>
-<AM lemma="dpi_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="dpi_,t" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="dpi_:B_,t_^(dot_per_inch)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94205-1-p5s1w19">
 <src.rf>manual</src.rf>
@@ -2232,27 +2171,7 @@
 <LM>w#w-ln94205-1-p7s3w3</LM>
 </w.rf>
 <form>ios</form>
-<tag>
-<AM lemma="ios-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ios-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="ios-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ios-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="ios-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ios_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="ios_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ios_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ios_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="ios_;K_^(fotbalový_klub)" src="auto">NNIS1-----A----</AM>
-<AM lemma="ios_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="iosa" src="auto">NNFP2-----A----</AM>
-<AM lemma="ioscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="iosoba_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="iosobní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="iosoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="iospolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="iostrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="iostátní_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="ios-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-1-p7s3w4">
 <src.rf>manual</src.rf>

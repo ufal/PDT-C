@@ -635,17 +635,7 @@
 <LM>w#w-mf920922-126-p3s1w17</LM>
 </w.rf>
 <form>Allašukurovi</form>
-<tag>
-<AM lemma="Allašukur_;Y" src="orig">NNMS3-----A----</AM>
-<AM lemma="Allašukur_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Allašukur" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Allašukur_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Allašukura_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Allašukur_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Allašukur" src="auto">NNMS6-----A----</AM>
-<AM lemma="Allašukurův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="allašukurovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Allašukur_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920922-126-p3s1w18">
 <src.rf>manual</src.rf>
@@ -653,17 +643,7 @@
 <LM>w#w-mf920922-126-p3s1w18</LM>
 </w.rf>
 <form>Ulislamovi</form>
-<tag>
-<AM lemma="Ulislam_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Ulislam_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Ulislam" src="auto">NNMS3-----A----</AM>
-<AM lemma="Ulislam_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Ulislama_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Ulislam_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Ulislam" src="auto">NNMS6-----A----</AM>
-<AM lemma="Ulislamův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="ulislamovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ulislam_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920922-126-p3s1w19">
 <src.rf>manual</src.rf>

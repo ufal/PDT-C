@@ -183,15 +183,7 @@
 <LM>w#w-ln94203-99-p2s1Bw8</LM>
 </w.rf>
 <form>hašprtánskou</form>
-<tag>
-<AM lemma="hašprtánský" src="orig">AAFS4----1A----</AM>
-<AM lemma="hašprtánský" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="hašprtánský" src="auto">AAFS7----1A----</AM>
-<AM lemma="hašprtánska" src="auto">NNFS7-----A----</AM>
-<AM lemma="hašprtánska_^(*2)" src="auto">NNFS7-----A----</AM>
-<AM lemma="hašprtánska_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="hašprtánska_;G" src="auto">NNFS7-----A----</AM>
-</tag>
+<tag lemma="hašprtánský" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94203-99-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -318,18 +310,7 @@
 <LM>w#w-ln94203-99-p2s3w8</LM>
 </w.rf>
 <form>Hašprtánie</form>
-<tag>
-<AM lemma="Hašprtánie_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Hašprtánie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Hašprtánie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hašprtánie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Hašprtánie_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Hašprtánie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Hašprtánie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Hašprtanie_,x" src="auto">NNFS2-----A----</AM>
-<AM lemma="Hašprtánie_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="hašprtánie" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hašprtánie_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-99-p2s3w9">
 <src.rf>manual</src.rf>
@@ -387,15 +368,7 @@
 <LM>w#w-ln94203-99-p2s4w5</LM>
 </w.rf>
 <form>územněprávně</form>
-<tag>
-<AM lemma="územněprávně" src="orig">Dg-------1A----</AM>
-<AM lemma="územněprávně_^(*1í)" src="auto">Dg-------1A----</AM>
-<AM lemma="územněprávně_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="územněprávna" src="auto">NNFS6-----A----</AM>
-<AM lemma="územněprávna" src="auto">NNFS3-----A----</AM>
-<AM lemma="územněprávně" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="územněpráveň" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="územněprávně" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94203-99-p2s4w6">
 <src.rf>manual</src.rf>
@@ -775,17 +748,7 @@
 <LM>w#w-ln94203-99-p2s6w29</LM>
 </w.rf>
 <form>částečněslezská</form>
-<tag>
-<AM lemma="částečněslezský" src="orig">AAFS1----1A----</AM>
-<AM lemma="částečněslezský" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="částečněslezský" src="auto">AANP1----1A----</AM>
-<AM lemma="částečněslezský" src="auto">AANP4----1A----</AM>
-<AM lemma="částečněslezská_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="částečněslezský_;G" src="auto">AAFS1----1A----</AM>
-<AM lemma="částečněslezská_;G" src="auto">AAFS1----1A----</AM>
-<AM lemma="částečněslezský_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="částečněslezskat_:T" src="auto">VB-S---3P-AA---</AM>
-</tag>
+<tag lemma="částečněslezský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94203-99-p2s6w30">
 <src.rf>manual</src.rf>

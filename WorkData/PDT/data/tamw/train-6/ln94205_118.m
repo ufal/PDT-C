@@ -8078,15 +8078,7 @@
 <LM>w#w-ln94205-118-p25s3w3</LM>
 </w.rf>
 <form>Svatonský</form>
-<tag>
-<AM lemma="Svatonský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Svatonský" src="auto">AAIS1----1A----</AM>
-<AM lemma="Svatonský" src="auto">AAMS1----1A----</AM>
-<AM lemma="Svatonský" src="auto">AAIS4----1A----</AM>
-<AM lemma="Svatonský_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Svatonský_;S" src="auto">AAMS1----1A----</AM>
-<AM lemma="svatonský" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Svatonský_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-118-p25s3w4">
 <src.rf>manual</src.rf>

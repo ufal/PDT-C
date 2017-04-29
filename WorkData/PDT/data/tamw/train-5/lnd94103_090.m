@@ -1608,18 +1608,7 @@
 <LM>w#w-lnd94103-090-p1s10w7</LM>
 </w.rf>
 <form>Sevillanas</form>
-<tag>
-<AM lemma="Sevillanas_;m_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Sevillanas_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sevillanas_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sevillanas_;m_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Sevillanas_;G_^(stát)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sevillanas_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Sevillanas_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sevillanas-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sevillanas" src="auto">NNIS1-----A----</AM>
-<AM lemma="sevillanas" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sevillanas_;m_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd94103-090-p1s10w8">
 <src.rf>manual</src.rf>
@@ -2259,15 +2248,7 @@
 <LM>w#w-lnd94103-090-p1s13w10</LM>
 </w.rf>
 <form>Alexeiem</form>
-<tag>
-<AM lemma="Alexei_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Alexeium" src="auto">NNNS7-----A----</AM>
-<AM lemma="Alexeie_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Alexeio" src="auto">NNNS7-----A----</AM>
-<AM lemma="Alexeium_;H" src="auto">NNNS7-----A----</AM>
-<AM lemma="Alexeio_;Y_,t" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="alexeiem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Alexei_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94103-090-p1s13w11">
 <src.rf>manual</src.rf>
@@ -2275,18 +2256,7 @@
 <LM>w#w-lnd94103-090-p1s13w11</LM>
 </w.rf>
 <form>Saylem</form>
-<tag>
-<AM lemma="Sayl_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Sayl" src="auto">NNIS7-----A----</AM>
-<AM lemma="Sayl" src="auto">NNMS7-----A----</AM>
-<AM lemma="Sayl_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Saylo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Sayl_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Sayl_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Sayel" src="auto">NNIS7-----A----</AM>
-<AM lemma="Sayl_;K" src="auto">NNIS7-----A----</AM>
-<AM lemma="saylem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sayl_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94103-090-p1s13w12">
 <src.rf>manual</src.rf>

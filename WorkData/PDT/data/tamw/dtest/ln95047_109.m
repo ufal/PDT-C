@@ -175,17 +175,7 @@
 <LM>w#w-ln95047-109-p2s1Bw11</LM>
 </w.rf>
 <form>Sagner</form>
-<tag>
-<AM lemma="Sagner_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sagner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sagner" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sagner" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sagne_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sagmer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sagner_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sagner_;K_,t_^(měm.,_v_názvech)" src="auto">AAXXX----1A----</AM>
-<AM lemma="sagner" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sagner_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-109-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -1801,17 +1791,7 @@
 <LM>w#w-ln95047-109-p5s5w36</LM>
 </w.rf>
 <form>Sagner</form>
-<tag>
-<AM lemma="Sagner_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sagner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sagner" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sagner" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sagne_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sagmer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sagner_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sagner_;K_,t_^(měm.,_v_názvech)" src="auto">AAXXX----1A----</AM>
-<AM lemma="sagner" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sagner_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-109-p5s5w37">
 <src.rf>manual</src.rf>

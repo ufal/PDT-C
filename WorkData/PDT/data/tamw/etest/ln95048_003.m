@@ -728,13 +728,7 @@
 <LM>w#w-ln95048-003-p3s3w2</LM>
 </w.rf>
 <form>Grafo</form>
-<tag>
-<AM lemma="Grafo_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Grafo_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Grafo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Grafo_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="grafo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Grafo_;K" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95048-003-p3s3w3">
 <src.rf>manual</src.rf>

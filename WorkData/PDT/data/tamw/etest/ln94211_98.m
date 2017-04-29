@@ -3173,14 +3173,7 @@
 <LM>w#w-ln94211-98-p3s12w12</LM>
 </w.rf>
 <form>Isskustvo</form>
-<tag>
-<AM lemma="Isskustvo_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Isskustvo" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Isskustvo" src="auto">NNNS4-----A----</AM>
-<AM lemma="Isskustvo_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Isskustvo" src="auto">Db-------------</AM>
-<AM lemma="isskustvo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Isskustvo_;K" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94211-98-p3s12w13">
 <src.rf>manual</src.rf>
@@ -4593,18 +4586,7 @@
 <LM>w#w-ln94211-98-p3s21w15</LM>
 </w.rf>
 <form>Poročkinová</form>
-<tag>
-<AM lemma="Poročkinová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Poročkinová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Poročkinový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Poročkinový" src="auto">AANP1----1A----</AM>
-<AM lemma="Poročkinový" src="auto">AANP4----1A----</AM>
-<AM lemma="Poročkinová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Poročkinová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Poročkinový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Poročkinový" src="auto">AAFS5----1A----</AM>
-<AM lemma="poročkinová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Poročkinová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-98-p3s21w16">
 <src.rf>manual</src.rf>
@@ -5967,17 +5949,7 @@
 <LM>w#w-ln94211-98-p3s31w16</LM>
 </w.rf>
 <form>Gorenštejna</form>
-<tag>
-<AM lemma="Gorenštejn_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Gorenštejna" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gorenštejn_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Gorenštejen" src="auto">NNIS2-----A----</AM>
-<AM lemma="Gorenštejno" src="auto">NNNS2-----A----</AM>
-<AM lemma="Gorenštejn_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Gorenštejn_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Gorenštejna_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="gorenštejna" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gorenštejn_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-98-p3s31w17">
 <src.rf>manual</src.rf>
@@ -6025,18 +5997,7 @@
 <LM>w#w-ln94211-98-p3s31w22</LM>
 </w.rf>
 <form>Dovlatova</form>
-<tag>
-<AM lemma="Dovlatov_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Dovlatův_;S_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="Dovlatův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Dovlatov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Dovlatov_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Dovlatův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Dovlatův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Dovlatov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Dovlatův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="dovlatova" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dovlatov_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-98-p3s31w23">
 <src.rf>manual</src.rf>
@@ -6650,18 +6611,7 @@
 <LM>w#w-ln94211-98-p3s35w11</LM>
 </w.rf>
 <form>Vyšeslavceva</form>
-<tag>
-<AM lemma="Vyšeslavcev_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Vyšeslavcev_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Vyšeslavcev_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vyšeslavceva" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vyšeslavcevo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Vyšeslavceva" src="auto">Db-------------</AM>
-<AM lemma="Vyšeslavcevo_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Vyšeslavcevo" src="auto">NNNP1-----A----</AM>
-<AM lemma="Vyšeslavcev_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="vyšeslavceva" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vyšeslavcev_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-98-p3s35w12">
 <src.rf>manual</src.rf>
@@ -6815,18 +6765,7 @@
 <LM>w#w-ln94211-98-p3s36w1</LM>
 </w.rf>
 <form>Vyšeslavcevovo</form>
-<tag>
-<AM lemma="Vyšeslavcevův_;S_^(*2)" src="orig">AUNS1M---------</AM>
-<AM lemma="Vyšeslavcevův_;S_^(*2)" src="auto">AUNS1M---------</AM>
-<AM lemma="Vyšeslavcevův_;S_^(*2)" src="auto">AUNS4M---------</AM>
-<AM lemma="Vyšeslavcevův_^(*2)" src="auto">AUNS4M---------</AM>
-<AM lemma="Vyšeslavcevův_;S_^(*2a)" src="auto">AUNS1M---------</AM>
-<AM lemma="Vyšeslavcevův_^(*2)" src="auto">AUNS1M---------</AM>
-<AM lemma="Vyšeslavcevovo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Vyšeslavcevův_^(*3ec)" src="auto">AUNS1M---------</AM>
-<AM lemma="Vyšeslavcevův_;S_^(*3ek)" src="auto">AUNS1M---------</AM>
-<AM lemma="vyšeslavcevovo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vyšeslavcevův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln94211-98-p3s36w2">
 <src.rf>manual</src.rf>
@@ -7248,18 +7187,7 @@
 <LM>w#w-ln94211-98-p3s39w1</LM>
 </w.rf>
 <form>Vyšeslavcev</form>
-<tag>
-<AM lemma="Vyšeslavcev_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vyšeslavcev_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Vyšeslavcev" src="auto">NNFS4-----A----</AM>
-<AM lemma="Vyšeslavcev" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vyšeslavcvo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Vyšeslavcva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vyšeslavcev" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vyšeslavcev" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vyšeslavceva" src="auto">NNFP2-----A----</AM>
-<AM lemma="vyšeslavcev" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vyšeslavcev_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-98-p3s39w2">
 <src.rf>manual</src.rf>
@@ -8259,18 +8187,7 @@
 <LM>w#w-ln94211-98-p4s3w10</LM>
 </w.rf>
 <form>Vikťuka</form>
-<tag>
-<AM lemma="Vikťuk_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Vikťuk_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Vikťuka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vikťuk_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vikťuk" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vikťuk_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vikťuk" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vikťuka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vikťuc_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="vikťuka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vikťuk_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-98-p4s3w11">
 <src.rf>manual</src.rf>

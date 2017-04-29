@@ -2631,18 +2631,7 @@
 <LM>w#w-ln95047-040-p4s1w1</LM>
 </w.rf>
 <form>Pollyana</form>
-<tag>
-<AM lemma="Pollyana_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pollyan_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pollyan_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Pollyan_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pollyan_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Pollyan" src="auto">NNMS4-----A----</AM>
-<AM lemma="Pollyan" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pollyana" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Pollyan_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="pollyana" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pollyana_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-040-p4s1w2">
 <src.rf>manual</src.rf>

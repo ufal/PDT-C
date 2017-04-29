@@ -3453,18 +3453,7 @@
 <LM>w#w-lnd94103-100-p1s20w36</LM>
 </w.rf>
 <form>Armen</form>
-<tag>
-<AM lemma="Armen_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Armen" src="auto">NNIS1-----A----</AM>
-<AM lemma="Armeno" src="auto">NNNP2-----A----</AM>
-<AM lemma="Armen" src="auto">NNIS4-----A----</AM>
-<AM lemma="Armit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Armen_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Armit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Armen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Arméno" src="auto">NNNP2-----A----</AM>
-<AM lemma="armen" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Armen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-100-p1s21w1">
 <src.rf>manual</src.rf>

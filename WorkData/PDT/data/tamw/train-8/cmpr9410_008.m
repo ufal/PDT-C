@@ -3590,23 +3590,7 @@
 <LM>w#w-cmpr9410-008-p15s1w3</LM>
 </w.rf>
 <form>direct</form>
-<tag>
-<AM lemma="direct_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="direci" src="auto">Vf--------A----</AM>
-<AM lemma="direci" src="auto">Vf--------A---1</AM>
-<AM lemma="direci" src="auto">Vf--------A---6</AM>
-<AM lemma="direcontusus_:B_,t_^(tlučený,_drcený)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="direct" src="auto">NNIS1-----A----</AM>
-<AM lemma="direct-1_:B_,t_^(carat,_karát)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="direct-2_:B_,t_^(cent)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="direct-3_:B_,t_^(county)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="direct-3_:B_,t_^(county)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="direct-4_:B_,t_^(current,_proud)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="direct_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="direct_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="directa" src="auto">NNFP2-----A----</AM>
-<AM lemma="directum_,t" src="auto">NNNP2-----A----</AM>
-</tag>
+<tag lemma="direct_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9410-008-p15s1w4">
 <src.rf>manual</src.rf>

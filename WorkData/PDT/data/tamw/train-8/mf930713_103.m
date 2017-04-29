@@ -69,22 +69,7 @@
 <LM>w#w-mf930713-103-p2s1w2</LM>
 </w.rf>
 <form>SUPERPRESTIGE</form>
-<tag>
-<AM lemma="Superprestige_;m_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="SUPERPRESTIGE-1_:B_;K_,t_^(General_Electric_Company)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SUPERPRESTIGE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SUPERPRESTIGE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SUPERPRESTIGE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Superprestige_;m_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;Y" src="auto">AAXXX----1A----</AM>
-<AM lemma="Superprestige_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Superprestige_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Superprestige_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="superprestige" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Superprestige_;m_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-103-p2s1w3">
 <src.rf>manual</src.rf>
@@ -201,18 +186,7 @@
 <LM>w#w-mf930713-103-p2s2Bw6</LM>
 </w.rf>
 <form>Superprestige</form>
-<tag>
-<AM lemma="Superprestige_;m_,t" src="orig">NNFS2-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;Y" src="auto">AAXXX----1A----</AM>
-<AM lemma="Superprestige_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Superprestige_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Superprestige_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="superprestige" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Superprestige_;m_,t" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-103-p2s2Bw7">
 <src.rf>manual</src.rf>
@@ -236,17 +210,7 @@
 <LM>w#w-mf930713-103-p2s2Bw9</LM>
 </w.rf>
 <form>Overijse</form>
-<tag>
-<AM lemma="Overijse_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Overijs_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Overijse_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Overijse_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Overijs_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Overijs" src="auto">NNIS6-----A----</AM>
-<AM lemma="Overijse" src="auto">NNFS2-----A----</AM>
-<AM lemma="Overijs_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="overijse" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Overijse_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930713-103-p2s2Bw10">
 <src.rf>manual</src.rf>
@@ -384,18 +348,7 @@
 <LM>w#w-mf930713-103-p2s3w3</LM>
 </w.rf>
 <form>Superprestige</form>
-<tag>
-<AM lemma="Superprestige_;m_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;Y" src="auto">AAXXX----1A----</AM>
-<AM lemma="Superprestige_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Superprestige_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Superprestige_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="superprestige" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Superprestige_;m_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-103-p2s3w4">
 <src.rf>manual</src.rf>
@@ -863,18 +816,7 @@
 <LM>w#w-mf930713-103-p2s14w23</LM>
 </w.rf>
 <form>Frischknecht</form>
-<tag>
-<AM lemma="Frischknecht_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Frischknecht_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Frischknecht_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="maastricht-1_^(smlouva_z_Frischknechtu,_přeneseně)" src="auto">NNIS4-----A----</AM>
-<AM lemma="maastricht-1_^(smlouva_z_Frischknechtu,_přeneseně)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Frischknechen_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Frischknecht_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Frischknecht_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Frischknecht_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="frischknecht" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Frischknecht_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-103-p2s14w24">
 <src.rf>manual</src.rf>
@@ -898,26 +840,7 @@
 <LM>w#w-mf930713-103-p2s14w26</LM>
 </w.rf>
 <form>Bie</form>
-<tag>
-<AM lemma="Bie_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Bie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Bie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Bie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Bie_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bie_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="bi_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="bie" src="auto">NNFS2-----A----</AM>
-<AM lemma="bie-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="bie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="bie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="bie_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="bie_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="bie_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="bie_;S" src="auto">NNMXX-----A----</AM>
-</tag>
+<tag lemma="Bie_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-103-p2s14w27">
 <src.rf>manual</src.rf>
@@ -933,18 +856,7 @@
 <LM>w#w-mf930713-103-p2s14w28</LM>
 </w.rf>
 <form>Baars</form>
-<tag>
-<AM lemma="Baars_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Baars_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Baar_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Baar_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Baar_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Baars_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Baars_:B_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Baars_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Baars-2_;R_^(planeta;;kosmická_sonda)" src="auto">NNIS4-----A----</AM>
-<AM lemma="baars" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Baars_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-103-p2s14w29">
 <src.rf>manual</src.rf>
@@ -1156,18 +1068,7 @@
 <LM>w#w-mf930713-103-p2s16w8</LM>
 </w.rf>
 <form>Superprestige</form>
-<tag>
-<AM lemma="Superprestige_;m_,t" src="orig">NNFS2-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;Y" src="auto">AAXXX----1A----</AM>
-<AM lemma="Superprestige_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Superprestige_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Superprestige_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="superprestige" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Superprestige_;m_,t" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-103-p2s16w9">
 <src.rf>manual</src.rf>

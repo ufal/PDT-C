@@ -51,18 +51,7 @@
 <LM>w#w-ln95045-021-p1s1w5</LM>
 </w.rf>
 <form>Hardaway</form>
-<tag>
-<AM lemma="Hardaway_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hardaway_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hardaway_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Hardaway_;K" src="auto">NNFSX-----A----</AM>
-<AM lemma="Hardaway_,t" src="auto">NNFS4-----A----</AM>
-<AM lemma="Hardaway_,t" src="auto">Db-------------</AM>
-<AM lemma="Hardaway_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hardaway_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Hardaway_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="hardaway" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hardaway_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-021-p1s1w6">
 <src.rf>manual</src.rf>

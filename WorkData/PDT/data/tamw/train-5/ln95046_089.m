@@ -1111,18 +1111,7 @@
 <LM>w#w-ln95046-089-p3s7w2</LM>
 </w.rf>
 <form>Maryt</form>
-<tag>
-<AM lemma="Maryt_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Marýt" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Maryto" src="auto">NNNP2-----A----</AM>
-<AM lemma="Maryt_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Maryt" src="auto">NNIS1-----A----</AM>
-<AM lemma="Maryt" src="auto">NNIS4-----A----</AM>
-<AM lemma="pobyt_^(př._místo_Marytu)" src="auto">NNIS4-----A----</AM>
-<AM lemma="pobyt_^(př._místo_Marytu)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Maryt_^(místo_k_bydlení)" src="auto">NNIS4-----A----</AM>
-<AM lemma="maryt" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Maryt_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-089-p3s7w3">
 <src.rf>manual</src.rf>

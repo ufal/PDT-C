@@ -1288,18 +1288,7 @@
 <LM>w#w-ln94209-91-p3s8w3</LM>
 </w.rf>
 <form>Woobridgem</form>
-<tag>
-<AM lemma="Woobridge_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Woobridg" src="auto">NNIS7-----A----</AM>
-<AM lemma="Woobridg_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Woobridg_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Woobridg" src="auto">NNMS7-----A----</AM>
-<AM lemma="Woobridge_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Woobridgo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Woobridg_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Woobridge_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="woobridgem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Woobridge_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94209-91-p3s8w4">
 <src.rf>manual</src.rf>
@@ -3839,18 +3828,7 @@
 <LM>w#w-ln94209-91-p5s2w21</LM>
 </w.rf>
 <form>Yzaga</form>
-<tag>
-<AM lemma="Yzaga_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Yzaga_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Yzago_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Yzago_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Yzago_;K" src="auto">NNNS2-----A----</AM>
-<AM lemma="Yzago_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Yzag_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Yzaga_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Yzaga_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="yzaga" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Yzaga_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-91-p5s2w22">
 <src.rf>manual</src.rf>
@@ -4060,18 +4038,7 @@
 <LM>w#w-ln94209-91-p5s3w1</LM>
 </w.rf>
 <form>Yzaga</form>
-<tag>
-<AM lemma="Yzaga_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Yzaga_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Yzago_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Yzago_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Yzago_;K" src="auto">NNNS2-----A----</AM>
-<AM lemma="Yzago_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Yzag_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Yzaga_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Yzaga_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="yzaga" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Yzaga_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-91-p5s3w2">
 <src.rf>manual</src.rf>

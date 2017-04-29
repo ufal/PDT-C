@@ -653,22 +653,7 @@
 <LM>w#w-ln94203-118-p2s3w17</LM>
 </w.rf>
 <form>Uli</form>
-<tag>
-<AM lemma="Uli_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ut_:W" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Ut_:T" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Ut" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Unout_:W" src="auto">VpMP---XR-AA--1</AM>
-<AM lemma="Ut_:T_:W" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Ul" src="auto">NNMP7-----A----</AM>
-<AM lemma="out" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="ule" src="auto">NNFS6-----A----</AM>
-<AM lemma="ule" src="auto">NNFS4-----A----</AM>
-<AM lemma="ule" src="auto">NNFS3-----A----</AM>
-<AM lemma="out_^(např._na_vrcholu)" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="ulus_,t" src="auto">NNIS2-----A----</AM>
-<AM lemma="uli_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-</tag>
+<tag lemma="Uli_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-118-p2s3w18">
 <src.rf>manual</src.rf>

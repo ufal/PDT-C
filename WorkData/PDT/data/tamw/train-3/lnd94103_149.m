@@ -3457,17 +3457,7 @@
 <LM>w#w-lnd94103-149-p1s18w9</LM>
 </w.rf>
 <form>Naině</form>
-<tag>
-<AM lemma="Naina_;Y" src="orig">NNFS3-----A----</AM>
-<AM lemma="Naina" src="auto">NNFS6-----A----</AM>
-<AM lemma="Naina" src="auto">NNFS3-----A----</AM>
-<AM lemma="Naina_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Naina_;Y" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="Naina_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Naina" src="auto">CyFS6----------</AM>
-<AM lemma="Naině" src="auto">Db-------------</AM>
-<AM lemma="naině" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Naina_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd94103-149-p1s18w10">
 <src.rf>manual</src.rf>

@@ -85,17 +85,7 @@
 <LM>w#w-ln94203-3-p2s1w4</LM>
 </w.rf>
 <form>Condoma</form>
-<tag>
-<AM lemma="Condom_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Condom_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Condom" src="auto">NNMS2-----A----</AM>
-<AM lemma="Condom_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Condoma_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Condoma_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Condoma_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Condomý" src="auto">ACQW------A----</AM>
-<AM lemma="condoma" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Condom_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94203-3-p2s1w5">
 <src.rf>manual</src.rf>
@@ -329,18 +319,7 @@
 <LM>w#w-ln94203-3-p2s2w7</LM>
 </w.rf>
 <form>Femidom</form>
-<tag>
-<AM lemma="Femidom_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Femidomý" src="auto">ACYS------A----</AM>
-<AM lemma="Femidom_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Femidom_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Femidom_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Femidom_,t" src="auto">Db-------------</AM>
-<AM lemma="Femidom" src="auto">NNIS4-----A----</AM>
-<AM lemma="Femidom" src="auto">NNIS1-----A----</AM>
-<AM lemma="Femidom_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="femidom" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Femidom_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-3-p2s2w8">
 <src.rf>manual</src.rf>
@@ -2128,16 +2107,7 @@
 <LM>w#w-ln94203-3-p5s9w2</LM>
 </w.rf>
 <form>bo</form>
-<tag>
-<AM lemma="bo-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="bo_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="bo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="bo" src="auto">J^-------------</AM>
-<AM lemma="bo_;Y" src="auto">NNNS1-----A----</AM>
-<AM lemma="bo_;Y" src="auto">NNMSX-----A----</AM>
-<AM lemma="bo_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="bo-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94203-3-p5s9w3">
 <src.rf>manual</src.rf>

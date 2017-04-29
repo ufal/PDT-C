@@ -126,18 +126,7 @@
 <LM>w#w-mf920922-086-p2s2w5</LM>
 </w.rf>
 <form>Missis</form>
-<tag>
-<AM lemma="Missis_;m" src="orig">NNFXX-----A----</AM>
-<AM lemma="Missis_;L_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="Missis_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Missis_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Missis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Missis_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Missis_;R_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Missis_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Missis_;L_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="missis" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Missis_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920922-086-p2s2w6">
 <src.rf>manual</src.rf>
@@ -217,18 +206,7 @@
 <LM>w#w-mf920922-086-p2s2w15</LM>
 </w.rf>
 <form>Svídenská</form>
-<tag>
-<AM lemma="Svídenská_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Svídenský" src="auto">AAFS1----1A----</AM>
-<AM lemma="Svídenský" src="auto">AANP1----1A----</AM>
-<AM lemma="Svídenský" src="auto">AANP4----1A----</AM>
-<AM lemma="Svídenská_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Svídenský_;G" src="auto">AAFS1----1A----</AM>
-<AM lemma="Svídenská_;G" src="auto">AAFS1----1A----</AM>
-<AM lemma="Svídenský_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Svídenskat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="svídenská" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Svídenská_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-086-p2s2w16">
 <src.rf>manual</src.rf>
@@ -935,18 +913,7 @@
 <LM>w#w-mf920922-086-p2s6w23</LM>
 </w.rf>
 <form>Jelínská</form>
-<tag>
-<AM lemma="Jelínská_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Jelínský" src="auto">AAFS1----1A----</AM>
-<AM lemma="Jelínský" src="auto">AANP1----1A----</AM>
-<AM lemma="Jelínský" src="auto">AANP4----1A----</AM>
-<AM lemma="Jelínská_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Jelínský_;G" src="auto">AAFS1----1A----</AM>
-<AM lemma="Jelínská_;G" src="auto">AAFS1----1A----</AM>
-<AM lemma="Jelínský_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jelínskat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="jelínská" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jelínská_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-086-p2s6w24">
 <src.rf>manual</src.rf>

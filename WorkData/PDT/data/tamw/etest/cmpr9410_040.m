@@ -1793,16 +1793,7 @@
 <LM>w#w-cmpr9410-040-p10s3w11</LM>
 </w.rf>
 <form>hochschule</form>
-<tag>
-<AM lemma="hochschule_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="hochschule" src="auto">NNFS1-----A----</AM>
-<AM lemma="hochschule" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="hochschula" src="auto">NNFS6-----A----</AM>
-<AM lemma="hochschule" src="auto">NNFP1-----A----</AM>
-<AM lemma="hochschule_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="hochschule" src="auto">NNFP4-----A----</AM>
-<AM lemma="hochschula" src="auto">NNFS3-----A----</AM>
-</tag>
+<tag lemma="hochschule_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-040-p10s3w12">
 <src.rf>manual</src.rf>

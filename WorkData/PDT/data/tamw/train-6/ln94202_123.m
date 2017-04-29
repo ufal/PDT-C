@@ -7965,15 +7965,7 @@
 <LM>w#w-ln94202-123-p15s5Aw2</LM>
 </w.rf>
 <form>vkl</form>
-<tag>
-<AM lemma="vkl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vkl-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="vknout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="vkl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="vkl" src="auto">NNIS4-----A----</AM>
-<AM lemma="vci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="vkl" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="vkl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-123-p15s5Aw3">
 <src.rf>manual</src.rf>
@@ -11618,19 +11610,7 @@
 <LM>w#w-ln94202-123-p23s1w2</LM>
 </w.rf>
 <form>Nadzam</form>
-<tag>
-<AM lemma="Nadzam_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nadzam" src="auto">Db-------------</AM>
-<AM lemma="Nadzam" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nadzam" src="auto">NNIS4-----A----</AM>
-<AM lemma="Nadzam_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nadzam_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Nadzam_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nadzam_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nadzam_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="nadzam" src="auto">NNMS1-----A----</AM>
-<AM lemma="nadzbe_,t_^(angl._jsem,_v_názvech_apod.)" src="auto">VB-S---1P-AA---</AM>
-</tag>
+<tag lemma="Nadzam_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-123-p23s1w3">
 <src.rf>manual</src.rf>
@@ -14671,16 +14651,7 @@
 <LM>w#w-ln94202-123-p27s6w2</LM>
 </w.rf>
 <form>hk</form>
-<tag>
-<AM lemma="hk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hk-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="hk-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="hk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="hk" src="auto">NNIS1-----A----</AM>
-<AM lemma="hk" src="auto">NNIS4-----A----</AM>
-<AM lemma="hk" src="auto">NNMS1-----A----</AM>
-<AM lemma="hk_;G" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="hk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-123-p27s6w3">
 <src.rf>manual</src.rf>

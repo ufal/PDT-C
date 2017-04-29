@@ -141,18 +141,7 @@
 <LM>w#w-ln94210-122-p2s1Aw10</LM>
 </w.rf>
 <form>French</form>
-<tag>
-<AM lemma="French_;w_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="French_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="French_;w_,t_^(French_Open)" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_;w_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="French_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="French_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fren" src="auto">AAFP2----1A----</AM>
-<AM lemma="Fren" src="auto">AAIP2----1A----</AM>
-<AM lemma="french" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="French_;w_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-122-p2s1Aw11">
 <src.rf>manual</src.rf>
@@ -1127,18 +1116,7 @@
 <LM>w#w-ln94210-122-p2s5w18</LM>
 </w.rf>
 <form>French</form>
-<tag>
-<AM lemma="French_;w_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="French_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="French_;w_,t_^(French_Open)" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_;w_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="French_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="French_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fren" src="auto">AAFP2----1A----</AM>
-<AM lemma="Fren" src="auto">AAIP2----1A----</AM>
-<AM lemma="french" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="French_;w_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-122-p2s5w19">
 <src.rf>manual</src.rf>
@@ -1250,18 +1228,7 @@
 <LM>w#w-ln94210-122-p2s5w32</LM>
 </w.rf>
 <form>Yzaga</form>
-<tag>
-<AM lemma="Yzaga_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Yzaga_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Yzago_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Yzago_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Yzago_;K" src="auto">NNNS2-----A----</AM>
-<AM lemma="Yzago_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Yzag_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Yzaga_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Yzaga_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="yzaga" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Yzaga_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-122-p2s5w33">
 <src.rf>manual</src.rf>
@@ -1609,18 +1576,7 @@
 <LM>w#w-ln94210-122-p3s3w16</LM>
 </w.rf>
 <form>French</form>
-<tag>
-<AM lemma="French_;w_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="French_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="French_;w_,t_^(French_Open)" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_;w_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="French_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="French_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fren" src="auto">AAFP2----1A----</AM>
-<AM lemma="Fren" src="auto">AAIP2----1A----</AM>
-<AM lemma="french" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="French_;w_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-122-p3s3w17">
 <src.rf>manual</src.rf>
@@ -4762,18 +4718,7 @@
 <LM>w#w-ln94210-122-p4s12w18</LM>
 </w.rf>
 <form>French</form>
-<tag>
-<AM lemma="French_;w_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="French_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="French_;w_,t_^(French_Open)" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_;w_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="French_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="French_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fren" src="auto">AAFP2----1A----</AM>
-<AM lemma="Fren" src="auto">AAIP2----1A----</AM>
-<AM lemma="french" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="French_;w_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-122-p4s12w19">
 <src.rf>manual</src.rf>
@@ -5129,18 +5074,7 @@
 <LM>w#w-ln94210-122-p4s14w2</LM>
 </w.rf>
 <form>Shield</form>
-<tag>
-<AM lemma="Shield_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Shield_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Shield_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Shield_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Shield-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shield_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shield_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Shield_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Shield_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="shield" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Shield_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-122-p4s14w3">
 <src.rf>manual</src.rf>
@@ -6099,18 +6033,7 @@
 <LM>w#w-ln94210-122-p5s4w11</LM>
 </w.rf>
 <form>Australian</form>
-<tag>
-<AM lemma="Australian_;w_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Australian_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australian_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australian_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Australian_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Australián_;Y_,x" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australián_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australianum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Australiano" src="auto">NNNP2-----A----</AM>
-<AM lemma="australian" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Australian_;w_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-122-p5s4w12">
 <src.rf>manual</src.rf>

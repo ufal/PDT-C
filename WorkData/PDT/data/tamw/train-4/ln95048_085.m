@@ -710,20 +710,7 @@
 <LM>w#w-ln95048-085-p2s3w33</LM>
 </w.rf>
 <form>European</form>
-<tag>
-<AM lemma="European_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="European_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="European_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="European_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="European_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="European_;R_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="european" src="auto">NNIS1-----A----</AM>
-<AM lemma="european" src="auto">NNIS4-----A----</AM>
-<AM lemma="european" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="European_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95048-085-p2s3w34">
 <src.rf>manual</src.rf>
@@ -743,18 +730,7 @@
 <LM>w#w-ln95048-085-p2s3w35</LM>
 </w.rf>
 <form>Solutions</form>
-<tag>
-<AM lemma="Solution_;K_,t" src="orig">NNNPX-----A----</AM>
-<AM lemma="Solution_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Solution_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Solutions_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Solution_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Solutions_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Solution_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Solution_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Solution_;K_,t" src="auto" recommended="1">NNNPX-----A----</AM>
-<AM lemma="solutions" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Solution_;K_,t" src="orig" selected="1">NNNPX-----A----</tag>
 </m>
 <m id="m-ln95048-085-p2s3w36">
 <src.rf>manual</src.rf>
@@ -802,18 +778,7 @@
 <LM>w#w-ln95048-085-p2s3w41</LM>
 </w.rf>
 <form>Stramilano</form>
-<tag>
-<AM lemma="Stramilano_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="Stramilano_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stramilano_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stramilano_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stramilano_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Stramilano" src="auto">NNNS4-----A----</AM>
-<AM lemma="Stramilano" src="auto">NNNS1-----A----</AM>
-<AM lemma="Stramilano_;m" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Stramilano_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="stramilano" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stramilano_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95048-085-p2s3w42">
 <src.rf>manual</src.rf>
@@ -1031,17 +996,7 @@
 <LM>w#w-ln95048-085-p2s4w26</LM>
 </w.rf>
 <form>prize</form>
-<tag>
-<AM lemma="prize_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="prize" src="auto">NNFS2-----A----</AM>
-<AM lemma="prize" src="auto">NNFS1-----A----</AM>
-<AM lemma="priga" src="auto">NNFS6-----A----</AM>
-<AM lemma="prize" src="auto" recommended="1">NNFP4-----A----</AM>
-<AM lemma="prize" src="auto">NNFP1-----A----</AM>
-<AM lemma="priz_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="priha" src="auto">NNFS6-----A----</AM>
-<AM lemma="priha" src="auto">NNFS3-----A----</AM>
-</tag>
+<tag lemma="prize_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95048-085-p2s4w27">
 <src.rf>manual</src.rf>
@@ -1049,17 +1004,7 @@
 <LM>w#w-ln95048-085-p2s4w27</LM>
 </w.rf>
 <form>money</form>
-<tag>
-<AM lemma="money_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="money_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="money_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="money_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="money_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="money_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="money-3_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="money_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="money_;S" src="auto">NNFXX-----A----</AM>
-</tag>
+<tag lemma="money_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln95048-085-p2s4w28">
 <src.rf>manual</src.rf>

@@ -2549,17 +2549,7 @@
 <LM>w#w-mf930713-026-p2s15w9</LM>
 </w.rf>
 <form>Renzem</form>
-<tag>
-<AM lemma="Renz_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Renz" src="auto">NNIS7-----A----</AM>
-<AM lemma="Renz_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Renz_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Rens" src="auto">NNIS7-----A----</AM>
-<AM lemma="Renzo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Renz_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Renz" src="auto">NNMS7-----A----</AM>
-<AM lemma="renzem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Renz_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930713-026-p2s15w10">
 <src.rf>manual</src.rf>

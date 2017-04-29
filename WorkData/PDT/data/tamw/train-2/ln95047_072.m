@@ -788,17 +788,7 @@
 <LM>w#w-ln95047-072-p3s1w25</LM>
 </w.rf>
 <form>Györgye</form>
-<tag>
-<AM lemma="György_;Y" src="orig">NNMS4-----A----</AM>
-<AM lemma="György_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="György_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="György_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Györgya_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="György_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="György_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="György_;R_,t_^(motorka)" src="auto">NNIP4-----A----</AM>
-<AM lemma="györgye" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="György_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95047-072-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1074,25 +1064,7 @@
 <LM>w#w-ln95047-072-p4s1w19</LM>
 </w.rf>
 <form>KSÚ</form>
-<tag>
-<AM lemma="KSÚ_:B_;K_,t_^(slovenská_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSÚ_:B_;K_,t_^(slovenská_strana)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="KSÚ_:B_;K_^(Český_statistický_úřad)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="KSÚ_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="KSÚ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KSÚ_:B_;K_^(Nár._kontrolní_úřad)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="KSÚ_:B_;K_^(Nár._kontrolní_úřad)" src="auto">NNIXX-----A----</AM>
-<AM lemma="KSÚ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KSÚ-1_:B_^(školský_úřad)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Džammú_;G_^(Ksú_a_Kašmír;_svazový_stát_v_Indii)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Ksý-2_,t_^(slov.)" src="auto">AAFS4----1A----</AM>
-<AM lemma="Ksý-2_,t" src="auto">AAFS4----1A----</AM>
-<AM lemma="Ksá_;G_,t" src="auto">AAFS4----1A----</AM>
-<AM lemma="Ksúčet_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Ksú_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ksú_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="ksú" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="KSÚ_:B_;K_,t_^(slovenská_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95047-072-p4s1w20">
 <src.rf>manual</src.rf>
@@ -2044,18 +2016,7 @@
 <LM>w#w-ln95047-072-p7s1w4</LM>
 </w.rf>
 <form>Serkadži</form>
-<tag>
-<AM lemma="Serkadži_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Serkadži_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Serkadža_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Serkadža_;G" src="auto">NNFS6-----A---1</AM>
-<AM lemma="Serkadža_;G" src="auto">NNFS3-----A---1</AM>
-<AM lemma="Serkadža_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Serkadž" src="auto">NNFS6-----A----</AM>
-<AM lemma="Serkadž" src="auto">NNFS3-----A----</AM>
-<AM lemma="Serkadže" src="auto">NNFS4-----A----</AM>
-<AM lemma="serkadži" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Serkadži_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95047-072-p7s1w5">
 <src.rf>manual</src.rf>

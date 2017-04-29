@@ -119,18 +119,7 @@
 <LM>w#w-ln94206-5-p2s1Bw6</LM>
 </w.rf>
 <form>THERMIE</form>
-<tag>
-<AM lemma="THERMIE_:B_;K_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="THERMIE_:B_;K_,t" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Thermie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Thermie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Thermie_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Thermie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Thermie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Thermia_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Thermia_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="thermie" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="THERMIE_:B_;K_,t" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94206-5-p2s1Bw7">
 <src.rf>manual</src.rf>

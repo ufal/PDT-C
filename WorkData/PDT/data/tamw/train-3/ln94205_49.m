@@ -1047,18 +1047,7 @@
 <LM>w#w-ln94205-49-p3s1w3</LM>
 </w.rf>
 <form>Bachna</form>
-<tag>
-<AM lemma="Bachna_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bachn_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bachna_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bachna_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bachen" src="auto">PLNP4----------</AM>
-<AM lemma="Bachen" src="auto">PLNP1----------</AM>
-<AM lemma="Bachen" src="auto">PLFS1----------</AM>
-<AM lemma="Bachno" src="auto">NNNS2-----A----</AM>
-<AM lemma="Bachn_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="bachna" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bachna_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-49-p3s1w4">
 <src.rf>manual</src.rf>

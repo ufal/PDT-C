@@ -69,21 +69,7 @@
 <LM>w#w-ln94200-24-p2s1Aw3</LM>
 </w.rf>
 <form>ip</form>
-<tag>
-<AM lemma="ip-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ip" src="auto">NNIS1-----A----</AM>
-<AM lemma="ip" src="auto">NNIS4-----A----</AM>
-<AM lemma="ip-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ip_;K" src="auto" recommended="1">NNISX-----A----</AM>
-<AM lemma="ip_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ip_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ip_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="ip_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ip_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="ipage_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="ipodnik_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ipopisný_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="ip-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-24-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -895,25 +881,7 @@
 <LM>w#w-ln94200-24-p3s4w13</LM>
 </w.rf>
 <form>ČEB</form>
-<tag>
-<AM lemma="ČEB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČEB_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="EB-2_:B_;K_^(ČEB_Brokers)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="ČEB-2_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČEB-2_:B_;K_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="ČEB_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČEB_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČEB_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Čba" src="auto">NNFP2-----A----</AM>
-<AM lemma="Čeb_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čeb" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čeb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čeb_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čba_^(všechny_významy)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Čeby_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Čebo_,a" src="auto">J^------------2</AM>
-<AM lemma="čeb" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ČEB_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94200-24-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1051,25 +1019,7 @@
 <LM>w#w-ln94200-24-p3s5w6</LM>
 </w.rf>
 <form>ČEB</form>
-<tag>
-<AM lemma="ČEB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČEB_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="EB-2_:B_;K_^(ČEB_Brokers)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="ČEB-2_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČEB-2_:B_;K_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="ČEB_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČEB_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČEB_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Čba" src="auto">NNFP2-----A----</AM>
-<AM lemma="Čeb_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čeb" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čeb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čeb_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čba_^(všechny_významy)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Čeby_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Čebo_,a" src="auto">J^------------2</AM>
-<AM lemma="čeb" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ČEB_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94200-24-p3s5w7">
 <src.rf>manual</src.rf>

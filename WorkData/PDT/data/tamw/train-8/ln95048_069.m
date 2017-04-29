@@ -1055,18 +1055,7 @@
 <LM>w#w-ln95048-069-p2s4w12</LM>
 </w.rf>
 <form>Scandinavia</form>
-<tag>
-<AM lemma="Scandinavia_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Scandinavia_;K" src="auto">NNFS1-----A---1</AM>
-<AM lemma="Scandinavius_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Scandinavium" src="auto">NNNP4-----A----</AM>
-<AM lemma="Scandinavio_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Scandinavie_;G" src="auto">NNFS1-----A---1</AM>
-<AM lemma="Scandinavia_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Scandinavia_;K_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Scandinavia_;K_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="scandinavia" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Scandinavia_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-069-p2s4w13">
 <src.rf>manual</src.rf>
@@ -5640,17 +5629,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Thorbjorn</form>
-<tag>
-<AM lemma="Thorbjorn_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Thorbjorn_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Thorbjorn_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Thorbjorn_,a" src="auto">NNIS4-----A----</AM>
-<AM lemma="Thorbjorn" src="auto">NNIS4-----A----</AM>
-<AM lemma="Thorbjorn" src="auto">NNIS1-----A----</AM>
-<AM lemma="Thorbjorn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Thorbjorn-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="thorbjorn" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Thorbjorn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-069-p9s1w11">
 <src.rf>manual</src.rf>

@@ -365,26 +365,7 @@
 <LM>w#w-ln94208-115-p1s3Aw5</LM>
 </w.rf>
 <form>ČAAF</form>
-<tag>
-<AM lemma="ČAAF_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČAAF_:B_;K_;w_^(Mez._atletická_federace)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČAAF_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ČAAF_:B_;K_,t_^(Severoamer._fotbalová_konfederace)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČAAF-1_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČAAF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČAAF_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČAAF_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ČAAF_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Čaaf" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čaaf" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čaaf" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čaaf-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Čaaf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čaaf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čaaf_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čaaf_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="čaaf" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ČAAF_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94208-115-p1s3Aw6">
 <src.rf>manual</src.rf>

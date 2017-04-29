@@ -79,18 +79,7 @@
 <LM>w#w-ln94202-99-p2s1Bw3</LM>
 </w.rf>
 <form>Tour</form>
-<tag>
-<AM lemma="Tour_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tour_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Toura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Tour_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tour_;R_,t" src="auto">PSXXX-X2-------</AM>
-<AM lemma="tour" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tour_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-99-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -308,18 +297,7 @@
 <LM>w#w-ln94202-99-p2s2w12</LM>
 </w.rf>
 <form>Tour</form>
-<tag>
-<AM lemma="Tour_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tour_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Toura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Tour_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tour_;R_,t" src="auto">PSXXX-X2-------</AM>
-<AM lemma="tour" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tour_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-99-p2s2w13">
 <src.rf>manual</src.rf>
@@ -474,17 +452,7 @@
 <LM>w#w-ln94202-99-p2s2w31</LM>
 </w.rf>
 <form>salbutamolu</form>
-<tag>
-<AM lemma="salbutamol" src="orig">NNIS2-----A----</AM>
-<AM lemma="salbutamol" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="salbutamol" src="auto">NNIS6-----A----</AM>
-<AM lemma="salbutamola" src="auto">NNFS4-----A----</AM>
-<AM lemma="salbutamol" src="auto">NNIS3-----A----</AM>
-<AM lemma="salbutamol_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="salbutamol_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="salbutamol_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="salbutamol" src="auto">NNIS6-----A---1</AM>
-</tag>
+<tag lemma="salbutamol" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94202-99-p2s2w32">
 <src.rf>manual</src.rf>

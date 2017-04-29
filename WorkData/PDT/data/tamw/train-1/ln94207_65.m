@@ -4219,17 +4219,7 @@
 <LM>w#w-ln94207-65-p10s2w10</LM>
 </w.rf>
 <form>tovaryšč</form>
-<tag>
-<AM lemma="tovaryšč_,t" src="orig">NNMS5-----A----</AM>
-<AM lemma="tovaryšč_,t" src="auto" recommended="1">NNMS5-----A----</AM>
-<AM lemma="tovaryšč_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tovaryšč" src="auto">NNMS1-----A----</AM>
-<AM lemma="tovaryšč" src="auto">NNIS1-----A----</AM>
-<AM lemma="tovaryšč" src="auto">NNIS4-----A----</AM>
-<AM lemma="tovaryšč_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="tovaryšč-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="tovaryšč" src="auto">NNFS4-----A----</AM>
-</tag>
+<tag lemma="tovaryšč_,t" src="orig" selected="1">NNMS5-----A----</tag>
 </m>
 <m id="m-ln94207-65-p10s2w11">
 <src.rf>manual</src.rf>

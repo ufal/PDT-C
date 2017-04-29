@@ -432,18 +432,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Expansion</form>
-<tag>
-<AM lemma="Expansion_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Expansion_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Expansion_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Expansion_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Expansion_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Expansion" src="auto">NNIS1-----A----</AM>
-<AM lemma="Expansion_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Expansión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Expansión" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="expansion" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Expansion_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-012-p4s2w5">
 <src.rf>manual</src.rf>
@@ -3888,18 +3877,7 @@
 <LM>w#w-cmpr9413-012-p14s2w17</LM>
 </w.rf>
 <form>Expansion</form>
-<tag>
-<AM lemma="Expansion_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Expansion_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Expansion_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Expansion_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Expansion_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Expansion" src="auto">NNIS1-----A----</AM>
-<AM lemma="Expansion_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Expansión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Expansión" src="auto">NNIS1-----A----</AM>
-<AM lemma="expansion" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Expansion_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-012-p14s2w18">
 <src.rf>manual</src.rf>

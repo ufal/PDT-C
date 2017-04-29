@@ -1303,18 +1303,7 @@
 <LM>w#w-ln94203-97-p3s2w9</LM>
 </w.rf>
 <form>makroprůhledy</form>
-<tag>
-<AM lemma="makroprůhled" src="orig">NNIP7-----A----</AM>
-<AM lemma="makroprůhled" src="auto">NNIP1-----A----</AM>
-<AM lemma="makroprůhled" src="auto">NNIP4-----A----</AM>
-<AM lemma="makroprůhled" src="auto">NNIP5-----A----</AM>
-<AM lemma="makroprůhled" src="auto" recommended="1">NNIP7-----A----</AM>
-<AM lemma="makroprůhleda" src="auto">NNFS2-----A----</AM>
-<AM lemma="makroprůhleda" src="auto">NNMS2-----A----</AM>
-<AM lemma="makroprůhleda_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="makroprůhleda_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="makroprůhleda_;Y" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="makroprůhled" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-ln94203-97-p3s2w10">
 <src.rf>manual</src.rf>

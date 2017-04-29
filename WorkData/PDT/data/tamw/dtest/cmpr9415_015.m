@@ -1825,18 +1825,7 @@
 <LM>w#w-cmpr9415-015-p11s3w10</LM>
 </w.rf>
 <form>Dalsniba</form>
-<tag>
-<AM lemma="Dalsniba_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Dalsniba_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dalsniba-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Dalsniba" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Dalsniba_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dalsniba_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dalsnib_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Dalsniba_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dalsnib_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="dalsniba" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dalsniba_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-015-p11s3w11">
 <src.rf>manual</src.rf>

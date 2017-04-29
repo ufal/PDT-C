@@ -85,15 +85,7 @@
 <LM>w#w-mf920922-004-p2s1w3</LM>
 </w.rf>
 <form>jsl</form>
-<tag>
-<AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jsl-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jsnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="jst" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jsl" src="auto">NNIS1-----A----</AM>
-<AM lemma="jsl" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="jsl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920922-004-p2s1w4">
 <src.rf>manual</src.rf>
@@ -295,18 +287,7 @@
 <LM>w#w-mf920922-004-p2s2w23</LM>
 </w.rf>
 <form>Chanan</form>
-<tag>
-<AM lemma="Chanan_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chanan_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chanan_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chanan_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Chanan-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chanan" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chanan_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chanany_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Chanan" src="auto">NNIS1-----A----</AM>
-<AM lemma="chanan" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chanan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-004-p2s2w24">
 <src.rf>manual</src.rf>
@@ -1382,18 +1363,7 @@
 <LM>w#w-mf920922-004-p2s8w1</LM>
 </w.rf>
 <form>Chanan</form>
-<tag>
-<AM lemma="Chanan_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chanan_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chanan_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chanan_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Chanan-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chanan" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chanan_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chanany_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Chanan" src="auto">NNIS1-----A----</AM>
-<AM lemma="chanan" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Chanan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-004-p2s8w2">
 <src.rf>manual</src.rf>
@@ -1513,18 +1483,7 @@
 <LM>w#w-mf920922-004-p2s8w16</LM>
 </w.rf>
 <form>Rechovot</form>
-<tag>
-<AM lemma="Rechovot_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Rechovot" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rechovot_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Rechovot_,t" src="auto">TT-------------</AM>
-<AM lemma="Rechovot_,t" src="auto">NNMP2-----A----</AM>
-<AM lemma="Rechovot" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rechovot" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rechovota" src="auto">NNFP2-----A----</AM>
-<AM lemma="Rechovot_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rechovot" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rechovot_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-004-p2s8w17">
 <src.rf>manual</src.rf>

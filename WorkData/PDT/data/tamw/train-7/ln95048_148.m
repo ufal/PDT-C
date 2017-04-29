@@ -705,18 +705,7 @@
 <LM>w#w-ln95048-148-p3s2w10</LM>
 </w.rf>
 <form>Voscherau</form>
-<tag>
-<AM lemma="Voscherau_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Voscherau_;m_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Voscherau_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Voscherau_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Voscherau_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="au-2_,t_^(Voscherau-pair)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Voscherao_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Voscherau_;S_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Voscherau_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="voscherau" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Voscherau_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-148-p3s2w11">
 <src.rf>manual</src.rf>

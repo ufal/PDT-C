@@ -985,18 +985,7 @@
 <LM>w#w-ln94211-80-p3s3w5</LM>
 </w.rf>
 <form>Melbera</form>
-<tag>
-<AM lemma="Melber_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Melber_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Melber_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Melbera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Melber" src="auto">NNMS4-----A----</AM>
-<AM lemma="Melber" src="auto">NNMS2-----A----</AM>
-<AM lemma="Melbera" src="auto">NNFS1-----A----</AM>
-<AM lemma="Melber_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Melbero" src="auto">NNNS2-----A----</AM>
-<AM lemma="melbera" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Melber_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-80-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1804,18 +1793,7 @@
 <LM>w#w-ln94211-80-p5s2w20</LM>
 </w.rf>
 <form>Guttmachera</form>
-<tag>
-<AM lemma="Guttmacher_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Guttmacher_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Guttmacher_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Guttmachera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Guttmacher" src="auto">NNMS4-----A----</AM>
-<AM lemma="Guttmacher" src="auto">NNMS2-----A----</AM>
-<AM lemma="Guttmachera" src="auto">NNFS1-----A----</AM>
-<AM lemma="Guttmacher_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Guttmachero" src="auto">NNNS2-----A----</AM>
-<AM lemma="guttmachera" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Guttmacher_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-80-p5s2w21">
 <src.rf>manual</src.rf>

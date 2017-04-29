@@ -295,18 +295,7 @@
 <LM>w#w-ln95046-049-p2s2w2</LM>
 </w.rf>
 <form>Editions</form>
-<tag>
-<AM lemma="Edition_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Edition_;K_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Edition_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Editions_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Edition_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Editions_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Edition_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Edition_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Edition_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="editions" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Edition_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln95046-049-p2s2w3">
 <src.rf>manual</src.rf>
@@ -322,16 +311,7 @@
 <LM>w#w-ln95046-049-p2s2w4</LM>
 </w.rf>
 <form>Minuit</form>
-<tag>
-<AM lemma="Minuit_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Minuit_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Minuit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Minuit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Minuita" src="auto">NNFP2-----A----</AM>
-<AM lemma="Minuit" src="auto">NNIS4-----A----</AM>
-<AM lemma="Minuit" src="auto">NNIS1-----A----</AM>
-<AM lemma="minuit" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Minuit_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95046-049-p2s2w5">
 <src.rf>manual</src.rf>
@@ -387,18 +367,7 @@
 <LM>w#w-ln95046-049-p2s2w12</LM>
 </w.rf>
 <form>Eleutheria</form>
-<tag>
-<AM lemma="Eleutheria_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Eleutherium" src="auto">NNNS2-----A----</AM>
-<AM lemma="Eleutherium" src="auto">NNNP4-----A----</AM>
-<AM lemma="Eleutheria_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eleutherium" src="auto">NNNP1-----A----</AM>
-<AM lemma="Eleutheria_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Eleutherio_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Eleutherie_;G" src="auto">NNFS1-----A---1</AM>
-<AM lemma="Austria_;K_,t_^(fotbalový_klub_Eleutheria_Wien)" src="auto">NNFS1-----A----</AM>
-<AM lemma="eleutheria" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Eleutheria_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-049-p2s2w13">
 <src.rf>manual</src.rf>

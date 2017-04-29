@@ -153,18 +153,7 @@
 <LM>w#w-ln94202-112-p2s1Cw4</LM>
 </w.rf>
 <form>Mäkkinen</form>
-<tag>
-<AM lemma="Mäkkinen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mäkkinen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="vinný-1_^(kdo_je_Mäkkinen/vinna)" src="auto">ACYS------A----</AM>
-<AM lemma="Mäkkine_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Mäkkinný" src="auto">ACYS------A----</AM>
-<AM lemma="Mäkkinna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mäkkin_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Mäkkinen" src="auto">PDYS1----------</AM>
-<AM lemma="Mäkkinen" src="auto">PDIS4----------</AM>
-<AM lemma="mäkkinen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mäkkinen_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-112-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -332,18 +321,7 @@
 <LM>w#w-ln94202-112-p3s1w4</LM>
 </w.rf>
 <form>Puuppoly</form>
-<tag>
-<AM lemma="Puuppola_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Puuppola" src="auto">NNFS2-----A----</AM>
-<AM lemma="Puuppol" src="auto">NNIP4-----A----</AM>
-<AM lemma="Puuppol" src="auto">NNIP1-----A----</AM>
-<AM lemma="Puuppola_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Puuppola" src="auto">NNFP4-----A----</AM>
-<AM lemma="Puuppola" src="auto">NNFP1-----A----</AM>
-<AM lemma="Puuppol" src="auto">NNIP7-----A----</AM>
-<AM lemma="Puuppola_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="puuppoly" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Puuppola_;G" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-112-p3s1w5">
 <src.rf>manual</src.rf>
@@ -391,18 +369,7 @@
 <LM>w#w-ln94202-112-p3s1w10</LM>
 </w.rf>
 <form>Seppo</form>
-<tag>
-<AM lemma="Seppo_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Seppo_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Seppo_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Seppo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Seppo-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Seppo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Seppo" src="auto">NNNS4-----A----</AM>
-<AM lemma="po-2_:B_,x_^(Seppondělí)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Seppo_;m" src="auto">NNNXX-----A----</AM>
-<AM lemma="seppo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Seppo_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94202-112-p3s1w11">
 <src.rf>manual</src.rf>
@@ -410,18 +377,7 @@
 <LM>w#w-ln94202-112-p3s1w11</LM>
 </w.rf>
 <form>Harjannem</form>
-<tag>
-<AM lemma="Harjann_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Harjann" src="auto">NNIS7-----A----</AM>
-<AM lemma="Harjann_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Harjann_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Harjann" src="auto">NNMS7-----A----</AM>
-<AM lemma="Harjann_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Harjanno" src="auto">NNNS7-----A----</AM>
-<AM lemma="Harjanen" src="auto">NNIS7-----A----</AM>
-<AM lemma="Harjann_;E" src="auto">NNMS7-----A----</AM>
-<AM lemma="harjannem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Harjann_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94202-112-p3s1w12">
 <src.rf>manual</src.rf>

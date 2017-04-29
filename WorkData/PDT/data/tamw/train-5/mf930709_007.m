@@ -1882,19 +1882,7 @@
 <LM>w#w-mf930709-007-p6s3w2</LM>
 </w.rf>
 <form>Seifra</form>
-<tag>
-<AM lemma="Seifer_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Seifer_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Seifr" src="auto">NNMS2-----A----</AM>
-<AM lemma="Seifr" src="auto">NNMS4-----A----</AM>
-<AM lemma="Seifr_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Seifr_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Seifr_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Seifra" src="auto">NNFS1-----A----</AM>
-<AM lemma="Seifra_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="seifra" src="auto">NNMS1-----A----</AM>
-<AM lemma="seifrater_:B_,t" src="auto">NNMXX-----A---8</AM>
-</tag>
+<tag lemma="Seifer_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-007-p6s3w3">
 <src.rf>manual</src.rf>

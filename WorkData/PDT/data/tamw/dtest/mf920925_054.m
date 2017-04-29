@@ -159,16 +159,7 @@
 <LM>w#w-mf920925-054-p2s2w13</LM>
 </w.rf>
 <form>Vanderaerden</form>
-<tag>
-<AM lemma="Vanderaerden_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vanderaerdna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vanderaerden_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vanderaerden_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vanderaerdnout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Vanderaerdný" src="auto">ACYS------A----</AM>
-<AM lemma="Vanderaerden_^(jednotka_času)" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="vanderaerden" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vanderaerden_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-054-p2s2w14">
 <src.rf>manual</src.rf>
@@ -250,17 +241,7 @@
 <LM>w#w-mf920925-054-p2s3w1</LM>
 </w.rf>
 <form>Nelissen</form>
-<tag>
-<AM lemma="Nelissen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nelissen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nelissen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nelissen_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nelissen-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nelissna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Nelissit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Nelissen_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="nelissen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nelissen_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-054-p2s3w2">
 <src.rf>manual</src.rf>
@@ -350,17 +331,7 @@
 <LM>w#w-mf920925-054-p2s4w3</LM>
 </w.rf>
 <form>Nelissen</form>
-<tag>
-<AM lemma="Nelissen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nelissen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nelissen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nelissen_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nelissen-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nelissna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Nelissit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Nelissen_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="nelissen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nelissen_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-054-p2s4w4">
 <src.rf>manual</src.rf>
@@ -394,13 +365,7 @@
 <LM>w#w-mf920925-054-p4s1w3</LM>
 </w.rf>
 <form>Tamanoi</form>
-<tag>
-<AM lemma="Tamanoi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tamanoe" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tamanoe" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tamanoi_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="tamanoi" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tamanoi_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-054-p4s1w4">
 <src.rf>manual</src.rf>

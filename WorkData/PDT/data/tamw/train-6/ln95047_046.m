@@ -67,18 +67,7 @@
 <LM>w#w-ln95047-046-p1s1w7</LM>
 </w.rf>
 <form>Artagnana</form>
-<tag>
-<AM lemma="Artagnan_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Artagnan_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Artagnan_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Artagnan_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Artagnan_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Artagnan" src="auto">NNMS4-----A----</AM>
-<AM lemma="Artagnan" src="auto">NNMS2-----A----</AM>
-<AM lemma="Artagnana" src="auto">NNFS1-----A----</AM>
-<AM lemma="Artagnan_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="artagnana" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Artagnan_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-046-p1s1w8">
 <src.rf>manual</src.rf>

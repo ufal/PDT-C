@@ -101,16 +101,7 @@
 <LM>w#w-ln94202-4-p2s1Aw5</LM>
 </w.rf>
 <form>CESTAT</form>
-<tag>
-<AM lemma="CESTAT_:B_;K_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CESTAT_:B_;K_,t" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="CESTAT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Cestat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Cestat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Cestat" src="auto">Vf--------A----</AM>
-<AM lemma="Cestat_:T_:W" src="auto">Vf--------A----</AM>
-<AM lemma="cestat" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="CESTAT_:B_;K_,t" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94202-4-p2s1Aw6">
 <src.rf>manual</src.rf>

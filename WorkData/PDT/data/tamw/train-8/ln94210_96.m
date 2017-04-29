@@ -3022,17 +3022,7 @@
 <LM>w#w-ln94210-96-p4s11w9</LM>
 </w.rf>
 <form>nelyričnost</form>
-<tag>
-<AM lemma="lyričnost" src="orig">NNFS1-----N----</AM>
-<AM lemma="nelyričnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="nelyričnost_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="nelyričnost" src="auto">NNFS4-----A----</AM>
-<AM lemma="nelyričnost" src="auto">NNFS1-----A----</AM>
-<AM lemma="lyričnost_^(*3ý)" src="auto">NNFS4-----N----</AM>
-<AM lemma="lyričnost_^(*3ý)" src="auto" recommended="1">NNFS1-----N----</AM>
-<AM lemma="nelyričnost" src="auto">NNIS4-----A----</AM>
-<AM lemma="nelyričnost_,a_^(*3ý)" src="auto">NNFS4-----A----</AM>
-</tag>
+<tag lemma="lyričnost" src="orig" selected="1">NNFS1-----N----</tag>
 </m>
 <m id="m-ln94210-96-p4s11w10">
 <src.rf>manual</src.rf>
@@ -3194,17 +3184,7 @@
 <LM>w#w-ln94210-96-p4s12w15</LM>
 </w.rf>
 <form>spojovačky</form>
-<tag>
-<AM lemma="spojovačka" src="orig">NNFP1-----A----</AM>
-<AM lemma="spojovačka" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="spojovačka" src="auto">NNFS2-----A----</AM>
-<AM lemma="spojovačka" src="auto">NNFP4-----A----</AM>
-<AM lemma="spojovačka_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="spojovaček" src="auto">NNIP1-----A----</AM>
-<AM lemma="spojovaček" src="auto">NNIP4-----A----</AM>
-<AM lemma="spojovačka_^(*2)" src="auto">NNFP4-----A----</AM>
-<AM lemma="spojovačka_^(*2)" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="spojovačka" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94210-96-p4s12w16">
 <src.rf>manual</src.rf>

@@ -135,18 +135,7 @@
 <LM>w#w-ln95049-140-p2s1Bw9</LM>
 </w.rf>
 <form>Responsible</form>
-<tag>
-<AM lemma="Responsible_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Responsible_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Responsible_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Responsible_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="bubble-1_;c_,t_^(Responsible-jet)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Gamble-1_;K_,t_^(angl.;_firma_Procter_and_Responsible)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Responsibl" src="auto">NNIP1-----A----</AM>
-<AM lemma="Responsible_;m" src="auto">NNNXX-----A----</AM>
-<AM lemma="Responsible_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="responsible" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Responsible_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95049-140-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -609,22 +598,7 @@
 <LM>w#w-ln95049-140-p3s1w20</LM>
 </w.rf>
 <form>CEFIC</form>
-<tag>
-<AM lemma="CEFIC_:B_;K_,t_^(Mez._org._svazů_chemie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEFIC_:B_;K_,t_^(Mez._org._svazů_chemie)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="IC-7_:B_;K_^(CEFIC_Banka)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="CEFIC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CEFIC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Cefic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Scientific-2_;R_,t_^(např._časopis_Cefic_American)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cefic_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cefic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cefice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cefice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cefic_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cefice_^(*3ík)" src="auto">NNFP2-----A----</AM>
-<AM lemma="cefic" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="CEFIC_:B_;K_,t_^(Mez._org._svazů_chemie)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95049-140-p3s1w21">
 <src.rf>manual</src.rf>
@@ -1583,23 +1557,7 @@
 <LM>w#w-ln95049-140-p6s1w17</LM>
 </w.rf>
 <form>TRINS</form>
-<tag>
-<AM lemma="TRINS_:B_;m" src="orig">NNIXX-----A---8</AM>
-<AM lemma="TRINS_:B_;K_^(Fronta_nár._spásy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TRINS_:B_;K_^(Moravská_národní_strana)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="TRINS_:B_;K_^(Ukrajinské_národní_shromáždění)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="TRINS_:B_;m" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Trin_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Trin_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Trin_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Trins_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Trins_;G" src="auto">NNNPX-----A----</AM>
-<AM lemma="Trins_;K" src="auto">NNISX-----A----</AM>
-<AM lemma="Trins_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Trins_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="trins" src="auto">NNMS1-----A----</AM>
-<AM lemma="trins-2`nanosekunda_:B" src="auto">NNFXX-----A---8</AM>
-</tag>
+<tag lemma="TRINS_:B_;m" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln95049-140-p6s1w18">
 <src.rf>manual</src.rf>

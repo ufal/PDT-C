@@ -19,18 +19,7 @@
 <LM>w#w-mf930709-092-p1s1Aw1</LM>
 </w.rf>
 <form>Skibby</form>
-<tag>
-<AM lemma="Skibby_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Skibby_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Skibby_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Skibby_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Skibby" src="auto">NNNXX-----A----</AM>
-<AM lemma="Skibby" src="auto">NNFXX-----A----</AM>
-<AM lemma="Skibba" src="auto">NNFS2-----A----</AM>
-<AM lemma="Skibba" src="auto">NNFP4-----A----</AM>
-<AM lemma="Skibba" src="auto">NNFP1-----A----</AM>
-<AM lemma="skibby" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Skibby_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-092-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -111,18 +100,7 @@
 <LM>w#w-mf930709-092-p1s1Cw3</LM>
 </w.rf>
 <form>Skibby</form>
-<tag>
-<AM lemma="Skibby_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Skibby_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Skibby_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Skibby_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Skibby" src="auto">NNNXX-----A----</AM>
-<AM lemma="Skibby" src="auto">NNFXX-----A----</AM>
-<AM lemma="Skibba" src="auto">NNFS2-----A----</AM>
-<AM lemma="Skibba" src="auto">NNFP4-----A----</AM>
-<AM lemma="Skibba" src="auto">NNFP1-----A----</AM>
-<AM lemma="skibby" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Skibby_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-092-p1s1Cw4">
 <src.rf>manual</src.rf>
@@ -226,18 +204,7 @@
 <LM>w#w-mf930709-092-p1s1Cw16</LM>
 </w.rf>
 <form>Tour</form>
-<tag>
-<AM lemma="Tour_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tour_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Toura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Tour_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tour_;R_,t" src="auto">PSXXX-X2-------</AM>
-<AM lemma="tour" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tour_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930709-092-p1s1Cw17">
 <src.rf>manual</src.rf>
@@ -309,18 +276,7 @@
 <LM>w#w-mf930709-092-p1s1Cw23</LM>
 </w.rf>
 <form>Avranches</form>
-<tag>
-<AM lemma="Avranches_;G" src="orig">NNFPX-----A----</AM>
-<AM lemma="Avranches_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Avranches_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Avranches_;K_,t" src="auto">AAISX----1A----</AM>
-<AM lemma="Avranches_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Avranches_;G" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Avranches_;G" src="auto">NNFP1-----A----</AM>
-<AM lemma="Avranches" src="auto">NNIS4-----A----</AM>
-<AM lemma="Avranche_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="avranches" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Avranches_;G" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-mf930709-092-p1s1Cw24">
 <src.rf>manual</src.rf>

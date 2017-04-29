@@ -303,18 +303,7 @@
 <LM>w#w-ln95046-117-p2s1Bw30</LM>
 </w.rf>
 <form>Binnereederei</form>
-<tag>
-<AM lemma="Binnereederei_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Binnereederei_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Binnereederei_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Binnereederei_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Binnereederei_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Binnereederei_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Dei_;S_^(Binnereederei-Anang)" src="auto">A2--------A----</AM>
-<AM lemma="Binnereedereum" src="auto">NNNP7-----A----</AM>
-<AM lemma="Binnereederei_;b_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="binnereederei" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Binnereederei_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95046-117-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -725,22 +714,7 @@
 <LM>w#w-ln95046-117-p5s1w1</LM>
 </w.rf>
 <form>ČPL</form>
-<tag>
-<AM lemma="ČPL_:B_;K_^(Československá_plavba_labská)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČPL_:B_;K_^(Československá_plavba_labská)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ČPL_:B_;G" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ČPL_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČPL_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČPL_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Čpnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="Čpl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čpl_:B_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Čpl" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čpt_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Čpt_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Čpt" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="čpl" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ČPL_:B_;K_^(Československá_plavba_labská)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95046-117-p5s1w2">
 <src.rf>manual</src.rf>

@@ -433,18 +433,7 @@
 <LM>w#w-ln94210-127-p2s2w18</LM>
 </w.rf>
 <form>Woodbridgem</form>
-<tag>
-<AM lemma="Woodbridge_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Woodbridg" src="auto">NNIS7-----A----</AM>
-<AM lemma="Woodbridg_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Woodbridg_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Woodbridg" src="auto">NNMS7-----A----</AM>
-<AM lemma="Woodbridge_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Woodbridgo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Woodbridg_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Woodbridge_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="woodbridgem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Woodbridge_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94210-127-p2s2w19">
 <src.rf>manual</src.rf>
@@ -1255,18 +1244,7 @@
 <LM>w#w-ln94210-127-p3s4w21</LM>
 </w.rf>
 <form>Valerim</form>
-<tag>
-<AM lemma="Valeri_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Valeri_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Valeriminální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Valerim_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Valerim" src="auto">NNIS4-----A----</AM>
-<AM lemma="Valerim" src="auto">NNIS1-----A----</AM>
-<AM lemma="Valerim_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Valerim_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Valerim_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="valerim" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Valeri_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94210-127-p3s4w22">
 <src.rf>manual</src.rf>
@@ -1752,18 +1730,7 @@
 <LM>w#w-ln94210-127-p3s7w11</LM>
 </w.rf>
 <form>French</form>
-<tag>
-<AM lemma="French_;w_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="French_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="French_;w_,t_^(French_Open)" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_;w_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="French_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="French_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fren" src="auto">AAFP2----1A----</AM>
-<AM lemma="Fren" src="auto">AAIP2----1A----</AM>
-<AM lemma="french" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="French_;w_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-127-p3s7w12">
 <src.rf>manual</src.rf>
@@ -3569,25 +3536,7 @@
 <LM>w#w-ln94210-127-p4s6w17</LM>
 </w.rf>
 <form>All</form>
-<tag>
-<AM lemma="All_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="All_;m_,t" src="auto">PLNS4----------</AM>
-<AM lemma="All_;K_,t" src="auto">PLXXX----------</AM>
-<AM lemma="All_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="All_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="All_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="All_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="All_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="All_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="all_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="all_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;w_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="all_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="all_,t_^(řec._jinak)" src="auto">Db-------------</AM>
-</tag>
+<tag lemma="All_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-127-p4s6w18">
 <src.rf>manual</src.rf>
@@ -3595,18 +3544,7 @@
 <LM>w#w-ln94210-127-p4s6w18</LM>
 </w.rf>
 <form>England</form>
-<tag>
-<AM lemma="England_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="England_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="England_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="England_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="England_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Englanda_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="England_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="England_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Englando" src="auto">NNNP2-----A----</AM>
-<AM lemma="england" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="England_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-127-p4s6w19">
 <src.rf>manual</src.rf>
@@ -4451,18 +4389,7 @@
 <LM>w#w-ln94210-127-p5s3w14</LM>
 </w.rf>
 <form>Australian</form>
-<tag>
-<AM lemma="Australian_;w_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Australian_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australian_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australian_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Australian_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Australián_;Y_,x" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australián_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australianum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Australiano" src="auto">NNNP2-----A----</AM>
-<AM lemma="australian" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Australian_;w_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-127-p5s3w15">
 <src.rf>manual</src.rf>
@@ -4526,18 +4453,7 @@
 <LM>w#w-ln94210-127-p5s3w22</LM>
 </w.rf>
 <form>French</form>
-<tag>
-<AM lemma="French_;w_,t_^(French_Open)" src="orig">AAXXX----1A----</AM>
-<AM lemma="French_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="French_;w_,t_^(French_Open)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="French_;w_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="French_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="French_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Fren" src="auto">AAFP2----1A----</AM>
-<AM lemma="Fren" src="auto">AAIP2----1A----</AM>
-<AM lemma="french" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="French_;w_,t_^(French_Open)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-127-p5s3w23">
 <src.rf>manual</src.rf>

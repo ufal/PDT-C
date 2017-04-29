@@ -767,18 +767,7 @@
 <LM>w#w-ln94209-10-p2s4w13</LM>
 </w.rf>
 <form>Rafáhu</form>
-<tag>
-<AM lemma="Rafáh_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Rafáha" src="auto">NNFS4-----A----</AM>
-<AM lemma="Rafáh_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Rafáha_^(na_vážení;_hmotnost)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Rafáha_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rafáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="auto">NNIS2-----A----</AM>
-<AM lemma="Rafáh" src="auto">NNIS2-----A----</AM>
-<AM lemma="Rafáh" src="auto">NNIS6-----A----</AM>
-<AM lemma="Rafáh" src="auto">NNIS3-----A----</AM>
-<AM lemma="rafáhu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rafáh_;G" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94209-10-p2s4w14">
 <src.rf>manual</src.rf>

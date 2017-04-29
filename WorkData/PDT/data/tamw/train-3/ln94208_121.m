@@ -515,18 +515,7 @@
 <LM>w#w-ln94208-121-p2s3w22</LM>
 </w.rf>
 <form>Scalesem</form>
-<tag>
-<AM lemma="Scales_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Scales" src="auto">NNIS7-----A----</AM>
-<AM lemma="Scales_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Scales_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Scaleso" src="auto">NNNS7-----A----</AM>
-<AM lemma="Scales_;S_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Scales_;K" src="auto">NNIS7-----A----</AM>
-<AM lemma="Scales_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Scales" src="auto">NNMS7-----A----</AM>
-<AM lemma="scalesem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Scales_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94208-121-p2s3w23">
 <src.rf>manual</src.rf>

@@ -589,16 +589,7 @@
 <LM>w#w-ln94211-116-p3s2w5</LM>
 </w.rf>
 <form>Trade</form>
-<tag>
-<AM lemma="Trade_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Trást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Trade_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Trade_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Trade_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Made_;m_,t_^(Czech_Trade)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Trad-1" src="auto">RR--7----------</AM>
-<AM lemma="trade" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Trade_;K" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94211-116-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1100,16 +1091,7 @@
 <LM>w#w-ln94211-116-p3s5w2</LM>
 </w.rf>
 <form>Trade</form>
-<tag>
-<AM lemma="Trade" src="orig">NNIXX-----A----</AM>
-<AM lemma="Trást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Trade_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Trade_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Trade_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Made_;m_,t_^(Czech_Trade)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Trad-1" src="auto">RR--7----------</AM>
-<AM lemma="trade" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Trade" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94211-116-p3s5w3">
 <src.rf>manual</src.rf>

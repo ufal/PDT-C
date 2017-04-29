@@ -487,18 +487,7 @@
 <LM>w#w-ln94204-149-p2s3w4</LM>
 </w.rf>
 <form>Csejka</form>
-<tag>
-<AM lemma="Csejka_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Csejka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Csejka_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Csejko_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Csejk_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Csejka_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Csejka_;Y_,h" src="auto">NNFS1-----A----</AM>
-<AM lemma="Csejka_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Csejka-2_^(člověk)_(*4-2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="csejka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Csejka_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-149-p2s3w5">
 <src.rf>manual</src.rf>

@@ -537,14 +537,7 @@
 <LM>w#w-ln94211-6-p3s1w15</LM>
 </w.rf>
 <form>Matkat</form>
-<tag>
-<AM lemma="Matkat_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Matkat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Matkat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Matkat_:T_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Matkategorie" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="matkat" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Matkat_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94211-6-p3s1w16">
 <src.rf>manual</src.rf>

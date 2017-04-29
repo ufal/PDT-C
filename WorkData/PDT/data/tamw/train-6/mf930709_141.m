@@ -159,17 +159,7 @@
 <LM>w#w-mf930709-141-p3s1w8</LM>
 </w.rf>
 <form>Koševo</form>
-<tag>
-<AM lemma="Koševo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Koševo" src="auto">Db-------------</AM>
-<AM lemma="Koševo_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Koševo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Koševo" src="auto">NNNS1-----A----</AM>
-<AM lemma="naKoševo" src="auto">Db-------------</AM>
-<AM lemma="Koševo_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="Koševo" src="auto">NNNS4-----A----</AM>
-<AM lemma="koševo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Koševo_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-141-p3s1w9">
 <src.rf>manual</src.rf>
@@ -653,14 +643,7 @@
 <LM>w#w-mf930709-141-p4s1w12</LM>
 </w.rf>
 <form>Naila</form>
-<tag>
-<AM lemma="Naila_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Nait_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Nait_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Nail_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Naít" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="naila" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Naila_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-141-p4s1w13">
 <src.rf>manual</src.rf>

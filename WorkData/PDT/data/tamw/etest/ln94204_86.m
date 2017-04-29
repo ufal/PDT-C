@@ -401,18 +401,7 @@
 <LM>w#w-ln94204-86-p2s2w13</LM>
 </w.rf>
 <form>Tromeda</form>
-<tag>
-<AM lemma="Tromeda_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Tromed_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Tromeda_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tromeda" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tromeda" src="auto">NNMS1-----A----</AM>
-<AM lemma="Troméd_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Tromed_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Tromeda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tromédés_;S_,x" src="auto">NNMS2-----A----</AM>
-<AM lemma="tromeda" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tromeda_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-86-p2s2w14">
 <src.rf>manual</src.rf>
@@ -712,13 +701,7 @@
 <LM>w#w-ln94204-86-p2s4w22</LM>
 </w.rf>
 <form>korenickém</form>
-<tag>
-<AM lemma="korenický" src="orig">AAIS6----1A----</AM>
-<AM lemma="korenický" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="korenický" src="auto">AANS6----1A----</AM>
-<AM lemma="korenický" src="auto">AAMS6----1A----</AM>
-<AM lemma="korenický_;S" src="auto">NNMS6-----A----</AM>
-</tag>
+<tag lemma="korenický" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-ln94204-86-p2s4w23">
 <src.rf>manual</src.rf>

@@ -1448,17 +1448,7 @@
 <LM>w#w-ln94211-2-p3s2Bw2</LM>
 </w.rf>
 <form>jif</form>
-<tag>
-<AM lemma="jif-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jif-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jif_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jif_,t" src="auto">J^-------------</AM>
-<AM lemma="jif" src="auto">NNIS4-----A----</AM>
-<AM lemma="jif" src="auto">NNIS1-----A----</AM>
-<AM lemma="jif_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jif_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="jif" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="jif-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94211-2-p3s2Bw3">
 <src.rf>manual</src.rf>

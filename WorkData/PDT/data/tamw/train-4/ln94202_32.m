@@ -539,17 +539,7 @@
 <LM>w#w-ln94202-32-p4s1w8</LM>
 </w.rf>
 <form>Veteran</form>
-<tag>
-<AM lemma="Veteran_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Veteran_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Veterana" src="auto">NNFP2-----A----</AM>
-<AM lemma="Veteran_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_Veteraně)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Veterany_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Veterancouzský_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Veterana-4_^(v_knize,_rukopise,...)" src="auto">NNFP2-----A----</AM>
-<AM lemma="veteran" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Veteran_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-32-p4s1w9">
 <src.rf>manual</src.rf>

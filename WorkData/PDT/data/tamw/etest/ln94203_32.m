@@ -1683,18 +1683,7 @@
 <LM>w#w-ln94203-32-p4s3w9</LM>
 </w.rf>
 <form>Fikoczek</form>
-<tag>
-<AM lemma="Fikoczek_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Fikoczek_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Fikoczka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Fikoczek" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fikoczek" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fikoczek" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fikoczka_^(*2)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Fikoczek-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fikoczko" src="auto">NNNP2-----A----</AM>
-<AM lemma="fikoczek" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fikoczek_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-32-p4s3w10">
 <src.rf>manual</src.rf>
@@ -2067,18 +2056,7 @@
 <LM>w#w-ln94203-32-p4s5w2</LM>
 </w.rf>
 <form>Fikoczka</form>
-<tag>
-<AM lemma="Fikoczek_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Fikoczka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fikoczek_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Fikoczka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fikoczek_;Y_,h" src="auto">NNMS2-----A----</AM>
-<AM lemma="Fikoczek_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Fikoczek-1_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Fikoczek-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Fikoczek" src="auto">NNMS4-----A----</AM>
-<AM lemma="fikoczka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fikoczek_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-32-p4s5w3">
 <src.rf>manual</src.rf>

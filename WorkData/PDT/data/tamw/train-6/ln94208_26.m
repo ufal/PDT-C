@@ -1672,17 +1672,7 @@
 <LM>w#w-ln94208-26-p5s3w17</LM>
 </w.rf>
 <form>škipetárů</form>
-<tag>
-<AM lemma="škipetár" src="orig">NNMP2-----A----</AM>
-<AM lemma="škipetár" src="auto">NNIP2-----A----</AM>
-<AM lemma="škipetár" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="škipetáry" src="auto">NNIP2-----A----</AM>
-<AM lemma="škipetár-2" src="auto">NNIP2-----A----</AM>
-<AM lemma="škipetár_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="škipetár_;Y" src="auto">NNMP2-----A----</AM>
-<AM lemma="škipetár_;S" src="auto">NNMP2-----A----</AM>
-<AM lemma="škipetár_;H" src="auto">NNIP2-----A----</AM>
-</tag>
+<tag lemma="škipetár" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94208-26-p5s3w18">
 <src.rf>manual</src.rf>

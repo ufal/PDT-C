@@ -85,17 +85,7 @@
 <LM>w#w-mf930709-123-p2s1Aw3</LM>
 </w.rf>
 <form>hai</form>
-<tag>
-<AM lemma="hai-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hai-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="hai_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="hai_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="hai_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="hai_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="hai_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="hai_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="hai_;G" src="auto">NNIXX-----A----</AM>
-</tag>
+<tag lemma="hai-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-123-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -217,18 +207,7 @@
 <LM>w#w-mf930709-123-p2s1Bw13</LM>
 </w.rf>
 <form>Panag</form>
-<tag>
-<AM lemma="Panag_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Panag_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Panag_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Panag" src="auto">NNIS1-----A----</AM>
-<AM lemma="Panag_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Panag-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Panago" src="auto">NNNP2-----A----</AM>
-<AM lemma="Panagnetický_:B" src="auto">AAXXX----1A----</AM>
-<AM lemma="Panagister_:B_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="panag" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Panag_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-123-p2s1Bw14">
 <src.rf>manual</src.rf>

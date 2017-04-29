@@ -1755,18 +1755,7 @@
 <LM>w#w-cmpr9413-021-p8s2w2</LM>
 </w.rf>
 <form>Woronoff</form>
-<tag>
-<AM lemma="Woronoff_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Woronoff_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Woronoff_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Woronoff_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Woronoff_;R_^(vodka)" src="auto">NNFSX-----A----</AM>
-<AM lemma="Woronoff-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="auto">TT-------------</AM>
-<AM lemma="Woronoff_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Woronoff_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Woronoff" src="auto">NNIS4-----A----</AM>
-<AM lemma="woronoff" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Woronoff_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-021-p8s2w3">
 <src.rf>manual</src.rf>
@@ -3135,18 +3124,7 @@
 <LM>w#w-cmpr9413-021-p9s1w4</LM>
 </w.rf>
 <form>Publishing</form>
-<tag>
-<AM lemma="Publishing_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Publishing_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Publishing" src="auto">NNIS4-----A----</AM>
-<AM lemma="Publishing_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Publishing" src="auto">NNIS1-----A----</AM>
-<AM lemma="Publishing_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Publishing_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Publishing_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Publishing_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="publishing" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Publishing_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-cmpr9413-021-p9s1w5">
 <src.rf>manual</src.rf>

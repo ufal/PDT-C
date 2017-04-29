@@ -1743,17 +1743,7 @@
 <LM>w#w-cmpr9410-053-p6s1w6</LM>
 </w.rf>
 <form>republic</form>
-<tag>
-<AM lemma="republic_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="republice" src="auto">NNFP2-----A----</AM>
-<AM lemma="republic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="republice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="republic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="republíce" src="auto">NNFP2-----A----</AM>
-<AM lemma="republic_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="republic_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="republic_;K_,t" src="auto">NNFSX-----A----</AM>
-</tag>
+<tag lemma="republic_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-053-p6s1w7">
 <src.rf>manual</src.rf>

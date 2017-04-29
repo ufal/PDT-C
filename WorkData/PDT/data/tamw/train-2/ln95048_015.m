@@ -1433,18 +1433,7 @@
 <LM>w#w-ln95048-015-p3s3w1</LM>
 </w.rf>
 <form>Three</form>
-<tag>
-<AM lemma="three_,t" src="orig">ClXPX----------</AM>
-<AM lemma="Three_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Three_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Three_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Three_;L_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Three_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Three_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Three_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="Three_,t" src="auto" recommended="1">ClXPX----------</AM>
-<AM lemma="three" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="three_,t" src="orig" selected="1">ClXPX----------</tag>
 </m>
 <m id="m-ln95048-015-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1460,18 +1449,7 @@
 <LM>w#w-ln95048-015-p3s3w3</LM>
 </w.rf>
 <form>Hearts</form>
-<tag>
-<AM lemma="heart_,t" src="orig">NNNPX-----A----</AM>
-<AM lemma="Heart_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Heart_,t" src="auto" recommended="1">NNNPX-----A----</AM>
-<AM lemma="Hearts_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Hearts_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hearts_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Hearts_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Heart_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Heart_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="hearts" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="heart_,t" src="orig" selected="1">NNNPX-----A----</tag>
 </m>
 <m id="m-ln95048-015-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1609,18 +1587,7 @@
 <LM>w#w-ln95048-015-p3s5w3</LM>
 </w.rf>
 <form>Yurek</form>
-<tag>
-<AM lemma="Yurek_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Yurek_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Yurka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Yurka_^(*2)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Yurek" src="auto">NNIS4-----A----</AM>
-<AM lemma="Yurek" src="auto">NNIS1-----A----</AM>
-<AM lemma="Yurek" src="auto">NNMS1-----A----</AM>
-<AM lemma="Yurek_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Yurky" src="auto">NNFP2-----A----</AM>
-<AM lemma="yurek" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Yurek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-015-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1718,17 +1685,7 @@
 <LM>w#w-ln95048-015-p3s6w9</LM>
 </w.rf>
 <form>Sherilyn</form>
-<tag>
-<AM lemma="Sherilyn_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Sherilyn" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sherilyn" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sherilyn_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Sherilyn_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sherilyn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sherilyn" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sherilynamo_:B_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="sherilyn" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sherilyn_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95048-015-p3s6w10">
 <src.rf>manual</src.rf>

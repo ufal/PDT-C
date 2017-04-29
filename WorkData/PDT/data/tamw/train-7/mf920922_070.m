@@ -102,18 +102,7 @@
 <LM>w#w-mf920922-070-p2s1w3</LM>
 </w.rf>
 <form>Maggioře</form>
-<tag>
-<AM lemma="Maggiora_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Maggiora" src="auto">NNFS6-----A----</AM>
-<AM lemma="Maggiora" src="auto">NNFS3-----A----</AM>
-<AM lemma="Maggioř" src="auto">NNFS2-----A----</AM>
-<AM lemma="Maggiora_;G" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Maggiorra_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Maggiora_^(peníze;_tyč;_morální_p.)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Maggiora_^(peníze;_tyč;_morální_p.)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Maggiora_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="maggioře" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Maggiora_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920922-070-p2s1w4">
 <src.rf>manual</src.rf>
@@ -645,18 +634,7 @@
 <LM>w#w-mf920922-070-p2s5w3</LM>
 </w.rf>
 <form>Maggioře</form>
-<tag>
-<AM lemma="Maggiora_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Maggiora" src="auto">NNFS6-----A----</AM>
-<AM lemma="Maggiora" src="auto">NNFS3-----A----</AM>
-<AM lemma="Maggioř" src="auto">NNFS2-----A----</AM>
-<AM lemma="Maggiora_;G" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Maggiorra_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Maggiora_^(peníze;_tyč;_morální_p.)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Maggiora_^(peníze;_tyč;_morální_p.)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Maggiora_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="maggioře" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Maggiora_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920922-070-p2s5w4">
 <src.rf>manual</src.rf>
@@ -688,18 +666,7 @@
 <LM>w#w-mf920922-070-p2s5w7</LM>
 </w.rf>
 <form>Rammel</form>
-<tag>
-<AM lemma="Rammel_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rammel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Rammel" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rammel_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rammel-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Rammel" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rammel" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rammet_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Rammet" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="rammel" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rammel_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-070-p2s5w8">
 <src.rf>manual</src.rf>
@@ -763,17 +730,7 @@
 <LM>w#w-mf920922-070-p2s5w15</LM>
 </w.rf>
 <form>Vincendan</form>
-<tag>
-<AM lemma="Vincendan_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vincendan_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Vincendan_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vincendan" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vincendan-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Vincendan-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vincendan" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vincendan_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="vincendan" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vincendan_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-070-p2s5w16">
 <src.rf>manual</src.rf>
@@ -1022,17 +979,7 @@
 <LM>w#w-mf920922-070-p2s5w44</LM>
 </w.rf>
 <form>Hakvoort</form>
-<tag>
-<AM lemma="Hakvoort_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hakvoort" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hakvoort" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hakvoort_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hakvoort_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hakvoort_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hakvoort_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Report_;K_;u_,t_^(umělecký_soubor_Wheather_Hakvoort)" src="auto">NNIXX-----A----</AM>
-<AM lemma="hakvoort" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hakvoort_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-070-p2s5w45">
 <src.rf>manual</src.rf>
@@ -1427,17 +1374,7 @@
 <LM>w#w-mf920922-070-p2s13w22</LM>
 </w.rf>
 <form>Vincendan</form>
-<tag>
-<AM lemma="Vincendan_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vincendan_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Vincendan_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vincendan" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vincendan-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Vincendan-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vincendan" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vincendan_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="vincendan" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vincendan_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-070-p2s13w23">
 <src.rf>manual</src.rf>
@@ -1517,17 +1454,7 @@
 <LM>w#w-mf920922-070-p2s13w32</LM>
 </w.rf>
 <form>Hakvoort</form>
-<tag>
-<AM lemma="Hakvoort_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hakvoort" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hakvoort" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hakvoort_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hakvoort_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hakvoort_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hakvoort_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Report_;K_;u_,t_^(umělecký_soubor_Wheather_Hakvoort)" src="auto">NNIXX-----A----</AM>
-<AM lemma="hakvoort" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hakvoort_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-070-p2s13w33">
 <src.rf>manual</src.rf>

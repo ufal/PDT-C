@@ -3672,18 +3672,7 @@
 <LM>w#w-cmpr9410-028-p14s1w32</LM>
 </w.rf>
 <form>Piepenhagen</form>
-<tag>
-<AM lemma="Piepenhagen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Piepenhagen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Piepenhagen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Piepenhagen_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Piepenhagen" src="auto">NNIS4-----A----</AM>
-<AM lemma="Piepenhagen" src="auto">NNIS1-----A----</AM>
-<AM lemma="Piepenhagenerální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Piepenhagenerál_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Piepenhagen_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="piepenhagen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Piepenhagen_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-028-p14s1w33">
 <src.rf>manual</src.rf>
@@ -3736,18 +3725,7 @@
 <LM>w#w-cmpr9410-028-p14s1w38</LM>
 </w.rf>
 <form>Ullík</form>
-<tag>
-<AM lemma="Ullík_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ullík_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ullík" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ullík" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ullík" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ullík-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ullík_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ullík_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ullík-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ullík" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ullík_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-028-p14s1w39">
 <src.rf>manual</src.rf>
@@ -4353,13 +4331,7 @@
 <LM>w#w-cmpr9410-028-p16s1w20</LM>
 </w.rf>
 <form>fóbistickém</form>
-<tag>
-<AM lemma="fóbistický" src="orig">AAMS6----1A----</AM>
-<AM lemma="fóbistický" src="auto">AAIS6----1A----</AM>
-<AM lemma="fóbistický" src="auto">AANS6----1A----</AM>
-<AM lemma="fóbistický" src="auto" recommended="1">AAMS6----1A----</AM>
-<AM lemma="fóbistický_;S" src="auto">NNMS6-----A----</AM>
-</tag>
+<tag lemma="fóbistický" src="orig" selected="1">AAMS6----1A----</tag>
 </m>
 <m id="m-cmpr9410-028-p16s1w21">
 <src.rf>manual</src.rf>
@@ -5623,18 +5595,7 @@
 <LM>w#w-cmpr9410-028-p22s1w6</LM>
 </w.rf>
 <form>Solidet</form>
-<tag>
-<AM lemma="Solidet_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Solidet_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Solidety_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Solidet_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Solidet" src="auto">Vf--------A----</AM>
-<AM lemma="Solidet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Solidet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Solideta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Solidet_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="solidet" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Solidet_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-028-p22s1w7">
 <src.rf>manual</src.rf>
@@ -12352,18 +12313,7 @@
 <LM>w#w-cmpr9410-028-p38s3w19</LM>
 </w.rf>
 <form>Vadamu</form>
-<tag>
-<AM lemma="Vadam_;K" src="orig">NNIS6-----A----</AM>
-<AM lemma="Vadam" src="auto">NNIS2-----A----</AM>
-<AM lemma="Vadam_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Vadam" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Vadam" src="auto">NNIS3-----A----</AM>
-<AM lemma="Vadam_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Vadama" src="auto">NNFS4-----A----</AM>
-<AM lemma="Vadam_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Vadam_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="vadamu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vadam_;K" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-cmpr9410-028-p38s3w20">
 <src.rf>manual</src.rf>
@@ -12435,18 +12385,7 @@
 <LM>w#w-cmpr9410-028-p38s3w28</LM>
 </w.rf>
 <form>Solidet</form>
-<tag>
-<AM lemma="Solidet_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Solidet_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Solidety_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Solidet_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Solidet" src="auto">Vf--------A----</AM>
-<AM lemma="Solidet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Solidet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Solideta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Solidet_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="solidet" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Solidet_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-028-p38s3w29">
 <src.rf>manual</src.rf>
@@ -13413,18 +13352,7 @@
 <LM>w#w-cmpr9410-028-p40s4w24</LM>
 </w.rf>
 <form>Solidet</form>
-<tag>
-<AM lemma="Solidet_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Solidet_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Solidety_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Solidet_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Solidet" src="auto">Vf--------A----</AM>
-<AM lemma="Solidet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Solidet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Solideta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Solidet_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="solidet" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Solidet_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-028-p40s4w25">
 <src.rf>manual</src.rf>
@@ -13566,18 +13494,7 @@
 <LM>w#w-cmpr9410-028-p40s5w12</LM>
 </w.rf>
 <form>Vadamu</form>
-<tag>
-<AM lemma="Vadam_;K" src="orig">NNIS6-----A----</AM>
-<AM lemma="Vadam" src="auto">NNIS2-----A----</AM>
-<AM lemma="Vadam_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Vadam" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Vadam" src="auto">NNIS3-----A----</AM>
-<AM lemma="Vadam_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Vadama" src="auto">NNFS4-----A----</AM>
-<AM lemma="Vadam_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Vadam_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="vadamu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vadam_;K" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-cmpr9410-028-p40s5w13">
 <src.rf>manual</src.rf>
@@ -13649,18 +13566,7 @@
 <LM>w#w-cmpr9410-028-p40s5w21</LM>
 </w.rf>
 <form>Solidetu</form>
-<tag>
-<AM lemma="Solidet_;K" src="orig">NNIS6-----A----</AM>
-<AM lemma="Solidet" src="auto">NNIS2-----A----</AM>
-<AM lemma="Solidet" src="auto">NNIS6-----A----</AM>
-<AM lemma="Solideta" src="auto">NNFS4-----A----</AM>
-<AM lemma="Solidet" src="auto">NNIS3-----A----</AM>
-<AM lemma="Solidet_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Solidet_;K" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Solidet" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Solideto" src="auto">NNNS3-----A----</AM>
-<AM lemma="solidetu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Solidet_;K" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-cmpr9410-028-p40s5w22">
 <src.rf>manual</src.rf>
@@ -13876,18 +13782,7 @@
 <LM>w#w-cmpr9410-028-p43s1w7</LM>
 </w.rf>
 <form>Vadamu</form>
-<tag>
-<AM lemma="Vadam_;K" src="orig">NNIS6-----A----</AM>
-<AM lemma="Vadam" src="auto">NNIS2-----A----</AM>
-<AM lemma="Vadam_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Vadam" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Vadam" src="auto">NNIS3-----A----</AM>
-<AM lemma="Vadam_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Vadama" src="auto">NNFS4-----A----</AM>
-<AM lemma="Vadam_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Vadam_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="vadamu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vadam_;K" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-cmpr9410-028-p43s1w8">
 <src.rf>manual</src.rf>
@@ -14715,18 +14610,7 @@
 <LM>w#w-cmpr9410-028-p45s1w2</LM>
 </w.rf>
 <form>Solidet</form>
-<tag>
-<AM lemma="Solidet_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Solidet_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Solidety_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Solidet_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Solidet" src="auto">Vf--------A----</AM>
-<AM lemma="Solidet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Solidet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Solideta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Solidet_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="solidet" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Solidet_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-028-p45s1w3">
 <src.rf>manual</src.rf>
@@ -15079,18 +14963,7 @@
 <LM>w#w-cmpr9410-028-p45s4w9</LM>
 </w.rf>
 <form>Vadamu</form>
-<tag>
-<AM lemma="Vadam_;K" src="orig">NNIS6-----A----</AM>
-<AM lemma="Vadam" src="auto">NNIS2-----A----</AM>
-<AM lemma="Vadam_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Vadam" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Vadam" src="auto">NNIS3-----A----</AM>
-<AM lemma="Vadam_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Vadama" src="auto">NNFS4-----A----</AM>
-<AM lemma="Vadam_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Vadam_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="vadamu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vadam_;K" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-cmpr9410-028-p45s4w10">
 <src.rf>manual</src.rf>
@@ -15348,18 +15221,7 @@
 <LM>w#w-cmpr9410-028-p46s2w19</LM>
 </w.rf>
 <form>Solidet</form>
-<tag>
-<AM lemma="Solidet_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Solidet_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Solidety_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Solidet_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Solidet" src="auto">Vf--------A----</AM>
-<AM lemma="Solidet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Solidet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Solideta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Solidet_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="solidet" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Solidet_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-028-p46s2w20">
 <src.rf>manual</src.rf>

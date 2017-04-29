@@ -263,18 +263,7 @@
 <LM>w#w-mf920922-064-p2s8w10</LM>
 </w.rf>
 <form>Schweningen</form>
-<tag>
-<AM lemma="Schweningen_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Schweningen_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schweningen_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Schweningen_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schweningen" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schweningen" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schweningenerální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Schweningenerál_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Schweningen_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="schweningen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Schweningen_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-064-p2s8w11">
 <src.rf>manual</src.rf>

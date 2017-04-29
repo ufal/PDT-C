@@ -173,18 +173,7 @@
 <LM>w#w-ln95049-057-p2s1w15</LM>
 </w.rf>
 <form>Reflexionen</form>
-<tag>
-<AM lemma="Reflexion_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Reflexionen_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="vinný-1_^(kdo_je_Reflexionen/vinna)" src="auto">ACYS------A----</AM>
-<AM lemma="Reflexione_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Reflexionný" src="auto">ACYS------A----</AM>
-<AM lemma="Reflexionna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Reflexion_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Reflexionen" src="auto">PDYS1----------</AM>
-<AM lemma="Reflexionen" src="auto">PDIS4----------</AM>
-<AM lemma="reflexionen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Reflexion_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln95049-057-p2s1w16">
 <src.rf>manual</src.rf>
@@ -200,18 +189,7 @@
 <LM>w#w-ln95049-057-p2s1w17</LM>
 </w.rf>
 <form>Fackel</form>
-<tag>
-<AM lemma="Fackel_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Fackel_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fackel_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Facklo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Fackel_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Fackel" src="auto">NNMS1-----A----</AM>
-<AM lemma="Facket_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Facket" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Fackel" src="auto">NNIS1-----A----</AM>
-<AM lemma="fackel" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fackel_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95049-057-p2s1w18">
 <src.rf>manual</src.rf>
@@ -239,18 +217,7 @@
 <LM>w#w-ln95049-057-p2s1w20</LM>
 </w.rf>
 <form>Studien</form>
-<tag>
-<AM lemma="Studie_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Studien_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Studie_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Studien_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Studien_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Studien_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Studien_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Studien_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Studien_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="studien" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Studie_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln95049-057-p2s1w21">
 <src.rf>manual</src.rf>
@@ -258,15 +225,7 @@
 <LM>w#w-ln95049-057-p2s1w21</LM>
 </w.rf>
 <form>über</form>
-<tag>
-<AM lemma="über_,t" src="orig">RR--X----------</AM>
-<AM lemma="über_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="übra" src="auto">NNFP2-----A----</AM>
-<AM lemma="übry_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="übrat" src="auto">Vi-S---2--A----</AM>
-<AM lemma="über_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="über_;R_,t" src="auto">NNISX-----A----</AM>
-</tag>
+<tag lemma="über_,t" src="orig" selected="1">RR--X----------</tag>
 </m>
 <m id="m-ln95049-057-p2s1w22">
 <src.rf>manual</src.rf>
@@ -399,18 +358,7 @@
 <LM>w#w-ln95049-057-p2s2w12</LM>
 </w.rf>
 <form>Fackel</form>
-<tag>
-<AM lemma="Fackel_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Fackel_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fackel_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Facklo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Fackel_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Fackel" src="auto">NNMS1-----A----</AM>
-<AM lemma="Facket_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Facket" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Fackel" src="auto">NNIS1-----A----</AM>
-<AM lemma="fackel" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fackel_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95049-057-p2s2w13">
 <src.rf>manual</src.rf>
@@ -1186,18 +1134,7 @@
 <LM>w#w-ln95049-057-p4s1Aw4</LM>
 </w.rf>
 <form>Reflexion</form>
-<tag>
-<AM lemma="Reflexion_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Reflexion_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Reflexion_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Reflexion_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Reflexion_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Reflexion" src="auto">NNIS1-----A----</AM>
-<AM lemma="Reflexion_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Reflexión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Reflexión" src="auto">NNIS1-----A----</AM>
-<AM lemma="reflexion" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Reflexion_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95049-057-p4s1Aw5">
 <src.rf>manual</src.rf>
@@ -1213,18 +1150,7 @@
 <LM>w#w-ln95049-057-p4s1Aw6</LM>
 </w.rf>
 <form>Fackel</form>
-<tag>
-<AM lemma="Fackel_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Fackel_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fackel_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Facklo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Fackel_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Fackel" src="auto">NNMS1-----A----</AM>
-<AM lemma="Facket_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Facket" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Fackel" src="auto">NNIS1-----A----</AM>
-<AM lemma="fackel" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fackel_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95049-057-p4s1Aw7">
 <src.rf>manual</src.rf>
@@ -1376,18 +1302,7 @@
 <LM>w#w-ln95049-057-p4s1Aw25</LM>
 </w.rf>
 <form>Hofstetter</form>
-<tag>
-<AM lemma="Hofstetter_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hofstetter_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hofstetter_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hofstetter_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hofstetter" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hofstettro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Hofstetter_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Hofstetter" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hofstettrum" src="auto">NNNP2-----A----</AM>
-<AM lemma="hofstetter" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hofstetter_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-057-p4s1Aw26">
 <src.rf>manual</src.rf>

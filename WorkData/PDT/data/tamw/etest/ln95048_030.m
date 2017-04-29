@@ -5553,17 +5553,7 @@
 <LM>w#w-ln95048-030-p7s2w4</LM>
 </w.rf>
 <form>matějovská</form>
-<tag>
-<AM lemma="matějovský" src="orig">AAFS1----1A----</AM>
-<AM lemma="matějovský" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="matějovský" src="auto">AANP1----1A----</AM>
-<AM lemma="matějovský" src="auto">AANP4----1A----</AM>
-<AM lemma="matějovská_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="matějovský_;G" src="auto">AAFS1----1A----</AM>
-<AM lemma="matějovská_;G" src="auto">AAFS1----1A----</AM>
-<AM lemma="matějovský_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="matějovskat_:T" src="auto">VB-S---3P-AA---</AM>
-</tag>
+<tag lemma="matějovský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln95048-030-p7s2w5">
 <src.rf>manual</src.rf>

@@ -111,16 +111,7 @@
 <LM>w#w-ln94211-58-p2s1Bw3</LM>
 </w.rf>
 <form>škr</form>
-<tag>
-<AM lemma="škr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="škr-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="škr" src="auto">NNIS1-----A----</AM>
-<AM lemma="škr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="škr" src="auto">NNIS4-----A----</AM>
-<AM lemma="škrajina_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="škr" src="auto">NNMS1-----A----</AM>
-<AM lemma="škr_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="škr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94211-58-p2s1Bw4">
 <src.rf>manual</src.rf>

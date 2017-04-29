@@ -417,18 +417,7 @@
 <LM>w#w-ln94200-132-p2s3w4</LM>
 </w.rf>
 <form>Mediaworld</form>
-<tag>
-<AM lemma="Mediaworld_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mediaworld_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Mediaworld_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mediaworld_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mediaworld_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mediaworld_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Mediaworld_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mediaworld_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Mediaworld_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="mediaworld" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mediaworld_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-132-p2s3w5">
 <src.rf>manual</src.rf>

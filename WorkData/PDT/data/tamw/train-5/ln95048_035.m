@@ -203,23 +203,7 @@
 <LM>w#w-ln95048-035-p1s1w24</LM>
 </w.rf>
 <form>DOPRAPO</form>
-<tag>
-<AM lemma="DOPRAPO_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="DOPRAPO_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="DOPRAPO_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="DOPRAPO_:B_;m_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="DOPRAPO_:B_;m_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Doprapo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Doprapo" src="auto">NNNS4-----A----</AM>
-<AM lemma="Doprapo-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Doprapo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Doprapo_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Doprapo_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Doprapo_;m" src="auto">NNNXX-----A----</AM>
-<AM lemma="doprapo" src="auto">NNMS1-----A----</AM>
-<AM lemma="doprapo-2_:B_,x_^(pondělí)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="po-2_:B_,x_^(Doprapondělí)" src="auto">NNNXX-----A---8</AM>
-</tag>
+<tag lemma="DOPRAPO_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95048-035-p1s1w25">
 <src.rf>manual</src.rf>

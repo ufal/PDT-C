@@ -45,18 +45,7 @@
 <LM>w#w-mf930709-055-p1s1Bw2</LM>
 </w.rf>
 <form>Hooters</form>
-<tag>
-<AM lemma="Hooters_;m_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Hooters_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hooter_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Hooters_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Hooter_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Hooter_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Hooters_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Hooters_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hooters_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="hooters" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hooters_;m_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-mf930709-055-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -550,18 +539,7 @@
 <LM>w#w-mf930709-055-p1s4w14</LM>
 </w.rf>
 <form>Twenty</form>
-<tag>
-<AM lemma="Twenty_,t" src="orig">Cn-SX----------</AM>
-<AM lemma="Twent" src="auto">NNMP4-----A----</AM>
-<AM lemma="Twent" src="auto" recommended="1">NNIP4-----A----</AM>
-<AM lemma="Twent" src="auto">NNIP1-----A----</AM>
-<AM lemma="Twent" src="auto">NNMP7-----A----</AM>
-<AM lemma="Twent" src="auto">NNIP7-----A----</AM>
-<AM lemma="Twenta" src="auto">NNFS2-----A----</AM>
-<AM lemma="Twenta" src="auto">NNFP1-----A----</AM>
-<AM lemma="Twenta" src="auto">NNFP4-----A----</AM>
-<AM lemma="twenty" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Twenty_,t" src="orig" selected="1">Cn-SX----------</tag>
 </m>
 <m id="m-mf930709-055-p1s4w15">
 <src.rf>manual</src.rf>
@@ -569,18 +547,7 @@
 <LM>w#w-mf930709-055-p1s4w15</LM>
 </w.rf>
 <form>Five</form>
-<tag>
-<AM lemma="Five_,t" src="orig">Cn-SX----------</AM>
-<AM lemma="Five_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Five_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Five_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Five_,t" src="auto">Db-------------</AM>
-<AM lemma="Five_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Creative_;K_,t_^(Five_Labs)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Five_;m_,t" src="auto">Dg-------1A----</AM>
-<AM lemma="Five_;c_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="five" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Five_,t" src="orig" selected="1">Cn-SX----------</tag>
 </m>
 <m id="m-mf930709-055-p1s4w16">
 <src.rf>manual</src.rf>
@@ -588,18 +555,7 @@
 <LM>w#w-mf930709-055-p1s4w16</LM>
 </w.rf>
 <form>Hours</form>
-<tag>
-<AM lemma="Hours_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Hours" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hoursovní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Hours_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hours_^(úpadek;;soutěž)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hours_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Hours_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Hours_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Hours_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="hours" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hours_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-mf930709-055-p1s4w17">
 <src.rf>manual</src.rf>
@@ -712,15 +668,7 @@
 <LM>w#w-mf930709-055-p2s1w2</LM>
 </w.rf>
 <form>aš</form>
-<tag>
-<AM lemma="aš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="aš_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="aš-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="aš_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="aš_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="aš" src="auto">NNIS1-----A----</AM>
-<AM lemma="aš" src="auto">NNFS4-----A----</AM>
-</tag>
+<tag lemma="aš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-055-p2s1w3">
 <src.rf>manual</src.rf>
@@ -1218,17 +1166,7 @@
 <LM>w#w-mf930709-055-p3s1w2</LM>
 </w.rf>
 <form>spa</form>
-<tag>
-<AM lemma="spa-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="spa-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="spa" src="auto">NNFS1-----A----</AM>
-<AM lemma="spa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="spa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="sp_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="sp" src="auto">NNMS2-----A----</AM>
-<AM lemma="spo" src="auto">NNNS2-----A----</AM>
-<AM lemma="sp" src="auto">NNMS4-----A----</AM>
-</tag>
+<tag lemma="spa-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-055-p3s1w3">
 <src.rf>manual</src.rf>

@@ -2262,19 +2262,7 @@
 <LM>w#w-ln95046-112-p5s6w9</LM>
 </w.rf>
 <form>Ezera</form>
-<tag>
-<AM lemma="Ezer_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Ezer" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ezer" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ezer_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ezer_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ezer_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Ezera" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ezera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ezero" src="auto">NNNS2-----A----</AM>
-<AM lemma="ezera" src="auto">NNMS1-----A----</AM>
-<AM lemma="ezera-1_:B_,t_^(radiatus,_druh_oblaku)" src="auto">NNIXX-----A---8</AM>
-</tag>
+<tag lemma="Ezer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-112-p5s6w10">
 <src.rf>manual</src.rf>

@@ -453,17 +453,7 @@
 <LM>w#w-ln94204-7-p2s4w13</LM>
 </w.rf>
 <form>Ubytreal</form>
-<tag>
-<AM lemma="Ubytreal_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Ubytreal_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Ubytreal_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ubytreal_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ubytreal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ubytreal_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ubytreat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Ubytreat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="ubytreal" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ubytreal_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-7-p2s4w14">
 <src.rf>manual</src.rf>
@@ -723,15 +713,7 @@
 <LM>w#w-ln94204-7-p3s2w17</LM>
 </w.rf>
 <form>wavkami</form>
-<tag>
-<AM lemma="wavky_,t" src="orig">NNFP1-----A----</AM>
-<AM lemma="wavka" src="auto">NNFP7-----A----</AM>
-<AM lemma="wavky" src="auto">NNFP7-----A----</AM>
-<AM lemma="wavka_^(*2)" src="auto" recommended="1">NNFP7-----A----</AM>
-<AM lemma="wavky_;G" src="auto">NNFP7-----A----</AM>
-<AM lemma="wavka_^(*2a)" src="auto">NNFP7-----A----</AM>
-<AM lemma="wavka_^(věda)" src="auto">NNFP7-----A----</AM>
-</tag>
+<tag lemma="wavky_,t" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94204-7-p3s2w18">
 <src.rf>manual</src.rf>
@@ -3655,18 +3637,7 @@
 <LM>w#w-ln94204-7-p8s1w6</LM>
 </w.rf>
 <form>Ubytrealu</form>
-<tag>
-<AM lemma="Ubytreal_;K" src="orig">NNIS3-----A----</AM>
-<AM lemma="Ubytreal" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ubytreal" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Ubytreal_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ubytreal" src="auto">NNIS3-----A----</AM>
-<AM lemma="Ubytreal_;K" src="auto" recommended="1">NNIS3-----A----</AM>
-<AM lemma="Ubytreal_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Ubytreal_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ubytreala_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="ubytrealu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ubytreal_;K" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln94204-7-p8s1w7">
 <src.rf>manual</src.rf>
@@ -3860,18 +3831,7 @@
 <LM>w#w-ln94204-7-p8s2w3</LM>
 </w.rf>
 <form>Ubytrealu</form>
-<tag>
-<AM lemma="Ubytreal_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Ubytreal" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ubytreal" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Ubytreal_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Ubytreal" src="auto">NNIS3-----A----</AM>
-<AM lemma="Ubytreal_;K" src="auto">NNIS3-----A----</AM>
-<AM lemma="Ubytreal_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Ubytreal_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ubytreala_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="ubytrealu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ubytreal_;K" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94204-7-p8s2w4">
 <src.rf>manual</src.rf>

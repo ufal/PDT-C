@@ -688,26 +688,7 @@
 <LM>w#w-ln95045-124-p2s4w9</LM>
 </w.rf>
 <form>IBC</form>
-<tag>
-<AM lemma="IBC_:B_;K_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IBC_:B_;K_^(International_Business_Center)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="IBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IBC_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IBC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IBC-4_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A----</AM>
-<AM lemma="IBC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IBC-3_:B_^(základy_něčeho)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Ibc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ibc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ibce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ibce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ibc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ibc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ibc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ibc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ibc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="IBC_:B_;K_^(International_Business_Center)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln95045-124-p2s4w10">
 <src.rf>manual</src.rf>
@@ -829,26 +810,7 @@
 <LM>w#w-ln95045-124-p2s5w2</LM>
 </w.rf>
 <form>IBC</form>
-<tag>
-<AM lemma="IBC_:B_;K_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IBC_:B_;K_^(International_Business_Center)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="IBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IBC_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IBC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IBC-4_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A----</AM>
-<AM lemma="IBC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IBC-3_:B_^(základy_něčeho)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Ibc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ibc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ibce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ibce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ibc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ibc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ibc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ibc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ibc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="IBC_:B_;K_^(International_Business_Center)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln95045-124-p2s5w3">
 <src.rf>manual</src.rf>
@@ -2439,26 +2401,7 @@
 <LM>w#w-ln95045-124-p5s3w3</LM>
 </w.rf>
 <form>IBC</form>
-<tag>
-<AM lemma="IBC_:B_;K_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IBC_:B_;K_^(International_Business_Center)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="IBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IBC_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IBC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IBC-4_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A----</AM>
-<AM lemma="IBC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IBC-3_:B_^(základy_něčeho)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Ibc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ibc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ibce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ibce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ibc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ibc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ibc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ibc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ibc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="IBC_:B_;K_^(International_Business_Center)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln95045-124-p5s3w4">
 <src.rf>manual</src.rf>
@@ -3018,26 +2961,7 @@
 <LM>w#w-ln95045-124-p6s3w6</LM>
 </w.rf>
 <form>IBC</form>
-<tag>
-<AM lemma="IBC_:B_;K_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IBC_:B_;K_^(International_Business_Center)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="IBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IBC_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IBC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IBC-4_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A----</AM>
-<AM lemma="IBC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IBC-3_:B_^(základy_něčeho)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Ibc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ibc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ibce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ibce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ibc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ibc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ibc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ibc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ibc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="IBC_:B_;K_^(International_Business_Center)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln95045-124-p6s3w7">
 <src.rf>manual</src.rf>
@@ -4679,26 +4603,7 @@
 <LM>w#w-ln95045-124-p9s1w11</LM>
 </w.rf>
 <form>IBC</form>
-<tag>
-<AM lemma="IBC_:B_;K_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IBC_:B_;K_^(International_Business_Center)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="IBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IBC_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IBC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IBC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IBC-4_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A----</AM>
-<AM lemma="IBC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IBC-3_:B_^(základy_něčeho)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Ibc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ibc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ibce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ibce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ibc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ibc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ibc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ibc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ibc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="IBC_:B_;K_^(International_Business_Center)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln95045-124-p9s1w12">
 <src.rf>manual</src.rf>

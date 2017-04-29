@@ -169,18 +169,7 @@
 <LM>w#w-ln94207-45-p2s2w3</LM>
 </w.rf>
 <form>Tour</form>
-<tag>
-<AM lemma="Tour_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tour_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Toura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Tour_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tour_;R_,t" src="auto">PSXXX-X2-------</AM>
-<AM lemma="tour" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tour_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94207-45-p2s2w4">
 <src.rf>manual</src.rf>
@@ -366,17 +355,7 @@
 <LM>w#w-ln94207-45-p2s2w23</LM>
 </w.rf>
 <form>Graema</form>
-<tag>
-<AM lemma="Graem_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Graem_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Graemus_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Graemi" src="auto">PLXP7---------6</AM>
-<AM lemma="Graema_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Graema_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Graema_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Graema" src="auto">NNNS4-----A----</AM>
-<AM lemma="graema" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Graem_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-45-p2s2w24">
 <src.rf>manual</src.rf>

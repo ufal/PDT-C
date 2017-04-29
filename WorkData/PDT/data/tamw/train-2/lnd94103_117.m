@@ -831,16 +831,7 @@
 <LM>w#w-lnd94103-117-p1s3w12</LM>
 </w.rf>
 <form>Canuks</form>
-<tag>
-<AM lemma="Canuk_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Canuk_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Canuks_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Canuk_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Canuks" src="auto">NNIS4-----A----</AM>
-<AM lemma="Canuk_;R_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Canuk_;G" src="auto">NNIPX-----A----</AM>
-<AM lemma="canuks" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Canuk_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-lnd94103-117-p1s3w13">
 <src.rf>manual</src.rf>

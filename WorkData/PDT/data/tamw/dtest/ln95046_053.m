@@ -19,20 +19,7 @@
 <LM>w#w-ln95046-053-p1s1w1</LM>
 </w.rf>
 <form>Pafilm</form>
-<tag>
-<AM lemma="pafilm" src="orig">NNIS1-----A----</AM>
-<AM lemma="Pafilm" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Pafilm" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pafilm_;G_^(obec)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pafilm_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pafilm_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pafilm_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pafilmový_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Palm_;G_,t_^(např._Pafilm_Beach)" src="auto">AAXXX----1A----</AM>
-<AM lemma="pafilm" src="auto">NNIS1-----A----</AM>
-<AM lemma="pafilm" src="auto">NNIS4-----A----</AM>
-<AM lemma="pafilm" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="pafilm" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-053-p1s1w2">
 <src.rf>manual</src.rf>
@@ -2314,17 +2301,7 @@
 <LM>w#w-ln95046-053-p3s5w5</LM>
 </w.rf>
 <form>padokument</form>
-<tag>
-<AM lemma="padokument" src="orig">NNIS1-----A----</AM>
-<AM lemma="padokument" src="auto">NNIS1-----A----</AM>
-<AM lemma="padokument" src="auto">NNIS4-----A----</AM>
-<AM lemma="padokument" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="padokument_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="padokument_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="padokument_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="padokument_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="padokument_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="padokument" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-053-p3s5w6">
 <src.rf>manual</src.rf>

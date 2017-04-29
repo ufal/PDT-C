@@ -749,17 +749,7 @@
 <LM>w#w-ln95046-047-p2s4w15</LM>
 </w.rf>
 <form>Trabura</form>
-<tag>
-<AM lemma="Trabura_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Trabura" src="auto">NNFS1-----A----</AM>
-<AM lemma="Trabura_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Trabur_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Trabur" src="auto">NNMS4-----A----</AM>
-<AM lemma="Trabur" src="auto">NNMS2-----A----</AM>
-<AM lemma="Trabura-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Trabur_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="trabura" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Trabura_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-047-p2s4w16">
 <src.rf>manual</src.rf>
@@ -1231,18 +1221,7 @@
 <LM>w#w-ln95046-047-p3s3w3</LM>
 </w.rf>
 <form>Traburův</form>
-<tag>
-<AM lemma="Traburův_;S_^(*2a)" src="orig">AUIS1M---------</AM>
-<AM lemma="Traburův_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Traburův_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Traburův_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Traburův_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="Traburův_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="Traburův_;S_^(*2a)" src="auto">AUIS4M---------</AM>
-<AM lemma="Traburův_;S_^(*2a)" src="auto" recommended="1">AUIS1M---------</AM>
-<AM lemma="Trabur" src="auto">NNIP2-----A---2</AM>
-<AM lemma="traburův" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Traburův_;S_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95046-047-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1622,17 +1601,7 @@
 <LM>w#w-ln95046-047-p3s5w11</LM>
 </w.rf>
 <form>Trabura</form>
-<tag>
-<AM lemma="Trabura_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Trabura" src="auto">NNFS1-----A----</AM>
-<AM lemma="Trabura_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Trabur_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Trabur" src="auto">NNMS4-----A----</AM>
-<AM lemma="Trabur" src="auto">NNMS2-----A----</AM>
-<AM lemma="Trabura-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Trabur_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="trabura" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Trabura_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-047-p3s5w12">
 <src.rf>manual</src.rf>
@@ -2032,17 +2001,7 @@
 <LM>w#w-ln95046-047-p4s1w1</LM>
 </w.rf>
 <form>Trabura</form>
-<tag>
-<AM lemma="Trabura_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Trabura" src="auto">NNFS1-----A----</AM>
-<AM lemma="Trabura_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Trabur_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Trabur" src="auto">NNMS4-----A----</AM>
-<AM lemma="Trabur" src="auto">NNMS2-----A----</AM>
-<AM lemma="Trabura-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Trabur_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="trabura" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Trabura_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-047-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2663,17 +2622,7 @@
 <LM>w#w-ln95046-047-p4s6w3</LM>
 </w.rf>
 <form>Trabura</form>
-<tag>
-<AM lemma="Trabura_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Trabura" src="auto">NNFS1-----A----</AM>
-<AM lemma="Trabura_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Trabur_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Trabur" src="auto">NNMS4-----A----</AM>
-<AM lemma="Trabur" src="auto">NNMS2-----A----</AM>
-<AM lemma="Trabura-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Trabur_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="trabura" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Trabura_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-047-p4s6w4">
 <src.rf>manual</src.rf>

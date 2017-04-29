@@ -904,13 +904,7 @@
 <LM>w#w-ln95049-114-p2s5w14</LM>
 </w.rf>
 <form>pololžou</form>
-<tag>
-<AM lemma="pololhát" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="pololzat" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="pololhát" src="auto" recommended="1">VB-P---3P-AA---</AM>
-<AM lemma="pololzat_^(např._provazem;_se_k_čemu)" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="pololhat" src="auto">VB-P---3P-AA---</AM>
-</tag>
+<tag lemma="pololhát" src="orig" selected="1">VB-P---3P-AA---</tag>
 </m>
 <m id="m-ln95049-114-p2s5w15">
 <src.rf>manual</src.rf>
@@ -2315,16 +2309,7 @@
 <LM>w#w-ln95049-114-p4s4w9</LM>
 </w.rf>
 <form>odviní</form>
-<tag>
-<AM lemma="odvinit" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="odvinit_:T" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="odvinit_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="odvinit_:W" src="auto" recommended="1">VB-P---3P-AA---</AM>
-<AM lemma="odvinit_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="odviní" src="auto">NNNS4-----A----</AM>
-<AM lemma="odviní-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="odviný" src="auto">AAMP1----1A----</AM>
-</tag>
+<tag lemma="odvinit" src="orig" selected="1">VB-P---3P-AA---</tag>
 </m>
 <m id="m-ln95049-114-p4s4w10">
 <src.rf>manual</src.rf>

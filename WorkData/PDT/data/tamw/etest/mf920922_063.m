@@ -251,17 +251,7 @@
 <LM>w#w-mf920922-063-p2s5w3</LM>
 </w.rf>
 <form>Masya</form>
-<tag>
-<AM lemma="Masya_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Masya_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Masya_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Masya_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Masyo_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Masya_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Masya" src="auto">NNFS1-----A----</AM>
-<AM lemma="Masy_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="masya" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Masya_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-063-p2s5w4">
 <src.rf>manual</src.rf>

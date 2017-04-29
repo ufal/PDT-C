@@ -1405,16 +1405,7 @@
 <LM>w#w-ln94204-161-p6s1w6</LM>
 </w.rf>
 <form>Cabletel</form>
-<tag>
-<AM lemma="Cabletel_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Cabletel" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cabletel" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cabletel" src="auto">NNIS4-----A----</AM>
-<AM lemma="Cabletel_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cabletel_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Cabletlo-1" src="auto">NNNP2-----A----</AM>
-<AM lemma="cabletel" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cabletel_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-161-p6s1w7">
 <src.rf>manual</src.rf>
@@ -1448,22 +1439,7 @@
 <LM>w#w-ln94204-161-p6s2w3</LM>
 </w.rf>
 <form>GAD</form>
-<tag>
-<AM lemma="GAD_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="GAD_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Gad_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="GAD_:B_;R_^(časopis)" src="auto">NNIXX-----A----</AM>
-<AM lemma="GAD_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Gad" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gad" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gada" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gad_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gad_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gad_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gad_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Gad_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="gad" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="GAD_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-161-p6s2w4">
 <src.rf>manual</src.rf>
@@ -1887,18 +1863,7 @@
 <LM>w#w-ln94204-161-p6s6w15</LM>
 </w.rf>
 <form>Highway</form>
-<tag>
-<AM lemma="highway_,t" src="orig">NNFS4-----A----</AM>
-<AM lemma="Highway_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Highway_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Highway_;K" src="auto">NNFSX-----A----</AM>
-<AM lemma="Highway_,t" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Highway_,t" src="auto">Db-------------</AM>
-<AM lemma="Highway_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Highway_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Highway_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="highway" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="highway_,t" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94204-161-p6s6w16">
 <src.rf>manual</src.rf>

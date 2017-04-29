@@ -1297,17 +1297,7 @@
 <LM>w#w-ln95047-037-p4s2w37</LM>
 </w.rf>
 <form>minulorežimní</form>
-<tag>
-<AM lemma="minulorežimní" src="orig">AAFS7----1A----</AM>
-<AM lemma="minulorežimní" src="auto">AAFS1----1A----</AM>
-<AM lemma="minulorežimní" src="auto">AAFS2----1A----</AM>
-<AM lemma="minulorežimní" src="auto">AAIP4----1A----</AM>
-<AM lemma="minulorežimní" src="auto">AAFS4----1A----</AM>
-<AM lemma="minulorežimní" src="auto">AAIS4----1A----</AM>
-<AM lemma="minulorežimní" src="auto" recommended="1">AAFS7----1A----</AM>
-<AM lemma="minulorežimní" src="auto">AAIS1----1A----</AM>
-<AM lemma="minulorežimní" src="auto">AANS1----1A----</AM>
-</tag>
+<tag lemma="minulorežimní" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln95047-037-p4s2w38">
 <src.rf>manual</src.rf>

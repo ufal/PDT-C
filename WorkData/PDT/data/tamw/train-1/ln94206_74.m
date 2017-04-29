@@ -288,18 +288,7 @@
 <LM>w#w-ln94206-74-p2s1Bw26</LM>
 </w.rf>
 <form>Kamanda</form>
-<tag>
-<AM lemma="Kamanda_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kamanda_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kamanda" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kamand_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kamand_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kamand_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kamanda_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kamanda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kamand_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="kamanda" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kamanda_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-74-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -318,18 +307,7 @@
 <LM>w#w-ln94206-74-p2s1Bw28</LM>
 </w.rf>
 <form>Kamanda</form>
-<tag>
-<AM lemma="Kamanda_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kamanda_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kamanda" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kamand_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kamand_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kamand_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kamanda_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kamanda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kamand_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="kamanda" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kamanda_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-74-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -523,18 +501,7 @@
 <LM>w#w-ln94206-74-p2s2w23</LM>
 </w.rf>
 <form>Kamanda</form>
-<tag>
-<AM lemma="Kamanda_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kamanda_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kamanda" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kamand_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kamand_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kamand_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kamanda_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kamanda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kamand_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="kamanda" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kamanda_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-74-p2s2w24">
 <src.rf>manual</src.rf>

@@ -109,17 +109,7 @@
 <LM>w#w-mf920922-097-p2s1w3</LM>
 </w.rf>
 <form>kw</form>
-<tag>
-<AM lemma="kw-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kw-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="kw_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kw_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kw_;G_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="kw" src="auto">NNNXX-----A----</AM>
-<AM lemma="kw" src="auto">NNFXX-----A----</AM>
-<AM lemma="know_,t_^(kw_how)" src="auto">NNNXX-----A----</AM>
-<AM lemma="how_,t_^(know_kw)" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="kw-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920922-097-p2s1w4">
 <src.rf>manual</src.rf>

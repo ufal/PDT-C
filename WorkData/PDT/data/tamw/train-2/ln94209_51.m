@@ -43,18 +43,7 @@
 <LM>w#w-ln94209-51-p1s1w4</LM>
 </w.rf>
 <form>EuroDisney</form>
-<tag>
-<AM lemma="EuroDisney_;m_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="EuroDisney_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="EuroDisney_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="EuroDisney_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="EuroDisney_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="EuroDisney_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="EuroDisney-3_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="EuroDisney_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="EuroDisney_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Eurodisney" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="EuroDisney_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 </s>
 <s id="m-ln94209-51-p2s1">
@@ -139,18 +128,7 @@
 <LM>w#w-ln94209-51-p2s1w10</LM>
 </w.rf>
 <form>Mariou</form>
-<tag>
-<AM lemma="Maria_;Y" src="orig">NNFS7-----A----</AM>
-<AM lemma="Maria_;Y" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="Maria_^(řec.)" src="auto">NNFS7-----A----</AM>
-<AM lemma="Maria_;S" src="auto">NNFS7-----A----</AM>
-<AM lemma="Mariou_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Mariý" src="auto">AAFS4----1A----</AM>
-<AM lemma="Maria" src="auto">NNFS7-----A----</AM>
-<AM lemma="Mariý" src="auto">AAFS7----1A----</AM>
-<AM lemma="Mariý_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="mariou" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Maria_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94209-51-p2s1w11">
 <src.rf>manual</src.rf>
@@ -206,18 +184,7 @@
 <LM>w#w-ln94209-51-p2s1w17</LM>
 </w.rf>
 <form>EuroDisney</form>
-<tag>
-<AM lemma="EuroDisney_;m_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="EuroDisney_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="EuroDisney_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="EuroDisney_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="EuroDisney_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="EuroDisney_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="EuroDisney-3_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="EuroDisney_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="EuroDisney_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Eurodisney" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="EuroDisney_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94209-51-p2s1w18">
 <src.rf>manual</src.rf>
@@ -425,18 +392,7 @@
 <LM>w#w-ln94209-51-p3s1w2</LM>
 </w.rf>
 <form>EuroDisney</form>
-<tag>
-<AM lemma="EuroDisney_;m_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="EuroDisney_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="EuroDisney_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="EuroDisney_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="EuroDisney_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="EuroDisney_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="EuroDisney-3_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="EuroDisney_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="EuroDisney_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Eurodisney" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="EuroDisney_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94209-51-p3s1w3">
 <src.rf>manual</src.rf>
@@ -874,18 +830,7 @@
 <LM>w#w-ln94209-51-p4s2w7</LM>
 </w.rf>
 <form>EuroDisney</form>
-<tag>
-<AM lemma="EuroDisney_;m_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="EuroDisney_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="EuroDisney_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="EuroDisney_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="EuroDisney_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="EuroDisney_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="EuroDisney-3_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="EuroDisney_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="EuroDisney_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Eurodisney" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="EuroDisney_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94209-51-p4s2w8">
 <src.rf>manual</src.rf>

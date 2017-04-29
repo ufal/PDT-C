@@ -931,18 +931,7 @@
 <LM>w#w-ln94207-123-p4s1w17</LM>
 </w.rf>
 <form>Springem</form>
-<tag>
-<AM lemma="Spring_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Spring" src="auto">NNIS7-----A----</AM>
-<AM lemma="Spring_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Spring_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Spring" src="auto">NNMS7-----A----</AM>
-<AM lemma="Springe_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Springo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Spring_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Springe_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="springem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Spring_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94207-123-p4s1w18">
 <src.rf>manual</src.rf>
@@ -960,18 +949,7 @@
 <LM>w#w-ln94207-123-p4s2w1</LM>
 </w.rf>
 <form>Spring</form>
-<tag>
-<AM lemma="Spring_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Spring_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Spring" src="auto">NNIS4-----A----</AM>
-<AM lemma="Spring_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Spring" src="auto">NNIS1-----A----</AM>
-<AM lemma="Spring_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Spring_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Spring_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Spring_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="spring" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Spring_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-123-p4s2w2">
 <src.rf>manual</src.rf>

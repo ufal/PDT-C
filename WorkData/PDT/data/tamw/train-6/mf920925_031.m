@@ -75,26 +75,7 @@
 <LM>w#w-mf920925-031-p1s1w8</LM>
 </w.rf>
 <form>BHT</form>
-<tag>
-<AM lemma="BHT_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="BHT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="BHT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Bht_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bht_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bht_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bht_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bht_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="maastricht-1_^(smlouva_z_Bhtu,_přeneseně)" src="auto">NNIS4-----A----</AM>
-<AM lemma="maastricht-1_^(smlouva_z_Bhtu,_přeneseně)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bhen_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="bht" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="BHT_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-mf920925-031-p1s1w9">
 <src.rf>manual</src.rf>

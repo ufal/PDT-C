@@ -2713,18 +2713,7 @@
 <LM>w#w-ln95045-013-p6s1w5</LM>
 </w.rf>
 <form>Sanfrecce</form>
-<tag>
-<AM lemma="Sanfrecce_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="ecce_,t_^(Sanfrecce_homo,_ejhle_člověk)" src="auto">II-------------</AM>
-<AM lemma="Sanfrecce_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Sanfrecce" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sanfrecce" src="auto">NNFS2-----A----</AM>
-<AM lemma="Sanfrecka" src="auto">NNFS6-----A----</AM>
-<AM lemma="Sanfrecce" src="auto">NNFP4-----A----</AM>
-<AM lemma="Sanfrecce" src="auto">NNFP1-----A----</AM>
-<AM lemma="Sanfrecka" src="auto">NNFS3-----A----</AM>
-<AM lemma="sanfrecce" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sanfrecce_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95045-013-p6s1w6">
 <src.rf>manual</src.rf>

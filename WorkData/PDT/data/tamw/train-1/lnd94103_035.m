@@ -353,18 +353,7 @@
 <LM>w#w-lnd94103-035-p2s3w15</LM>
 </w.rf>
 <form>Patriae</form>
-<tag>
-<AM lemma="Patriae_;K_^(nadace)" src="orig">NNFS1-----A----</AM>
-<AM lemma="Patriae_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Patriae_;K_^(nadace)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Patriae_;L_,t" src="auto">NNFP1-----A----</AM>
-<AM lemma="Patriae_;L_,t" src="auto">AAFP1----1A----</AM>
-<AM lemma="Patria_,t" src="auto">NNFP1-----A----</AM>
-<AM lemma="tae_,t_^(Patriae-kwon-do)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Patria_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Patriae_;u_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="patriae" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Patriae_;K_^(nadace)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-035-p2s3w16">
 <src.rf>manual</src.rf>
@@ -716,18 +705,7 @@
 <LM>w#w-lnd94103-035-p2s5w16</LM>
 </w.rf>
 <form>Lojze</form>
-<tag>
-<AM lemma="Lojze_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lojz_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Lojz_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Lojze_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lojze" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lojze" src="auto">NNFS2-----A----</AM>
-<AM lemma="Lojha" src="auto">NNFS6-----A----</AM>
-<AM lemma="Lojz_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Lojha" src="auto">NNFS3-----A----</AM>
-<AM lemma="lojze" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lojze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-035-p2s5w17">
 <src.rf>manual</src.rf>

@@ -1136,15 +1136,7 @@
 <LM>w#w-cmpr9415-001-p6s1w2</LM>
 </w.rf>
 <form>Lalomde</form>
-<tag>
-<AM lemma="Lalomde_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lalomde_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lalomít" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Lalomde" src="auto">Db-------------</AM>
-<AM lemma="Lalomt" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Lalomde_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="lalomde" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lalomde_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-001-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1160,18 +1152,7 @@
 <LM>w#w-cmpr9415-001-p6s1w4</LM>
 </w.rf>
 <form>Désudry</form>
-<tag>
-<AM lemma="Désudry_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Désudra" src="auto">NNFS2-----A----</AM>
-<AM lemma="Désudra_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Désudr" src="auto">NNIP7-----A----</AM>
-<AM lemma="Désudr" src="auto">NNIP4-----A----</AM>
-<AM lemma="Désudro" src="auto">NNNP7-----A----</AM>
-<AM lemma="Désudra_;Y_^(^FA*1)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Désudra_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="Désudra_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="désudry" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Désudry_;K" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-001-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1834,18 +1815,7 @@
 <LM>w#w-cmpr9415-001-p7s1w2</LM>
 </w.rf>
 <form>Soucy</form>
-<tag>
-<AM lemma="Soucy_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Soucy_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Soucy_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Soucy_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Soucy_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Soucy_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Souca_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Souca_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Souc_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="soucy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Soucy_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-001-p7s1w3">
 <src.rf>manual</src.rf>
@@ -3457,18 +3427,7 @@
 <LM>w#w-cmpr9415-001-p9s1w2</LM>
 </w.rf>
 <form>Zikovsky</form>
-<tag>
-<AM lemma="Zikovsky_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zikovsky_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Zikovska" src="auto">NNFS2-----A----</AM>
-<AM lemma="Zikovska" src="auto">NNFP1-----A----</AM>
-<AM lemma="Zikovska" src="auto">NNFP4-----A----</AM>
-<AM lemma="Zikovsek" src="auto">NNIP1-----A----</AM>
-<AM lemma="Zikovsk" src="auto">NNIP1-----A----</AM>
-<AM lemma="Zikovsky_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Zikovska_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="zikovsky" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Zikovsky_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-001-p9s1w3">
 <src.rf>manual</src.rf>
@@ -4098,23 +4057,7 @@
 <LM>w#w-cmpr9415-001-p10s1w6</LM>
 </w.rf>
 <form>FKIM</form>
-<tag>
-<AM lemma="FKIM_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="FKIM_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="FKIM_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FKIM-1_:B_;U_^(akutní_infarkt_myokardu)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="FKIM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FKIM_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Fkim_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fkim_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fki_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Fkim_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fkim" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fkim" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fkimum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Fkim_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="fkim" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FKIM_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-cmpr9415-001-p10s1w7">
 <src.rf>manual</src.rf>

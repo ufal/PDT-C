@@ -297,18 +297,7 @@
 <LM>w#w-ln95048-068-p2s2w9</LM>
 </w.rf>
 <form>Frontiers</form>
-<tag>
-<AM lemma="frontier_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Frontiers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Frontier_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Frontiers_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Frontier_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Frontier_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Frontiers_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Frontiers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Frontiers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="frontiers" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="frontier_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln95048-068-p2s2w10">
 <src.rf>manual</src.rf>
@@ -2844,27 +2833,7 @@
 <LM>w#w-ln95048-068-p3s11w3</LM>
 </w.rf>
 <form>VSZ</form>
-<tag>
-<AM lemma="VSZ_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="VSZ-1_:B_;K_,t_^(Fiatal_Demokraták_Szövetsége)" src="auto">NNIXX-----A----</AM>
-<AM lemma="VSZ-1_:B_;K_^(Strana_zelených)" src="auto">NNFXX-----A----</AM>
-<AM lemma="VSZ_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="VSZ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VSZ_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VSZ_:B_;K_^(Pražská_správa_sociálního_zabezpečení)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Vseverozápad_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Vss" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vsz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vsz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vsz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vsz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vsz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vsz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vsza" src="auto">NNFP2-----A----</AM>
-<AM lemma="vseverozápad_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="vsz" src="auto">NNMS1-----A----</AM>
-<AM lemma="vsz-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="VSZ_:B" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95048-068-p3s11w4">
 <src.rf>manual</src.rf>

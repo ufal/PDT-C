@@ -2899,17 +2899,7 @@
 <LM>w#w-ln94211-87-p6s4w5</LM>
 </w.rf>
 <form>kšiltkem</form>
-<tag>
-<AM lemma="kšiltek" src="orig">NNIS7-----A----</AM>
-<AM lemma="kšiltk" src="auto">NNIS7-----A----</AM>
-<AM lemma="kšiltek" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="kšiltk" src="auto">NNMS7-----A----</AM>
-<AM lemma="kšiltk_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="kšiltek_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="kšiltko_;G" src="auto">NNNS7-----A----</AM>
-<AM lemma="kšiltko" src="auto">NNNS7-----A----</AM>
-<AM lemma="kšiltek" src="auto">NNMS7-----A----</AM>
-</tag>
+<tag lemma="kšiltek" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94211-87-p6s4w6">
 <src.rf>manual</src.rf>

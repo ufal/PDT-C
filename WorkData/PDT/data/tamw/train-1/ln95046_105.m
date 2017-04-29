@@ -111,18 +111,7 @@
 <LM>w#w-ln95046-105-p2s1Bw5</LM>
 </w.rf>
 <form>Thinking</form>
-<tag>
-<AM lemma="thinking_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Thinking_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Thinking" src="auto">NNIS4-----A----</AM>
-<AM lemma="Thinking_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Thinking" src="auto">NNIS1-----A----</AM>
-<AM lemma="Thinking_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Thinking_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Thinking_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Thinking_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="thinking" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="thinking_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95046-105-p2s1Bw6">
 <src.rf>manual</src.rf>

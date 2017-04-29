@@ -737,18 +737,7 @@
 <LM>w#w-ln94204-145-p3s2w10</LM>
 </w.rf>
 <form>Molony</form>
-<tag>
-<AM lemma="Molony_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Molon" src="auto">NNIP1-----A----</AM>
-<AM lemma="Molon" src="auto">NNIP4-----A----</AM>
-<AM lemma="Molon" src="auto">NNIP7-----A----</AM>
-<AM lemma="Molón" src="auto">NNIP4-----A----</AM>
-<AM lemma="Molona" src="auto">NNFP1-----A----</AM>
-<AM lemma="Molona" src="auto">NNFS2-----A----</AM>
-<AM lemma="Molon" src="auto">NNMP4-----A----</AM>
-<AM lemma="Molona" src="auto">NNFP4-----A----</AM>
-<AM lemma="molony" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Molony_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p3s2w11">
 <src.rf>manual</src.rf>
@@ -2359,18 +2348,7 @@
 <LM>w#w-ln94204-145-p8s3w16</LM>
 </w.rf>
 <form>Piwowar</form>
-<tag>
-<AM lemma="Piwowar_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Piwowar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Piwowar_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Piwowar" src="auto">NNIS1-----A----</AM>
-<AM lemma="Piwowar" src="auto">NNIS4-----A----</AM>
-<AM lemma="Piwowar_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Piwowar" src="auto">NNMS1-----A----</AM>
-<AM lemma="Piwowar_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Piwowar_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="piwowar" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Piwowar_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p8s3w17">
 <src.rf>manual</src.rf>
@@ -2688,17 +2666,7 @@
 <LM>w#w-ln94204-145-p9s3w17</LM>
 </w.rf>
 <form>Prajsner</form>
-<tag>
-<AM lemma="Prajsner_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Prajsner_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prajsner" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prajsner" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prajsne_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prajsmer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Prajsner_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Prajsner_;K_,t_^(měm.,_v_názvech)" src="auto">AAXXX----1A----</AM>
-<AM lemma="prajsner" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Prajsner_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p9s3w18">
 <src.rf>manual</src.rf>
@@ -4185,17 +4153,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Prajsner</form>
-<tag>
-<AM lemma="Prajsmer_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Prajsner_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prajsner" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prajsner" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prajsne_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prajsmer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Prajsner_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Prajsner_;K_,t_^(měm.,_v_názvech)" src="auto">AAXXX----1A----</AM>
-<AM lemma="prajsner" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Prajsmer_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p14s2w13">
 <src.rf>manual</src.rf>

@@ -422,18 +422,7 @@
 <LM>w#w-ln95049-035-p2s2w25</LM>
 </w.rf>
 <form>Hockey</form>
-<tag>
-<AM lemma="Hockey_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Hockey_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hockey_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Hockey_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Hockey_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Hockey_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Hockey_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Hockey_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Hockey_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="hockey" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hockey_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95049-035-p2s2w26">
 <src.rf>manual</src.rf>
@@ -441,18 +430,7 @@
 <LM>w#w-ln95049-035-p2s2w26</LM>
 </w.rf>
 <form>League</form>
-<tag>
-<AM lemma="League_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="League_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="League_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="League_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="League_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="League_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="League_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="League_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="League_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="league" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="League_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95049-035-p2s2w27">
 <src.rf>manual</src.rf>
@@ -468,26 +446,7 @@
 <LM>w#w-ln95049-035-p2s2w28</LM>
 </w.rf>
 <form>IHL</form>
-<tag>
-<AM lemma="IHL_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IHL_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IHL_:B_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IHL_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IHL_:B_;K_^(Hockey_League)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="IHL_:B_;m_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Ici" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Ihl-1`hektolitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Ihl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ihnout" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Ihnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="ici" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="ihektolitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ihl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ihlavní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="ihnout" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="ihnout_,h_,x" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="ihnout_:W" src="auto">VpYS---XR-AA--1</AM>
-</tag>
+<tag lemma="IHL_:B_;m_,t" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95049-035-p2s2w29">
 <src.rf>manual</src.rf>
@@ -524,18 +483,7 @@
 <LM>w#w-ln95049-035-p2s2w32</LM>
 </w.rf>
 <form>Cyclones</form>
-<tag>
-<AM lemma="Cyclone_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Cyclones_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cyclones" src="auto">Db-------------</AM>
-<AM lemma="Stones_;K_,t_^(Rolling_Cyclones)" src="auto">NNIPX-----A----</AM>
-<AM lemma="Cyclone_;m_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Cyclone_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Cyclonést" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Cyclones_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Cyclones_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="cyclones" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cyclone_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln95049-035-p2s2w33">
 <src.rf>manual</src.rf>
@@ -1712,26 +1660,7 @@
 <LM>w#w-ln95049-035-p3s6w17</LM>
 </w.rf>
 <form>IHL</form>
-<tag>
-<AM lemma="IHL_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IHL_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IHL_:B_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IHL_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IHL_:B_;K_^(Hockey_League)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="IHL_:B_;m_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Ici" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Ihl-1`hektolitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Ihl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ihnout" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Ihnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="ici" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="ihektolitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ihl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ihlavní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="ihnout" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="ihnout_,h_,x" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="ihnout_:W" src="auto">VpYS---XR-AA--1</AM>
-</tag>
+<tag lemma="IHL_:B_;m_,t" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95049-035-p3s6w18">
 <src.rf>manual</src.rf>
@@ -2477,17 +2406,7 @@
 <LM>w#w-ln95049-035-p3s9w2</LM>
 </w.rf>
 <form>pardónu</form>
-<tag>
-<AM lemma="pardón" src="orig">NNIS2-----A----</AM>
-<AM lemma="pardón" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="pardón" src="auto">NNIS6-----A---1</AM>
-<AM lemma="pardón" src="auto">NNIS6-----A----</AM>
-<AM lemma="pardóna" src="auto">NNFS4-----A----</AM>
-<AM lemma="pardon" src="auto">NNIS2-----A----</AM>
-<AM lemma="pardón`1000000" src="auto">NNIS3-----A----</AM>
-<AM lemma="pardón`1000000" src="auto">NNIS2-----A----</AM>
-<AM lemma="pardón_;K" src="auto">NNIS2-----A----</AM>
-</tag>
+<tag lemma="pardón" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95049-035-p3s9w3">
 <src.rf>manual</src.rf>
@@ -3733,26 +3652,7 @@
 <LM>w#w-ln95049-035-p3s16w35</LM>
 </w.rf>
 <form>IHL</form>
-<tag>
-<AM lemma="IHL_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IHL_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IHL_:B_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IHL_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IHL_:B_;K_^(Hockey_League)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="IHL_:B_;m_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Ici" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Ihl-1`hektolitr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Ihl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ihnout" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Ihnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="ici" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="ihektolitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ihl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ihlavní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="ihnout" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="ihnout_,h_,x" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="ihnout_:W" src="auto">VpYS---XR-AA--1</AM>
-</tag>
+<tag lemma="IHL_:B_;m_,t" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95049-035-p3s16w36">
 <src.rf>manual</src.rf>

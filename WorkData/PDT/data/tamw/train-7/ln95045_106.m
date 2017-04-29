@@ -453,17 +453,7 @@
 <LM>w#w-ln95045-106-p2s4w6</LM>
 </w.rf>
 <form>Movladi</form>
-<tag>
-<AM lemma="Movladi_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Movlad" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Movlad" src="auto">NNMP1-----A----</AM>
-<AM lemma="Movladi_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Movladi_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Movladi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Movlaď" src="auto">NNFS6-----A----</AM>
-<AM lemma="Movlaď" src="auto">NNFS3-----A----</AM>
-<AM lemma="movladi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Movladi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-106-p2s4w7">
 <src.rf>manual</src.rf>
@@ -992,18 +982,7 @@
 <LM>w#w-ln95045-106-p2s7w6</LM>
 </w.rf>
 <form>Gudermes</form>
-<tag>
-<AM lemma="Gudermes_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Gudermes_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="guderme_;R_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Gudermes)" src="auto">NNIPX-----A----</AM>
-<AM lemma="Guderme_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Guderme_,t" src="auto" recommended="1">NNNPX-----A----</AM>
-<AM lemma="Guderme_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Gudermes_;m_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Gudermes_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="gudermes" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gudermes_;G" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95045-106-p2s7w7">
 <src.rf>manual</src.rf>

@@ -1153,17 +1153,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>maximuma</form>
-<tag>
-<AM lemma="maximum" src="orig">NNNS2-----A----</AM>
-<AM lemma="maximuma" src="auto">NNFS1-----A----</AM>
-<AM lemma="maximum_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="maximuma_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="maximum_,t" src="auto">NNNS2-----A----</AM>
-<AM lemma="maximum" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="maximuma_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="maximuma_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="maximuma_;K" src="auto">NNXXX-----A----</AM>
-</tag>
+<tag lemma="maximum" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95049-049-p3s3w10">
 <src.rf>manual</src.rf>

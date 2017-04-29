@@ -3060,17 +3060,7 @@
 <LM>w#w-ln94204-77-p6s1w6</LM>
 </w.rf>
 <form>muklotechna</form>
-<tag>
-<AM lemma="muklotechna" src="orig">NNFS1-----A----</AM>
-<AM lemma="muklotechn_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="muklotechna_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="muklotechna_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="muklotechen" src="auto">PLNP4----------</AM>
-<AM lemma="muklotechen" src="auto">PLNP1----------</AM>
-<AM lemma="muklotechen" src="auto">PLFS1----------</AM>
-<AM lemma="muklotechno" src="auto">NNNS2-----A----</AM>
-<AM lemma="muklotechn_;Y" src="auto">NNMS4-----A----</AM>
-</tag>
+<tag lemma="muklotechna" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-77-p6s1w7">
 <src.rf>manual</src.rf>

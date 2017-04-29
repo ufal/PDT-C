@@ -141,17 +141,7 @@
 <LM>w#w-ln94208-65-p2s1Bw6</LM>
 </w.rf>
 <form>Kahimbo</form>
-<tag>
-<AM lemma="Kahimbo_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Kahimbo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Kahimbo_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Kahimbo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kahimbo-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kahimbo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Kahimbo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Kahimbo" src="auto">J^-------------</AM>
-<AM lemma="kahimbo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kahimbo_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94208-65-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -261,18 +251,7 @@
 <LM>w#w-ln94208-65-p2s1Bw19</LM>
 </w.rf>
 <form>Kibumba</form>
-<tag>
-<AM lemma="Kibumba_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Kibumba" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Kibumba_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kibumba_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kibumba_;R" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kibumba-1_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kibumba-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Kibumb_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kibumba_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="kibumba" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kibumba_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-65-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -378,18 +357,7 @@
 <LM>w#w-ln94208-65-p2s2w4</LM>
 </w.rf>
 <form>Kahimba</form>
-<tag>
-<AM lemma="Kahimbo_;G" src="orig">NNNS2-----A----</AM>
-<AM lemma="Kahimba" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kahimba_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kahimba_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kahimba_;R" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kahimba-1_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kahimba-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="Kahimb_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kahimba_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="kahimba" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kahimbo_;G" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94208-65-p2s2w5">
 <src.rf>manual</src.rf>
@@ -503,18 +471,7 @@
 <LM>w#w-ln94208-65-p2s3w8</LM>
 </w.rf>
 <form>Kahimbu</form>
-<tag>
-<AM lemma="Kahimbu_;G" src="orig">NNNS6-----A----</AM>
-<AM lemma="Kahimba" src="auto">NNFS4-----A----</AM>
-<AM lemma="Kahimbo_;G" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="Kahimb" src="auto">NNIS2-----A----</AM>
-<AM lemma="Kahimb" src="auto">NNIS6-----A----</AM>
-<AM lemma="Kahimb" src="auto">NNIS3-----A----</AM>
-<AM lemma="Kahimb_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Kahimb_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Kahimba_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="kahimbu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kahimbu_;G" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94208-65-p2s3w9">
 <src.rf>manual</src.rf>

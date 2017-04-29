@@ -139,18 +139,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>McKevittová</form>
-<tag>
-<AM lemma="McKevittová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="McKevittová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="McKevittový" src="auto">AAFS1----1A----</AM>
-<AM lemma="McKevittový" src="auto">AANP1----1A----</AM>
-<AM lemma="McKevittový" src="auto">AANP4----1A----</AM>
-<AM lemma="McKevittová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="McKevittová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="McKevittový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="McKevittový" src="auto">AAFS5----1A----</AM>
-<AM lemma="Mckevittová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="McKevittová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-100-p1s1B">
@@ -169,18 +158,7 @@
 <LM>w#w-ln94207-100-p1s1Bw2</LM>
 </w.rf>
 <form>Mute</form>
-<tag>
-<AM lemma="Mute_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Mute_,t" src="auto">Db-------------</AM>
-<AM lemma="Mute_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Mute_;K_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mute_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mute_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mute_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Mute_;K_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Mute_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="mute" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mute_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-100-p1s1Bw3">
 <src.rf>manual</src.rf>

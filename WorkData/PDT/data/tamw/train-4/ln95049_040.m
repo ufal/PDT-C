@@ -789,26 +789,7 @@
 <LM>w#w-ln95049-040-p2s5w18</LM>
 </w.rf>
 <form>IHL</form>
-<tag>
-<AM lemma="IHL_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IHL_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IHL_:B_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IHL_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IHL_:B_;K_^(Hockey_League)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="IHL_:B_;m_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Ici" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Ihl-1`hektolitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Ihl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ihnout" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Ihnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="ici" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="ihektolitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ihl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ihlavní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="ihnout" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="ihnout_,h_,x" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="ihnout_:W" src="auto">VpYS---XR-AA--1</AM>
-</tag>
+<tag lemma="IHL_:B_;m_,t" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95049-040-p2s5w19">
 <src.rf>manual</src.rf>

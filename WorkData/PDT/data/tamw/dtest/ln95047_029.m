@@ -1717,17 +1717,7 @@
 <LM>w#w-ln95047-029-p3s8w33</LM>
 </w.rf>
 <form>production</form>
-<tag>
-<AM lemma="production_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="production_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="production_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="production_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="production_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="production" src="auto">NNIS1-----A----</AM>
-<AM lemma="production_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="productión" src="auto">NNIS4-----A----</AM>
-<AM lemma="productión" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="production_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95047-029-p3s8w34">
 <src.rf>manual</src.rf>

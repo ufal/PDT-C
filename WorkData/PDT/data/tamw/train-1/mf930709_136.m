@@ -175,18 +175,7 @@
 <LM>w#w-mf930709-136-p2s1Bw12</LM>
 </w.rf>
 <form>Bosaso</form>
-<tag>
-<AM lemma="Bosaso_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Bosaso_^(jídlo_apod.)" src="auto">NNNS4-----A----</AM>
-<AM lemma="Bosaso_^(jídlo_apod.)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Bosaso_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Bosaso" src="auto">NNNS4-----A----</AM>
-<AM lemma="Bosaso" src="auto">NNNS1-----A----</AM>
-<AM lemma="Bosaso_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bosaso_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="so_:B_,x_^(Bosasobota)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="bosaso" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bosaso_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-136-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -1051,17 +1040,7 @@
 <LM>w#w-mf930709-136-p4s1w30</LM>
 </w.rf>
 <form>Farraha</form>
-<tag>
-<AM lemma="Farrah_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Farraha" src="auto">NNFS1-----A----</AM>
-<AM lemma="Farrah_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Farraho" src="auto">NNNS2-----A----</AM>
-<AM lemma="Farrah_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Farrah_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Farrah" src="auto">NNMS4-----A----</AM>
-<AM lemma="Farrah" src="auto">NNMS2-----A----</AM>
-<AM lemma="farraha" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Farrah_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-136-p4s1w31">
 <src.rf>manual</src.rf>

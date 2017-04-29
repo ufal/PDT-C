@@ -667,18 +667,7 @@
 <LM>w#w-mf930709-133-p2s3w19</LM>
 </w.rf>
 <form>Highgrove</form>
-<tag>
-<AM lemma="Highgrove_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Highgrvát_,n_,x" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Highgrov_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Highgrove_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Highgrove_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Highgrove_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Highgrove_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Highgrove_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Highgrove_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="highgrove" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Highgrove_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930709-133-p2s3w20">
 <src.rf>manual</src.rf>
@@ -1480,19 +1469,7 @@
 <LM>w#w-mf930709-133-p2s9w14</LM>
 </w.rf>
 <form>Estate</form>
-<tag>
-<AM lemma="Estate_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Estate_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Estate_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Estate_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Estate_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Estate_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Estate_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Estate_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Estást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="estate" src="auto">NNMS1-----A----</AM>
-<AM lemma="estatus" src="auto">NNIS5-----A----</AM>
-</tag>
+<tag lemma="Estate_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930709-133-p2s9w15">
 <src.rf>manual</src.rf>

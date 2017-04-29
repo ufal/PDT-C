@@ -302,16 +302,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>poémes</form>
-<tag>
-<AM lemma="poémes_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="poémes_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_poémes)" src="auto">NNIPX-----A----</AM>
-<AM lemma="poéme_;m_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="poéme_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="poéme_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="poémes_;m_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="poémes_;S_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="poémes_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln95049-063-p3s1w13">
 <src.rf>manual</src.rf>
@@ -319,17 +310,7 @@
 <LM>w#w-ln95049-063-p3s1w13</LM>
 </w.rf>
 <form>physiques</form>
-<tag>
-<AM lemma="physiques" src="orig">AAXXX----1A----</AM>
-<AM lemma="physique_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="physiques_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="physique_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="physiques_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="physiques_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="physiques_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="physiques" src="auto">NNNXX-----A----</AM>
-<AM lemma="physiques" src="auto" recommended="1">AAXXX----1A----</AM>
-</tag>
+<tag lemma="physiques" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95049-063-p3s1w14">
 <src.rf>manual</src.rf>
@@ -345,17 +326,7 @@
 <LM>w#w-ln95049-063-p3s1w15</LM>
 </w.rf>
 <form>visuels</form>
-<tag>
-<AM lemma="visuels_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="visuels_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="visuel_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="visuel_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="visuel_;K_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="visuel_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="visuels_;m_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="visuels_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="visuels_;K_,t" src="auto">NNMPX-----A----</AM>
-</tag>
+<tag lemma="visuels_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95049-063-p3s1w16">
 <src.rf>manual</src.rf>

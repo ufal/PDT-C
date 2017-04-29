@@ -33,18 +33,7 @@
 <LM>w#w-ln94207-102-p1s1Aw2</LM>
 </w.rf>
 <form>Bollesová</form>
-<tag>
-<AM lemma="Bollesová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Bollesová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Bollesový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Bollesový" src="auto">AANP1----1A----</AM>
-<AM lemma="Bollesový" src="auto">AANP4----1A----</AM>
-<AM lemma="Bollesová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bollesová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bollesový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Bollesový" src="auto">AAFS5----1A----</AM>
-<AM lemma="bollesová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bollesová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-102-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -140,18 +129,7 @@
 <LM>w#w-ln94207-102-p1s1Aw14</LM>
 </w.rf>
 <form>Griesheimu</form>
-<tag>
-<AM lemma="Griesheim_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Grieshei_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Griesheim_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Griesheim" src="auto">NNIS6-----A----</AM>
-<AM lemma="Griesheim" src="auto">NNIS2-----A----</AM>
-<AM lemma="Griesheimum" src="auto">NNNS3-----A----</AM>
-<AM lemma="Griesheima_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Griesheima-1" src="auto">NNFS4-----A----</AM>
-<AM lemma="Griesheim_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="griesheimu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Griesheim_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94207-102-p1s1Aw15">
 <src.rf>manual</src.rf>

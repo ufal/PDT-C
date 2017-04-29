@@ -146,26 +146,7 @@
 <LM>w#w-ln94211-126-p2s1Bw7</LM>
 </w.rf>
 <form>TECHOBUV</form>
-<tag>
-<AM lemma="TECHOBUV_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TECHOBUV_:B_;m" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="TECHOBUV_:B_;K_^(Ústředí_lidové_umělecké_výroby)" src="auto">NNNXX-----A----</AM>
-<AM lemma="TECHOBUV_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TECHOBUV-3_:B_,t_^(ultraviolet)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="TECHOBUV-3_:B_,t_^(ultraviolet)" src="auto">AAXXX----1A----</AM>
-<AM lemma="TECHOBUV_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="TECHOBUV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TECHOBUV_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Techobuv" src="auto">NNFS4-----A----</AM>
-<AM lemma="Techobuv" src="auto">NNFS1-----A----</AM>
-<AM lemma="Techobuva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Techobouva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Techobout_:W" src="auto">VmYS------A----</AM>
-<AM lemma="Techobuv_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Techobuv" src="auto">NNIS4-----A----</AM>
-<AM lemma="Techobuv_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="techobuv" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="TECHOBUV_:B_;m" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94211-126-p2s1Bw8">
 <src.rf>manual</src.rf>

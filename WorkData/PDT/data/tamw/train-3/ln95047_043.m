@@ -619,16 +619,7 @@
 <LM>w#w-ln95047-043-p2s3Bw5</LM>
 </w.rf>
 <form>psychosexualitu</form>
-<tag>
-<AM lemma="psychosexualita" src="orig">NNFS4-----A----</AM>
-<AM lemma="psychosexualit" src="auto">NNIS2-----A----</AM>
-<AM lemma="psychosexualit" src="auto">NNIS3-----A----</AM>
-<AM lemma="psychosexualit" src="auto">NNIS6-----A----</AM>
-<AM lemma="psychosexualit" src="auto">NNIS6-----A---1</AM>
-<AM lemma="psychosexualit_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="psychosexualit_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="psychosexualita" src="auto" recommended="1">NNFS4-----A----</AM>
-</tag>
+<tag lemma="psychosexualita" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95047-043-p2s3Bw6">
 <src.rf>manual</src.rf>

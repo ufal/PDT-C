@@ -1385,17 +1385,7 @@
 <LM>w#w-ln95049-041-p4s2w21</LM>
 </w.rf>
 <form>Okabe</form>
-<tag>
-<AM lemma="Okabe_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Okabe_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Okabe_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="Okabe_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Okabe_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Okabe_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Okabat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Okabe_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="okabe" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Okabe_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-041-p4s2w22">
 <src.rf>manual</src.rf>

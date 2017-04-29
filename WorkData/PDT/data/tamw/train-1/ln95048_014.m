@@ -85,18 +85,7 @@
 <LM>w#w-ln95048-014-p2s1w5</LM>
 </w.rf>
 <form>Bites</form>
-<tag>
-<AM lemma="bite_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Bites_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bite_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Bites_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bites_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Bites_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bites_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Bites_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bites_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="bites" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="bite_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln95048-014-p2s1w6">
 <src.rf>manual</src.rf>
@@ -505,18 +494,7 @@
 <LM>w#w-ln95048-014-p2s4w6</LM>
 </w.rf>
 <form>Classic</form>
-<tag>
-<AM lemma="Classic_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Classice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Classic_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Classic_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Classic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="music_,t_^(př._pop_Classic)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Classic_;u_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Classic_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Classic_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="classic" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Classic_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95048-014-p2s4w7">
 <src.rf>manual</src.rf>
@@ -524,18 +502,7 @@
 <LM>w#w-ln95048-014-p2s4w7</LM>
 </w.rf>
 <form>Entertainment</form>
-<tag>
-<AM lemma="Entertainment_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Entertainment" src="auto">NNIS1-----A----</AM>
-<AM lemma="Entertainment" src="auto">NNMS1-----A----</AM>
-<AM lemma="Entertainment" src="auto">NNIS4-----A----</AM>
-<AM lemma="Entertainment_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Entertainment_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Entertainment_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Entertainment_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Entertainment_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="entertainment" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Entertainment_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln95048-014-p2s4w8">
 <src.rf>manual</src.rf>

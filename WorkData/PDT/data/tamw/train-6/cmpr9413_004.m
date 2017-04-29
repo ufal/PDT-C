@@ -1833,16 +1833,7 @@
 <LM>w#w-cmpr9413-004-p8s1w10</LM>
 </w.rf>
 <form>rue</form>
-<tag>
-<AM lemma="rue_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="rue_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="rue_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rue_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="rue_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="rue_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="rue_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="rue_;m_,t" src="auto">NNFXX-----A----</AM>
-</tag>
+<tag lemma="rue_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9413-004-p8s1w11">
 <src.rf>manual</src.rf>
@@ -1869,17 +1860,7 @@
 <LM>w#w-cmpr9413-004-p8s1w13</LM>
 </w.rf>
 <form>Suite</form>
-<tag>
-<AM lemma="suite_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Suite_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Suite_;Y" src="auto">NNMSX-----A----</AM>
-<AM lemma="Suite_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Suite_;R_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Suite_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Suite_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Suite-1_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="suite" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="suite_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-cmpr9413-004-p8s1w14">
 <src.rf>manual</src.rf>

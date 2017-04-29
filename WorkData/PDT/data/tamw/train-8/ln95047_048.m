@@ -1055,18 +1055,7 @@
 <LM>w#w-ln95047-048-p3s2w21</LM>
 </w.rf>
 <form>Archi</form>
-<tag>
-<AM lemma="Archi_;K_,t" src="orig">AAMP1----1A----</AM>
-<AM lemma="Archi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Archi_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Arch_;R_,t" src="auto">NNIP1-----A----</AM>
-<AM lemma="Arh_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Archi_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Archi_;K_,t" src="auto">AAMP1----1A----</AM>
-<AM lemma="Archi_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Archi" src="auto">AAXXX----1A----</AM>
-<AM lemma="archi" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Archi_;K_,t" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-ln95047-048-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1074,15 +1063,7 @@
 <LM>w#w-ln95047-048-p3s2w22</LM>
 </w.rf>
 <form>Boemi</form>
-<tag>
-<AM lemma="Boemi_;K_,t" src="orig">NNMP1-----A----</AM>
-<AM lemma="Boe" src="auto">NNFP7-----A----</AM>
-<AM lemma="Bo" src="auto">NNFP7-----A----</AM>
-<AM lemma="Boe_;G" src="auto">NNFP7-----A----</AM>
-<AM lemma="Boe_^(*3ík)" src="auto">NNFP7-----A----</AM>
-<AM lemma="Boechen" src="auto">PLXP7----------</AM>
-<AM lemma="boemi" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Boemi_;K_,t" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95047-048-p3s2w23">
 <src.rf>manual</src.rf>

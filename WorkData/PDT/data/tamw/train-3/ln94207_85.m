@@ -89,18 +89,7 @@
 <LM>w#w-ln94207-85-p2s1Aw3</LM>
 </w.rf>
 <form>Possovi</form>
-<tag>
-<AM lemma="Posse_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Poss" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Poss" src="auto">NNMS6-----A----</AM>
-<AM lemma="Poss_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Poss_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Poss_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Possa_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Possův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="possovi" src="auto">NNMS1-----A----</AM>
-<AM lemma="possovi-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="Posse_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-85-p2s1B">
@@ -1283,15 +1272,7 @@
 <LM>w#w-ln94207-85-p5s1w8</LM>
 </w.rf>
 <form>Cordóbě</form>
-<tag>
-<AM lemma="Cordóba_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Cordóba_;G" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Cordóba" src="auto">NNFS6-----A----</AM>
-<AM lemma="Cordóba" src="auto">NNFS3-----A----</AM>
-<AM lemma="Cordóbě_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Cordóbě" src="auto">Dg-------1A----</AM>
-<AM lemma="cordóbě" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cordóba_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94207-85-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1685,13 +1666,7 @@
 <LM>w#w-ln94207-85-p6s2w20</LM>
 </w.rf>
 <form>Sábato</form>
-<tag>
-<AM lemma="Sábato_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sábato_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sábmout" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="Sábato" src="auto">Db-------------</AM>
-<AM lemma="sábato" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sábato_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-85-p6s2w21">
 <src.rf>manual</src.rf>

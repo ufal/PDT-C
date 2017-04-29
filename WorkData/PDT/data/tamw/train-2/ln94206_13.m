@@ -297,18 +297,7 @@
 <LM>w#w-ln94206-13-p2s3w3</LM>
 </w.rf>
 <form>Gradua</form>
-<tag>
-<AM lemma="Gradua_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Graduum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Graduum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Graduum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Graduo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Graduo" src="auto">NNNP1-----A----</AM>
-<AM lemma="Gradua_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Gradu_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gradu_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="gradua" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gradua_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-13-p2s3w4">
 <src.rf>manual</src.rf>
@@ -638,18 +627,7 @@
 <LM>w#w-ln94206-13-p3s1w8</LM>
 </w.rf>
 <form>Consult</form>
-<tag>
-<AM lemma="Consult_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Consult_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consult_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Consult_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Consult" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consulta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Consult_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Consult_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consult_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="consult" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Consult_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-13-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1036,18 +1014,7 @@
 <LM>w#w-ln94206-13-p3s2w11</LM>
 </w.rf>
 <form>Consult</form>
-<tag>
-<AM lemma="Consult_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Consult_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consult_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Consult_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Consult" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consulta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Consult_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Consult_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consult_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="consult" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Consult_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-13-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1227,18 +1194,7 @@
 <LM>w#w-ln94206-13-p3s4w3</LM>
 </w.rf>
 <form>Gradua</form>
-<tag>
-<AM lemma="Gradua_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Graduum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Graduum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Graduum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Graduo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Graduo" src="auto">NNNP1-----A----</AM>
-<AM lemma="Gradua_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Gradu_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gradu_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="gradua" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gradua_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-13-p3s4w4">
 <src.rf>manual</src.rf>

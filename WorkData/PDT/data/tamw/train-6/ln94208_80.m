@@ -265,18 +265,7 @@
 <LM>w#w-ln94208-80-p2s2w7</LM>
 </w.rf>
 <form>Hennadij</form>
-<tag>
-<AM lemma="Hennadij_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hennadij_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hennadij_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hennadý_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Hennadý_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hennadít" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Hennadij_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Hennadij_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Hennadij_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="hennadij" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hennadij_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-80-p2s2w8">
 <src.rf>manual</src.rf>

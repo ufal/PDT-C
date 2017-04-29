@@ -577,18 +577,7 @@
 <LM>w#w-ln94204-34-p2s6w28</LM>
 </w.rf>
 <form>InfoMatin</form>
-<tag>
-<AM lemma="InfoMatin_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="InfoMatina" src="auto">NNFP2-----A----</AM>
-<AM lemma="InfoMatin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="InfoMatin" src="auto">NNIS4-----A----</AM>
-<AM lemma="InfoMatin" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="InfoMatina" src="auto">CyFP2----------</AM>
-<AM lemma="InfoMatin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="InfoMatiny" src="auto">NNFP2-----A----</AM>
-<AM lemma="InfoMatina`80_^(*3)" src="auto">CyFP2----------</AM>
-<AM lemma="Infomatin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="InfoMatin_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94204-34-p2s6w29">
 <src.rf>manual</src.rf>
@@ -748,18 +737,7 @@
 <LM>w#w-ln94204-34-p3s2w13</LM>
 </w.rf>
 <form>Santé</form>
-<tag>
-<AM lemma="Santé_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Sant" src="auto">NNMP1-----A----</AM>
-<AM lemma="Santé_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Santa" src="auto">NNMP1-----A----</AM>
-<AM lemma="Santý" src="auto">AAFS2----1A----</AM>
-<AM lemma="Santý" src="auto">AANS1----1A----</AM>
-<AM lemma="Santý" src="auto">AAFP1----1A----</AM>
-<AM lemma="Santý" src="auto">AANS4----1A----</AM>
-<AM lemma="Santý" src="auto">AAFP4----1A----</AM>
-<AM lemma="santé" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Santé_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94204-34-p3s2w14">
 <src.rf>manual</src.rf>
@@ -867,18 +845,7 @@
 <LM>w#w-ln94204-34-p3s4w4</LM>
 </w.rf>
 <form>Decouty</form>
-<tag>
-<AM lemma="Decouty_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Decoout_:W" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="Decoout" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="Decouta" src="auto">NNFP1-----A----</AM>
-<AM lemma="Decout" src="auto">NNIP1-----A----</AM>
-<AM lemma="Decouta" src="auto">NNFP4-----A----</AM>
-<AM lemma="Decout" src="auto">NNIP4-----A----</AM>
-<AM lemma="Decouto" src="auto">NNNP7-----A----</AM>
-<AM lemma="Decouta_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="decouty" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Decouty_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-34-p3s4w5">
 <src.rf>manual</src.rf>

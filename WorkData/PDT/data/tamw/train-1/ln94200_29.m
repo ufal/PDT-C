@@ -411,18 +411,7 @@
 <LM>w#w-ln94200-29-p2s3w12</LM>
 </w.rf>
 <form>Bioma</form>
-<tag>
-<AM lemma="Bioma_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Biom" src="auto">NNMS2-----A----</AM>
-<AM lemma="Biom_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Biom_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bioma_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bioma_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Bioma_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Biomý" src="auto">ACQW------A----</AM>
-<AM lemma="bioma" src="auto">NNMS1-----A----</AM>
-<AM lemma="bioma-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-</tag>
+<tag lemma="Bioma_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-29-p2s3w13">
 <src.rf>manual</src.rf>

@@ -529,18 +529,7 @@
 <LM>w#w-ln94206-43-p2s2w24</LM>
 </w.rf>
 <form>Entsorgung</form>
-<tag>
-<AM lemma="Entsorgung_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Entsorgung_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Entsorgung_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Entsorgung_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Entsorgung_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Entsorgung_;p" src="auto">NNMS1-----A----</AM>
-<AM lemma="Entsorgung_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Entsorgung_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Entsorgung_;R_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="entsorgung" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Entsorgung_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-43-p2s2w25">
 <src.rf>manual</src.rf>

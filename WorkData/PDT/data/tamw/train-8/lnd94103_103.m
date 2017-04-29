@@ -2618,18 +2618,7 @@
 <LM>w#w-lnd94103-103-p1s13w34</LM>
 </w.rf>
 <form>Gridoux</form>
-<tag>
-<AM lemma="Gridoux_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gridoux_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gridoux_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Gridoux_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gridoux_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="faux_,h_,t_^(Gridoux_pas)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Gridoux_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Gridoux_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Gridoux_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="gridoux" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gridoux_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-103-p1s13w35">
 <src.rf>manual</src.rf>

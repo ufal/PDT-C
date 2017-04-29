@@ -279,18 +279,7 @@
 <LM>w#w-ln95049-052-p2s1Bw23</LM>
 </w.rf>
 <form>Montrosse</form>
-<tag>
-<AM lemma="Montross_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Montross_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Montrosse_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Montross_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Montrosse_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Montrosse_;m" src="auto">NNIXX-----A----</AM>
-<AM lemma="Montrosse_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Montrosse_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Montrosse_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="montrosse" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Montross_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-052-p2s1Bw24">
 <src.rf>manual</src.rf>

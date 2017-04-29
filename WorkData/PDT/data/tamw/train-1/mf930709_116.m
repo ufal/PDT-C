@@ -291,18 +291,7 @@
 <LM>w#w-mf930709-116-p2s1Bw23</LM>
 </w.rf>
 <form>Award</form>
-<tag>
-<AM lemma="Award_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Award_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Award_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Award" src="auto">NNIS1-----A----</AM>
-<AM lemma="Award_;m_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Award_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Award" src="auto">NNMS1-----A----</AM>
-<AM lemma="Award" src="auto">NNIS4-----A----</AM>
-<AM lemma="Awarda`1000000000" src="auto">NNFP2-----A----</AM>
-<AM lemma="award" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Award_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930709-116-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -724,18 +713,7 @@
 <LM>w#w-mf930709-116-p2s4w10</LM>
 </w.rf>
 <form>Bastro</form>
-<tag>
-<AM lemma="Bastro_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Bastro" src="auto">NNNS1-----A----</AM>
-<AM lemma="Bastro_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Bastro" src="auto">NNNS4-----A----</AM>
-<AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_Bastro)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Bastrický_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bastro_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Bastro_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bastro_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="bastro" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bastro_;K" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-116-p2s4w11">
 <src.rf>manual</src.rf>

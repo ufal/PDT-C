@@ -222,18 +222,7 @@
 <LM>w#w-ln95048-047-p2s1w23</LM>
 </w.rf>
 <form>spoluscénáře</form>
-<tag>
-<AM lemma="spoluscénář" src="orig">NNIS2-----A----</AM>
-<AM lemma="spoluscénář" src="auto">NNFS2-----A----</AM>
-<AM lemma="spoluscénář" src="auto">NNIP1-----A----</AM>
-<AM lemma="spoluscénář" src="auto">NNIP4-----A----</AM>
-<AM lemma="spoluscénář" src="auto">NNIP5-----A----</AM>
-<AM lemma="spoluscénář" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="spoluscénář" src="auto">NNMP4-----A----</AM>
-<AM lemma="spoluscénář" src="auto">NNMS2-----A----</AM>
-<AM lemma="spoluscénář" src="auto">NNMS4-----A----</AM>
-<AM lemma="spoluscénář_;S" src="auto">NNMS2-----A----</AM>
-</tag>
+<tag lemma="spoluscénář" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-047-p2s1w24">
 <src.rf>manual</src.rf>

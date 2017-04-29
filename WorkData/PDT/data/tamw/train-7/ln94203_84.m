@@ -1416,13 +1416,7 @@
 <LM>w#w-ln94203-84-p3s3w2</LM>
 </w.rf>
 <form>rote</form>
-<tag>
-<AM lemma="rote_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="rot" src="auto">NNMS5-----A----</AM>
-<AM lemma="rote_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="rote_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="rote_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-</tag>
+<tag lemma="rote_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94203-84-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1452,18 +1446,7 @@
 <LM>w#w-ln94203-84-p3s3w5</LM>
 </w.rf>
 <form>zu</form>
-<tag>
-<AM lemma="zu-2_,t_^(něm._příliš)" src="orig">Db-------------</AM>
-<AM lemma="z" src="auto">NNIS2-----A----</AM>
-<AM lemma="z" src="auto">NNIS3-----A----</AM>
-<AM lemma="z" src="auto">NNIS6-----A----</AM>
-<AM lemma="z" src="auto">NNIS6-----A---1</AM>
-<AM lemma="z_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="za" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="za_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="za_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="zu-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="zu-2_,t_^(něm._příliš)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94203-84-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1471,17 +1454,7 @@
 <LM>w#w-ln94203-84-p3s3w6</LM>
 </w.rf>
 <form>spät</form>
-<tag>
-<AM lemma="spät_,t_^(něm._pozdě)" src="orig">Db-------------</AM>
-<AM lemma="spät_,t_^(něm._pozdě)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="spät_:W" src="auto">Vf--------A----</AM>
-<AM lemma="spät_:T" src="auto">Vf--------A----</AM>
-<AM lemma="spät" src="auto">Vf--------A----</AM>
-<AM lemma="spät_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="spät_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="spät" src="auto">NNIS1-----A----</AM>
-<AM lemma="spät" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="spät_,t_^(něm._pozdě)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94203-84-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1521,18 +1494,7 @@
 <LM>w#w-ln94203-84-p3s3w11</LM>
 </w.rf>
 <form>Arieha</form>
-<tag>
-<AM lemma="Arieh_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Arieh_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Arieh_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Arieha" src="auto">NNFS1-----A----</AM>
-<AM lemma="Arieha_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Arieh_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Arieh" src="auto">NNMS2-----A----</AM>
-<AM lemma="Arieh_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Arieh" src="auto">NNMS4-----A----</AM>
-<AM lemma="arieha" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Arieh_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-84-p3s3w12">
 <src.rf>manual</src.rf>

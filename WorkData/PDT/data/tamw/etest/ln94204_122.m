@@ -200,18 +200,7 @@
 <LM>w#w-ln94204-122-p11s1Bw11</LM>
 </w.rf>
 <form>Bertrange</form>
-<tag>
-<AM lemma="Bertrange_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Bertrange_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bertrange_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Bertrange_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Bertrange_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bertrange_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bertrange_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bertrange_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bertrange_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="bertrange" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bertrange_;K" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94204-122-p11s1Bw12">
 <src.rf>manual</src.rf>

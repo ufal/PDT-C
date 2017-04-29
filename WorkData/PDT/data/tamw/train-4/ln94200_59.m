@@ -470,18 +470,7 @@
 <LM>w#w-ln94200-59-p2s3w9</LM>
 </w.rf>
 <form>Robainy</form>
-<tag>
-<AM lemma="Robaina_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Robaina" src="auto">NNFS2-----A----</AM>
-<AM lemma="Robaina" src="auto">NNFP4-----A----</AM>
-<AM lemma="Robaina" src="auto">NNFP1-----A----</AM>
-<AM lemma="Robaina_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Robaina_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="Robaina_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Robainy" src="auto">NNFP4-----A----</AM>
-<AM lemma="Robaina" src="auto">CyFS2----------</AM>
-<AM lemma="robainy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Robaina_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-59-p2s3w10">
 <src.rf>manual</src.rf>

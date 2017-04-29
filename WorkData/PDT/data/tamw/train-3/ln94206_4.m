@@ -87,17 +87,7 @@
 <LM>w#w-ln94206-4-p2s1Bw4</LM>
 </w.rf>
 <form>Techmart</form>
-<tag>
-<AM lemma="Techmart_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Techmart_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Techmart" src="auto">NNIS1-----A----</AM>
-<AM lemma="Techmart_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Techmart" src="auto">NNIS4-----A----</AM>
-<AM lemma="Techmarta_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="Techmarta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Techmart_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="techmart" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Techmart_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-4-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -418,17 +408,7 @@
 <LM>w#w-ln94206-4-p3s1w1</LM>
 </w.rf>
 <form>Techmart</form>
-<tag>
-<AM lemma="Techmart_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Techmart_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Techmart" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Techmart_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Techmart" src="auto">NNIS4-----A----</AM>
-<AM lemma="Techmarta_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="Techmarta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Techmart_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="techmart" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Techmart_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-4-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1042,18 +1022,7 @@
 <LM>w#w-ln94206-4-p4s1w6</LM>
 </w.rf>
 <form>Techmartu</form>
-<tag>
-<AM lemma="Techmart_;m" src="orig">NNIS2-----A----</AM>
-<AM lemma="Techmart" src="auto">NNIS2-----A----</AM>
-<AM lemma="Techmart_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Techmart" src="auto">NNIS6-----A----</AM>
-<AM lemma="Techmart" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Techmart" src="auto">NNIS3-----A----</AM>
-<AM lemma="Techmarta" src="auto">NNFS4-----A----</AM>
-<AM lemma="Techmart_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Techmart_;m" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="techmartu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Techmart_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-4-p4s1w7">
 <src.rf>manual</src.rf>

@@ -231,18 +231,7 @@
 <LM>w#w-mf920925-044-p2s2w17</LM>
 </w.rf>
 <form>Fotofast</form>
-<tag>
-<AM lemma="Fotofast_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Fotofast" src="auto">NNFS4-----A----</AM>
-<AM lemma="Fotofast" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fotofast_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fotofast_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Fotofast_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fotofast" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fotofast" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fotofasta" src="auto">NNFP2-----A----</AM>
-<AM lemma="fotofast" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fotofast_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-044-p2s2w18">
 <src.rf>manual</src.rf>

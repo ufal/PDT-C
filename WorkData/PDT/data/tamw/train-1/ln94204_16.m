@@ -77,18 +77,7 @@
 <LM>w#w-ln94204-16-p2s1w4</LM>
 </w.rf>
 <form>Asea</form>
-<tag>
-<AM lemma="Asea_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Asea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Azeum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Assea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Aseus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ase_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ase_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Asea_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Asea_;G_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="asea" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Asea_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-16-p2s1w5">
 <src.rf>manual</src.rf>

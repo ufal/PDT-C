@@ -143,16 +143,7 @@
 <LM>w#w-ln94207-82-p2s1Bw6</LM>
 </w.rf>
 <form>hlavá</form>
-<tag>
-<AM lemma="hlavý" src="orig">AAFS1----1A----</AM>
-<AM lemma="hlavý" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="hlavý" src="auto">AANP4----1A----</AM>
-<AM lemma="hlavý" src="auto">AANP1----1A----</AM>
-<AM lemma="hlavá_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="hlavat_:T_^(*4at)" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="hlavat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="hlavat_:T_^(*3t)" src="auto">VB-S---3P-AA---</AM>
-</tag>
+<tag lemma="hlavý" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94207-82-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -333,16 +324,7 @@
 <LM>w#w-ln94207-82-p2s2w11</LM>
 </w.rf>
 <form>Miňůvkami</form>
-<tag>
-<AM lemma="Miňůvky_;G" src="orig">NNFP7-----A----</AM>
-<AM lemma="Miňůvka" src="auto">NNFP7-----A----</AM>
-<AM lemma="Miňůvky" src="auto">NNFP7-----A----</AM>
-<AM lemma="Miňůvka_^(*2)" src="auto">NNFP7-----A----</AM>
-<AM lemma="Miňůvky_;G" src="auto">NNFP7-----A----</AM>
-<AM lemma="Miňůvka_^(*2a)" src="auto">NNFP7-----A----</AM>
-<AM lemma="Miňůvka_^(věda)" src="auto">NNFP7-----A----</AM>
-<AM lemma="miňůvkami" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miňůvky_;G" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-ln94207-82-p2s2w12">
 <src.rf>manual</src.rf>
@@ -576,14 +558,7 @@
 <LM>w#w-ln94207-82-p2s3w19</LM>
 </w.rf>
 <form>miňůvští</form>
-<tag>
-<AM lemma="miňůvský" src="orig">AAMP1----1A----</AM>
-<AM lemma="miňůvský" src="auto" recommended="1">AAMP1----1A----</AM>
-<AM lemma="miňůvštět_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="miňůvšť" src="auto">NNFS7-----A----</AM>
-<AM lemma="miňůvšť" src="auto">NNFP2-----A----</AM>
-<AM lemma="miňůvští" src="auto">AAIS4----1A----</AM>
-</tag>
+<tag lemma="miňůvský" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-ln94207-82-p2s3w20">
 <src.rf>manual</src.rf>
@@ -713,18 +688,7 @@
 <LM>w#w-ln94207-82-p2s4w14</LM>
 </w.rf>
 <form>Miňůvek</form>
-<tag>
-<AM lemma="Miňůvky_;G" src="orig">NNFP2-----A----</AM>
-<AM lemma="Miňůvka" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Miňůvek" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miňůvek" src="auto">NNIS4-----A----</AM>
-<AM lemma="Miňůvek_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miňůvka_,h" src="auto">NNFP2-----A----</AM>
-<AM lemma="Miňůvek" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miňůvko" src="auto">NNNP2-----A----</AM>
-<AM lemma="Miňůvka_;K_;R_,h" src="auto">NNFP2-----A----</AM>
-<AM lemma="miňůvek" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miňůvky_;G" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94207-82-p2s4w15">
 <src.rf>manual</src.rf>

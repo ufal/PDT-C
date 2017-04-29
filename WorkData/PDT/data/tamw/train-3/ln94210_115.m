@@ -169,17 +169,7 @@
 <LM>w#w-ln94210-115-p2s2w3</LM>
 </w.rf>
 <form>Sonya</form>
-<tag>
-<AM lemma="Sonya_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sonya_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Sonya_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sonya_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sonyo_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sonya_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sonya" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sony_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="sonya" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sonya_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-115-p2s2w4">
 <src.rf>manual</src.rf>

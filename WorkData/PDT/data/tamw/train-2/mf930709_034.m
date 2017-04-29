@@ -93,17 +93,7 @@
 <LM>w#w-mf930709-034-p2s1Aw3</LM>
 </w.rf>
 <form>jd</form>
-<tag>
-<AM lemma="jd-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jd-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jd" src="auto">NNIS4-----A----</AM>
-<AM lemma="jd" src="auto">NNIS1-----A----</AM>
-<AM lemma="jd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jda" src="auto">NNFP2-----A----</AM>
-<AM lemma="jd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jd_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="jd_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="jd-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-034-p2s1Aw4">
 <src.rf>manual</src.rf>

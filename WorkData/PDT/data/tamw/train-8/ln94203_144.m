@@ -274,17 +274,7 @@
 <LM>w#w-ln94203-144-p2s2w3</LM>
 </w.rf>
 <form>rate</form>
-<tag>
-<AM lemma="rate_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="rate_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="rate_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="rate_;m_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="rate_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="rate_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="rást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="rate_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="rate_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="rate_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94203-144-p2s2w4">
 <src.rf>manual</src.rf>
@@ -721,17 +711,7 @@
 <LM>w#w-ln94203-144-p3s2w2</LM>
 </w.rf>
 <form>rate</form>
-<tag>
-<AM lemma="rate_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="rate_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="rate_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="rate_;m_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="rate_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="rate_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="rást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="rate_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="rate_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="rate_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94203-144-p3s2w3">
 <src.rf>manual</src.rf>

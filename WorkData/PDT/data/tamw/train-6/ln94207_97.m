@@ -958,18 +958,7 @@
 <LM>w#w-ln94207-97-p3s2w23</LM>
 </w.rf>
 <form>Republic</form>
-<tag>
-<AM lemma="Republic_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Republice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Republic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Republice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Republic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Republíce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Republic_;R_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Republic_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Republic_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="republic" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Republic_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94207-97-p3s2w24">
 <src.rf>manual</src.rf>
@@ -985,18 +974,7 @@
 <LM>w#w-ln94207-97-p3s2w25</LM>
 </w.rf>
 <form>Whores</form>
-<tag>
-<AM lemma="Whores_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Whores" src="auto">NNIS4-----A----</AM>
-<AM lemma="Whores_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Whores" src="auto">NNIS1-----A----</AM>
-<AM lemma="Whore_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="affaires_:B_,t_^(v_chargé_d'Whores)" src="auto">NNNPX-----A----</AM>
-<AM lemma="Aires_;G_^(Buenos_Whores)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Whore_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Whore_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="whores" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Whores_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94207-97-p3s2w26">
 <src.rf>manual</src.rf>
@@ -1145,18 +1123,7 @@
 <LM>w#w-ln94207-97-p3s3w16</LM>
 </w.rf>
 <form>Rourkea</form>
-<tag>
-<AM lemma="Rourke_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Rourke_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Rourke_;Y_,t" src="auto">NNMS4-----A---1</AM>
-<AM lemma="Rourkea_;L_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Rourkea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rourkea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rourkea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rourkea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rourke_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="rourkea" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rourke_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-97-p3s3w17">
 <src.rf>manual</src.rf>
@@ -1188,18 +1155,7 @@
 <LM>w#w-ln94207-97-p3s3w20</LM>
 </w.rf>
 <form>Parliament</form>
-<tag>
-<AM lemma="Parliament_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Parliament" src="auto">NNIS1-----A----</AM>
-<AM lemma="Parliament" src="auto">NNMS1-----A----</AM>
-<AM lemma="Parliament" src="auto">NNIS4-----A----</AM>
-<AM lemma="Parliament_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Parliament_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Parliament_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Parliament_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Parliament_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="parliament" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Parliament_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94207-97-p3s3w21">
 <src.rf>manual</src.rf>
@@ -1215,18 +1171,7 @@
 <LM>w#w-ln94207-97-p3s3w22</LM>
 </w.rf>
 <form>Whores</form>
-<tag>
-<AM lemma="Whores_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Whores" src="auto">NNIS4-----A----</AM>
-<AM lemma="Whores_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Whores" src="auto">NNIS1-----A----</AM>
-<AM lemma="Whore_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="affaires_:B_,t_^(v_chargé_d'Whores)" src="auto">NNNPX-----A----</AM>
-<AM lemma="Aires_;G_^(Buenos_Whores)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Whore_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Whore_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="whores" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Whores_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94207-97-p3s3w23">
 <src.rf>manual</src.rf>

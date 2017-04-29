@@ -3072,20 +3072,7 @@
 <LM>w#w-ln95045-019-p6s1w34</LM>
 </w.rf>
 <form>Sokolt</form>
-<tag>
-<AM lemma="Sokolt_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sokolt" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Sokolt" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sokolt_,h_,s" src="auto">Db-------------</AM>
-<AM lemma="Sokolt_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sokolt_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sokolt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sokolta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Sokolto" src="auto">NNNP2-----A----</AM>
-<AM lemma="sokolt" src="auto">NNIS1-----A----</AM>
-<AM lemma="sokolt" src="auto">NNIS4-----A----</AM>
-<AM lemma="sokolt" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sokolt_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-019-p6s1w35">
 <src.rf>manual</src.rf>

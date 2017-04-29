@@ -43,18 +43,7 @@
 <LM>w#w-ln95047-027-p1s1w4</LM>
 </w.rf>
 <form>Sportprague</form>
-<tag>
-<AM lemma="Sportprague_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Sportprague_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Sportprague_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sportprague_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sportprague_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sportprague_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Sportprague_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sportprague_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sportprague_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="sportprague" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sportprague_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 </s>
 <s id="m-ln95047-027-p2s1A">
@@ -170,18 +159,7 @@
 <LM>w#w-ln95047-027-p2s1Bw12</LM>
 </w.rf>
 <form>Sportprague</form>
-<tag>
-<AM lemma="Sportprague_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Sportprague_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Sportprague_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sportprague_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sportprague_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sportprague_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Sportprague_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sportprague_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sportprague_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="sportprague" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sportprague_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95047-027-p2s1Bw13">
 <src.rf>manual</src.rf>

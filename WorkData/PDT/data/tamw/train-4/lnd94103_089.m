@@ -632,23 +632,7 @@
 <LM>w#w-lnd94103-089-p1s5w7</LM>
 </w.rf>
 <form>Santiagův</form>
-<tag>
-<AM lemma="Santiagův_;S_^(*2o)" src="orig">AUIS4M---------</AM>
-<AM lemma="Santiagův_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Santiagův_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Santiagův_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="Santiagův_;S_^(*2a)" src="auto">AUIS1M---------</AM>
-<AM lemma="Santiagův_;S_^(*2a)" src="auto">AUIS4M---------</AM>
-<AM lemma="Santiagův_;S_^(*2o)" src="auto" recommended="1">AUIS4M---------</AM>
-<AM lemma="Santiagův_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Santiagův_^(*2a)" src="auto">AUIS4M---------</AM>
-<AM lemma="santiagův" src="auto">NNMS1-----A----</AM>
-<AM lemma="santiagův_^(*2a)" src="auto">AUIS1M---------</AM>
-<AM lemma="santiagův_^(*2a)" src="auto">AUIS4M---------</AM>
-<AM lemma="santiagův_^(*2a)" src="auto">AUIS5M---------</AM>
-<AM lemma="santiagův_^(*2a)" src="auto">AUMS1M---------</AM>
-<AM lemma="santiagův_^(*2a)" src="auto">AUMS5M---------</AM>
-</tag>
+<tag lemma="Santiagův_;S_^(*2o)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-lnd94103-089-p1s5w8">
 <src.rf>manual</src.rf>
@@ -1296,18 +1280,7 @@
 <LM>w#w-lnd94103-089-p1s12w6</LM>
 </w.rf>
 <form>Santiágův</form>
-<tag>
-<AM lemma="Santiágův_;S_^(*2o)" src="orig">AUIS4M---------</AM>
-<AM lemma="Santiágův_;S_^(*2o)" src="auto" recommended="1">AUIS4M---------</AM>
-<AM lemma="Santiágův_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Santiágův_^(*2a)" src="auto">AUIS4M---------</AM>
-<AM lemma="Santiágův_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Santiágův_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Santiágův_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="Santiágův_;S_^(*2a)" src="auto">AUIS1M---------</AM>
-<AM lemma="Santiágův_;S_^(*2a)" src="auto">AUIS4M---------</AM>
-<AM lemma="santiágův" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Santiágův_;S_^(*2o)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-lnd94103-089-p1s12w7">
 <src.rf>manual</src.rf>
@@ -1777,18 +1750,7 @@
 <LM>w#w-lnd94103-089-p1s15w1</LM>
 </w.rf>
 <form>Pellova</form>
-<tag>
-<AM lemma="Pellův_;S_^(*2e)" src="orig">AUFS1M---------</AM>
-<AM lemma="Pellův_;S_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="Pellův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Pellov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Pellov_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pellův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Pellův_;S_^(*2a)" src="auto" recommended="1">AUFS1M---------</AM>
-<AM lemma="Pellov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Pellův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="pellova" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pellův_;S_^(*2e)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd94103-089-p1s15w2">
 <src.rf>manual</src.rf>
@@ -2862,18 +2824,7 @@
 <LM>w#w-lnd94103-089-p1s18w39</LM>
 </w.rf>
 <form>Frackville</form>
-<tag>
-<AM lemma="Frackville_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Frackville_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Frackville_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Frackville_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Frackville_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Frackvillo_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Frackvilla_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Frackvill_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Frackville_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="frackville" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Frackville_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd94103-089-p1s18w40">
 <src.rf>manual</src.rf>
@@ -4377,18 +4328,7 @@
 <LM>w#w-lnd94103-089-p1s25w21</LM>
 </w.rf>
 <form>Pellovy</form>
-<tag>
-<AM lemma="Pellův_;S_^(*2e)" src="orig">AUFS2M---------</AM>
-<AM lemma="Pellův_;S_^(*2)" src="auto">AUFS2M---------</AM>
-<AM lemma="Pellův_;S_^(*2)" src="auto">AUFP1M---------</AM>
-<AM lemma="Pellův_^(*2)" src="auto" recommended="1">AUFS2M---------</AM>
-<AM lemma="Pellův_;S_^(*2)" src="auto">AUIP1M---------</AM>
-<AM lemma="Pellův_;S_^(*2a)" src="auto">AUFS2M---------</AM>
-<AM lemma="Pellova" src="auto">NNFS2-----A----</AM>
-<AM lemma="Pellův_;S_^(*2)" src="auto">AUIP4M---------</AM>
-<AM lemma="Pellův_;S_^(*2)" src="auto">AUFP4M---------</AM>
-<AM lemma="pellovy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pellův_;S_^(*2e)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd94103-089-p1s25w22">
 <src.rf>manual</src.rf>

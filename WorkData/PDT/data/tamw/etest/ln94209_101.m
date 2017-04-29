@@ -972,18 +972,7 @@
 <LM>w#w-ln94209-101-p3s1w26</LM>
 </w.rf>
 <form>Slovakia</form>
-<tag>
-<AM lemma="Slovakia_;w_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Slovakia_;G_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Slovakyo_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Slovakia_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Slovakia_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Slovakia_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Slovakia_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Slovakia_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Slovakia_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="slovakia" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Slovakia_;w_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94209-101-p3s1w27">
 <src.rf>manual</src.rf>
@@ -1744,24 +1733,7 @@
 <LM>w#w-ln94209-101-p3s4w4</LM>
 </w.rf>
 <form>Tre</form>
-<tag>
-<AM lemma="Tre_;K_,t" src="orig">ClXPX----------</AM>
-<AM lemma="Tre_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tre_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Tre_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tr" src="auto">NNMS5-----A----</AM>
-<AM lemma="Tre_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tre_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tre_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="tre_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tre_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="tre_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="tre_;R_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="tre_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="tre_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="tre_;K_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="tre_;G_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="Tre_;K_,t" src="orig" selected="1">ClXPX----------</tag>
 </m>
 <m id="m-ln94209-101-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1769,17 +1741,7 @@
 <LM>w#w-ln94209-101-p3s4w5</LM>
 </w.rf>
 <form>kronor</form>
-<tag>
-<AM lemma="kronor_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="kronor_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="kronor" src="auto">NNIS4-----A----</AM>
-<AM lemma="kronor" src="auto">NNIS1-----A----</AM>
-<AM lemma="kronora" src="auto">NNFP2-----A----</AM>
-<AM lemma="kronor_^(zpěvák)" src="auto">NNMS1-----A----</AM>
-<AM lemma="kronor_^(hlas)" src="auto">NNIS1-----A----</AM>
-<AM lemma="kronor_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kronor_;Y" src="auto">NNFSX-----A----</AM>
-</tag>
+<tag lemma="kronor_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94209-101-p3s4w6">
 <src.rf>manual</src.rf>
@@ -6189,15 +6151,7 @@
 <LM>w#w-ln94209-101-p4s5w36</LM>
 </w.rf>
 <form>Izvestijemi</form>
-<tag>
-<AM lemma="Izvestije_;w_,t" src="orig">NNFP7-----A----</AM>
-<AM lemma="Izvestije" src="auto" recommended="1">NNFP7-----A----</AM>
-<AM lemma="Izvestij" src="auto">NNFP7-----A----</AM>
-<AM lemma="Izvestije_;G" src="auto">NNFP7-----A----</AM>
-<AM lemma="Izvestije_^(*3ík)" src="auto">NNFP7-----A----</AM>
-<AM lemma="Izvestijechen" src="auto">PLXP7----------</AM>
-<AM lemma="izvestijemi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Izvestije_;w_,t" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-ln94209-101-p4s5w37">
 <src.rf>manual</src.rf>

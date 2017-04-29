@@ -215,18 +215,7 @@
 <LM>w#w-ln94203-44-p2s1Bw18</LM>
 </w.rf>
 <form>Bunnaga</form>
-<tag>
-<AM lemma="Bunnag_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Bunnaga_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bunnago_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bunnago_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bunnago_;K" src="auto">NNNS2-----A----</AM>
-<AM lemma="Bunnago_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Bunnag_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Bunnaga_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bunnaga_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="bunnaga" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bunnag_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-44-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -332,18 +321,7 @@
 <LM>w#w-ln94203-44-p2s2w1</LM>
 </w.rf>
 <form>Bunnag</form>
-<tag>
-<AM lemma="Bunnag_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bunnag_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bunnag_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bunnag" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bunnag_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bunnag-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Bunnago" src="auto">NNNP2-----A----</AM>
-<AM lemma="Bunnagnetický_:B" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bunnagister_:B_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="bunnag" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bunnag_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-44-p2s2w2">
 <src.rf>manual</src.rf>
@@ -667,18 +645,7 @@
 <LM>w#w-ln94203-44-p2s4w1</LM>
 </w.rf>
 <form>Bunnagova</form>
-<tag>
-<AM lemma="Bunnagův_;S_^(*2)" src="orig">AUFS1M---------</AM>
-<AM lemma="Bunnagův_;S_^(*2)" src="auto" recommended="1">AUFS1M---------</AM>
-<AM lemma="Bunnagův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Bunnagov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Bunnagov_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bunnagův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Bunnagův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Bunnagov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bunnagův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="bunnagova" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bunnagův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94203-44-p2s4w2">
 <src.rf>manual</src.rf>

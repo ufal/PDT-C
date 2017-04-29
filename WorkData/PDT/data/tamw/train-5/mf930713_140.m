@@ -1157,18 +1157,7 @@
 <LM>w#w-mf930713-140-p2s5w8</LM>
 </w.rf>
 <form>Tchisekedi</form>
-<tag>
-<AM lemma="Tchisekedi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tchisekedi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tchiseked" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Tchisekeď" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tchisekeď" src="auto">NNFS3-----A----</AM>
-<AM lemma="Tchisekeď" src="auto">NNFS2-----A---1</AM>
-<AM lemma="Tchisekeď" src="auto">NNFS2-----A----</AM>
-<AM lemma="Tchisekeď" src="auto">NNFP1-----A---1</AM>
-<AM lemma="Tchisekedi_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="tchisekedi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tchisekedi_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-140-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1500,18 +1489,7 @@
 <LM>w#w-mf930713-140-p2s8w3</LM>
 </w.rf>
 <form>Tchisekedi</form>
-<tag>
-<AM lemma="Tchisekedi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tchisekedi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tchiseked" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Tchisekeď" src="auto">NNFS6-----A----</AM>
-<AM lemma="Tchisekeď" src="auto">NNFS3-----A----</AM>
-<AM lemma="Tchisekeď" src="auto">NNFS2-----A---1</AM>
-<AM lemma="Tchisekeď" src="auto">NNFS2-----A----</AM>
-<AM lemma="Tchisekeď" src="auto">NNFP1-----A---1</AM>
-<AM lemma="Tchisekedi_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="tchisekedi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tchisekedi_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-140-p2s8w4">
 <src.rf>manual</src.rf>

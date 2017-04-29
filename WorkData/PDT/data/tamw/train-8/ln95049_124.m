@@ -526,18 +526,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Wałęsy</form>
-<tag>
-<AM lemma="Wałęsa_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Wałęsa_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Wałęs" src="auto">NNIP1-----A----</AM>
-<AM lemma="Wałęs" src="auto">NNIP4-----A----</AM>
-<AM lemma="Wałęs" src="auto">NNIP7-----A----</AM>
-<AM lemma="Wałęsa" src="auto">NNFS2-----A----</AM>
-<AM lemma="Wałęsa" src="auto">NNFP4-----A----</AM>
-<AM lemma="Wałęsa" src="auto">NNFP1-----A----</AM>
-<AM lemma="Wałęs" src="auto">NNMP4-----A----</AM>
-<AM lemma="wałęsy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Wałęsa_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-124-p2s3w10">
 <src.rf>manual</src.rf>

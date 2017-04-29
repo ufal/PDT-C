@@ -926,18 +926,7 @@
 <LM>w#w-mf920925-119-p4s1w30</LM>
 </w.rf>
 <form>Lötschberg</form>
-<tag>
-<AM lemma="Lötschberg_;G" src="orig">NNIS4-----A----</AM>
-<AM lemma="Lötschberg_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lötschberg_;G_^(osada)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lötschberg_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lötschberg_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lötschberg_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lötschberg" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lötschberk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lötschbergentina_:B_;G" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="lötschberg" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lötschberg_;G" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920925-119-p4s1w31">
 <src.rf>manual</src.rf>
@@ -1805,18 +1794,7 @@
 <LM>w#w-mf920925-119-p5s3w11</LM>
 </w.rf>
 <form>Lötschbergem</form>
-<tag>
-<AM lemma="Lötschberg_;G" src="orig">NNIS7-----A----</AM>
-<AM lemma="Lötschberg" src="auto">NNIS7-----A----</AM>
-<AM lemma="Lötschberg_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Lötschberg_;G" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="Lötschberg" src="auto">NNMS7-----A----</AM>
-<AM lemma="Lötschberge_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Lötschbergo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Lötschberg_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Lötschberge_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="lötschbergem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lötschberg_;G" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf920925-119-p5s3w12">
 <src.rf>manual</src.rf>

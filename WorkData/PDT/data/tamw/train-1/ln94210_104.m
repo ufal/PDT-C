@@ -1997,16 +1997,7 @@
 <LM>w#w-ln94210-104-p2s16w2</LM>
 </w.rf>
 <form>aku</form>
-<tag>
-<AM lemma="aku-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ak" src="auto">NNIS2-----A----</AM>
-<AM lemma="ak" src="auto">NNIS3-----A----</AM>
-<AM lemma="ak" src="auto">NNIS6-----A----</AM>
-<AM lemma="break_,t_^(tie-ak)" src="auto">NNIS6-----A----</AM>
-<AM lemma="ako_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="ako" src="auto">NNNS3-----A----</AM>
-<AM lemma="aka" src="auto" recommended="1">NNFS4-----A----</AM>
-</tag>
+<tag lemma="aku-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94210-104-p2s16w3">
 <src.rf>manual</src.rf>

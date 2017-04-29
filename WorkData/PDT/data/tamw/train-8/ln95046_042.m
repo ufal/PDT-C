@@ -119,17 +119,7 @@
 <LM>w#w-ln95046-042-p2s1Bw9</LM>
 </w.rf>
 <form>Giacominelliho</form>
-<tag>
-<AM lemma="Giacominelli_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Giacominelli_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Giacominelli_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Giacominelli_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Giacominelli_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Giacominelli_;m" src="auto">NNMS2-----A----</AM>
-<AM lemma="Giacominelli_;S_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Giacominelli-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="giacominelliho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Giacominelli_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95046-042-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -225,18 +215,7 @@
 <LM>w#w-ln95046-042-p2s1Bw21</LM>
 </w.rf>
 <form>Spagnoly</form>
-<tag>
-<AM lemma="Spagnola_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Spagnola" src="auto">NNFS2-----A----</AM>
-<AM lemma="Spagnol" src="auto">NNIP4-----A----</AM>
-<AM lemma="Spagnol" src="auto">NNIP1-----A----</AM>
-<AM lemma="Spagnola_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Spagnola" src="auto">NNFP4-----A----</AM>
-<AM lemma="Spagnola" src="auto">NNFP1-----A----</AM>
-<AM lemma="Spagnol" src="auto">NNIP7-----A----</AM>
-<AM lemma="Spagnola_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="spagnoly" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Spagnola_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-042-p2s1Bw22">
 <src.rf>manual</src.rf>

@@ -838,18 +838,7 @@
 <LM>w#w-ln94207-43-p2s5w11</LM>
 </w.rf>
 <form>osmapůlky</form>
-<tag>
-<AM lemma="osmapůlky" src="orig">NNFP4-----A----</AM>
-<AM lemma="osmapůlek" src="auto">NNIP1-----A----</AM>
-<AM lemma="osmapůlek" src="auto">NNIP4-----A----</AM>
-<AM lemma="osmapůlka" src="auto">NNFP1-----A----</AM>
-<AM lemma="osmapůlka" src="auto" recommended="1">NNFP4-----A----</AM>
-<AM lemma="osmapůlka" src="auto">NNFP5-----A----</AM>
-<AM lemma="osmapůlka" src="auto">NNFS2-----A----</AM>
-<AM lemma="osmapůlka_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="osmapůlka_^(*2)" src="auto">NNFP1-----A----</AM>
-<AM lemma="osmapůlka_^(*2)" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="osmapůlky" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94207-43-p2s5w12">
 <src.rf>manual</src.rf>

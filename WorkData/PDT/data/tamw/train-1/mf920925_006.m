@@ -497,24 +497,7 @@
 <LM>w#w-mf920925-006-p3s1w8</LM>
 </w.rf>
 <form>FFTR</form>
-<tag>
-<AM lemma="FFTR_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FFTR_:B_;K_^(Státní_fond_tržní_regulace)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FFTR_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="FFTR-2_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FFTR_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FFTR_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FFTR_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="FFTR_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Fftr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fftr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fftr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fftr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fftr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="l-1`Fftr" src="auto">NNIS4-----A----</AM>
-<AM lemma="l-1`Fftr" src="auto">NNIS1-----A----</AM>
-<AM lemma="fftr" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FFTR_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-mf920925-006-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1132,24 +1115,7 @@
 <LM>w#w-mf920925-006-p3s4Aw10</LM>
 </w.rf>
 <form>FFTR</form>
-<tag>
-<AM lemma="FFTR_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FFTR_:B_;K_^(Státní_fond_tržní_regulace)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FFTR_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="FFTR-2_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FFTR_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FFTR_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FFTR_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="FFTR_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Fftr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fftr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fftr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fftr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fftr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="l-1`Fftr" src="auto">NNIS4-----A----</AM>
-<AM lemma="l-1`Fftr" src="auto">NNIS1-----A----</AM>
-<AM lemma="fftr" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="FFTR_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-mf920925-006-p3s4Aw11">
 <src.rf>manual</src.rf>

@@ -332,18 +332,7 @@
 <LM>w#w-cmpr9410-025-p5s1w3</LM>
 </w.rf>
 <form>Racio</form>
-<tag>
-<AM lemma="Racio_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Racio_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Racio_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Racio_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Racio" src="auto">NNNS1-----A----</AM>
-<AM lemma="Racio_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Racio_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Racio_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Racio" src="auto">NNNS4-----A----</AM>
-<AM lemma="racio" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Racio_;K" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-025-p5s1w4">
 <src.rf>manual</src.rf>
@@ -367,18 +356,7 @@
 <LM>w#w-cmpr9410-025-p5s1w6</LM>
 </w.rf>
 <form>Jiko</form>
-<tag>
-<AM lemma="Jiko_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Jiko_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Jiko" src="auto">Db-------------</AM>
-<AM lemma="Jika" src="auto">NNFS5-----A----</AM>
-<AM lemma="Jiko_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jiko_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jiko_;K_;w" src="auto">AAXXX----1A----</AM>
-<AM lemma="Jiko_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="Jiko_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="jiko" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jiko_;K" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-025-p5s1w7">
 <src.rf>manual</src.rf>

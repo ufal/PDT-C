@@ -402,18 +402,7 @@
 <LM>w#w-ln94209-27-p2s1Bw35</LM>
 </w.rf>
 <form>Gaudem</form>
-<tag>
-<AM lemma="Gaud_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Gaud" src="auto">NNIS7-----A----</AM>
-<AM lemma="Gaud_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Gaud_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Gaud_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Gaud" src="auto">NNMS7-----A----</AM>
-<AM lemma="Gaud_;K" src="auto">NNIS7-----A----</AM>
-<AM lemma="Gaudem" src="auto">Db-------------</AM>
-<AM lemma="Gaude_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="gaudem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gaud_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94209-27-p2s1Bw36">
 <src.rf>manual</src.rf>

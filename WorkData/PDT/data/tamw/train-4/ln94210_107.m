@@ -2085,18 +2085,7 @@
 <LM>w#w-ln94210-107-p4s4w6</LM>
 </w.rf>
 <form>Calafovo</form>
-<tag>
-<AM lemma="Calafovo" src="orig">NNMS1-----A----</AM>
-<AM lemma="Calafův_;S_^(*2)" src="auto">AUNS1M---------</AM>
-<AM lemma="Calafův_;S_^(*2)" src="auto">AUNS4M---------</AM>
-<AM lemma="Calafův_^(*2)" src="auto">AUNS4M---------</AM>
-<AM lemma="Calafův_;S_^(*2a)" src="auto">AUNS1M---------</AM>
-<AM lemma="Calafův_^(*2)" src="auto">AUNS1M---------</AM>
-<AM lemma="Calafovo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Calafův_^(*3ec)" src="auto">AUNS1M---------</AM>
-<AM lemma="Calafův_;S_^(*3ek)" src="auto">AUNS1M---------</AM>
-<AM lemma="calafovo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Calafovo" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-107-p4s4w7">
 <src.rf>manual</src.rf>
@@ -2120,20 +2109,7 @@
 <LM>w#w-ln94210-107-p4s4w9</LM>
 </w.rf>
 <form>Vincero</form>
-<tag>
-<AM lemma="Vincero" src="orig">NNNS1-----A----</AM>
-<AM lemma="Vincero" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Vincero" src="auto">NNNS4-----A----</AM>
-<AM lemma="Vincero_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Vincero_;K_^(letecká_továrna)" src="auto">NNNS4-----A----</AM>
-<AM lemma="Vincero_;R_^(Mitsubishi_P.,_terénní_vozidlo)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Vincero_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vincero_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vincero_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="vincera_^(vosk)" src="auto">NNFS5-----A----</AM>
-<AM lemma="vincero" src="auto">NNMS1-----A----</AM>
-<AM lemma="vindcera" src="auto">NNFS5-----A---6</AM>
-</tag>
+<tag lemma="Vincero" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94210-107-p4s4w10">
 <src.rf>manual</src.rf>
@@ -2483,17 +2459,7 @@
 <LM>w#w-ln94210-107-p5s2w4</LM>
 </w.rf>
 <form>Tostiho</form>
-<tag>
-<AM lemma="Tostiho" src="orig">NNMS2-----A----</AM>
-<AM lemma="Tosti_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Tosti_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Tosti_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Tosti_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Tosti_;m" src="auto">NNMS2-----A----</AM>
-<AM lemma="Tosti_;S_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Tosti-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="tostiho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tostiho" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-107-p5s2w5">
 <src.rf>manual</src.rf>
@@ -3421,17 +3387,7 @@
 <LM>w#w-ln94210-107-p7s1w7</LM>
 </w.rf>
 <form>mio</form>
-<tag>
-<AM lemma="mio_,t_^(it._můj)" src="orig">PSHS5-S1-------</AM>
-<AM lemma="mio_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="mio_,t_^(it._můj)" src="auto" recommended="1">PSHS5-S1-------</AM>
-<AM lemma="mio_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mio_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="mio_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mio" src="auto">NNNS1-----A----</AM>
-<AM lemma="mio_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="mio_;G" src="auto">NNNS1-----A----</AM>
-</tag>
+<tag lemma="mio_,t_^(it._můj)" src="orig" selected="1">PSHS5-S1-------</tag>
 </m>
 <m id="m-ln94210-107-p7s1w8">
 <src.rf>manual</src.rf>

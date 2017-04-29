@@ -353,18 +353,7 @@
 <LM>w#w-ln94203-33-p2s2w4</LM>
 </w.rf>
 <form>Reflotron</form>
-<tag>
-<AM lemma="Reflotron_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Reflotron_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Reflotron" src="auto">NNIS1-----A----</AM>
-<AM lemma="Reflotron_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Reflotron_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Reflotron_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Reflotron_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Reflotron-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Iron-3_;G_,t_^(Reflotron_Mountain)" src="auto">AAXXX----1A----</AM>
-<AM lemma="reflotron" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Reflotron_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-33-p2s2w5">
 <src.rf>manual</src.rf>

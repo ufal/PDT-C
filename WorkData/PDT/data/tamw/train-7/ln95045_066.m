@@ -67,18 +67,7 @@
 <LM>w#w-ln95045-066-p1s1w7</LM>
 </w.rf>
 <form>Cenepa</form>
-<tag>
-<AM lemma="Cenepa_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Cenepo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Cenep" src="auto">NNIS2-----A----</AM>
-<AM lemma="Cenepa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Cenepa" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cenepa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cenepa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cenep_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cenep" src="auto">NNMS2-----A----</AM>
-<AM lemma="cenepa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cenepa_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-066-p1s1w8">
 <src.rf>manual</src.rf>
@@ -110,18 +99,7 @@
 <LM>w#w-ln95045-066-p1s1w11</LM>
 </w.rf>
 <form>Tiwinsa</form>
-<tag>
-<AM lemma="Tiwinsa_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Tiwinsa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tiwinsa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Tiwinsa_;S_^(Lech_Walesa)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tiwinsa_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tiwinsa_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Tiwinsa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tiwinsa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tiwinsa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="tiwinsa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tiwinsa_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-066-p1s1w12">
 <src.rf>manual</src.rf>

@@ -3530,17 +3530,7 @@
 <LM>w#w-ln95047-063-p6s2w21</LM>
 </w.rf>
 <form>rozhleděným</form>
-<tag>
-<AM lemma="rozhleděný" src="orig">AAMS7----1A----</AM>
-<AM lemma="rozhleděný" src="auto">AAIS7----1A----</AM>
-<AM lemma="rozhleděný" src="auto">AANS7----1A----</AM>
-<AM lemma="rozhleděný_^(*2t)" src="auto">AAIS7----1A----</AM>
-<AM lemma="rozhleděný_^(*3it)" src="auto">AAIS7----1A----</AM>
-<AM lemma="rozhleděný" src="auto" recommended="1">AAMS7----1A----</AM>
-<AM lemma="rozhleděný" src="auto">AAFP3----1A----</AM>
-<AM lemma="rozhleděný" src="auto">AAIP3----1A----</AM>
-<AM lemma="rozhleděný_^(*3it)" src="auto">AANS7----1A----</AM>
-</tag>
+<tag lemma="rozhleděný" src="orig" selected="1">AAMS7----1A----</tag>
 </m>
 <m id="m-ln95047-063-p6s2w22">
 <src.rf>manual</src.rf>

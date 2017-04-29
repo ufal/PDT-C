@@ -93,18 +93,7 @@
 <LM>w#w-ln94203-72-p2s1w8</LM>
 </w.rf>
 <form>Rudgate</form>
-<tag>
-<AM lemma="Rudgate_;G" src="orig">NNNSX-----A----</AM>
-<AM lemma="Rudgate_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Rudgate_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Rudgate_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Rudgate_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Rudgate_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Rudgást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Rudgate_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Rudgate_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rudgate" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rudgate_;G" src="orig" selected="1">NNNSX-----A----</tag>
 </m>
 <m id="m-ln94203-72-p2s1w9">
 <src.rf>manual</src.rf>

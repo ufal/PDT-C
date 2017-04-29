@@ -86,18 +86,7 @@
 <LM>w#w-ln95045-030-p2s1w8</LM>
 </w.rf>
 <form>Kretševem</form>
-<tag>
-<AM lemma="Kretšev_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Kretšev" src="auto">NNIS7-----A----</AM>
-<AM lemma="Kretševo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Kretšev_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Kretšev_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Kretšev_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Kretšev-1_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Kretševum" src="auto">NNNS7-----A----</AM>
-<AM lemma="Kretševo_;G" src="auto">NNNS7-----A----</AM>
-<AM lemma="kretševem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kretšev_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95045-030-p2s1w9">
 <src.rf>manual</src.rf>
@@ -113,18 +102,7 @@
 <LM>w#w-ln95045-030-p2s1w10</LM>
 </w.rf>
 <form>Jangalovem</form>
-<tag>
-<AM lemma="Jangalov_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Jangalov" src="auto">NNIS7-----A----</AM>
-<AM lemma="Jangalovo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Jangalov_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Jangalov_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Jangalov_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Jangalov-1_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Jangalovum" src="auto">NNNS7-----A----</AM>
-<AM lemma="Jangalovo_;G" src="auto">NNNS7-----A----</AM>
-<AM lemma="jangalovem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jangalov_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95045-030-p2s1w11">
 <src.rf>manual</src.rf>

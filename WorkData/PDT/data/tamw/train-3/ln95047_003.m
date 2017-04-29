@@ -149,18 +149,7 @@
 <LM>w#w-ln95047-003-p2s1Bw8</LM>
 </w.rf>
 <form>Netherlands</form>
-<tag>
-<AM lemma="Netherlands_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Netherlands_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Netherlands_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Netherland_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Netherland_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Netherland_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Netherlands_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Netherland_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Netherland_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="netherlands" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Netherlands_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln95047-003-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -326,24 +315,7 @@
 <LM>w#w-ln95047-003-p2s2w5</LM>
 </w.rf>
 <form>PPT</form>
-<tag>
-<AM lemma="PPT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="PPT_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_PPT_Telecom)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="PPT-2_:B_;H_^(cytidintrifosfát)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PPT-1_:B_;R_,t_^(Nonproliferation_Treaty)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PPT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PPT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="PPT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PPT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ppt" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ppt" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ppt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ppt_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ppt_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ppt" src="auto">NNMS1-----A----</AM>
-<AM lemma="ppt" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="PPT_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95047-003-p2s2w6">
 <src.rf>manual</src.rf>
@@ -375,18 +347,7 @@
 <LM>w#w-ln95047-003-p2s2w9</LM>
 </w.rf>
 <form>Menting</form>
-<tag>
-<AM lemma="Menting_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Menting_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Menting" src="auto">NNIS4-----A----</AM>
-<AM lemma="Menting_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Menting" src="auto">NNIS1-----A----</AM>
-<AM lemma="Menting_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Menting_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Menting_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Menting_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="menting" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Menting_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-003-p2s2w10">
 <src.rf>manual</src.rf>
@@ -818,18 +779,7 @@
 <LM>w#w-ln95047-003-p4s1w19</LM>
 </w.rf>
 <form>Unisource</form>
-<tag>
-<AM lemma="Unisource_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Unisourka" src="auto">NNFS6-----A----</AM>
-<AM lemma="Unisource" src="auto">NNMS1-----A----</AM>
-<AM lemma="Unisource" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Unisourka" src="auto">NNFS3-----A----</AM>
-<AM lemma="Unisource" src="auto">NNMP4-----A----</AM>
-<AM lemma="Unisourec" src="auto">NNIS2-----A----</AM>
-<AM lemma="Unisource" src="auto">NNMS2-----A----</AM>
-<AM lemma="Unisourka_^(*2)" src="auto">NNFS3-----A----</AM>
-<AM lemma="unisource" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Unisource_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-003-p4s1w20">
 <src.rf>manual</src.rf>
@@ -845,18 +795,7 @@
 <LM>w#w-ln95047-003-p4s1w21</LM>
 </w.rf>
 <form>Uniworld</form>
-<tag>
-<AM lemma="Uniworld_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Uniworld_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Uniworld_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Uniworld_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Uniworld_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Uniworld_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Uniworld_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Uniworld_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Uniworld_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="uniworld" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Uniworld_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-003-p4s1w22">
 <src.rf>manual</src.rf>

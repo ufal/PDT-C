@@ -27,14 +27,7 @@
 <LM>w#w-cmpr9410-039-p1s1w2</LM>
 </w.rf>
 <form>Resyl</form>
-<tag>
-<AM lemma="Resyl_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Resýt" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Resyl" src="auto">NNIS4-----A----</AM>
-<AM lemma="Resyl" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Resyl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="resyl" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Resyl_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-039-p1s1w3">
 <src.rf>manual</src.rf>
@@ -688,14 +681,7 @@
 <LM>w#w-cmpr9410-039-p2s1w2</LM>
 </w.rf>
 <form>Resyl</form>
-<tag>
-<AM lemma="Resyl_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Resýt" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Resyl" src="auto">NNIS4-----A----</AM>
-<AM lemma="Resyl" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Resyl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="resyl" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Resyl_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-039-p2s1w3">
 <src.rf>manual</src.rf>

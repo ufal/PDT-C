@@ -3802,18 +3802,7 @@
 <LM>w#w-ln94209-89-p4s10w25</LM>
 </w.rf>
 <form>Buttigieg</form>
-<tag>
-<AM lemma="Buttigieg_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Buttigieg_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Buttigieg_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Buttigiego" src="auto">NNNP2-----A----</AM>
-<AM lemma="Buttigiegický_:B" src="auto">AANS1----1A----</AM>
-<AM lemma="Buttigieg_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Buttigieg_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Buttigieg" src="auto">NNMS1-----A----</AM>
-<AM lemma="Buttigieg" src="auto">NNIS1-----A----</AM>
-<AM lemma="buttigieg" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Buttigieg_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-89-p4s10w26">
 <src.rf>manual</src.rf>
@@ -3861,14 +3850,7 @@
 <LM>w#w-ln94209-89-p4s10w31</LM>
 </w.rf>
 <form>Busuttil</form>
-<tag>
-<AM lemma="Busuttil_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Busuttit_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Busuttit_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Busuttil_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Busuttil" src="auto">NNIS1-----A----</AM>
-<AM lemma="busuttil" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Busuttil_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-89-p4s10w32">
 <src.rf>manual</src.rf>
@@ -4280,16 +4262,7 @@
 <LM>w#w-ln94209-89-p4s12w5</LM>
 </w.rf>
 <form>Laferla</form>
-<tag>
-<AM lemma="Laferla_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Laferla_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Laferel_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Laferel_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Laferel" src="auto">NNMS2-----A----</AM>
-<AM lemma="Laferlo-1_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Laferl_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="laferla" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Laferla_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-89-p4s12w6">
 <src.rf>manual</src.rf>
@@ -4659,18 +4632,7 @@
 <LM>w#w-ln94209-89-p4s15w21</LM>
 </w.rf>
 <form>Ghedin</form>
-<tag>
-<AM lemma="Ghedin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ghedin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ghedina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ghedin" src="auto">NNIS1-----A----</AM>
-<AM lemma="kWh-1`Ghedina" src="auto">NNFP2-----A----</AM>
-<AM lemma="MWh-1`Ghedina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ghediny_^(přístroj)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ghedina_^(jednotka_času)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ghedin_^(medvěd)_(*2a)" src="auto">AUIS1F---------</AM>
-<AM lemma="ghedin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ghedin_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-89-p4s15w22">
 <src.rf>manual</src.rf>
@@ -4760,18 +4722,7 @@
 <LM>w#w-ln94209-89-p5s1w10</LM>
 </w.rf>
 <form>Loizoua</form>
-<tag>
-<AM lemma="Loizou_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Loizou_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Loizou_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Loizouum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Loizouum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Loizouum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Loizoue_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Loizoua_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Loizoua_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="loizoua" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Loizou_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-89-p5s1w11">
 <src.rf>manual</src.rf>

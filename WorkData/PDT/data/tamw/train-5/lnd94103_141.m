@@ -19,20 +19,7 @@
 <LM>w#w-lnd94103-141-p1s1w1</LM>
 </w.rf>
 <form>Mikrointerview</form>
-<tag>
-<AM lemma="mikrointerview" src="orig">NNNXX-----A----</AM>
-<AM lemma="Mikrointerview" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mikrointerview-1_;K_,t_^(souč._názvu_časopisů)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Mikrointerview-2_;m_,t_^(angl._nový,_souč._ost._názvů)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mikrointerview_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Mikrointerview_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mikrointerview_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mikrointerview_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mikrointerview_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mikrointerview" src="auto">NNMS1-----A----</AM>
-<AM lemma="mikrointerview" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="mikrointerview-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="mikrointerview" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd94103-141-p1s1w2">
 <src.rf>manual</src.rf>
@@ -1426,11 +1413,7 @@
 <LM>w#w-lnd94103-141-p1s7Bw9</LM>
 </w.rf>
 <form>supreme</form>
-<tag>
-<AM lemma="supreme_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="suprout_:W" src="auto" recommended="1">VB-P---1P-AA---</AM>
-<AM lemma="suprout" src="auto">VB-P---1P-AA---</AM>
-</tag>
+<tag lemma="supreme_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-141-p1s7Bw10">
 <src.rf>manual</src.rf>
@@ -1638,12 +1621,7 @@
 <LM>w#w-lnd94103-141-p1s9Aw1</LM>
 </w.rf>
 <form>Supreme</form>
-<tag>
-<AM lemma="supreme_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Suprout_:W" src="auto">VB-P---1P-AA---</AM>
-<AM lemma="Suprout" src="auto">VB-P---1P-AA---</AM>
-<AM lemma="supreme" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="supreme_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-141-p1s9Aw2">
 <src.rf>manual</src.rf>

@@ -550,17 +550,7 @@
 <LM>w#w-ln95049-115-p3s2w5</LM>
 </w.rf>
 <form>iure</form>
-<tag>
-<AM lemma="iure_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="iure_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="ius_,t" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="iure_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="iure_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="iure_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="iure_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="iure_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="iure_;K_,t" src="auto">AAFSX----1A----</AM>
-</tag>
+<tag lemma="iure_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95049-115-p3s2w6">
 <src.rf>manual</src.rf>

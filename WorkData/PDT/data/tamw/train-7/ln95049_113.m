@@ -1732,18 +1732,7 @@
 <LM>w#w-ln95049-113-p4s4w14</LM>
 </w.rf>
 <form>Four</form>
-<tag>
-<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
-<AM lemma="Four_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Foura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Four_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Four_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Four_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Four_;m" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Four_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Four_;R_,t" src="auto">PSXXX-X2-------</AM>
-<AM lemma="four" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Four_;K_,t" src="orig" selected="1">ClXPX----------</tag>
 </m>
 <m id="m-ln95049-113-p4s4w15">
 <src.rf>manual</src.rf>
@@ -1751,18 +1740,7 @@
 <LM>w#w-ln95049-113-p4s4w15</LM>
 </w.rf>
 <form>Seasons</form>
-<tag>
-<AM lemma="Season_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Season_;K_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Season_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Seasons_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Season_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Seasons_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Season_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Season_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Season_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="seasons" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Season_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln95049-113-p4s4w16">
 <src.rf>manual</src.rf>

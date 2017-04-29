@@ -119,33 +119,7 @@
 <LM>w#w-ln95049-116-p2s1Bw5</LM>
 </w.rf>
 <form>IG</form>
-<tag>
-<AM lemma="IG_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Big-1_;K_,t_^(souč._názvů,_např._Big_en)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Big-1_;K_,t_^(souč._názvů,_např._ig_Ben)" src="auto">AAXXX----1A----</AM>
-<AM lemma="IG-2_:B_;K_,t_^(Commercial_International_Group)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IG_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IG_:B_;K" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="IG_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IG_:B_;K_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="IG_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ig" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ig" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ig" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ig_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ig_:B_;Y" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Ig_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ig_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ig_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ig-1`gram_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ig-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ig_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ig_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ig_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ig_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ig_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="iginální_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="IG_:B_;K_,t" src="orig" selected="1">AAXXX----1A---8</tag>
 </m>
 <m id="m-ln95049-116-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -868,18 +842,7 @@
 <LM>w#w-ln95049-116-p2s6w9</LM>
 </w.rf>
 <form>Gesamtmetall</form>
-<tag>
-<AM lemma="Gesamtmetall_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Gesamtmetall_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gesamtmetall_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gesamtmetall_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Gesamtmetall_;w_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gesamtmetall_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Gesamtmetall_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Gesamtmetall_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gesamtmetall_,t_^(řec._jinak)" src="auto">Db-------------</AM>
-<AM lemma="gesamtmetall" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gesamtmetall_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-116-p2s6w10">
 <src.rf>manual</src.rf>
@@ -919,18 +882,7 @@
 <LM>w#w-ln95049-116-p2s6w14</LM>
 </w.rf>
 <form>Gottschol</form>
-<tag>
-<AM lemma="Gottschol_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gottschol_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gottschol" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gottschol" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gottscholit_:W" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Gottschol_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gottschola" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gottschol_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gottschol-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="gottschol" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gottschol_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-116-p2s6w15">
 <src.rf>manual</src.rf>
@@ -1026,33 +978,7 @@
 <LM>w#w-ln95049-116-p2s6w26</LM>
 </w.rf>
 <form>IG</form>
-<tag>
-<AM lemma="IG_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Big-1_;K_,t_^(souč._názvů,_např._Big_en)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Big-1_;K_,t_^(souč._názvů,_např._ig_Ben)" src="auto">AAXXX----1A----</AM>
-<AM lemma="IG-2_:B_;K_,t_^(Commercial_International_Group)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IG_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IG_:B_;K" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="IG_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IG_:B_;K_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="IG_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ig" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ig" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ig" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ig_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ig_:B_;Y" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Ig_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ig_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ig_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ig-1`gram_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ig-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ig_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ig_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ig_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ig_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ig_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="iginální_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="IG_:B_;K_,t" src="orig" selected="1">AAXXX----1A---8</tag>
 </m>
 <m id="m-ln95049-116-p2s6w27">
 <src.rf>manual</src.rf>

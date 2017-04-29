@@ -363,16 +363,7 @@
 <LM>w#w-ln94203-62-p2s3w8</LM>
 </w.rf>
 <form>Cubala</form>
-<tag>
-<AM lemma="Cubala_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cubat_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Cubat_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Cubat_:T_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Cubat" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Cubal_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cubat_:T_^(*4at)" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="cubala" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cubala_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-62-p2s3w9">
 <src.rf>manual</src.rf>
@@ -754,18 +745,7 @@
 <LM>w#w-ln94203-62-p4s1w8</LM>
 </w.rf>
 <form>Grauso</form>
-<tag>
-<AM lemma="Grauso_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Grauso_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Grauso" src="auto">NNNS1-----A----</AM>
-<AM lemma="Grauso" src="auto">NNNS4-----A----</AM>
-<AM lemma="Grauso_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Grauso_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="so_:B_,x_^(Grausobota)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Grauso_^(jídlo_apod.)" src="auto">NNNS4-----A----</AM>
-<AM lemma="Grauso_^(jídlo_apod.)" src="auto">NNNS1-----A----</AM>
-<AM lemma="grauso" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Grauso_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-62-p4s1w9">
 <src.rf>manual</src.rf>
@@ -806,16 +786,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Lycie</form>
-<tag>
-<AM lemma="Lycie_;R_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Lycie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lycie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Lycie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Lycie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Lycie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Lycie_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="lycie" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lycie_;R_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-62-p4s1w14">
 <src.rf>manual</src.rf>
@@ -932,25 +903,7 @@
 <LM>w#w-ln94203-62-p4s1w27</LM>
 </w.rf>
 <form>RTV</form>
-<tag>
-<AM lemma="RTV_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RTV_:B_;K_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="RTV_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="RTelevizní_:B_;K_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Rtelevizní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Rtelevize_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="RTV_:B_^(Československý_svaz_tělesné_výchovy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RTV_:B_;K_^(tv)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="RTV_:B_;K_^(Fashion_TV)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="Rtv_:B" src="auto">AAXXX----1A----</AM>
-<AM lemma="Rtv_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rtv_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Rtv_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rtv" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rtva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Rtv_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="rtv" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="RTV_:B_;K_,t" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94203-62-p4s1w28">
 <src.rf>manual</src.rf>

@@ -397,18 +397,7 @@
 <LM>w#w-cmpr9415-048-p4s3w8</LM>
 </w.rf>
 <form>Reinders</form>
-<tag>
-<AM lemma="Reinders_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Reinders_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Reinder_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Reinders_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Reinder_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Reinder_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Reinders_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Reinders_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Reinders_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="reinders" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Reinders_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-048-p4s3w9">
 <src.rf>manual</src.rf>
@@ -5841,18 +5830,7 @@
 <LM>w#w-cmpr9415-048-p18s1w7</LM>
 </w.rf>
 <form>Reinders</form>
-<tag>
-<AM lemma="Reinders_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Reinders_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Reinder_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Reinders_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Reinder_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Reinder_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Reinders_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Reinders_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Reinders_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="reinders" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Reinders_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-048-p18s1w8">
 <src.rf>manual</src.rf>

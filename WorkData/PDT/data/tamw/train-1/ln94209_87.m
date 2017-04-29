@@ -61,19 +61,7 @@
 <LM>w#w-ln94209-87-p2s1w3</LM>
 </w.rf>
 <form>Preud</form>
-<tag>
-<AM lemma="Preud_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="Preud" src="auto">Db-------------</AM>
-<AM lemma="Preud" src="auto">J,-------------</AM>
-<AM lemma="Preud" src="auto">NNIS1-----A----</AM>
-<AM lemma="Preud" src="auto">NNIS4-----A----</AM>
-<AM lemma="Preud_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Preud_;S" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Preudební_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="preud" src="auto">NNMS1-----A----</AM>
-<AM lemma="preud_;u" src="auto">NNIS1-----A----</AM>
-<AM lemma="preud_;u" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="Preud_;S" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94209-87-p2s1w4">
 <src.rf>manual</src.rf>
@@ -89,13 +77,7 @@
 <LM>w#w-ln94209-87-p2s1w5</LM>
 </w.rf>
 <form>homme</form>
-<tag>
-<AM lemma="homme_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="homme_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="homit_:W" src="auto">Vi-P---1--A----</AM>
-<AM lemma="homme_;G_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="homme_,t" src="auto">NNFXX-----A----</AM>
-</tag>
+<tag lemma="homme_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-87-p2s1w6">
 <src.rf>manual</src.rf>

@@ -329,18 +329,7 @@
 <LM>w#w-ln94210-83-p2s2w9</LM>
 </w.rf>
 <form>Kristofa</form>
-<tag>
-<AM lemma="Kristof_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Kristofa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kristof_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kristof_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Kristof" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kristofa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kristof_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kristof" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kristof_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="kristofa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kristof_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-83-p2s2w10">
 <src.rf>manual</src.rf>
@@ -356,17 +345,7 @@
 <LM>w#w-ln94210-83-p2s2w11</LM>
 </w.rf>
 <form>Sheryl</form>
-<tag>
-<AM lemma="Sheryl_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Sherýt" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Sheryl_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sheryl_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sheryl_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Sheryl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sheryl_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sheryl" src="auto">NNIS4-----A----</AM>
-<AM lemma="sheryl" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sheryl_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94210-83-p2s2w12">
 <src.rf>manual</src.rf>
@@ -374,20 +353,7 @@
 <LM>w#w-ln94210-83-p2s2w12</LM>
 </w.rf>
 <form>Wu</form>
-<tag>
-<AM lemma="Wu_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Wu_;m_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Wu_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Wu_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Wu_;S" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="W" src="auto">NNIS2-----A----</AM>
-<AM lemma="Wa" src="auto">NNFS4-----A----</AM>
-<AM lemma="wa_;K_;R" src="auto">NNFS4-----A----</AM>
-<AM lemma="w" src="auto">NNIS2-----A----</AM>
-<AM lemma="wa" src="auto">NNFS4-----A----</AM>
-<AM lemma="w" src="auto">NNIS6-----A----</AM>
-<AM lemma="w" src="auto">NNIS3-----A----</AM>
-</tag>
+<tag lemma="Wu_;S" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94210-83-p2s2w13">
 <src.rf>manual</src.rf>

@@ -2186,16 +2186,7 @@
 <LM>w#w-ln94200-171-p2s14w13</LM>
 </w.rf>
 <form>crime</form>
-<tag>
-<AM lemma="crime_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="crime_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="crime_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Prime-1_,t_^(fin.:_souč._term._crime_Rate)" src="auto">AAXXX----1A----</AM>
-<AM lemma="crút_,t" src="auto">Vi-P---1--A----</AM>
-<AM lemma="crime_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="crime_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="crime_;K_,t" src="auto">NNIXX-----A----</AM>
-</tag>
+<tag lemma="crime_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94200-171-p2s14w14">
 <src.rf>manual</src.rf>
@@ -2537,15 +2528,7 @@
 <LM>w#w-ln94200-171-p2s17w13</LM>
 </w.rf>
 <form>protisvět</form>
-<tag>
-<AM lemma="protisvět" src="orig">NNIS4-----A----</AM>
-<AM lemma="protisvět" src="auto">NNIS1-----A----</AM>
-<AM lemma="protisvět" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="protisvět" src="auto">Vf--------A----</AM>
-<AM lemma="protisvět_:T" src="auto">Vf--------A----</AM>
-<AM lemma="protisvět_:W" src="auto">Vf--------A----</AM>
-<AM lemma="protisvěta" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="protisvět" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94200-171-p2s17w14">
 <src.rf>manual</src.rf>

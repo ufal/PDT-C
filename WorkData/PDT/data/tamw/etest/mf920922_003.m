@@ -125,17 +125,7 @@
 <LM>w#w-mf920922-003-p2s1w3</LM>
 </w.rf>
 <form>lík</form>
-<tag>
-<AM lemma="lík-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lík_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík" src="auto">NNIS4-----A----</AM>
-<AM lemma="lík" src="auto">NNIS1-----A----</AM>
-<AM lemma="lík" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="lík-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-</tag>
+<tag lemma="lík-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920922-003-p2s1w4">
 <src.rf>manual</src.rf>
@@ -807,16 +797,7 @@
 <LM>w#w-mf920922-003-p2s5w25</LM>
 </w.rf>
 <form>Arms</form>
-<tag>
-<AM lemma="Arm_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Arm_;K_,t" src="auto" recommended="1">NNXPX-----A----</AM>
-<AM lemma="Arm_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Arms_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ars" src="auto">PZZS7----------</AM>
-<AM lemma="arm_;R_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Arm_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="arms" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Arm_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-mf920922-003-p2s5w26">
 <src.rf>manual</src.rf>
@@ -1772,17 +1753,7 @@
 <LM>w#w-mf920922-003-p5s1w2</LM>
 </w.rf>
 <form>Götlicher</form>
-<tag>
-<AM lemma="Götlicher_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Götlicher_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Götlichra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Götlicher_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Götlicher_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Götlichry_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Götlichry_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Götlicher_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="götlicher" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Götlicher_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-003-p5s1w3">
 <src.rf>manual</src.rf>

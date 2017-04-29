@@ -6414,16 +6414,7 @@
 <LM>w#w-ln95048-117-p9s1w14</LM>
 </w.rf>
 <form>lůzovitosti</form>
-<tag>
-<AM lemma="lůzovitost" src="orig">NNFS2-----A----</AM>
-<AM lemma="lůzovitost_^(*3ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="lůzovitost_^(*3ý)" src="auto">NNFS6-----A----</AM>
-<AM lemma="lůzovitost_^(*3ý)" src="auto">NNFS3-----A----</AM>
-<AM lemma="lůzovitost" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="lůzovitost" src="auto">NNFS6-----A----</AM>
-<AM lemma="lůzovitost_^(*3ý)" src="auto">NNFP4-----A----</AM>
-<AM lemma="lůzovitost_^(*3ý)" src="auto">NNFP1-----A----</AM>
-</tag>
+<tag lemma="lůzovitost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-117-p9s1w15">
 <src.rf>manual</src.rf>

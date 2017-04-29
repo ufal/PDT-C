@@ -151,17 +151,7 @@
 <LM>w#w-ln94203-81-p2s1Bw6</LM>
 </w.rf>
 <form>boženky</form>
-<tag>
-<AM lemma="boženka" src="orig">NNFP4-----A----</AM>
-<AM lemma="boženka" src="auto">NNFP1-----A----</AM>
-<AM lemma="boženka" src="auto">NNFS2-----A----</AM>
-<AM lemma="boženka" src="auto" recommended="1">NNFP4-----A----</AM>
-<AM lemma="boženek" src="auto">NNIP1-----A----</AM>
-<AM lemma="boženka_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="boženek" src="auto">NNIP4-----A----</AM>
-<AM lemma="boženka_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="boženk" src="auto">NNIP4-----A----</AM>
-</tag>
+<tag lemma="boženka" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94203-81-p2s1Bw7">
 <src.rf>manual</src.rf>

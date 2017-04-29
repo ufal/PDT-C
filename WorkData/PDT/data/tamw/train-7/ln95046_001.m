@@ -1126,17 +1126,7 @@
 <LM>w#w-ln95046-001-p6s2w10</LM>
 </w.rf>
 <form>stand</form>
-<tag>
-<AM lemma="stand_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="stand_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="stand_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="stand_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="stand_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="standa_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="stand_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="stand_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="stando" src="auto">NNNP2-----A----</AM>
-</tag>
+<tag lemma="stand_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95046-001-p6s2w11">
 <src.rf>manual</src.rf>

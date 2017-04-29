@@ -3346,17 +3346,7 @@
 <LM>w#w-ln95048-101-p5s17Bw8</LM>
 </w.rf>
 <form>Marhou</form>
-<tag>
-<AM lemma="Marha" src="orig">NNMS7-----A----</AM>
-<AM lemma="Marha" src="auto">NNFS7-----A----</AM>
-<AM lemma="Marhý" src="auto">AAFS7----1A----</AM>
-<AM lemma="Marhý" src="auto">AAFS4----1A----</AM>
-<AM lemma="Marha_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Marci" src="auto" recommended="1">VB-P---3P-AA--1</AM>
-<AM lemma="Marha_;Y" src="auto">NNFS7-----A----</AM>
-<AM lemma="Marha" src="auto">NNMS7-----A----</AM>
-<AM lemma="marhou" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Marha" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95048-101-p5s17Bw9">
 <src.rf>manual</src.rf>

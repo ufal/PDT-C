@@ -1702,17 +1702,7 @@
 <LM>w#w-ln94206-67-p3s6w10</LM>
 </w.rf>
 <form>krajinotvorců</form>
-<tag>
-<AM lemma="krajinotvůrce" src="orig">NNMP2-----A----</AM>
-<AM lemma="krajinotvorce" src="auto">NNMP2-----A----</AM>
-<AM lemma="krajinotvorec" src="auto">NNIP2-----A----</AM>
-<AM lemma="krajinotvorec" src="auto">NNMP2-----A----</AM>
-<AM lemma="krajinotvorc" src="auto">NNMP2-----A----</AM>
-<AM lemma="krajinotvořec" src="auto">NNMP2-----A----</AM>
-<AM lemma="krajinotvůrce" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="krajinotvorec_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="krajinotvorc" src="auto">NNIP2-----A----</AM>
-</tag>
+<tag lemma="krajinotvůrce" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94206-67-p3s6w11">
 <src.rf>manual</src.rf>

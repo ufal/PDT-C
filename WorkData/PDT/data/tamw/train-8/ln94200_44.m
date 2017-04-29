@@ -1221,18 +1221,7 @@
 <LM>w#w-ln94200-44-p3s3w3</LM>
 </w.rf>
 <form>Gradua</form>
-<tag>
-<AM lemma="Gradua_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Graduum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Graduum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Graduum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Graduo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Graduo" src="auto">NNNP1-----A----</AM>
-<AM lemma="Gradua_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Gradu_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gradu_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="gradua" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gradua_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-44-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1752,18 +1741,7 @@
 <LM>w#w-ln94200-44-p4s4w3</LM>
 </w.rf>
 <form>Gradua</form>
-<tag>
-<AM lemma="Gradua_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Graduum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Graduum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Graduum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Graduo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Graduo" src="auto">NNNP1-----A----</AM>
-<AM lemma="Gradua_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Gradu_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gradu_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="gradua" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gradua_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-44-p4s4w4">
 <src.rf>manual</src.rf>

@@ -417,18 +417,7 @@
 <LM>w#w-ln95046-068-p2s2w18</LM>
 </w.rf>
 <form>Mozdoku</form>
-<tag>
-<AM lemma="Mozdok_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Mozdok" src="auto">NNIS6-----A----</AM>
-<AM lemma="Mozdok" src="auto">NNIS2-----A----</AM>
-<AM lemma="Mozdok" src="auto">NNIS3-----A----</AM>
-<AM lemma="Mozdok_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Mozdoko" src="auto">NNNS6-----A----</AM>
-<AM lemma="Mozdoko_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Mozdoko_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Mozdoko" src="auto">NNNS3-----A----</AM>
-<AM lemma="mozdoku" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mozdok_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95046-068-p2s2w19">
 <src.rf>manual</src.rf>

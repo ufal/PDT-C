@@ -231,17 +231,7 @@
 <LM>w#w-ln95049-029-p2s1Bw22</LM>
 </w.rf>
 <form>Loussouarn</form>
-<tag>
-<AM lemma="Loussouarn_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Loussouarn_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Loussouarn_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Loussouarn" src="auto">NNIS4-----A----</AM>
-<AM lemma="Loussouarn" src="auto">NNIS1-----A----</AM>
-<AM lemma="Loussouarn_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Loussouarn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Loussouarn-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="loussouarn" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Loussouarn_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-029-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -591,17 +581,7 @@
 <LM>w#w-ln95049-029-p2s4w1</LM>
 </w.rf>
 <form>Loussouarn</form>
-<tag>
-<AM lemma="Loussouarn_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Loussouarn_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Loussouarn_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Loussouarn" src="auto">NNIS4-----A----</AM>
-<AM lemma="Loussouarn" src="auto">NNIS1-----A----</AM>
-<AM lemma="Loussouarn_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Loussouarn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Loussouarn-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="loussouarn" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Loussouarn_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-029-p2s4w2">
 <src.rf>manual</src.rf>
@@ -739,17 +719,7 @@
 <LM>w#w-ln95049-029-p2s5w6</LM>
 </w.rf>
 <form>Marraud</form>
-<tag>
-<AM lemma="Marraud_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Marraud_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Marraud" src="auto">Db-------------</AM>
-<AM lemma="Marraud" src="auto">NNIS1-----A----</AM>
-<AM lemma="Marraud" src="auto">NNIS4-----A----</AM>
-<AM lemma="Marraud" src="auto">J,-------------</AM>
-<AM lemma="Marraudební_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Marrauda" src="auto">NNFP2-----A----</AM>
-<AM lemma="marraud" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Marraud_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-029-p2s5w7">
 <src.rf>manual</src.rf>

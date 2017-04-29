@@ -3457,18 +3457,7 @@
 <LM>w#w-ln94204-3-p17s2w2</LM>
 </w.rf>
 <form>sf</form>
-<tag>
-<AM lemma="sf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="sf" src="auto">NNIS1-----A----</AM>
-<AM lemma="sf" src="auto">NNIS4-----A----</AM>
-<AM lemma="sf" src="auto">NNMS1-----A----</AM>
-<AM lemma="sf-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="sf-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="sf_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="sf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="sf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sf_;m" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="sf-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-3-p17s2w3">
 <src.rf>manual</src.rf>

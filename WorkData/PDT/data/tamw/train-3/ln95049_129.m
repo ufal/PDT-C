@@ -159,18 +159,7 @@
 <LM>w#w-ln95049-129-p2s1Bw3</LM>
 </w.rf>
 <form>Financial</form>
-<tag>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Financial_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Escorial-1_;G_^(El_Financial,_šp._král._sídlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Financial_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Financial_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="financial" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Financial_;R_,t_^(např._F.Times)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95049-129-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -298,17 +287,7 @@
 <LM>w#w-ln95049-129-p2s1Bw19</LM>
 </w.rf>
 <form>emerging</form>
-<tag>
-<AM lemma="emerging_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="emerging_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="emerging" src="auto">NNIS4-----A----</AM>
-<AM lemma="emerging_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="emerging" src="auto">NNIS1-----A----</AM>
-<AM lemma="emerging_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="emerging_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="emerging_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="emerging_;G" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="emerging_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95049-129-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -316,17 +295,7 @@
 <LM>w#w-ln95049-129-p2s1Bw20</LM>
 </w.rf>
 <form>markets</form>
-<tag>
-<AM lemma="market_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="market_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="market_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="market_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="markets_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="markets_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="markets_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="markets_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="markets_;K" src="auto">NNMPX-----A----</AM>
-</tag>
+<tag lemma="market_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln95049-129-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -2970,18 +2939,7 @@
 <LM>w#w-ln95049-129-p6s2w21</LM>
 </w.rf>
 <form>Telefonos</form>
-<tag>
-<AM lemma="Telefono_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Telefonos" src="auto">NNIS4-----A----</AM>
-<AM lemma="Telefonos" src="auto">NNIS1-----A----</AM>
-<AM lemma="Telefonos_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Telefono_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Telefono_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Telefonos_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Telefonos_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="Telefonos_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="telefonos" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Telefono_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln95049-129-p6s2w22">
 <src.rf>manual</src.rf>

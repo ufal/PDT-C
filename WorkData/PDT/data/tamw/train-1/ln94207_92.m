@@ -1230,17 +1230,7 @@
 <LM>w#w-ln94207-92-p3s6w7</LM>
 </w.rf>
 <form>peaceniky</form>
-<tag>
-<AM lemma="peacenik" src="orig">NNMP7-----A----</AM>
-<AM lemma="peacenika" src="auto">NNFS2-----A----</AM>
-<AM lemma="peacenik" src="auto">NNMP4-----A----</AM>
-<AM lemma="peacenika" src="auto">NNFP1-----A----</AM>
-<AM lemma="peacenik" src="auto" recommended="1">NNMP7-----A----</AM>
-<AM lemma="peacenika" src="auto">NNFP4-----A----</AM>
-<AM lemma="peacenika_^(věda)" src="auto">NNFS2-----A----</AM>
-<AM lemma="peacenik" src="auto">NNIP7-----A----</AM>
-<AM lemma="peacenik" src="auto">NNIP4-----A----</AM>
-</tag>
+<tag lemma="peacenik" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln94207-92-p3s6w8">
 <src.rf>manual</src.rf>
@@ -1367,17 +1357,7 @@
 <LM>w#w-ln94207-92-p3s8w1</LM>
 </w.rf>
 <form>peacenik</form>
-<tag>
-<AM lemma="peacenik" src="orig">NNMS1-----A----</AM>
-<AM lemma="peacenik" src="auto">NNMS1-----A----</AM>
-<AM lemma="peacenik_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="peacenik" src="auto">NNIS4-----A----</AM>
-<AM lemma="peacenik" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="peacenikum" src="auto">NNNP2-----A----</AM>
-<AM lemma="peacenika" src="auto">NNFP2-----A----</AM>
-<AM lemma="peacenik_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="peacenik_;G" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="peacenik" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-92-p3s8w2">
 <src.rf>manual</src.rf>
@@ -6395,18 +6375,7 @@
 <LM>w#w-ln94207-92-p16s1w12</LM>
 </w.rf>
 <form>Étranger</form>
-<tag>
-<AM lemma="Étranger_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Étranger_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Étranger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Étranger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Étranžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Étranger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Étranger_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Étranger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Étranger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="étranger" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Étranger_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-92-p16s1w13">
 <src.rf>manual</src.rf>
@@ -6950,17 +6919,7 @@
 <LM>w#w-ln94207-92-p17s3w6</LM>
 </w.rf>
 <form>dell</form>
-<tag>
-<AM lemma="dell_,t" src="orig">RR--X----------</AM>
-<AM lemma="dell_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="dell_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="dell_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="dell_;R_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="dell_;K" src="auto">NNMS1-----A----</AM>
-<AM lemma="dell_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="dell_,t" src="auto" recommended="1">RR--X----------</AM>
-<AM lemma="dell_,t" src="auto">NNIXX-----A----</AM>
-</tag>
+<tag lemma="dell_,t" src="orig" selected="1">RR--X----------</tag>
 </m>
 <m id="m-ln94207-92-p17s3w7">
 <src.rf>manual</src.rf>
@@ -7655,18 +7614,7 @@
 <LM>w#w-ln94207-92-p18s1w8</LM>
 </w.rf>
 <form>Ilanina</form>
-<tag>
-<AM lemma="Ilanin_;Y_^(*2A)" src="orig">AUMS4F---------</AM>
-<AM lemma="Ilanina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ilanin_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ilanina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ilanin_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Ilanina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ilanina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ilanin_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ilanina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="ilanina" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ilanin_;Y_^(*2A)" src="orig" selected="1">AUMS4F---------</tag>
 </m>
 <m id="m-ln94207-92-p18s1w9">
 <src.rf>manual</src.rf>

@@ -161,18 +161,7 @@
 <LM>w#w-ln95048-028-p2s1w13</LM>
 </w.rf>
 <form>Sefer</form>
-<tag>
-<AM lemma="Sefer_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sefer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sefer_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sefer_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Sefer_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sefer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sefer" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sefer" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sefer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sefer" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sefer_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-028-p2s1w14">
 <src.rf>manual</src.rf>
@@ -1778,17 +1767,7 @@
 <LM>w#w-ln95048-028-p3s2w11</LM>
 </w.rf>
 <form>midrašických</form>
-<tag>
-<AM lemma="midrašický" src="orig">AAIP2----1A----</AM>
-<AM lemma="midrašický" src="auto">AAFP2----1A----</AM>
-<AM lemma="midrašický" src="auto" recommended="1">AAIP2----1A----</AM>
-<AM lemma="midrašický" src="auto">AAFP6----1A----</AM>
-<AM lemma="midrašický" src="auto">AAMP2----1A----</AM>
-<AM lemma="midrašický" src="auto">AANP2----1A----</AM>
-<AM lemma="midrašický" src="auto">AAIP6----1A----</AM>
-<AM lemma="midrašický_^(*2t)" src="auto">AAIP2----1A----</AM>
-<AM lemma="midrašický_^(*2t)" src="auto">AAFP2----1A----</AM>
-</tag>
+<tag lemma="midrašický" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln95048-028-p3s2w12">
 <src.rf>manual</src.rf>
@@ -4390,18 +4369,7 @@
 <LM>w#w-ln95048-028-p9s2w4</LM>
 </w.rf>
 <form>ola</form>
-<tag>
-<AM lemma="ola_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="ol-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ol_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ol_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="ola" src="auto">Db-------------</AM>
-<AM lemma="ola" src="auto">NNFS1-----A----</AM>
-<AM lemma="ola-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="ola_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ola_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="olo" src="auto">NNNS2-----A----</AM>
-</tag>
+<tag lemma="ola_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95048-028-p9s2w5">
 <src.rf>manual</src.rf>
@@ -7246,17 +7214,7 @@
 <LM>w#w-ln95048-028-p11s3w3</LM>
 </w.rf>
 <form>midrašické</form>
-<tag>
-<AM lemma="midrašický" src="orig">AAFS2----1A----</AM>
-<AM lemma="midrašický" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="midrašický" src="auto">AANS1----1A----</AM>
-<AM lemma="midrašický" src="auto">AAFS6----1A----</AM>
-<AM lemma="midrašický" src="auto">AAFP1----1A----</AM>
-<AM lemma="midrašický" src="auto">AAIP1----1A----</AM>
-<AM lemma="midrašický" src="auto">AAIP4----1A----</AM>
-<AM lemma="midrašický" src="auto">AAFP4----1A----</AM>
-<AM lemma="midrašický" src="auto">AANS4----1A----</AM>
-</tag>
+<tag lemma="midrašický" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95048-028-p11s3w4">
 <src.rf>manual</src.rf>

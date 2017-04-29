@@ -231,23 +231,7 @@
 <LM>w#w-ln94206-28-p2s1Bw16</LM>
 </w.rf>
 <form>IKL</form>
-<tag>
-<AM lemma="IKL_:B_;R" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IKL-1_:B_;K_^(Závody_kuličkových_ložisek)" src="auto">NNIPX-----A---8</AM>
-<AM lemma="IKL_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IKL_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="IKL_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Iknout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="Ikl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ikl" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ici" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Ikl" src="auto">NNIS1-----A----</AM>
-<AM lemma="iknout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="ikl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ikl" src="auto">NNIS4-----A----</AM>
-<AM lemma="ikl" src="auto">NNIS1-----A----</AM>
-<AM lemma="ici" src="auto">VpYS---XR-AA---</AM>
-</tag>
+<tag lemma="IKL_:B_;R" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94206-28-p2s1Bw17">
 <src.rf>manual</src.rf>

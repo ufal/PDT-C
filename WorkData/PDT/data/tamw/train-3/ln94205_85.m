@@ -205,18 +205,7 @@
 <LM>w#w-ln94205-85-p2s1w23</LM>
 </w.rf>
 <form>Records</form>
-<tag>
-<AM lemma="Record_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Record_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Records_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Record_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Record_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Records_;K_;u_,t_^(rocková_skupina)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Records_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Record_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Records_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="records" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Record_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94205-85-p2s1w24">
 <src.rf>manual</src.rf>
@@ -952,16 +941,7 @@
 <LM>w#w-ln94205-85-p4s1w16</LM>
 </w.rf>
 <form>Soysal</form>
-<tag>
-<AM lemma="Soysal_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Soysat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Soysat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Soysat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Soysal_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Soysát" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Soysal_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="soysal" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Soysal_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-85-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1067,16 +1047,7 @@
 <LM>w#w-ln94205-85-p4s2w2</LM>
 </w.rf>
 <form>Soysala</form>
-<tag>
-<AM lemma="Soysal_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Soysat_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Soysat_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Soysat_:T_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Soysat" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Soysal_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Soysat_:T_^(*4at)" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="soysala" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Soysal_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-85-p4s2w3">
 <src.rf>manual</src.rf>

@@ -534,18 +534,7 @@
 <LM>w#w-ln94205-42-p2s3w15</LM>
 </w.rf>
 <form>Ekotes</form>
-<tag>
-<AM lemma="Ekotes_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Ekotes_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ekote_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Ekotes_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Ekotes_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Ekotes_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ekotes_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Ekotes_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ekotes_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="ekotes" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ekotes_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-42-p2s3w16">
 <src.rf>manual</src.rf>

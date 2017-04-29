@@ -571,19 +571,7 @@
 <LM>w#w-ln94200-19-p3s1w26</LM>
 </w.rf>
 <form>Intech</form>
-<tag>
-<AM lemma="Intech_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Int" src="auto">NNFP6-----A----</AM>
-<AM lemma="Int" src="auto">NNIP6-----A----</AM>
-<AM lemma="Int" src="auto">NNMP6-----A----</AM>
-<AM lemma="Int_^(*3ý)" src="auto">NNFP6-----A----</AM>
-<AM lemma="Inta" src="auto">NNMP6-----A----</AM>
-<AM lemma="Intech" src="auto">NNIS4-----A----</AM>
-<AM lemma="Into" src="auto">NNNP6-----A----</AM>
-<AM lemma="Inty_;G" src="auto">NNIP6-----A----</AM>
-<AM lemma="intech" src="auto">NNMS1-----A----</AM>
-<AM lemma="intechnický_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Intech_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-19-p3s1w27">
 <src.rf>manual</src.rf>

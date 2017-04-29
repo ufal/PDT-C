@@ -887,18 +887,7 @@
 <LM>w#w-ln94202-11-p3s1w9</LM>
 </w.rf>
 <form>Cunlhatu</form>
-<tag>
-<AM lemma="Cunlhat_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Cunlha" src="auto">NNNS2-----A----</AM>
-<AM lemma="Cunlhat" src="auto">NNIS2-----A----</AM>
-<AM lemma="Cunlhata" src="auto">NNFS4-----A----</AM>
-<AM lemma="Cunlhat" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Cunlhat" src="auto">NNIS3-----A----</AM>
-<AM lemma="Cunlha" src="auto">NNNS6-----A----</AM>
-<AM lemma="Cunlhat" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Cunlha" src="auto">NNNS3-----A----</AM>
-<AM lemma="cunlhatu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cunlhat_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94202-11-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1185,18 +1174,7 @@
 <LM>w#w-ln94202-11-p3s3w3</LM>
 </w.rf>
 <form>Free</form>
-<tag>
-<AM lemma="Free_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Free_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Free_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Free_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Free_;L_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Free_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Free_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Free_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="Free_,t" src="auto">ClXPX----------</AM>
-<AM lemma="free" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Free_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-11-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1204,18 +1182,7 @@
 <LM>w#w-ln94202-11-p3s3w4</LM>
 </w.rf>
 <form>Wheels</form>
-<tag>
-<AM lemma="Wheel_;m_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Wheels_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wheel_;m_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Wheel_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Wheel_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Wheel_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Wheels_;m_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Wheels_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wheels_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="wheels" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Wheel_;m_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94202-11-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1353,13 +1320,7 @@
 <LM>w#w-ln94202-11-p3s4w4</LM>
 </w.rf>
 <form>Cunlhat</form>
-<tag>
-<AM lemma="Cunlhat_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Cunlhat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Cunlhat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Cunlhat" src="auto">Vf--------A----</AM>
-<AM lemma="cunlhat" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cunlhat_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-11-p3s4w5">
 <src.rf>manual</src.rf>

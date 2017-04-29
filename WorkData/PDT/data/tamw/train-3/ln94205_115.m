@@ -119,17 +119,7 @@
 <LM>w#w-ln94205-115-p2s1Bw3</LM>
 </w.rf>
 <form>lt</form>
-<tag>
-<AM lemma="lt-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lt_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="lt_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="lt" src="auto">NNIS4-----A----</AM>
-<AM lemma="lt" src="auto">NNIS1-----A----</AM>
-<AM lemma="lta" src="auto">NNFP2-----A----</AM>
-<AM lemma="lto" src="auto">NNNP2-----A----</AM>
-<AM lemma="lt_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="lt-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-115-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -1331,18 +1321,7 @@
 <LM>w#w-ln94205-115-p4s3w3</LM>
 </w.rf>
 <form>Lendfeld</form>
-<tag>
-<AM lemma="Lendfeld_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lendfeld_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lendfeld_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lendfeld_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lendfeld-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lendfeld_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lendfeld_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lendfeld_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lendfeld_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="lendfeld" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lendfeld_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-115-p4s3w4">
 <src.rf>manual</src.rf>

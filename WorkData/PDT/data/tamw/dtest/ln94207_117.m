@@ -263,21 +263,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Pret</form>
-<tag>
-<AM lemma="Pret_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Pret" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pret" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pret_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pret_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Pret_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pret_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Preta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Prta" src="auto">NNFP2-----A----</AM>
-<AM lemma="pret" src="auto">NNMS1-----A----</AM>
-<AM lemma="pret-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="pret-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="pretelefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Pret_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-117-p2s2w21">
 <src.rf>manual</src.rf>
@@ -1411,21 +1397,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Pret</form>
-<tag>
-<AM lemma="Pret_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Pret" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pret" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pret_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pret_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Pret_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pret_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Preta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Prta" src="auto">NNFP2-----A----</AM>
-<AM lemma="pret" src="auto">NNMS1-----A----</AM>
-<AM lemma="pret-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="pret-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="pretelefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Pret_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94207-117-p2s7w11">
 <src.rf>manual</src.rf>

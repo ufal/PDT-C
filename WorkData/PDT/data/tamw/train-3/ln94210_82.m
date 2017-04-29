@@ -175,18 +175,7 @@
 <LM>w#w-ln94210-82-p2s1Bw7</LM>
 </w.rf>
 <form>Lovász</form>
-<tag>
-<AM lemma="Lovász_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lovász_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lovász_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lovász_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lovász" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lovász" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lovásza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Lováss" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lovász_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="lovász" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lovász_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94210-82-p2s1C">
@@ -855,18 +844,7 @@
 <LM>w#w-ln94210-82-p3s1w2</LM>
 </w.rf>
 <form>Melescanu</form>
-<tag>
-<AM lemma="Melescanu_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Melescana" src="auto">NNFS4-----A----</AM>
-<AM lemma="Melescan_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Melescan" src="auto">NNIS2-----A----</AM>
-<AM lemma="Melescan_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Melescan_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Melescana_;Y" src="auto">NNFS4-----A----</AM>
-<AM lemma="Melescano_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Melescan_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="melescanu" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Melescanu_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-82-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1991,18 +1969,7 @@
 <LM>w#w-ln94210-82-p3s6w6</LM>
 </w.rf>
 <form>Melescana</form>
-<tag>
-<AM lemma="Melescanu_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Melescan_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Melescan_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Melescan_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Melescan_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Melescan" src="auto">NNMS4-----A----</AM>
-<AM lemma="Melescan" src="auto">NNMS2-----A----</AM>
-<AM lemma="Melescana" src="auto">NNFS1-----A----</AM>
-<AM lemma="Melescan_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="melescana" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Melescanu_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-82-p3s6w7">
 <src.rf>manual</src.rf>
@@ -3248,18 +3215,7 @@
 <LM>w#w-ln94210-82-p5s1w2</LM>
 </w.rf>
 <form>Melescanova</form>
-<tag>
-<AM lemma="Melescanův_;S_^(*2u)" src="orig">AUFS1M---------</AM>
-<AM lemma="Melescanův_;S_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="Melescanův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Melescanov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Melescanov_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Melescanův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Melescanův_;S_^(*2a)" src="auto" recommended="1">AUFS1M---------</AM>
-<AM lemma="Melescanov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Melescanův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="melescanova" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Melescanův_;S_^(*2u)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94210-82-p5s1w3">
 <src.rf>manual</src.rf>
@@ -3501,18 +3457,7 @@
 <LM>w#w-ln94210-82-p5s2w24</LM>
 </w.rf>
 <form>Melescanu</form>
-<tag>
-<AM lemma="Melescanu_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Melescana" src="auto">NNFS4-----A----</AM>
-<AM lemma="Melescan_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Melescan" src="auto">NNIS2-----A----</AM>
-<AM lemma="Melescan_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Melescan_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Melescana_;Y" src="auto">NNFS4-----A----</AM>
-<AM lemma="Melescano_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Melescan_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="melescanu" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Melescanu_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-82-p5s2w25">
 <src.rf>manual</src.rf>

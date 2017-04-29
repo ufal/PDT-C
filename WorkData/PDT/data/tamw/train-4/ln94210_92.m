@@ -215,18 +215,7 @@
 <LM>w#w-ln94210-92-p2s1Bw7</LM>
 </w.rf>
 <form>Almae</form>
-<tag>
-<AM lemma="alma_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Alma_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Almae_;L_,t" src="auto">NNFP1-----A----</AM>
-<AM lemma="Almae_;L_,t" src="auto">AAFP1----1A----</AM>
-<AM lemma="Alma_,t" src="auto">NNFP1-----A----</AM>
-<AM lemma="tae_,t_^(Almae-kwon-do)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Almae_;u_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Almae_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Almae_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="almae" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="alma_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94210-92-p2s1Bw8">
 <src.rf>manual</src.rf>

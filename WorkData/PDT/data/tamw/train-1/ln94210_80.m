@@ -367,18 +367,7 @@
 <LM>w#w-ln94210-80-p2s2w6</LM>
 </w.rf>
 <form>Cyangugu</form>
-<tag>
-<AM lemma="Cyangugu_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Cyangugu_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Cyangug_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Cyangug" src="auto">NNIS2-----A----</AM>
-<AM lemma="Cyangug_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Cyangug" src="auto">NNIS6-----A----</AM>
-<AM lemma="Cyanguga" src="auto">NNFS4-----A----</AM>
-<AM lemma="Cyangugo" src="auto">NNNS6-----A----</AM>
-<AM lemma="Cyangug_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="cyangugu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cyangugu_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94210-80-p2s2w7">
 <src.rf>manual</src.rf>
@@ -394,18 +383,7 @@
 <LM>w#w-ln94210-80-p2s2w8</LM>
 </w.rf>
 <form>Gikongoro</form>
-<tag>
-<AM lemma="Gikongoro_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Gikongora_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Gikongoro_^(úsporně)" src="auto">Dg-------1A----</AM>
-<AM lemma="Gikongoro_;m_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Gikongoro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Gikongoro_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Gikongoro-2_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Gikongoro" src="auto">Db-------------</AM>
-<AM lemma="Gikongoro" src="auto">A2--------A----</AM>
-<AM lemma="gikongoro" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gikongoro_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94210-80-p2s2w9">
 <src.rf>manual</src.rf>
@@ -421,17 +399,7 @@
 <LM>w#w-ln94210-80-p2s2w10</LM>
 </w.rf>
 <form>Kibuye</form>
-<tag>
-<AM lemma="Kibuye_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Kibuye_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Kibuy_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kibuy_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Kibuy_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kibuya_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Kibuy_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kibuy_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="kibuye" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kibuye_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94210-80-p2s2w11">
 <src.rf>manual</src.rf>

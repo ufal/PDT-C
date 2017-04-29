@@ -5389,18 +5389,7 @@
 <LM>w#w-ln94208-60-p7s2w7</LM>
 </w.rf>
 <form>Unfinished</form>
-<tag>
-<AM lemma="Unfinished_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Unfinished_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Unfinished_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Unfinished" src="auto">NNIS4-----A----</AM>
-<AM lemma="Unfinished" src="auto">NNIS1-----A----</AM>
-<AM lemma="Unfinished_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Unfinished-1" src="auto">Db-------------</AM>
-<AM lemma="Unfinished" src="auto">Db-------------</AM>
-<AM lemma="Unfinished" src="auto">NNMS1-----A----</AM>
-<AM lemma="unfinished" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Unfinished_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94208-60-p7s2w8">
 <src.rf>manual</src.rf>
@@ -5881,16 +5870,7 @@
 <LM>w#w-ln94208-60-p7s3w15</LM>
 </w.rf>
 <form>Šagit</form>
-<tag>
-<AM lemma="Šagit_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Šagit_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Šagit_;E" src="auto">NNIS1-----A----</AM>
-<AM lemma="Šagit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Šagit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Šagita" src="auto">NNFP2-----A----</AM>
-<AM lemma="Šagit" src="auto">NNIS4-----A----</AM>
-<AM lemma="šagit" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Šagit_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-60-p7s3w16">
 <src.rf>manual</src.rf>

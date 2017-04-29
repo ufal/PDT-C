@@ -1041,16 +1041,7 @@
 <LM>w#w-ln94210-68-p3s4w8</LM>
 </w.rf>
 <form>Professional</form>
-<tag>
-<AM lemma="Professional_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Professionat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Professionat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Professionat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Professional_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="professionat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Professional_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="professional" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Professional_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-68-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1058,18 +1049,7 @@
 <LM>w#w-ln94210-68-p3s4w9</LM>
 </w.rf>
 <form>Commando</form>
-<tag>
-<AM lemma="Commando_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Commando_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Commando" src="auto">NNNS4-----A----</AM>
-<AM lemma="Commando" src="auto">NNNS1-----A----</AM>
-<AM lemma="Commando_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Commando_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Commando_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Commando_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Commando_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="commando" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Commando_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94210-68-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1312,17 +1292,7 @@
 <LM>w#w-ln94210-68-p3s4w39</LM>
 </w.rf>
 <form>fu</form>
-<tag>
-<AM lemma="fu_;w_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="f" src="auto">NNIS2-----A----</AM>
-<AM lemma="f" src="auto">NNIS6-----A----</AM>
-<AM lemma="f_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="f_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="f_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="fa" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="f_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="f" src="auto">NNIS3-----A----</AM>
-</tag>
+<tag lemma="fu_;w_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94210-68-p3s4w40">
 <src.rf>manual</src.rf>

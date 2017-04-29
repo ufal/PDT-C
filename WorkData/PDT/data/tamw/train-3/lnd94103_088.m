@@ -911,18 +911,7 @@
 <LM>w#w-lnd94103-088-p1s7w16</LM>
 </w.rf>
 <form>Brandenburger</form>
-<tag>
-<AM lemma="Brandenburger_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Brandenburger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Brandenburger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Brandenburger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Brandenburžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Brandenburger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Brandenburger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Brandenburger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Brandenburger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="brandenburger" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Brandenburger_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-088-p1s7w17">
 <src.rf>manual</src.rf>
@@ -978,17 +967,7 @@
 <LM>w#w-lnd94103-088-p1s7w23</LM>
 </w.rf>
 <form>Plantahof</form>
-<tag>
-<AM lemma="Plantahof_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Plantahof_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Plantahof_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Plantahof_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="plantahofesor_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Plantahofesor_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Plantahofa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Plantahof-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="auto">RR--X----------</AM>
-<AM lemma="plantahof" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Plantahof_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-088-p1s7w24">
 <src.rf>manual</src.rf>
@@ -2114,16 +2093,7 @@
 <LM>w#w-lnd94103-088-p1s13w6</LM>
 </w.rf>
 <form>Graubunden</form>
-<tag>
-<AM lemma="Graubunden_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Graubundna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Graubunden_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Graubunden_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Graubundnout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Graubundný" src="auto">ACYS------A----</AM>
-<AM lemma="Graubunden_^(jednotka_času)" src="auto">NNIS4-----A----</AM>
-<AM lemma="graubunden" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Graubunden_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-088-p1s13w7">
 <src.rf>manual</src.rf>
@@ -2465,18 +2435,7 @@
 <LM>w#w-lnd94103-088-p1s16w12</LM>
 </w.rf>
 <form>Brandenburger</form>
-<tag>
-<AM lemma="Brandenburger_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Brandenburger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Brandenburger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Brandenburger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Brandenburžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Brandenburger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Brandenburger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Brandenburger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Brandenburger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="brandenburger" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Brandenburger_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-088-p1s16w13">
 <src.rf>manual</src.rf>
@@ -4770,18 +4729,7 @@
 <LM>w#w-lnd94103-088-p1s32w16</LM>
 </w.rf>
 <form>Branderburger</form>
-<tag>
-<AM lemma="Branderburger_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Branderburger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Branderburger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Branderburger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Branderburžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Branderburger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Branderburger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Branderburger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Branderburger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="branderburger" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Branderburger_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-088-p1s32w17">
 <src.rf>manual</src.rf>
@@ -6659,17 +6607,7 @@
 <LM>w#w-lnd94103-088-p1s47w7</LM>
 </w.rf>
 <form>Plantahof</form>
-<tag>
-<AM lemma="Plantahof_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Plantahof_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Plantahof_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Plantahof_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="plantahofesor_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Plantahofesor_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Plantahofa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Plantahof-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="auto">RR--X----------</AM>
-<AM lemma="plantahof" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Plantahof_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-088-p1s47w8">
 <src.rf>manual</src.rf>

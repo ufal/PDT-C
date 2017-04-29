@@ -2617,18 +2617,7 @@
 <LM>w#w-ln94211-90-p11s1w10</LM>
 </w.rf>
 <form>Meech</form>
-<tag>
-<AM lemma="Meech_;G_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Me" src="auto">NNIP6-----A----</AM>
-<AM lemma="Meo" src="auto">NNNP6-----A----</AM>
-<AM lemma="Me" src="auto">NNMP6-----A----</AM>
-<AM lemma="Mey_;G" src="auto" recommended="1">NNIP6-----A----</AM>
-<AM lemma="Me_^(*3ý)" src="auto">NNFP6-----A----</AM>
-<AM lemma="Me" src="auto">NNFP6-----A----</AM>
-<AM lemma="Meech" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mea" src="auto">NNMP6-----A----</AM>
-<AM lemma="meech" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Meech_;G_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94211-90-p11s1w11">
 <src.rf>manual</src.rf>

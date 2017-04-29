@@ -61,19 +61,7 @@
 <LM>w#w-cmpr9415-014-p2s1w3</LM>
 </w.rf>
 <form>Incentive</form>
-<tag>
-<AM lemma="Incentive_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Creative_;K_,t_^(Incentive_Labs)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Incentive_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Incentive_,t" src="auto">Db-------------</AM>
-<AM lemma="Incentive_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Incentive_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Incentive_;c_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Incentive_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Incentive_;m_,t" src="auto">Dg-------1A----</AM>
-<AM lemma="incentive" src="auto">NNMS1-----A----</AM>
-<AM lemma="incentive-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="Incentive_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9415-014-p2s1w4">
 <src.rf>manual</src.rf>

@@ -175,23 +175,7 @@
 <LM>w#w-ln95045-123-p2s1Bw10</LM>
 </w.rf>
 <form>MIPIM</form>
-<tag>
-<AM lemma="MIPIM_:B_;m" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MIPIM_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="MIPIM_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MIPIM-1_:B_;U_^(akutní_infarkt_myokardu)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MIPIM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MIPIM_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Mipim_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mipi_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Mipim_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mipim_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mipim" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mipim" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mipimum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Mipim_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="mipim" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="MIPIM_:B_;m" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95045-123-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -469,23 +453,7 @@
 <LM>w#w-ln95045-123-p3s1w4</LM>
 </w.rf>
 <form>MIPIM</form>
-<tag>
-<AM lemma="MIPIM_:B_;m" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MIPIM_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="MIPIM_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MIPIM-1_:B_;U_^(akutní_infarkt_myokardu)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MIPIM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MIPIM_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Mipim_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mipi_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Mipim_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mipim_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mipim" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mipim" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mipimum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Mipim_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="mipim" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="MIPIM_:B_;m" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95045-123-p3s1w5">
 <src.rf>manual</src.rf>

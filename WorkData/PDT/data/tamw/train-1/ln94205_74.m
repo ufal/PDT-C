@@ -730,17 +730,7 @@
 <LM>w#w-ln94205-74-p3s1w16</LM>
 </w.rf>
 <form>Repubblica</form>
-<tag>
-<AM lemma="Repubblica_;R_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Repubblica_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Repubblica_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Repubblica_;m_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Repubblica_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Repubblica_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Repubblica_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Repubblica_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="repubblica" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Repubblica_;R_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-74-p3s1w17">
 <src.rf>manual</src.rf>

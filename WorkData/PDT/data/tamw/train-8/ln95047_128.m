@@ -177,17 +177,7 @@
 <LM>w#w-ln95047-128-p2s1Cw6</LM>
 </w.rf>
 <form>Banque</form>
-<tag>
-<AM lemma="Banque_;K_,t_^(v_názvech_bank)" src="orig">NNFXX-----A----</AM>
-<AM lemma="Banque_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Banque_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Banque_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Banque_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Banque_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Banque_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Banque_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="banque" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Banque_;K_,t_^(v_názvech_bank)" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95047-128-p2s1Cw7">
 <src.rf>manual</src.rf>
@@ -195,17 +185,7 @@
 <LM>w#w-ln95047-128-p2s1Cw7</LM>
 </w.rf>
 <form>Nationale</form>
-<tag>
-<AM lemma="Nationale_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Nationale_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Nationale_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="National" src="auto">NNIS6-----A----</AM>
-<AM lemma="Nationale_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Nationala" src="auto">NNFS6-----A----</AM>
-<AM lemma="Nationale_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Nationale-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="nationale" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nationale_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95047-128-p2s1Cw8">
 <src.rf>manual</src.rf>
@@ -333,26 +313,7 @@
 <LM>w#w-ln95047-128-p2s2w2</LM>
 </w.rf>
 <form>BNP</form>
-<tag>
-<AM lemma="BNP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BNP_:B_;K_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="BNP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BNP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BNP-2_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="BNP_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="BNP_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="BNP_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Bnp" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bnp" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bnp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bnp-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Bnp" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bnp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bnp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bnpa" src="auto">NNFP2-----A----</AM>
-<AM lemma="bnp" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="BNP_:B_;K_,t" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95047-128-p2s2w3">
 <src.rf>manual</src.rf>
@@ -1063,26 +1024,7 @@
 <LM>w#w-ln95047-128-p4s1w1</LM>
 </w.rf>
 <form>BNP</form>
-<tag>
-<AM lemma="BNP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BNP_:B_;K_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="BNP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BNP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BNP-2_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="BNP_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="BNP_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="BNP_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Bnp" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bnp" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bnp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bnp-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Bnp" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bnp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bnp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bnpa" src="auto">NNFP2-----A----</AM>
-<AM lemma="bnp" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="BNP_:B_;K_,t" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95047-128-p4s1w2">
 <src.rf>manual</src.rf>

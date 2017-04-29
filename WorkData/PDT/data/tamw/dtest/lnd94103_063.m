@@ -334,18 +334,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Führersgeburtstag</form>
-<tag>
-<AM lemma="Führersgeburtstag_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Führersgeburtstag_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Führersgeburtstag_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Führersgeburtstag_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Führersgeburtstag" src="auto">NNIS1-----A----</AM>
-<AM lemma="Führersgeburtstag_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Führersgeburtstag-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Führersgeburtstago" src="auto">NNNP2-----A----</AM>
-<AM lemma="Führersgeburtstagnetický_:B" src="auto">AAXXX----1A----</AM>
-<AM lemma="führersgeburtstag" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Führersgeburtstag_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-063-p1s1Dw17">
 <src.rf>manual</src.rf>
@@ -1291,17 +1280,7 @@
 <LM>w#w-lnd94103-063-p1s8Aw9</LM>
 </w.rf>
 <form>Historikerstreit</form>
-<tag>
-<AM lemma="Historikerstreit_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Historikerstreit_;R_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Historikerstreit_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Historikerstreit_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Historikerstreit_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Historikerstreit_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Historikerstreit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Historikerstreit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="historikerstreit" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Historikerstreit_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94103-063-p1s8Aw10">
 <src.rf>manual</src.rf>
@@ -2615,18 +2594,7 @@
 <LM>w#w-lnd94103-063-p1s16w32</LM>
 </w.rf>
 <form>Lepenis</form>
-<tag>
-<AM lemma="Lepenis_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lepenis_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lepenis_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lepenis_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lepenis_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lepenis_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lepenis_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lepenis" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lepenis" src="auto">NNIS1-----A----</AM>
-<AM lemma="lepenis" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lepenis_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-063-p1s16w33">
 <src.rf>manual</src.rf>
@@ -2817,18 +2785,7 @@
 <LM>w#w-lnd94103-063-p1s18w6</LM>
 </w.rf>
 <form>Kralim</form>
-<tag>
-<AM lemma="Krali_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Krali_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Kralim_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kralim_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kralim_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kralim_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kralim" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kralim" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kralimum" src="auto">NNNP2-----A----</AM>
-<AM lemma="kralim" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Krali_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94103-063-p1s18w7">
 <src.rf>manual</src.rf>
@@ -3969,16 +3926,7 @@
 <LM>w#w-lnd94103-063-p1s25w1</LM>
 </w.rf>
 <form>Corriere</form>
-<tag>
-<AM lemma="Corriere_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Corrirat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Corriere_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Corrirát" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Corriere_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="zabrat_^([Corriavit]_něco_někomu)" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Corrirát-2" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="corriere" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Corriere_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-lnd94103-063-p1s25w2">
 <src.rf>manual</src.rf>

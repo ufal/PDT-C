@@ -608,19 +608,7 @@
 <LM>w#w-ln94200-103-p2s4w8</LM>
 </w.rf>
 <form>maločeská</form>
-<tag>
-<AM lemma="maločeský" src="orig">AAFS1----1A----</AM>
-<AM lemma="maločeskat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="maločeská_;G" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="maločeská_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="maločeský" src="auto">AAFS1----1A----</AM>
-<AM lemma="maločeský" src="auto">AAFS5----1A----</AM>
-<AM lemma="maločeský" src="auto">AANP1----1A----</AM>
-<AM lemma="maločeský" src="auto">AANP4----1A----</AM>
-<AM lemma="maločeský" src="auto">AANP5----1A----</AM>
-<AM lemma="maločeský_;G" src="auto">AAFS1----1A----</AM>
-<AM lemma="maločeský_;S" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="maločeský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94200-103-p2s4w9">
 <src.rf>manual</src.rf>

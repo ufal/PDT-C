@@ -389,18 +389,7 @@
 <LM>w#w-ln94209-63-p2s1Cw19</LM>
 </w.rf>
 <form>Window</form>
-<tag>
-<AM lemma="Window_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Window_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Window_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Window_;G_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Window_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Window_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Window_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Window" src="auto">NNFXX-----A----</AM>
-<AM lemma="know_,t_^(Window_how)" src="auto">NNNXX-----A----</AM>
-<AM lemma="window" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Window_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94209-63-p2s1Cw20">
 <src.rf>manual</src.rf>
@@ -1965,18 +1954,7 @@
 <LM>w#w-ln94209-63-p3s11w1</LM>
 </w.rf>
 <form>Window</form>
-<tag>
-<AM lemma="Window_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Window_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Window_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Window_;G_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Window_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Window_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Window_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Window" src="auto">NNFXX-----A----</AM>
-<AM lemma="know_,t_^(Window_how)" src="auto">NNNXX-----A----</AM>
-<AM lemma="window" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Window_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94209-63-p3s11w2">
 <src.rf>manual</src.rf>

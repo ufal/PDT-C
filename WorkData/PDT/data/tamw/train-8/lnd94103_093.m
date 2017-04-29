@@ -969,18 +969,7 @@
 <LM>w#w-lnd94103-093-p1s6w8</LM>
 </w.rf>
 <form>Classics</form>
-<tag>
-<AM lemma="Classics_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Classics_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Classic_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Classic_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Classics_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Classics_;m" src="auto">NNXXX-----A----</AM>
-<AM lemma="Classics_;R" src="auto">NNFXX-----A----</AM>
-<AM lemma="Classics_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Classics_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="classics" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Classics_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94103-093-p1s6w9">
 <src.rf>manual</src.rf>
@@ -2334,18 +2323,7 @@
 <LM>w#w-lnd94103-093-p1s15w29</LM>
 </w.rf>
 <form>Plassona</form>
-<tag>
-<AM lemma="Plasson_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Plasson_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Plasson_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Plassona" src="auto">NNFS1-----A----</AM>
-<AM lemma="Plasson_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Plasson" src="auto">NNMS2-----A----</AM>
-<AM lemma="Plassona_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Plassona_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Plassona_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="plassona" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Plasson_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94103-093-p1s15w30">
 <src.rf>manual</src.rf>
@@ -2452,18 +2430,7 @@
 <LM>w#w-lnd94103-093-p1s15w42</LM>
 </w.rf>
 <form>Classics</form>
-<tag>
-<AM lemma="Classics_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Classics_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Classic_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Classic_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Classics_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Classics_;m" src="auto">NNXXX-----A----</AM>
-<AM lemma="Classics_;R" src="auto">NNFXX-----A----</AM>
-<AM lemma="Classics_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Classics_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="classics" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Classics_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94103-093-p1s15w43">
 <src.rf>manual</src.rf>

@@ -491,18 +491,7 @@
 <LM>w#w-ln94202-97-p2s3w4</LM>
 </w.rf>
 <form>Kingstona</form>
-<tag>
-<AM lemma="Kingston-2_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Kingston_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kingston_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kingstona" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kingston_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Kingston" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kingstona_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kingstona_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kingstona_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="kingstona" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kingston-2_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-97-p2s3w5">
 <src.rf>manual</src.rf>
@@ -1781,17 +1770,7 @@
 <LM>w#w-ln94202-97-p3s6w6</LM>
 </w.rf>
 <form>Hedosu</form>
-<tag>
-<AM lemma="Hedosu_;K_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="Hedos" src="auto">NNIS2-----A----</AM>
-<AM lemma="Hedos_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Hedos" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Hedos" src="auto">NNIS6-----A----</AM>
-<AM lemma="Hedos" src="auto">NNIS3-----A----</AM>
-<AM lemma="Hedos_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Hedosa" src="auto">NNFS4-----A----</AM>
-<AM lemma="hedosu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hedosu_;K_,t" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94202-97-p3s6w7">
 <src.rf>manual</src.rf>
@@ -1903,14 +1882,7 @@
 <LM>w#w-ln94202-97-p3s6w20</LM>
 </w.rf>
 <form>Kuncemu</form>
-<tag>
-<AM lemma="Kunce_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Kunce_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Kuncem" src="auto">NNIS2-----A----</AM>
-<AM lemma="Kuncem" src="auto">NNIS3-----A----</AM>
-<AM lemma="Kunce_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="kuncemu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kunce_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94202-97-p3s6w21">
 <src.rf>manual</src.rf>

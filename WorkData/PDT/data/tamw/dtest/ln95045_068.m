@@ -1294,18 +1294,7 @@
 <LM>w#w-ln95045-068-p2s6w12</LM>
 </w.rf>
 <form>Kuhhandlu</form>
-<tag>
-<AM lemma="Kuhhandel_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="Kuhhandlo" src="auto">NNNS3-----A----</AM>
-<AM lemma="Kuhhandlo_;Y" src="auto">NNNS3-----A----</AM>
-<AM lemma="Kuhhandl_;G_,h" src="auto">NNIS2-----A----</AM>
-<AM lemma="Kuhhandl" src="auto">NNIS2-----A----</AM>
-<AM lemma="Kuhhandl" src="auto">NNIS6-----A----</AM>
-<AM lemma="Kuhhandl" src="auto">NNIS3-----A----</AM>
-<AM lemma="Kuhhandla" src="auto">NNFS4-----A----</AM>
-<AM lemma="Kuhhandl" src="auto">NNIS6-----A---1</AM>
-<AM lemma="kuhhandlu" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kuhhandel_,t" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-068-p2s6w13">
 <src.rf>manual</src.rf>
@@ -1526,18 +1515,7 @@
 <LM>w#w-ln95045-068-p2s6w39</LM>
 </w.rf>
 <form>Landsmanschaftu</form>
-<tag>
-<AM lemma="Landsmanschaft_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="Landsmanschaft" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Landsmanschafta" src="auto">NNFS4-----A----</AM>
-<AM lemma="Landsmanschaft_;K_;b_;c" src="auto">NNIS2-----A----</AM>
-<AM lemma="Landsmanschaft_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Landsmanschaft_,h" src="auto">NNIS2-----A----</AM>
-<AM lemma="Landsmanschaft" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Landsmanschaft" src="auto">NNIS3-----A----</AM>
-<AM lemma="Landsmanschaft" src="auto">NNIS6-----A----</AM>
-<AM lemma="landsmanschaftu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Landsmanschaft_,t" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-068-p2s6w40">
 <src.rf>manual</src.rf>
@@ -3765,18 +3743,7 @@
 <LM>w#w-ln95045-068-p4s1w2</LM>
 </w.rf>
 <form>Kuhhandel</form>
-<tag>
-<AM lemma="Kuhhandel_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kuhhandlo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Kuhhandel_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kuhhandel_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kuhhandel_;S_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Kuhhandel_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kuhhandel_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kuhhandel_;G_,t" src="auto">RR--X----------</AM>
-<AM lemma="Kuhhandel_,t_^(de+člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="kuhhandel" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kuhhandel_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-068-p4s1w3">
 <src.rf>manual</src.rf>

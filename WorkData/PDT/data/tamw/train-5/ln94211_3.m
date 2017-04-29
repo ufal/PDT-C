@@ -3497,28 +3497,7 @@
 <LM>w#w-ln94211-3-p5s10w9</LM>
 </w.rf>
 <form>Del</form>
-<tag>
-<AM lemma="Del_:B_;c_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Del" src="auto">NNIS1-----A----</AM>
-<AM lemma="Del" src="auto">NNIS4-----A----</AM>
-<AM lemma="Del" src="auto">NNMS1-----A----</AM>
-<AM lemma="Del_:B_;c_,t" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Del_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Det" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Det_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dlo" src="auto">NNNP2-----A----</AM>
-<AM lemma="del-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="del_,t_^(de+člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="del_;G_,t" src="auto">RR--X----------</AM>
-<AM lemma="del_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="del_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="del_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="del_;S_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="del_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="deletopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
-<AM lemma="delitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="dlo" src="auto">NNNP2-----A----</AM>
-</tag>
+<tag lemma="Del_:B_;c_,t" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94211-3-p5s10w10">
 <src.rf>manual</src.rf>
@@ -4855,16 +4834,7 @@
 <LM>w#w-ln94211-3-p6s6w5</LM>
 </w.rf>
 <form>klucima</form>
-<tag>
-<AM lemma="kluk" src="orig">NNMP7-----A---6</AM>
-<AM lemma="klucim_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="klucima_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="klucimum" src="auto">NNNS2-----A----</AM>
-<AM lemma="klucimum" src="auto">NNNP1-----A----</AM>
-<AM lemma="klucim_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="klucima_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="klucima_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="kluk" src="orig" selected="1">NNMP7-----A---6</tag>
 </m>
 <m id="m-ln94211-3-p6s6w6">
 <src.rf>manual</src.rf>
@@ -6549,15 +6519,7 @@
 <LM>w#w-ln94211-3-p7s8w2</LM>
 </w.rf>
 <form>rpotože</form>
-<tag>
-<AM lemma="rpotože" src="orig">NNXXX-----A----</AM>
-<AM lemma="rpotož" src="auto">NNFS2-----A----</AM>
-<AM lemma="rpotož" src="auto">NNFP4-----A----</AM>
-<AM lemma="rpotože" src="auto">J,-------------</AM>
-<AM lemma="rpotůh" src="auto">NNMS5-----A----</AM>
-<AM lemma="rpotož" src="auto">NNFP1-----A----</AM>
-<AM lemma="rpotože" src="auto" recommended="1">NNXXX-----A----</AM>
-</tag>
+<tag lemma="rpotože" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94211-3-p7s8w3">
 <src.rf>manual</src.rf>
@@ -8000,19 +7962,7 @@
 <LM>w#w-ln94211-3-p9s1w15</LM>
 </w.rf>
 <form>zbitečných</form>
-<tag>
-<AM lemma="zbytečný" src="orig">AANP2----1A---6</AM>
-<AM lemma="zbitečný" src="auto">AAFP2----1A----</AM>
-<AM lemma="zbitečný" src="auto">AAFP6----1A----</AM>
-<AM lemma="zbitečný" src="auto">AAIP2----1A----</AM>
-<AM lemma="zbitečný" src="auto">AAIP6----1A----</AM>
-<AM lemma="zbitečný" src="auto">AAMP2----1A----</AM>
-<AM lemma="zbitečný" src="auto">AAMP6----1A----</AM>
-<AM lemma="zbitečný" src="auto" recommended="1">AANP2----1A----</AM>
-<AM lemma="zbitečný" src="auto">AANP6----1A----</AM>
-<AM lemma="zbitečný_^(*2t)" src="auto">AAFP2----1A----</AM>
-<AM lemma="zbitečný_^(*2t)" src="auto">AAIP2----1A----</AM>
-</tag>
+<tag lemma="zbytečný" src="orig" selected="1">AANP2----1A---6</tag>
 </m>
 <m id="m-ln94211-3-p9s1w16">
 <src.rf>manual</src.rf>
@@ -8147,19 +8097,7 @@
 <LM>w#w-ln94211-3-p9s2w4</LM>
 </w.rf>
 <form>zbitečných</form>
-<tag>
-<AM lemma="zbytečný" src="orig">AANP2----1A---6</AM>
-<AM lemma="zbitečný" src="auto">AAFP2----1A----</AM>
-<AM lemma="zbitečný" src="auto">AAFP6----1A----</AM>
-<AM lemma="zbitečný" src="auto">AAIP2----1A----</AM>
-<AM lemma="zbitečný" src="auto">AAIP6----1A----</AM>
-<AM lemma="zbitečný" src="auto" recommended="1">AAMP2----1A----</AM>
-<AM lemma="zbitečný" src="auto">AAMP6----1A----</AM>
-<AM lemma="zbitečný" src="auto">AANP2----1A----</AM>
-<AM lemma="zbitečný" src="auto">AANP6----1A----</AM>
-<AM lemma="zbitečný_^(*2t)" src="auto">AAFP2----1A----</AM>
-<AM lemma="zbitečný_^(*2t)" src="auto">AAIP2----1A----</AM>
-</tag>
+<tag lemma="zbytečný" src="orig" selected="1">AANP2----1A---6</tag>
 </m>
 <m id="m-ln94211-3-p9s2w5">
 <src.rf>manual</src.rf>

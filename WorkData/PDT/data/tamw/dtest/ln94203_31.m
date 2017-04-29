@@ -91,19 +91,7 @@
 <LM>w#w-ln94203-31-p1s1w10</LM>
 </w.rf>
 <form>COMPACTA</form>
-<tag>
-<AM lemma="Compacta_;R_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="COMPACTA_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Compacta" src="auto">NNFS1-----A----</AM>
-<AM lemma="Compactus_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Compact_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Compacta_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Compacta" src="auto">NNNP4-----A----</AM>
-<AM lemma="Compacta" src="auto">NNMS1-----A----</AM>
-<AM lemma="Compact_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Compact" src="auto">NNMS2-----A----</AM>
-<AM lemma="compacta" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Compacta_;R_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-31-p1s1w11">
 <src.rf>manual</src.rf>

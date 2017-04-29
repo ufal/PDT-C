@@ -311,18 +311,7 @@
 <LM>w#w-ln95045-072-p2s2w10</LM>
 </w.rf>
 <form>Šťáhlavce</form>
-<tag>
-<AM lemma="Šťáhlavka_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Šťáhlavka" src="auto">NNFS6-----A----</AM>
-<AM lemma="Šťáhlavka" src="auto">NNFS3-----A----</AM>
-<AM lemma="Šťáhlavec" src="auto">NNMP4-----A----</AM>
-<AM lemma="Šťáhlavka_;G" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Šťáhlavec" src="auto">NNMS4-----A----</AM>
-<AM lemma="Šťáhlavec" src="auto">NNMS2-----A----</AM>
-<AM lemma="Šťáhlavec_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Šťáhlavec_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="šťáhlavce" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Šťáhlavka_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95045-072-p2s2w11">
 <src.rf>manual</src.rf>

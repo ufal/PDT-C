@@ -107,25 +107,7 @@
 <LM>w#w-ln94209-26-p1s1Aw12</LM>
 </w.rf>
 <form>Jie</form>
-<tag>
-<AM lemma="Jie_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="Jie_;S" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Jie_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Jie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Jie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Jie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Jie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="jie" src="auto">NNFS2-----A----</AM>
-<AM lemma="jie" src="auto">NNFS1-----A----</AM>
-<AM lemma="jie" src="auto">NNFP1-----A----</AM>
-<AM lemma="jie" src="auto">NNFP4-----A----</AM>
-<AM lemma="jie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="jie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="jie_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="jie_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jie_;S" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94209-26-p1s1Aw13">
 <src.rf>manual</src.rf>
@@ -133,18 +115,7 @@
 <LM>w#w-ln94209-26-p1s1Aw13</LM>
 </w.rf>
 <form>Süan</form>
-<tag>
-<AM lemma="Süan_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Süan_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Süan_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Süan_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Süan" src="auto">NNMS1-----A----</AM>
-<AM lemma="Süan_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Süany_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Süan" src="auto">NNIS1-----A----</AM>
-<AM lemma="Süan_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="süan" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Süan_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94209-26-p1s1Aw14">
 <src.rf>manual</src.rf>
@@ -160,17 +131,7 @@
 <LM>w#w-ln94209-26-p1s1Aw15</LM>
 </w.rf>
 <form>pchingem</form>
-<tag>
-<AM lemma="pching_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="pching" src="auto">NNIS7-----A----</AM>
-<AM lemma="pching_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="pching_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="pching" src="auto">NNMS7-----A----</AM>
-<AM lemma="pchinge_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="pchingo" src="auto">NNNS7-----A----</AM>
-<AM lemma="pching_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="pchinge_;Y_,t" src="auto">NNMS7-----A----</AM>
-</tag>
+<tag lemma="pching_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94209-26-p1s1Aw16">
 <src.rf>manual</src.rf>

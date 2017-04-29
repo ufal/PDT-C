@@ -53,17 +53,7 @@
 <LM>w#w-mf920922-062-p2s1w3</LM>
 </w.rf>
 <form>Sveti</form>
-<tag>
-<AM lemma="Sveti_;G_,t" src="orig">AAMS1----1A----</AM>
-<AM lemma="Svet" src="auto">NNMP1-----A----</AM>
-<AM lemma="Sveť" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Sve" src="auto">NNNS3-----A----</AM>
-<AM lemma="Svet`41" src="auto">Cn-P2----------</AM>
-<AM lemma="Sveť_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Sveť" src="auto">NNFS6-----A----</AM>
-<AM lemma="Sveť" src="auto">NNFS2-----A---1</AM>
-<AM lemma="sveti" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sveti_;G_,t" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-mf920922-062-p2s1w4">
 <src.rf>manual</src.rf>

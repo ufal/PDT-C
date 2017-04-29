@@ -451,17 +451,7 @@
 <LM>w#w-ln95047-076-p2s3w6</LM>
 </w.rf>
 <form>Leoroa</form>
-<tag>
-<AM lemma="Leoro_;S_,t" src="orig">NNMS2-----A----</AM>
-<AM lemma="Leoro_;S_,t" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Leoro_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Leoroa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Leoroa" src="auto">NNFXX-----A----</AM>
-<AM lemma="Leoroa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Leoro_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Leoroa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="leoroa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Leoro_;S_,t" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-076-p2s3w7">
 <src.rf>manual</src.rf>

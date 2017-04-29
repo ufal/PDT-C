@@ -229,18 +229,7 @@
 <LM>w#w-ln94211-105-p2s1Bw21</LM>
 </w.rf>
 <form>Trouble</form>
-<tag>
-<AM lemma="Trouble_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Trouble_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Trouble_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Trouble_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="bubble-1_;c_,t_^(Trouble-jet)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Gamble-1_;K_,t_^(angl.;_firma_Procter_and_Trouble)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Troubl" src="auto">NNIP1-----A----</AM>
-<AM lemma="Trouble_;m" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Trouble_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="trouble" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Trouble_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94211-105-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -576,18 +565,7 @@
 <LM>w#w-ln94211-105-p3s1w13</LM>
 </w.rf>
 <form>Shyer</form>
-<tag>
-<AM lemma="Shyer_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Shyer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Shyer" src="auto">NNIS1-----A----</AM>
-<AM lemma="Shyer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shyer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shyer_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Shyer" src="auto">NNIS4-----A----</AM>
-<AM lemma="Shyer_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Shyra" src="auto">NNFP2-----A----</AM>
-<AM lemma="shyer" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Shyer_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-105-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1921,18 +1899,7 @@
 <LM>w#w-ln94211-105-p4s6w4</LM>
 </w.rf>
 <form>Shyer</form>
-<tag>
-<AM lemma="Shyer_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Shyer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Shyer" src="auto">NNIS1-----A----</AM>
-<AM lemma="Shyer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shyer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shyer_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Shyer" src="auto">NNIS4-----A----</AM>
-<AM lemma="Shyer_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Shyra" src="auto">NNFP2-----A----</AM>
-<AM lemma="shyer" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Shyer_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-105-p4s6w5">
 <src.rf>manual</src.rf>
@@ -2108,18 +2075,7 @@
 <LM>w#w-ln94211-105-p4s7w10</LM>
 </w.rf>
 <form>Rubinek</form>
-<tag>
-<AM lemma="Rubinek_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rubinek_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Rubinka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Rubinek" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rubinek" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rubinek" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rubinko_,e" src="auto">NNNP2-----A----</AM>
-<AM lemma="Rubinka_;E_^(*2)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Rubinek_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="rubinek" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rubinek_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-105-p4s7w11">
 <src.rf>manual</src.rf>

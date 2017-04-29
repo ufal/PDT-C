@@ -69,18 +69,7 @@
 <LM>w#w-ln94200-135-p2s1w2</LM>
 </w.rf>
 <form>Kakafonia</form>
-<tag>
-<AM lemma="Kakafonia_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Kakafonie_,t" src="auto">NNNS2-----A----</AM>
-<AM lemma="Kakafonius" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kakafonia_;K_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Kakafonia_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kakafonius" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kakafonium" src="auto">NNNS2-----A----</AM>
-<AM lemma="Kakafonio_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kakafonie_;G" src="auto">NNFS1-----A---1</AM>
-<AM lemma="kakafonia" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kakafonia_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-135-p2s1w3">
 <src.rf>manual</src.rf>

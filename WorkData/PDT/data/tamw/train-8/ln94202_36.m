@@ -433,18 +433,7 @@
 <LM>w#w-ln94202-36-p2s2w20</LM>
 </w.rf>
 <form>Kriegsopfer</form>
-<tag>
-<AM lemma="Kriegsopfer_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kriegsopfer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kriegsopfer_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Kriegsopfer_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kriegsopfer_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Kriegsopfer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kriegsopfer" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kriegsopfer" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kriegsopfer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kriegsopfer" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kriegsopfer_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-36-p2s2w21">
 <src.rf>manual</src.rf>
@@ -710,18 +699,7 @@
 <LM>w#w-ln94202-36-p2s3w13</LM>
 </w.rf>
 <form>Piwerka</form>
-<tag>
-<AM lemma="Piwerka_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Piwerka_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Piwerka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Piwerka_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Piwerk_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Piwerek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Piwerk_;G" src="auto">NNIS2-----A---1</AM>
-<AM lemma="Piwerka_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Piwerek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="piwerka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Piwerka_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-36-p2s3w14">
 <src.rf>manual</src.rf>
@@ -1053,18 +1031,7 @@
 <LM>w#w-ln94202-36-p2s5w12</LM>
 </w.rf>
 <form>Piwerky</form>
-<tag>
-<AM lemma="Piwerka_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Piwerka" src="auto">NNFS2-----A----</AM>
-<AM lemma="Piwerka_^(*2)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Piwerka" src="auto">NNFP4-----A----</AM>
-<AM lemma="Piwerka" src="auto">NNFP1-----A----</AM>
-<AM lemma="Piwerka_^(*2)" src="auto">NNFP1-----A----</AM>
-<AM lemma="Piwerk" src="auto">NNIP1-----A----</AM>
-<AM lemma="Piwerka_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Piwerk" src="auto">NNIP4-----A----</AM>
-<AM lemma="piwerky" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Piwerka_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-36-p2s5w13">
 <src.rf>manual</src.rf>
@@ -1129,17 +1096,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>loyalními</form>
-<tag>
-<AM lemma="loajální" src="orig">AAMP7----1A----</AM>
-<AM lemma="loyalní" src="auto">AAIP7----1A----</AM>
-<AM lemma="loyalní" src="auto">AAFP7----1A----</AM>
-<AM lemma="loyalní" src="auto" recommended="1">AAMP7----1A----</AM>
-<AM lemma="loyalní" src="auto">AANP7----1A----</AM>
-<AM lemma="loyalní_^(*5ovat)" src="auto">AGIP7-----A----</AM>
-<AM lemma="loyalní_^(*3it)" src="auto">NNNP7-----A----</AM>
-<AM lemma="loyalní_^(*5ovat)" src="auto">AGFP7-----A----</AM>
-<AM lemma="loyalní" src="auto">NNNP7-----A----</AM>
-</tag>
+<tag lemma="loajální" src="orig" selected="1">AAMP7----1A----</tag>
 </m>
 <m id="m-ln94202-36-p2s5w21">
 <src.rf>manual</src.rf>

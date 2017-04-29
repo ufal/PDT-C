@@ -344,17 +344,7 @@
 <LM>w#w-ln94208-67-p2s3w8</LM>
 </w.rf>
 <form>Madani</form>
-<tag>
-<AM lemma="Madani_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Madaň_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Madani_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Madan" src="auto">NNMP1-----A----</AM>
-<AM lemma="Madaň" src="auto">NNFS6-----A----</AM>
-<AM lemma="Madaň" src="auto">NNFS3-----A----</AM>
-<AM lemma="Madan" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Madan_;E" src="auto">NNMP1-----A---1</AM>
-<AM lemma="madani" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Madani_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-67-p2s3w9">
 <src.rf>manual</src.rf>
@@ -418,17 +408,7 @@
 <LM>w#w-ln94208-67-p2s3w16</LM>
 </w.rf>
 <form>Liamine</form>
-<tag>
-<AM lemma="Liamine_;Y" src="orig">NNMS4-----A----</AM>
-<AM lemma="Liaminout" src="auto" recommended="1">VB-S---3P-AA---</AM>
-<AM lemma="Liamine_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Liamine_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Liamine_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Liamine_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Liamine_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Liamine_;U_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="liamine" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Liamine_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94208-67-p2s3w17">
 <src.rf>manual</src.rf>
@@ -437,16 +417,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Zerouala</form>
-<tag>
-<AM lemma="Zeroual_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Zerouat_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Zerouat_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Zerouat_:T_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Zerouat" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Zeroual_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Zerouat_:T_^(*4at)" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="zerouala" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Zeroual_;S" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94208-67-p2s3w18">
 <src.rf>manual</src.rf>

@@ -555,18 +555,7 @@
 <LM>w#w-ln95049-079-p2s3w22</LM>
 </w.rf>
 <form>Damúr</form>
-<tag>
-<AM lemma="Damúr_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Damúr_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Damúra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Damúr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Damúr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Damúr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Damúr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Damúr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Damúr_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="damúr" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Damúr_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-079-p2s3w23">
 <src.rf>manual</src.rf>

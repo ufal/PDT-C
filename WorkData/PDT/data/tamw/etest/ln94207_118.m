@@ -839,18 +839,7 @@
 <LM>w#w-ln94207-118-p2s4w32</LM>
 </w.rf>
 <form>Toscou</form>
-<tag>
-<AM lemma="Tosca_;Y" src="orig">NNFS7-----A----</AM>
-<AM lemma="Tosca_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Tosca_;R_,t" src="auto">NNFS7-----A----</AM>
-<AM lemma="Tosca_;G" src="auto">NNFS7-----A----</AM>
-<AM lemma="Toscý" src="auto">AAFS4----1A----</AM>
-<AM lemma="Tosca" src="auto">NNFS7-----A----</AM>
-<AM lemma="Toscý" src="auto">AAFS7----1A----</AM>
-<AM lemma="Toscý_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="Toscý_^(*3it)" src="auto">AAFS4----1A----</AM>
-<AM lemma="toscou" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tosca_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94207-118-p2s4w33">
 <src.rf>manual</src.rf>
@@ -2753,17 +2742,7 @@
 <LM>w#w-ln94207-118-p3s3w7</LM>
 </w.rf>
 <form>Ismenovi</form>
-<tag>
-<AM lemma="Ismen_;Y" src="orig">NNMS6-----A----</AM>
-<AM lemma="Ismen_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Ismen" src="auto">NNMS3-----A----</AM>
-<AM lemma="Ismen_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Ismena_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Ismen_;S" src="auto" recommended="1">NNMS6-----A----</AM>
-<AM lemma="Ismen" src="auto">NNMS6-----A----</AM>
-<AM lemma="Ismenův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="ismenovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ismen_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln94207-118-p3s3w8">
 <src.rf>manual</src.rf>
@@ -3495,15 +3474,7 @@
 <LM>w#w-ln94207-118-p4s1w24</LM>
 </w.rf>
 <form>sonornost</form>
-<tag>
-<AM lemma="sonornost" src="orig">NNFS4-----A----</AM>
-<AM lemma="sonornost" src="auto">NNFS1-----A----</AM>
-<AM lemma="sonornost" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="sonornost" src="auto">NNIS4-----A----</AM>
-<AM lemma="sonornost_,a_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="sonornost_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="sonornost_^(*3ý)" src="auto">NNFS4-----A----</AM>
-</tag>
+<tag lemma="sonornost" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94207-118-p4s1w25">
 <src.rf>manual</src.rf>

@@ -1812,25 +1812,7 @@
 <LM>w#w-ln94204-141-p3s9w8</LM>
 </w.rf>
 <form>Ft</form>
-<tag>
-<AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Ft_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Ft_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Ft_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Ft" src="auto">Vf--------A----</AM>
-<AM lemma="Ft_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ft_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ft" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ft" src="auto">NNIS4-----A----</AM>
-<AM lemma="ft_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="ft_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_^(jako_součást_názvu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="ft_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="ft_;K_;b_;c" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="ft_;K" src="auto">NNXXX-----A----</AM>
-</tag>
+<tag lemma="Ft_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94204-141-p3s9w9">
 <src.rf>manual</src.rf>
@@ -1890,25 +1872,7 @@
 <LM>w#w-ln94204-141-p3s9w15</LM>
 </w.rf>
 <form>Ft</form>
-<tag>
-<AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Ft_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Ft_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Ft_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Ft" src="auto">Vf--------A----</AM>
-<AM lemma="Ft_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ft_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ft" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ft" src="auto">NNIS4-----A----</AM>
-<AM lemma="ft_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="ft_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_^(jako_součást_názvu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="ft_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="ft_;K_;b_;c" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="ft_;K" src="auto">NNXXX-----A----</AM>
-</tag>
+<tag lemma="Ft_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94204-141-p3s9w16">
 <src.rf>manual</src.rf>
@@ -3314,25 +3278,7 @@
 <LM>w#w-ln94204-141-p5s2w6</LM>
 </w.rf>
 <form>Ft</form>
-<tag>
-<AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Ft_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Ft_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Ft_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Ft" src="auto">Vf--------A----</AM>
-<AM lemma="Ft_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ft_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ft" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ft" src="auto">NNIS4-----A----</AM>
-<AM lemma="ft_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="ft_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_^(jako_součást_názvu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="ft_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="ft_;K_;b_;c" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="ft_;K" src="auto">NNXXX-----A----</AM>
-</tag>
+<tag lemma="Ft_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94204-141-p5s2w7">
 <src.rf>manual</src.rf>
@@ -3405,25 +3351,7 @@
 <LM>w#w-ln94204-141-p5s2w15</LM>
 </w.rf>
 <form>Ft</form>
-<tag>
-<AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Ft_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Ft_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Ft_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Ft" src="auto">Vf--------A----</AM>
-<AM lemma="Ft_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ft_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ft" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ft" src="auto">NNIS4-----A----</AM>
-<AM lemma="ft_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="ft_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_^(jako_součást_názvu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="ft_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="ft_;K_;b_;c" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="ft_;K" src="auto">NNXXX-----A----</AM>
-</tag>
+<tag lemma="Ft_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94204-141-p5s2w16">
 <src.rf>manual</src.rf>
@@ -5773,25 +5701,7 @@
 <LM>w#w-ln94204-141-p8s2w8</LM>
 </w.rf>
 <form>Ft</form>
-<tag>
-<AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Ft_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Ft_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Ft_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Ft" src="auto">Vf--------A----</AM>
-<AM lemma="Ft_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ft_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ft" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ft" src="auto">NNIS4-----A----</AM>
-<AM lemma="ft_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="ft_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_^(jako_součást_názvu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="ft_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="ft_;K_;b_;c" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="ft_;K" src="auto">NNXXX-----A----</AM>
-</tag>
+<tag lemma="Ft_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94204-141-p8s2w9">
 <src.rf>manual</src.rf>
@@ -5983,25 +5893,7 @@
 <LM>w#w-ln94204-141-p8s2w32</LM>
 </w.rf>
 <form>Ft</form>
-<tag>
-<AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Ft_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Ft_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Ft_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Ft" src="auto">Vf--------A----</AM>
-<AM lemma="Ft_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ft_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ft" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ft" src="auto">NNIS4-----A----</AM>
-<AM lemma="ft_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="ft_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_^(jako_součást_názvu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="ft_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="ft_;K_;b_;c" src="auto">NNIS1-----A----</AM>
-<AM lemma="ft_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="ft_;K" src="auto">NNXXX-----A----</AM>
-</tag>
+<tag lemma="Ft_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94204-141-p8s2w33">
 <src.rf>manual</src.rf>
@@ -7795,18 +7687,7 @@
 <LM>w#w-ln94204-141-p10s1w15</LM>
 </w.rf>
 <form>Ferihegy</form>
-<tag>
-<AM lemma="Ferihegy_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Ferihega" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ferihega" src="auto">NNMP7-----A----</AM>
-<AM lemma="Ferihega" src="auto">NNMP4-----A----</AM>
-<AM lemma="Ferihegy_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Feriheg" src="auto">NNMP7-----A----</AM>
-<AM lemma="Feriheg" src="auto">NNMP4-----A----</AM>
-<AM lemma="Ferihega" src="auto">NNFS2-----A----</AM>
-<AM lemma="Feriheg" src="auto">NNIP1-----A----</AM>
-<AM lemma="ferihegy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ferihegy_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94204-141-p10s1w16">
 <src.rf>manual</src.rf>

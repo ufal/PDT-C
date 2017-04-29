@@ -1734,18 +1734,7 @@
 <LM>w#w-mf930709-145-p2s10w12</LM>
 </w.rf>
 <form>Falconary</form>
-<tag>
-<AM lemma="Falconara_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Falconar" src="auto">NNIP1-----A----</AM>
-<AM lemma="Falconar" src="auto">NNIP4-----A----</AM>
-<AM lemma="Falconar" src="auto">NNIP7-----A----</AM>
-<AM lemma="Falconara_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Falconara" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Falconary_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Falconar_;E" src="auto">NNMP7-----A----</AM>
-<AM lemma="Falconar_;E" src="auto">NNMP4-----A----</AM>
-<AM lemma="falconary" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Falconara_;G" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-145-p2s10w13">
 <src.rf>manual</src.rf>
@@ -1923,18 +1912,7 @@
 <LM>w#w-mf930709-145-p2s11w12</LM>
 </w.rf>
 <form>Transall</form>
-<tag>
-<AM lemma="Transall_;R" src="orig">NNIXX-----A----</AM>
-<AM lemma="Transall_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Transall_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Transall_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Transall_;w_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Transall_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Transall_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Transall_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Transall_,t_^(řec._jinak)" src="auto">Db-------------</AM>
-<AM lemma="transall" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Transall_;R" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf930709-145-p2s11w13">
 <src.rf>manual</src.rf>

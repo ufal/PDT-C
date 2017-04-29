@@ -2851,17 +2851,7 @@
 <LM>w#w-cmpr9410-019-p12s3w4</LM>
 </w.rf>
 <form>diskretance</form>
-<tag>
-<AM lemma="diskrepance" src="orig">NNFS1-----A----</AM>
-<AM lemma="diskretance" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="diskretance" src="auto">NNFS2-----A----</AM>
-<AM lemma="diskretance" src="auto">NNFP1-----A----</AM>
-<AM lemma="diskretanec" src="auto">NNMP4-----A----</AM>
-<AM lemma="diskretanka" src="auto">NNFS6-----A----</AM>
-<AM lemma="diskretanka" src="auto">NNFS3-----A----</AM>
-<AM lemma="diskretance" src="auto">NNFP4-----A----</AM>
-<AM lemma="diskretanec" src="auto">NNMS2-----A----</AM>
-</tag>
+<tag lemma="diskrepance" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-019-p12s3w5">
 <src.rf>manual</src.rf>

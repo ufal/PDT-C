@@ -523,18 +523,7 @@
 <LM>w#w-ln95049-058-p3s1w14</LM>
 </w.rf>
 <form>Jacqua</form>
-<tag>
-<AM lemma="Jacque_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Jacque_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Jacqua_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jacqua_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Jacqua_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jacqua_,t_^(voda)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Jacqu_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Jacqu_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Jacquum" src="auto">NNNS2-----A----</AM>
-<AM lemma="jacqua" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jacque_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-058-p3s1w15">
 <src.rf>manual</src.rf>
@@ -542,18 +531,7 @@
 <LM>w#w-ln95049-058-p3s1w15</LM>
 </w.rf>
 <form>Demyho</form>
-<tag>
-<AM lemma="Demy_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Demy_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Demy_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Demy_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Demy_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Demy_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Dem_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Demy_;S_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Demy_;S_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="demyho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Demy_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-058-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1808,17 +1786,7 @@
 <LM>w#w-ln95049-058-p3s7w35</LM>
 </w.rf>
 <form>Reddinovou</form>
-<tag>
-<AM lemma="Reddinová_;S" src="orig">NNFS4-----A----</AM>
-<AM lemma="Reddinový" src="auto">AAFS4----1A----</AM>
-<AM lemma="Reddinový" src="auto">AAFS7----1A----</AM>
-<AM lemma="Reddinová_;S" src="auto">NNFS7-----A----</AM>
-<AM lemma="Reddinová_;S" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Reddinova" src="auto">NNFS7-----A----</AM>
-<AM lemma="Reddinův_;S_^(*2)" src="auto">AUFS7M---------</AM>
-<AM lemma="Reddinova_;G" src="auto">NNFS7-----A----</AM>
-<AM lemma="reddinovou" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Reddinová_;S" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95049-058-p3s7w36">
 <src.rf>manual</src.rf>
@@ -2325,18 +2293,7 @@
 <LM>w#w-ln95049-058-p4s4w6</LM>
 </w.rf>
 <form>Švarcík</form>
-<tag>
-<AM lemma="Švarcík_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Švarcík_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Švarcík" src="auto">NNMS1-----A----</AM>
-<AM lemma="Švarcík_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Švarcík" src="auto">NNIS1-----A----</AM>
-<AM lemma="Švarcík" src="auto">NNIS4-----A----</AM>
-<AM lemma="Švarcík_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Švarcík-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Švarcík_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="švarcík" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Švarcík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-058-p4s4w7">
 <src.rf>manual</src.rf>
@@ -2458,17 +2415,7 @@
 <LM>w#w-ln95049-058-p4s5w4</LM>
 </w.rf>
 <form>mengeleovského</form>
-<tag>
-<AM lemma="mengeleovský" src="orig">AAIS2----1A----</AM>
-<AM lemma="mengeleovský" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="mengeleovský" src="auto">AANS2----1A----</AM>
-<AM lemma="mengeleovský" src="auto">AAMS2----1A----</AM>
-<AM lemma="mengeleovský" src="auto">AAMS4----1A----</AM>
-<AM lemma="mengeleovský_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="mengeleovský_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="mengeleovský_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="mengeleovský_^(*3it)" src="auto">AAIS2----1A----</AM>
-</tag>
+<tag lemma="mengeleovský" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln95049-058-p4s5w5">
 <src.rf>manual</src.rf>

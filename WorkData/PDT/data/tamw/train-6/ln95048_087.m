@@ -905,18 +905,7 @@
 <LM>w#w-ln95048-087-p2s6w1</LM>
 </w.rf>
 <form>Serenius</form>
-<tag>
-<AM lemma="Serenius_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Serenius_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Serenius" src="auto">NNMS1-----A----</AM>
-<AM lemma="Serenius_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Serenius_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Serenius_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Serenius_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Serenius_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Serenius_;L_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="serenius" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Serenius_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-087-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1096,18 +1085,7 @@
 <LM>w#w-ln95048-087-p2s8w6</LM>
 </w.rf>
 <form>Dragalin</form>
-<tag>
-<AM lemma="Dragalin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dragalin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dragalina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Dragalin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dragalin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dragalin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dragalín" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dragaliny" src="auto">NNFP2-----A----</AM>
-<AM lemma="Dragalino" src="auto">NNNP2-----A----</AM>
-<AM lemma="dragalin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dragalin_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-087-p2s8w7">
 <src.rf>manual</src.rf>

@@ -2469,17 +2469,7 @@
 <LM>w#w-ln94202-80-p5s1w9</LM>
 </w.rf>
 <form>Choltitzovi</form>
-<tag>
-<AM lemma="Choltitz_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Choltitz_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Choltitz" src="auto">NNMS3-----A----</AM>
-<AM lemma="Choltitz_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Choltitza_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Choltitz_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Choltitz" src="auto">NNMS6-----A----</AM>
-<AM lemma="Choltitzův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="choltitzovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Choltitz_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94202-80-p5s1w10">
 <src.rf>manual</src.rf>
@@ -2927,18 +2917,7 @@
 <LM>w#w-ln94202-80-p5s5w2</LM>
 </w.rf>
 <form>Choltitz</form>
-<tag>
-<AM lemma="Choltitz_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Choltitz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Choltitz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Choltitz_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Choltitz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Choltitz_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Choltitz_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Choltitz_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Choltitz-1_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="choltitz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Choltitz_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-80-p5s5w3">
 <src.rf>manual</src.rf>
@@ -3562,17 +3541,7 @@
 <LM>w#w-ln94202-80-p6s1w22</LM>
 </w.rf>
 <form>Nordlinga</form>
-<tag>
-<AM lemma="Nordling_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Nordling_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Nordling_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Nordling_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Nordlingo_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Nordlinga_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nordlingo_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Nordlingo" src="auto">NNNS2-----A----</AM>
-<AM lemma="nordlinga" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nordling_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-80-p6s1w23">
 <src.rf>manual</src.rf>
@@ -4289,18 +4258,7 @@
 <LM>w#w-ln94202-80-p6s6w8</LM>
 </w.rf>
 <form>Choltitz</form>
-<tag>
-<AM lemma="Choltitz_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Choltitz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Choltitz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Choltitz_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Choltitz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Choltitz_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Choltitz_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Choltitz_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Choltitz-1_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="choltitz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Choltitz_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-80-p6s6w9">
 <src.rf>manual</src.rf>
@@ -4596,17 +4554,7 @@
 <LM>w#w-ln94202-80-p7s2w22</LM>
 </w.rf>
 <form>Te</form>
-<tag>
-<AM lemma="te_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Te_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Te" src="auto">NNFS2-----A----</AM>
-<AM lemma="Te" src="auto">NNFS1-----A----</AM>
-<AM lemma="Te" src="auto">NNFP1-----A----</AM>
-<AM lemma="Te" src="auto">NNFP4-----A----</AM>
-<AM lemma="T_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="te_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="it_:W" src="auto">Vi-P---2--A----</AM>
-</tag>
+<tag lemma="te_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-80-p7s2w23">
 <src.rf>manual</src.rf>
@@ -4614,21 +4562,7 @@
 <LM>w#w-ln94202-80-p7s2w23</LM>
 </w.rf>
 <form>Deum</form>
-<tag>
-<AM lemma="Deum_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Deum" src="auto">NNNS1-----A----</AM>
-<AM lemma="Deum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Deum_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Deum_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Deum_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Deum_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Deus_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="deum" src="auto">NNIS1-----A----</AM>
-<AM lemma="deum" src="auto">NNIS4-----A----</AM>
-<AM lemma="deum" src="auto">NNMS1-----A----</AM>
-<AM lemma="deumělec_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="deumělkyně_:B" src="auto">NNFXX-----A---8</AM>
-</tag>
+<tag lemma="Deum_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94202-80-p7s2w24">
 <src.rf>manual</src.rf>

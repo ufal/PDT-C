@@ -37,15 +37,7 @@
 <LM>w#w-ln94206-101-p2s1w2</LM>
 </w.rf>
 <form>Dreams</form>
-<tag>
-<AM lemma="Dreams_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Dreams_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dream_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Dreams_;m_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Dreams-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dreas" src="auto">PZZS7----------</AM>
-<AM lemma="dreams" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dreams_;m_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94206-101-p2s1w3">
 <src.rf>manual</src.rf>
@@ -138,17 +130,7 @@
 <LM>w#w-ln94206-101-p2s2w2</LM>
 </w.rf>
 <form>age</form>
-<tag>
-<AM lemma="age_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="age_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ag_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="age_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="age_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="age_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="age_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="age_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="age_,t" src="auto">NNIXX-----A----</AM>
-</tag>
+<tag lemma="age_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94206-101-p2s2w3">
 <src.rf>manual</src.rf>

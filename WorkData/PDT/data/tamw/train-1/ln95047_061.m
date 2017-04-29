@@ -189,18 +189,7 @@
 <LM>w#w-ln95047-061-p2s1w16</LM>
 </w.rf>
 <form>Jugend</form>
-<tag>
-<AM lemma="Jugend_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Jugend_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jugenda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Jugend" src="auto">NNIS4-----A----</AM>
-<AM lemma="Jugend" src="auto">NNIS1-----A----</AM>
-<AM lemma="end_,t_^(anglicky_konec,_happy_Jugend)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jugend_;R_^(vozidlo)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Jugend_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Jugend_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="jugend" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jugend_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95047-061-p2s1w17">
 <src.rf>manual</src.rf>
@@ -4134,18 +4123,7 @@
 <LM>w#w-ln95047-061-p4s3w12</LM>
 </w.rf>
 <form>Matfiak</form>
-<tag>
-<AM lemma="Matfiak_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Matfiak_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Matfiakum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Matfiak" src="auto">NNMS1-----A----</AM>
-<AM lemma="Matfiak" src="auto">NNIS1-----A----</AM>
-<AM lemma="Matfiak" src="auto">NNIS4-----A----</AM>
-<AM lemma="Matfiak" src="auto">Db-------------</AM>
-<AM lemma="Matfiak_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Matfiak_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="matfiak" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Matfiak_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-061-p4s3w13">
 <src.rf>manual</src.rf>
@@ -10182,17 +10160,7 @@
 <LM>w#w-ln95047-061-p7s6w5</LM>
 </w.rf>
 <form>Strathman</form>
-<tag>
-<AM lemma="Strathman_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Strathman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Strathman" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strathman_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strathman-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strathman_;m" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strathman_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strathman_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="strathman" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Strathman_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-061-p7s6w6">
 <src.rf>manual</src.rf>
@@ -11270,17 +11238,7 @@
 <LM>w#w-ln95047-061-p9s1w24</LM>
 </w.rf>
 <form>Strathman</form>
-<tag>
-<AM lemma="Strathman_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Strathman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Strathman" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strathman_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strathman-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strathman_;m" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strathman_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strathman_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="strathman" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Strathman_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-061-p9s1w25">
 <src.rf>manual</src.rf>
@@ -11941,17 +11899,7 @@
 <LM>w#w-ln95047-061-p9s6w19</LM>
 </w.rf>
 <form>Strathman</form>
-<tag>
-<AM lemma="Strathman_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Strathman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Strathman" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strathman_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strathman-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strathman_;m" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strathman_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strathman_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="strathman" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Strathman_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-061-p9s6w20">
 <src.rf>manual</src.rf>

@@ -629,18 +629,7 @@
 <LM>w#w-ln95045-024-p3s2w16</LM>
 </w.rf>
 <form>Anfernee</form>
-<tag>
-<AM lemma="Anfernee_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Anfernea_;K" src="auto">NNFS6-----A---1</AM>
-<AM lemma="Anfernee_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Anfernee_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Anfernee_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Anfernee_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Anfernee_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Anfernee_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="bungee_,t_^(Anfernee_jumping)" src="auto">AAXXX----1A----</AM>
-<AM lemma="anfernee" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Anfernee_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-024-p3s2w17">
 <src.rf>manual</src.rf>
@@ -648,18 +637,7 @@
 <LM>w#w-ln95045-024-p3s2w17</LM>
 </w.rf>
 <form>Hardaway</form>
-<tag>
-<AM lemma="Hardaway_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hardaway_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hardaway_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Hardaway_;K" src="auto">NNFSX-----A----</AM>
-<AM lemma="Hardaway_,t" src="auto">NNFS4-----A----</AM>
-<AM lemma="Hardaway_,t" src="auto">Db-------------</AM>
-<AM lemma="Hardaway_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hardaway_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Hardaway_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="hardaway" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hardaway_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-024-p3s2w18">
 <src.rf>manual</src.rf>

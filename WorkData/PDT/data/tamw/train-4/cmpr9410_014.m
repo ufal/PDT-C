@@ -125,24 +125,7 @@
 <LM>w#w-cmpr9410-014-p3s1w11</LM>
 </w.rf>
 <form>EJA</form>
-<tag>
-<AM lemma="EJA_:B_;K_,t_^(Europäische_Journalismus_Akademie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EJA_:B_;K_,t_^(Europäische_Journalismus_Akademie)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="EJA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EJA_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EJA_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EJA_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="EJA_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EJA_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Eja_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eja_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eja_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eja_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Eja_;R" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eja_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="eja" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="EJA_:B_;K_,t_^(Europäische_Journalismus_Akademie)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9410-014-p3s1w12">
 <src.rf>manual</src.rf>
@@ -602,17 +585,7 @@
 <LM>w#w-cmpr9410-014-p4s1w3</LM>
 </w.rf>
 <form>Europäische</form>
-<tag>
-<AM lemma="Europäische_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Europäisch_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Europäische_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Europäische_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Europäische_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Europäisch_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Manche_;G_^(La_Europäische)" src="auto">NNISX-----A----</AM>
-<AM lemma="Europäisch_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="europäische" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Europäische_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w4">
 <src.rf>manual</src.rf>
@@ -620,17 +593,7 @@
 <LM>w#w-cmpr9410-014-p4s1w4</LM>
 </w.rf>
 <form>Journalismus</form>
-<tag>
-<AM lemma="Journalismus_;K_,t" src="orig">NNISX-----A----</AM>
-<AM lemma="Journalismus" src="auto">NNIS1-----A----</AM>
-<AM lemma="Journalismus" src="auto">NNIS4-----A----</AM>
-<AM lemma="Journalizmus" src="auto" recommended="1">NNIS1-----A---1</AM>
-<AM lemma="Journalizmus" src="auto">NNIS1-----A----</AM>
-<AM lemma="Journalizmus" src="auto">NNIS4-----A----</AM>
-<AM lemma="Journalizmus_,x" src="auto">NNIS1-----A----</AM>
-<AM lemma="Journalizmus" src="auto">NNIS4-----A---1</AM>
-<AM lemma="journalismus" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Journalismus_;K_,t" src="orig" selected="1">NNISX-----A----</tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w5">
 <src.rf>manual</src.rf>
@@ -674,18 +637,7 @@
 <LM>w#w-cmpr9410-014-p4s1w9</LM>
 </w.rf>
 <form>Roswitha</form>
-<tag>
-<AM lemma="Roswitha_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Roswith_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Roswith_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Roswitha_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Roswith_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Roswith" src="auto">NNMS2-----A----</AM>
-<AM lemma="Roswitha_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Roswitha_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Roswitha_;G_,t" src="auto">RR--X----------</AM>
-<AM lemma="roswitha" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Roswitha_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w10">
 <src.rf>manual</src.rf>
@@ -733,18 +685,7 @@
 <LM>w#w-cmpr9410-014-p4s1w15</LM>
 </w.rf>
 <form>Dorrek</form>
-<tag>
-<AM lemma="Dorrek_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dorrek_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dorrka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Dorrka_^(*2)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Dorrek" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dorrek" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dorrek" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dorrek_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dorrky" src="auto">NNFP2-----A----</AM>
-<AM lemma="dorrek" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dorrek_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w16">
 <src.rf>manual</src.rf>

@@ -29,18 +29,7 @@
 <LM>w#w-ln94203-91-p2s1w1</LM>
 </w.rf>
 <form>Stabat</form>
-<tag>
-<AM lemma="Stabat_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Stabat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Stabat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Stabě" src="auto">NNMP2-----A----</AM>
-<AM lemma="Stabata" src="auto">NNFP2-----A----</AM>
-<AM lemma="Stabat_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Stabat_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stabat" src="auto">NNIS4-----A----</AM>
-<AM lemma="Stabat" src="auto">NNIS1-----A----</AM>
-<AM lemma="stabat" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stabat_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94203-91-p2s1w2">
 <src.rf>manual</src.rf>

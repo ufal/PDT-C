@@ -341,17 +341,7 @@
 <LM>w#w-ln94208-113-p3s2w7</LM>
 </w.rf>
 <form>Viitala</form>
-<tag>
-<AM lemma="Viitala_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Viital_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Viitat" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Viitat_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Viitat_:T_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Viitat_:T_^(*4at)" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Viitat_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="viitala" src="auto">NNFS1-----A----</AM>
-<AM lemma="viitala" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Viitala_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-113-p3s2w8">
 <src.rf>manual</src.rf>
@@ -367,18 +357,7 @@
 <LM>w#w-ln94208-113-p3s2w9</LM>
 </w.rf>
 <form>Parantainen</form>
-<tag>
-<AM lemma="Parantainen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Parantainen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="vinný-1_^(kdo_je_Parantainen/vinna)" src="auto">ACYS------A----</AM>
-<AM lemma="Parantaine_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Parantainný" src="auto">ACYS------A----</AM>
-<AM lemma="Parantainna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Parantain_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Parantainen" src="auto">PDYS1----------</AM>
-<AM lemma="Parantainen" src="auto">PDIS4----------</AM>
-<AM lemma="parantainen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Parantainen_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-113-p3s2w10">
 <src.rf>manual</src.rf>
@@ -394,18 +373,7 @@
 <LM>w#w-ln94208-113-p3s2w11</LM>
 </w.rf>
 <form>Vepsalainen</form>
-<tag>
-<AM lemma="Vepsalainen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vepsalainen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="vinný-1_^(kdo_je_Vepsalainen/vinna)" src="auto">ACYS------A----</AM>
-<AM lemma="Vepsalaine_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Vepsalainný" src="auto">ACYS------A----</AM>
-<AM lemma="Vepsalainna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vepsalain_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Vepsalainen" src="auto">PDYS1----------</AM>
-<AM lemma="Vepsalainen" src="auto">PDIS4----------</AM>
-<AM lemma="vepsalainen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vepsalainen_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-113-p3s2w12">
 <src.rf>manual</src.rf>

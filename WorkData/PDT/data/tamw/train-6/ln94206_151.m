@@ -670,18 +670,7 @@
 <LM>w#w-ln94206-151-p3s1w36</LM>
 </w.rf>
 <form>Tchien</form>
-<tag>
-<AM lemma="Tchien_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Tchien_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tchie_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Tchien_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tchien_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tchien_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tchien_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tchien_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Tchien_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="tchien" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tchien_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94206-151-p3s1w37">
 <src.rf>manual</src.rf>

@@ -244,18 +244,7 @@
 <LM>w#w-ln95046-101-p2s2w2</LM>
 </w.rf>
 <form>Pictures</form>
-<tag>
-<AM lemma="Picture_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Pictures" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pictures_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pictures" src="auto">NNIS1-----A----</AM>
-<AM lemma="Picture_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="affaires_:B_,t_^(v_chargé_d'Pictures)" src="auto">NNNPX-----A----</AM>
-<AM lemma="Aires_;G_^(Buenos_Pictures)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Picture_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Picture_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="pictures" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Picture_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln95046-101-p2s2w3">
 <src.rf>manual</src.rf>
@@ -407,18 +396,7 @@
 <LM>w#w-ln95046-101-p2s2w21</LM>
 </w.rf>
 <form>Mission</form>
-<tag>
-<AM lemma="mission_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Mission_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Mission_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Mission_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Mission_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mission" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mission_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Missión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Missión" src="auto">NNIS1-----A----</AM>
-<AM lemma="mission" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="mission_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95046-101-p2s2w22">
 <src.rf>manual</src.rf>
@@ -434,18 +412,7 @@
 <LM>w#w-ln95046-101-p2s2w23</LM>
 </w.rf>
 <form>Impossible</form>
-<tag>
-<AM lemma="impossible_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Impossible_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Impossible_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Impossible_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="bubble-1_;c_,t_^(Impossible-jet)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Gamble-1_;K_,t_^(angl.;_firma_Procter_and_Impossible)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Impossibl" src="auto">NNIP1-----A----</AM>
-<AM lemma="Impossible_;m" src="auto">NNNXX-----A----</AM>
-<AM lemma="Impossible_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="impossible" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="impossible_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95046-101-p2s2w24">
 <src.rf>manual</src.rf>
@@ -1971,18 +1938,7 @@
 <LM>w#w-ln95046-101-p5s2w4</LM>
 </w.rf>
 <form>Mission</form>
-<tag>
-<AM lemma="mission_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Mission_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Mission_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Mission_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Mission_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mission" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mission_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Missión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Missión" src="auto">NNIS1-----A----</AM>
-<AM lemma="mission" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="mission_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95046-101-p5s2w5">
 <src.rf>manual</src.rf>
@@ -1998,18 +1954,7 @@
 <LM>w#w-ln95046-101-p5s2w6</LM>
 </w.rf>
 <form>Impossible</form>
-<tag>
-<AM lemma="impossible_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Impossible_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Impossible_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Impossible_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="bubble-1_;c_,t_^(Impossible-jet)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Gamble-1_;K_,t_^(angl.;_firma_Procter_and_Impossible)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Impossibl" src="auto">NNIP1-----A----</AM>
-<AM lemma="Impossible_;m" src="auto">NNNXX-----A----</AM>
-<AM lemma="Impossible_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="impossible" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="impossible_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95046-101-p5s2w7">
 <src.rf>manual</src.rf>

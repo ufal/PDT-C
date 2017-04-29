@@ -991,13 +991,7 @@
 <LM>w#w-mf930713-152-p4s1w13</LM>
 </w.rf>
 <form>Šás</form>
-<tag>
-<AM lemma="Šás_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Šás_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Šýs" src="auto">PZFS1----------</AM>
-<AM lemma="šýs" src="auto">PZFS1----------</AM>
-<AM lemma="šás_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Šás_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-152-p4s1w14">
 <src.rf>manual</src.rf>

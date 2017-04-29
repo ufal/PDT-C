@@ -656,17 +656,7 @@
 <LM>w#w-ln94202-88-p3s2w2</LM>
 </w.rf>
 <form>Te</form>
-<tag>
-<AM lemma="Te_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Te_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Te" src="auto">NNFS2-----A----</AM>
-<AM lemma="Te" src="auto">NNFS1-----A----</AM>
-<AM lemma="Te" src="auto">NNFP1-----A----</AM>
-<AM lemma="Te" src="auto">NNFP4-----A----</AM>
-<AM lemma="T_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="te_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="it_:W" src="auto">Vi-P---2--A----</AM>
-</tag>
+<tag lemma="Te_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-88-p3s2w3">
 <src.rf>manual</src.rf>
@@ -674,21 +664,7 @@
 <LM>w#w-ln94202-88-p3s2w3</LM>
 </w.rf>
 <form>Deum</form>
-<tag>
-<AM lemma="Deum_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Deum" src="auto">NNNS1-----A----</AM>
-<AM lemma="Deum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Deum_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Deum_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Deum_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Deum_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Deus_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="deum" src="auto">NNIS1-----A----</AM>
-<AM lemma="deum" src="auto">NNIS4-----A----</AM>
-<AM lemma="deum" src="auto">NNMS1-----A----</AM>
-<AM lemma="deumělec_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="deumělkyně_:B" src="auto">NNFXX-----A---8</AM>
-</tag>
+<tag lemma="Deum_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94202-88-p3s2w4">
 <src.rf>manual</src.rf>
@@ -890,18 +866,7 @@
 <LM>w#w-ln94202-88-p3s3w14</LM>
 </w.rf>
 <form>Stabat</form>
-<tag>
-<AM lemma="Stabat_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Stabat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Stabat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Stabě" src="auto">NNMP2-----A----</AM>
-<AM lemma="Stabata" src="auto">NNFP2-----A----</AM>
-<AM lemma="Stabat_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Stabat_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stabat" src="auto">NNIS4-----A----</AM>
-<AM lemma="Stabat" src="auto">NNIS1-----A----</AM>
-<AM lemma="stabat" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stabat_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-88-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1118,17 +1083,7 @@
 <LM>w#w-ln94202-88-p3s5w2</LM>
 </w.rf>
 <form>Te</form>
-<tag>
-<AM lemma="Te_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Te_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Te" src="auto">NNFS2-----A----</AM>
-<AM lemma="Te" src="auto">NNFS1-----A----</AM>
-<AM lemma="Te" src="auto">NNFP1-----A----</AM>
-<AM lemma="Te" src="auto">NNFP4-----A----</AM>
-<AM lemma="T_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="te_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="it_:W" src="auto">Vi-P---2--A----</AM>
-</tag>
+<tag lemma="Te_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-88-p3s5w3">
 <src.rf>manual</src.rf>
@@ -1136,21 +1091,7 @@
 <LM>w#w-ln94202-88-p3s5w3</LM>
 </w.rf>
 <form>Deum</form>
-<tag>
-<AM lemma="Deum_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Deum" src="auto">NNNS1-----A----</AM>
-<AM lemma="Deum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Deum_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Deum_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Deum_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Deum_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Deus_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="deum" src="auto">NNIS1-----A----</AM>
-<AM lemma="deum" src="auto">NNIS4-----A----</AM>
-<AM lemma="deum" src="auto">NNMS1-----A----</AM>
-<AM lemma="deumělec_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="deumělkyně_:B" src="auto">NNFXX-----A---8</AM>
-</tag>
+<tag lemma="Deum_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94202-88-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1472,18 +1413,7 @@
 <LM>w#w-ln94202-88-p4s2w6</LM>
 </w.rf>
 <form>Cantitans</form>
-<tag>
-<AM lemma="Cantitans_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Cantitans_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cantitan_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Cantitans_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cantitan_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Cantitan_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Cantitansactions_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Cantitans_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cantitans_;Y" src="auto">NNMPX-----A----</AM>
-<AM lemma="cantitans" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cantitans_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
 </m>
 <m id="m-ln94202-88-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1515,18 +1445,7 @@
 <LM>w#w-ln94202-88-p4s2w10</LM>
 </w.rf>
 <form>Rudolphina</form>
-<tag>
-<AM lemma="Rudolphina" src="orig">AAXXX----1A----</AM>
-<AM lemma="Rudolphina" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Rudolphin_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rudolphina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rudolphin_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rudolphina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rudolphina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rudolphin_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rudolphina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="rudolphina" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rudolphina" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-88-p4s2w11">
 <src.rf>manual</src.rf>

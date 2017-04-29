@@ -67,17 +67,7 @@
 <LM>w#w-lnd94103-110-p1s1Aw7</LM>
 </w.rf>
 <form>williamsu</form>
-<tag>
-<AM lemma="Williams-2_;R_,t_^(vozidlo)" src="orig">NNIS2-----A----</AM>
-<AM lemma="Williams-2_;R_,t_^(vozidlo)" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="williams_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="williams-2_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="williams" src="auto">NNIS2-----A----</AM>
-<AM lemma="williams" src="auto">NNIS6-----A---1</AM>
-<AM lemma="williams" src="auto">NNIS3-----A----</AM>
-<AM lemma="williams" src="auto">NNIS6-----A----</AM>
-<AM lemma="williamsa" src="auto">NNFS4-----A----</AM>
-</tag>
+<tag lemma="Williams-2_;R_,t_^(vozidlo)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-110-p1s1B">

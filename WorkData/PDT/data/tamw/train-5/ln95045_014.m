@@ -35,17 +35,7 @@
 <LM>w#w-ln95045-014-p1s1w3</LM>
 </w.rf>
 <form>Zehla</form>
-<tag>
-<AM lemma="Zehl_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Zeci" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Zehl_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Zehl_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Zehnout" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Zehnout_:W" src="auto">VpQW---XR-AA--1</AM>
-<AM lemma="zehla" src="auto">NNMS1-----A----</AM>
-<AM lemma="zehnout" src="auto">VpQW---XR-AA--7</AM>
-<AM lemma="zehnout_,h_,x" src="auto">VpQW---XR-AA---</AM>
-</tag>
+<tag lemma="Zehl_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-014-p1s1w4">
 <src.rf>manual</src.rf>

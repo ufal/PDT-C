@@ -1121,18 +1121,7 @@
 <LM>w#w-ln94202-95-p3s2w28</LM>
 </w.rf>
 <form>Kingstona</form>
-<tag>
-<AM lemma="Kingston-2_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Kingston_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kingston_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kingstona" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kingston_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Kingston" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kingstona_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kingstona_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kingstona_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="kingstona" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kingston-2_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-95-p3s2w29">
 <src.rf>manual</src.rf>
@@ -3433,18 +3422,7 @@
 <LM>w#w-ln94202-95-p4s15w3</LM>
 </w.rf>
 <form>Kaukonen</form>
-<tag>
-<AM lemma="Kaukonen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kaukonen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="vinný-1_^(kdo_je_Kaukonen/vinna)" src="auto">ACYS------A----</AM>
-<AM lemma="Kaukone_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Kaukonný" src="auto">ACYS------A----</AM>
-<AM lemma="Kaukonna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kaukon_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Kaukonen" src="auto">PDYS1----------</AM>
-<AM lemma="Kaukonen" src="auto">PDIS4----------</AM>
-<AM lemma="kaukonen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kaukonen_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-95-p4s15w4">
 <src.rf>manual</src.rf>
@@ -4366,18 +4344,7 @@
 <LM>w#w-ln94202-95-p5s4w11</LM>
 </w.rf>
 <form>Pykovi</form>
-<tag>
-<AM lemma="Pyk_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Pyk_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Pyk" src="auto">NNMS3-----A----</AM>
-<AM lemma="Pyk_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Pyka_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Pyk_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Pyk" src="auto">NNMS6-----A----</AM>
-<AM lemma="Pykův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="Pyek_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="pykovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pyk_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94202-95-p5s4w12">
 <src.rf>manual</src.rf>

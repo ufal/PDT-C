@@ -61,15 +61,7 @@
 <LM>w#w-ln94205-50-p2s1Aw1</LM>
 </w.rf>
 <form>Idit</form>
-<tag>
-<AM lemma="Idit_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Idit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Idit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="idit" src="auto">NNMS1-----A----</AM>
-<AM lemma="idit-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="idit-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="iditelefonní_:B_,x" src="auto" recommended="1">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Idit_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-50-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -281,20 +273,7 @@
 <LM>w#w-ln94205-50-p2s1Cw15</LM>
 </w.rf>
 <form>European</form>
-<tag>
-<AM lemma="European_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="European_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="European_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="European_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="European_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="European_;R_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="european" src="auto">NNIS1-----A----</AM>
-<AM lemma="european" src="auto">NNIS4-----A----</AM>
-<AM lemma="european" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="European_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-50-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -314,19 +293,7 @@
 <LM>w#w-ln94205-50-p2s1Cw17</LM>
 </w.rf>
 <form>research</form>
-<tag>
-<AM lemma="research-2_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Research-1_;K_,t_^(souč._názvů,_např._IBM_research)" src="auto" recommended="1">NNISX-----A----</AM>
-<AM lemma="research" src="auto">NNIS1-----A----</AM>
-<AM lemma="research" src="auto">NNIS4-----A----</AM>
-<AM lemma="research_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="research_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="research_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="researcha" src="auto">NNFP2-----A----</AM>
-<AM lemma="researchitekt_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="researchitektka_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="researchives_:B_;R_,t" src="auto">NNIPX-----A---8</AM>
-</tag>
+<tag lemma="research-2_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-50-p2s1Cw18">
 <src.rf>manual</src.rf>
@@ -435,18 +402,7 @@
 <LM>w#w-ln94205-50-p2s2w2</LM>
 </w.rf>
 <form>Quality</form>
-<tag>
-<AM lemma="Quality_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Qualita" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Qualita" src="auto">NNFP4-----A----</AM>
-<AM lemma="Qualita" src="auto">NNFP1-----A----</AM>
-<AM lemma="Qualit" src="auto">NNIP4-----A----</AM>
-<AM lemma="Qualit" src="auto">NNIP1-----A----</AM>
-<AM lemma="Qualit" src="auto">NNIP7-----A----</AM>
-<AM lemma="Qualít" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="Qualita_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="quality" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Quality_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-50-p2s2w3">
 <src.rf>manual</src.rf>
@@ -466,17 +422,7 @@
 <LM>w#w-ln94205-50-p2s2w4</LM>
 </w.rf>
 <form>award</form>
-<tag>
-<AM lemma="award_;m_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="award_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="award_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="award" src="auto">NNIS1-----A----</AM>
-<AM lemma="award_;m_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="award_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="award" src="auto">NNMS1-----A----</AM>
-<AM lemma="award" src="auto">NNIS4-----A----</AM>
-<AM lemma="awarda`1000000000" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="award_;m_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94205-50-p2s2w5">
 <src.rf>manual</src.rf>
@@ -750,26 +696,7 @@
 <LM>w#w-ln94205-50-p3s3w15</LM>
 </w.rf>
 <form>EMRC</form>
-<tag>
-<AM lemma="EMRC_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="EMRC-4_:B_;m_,t_^(Responsible_Care)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EMRC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EMRC_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EMRC_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Emrc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Emrciální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Emrc_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Emrc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Emrc_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Emrc_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Emrc_,l" src="auto">NNIS1-----A----</AM>
-<AM lemma="Emrc" src="auto">NNMS1-----A----</AM>
-<AM lemma="emrc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="EMRC_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94205-50-p3s3w16">
 <src.rf>manual</src.rf>
@@ -801,15 +728,7 @@
 <LM>w#w-ln94205-50-p3s3w19</LM>
 </w.rf>
 <form>Idit</form>
-<tag>
-<AM lemma="Idit_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Idit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Idit_:W" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="idit" src="auto">NNMS1-----A----</AM>
-<AM lemma="idit-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="idit-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="iditelefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Idit_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-50-p3s3w20">
 <src.rf>manual</src.rf>

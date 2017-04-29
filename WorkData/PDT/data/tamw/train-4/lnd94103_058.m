@@ -113,17 +113,7 @@
 <LM>w#w-lnd94103-058-p1s1Bw8</LM>
 </w.rf>
 <form>Abonyi</form>
-<tag>
-<AM lemma="Abonyi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Abonyi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Abonyi_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Abonyo" src="auto">NNNP7-----A----</AM>
-<AM lemma="Abonye_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Abonye_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Abonye_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Abonyi_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="abonyi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Abonyi_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-058-p1s1C">
@@ -287,18 +277,7 @@
 <LM>w#w-lnd94103-058-p1s2w7</LM>
 </w.rf>
 <form>Tuanku</form>
-<tag>
-<AM lemma="Tuanku_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tuanka" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tuanek" src="auto">NNIS6-----A----</AM>
-<AM lemma="Tuank" src="auto">NNIS2-----A----</AM>
-<AM lemma="Tuanek" src="auto">NNIS2-----A----</AM>
-<AM lemma="Tuank" src="auto">NNIS6-----A----</AM>
-<AM lemma="Tuanek" src="auto">NNIS3-----A----</AM>
-<AM lemma="Tuanka_^(*2)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tuanka_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="tuanku" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tuanku_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-058-p1s2w8">
 <src.rf>manual</src.rf>
@@ -338,18 +317,7 @@
 <LM>w#w-lnd94103-058-p1s2w12</LM>
 </w.rf>
 <form>Marhum</form>
-<tag>
-<AM lemma="Marhum_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Marhum_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Marhum_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Marhum_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Marhum" src="auto">NNNS1-----A----</AM>
-<AM lemma="Marhum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Marhum" src="auto">NNIS4-----A----</AM>
-<AM lemma="Marhum" src="auto">NNIS1-----A----</AM>
-<AM lemma="Marhum_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="marhum" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Marhum_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-058-p1s2w13">
 <src.rf>manual</src.rf>
@@ -357,18 +325,7 @@
 <LM>w#w-lnd94103-058-p1s2w13</LM>
 </w.rf>
 <form>Tuanku</form>
-<tag>
-<AM lemma="Tuanku_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tuanka" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tuanek" src="auto">NNIS6-----A----</AM>
-<AM lemma="Tuank" src="auto">NNIS2-----A----</AM>
-<AM lemma="Tuanek" src="auto">NNIS2-----A----</AM>
-<AM lemma="Tuank" src="auto">NNIS6-----A----</AM>
-<AM lemma="Tuanek" src="auto">NNIS3-----A----</AM>
-<AM lemma="Tuanka_^(*2)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tuanka_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="tuanku" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tuanku_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-058-p1s2w14">
 <src.rf>manual</src.rf>
@@ -554,18 +511,7 @@
 <LM>w#w-lnd94103-058-p1s4w3</LM>
 </w.rf>
 <form>Pertuan</form>
-<tag>
-<AM lemma="Pertuan_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pertuan_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pertuan_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pertuan" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pertuan_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pertuany_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Pertuan" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pertuan_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pertuan-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pertuan" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pertuan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-058-p1s4w4">
 <src.rf>manual</src.rf>
@@ -573,17 +519,7 @@
 <LM>w#w-lnd94103-058-p1s4w4</LM>
 </w.rf>
 <form>Agong</form>
-<tag>
-<AM lemma="Agong_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Agong_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Agong_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Agong_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Agong-2_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Agong" src="auto">NNIS1-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-Agong)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Long-1_;G_,t_^(Agong_Island_apod.)" src="auto">AAXXX----1A----</AM>
-<AM lemma="agong" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Agong_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-058-p1s4w5">
 <src.rf>manual</src.rf>
@@ -599,18 +535,7 @@
 <LM>w#w-lnd94103-058-p1s4w6</LM>
 </w.rf>
 <form>Azlan</form>
-<tag>
-<AM lemma="Azlan_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Azlan_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Azlan_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Azlan_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Azlan_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Klan_;K_,t_^(Ku-Klux-Azlan)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Azlany_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Azlan_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Azlan-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="azlan" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Azlan_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-058-p1s4w7">
 <src.rf>manual</src.rf>

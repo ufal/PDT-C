@@ -3696,16 +3696,7 @@
 <LM>w#w-ln95048-038-p4s6w34</LM>
 </w.rf>
 <form>protipojmů</form>
-<tag>
-<AM lemma="protipojem" src="orig">NNIP2-----A----</AM>
-<AM lemma="protipojem" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="protipojem_^(termín,_označení,...)" src="auto">NNIP2-----A----</AM>
-<AM lemma="protipojm" src="auto">NNIP2-----A----</AM>
-<AM lemma="protipojm" src="auto">NNMP2-----A----</AM>
-<AM lemma="protipojm_;R_,t" src="auto">NNIP2-----A----</AM>
-<AM lemma="protipojme_,t_^(hra)" src="auto">NNIP2-----A----</AM>
-<AM lemma="protipojmus" src="auto">NNIP2-----A----</AM>
-</tag>
+<tag lemma="protipojem" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95048-038-p4s6w35">
 <src.rf>manual</src.rf>

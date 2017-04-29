@@ -208,16 +208,7 @@
 <LM>w#w-ln95049-069-p2s1w17</LM>
 </w.rf>
 <form>Anibala</form>
-<tag>
-<AM lemma="Anibal_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Anibat_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Anibat_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Anibat_:T_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Anibat" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Anibal_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Anibat_:T_^(*4at)" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="anibala" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Anibal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-069-p2s1w18">
 <src.rf>manual</src.rf>
@@ -225,17 +216,7 @@
 <LM>w#w-ln95049-069-p2s1w18</LM>
 </w.rf>
 <form>Cavaka</form>
-<tag>
-<AM lemma="Cavak_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Cavak_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Cavak_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Cavak" src="auto">NNMS4-----A----</AM>
-<AM lemma="Cavaka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cavaka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cavaco_;Y" src="auto">NNMS2-----A---1</AM>
-<AM lemma="Cavakum" src="auto">NNNP4-----A----</AM>
-<AM lemma="cavaka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cavak_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-069-p2s1w19">
 <src.rf>manual</src.rf>

@@ -631,10 +631,6 @@
 <AM lemma="Jawa_;K_;R" src="auto">NNFP4-----A----</AM>
 <AM lemma="Jawa_;K_;R" src="auto">NNFP5-----A----</AM>
 <AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto">NNFP1-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto">NNFP4-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto">NNFP5-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-124-p2s3w25">
@@ -707,17 +703,7 @@
 <LM>w#w-ln94210-124-p2s3w33</LM>
 </w.rf>
 <form>Graig</form>
-<tag>
-<AM lemma="Graig_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Graig_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Graig_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Graig_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Graig_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Big-1_;K_,t_^(souč._názvů,_např._Graig_Ben)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Graiginální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Graig_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="graig" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Graig_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-124-p2s3w34">
 <src.rf>manual</src.rf>

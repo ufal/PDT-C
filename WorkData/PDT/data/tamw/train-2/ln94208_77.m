@@ -1902,18 +1902,7 @@
 <LM>w#w-ln94208-77-p4s3w12</LM>
 </w.rf>
 <form>Kosarev</form>
-<tag>
-<AM lemma="Kosarev_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kosarva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kosarev_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kosarva-1" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kosarev" src="auto">NNFS4-----A----</AM>
-<AM lemma="Kosarev" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kosarvo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Kosarev" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kosarev" src="auto">NNIS1-----A----</AM>
-<AM lemma="kosarev" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kosarev_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-77-p4s3w13">
 <src.rf>manual</src.rf>

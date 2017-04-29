@@ -357,17 +357,7 @@
 <LM>w#w-ln94205-108-p2s1w39</LM>
 </w.rf>
 <form>konzenzu</form>
-<tag>
-<AM lemma="konzenzus_,t" src="orig">NNIS3-----A----</AM>
-<AM lemma="konzens" src="auto">NNIS3-----A----</AM>
-<AM lemma="konzens" src="auto">NNIS2-----A----</AM>
-<AM lemma="konzenza_;Y_^(^HN**Jan)" src="auto">NNMS4-----A----</AM>
-<AM lemma="konzenzus_,t" src="auto" recommended="1">NNIS3-----A----</AM>
-<AM lemma="konzenz" src="auto">NNIS2-----A----</AM>
-<AM lemma="konzenza" src="auto">NNFS4-----A----</AM>
-<AM lemma="konzenz" src="auto">NNIS3-----A----</AM>
-<AM lemma="konzenz" src="auto">NNIS6-----A---1</AM>
-</tag>
+<tag lemma="konzenzus_,t" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln94205-108-p2s1w40">
 <src.rf>manual</src.rf>
@@ -816,14 +806,7 @@
 <LM>w#w-ln94205-108-p3s2w3</LM>
 </w.rf>
 <form>gde</form>
-<tag>
-<AM lemma="gde_,t" src="orig">Db-------------</AM>
-<AM lemma="gde_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="gít" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="gde_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="gde" src="auto">Db-------------</AM>
-<AM lemma="gt" src="auto">VB-S---3P-AA---</AM>
-</tag>
+<tag lemma="gde_,t" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94205-108-p3s2w4">
 <src.rf>manual</src.rf>
@@ -839,17 +822,7 @@
 <LM>w#w-ln94205-108-p3s2w5</LM>
 </w.rf>
 <form>gdo</form>
-<tag>
-<AM lemma="gdo_,t" src="orig">PKM-1----------</AM>
-<AM lemma="gdo_,t" src="auto" recommended="1">PKM-1----------</AM>
-<AM lemma="gdo" src="auto">NNNS1-----A----</AM>
-<AM lemma="gdo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="gdo" src="auto">PZM-1----------</AM>
-<AM lemma="gdo" src="auto">NNNS4-----A----</AM>
-<AM lemma="gdo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="gdo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="gdo_;Y_,t" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="gdo_,t" src="orig" selected="1">PKM-1----------</tag>
 </m>
 <m id="m-ln94205-108-p3s2w6">
 <src.rf>manual</src.rf>
@@ -865,17 +838,7 @@
 <LM>w#w-ln94205-108-p3s2w7</LM>
 </w.rf>
 <form>gdyž</form>
-<tag>
-<AM lemma="gdyž_,t" src="orig">J,-------------</AM>
-<AM lemma="gdyž_,t" src="auto" recommended="1">J,-------------</AM>
-<AM lemma="gdyž" src="auto">J,-------------</AM>
-<AM lemma="gdyž" src="auto">NNFS4-----A----</AM>
-<AM lemma="gdyž" src="auto">NNFS1-----A----</AM>
-<AM lemma="gdyž" src="auto">Db-------------</AM>
-<AM lemma="gdyž_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="gdyž_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="gdyž-1" src="auto">Db-------------</AM>
-</tag>
+<tag lemma="gdyž_,t" src="orig" selected="1">J,-------------</tag>
 </m>
 <m id="m-ln94205-108-p3s2w8">
 <src.rf>manual</src.rf>

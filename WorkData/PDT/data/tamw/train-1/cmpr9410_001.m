@@ -2654,22 +2654,7 @@
 <LM>w#w-cmpr9410-001-p14s1w17</LM>
 </w.rf>
 <form>ÚNMS</form>
-<tag>
-<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MS-8_:B_;K_;c_,t_^(Microsoft,_např._ÚNMS-DOS)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚNms_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="ÚNMS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÚNMS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Únms_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Úns" src="auto">PZZS7----------</AM>
-<AM lemma="Únm_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Únm_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Únm_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="únms" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9410-001-p14s1w18">
 <src.rf>manual</src.rf>
@@ -3041,22 +3026,7 @@
 <LM>w#w-cmpr9410-001-p15s1w17</LM>
 </w.rf>
 <form>ÚNMS</form>
-<tag>
-<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MS-8_:B_;K_;c_,t_^(Microsoft,_např._ÚNMS-DOS)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚNms_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="ÚNMS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÚNMS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Únms_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Úns" src="auto">PZZS7----------</AM>
-<AM lemma="Únm_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Únm_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Únm_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="únms" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9410-001-p15s1w18">
 <src.rf>manual</src.rf>
@@ -3248,22 +3218,7 @@
 <LM>w#w-cmpr9410-001-p15s1w41</LM>
 </w.rf>
 <form>ÚNMS</form>
-<tag>
-<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MS-8_:B_;K_;c_,t_^(Microsoft,_např._ÚNMS-DOS)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚNms_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="ÚNMS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÚNMS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Únms_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Úns" src="auto">PZZS7----------</AM>
-<AM lemma="Únm_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Únm_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Únm_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="únms" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9410-001-p15s1w42">
 <src.rf>manual</src.rf>
@@ -3409,22 +3364,7 @@
 <LM>w#w-cmpr9410-001-p16s1w8</LM>
 </w.rf>
 <form>ÚNMS</form>
-<tag>
-<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MS-8_:B_;K_;c_,t_^(Microsoft,_např._ÚNMS-DOS)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚNms_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="ÚNMS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÚNMS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Únms_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Úns" src="auto">PZZS7----------</AM>
-<AM lemma="Únm_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Únm_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Únm_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="únms" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9410-001-p16s1w9">
 <src.rf>manual</src.rf>
@@ -3546,26 +3486,7 @@
 <LM>w#w-cmpr9410-001-p16s2w9</LM>
 </w.rf>
 <form>SPPI</form>
-<tag>
-<AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SPPI_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SPPI_:B_;K_,t_^(Inter.Feder.of_Phonogram_and_Videogram)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SPPI_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SPPI-1_:B_;K_,t_^(United_Press_International)" src="auto">NNFXX-----A----</AM>
-<AM lemma="SPPI-1_:B_,t_^(dots_per_inch)" src="auto">NNNXX-----A----</AM>
-<AM lemma="SPPI_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SPPI_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Sppi_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_Sppě)" src="auto">NNFS6-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_Sppě)" src="auto">NNFS4-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_Sppě)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Spp-1_^(savana)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Spp" src="auto">NNMP1-----A----</AM>
-<AM lemma="Sppi_:B_,t_^(dot_per_inch)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Sppi_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="sppi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9410-001-p16s2w10">
 <src.rf>manual</src.rf>
@@ -3919,26 +3840,7 @@
 <LM>w#w-cmpr9410-001-p17s1w26</LM>
 </w.rf>
 <form>SPPI</form>
-<tag>
-<AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SPPI_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SPPI_:B_;K_,t_^(Inter.Feder.of_Phonogram_and_Videogram)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SPPI_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SPPI-1_:B_;K_,t_^(United_Press_International)" src="auto">NNFXX-----A----</AM>
-<AM lemma="SPPI-1_:B_,t_^(dots_per_inch)" src="auto">NNNXX-----A----</AM>
-<AM lemma="SPPI_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SPPI_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Sppi_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_Sppě)" src="auto">NNFS6-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_Sppě)" src="auto">NNFS4-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_Sppě)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Spp-1_^(savana)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Spp" src="auto">NNMP1-----A----</AM>
-<AM lemma="Sppi_:B_,t_^(dot_per_inch)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Sppi_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="sppi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9410-001-p17s1w27">
 <src.rf>manual</src.rf>
@@ -4092,22 +3994,7 @@
 <LM>w#w-cmpr9410-001-p18s1w18</LM>
 </w.rf>
 <form>ÚNMS</form>
-<tag>
-<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MS-8_:B_;K_;c_,t_^(Microsoft,_např._ÚNMS-DOS)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚNms_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="ÚNMS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ÚNMS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÚNMS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Únms_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Úns" src="auto">PZZS7----------</AM>
-<AM lemma="Únm_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Únm_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Únm_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="únms" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9410-001-p18s1w19">
 <src.rf>manual</src.rf>
@@ -5008,26 +4895,7 @@
 <LM>w#w-cmpr9410-001-p21s1w27</LM>
 </w.rf>
 <form>SPPI</form>
-<tag>
-<AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SPPI_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SPPI_:B_;K_,t_^(Inter.Feder.of_Phonogram_and_Videogram)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SPPI_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SPPI-1_:B_;K_,t_^(United_Press_International)" src="auto">NNFXX-----A----</AM>
-<AM lemma="SPPI-1_:B_,t_^(dots_per_inch)" src="auto">NNNXX-----A----</AM>
-<AM lemma="SPPI_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SPPI_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Sppi_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_Sppě)" src="auto">NNFS6-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_Sppě)" src="auto">NNFS4-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_Sppě)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Spp-1_^(savana)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Spp" src="auto">NNMP1-----A----</AM>
-<AM lemma="Sppi_:B_,t_^(dot_per_inch)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Sppi_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="sppi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9410-001-p21s1w28">
 <src.rf>manual</src.rf>
@@ -5117,26 +4985,7 @@
 <LM>w#w-cmpr9410-001-p22s1w10</LM>
 </w.rf>
 <form>SPPI</form>
-<tag>
-<AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SPPI_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SPPI_:B_;K_,t_^(Inter.Feder.of_Phonogram_and_Videogram)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SPPI_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SPPI-1_:B_;K_,t_^(United_Press_International)" src="auto">NNFXX-----A----</AM>
-<AM lemma="SPPI-1_:B_,t_^(dots_per_inch)" src="auto">NNNXX-----A----</AM>
-<AM lemma="SPPI_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SPPI_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Sppi_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_Sppě)" src="auto">NNFS6-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_Sppě)" src="auto">NNFS4-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_Sppě)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Spp-1_^(savana)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Spp" src="auto">NNMP1-----A----</AM>
-<AM lemma="Sppi_:B_,t_^(dot_per_inch)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Sppi_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="sppi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9410-001-p22s1w11">
 <src.rf>manual</src.rf>

@@ -271,18 +271,7 @@
 <LM>w#w-ln94202-70-p2s1Bw22</LM>
 </w.rf>
 <form>Sohág</form>
-<tag>
-<AM lemma="Sohág_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sohág_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Sohág_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sohág_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sohág" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sohág" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sohág" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sohág_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sohág_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sohág" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sohág_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-70-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -706,17 +695,7 @@
 <LM>w#w-ln94202-70-p2s5w12</LM>
 </w.rf>
 <form>Gamá</form>
-<tag>
-<AM lemma="Gamá_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Gamý" src="auto">PLNP4----------</AM>
-<AM lemma="Gamý" src="auto">PLFS1----------</AM>
-<AM lemma="Gamá_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Gamá_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Gamat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Gamý" src="auto">AAFS1----1A----</AM>
-<AM lemma="Gamý" src="auto">AANP4----1A----</AM>
-<AM lemma="gamá" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gamá_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-70-p2s5w13">
 <src.rf>manual</src.rf>
@@ -744,16 +723,7 @@
 <LM>w#w-ln94202-70-p2s5w15</LM>
 </w.rf>
 <form>islamíja</form>
-<tag>
-<AM lemma="islamíja_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="islamíja_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="islamíja_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="islamíja_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="islamíja" src="auto">NNFS1-----A----</AM>
-<AM lemma="islamíja_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="islamíja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="islamíja_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="islamíja_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-70-p2s5w16">
 <src.rf>manual</src.rf>

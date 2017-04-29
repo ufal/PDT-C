@@ -119,17 +119,7 @@
 <LM>w#w-ln94207-83-p2s1Bw3</LM>
 </w.rf>
 <form>robotězové</form>
-<tag>
-<AM lemma="robotěz" src="orig">NNMP1-----A----</AM>
-<AM lemma="robotězový" src="auto">AAFS2----1A----</AM>
-<AM lemma="robotězová_;S" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="robotězový" src="auto">AAFS6----1A----</AM>
-<AM lemma="robotězový" src="auto">AAFP1----1A----</AM>
-<AM lemma="robotězový" src="auto">AAIP1----1A----</AM>
-<AM lemma="robotězový" src="auto">AAIP4----1A----</AM>
-<AM lemma="robotězový" src="auto">AAFP4----1A----</AM>
-<AM lemma="robotězový" src="auto">AANS1----1A----</AM>
-</tag>
+<tag lemma="robotěz" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94207-83-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -4684,17 +4674,7 @@
 <LM>w#w-ln94207-83-p8s5w10</LM>
 </w.rf>
 <form>subdualizaci</form>
-<tag>
-<AM lemma="subdualizace" src="orig">NNFS4-----A----</AM>
-<AM lemma="subdualizace" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="subdualizace" src="auto">NNFS6-----A----</AM>
-<AM lemma="subdualizace" src="auto">NNFS3-----A----</AM>
-<AM lemma="subdualizak" src="auto">NNMP1-----A----</AM>
-<AM lemma="subdualizovat" src="auto">NNFS4-----A----</AM>
-<AM lemma="subdualizace_^(habsburské_monarchie)" src="auto">NNFS4-----A----</AM>
-<AM lemma="subdualizace_,s" src="auto">NNFS3-----A----</AM>
-<AM lemma="subdualizac_;G" src="auto">NNIS6-----A---1</AM>
-</tag>
+<tag lemma="subdualizace" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94207-83-p8s5w11">
 <src.rf>manual</src.rf>

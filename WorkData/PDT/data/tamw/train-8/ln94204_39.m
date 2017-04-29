@@ -589,18 +589,7 @@
 <LM>w#w-ln94204-39-p3s2w9</LM>
 </w.rf>
 <form>Child</form>
-<tag>
-<AM lemma="Child_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Child_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Child_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Child_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Child_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Child_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Child_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Child_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Child_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="child" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Child_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-39-p3s2w10">
 <src.rf>manual</src.rf>
@@ -694,18 +683,7 @@
 <LM>w#w-ln94204-39-p3s3w9</LM>
 </w.rf>
 <form>Rantzenová</form>
-<tag>
-<AM lemma="Rantzenová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Rantzenová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Rantzenový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Rantzenový" src="auto">AANP1----1A----</AM>
-<AM lemma="Rantzenový" src="auto">AANP4----1A----</AM>
-<AM lemma="Rantzenová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rantzenová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rantzenový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Rantzenový" src="auto">AAFS5----1A----</AM>
-<AM lemma="rantzenová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rantzenová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-39-p3s3w10">
 <src.rf>manual</src.rf>
@@ -857,26 +835,7 @@
 <LM>w#w-ln94204-39-p3s3w28</LM>
 </w.rf>
 <form>NSPCC</form>
-<tag>
-<AM lemma="NSPCC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="NSPCC_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="NSPCC_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NSPCC_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="NSPCC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NSPCC-2_:B_;K_^(švédská_firma)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NSPCC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NSPCC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NSPCC_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Nspcc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nspcc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nspcce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Nspcce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Nspcc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nspcc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Nspcc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nspcc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="nspcc" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="NSPCC_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-39-p3s3w29">
 <src.rf>manual</src.rf>
@@ -926,18 +885,7 @@
 <LM>w#w-ln94204-39-p4s1w2</LM>
 </w.rf>
 <form>Rantzenová</form>
-<tag>
-<AM lemma="Rantzenová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Rantzenová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Rantzenový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Rantzenový" src="auto">AANP1----1A----</AM>
-<AM lemma="Rantzenový" src="auto">AANP4----1A----</AM>
-<AM lemma="Rantzenová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rantzenová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rantzenový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Rantzenový" src="auto">AAFS5----1A----</AM>
-<AM lemma="rantzenová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rantzenová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-39-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1057,18 +1005,7 @@
 <LM>w#w-ln94204-39-p4s1w17</LM>
 </w.rf>
 <form>Child</form>
-<tag>
-<AM lemma="Child_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Child_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Child_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Child_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Child_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Child_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Child_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Child_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Child_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="child" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Child_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-39-p4s1w18">
 <src.rf>manual</src.rf>

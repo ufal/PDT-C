@@ -103,23 +103,7 @@
 <LM>w#w-ln94202-118-p2s1Bw7</LM>
 </w.rf>
 <form>Rui</form>
-<tag>
-<AM lemma="Rui_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rui_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Rue" src="auto">NNFS6-----A----</AM>
-<AM lemma="Rue" src="auto">NNFS4-----A----</AM>
-<AM lemma="Rui_;Y" src="auto">NNXXX-----A----</AM>
-<AM lemma="Rui_;G_^(Středoafrická_republika)" src="auto">NNNSX-----A----</AM>
-<AM lemma="Rui_,t" src="auto">TT-------------</AM>
-<AM lemma="Rui_,t" src="auto">P4XXX----------</AM>
-<AM lemma="rui_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rue" src="auto">NNFS6-----A----</AM>
-<AM lemma="rue" src="auto">NNFS4-----A----</AM>
-<AM lemma="rui_;Y" src="auto">NNXXX-----A----</AM>
-<AM lemma="rui_;G_^(Středoafrická_republika)" src="auto">NNNSX-----A----</AM>
-<AM lemma="rui_,t" src="auto">TT-------------</AM>
-<AM lemma="rui_,t" src="auto">P4XXX----------</AM>
-</tag>
+<tag lemma="Rui_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-118-p2s1Bw8">
 <src.rf>manual</src.rf>

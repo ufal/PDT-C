@@ -355,18 +355,7 @@
 <LM>w#w-ln95046-067-p2s3w8</LM>
 </w.rf>
 <form>Canard</form>
-<tag>
-<AM lemma="Canard_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Canard_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Canard_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Canard" src="auto">NNIS1-----A----</AM>
-<AM lemma="Canard_;m_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Canard_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Canard" src="auto">NNMS1-----A----</AM>
-<AM lemma="Canard" src="auto">NNIS4-----A----</AM>
-<AM lemma="Canarda`1000000000" src="auto">NNFP2-----A----</AM>
-<AM lemma="canard" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Canard_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln95046-067-p2s3w9">
 <src.rf>manual</src.rf>
@@ -374,17 +363,7 @@
 <LM>w#w-ln95046-067-p2s3w9</LM>
 </w.rf>
 <form>enchainé</form>
-<tag>
-<AM lemma="enchainé_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="enchainý" src="auto">AAFS3----1A----</AM>
-<AM lemma="enchainý" src="auto">AANS4----1A----</AM>
-<AM lemma="enchainý" src="auto">AANS1----1A----</AM>
-<AM lemma="enchainý" src="auto">AAIP1----1A----</AM>
-<AM lemma="enchainý" src="auto">AAFS6----1A----</AM>
-<AM lemma="enchainý" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="enchainý" src="auto">AAFP4----1A----</AM>
-<AM lemma="enchainý" src="auto">AAFP1----1A----</AM>
-</tag>
+<tag lemma="enchainé_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95046-067-p2s3w10">
 <src.rf>manual</src.rf>
@@ -1292,18 +1271,7 @@
 <LM>w#w-ln95046-067-p4s2w9</LM>
 </w.rf>
 <form>Franqueta</form>
-<tag>
-<AM lemma="Franquet_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Franqueta" src="auto">NNFS1-----A----</AM>
-<AM lemma="Franquet_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Franqueto" src="auto">NNNS2-----A----</AM>
-<AM lemma="Franquít" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="Franquet_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Franquet_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Franquet" src="auto">NNMS4-----A----</AM>
-<AM lemma="Franqueta_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="franqueta" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Franquet_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-067-p4s2w10">
 <src.rf>manual</src.rf>

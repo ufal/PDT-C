@@ -427,18 +427,7 @@
 <LM>w#w-mf930713-123-p2s3w8</LM>
 </w.rf>
 <form>Vněšekonombank</form>
-<tag>
-<AM lemma="Vněšekonombank_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Vněšekonombanka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vněšekonombank_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Vněšekonombank" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vněšekonombank_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vněšekonombank" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vněšekonombanc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vněšekonombank_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Vněšekonombank_;L" src="auto">NNMS1-----A----</AM>
-<AM lemma="vněšekonombank" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vněšekonombank_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930713-123-p2s3w9">
 <src.rf>manual</src.rf>

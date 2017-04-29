@@ -207,28 +207,7 @@
 <LM>w#w-ln94206-135-p2s1Bw10</LM>
 </w.rf>
 <form>NEOBLBA</form>
-<tag>
-<AM lemma="NEOBLBA_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="NEOBLBA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NEOBLBA_:B_;K_,t_^(Bermuda_International_Bussiness_Association)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NEOBLBA_:B_;K_,t_^(British_Airways)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NEOBLBA_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="NEOBLBA_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Neoblb" src="auto">NNMS2-----A----</AM>
-<AM lemma="Neoblba" src="auto">NNFS1-----A----</AM>
-<AM lemma="Neoblba-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Neoblba_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Neoblbum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Neoblbum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Neoblbum" src="auto">NNNS2-----A----</AM>
-<AM lemma="neoblb" src="auto">NNMS2-----A----</AM>
-<AM lemma="neoblb" src="auto">NNMS4-----A----</AM>
-<AM lemma="neoblba" src="auto">NNMS1-----A----</AM>
-<AM lemma="neoblbo_^(koukat_do_blba)" src="auto">NNNP1-----A----</AM>
-<AM lemma="neoblbo_^(koukat_do_blba)" src="auto">NNNP4-----A----</AM>
-<AM lemma="neoblbo_^(koukat_do_blba)" src="auto">NNNP5-----A----</AM>
-<AM lemma="neoblbo_^(koukat_do_blba)" src="auto">NNNS2-----A----</AM>
-</tag>
+<tag lemma="NEOBLBA_;K" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-135-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -470,17 +449,7 @@
 <LM>w#w-ln94206-135-p2s2w7</LM>
 </w.rf>
 <form>zdenudovanou</form>
-<tag>
-<AM lemma="zdenudovaný" src="orig">AAFS7----1A----</AM>
-<AM lemma="zdenudovana" src="auto">NNFS7-----A----</AM>
-<AM lemma="zdenudovanout_:W" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="zdenudovaný" src="auto">AAFS4----1A----</AM>
-<AM lemma="zdenudovaný" src="auto" recommended="1">AAFS7----1A----</AM>
-<AM lemma="zdenudovaný_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="zdenudovaný_^(*2t)" src="auto">AAFS7----1A----</AM>
-<AM lemma="zdenudovaný_^(*3it)" src="auto">AAFS4----1A----</AM>
-<AM lemma="zdenudovaný_^(*3it)" src="auto">AAFS7----1A----</AM>
-</tag>
+<tag lemma="zdenudovaný" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln94206-135-p2s2w8">
 <src.rf>manual</src.rf>
@@ -796,17 +765,7 @@
 <LM>w#w-ln94206-135-p2s4w11</LM>
 </w.rf>
 <form>barrandiensko</form>
-<tag>
-<AM lemma="barrandienský" src="orig">A2--------A----</AM>
-<AM lemma="barrandiensko_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="barrandienský" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="barrandiensko_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="barrandiensko" src="auto">NNNS1-----A----</AM>
-<AM lemma="barrandiensko" src="auto">NNNS4-----A----</AM>
-<AM lemma="barrandienský_;K" src="auto">A2--------A----</AM>
-<AM lemma="barrandiensko_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="barrandiensko_;G" src="auto">NNNS5-----A----</AM>
-</tag>
+<tag lemma="barrandienský" src="orig" selected="1">A2--------A----</tag>
 </m>
 <m id="m-ln94206-135-p2s4w12">
 <src.rf>manual</src.rf>
@@ -864,22 +823,7 @@
 <LM>w#w-ln94206-135-p3s1w3</LM>
 </w.rf>
 <form>NEOBLBY</form>
-<tag>
-<AM lemma="NEOBLBA_;K" src="orig">NNFS2-----A----</AM>
-<AM lemma="NEOBLBA_;K" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Neoblb" src="auto">NNIP1-----A----</AM>
-<AM lemma="Neoblb" src="auto">NNIP4-----A----</AM>
-<AM lemma="Neoblb" src="auto">NNIP7-----A----</AM>
-<AM lemma="Neoblba" src="auto">NNFP1-----A----</AM>
-<AM lemma="Neoblba" src="auto">NNFP4-----A----</AM>
-<AM lemma="Neoblba" src="auto">NNFS2-----A----</AM>
-<AM lemma="Neoblba_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Neoblby_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="neoblb" src="auto">NNMP4-----A----</AM>
-<AM lemma="neoblb" src="auto">NNMP7-----A----</AM>
-<AM lemma="neoblbo_^(koukat_do_blba)" src="auto">NNNP7-----A----</AM>
-<AM lemma="neoblby" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="NEOBLBA_;K" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-135-p3s1w4">
 <src.rf>manual</src.rf>

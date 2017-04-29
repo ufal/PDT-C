@@ -98,13 +98,7 @@
 <LM>w#w-ln95048-071-p1s1Bw5</LM>
 </w.rf>
 <form>neviete</form>
-<tag>
-<AM lemma="vedieť_,t_^(sl._vědět)" src="orig">VB-P---2P-NA---</AM>
-<AM lemma="neviout" src="auto">VB-P---2P-AA---</AM>
-<AM lemma="neviout_:W" src="auto">VB-P---2P-AA---</AM>
-<AM lemma="neviést" src="auto" recommended="1">VB-S---3P-AA---</AM>
-<AM lemma="vienet" src="auto">NNIS5-----A----</AM>
-</tag>
+<tag lemma="vedieť_,t_^(sl._vědět)" src="orig" selected="1">VB-P---2P-NA---</tag>
 </m>
 </s>
 <s id="m-ln95048-071-p2s1">

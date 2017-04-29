@@ -85,12 +85,7 @@
 <LM>w#w-mf930709-079-p2s1Aw4</LM>
 </w.rf>
 <form>šm</form>
-<tag>
-<AM lemma="šm-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šm-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="š" src="auto">AAIS7----1A----</AM>
-<AM lemma="š" src="auto">AANS7----1A----</AM>
-</tag>
+<tag lemma="šm-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-079-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -860,18 +855,7 @@
 <LM>w#w-mf930709-079-p3s1w6</LM>
 </w.rf>
 <form>Linco</form>
-<tag>
-<AM lemma="Linco_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Linco_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Linco_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Linco_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Linco" src="auto">AAXXX----1A----</AM>
-<AM lemma="Linco_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Linco_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Linco" src="auto">PZ--4----------</AM>
-<AM lemma="Linco" src="auto">PZ--1----------</AM>
-<AM lemma="linco" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Linco_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-079-p3s1w7">
 <src.rf>manual</src.rf>
@@ -906,18 +890,7 @@
 <LM>w#w-mf930709-079-p3s1w10</LM>
 </w.rf>
 <form>Javellin</form>
-<tag>
-<AM lemma="Javellin_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Javellin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Javellina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Javellin_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Javellin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Javellin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Javellín" src="auto">NNIS1-----A----</AM>
-<AM lemma="Javelliny" src="auto">NNFP2-----A----</AM>
-<AM lemma="Javellino" src="auto">NNNP2-----A----</AM>
-<AM lemma="javellin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Javellin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-079-p3s1w11">
 <src.rf>manual</src.rf>
@@ -935,18 +908,7 @@
 <LM>w#w-mf930709-079-p3s3w1</LM>
 </w.rf>
 <form>Contessa</form>
-<tag>
-<AM lemma="Contessa_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Contessa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Contessa_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Contessa_;G_;Y_^(operace;;město)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Contessa_;G_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Contessa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Contessa_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Contessa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Contessa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="contessa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Contessa_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-079-p3s3w2">
 <src.rf>manual</src.rf>
@@ -982,18 +944,7 @@
 <LM>w#w-mf930709-079-p3s3w5</LM>
 </w.rf>
 <form>Roxtri</form>
-<tag>
-<AM lemma="Roxtri_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Roxtri_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Roxtri_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Roxtri_,t" src="auto">ClXP4----------</AM>
-<AM lemma="Roxtri_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Roxtri_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Roxtri_,t" src="auto">Db-------------</AM>
-<AM lemma="Roxtri_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Roxtri_;m" src="auto">ClXP1----------</AM>
-<AM lemma="roxtri" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Roxtri_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-079-p3s3w6">
 <src.rf>manual</src.rf>

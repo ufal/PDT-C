@@ -768,18 +768,7 @@
 <LM>w#w-ln94208-19-p5s1w1</LM>
 </w.rf>
 <form>Financial</form>
-<tag>
-<AM lemma="Financial_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Financial_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Escorial-1_;G_^(El_Financial,_šp._král._sídlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Financial_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Financial_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Financial_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="financial" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Financial_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94208-19-p5s1w2">
 <src.rf>manual</src.rf>
@@ -2034,18 +2023,7 @@
 <LM>w#w-ln94208-19-p8s1w2</LM>
 </w.rf>
 <form>Financial</form>
-<tag>
-<AM lemma="Financial_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Financial_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Financial_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Escorial-1_;G_^(El_Financial,_šp._král._sídlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Financial_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Financial_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="financial" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Financial_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94208-19-p8s1w3">
 <src.rf>manual</src.rf>
@@ -2053,17 +2031,7 @@
 <LM>w#w-ln94208-19-p8s1w3</LM>
 </w.rf>
 <form>Timesu</form>
-<tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIS2-----A----</AM>
-<AM lemma="Times" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Times" src="auto">NNIS3-----A----</AM>
-<AM lemma="Times" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Times" src="auto">NNIS6-----A----</AM>
-<AM lemma="Timesa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Timeso" src="auto">NNNS3-----A----</AM>
-<AM lemma="Times_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="timesu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94208-19-p8s1w4">
 <src.rf>manual</src.rf>

@@ -3806,17 +3806,7 @@
 <LM>w#w-ln94205-3-p5s1w39</LM>
 </w.rf>
 <form>Univac</form>
-<tag>
-<AM lemma="Univac_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Univac_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Univac_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Univac_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mac_;S_^(UnivacIntosh)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Univac_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Univac_;R_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Univac_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="univac" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Univac_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-3-p5s1w40">
 <src.rf>manual</src.rf>
@@ -4174,17 +4164,7 @@
 <LM>w#w-ln94205-3-p5s3w8</LM>
 </w.rf>
 <form>průbojníčků</form>
-<tag>
-<AM lemma="průbojníček" src="orig">NNIP2-----A----</AM>
-<AM lemma="průbojníček" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="průbojníček" src="auto">NNMP2-----A----</AM>
-<AM lemma="průbojníček_^(^DI*3k)" src="auto">NNIP2-----A----</AM>
-<AM lemma="průbojníčk" src="auto">NNMP2-----A----</AM>
-<AM lemma="průbojníčk" src="auto">NNIP2-----A----</AM>
-<AM lemma="průbojníčk_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="průbojníčky" src="auto">NNIP2-----A----</AM>
-<AM lemma="průbojníčka_;S" src="auto">NNMP2-----A----</AM>
-</tag>
+<tag lemma="průbojníček" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94205-3-p5s3w9">
 <src.rf>manual</src.rf>
@@ -4534,25 +4514,7 @@
 <LM>w#w-ln94205-3-p5s6w8</LM>
 </w.rf>
 <form>JPR</form>
-<tag>
-<AM lemma="JPR_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="JPR_:B_;R" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="JPR_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="JPR-2_:B_;K_,t_^(Rwandská_vlastenecká_fronta)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="JPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="JPR-1_:B_;K_,t_^(Rassemblement_pour_la_République)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="JPR_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="JPR_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Jpr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jpr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jpr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jpr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jpr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Jpr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jpra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Jpr_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="jpr" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="JPR_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-3-p5s6w9">
 <src.rf>manual</src.rf>
@@ -4746,30 +4708,7 @@
 <LM>w#w-ln94205-3-p5s7w14</LM>
 </w.rf>
 <form>VÚVT</form>
-<tag>
-<AM lemma="VÚVT_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VÚVT-1_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VÚVT-1_:B_;K_^(Podnik_výpočetní_techniky)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VÚVT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VÚVT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="VÚVT_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="VÚVT_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VÚVT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VÚVT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Vúvt" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vúvt" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vúvt" src="auto">Vf--------A----</AM>
-<AM lemma="Vúvt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Vúvt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Vúvt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vúvt_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vúvt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="vúvt" src="auto">NNMS1-----A----</AM>
-<AM lemma="vúvt-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="vúvt-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="vúvtelefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
-<AM lemma="vúvteřina_:B" src="auto">NNFXX-----A---8</AM>
-</tag>
+<tag lemma="VÚVT_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94205-3-p5s7w15">
 <src.rf>manual</src.rf>
@@ -6160,25 +6099,7 @@
 <LM>w#w-ln94205-3-p5s12w15</LM>
 </w.rf>
 <form>JPR</form>
-<tag>
-<AM lemma="JPR_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="JPR_:B_;R" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="JPR_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="JPR-2_:B_;K_,t_^(Rwandská_vlastenecká_fronta)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="JPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="JPR-1_:B_;K_,t_^(Rassemblement_pour_la_République)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="JPR_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="JPR_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Jpr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jpr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jpr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jpr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jpr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Jpr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jpra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Jpr_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="jpr" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="JPR_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-3-p5s12w16">
 <src.rf>manual</src.rf>
@@ -6226,26 +6147,7 @@
 <LM>w#w-ln94205-3-p5s12w21</LM>
 </w.rf>
 <form>SAPI</form>
-<tag>
-<AM lemma="SAPI_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SAPI_:B_;R" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SAPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SAPI_:B_;K_,t_^(Inter.Feder.of_Phonogram_and_Videogram)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SAPI_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SAPI-1_:B_;K_,t_^(United_Press_International)" src="auto">NNFXX-----A----</AM>
-<AM lemma="SAPI-1_:B_,t_^(dots_per_inch)" src="auto">NNNXX-----A----</AM>
-<AM lemma="SAPI_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SAPI_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Sap" src="auto">NNMP1-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_Sapě)" src="auto">NNFS6-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_Sapě)" src="auto">NNFS4-----A----</AM>
-<AM lemma="koupě_^(př._byla_to_dobrá_Sapě)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Sap-1_^(savana)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Sapi_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Sapi_:B_,t_^(dot_per_inch)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Sapi_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="sapi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SAPI_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-3-p5s12w22">
 <src.rf>manual</src.rf>

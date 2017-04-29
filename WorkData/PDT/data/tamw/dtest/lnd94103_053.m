@@ -95,18 +95,7 @@
 <LM>w#w-lnd94103-053-p1s3w5</LM>
 </w.rf>
 <form>Mordechai</form>
-<tag>
-<AM lemma="Mordechai_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mordechai-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Mordechai_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mordechai_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Mordechai_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mordechai_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Mordechai_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mordechai_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mordechai_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="mordechai" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mordechai_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-053-p1s3w6">
 <src.rf>manual</src.rf>

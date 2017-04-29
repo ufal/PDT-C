@@ -106,26 +106,7 @@
 <LM>w#w-mf920925-030-p2s2w3</LM>
 </w.rf>
 <form>BHT</form>
-<tag>
-<AM lemma="BHT_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="BHT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="BHT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Bht_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bht_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bht_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bht_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bht_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="maastricht-1_^(smlouva_z_Bhtu,_přeneseně)" src="auto">NNIS4-----A----</AM>
-<AM lemma="maastricht-1_^(smlouva_z_Bhtu,_přeneseně)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bhen_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="bht" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="BHT_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-mf920925-030-p2s2w4">
 <src.rf>manual</src.rf>
@@ -479,26 +460,7 @@
 <LM>w#w-mf920925-030-p2s3w17</LM>
 </w.rf>
 <form>BHT</form>
-<tag>
-<AM lemma="BHT_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="BHT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="BHT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Bht_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bht_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bht_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bht_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bht_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="maastricht-1_^(smlouva_z_Bhtu,_přeneseně)" src="auto">NNIS4-----A----</AM>
-<AM lemma="maastricht-1_^(smlouva_z_Bhtu,_přeneseně)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bhen_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="bht" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="BHT_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-mf920925-030-p2s3w18">
 <src.rf>manual</src.rf>
@@ -814,26 +776,7 @@
 <LM>w#w-mf920925-030-p3s1w21</LM>
 </w.rf>
 <form>BHT</form>
-<tag>
-<AM lemma="BHT_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="BHT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="BHT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Bht_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bht_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bht_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bht_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bht_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="maastricht-1_^(smlouva_z_Bhtu,_přeneseně)" src="auto">NNIS4-----A----</AM>
-<AM lemma="maastricht-1_^(smlouva_z_Bhtu,_přeneseně)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bhen_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="bht" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="BHT_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-mf920925-030-p3s1w22">
 <src.rf>manual</src.rf>
@@ -1061,14 +1004,7 @@
 <LM>w#w-mf920925-030-p3s3w9</LM>
 </w.rf>
 <form>chlórfenolů</form>
-<tag>
-<AM lemma="chlórfenol" src="orig">NNIP2-----A----</AM>
-<AM lemma="chlórfenol" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="chlórfenol-1_^(jílovitá_hlinka)" src="auto">NNIP2-----A----</AM>
-<AM lemma="chlórfenol" src="auto">NNMP2-----A----</AM>
-<AM lemma="chlórfenůl" src="auto">NNIP2-----A----</AM>
-<AM lemma="chlórfenolů" src="auto">Db-------------</AM>
-</tag>
+<tag lemma="chlórfenol" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920925-030-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1200,26 +1136,7 @@
 <LM>w#w-mf920925-030-p4s1w2</LM>
 </w.rf>
 <form>BHT</form>
-<tag>
-<AM lemma="BHT_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="BHT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="BHT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Bht_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bht_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bht_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bht_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bht_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="maastricht-1_^(smlouva_z_Bhtu,_přeneseně)" src="auto">NNIS4-----A----</AM>
-<AM lemma="maastricht-1_^(smlouva_z_Bhtu,_přeneseně)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bhen_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="bht" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="BHT_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-mf920925-030-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1497,26 +1414,7 @@
 <LM>w#w-mf920925-030-p4s4w2</LM>
 </w.rf>
 <form>BHT</form>
-<tag>
-<AM lemma="BHT_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="BHT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="BHT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BHT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="BHT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Bht_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bht_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bht_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bht_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bht_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="maastricht-1_^(smlouva_z_Bhtu,_přeneseně)" src="auto">NNIS4-----A----</AM>
-<AM lemma="maastricht-1_^(smlouva_z_Bhtu,_přeneseně)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bhen_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="bht" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="BHT_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-mf920925-030-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1598,17 +1496,7 @@
 <LM>w#w-mf920925-030-p4s5w4</LM>
 </w.rf>
 <form>Sojuzplodoimport</form>
-<tag>
-<AM lemma="Sojuzplodoimport_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sojuzplodoimport" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sojuzplodoimport" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sojuzplodoimport_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sojuzplodoimport_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sojuzplodoimport_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sojuzplodoimport_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Report_;K_;u_,t_^(umělecký_soubor_Wheather_Sojuzplodoimport)" src="auto">NNIXX-----A----</AM>
-<AM lemma="sojuzplodoimport" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sojuzplodoimport_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-030-p4s5w5">
 <src.rf>manual</src.rf>
@@ -1962,18 +1850,7 @@
 <LM>w#w-mf920925-030-p4s6w14</LM>
 </w.rf>
 <form>Batov</form>
-<tag>
-<AM lemma="Batov_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Batov_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Batov_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Batový" src="auto">ACYS------A----</AM>
-<AM lemma="Batovy_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Batov" src="auto">NNIS4-----A----</AM>
-<AM lemma="Batov" src="auto">NNIS1-----A----</AM>
-<AM lemma="Batov_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Batova" src="auto">NNFP2-----A----</AM>
-<AM lemma="batov" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Batov_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-030-p4s6w15">
 <src.rf>manual</src.rf>
@@ -2005,17 +1882,7 @@
 <LM>w#w-mf920925-030-p4s6w18</LM>
 </w.rf>
 <form>Sojuzplodoimport</form>
-<tag>
-<AM lemma="Sojuzplodoimport_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sojuzplodoimport" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sojuzplodoimport" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sojuzplodoimport_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sojuzplodoimport_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sojuzplodoimport_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sojuzplodoimport_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Report_;K_;u_,t_^(umělecký_soubor_Wheather_Sojuzplodoimport)" src="auto">NNIXX-----A----</AM>
-<AM lemma="sojuzplodoimport" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sojuzplodoimport_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-030-p4s6w19">
 <src.rf>manual</src.rf>

@@ -2452,18 +2452,7 @@
 <LM>w#w-ln94200-124-p5s6w21</LM>
 </w.rf>
 <form>Alternatives</form>
-<tag>
-<AM lemma="Alternative_;m_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Alternatives_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alternative_;m_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Alternativesa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Alternatives_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alternatives_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Alternatives-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alternatives" src="auto">NNIS4-----A----</AM>
-<AM lemma="Alternatives" src="auto">NNFS4-----A----</AM>
-<AM lemma="alternatives" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Alternative_;m_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94200-124-p5s6w22">
 <src.rf>manual</src.rf>
@@ -2484,18 +2473,7 @@
 <LM>w#w-ln94200-124-p5s6w23</LM>
 </w.rf>
 <form>Animal</form>
-<tag>
-<AM lemma="Animal_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Animal_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Animala_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Animat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Animat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Animat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="animal" src="auto">NNMS1-----A----</AM>
-<AM lemma="animal_;G_^(al-Aiún)" src="auto">A2--------A----</AM>
-<AM lemma="animala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto">NNFP2-----A----</AM>
-<AM lemma="minimal_;u_,t_^(pouze_ve_spojení_Animal_art)" src="auto" recommended="1">AAXXX----1A----</AM>
-</tag>
+<tag lemma="Animal_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94200-124-p5s6w24">
 <src.rf>manual</src.rf>
@@ -2503,18 +2481,7 @@
 <LM>w#w-ln94200-124-p5s6w24</LM>
 </w.rf>
 <form>Experimentation</form>
-<tag>
-<AM lemma="Experimentation_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Experimentation_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Experimentation_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Experimentation_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Experimentation_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Experimentation" src="auto">NNIS1-----A----</AM>
-<AM lemma="Experimentation_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Experimentatión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Experimentatión" src="auto">NNIS1-----A----</AM>
-<AM lemma="experimentation" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Experimentation_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94200-124-p5s6w25">
 <src.rf>manual</src.rf>
@@ -2690,17 +2657,7 @@
 <LM>w#w-ln94200-124-p5s6w46</LM>
 </w.rf>
 <form>biomedicinského</form>
-<tag>
-<AM lemma="biomedicinský" src="orig">AAIS2----1A----</AM>
-<AM lemma="biomedicinský" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="biomedicinský" src="auto">AAMS2----1A----</AM>
-<AM lemma="biomedicinský" src="auto">AAMS4----1A----</AM>
-<AM lemma="biomedicinský" src="auto">AANS2----1A----</AM>
-<AM lemma="biomedicinský_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="biomedicinský_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="biomedicinský_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="biomedicinský_^(*3it)" src="auto">AAIS2----1A----</AM>
-</tag>
+<tag lemma="biomedicinský" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94200-124-p5s6w47">
 <src.rf>manual</src.rf>

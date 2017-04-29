@@ -249,17 +249,7 @@
 <LM>w#w-ln94208-22-p2s2w4</LM>
 </w.rf>
 <form>Montarisi</form>
-<tag>
-<AM lemma="Montarisi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Montarise" src="auto">NNFS6-----A----</AM>
-<AM lemma="Montarise" src="auto">NNFS4-----A----</AM>
-<AM lemma="Montarise" src="auto">NNFS3-----A----</AM>
-<AM lemma="Montaris_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="Montarisi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Montarisi_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Montaris-3_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="montarisi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Montarisi_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-22-p2s2w5">
 <src.rf>manual</src.rf>

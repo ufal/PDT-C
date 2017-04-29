@@ -185,22 +185,7 @@
 <LM>w#w-mf930709-028-p20s1w2</LM>
 </w.rf>
 <form>XCU</form>
-<tag>
-<AM lemma="XCU_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="XCU_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="XCU_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="XCU_:B_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="XCU_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="XCU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="XCU_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="Xcu_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Xc" src="auto">NNIS2-----A----</AM>
-<AM lemma="Xc_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Xc_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Xca_;R_,t" src="auto">NNFS4-----A----</AM>
-<AM lemma="Xca_;G" src="auto">NNFS4-----A---1</AM>
-<AM lemma="xcu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="XCU_:B" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-mf930709-028-p20s1w3">
 <src.rf>manual</src.rf>

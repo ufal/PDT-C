@@ -304,18 +304,7 @@
 <LM>w#w-ln95045-041-p2s2w6</LM>
 </w.rf>
 <form>Dysentry</form>
-<tag>
-<AM lemma="Dysentry_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="Dysentr" src="auto">NNIP4-----A----</AM>
-<AM lemma="Dysentr" src="auto">NNIP1-----A----</AM>
-<AM lemma="Dysentr" src="auto">NNMP7-----A----</AM>
-<AM lemma="Dysentr" src="auto">NNMP4-----A----</AM>
-<AM lemma="Dysentrum" src="auto">NNNP7-----A----</AM>
-<AM lemma="Dysentra" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Dysentra" src="auto">NNFP1-----A----</AM>
-<AM lemma="Dysentr" src="auto">NNIP7-----A----</AM>
-<AM lemma="dysentry" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dysentry_;K" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95045-041-p2s2w7">
 <src.rf>manual</src.rf>
@@ -903,18 +892,7 @@
 <LM>w#w-ln95045-041-p2s6w12</LM>
 </w.rf>
 <form>Generation</form>
-<tag>
-<AM lemma="Generation_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Generation_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Generation_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Generation_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Generation_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Generation" src="auto">NNIS1-----A----</AM>
-<AM lemma="Generation_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Generatión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Generatión" src="auto">NNIS1-----A----</AM>
-<AM lemma="generation" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Generation_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95045-041-p2s6w13">
 <src.rf>manual</src.rf>

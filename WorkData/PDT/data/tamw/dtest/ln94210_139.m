@@ -577,17 +577,7 @@
 <LM>w#w-ln94210-139-p2s10w9</LM>
 </w.rf>
 <form>Mathausen</form>
-<tag>
-<AM lemma="Mathausen_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mathausen_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mathausen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mathausen_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mathausen-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mathausna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mathausit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Mathausen_;K" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="mathausen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mathausen_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-139-p2s10w10">
 <src.rf>manual</src.rf>
@@ -1460,18 +1450,7 @@
 <LM>w#w-ln94210-139-p3s8w8</LM>
 </w.rf>
 <form>Serinek</form>
-<tag>
-<AM lemma="Serinek_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Serinek_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Serinka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Serinek" src="auto">NNIS1-----A----</AM>
-<AM lemma="Serinek" src="auto">NNIS4-----A----</AM>
-<AM lemma="Serinek" src="auto">NNMS1-----A----</AM>
-<AM lemma="Serinko_,e" src="auto">NNNP2-----A----</AM>
-<AM lemma="Serinka_;E_^(*2)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Serinek_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="serinek" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Serinek_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-139-p3s8w9">
 <src.rf>manual</src.rf>
@@ -2981,18 +2960,7 @@
 <LM>w#w-ln94210-139-p5s1w2</LM>
 </w.rf>
 <form>Serineková</form>
-<tag>
-<AM lemma="Serineková_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Serineková_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Serinekový" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="Serinekový" src="auto">AANP1----1A----</AM>
-<AM lemma="Serinekový" src="auto">AANP4----1A----</AM>
-<AM lemma="Serineková_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Serineková_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Serinekový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Serinekový" src="auto">AAFS5----1A----</AM>
-<AM lemma="serineková" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Serineková_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-139-p5s1w3">
 <src.rf>manual</src.rf>

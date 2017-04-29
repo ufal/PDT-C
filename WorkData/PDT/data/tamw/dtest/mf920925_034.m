@@ -75,17 +75,7 @@
 <LM>w#w-mf920925-034-p1s1w8</LM>
 </w.rf>
 <form>pletánek</form>
-<tag>
-<AM lemma="pletánek_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="pletánek_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pletánka" src="auto">NNFP2-----A----</AM>
-<AM lemma="pletánek" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="pletánek" src="auto">NNIS4-----A----</AM>
-<AM lemma="pletánek" src="auto">NNMS1-----A----</AM>
-<AM lemma="pletánko_,e" src="auto">NNNP2-----A----</AM>
-<AM lemma="pletánka_;E_^(*2)" src="auto">NNFP2-----A----</AM>
-<AM lemma="pletánek_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="pletánek_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-034-p1s1w9">
 <src.rf>manual</src.rf>

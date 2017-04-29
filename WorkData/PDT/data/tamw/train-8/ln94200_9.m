@@ -572,21 +572,7 @@
 <LM>w#w-ln94200-9-p2s3w2</LM>
 </w.rf>
 <form>zk</form>
-<tag>
-<AM lemma="zk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="zk" src="auto">NNIS1-----A----</AM>
-<AM lemma="zk" src="auto">NNIS4-----A----</AM>
-<AM lemma="zk" src="auto">NNMS1-----A----</AM>
-<AM lemma="zk-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="zk-4`kůň_:B_^(jednotka_výkonu)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="zk-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="zk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="zk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="zk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="zkomanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="zkoncernový_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="zkuo-1_:B_,t_^(stará_jednotka_výkonu)" src="auto">NNNXX-----A---8</AM>
-</tag>
+<tag lemma="zk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-9-p2s3w3">
 <src.rf>manual</src.rf>

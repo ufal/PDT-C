@@ -1166,18 +1166,7 @@
 <LM>w#w-ln94203-80-p3s5w14</LM>
 </w.rf>
 <form>Čhajori</form>
-<tag>
-<AM lemma="čhajori_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Čhajori_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čhajori_,t" src="auto">Db-------------</AM>
-<AM lemma="Čhajori_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Čhajori_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Čhajori_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Čhajori_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Čhajori_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Čhajori_;m" src="auto">ClXP1----------</AM>
-<AM lemma="čhajori" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="čhajori_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94203-80-p3s5w15">
 <src.rf>manual</src.rf>
@@ -1185,16 +1174,7 @@
 <LM>w#w-ln94203-80-p3s5w15</LM>
 </w.rf>
 <form>romani</form>
-<tag>
-<AM lemma="romani_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="romaň_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="romani_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="roman" src="auto">NNMP1-----A----</AM>
-<AM lemma="romaň" src="auto">NNFS6-----A----</AM>
-<AM lemma="romaň" src="auto">NNFS3-----A----</AM>
-<AM lemma="roman" src="auto">NNMP1-----A---1</AM>
-<AM lemma="roman_;E" src="auto">NNMP1-----A---1</AM>
-</tag>
+<tag lemma="romani_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-80-p3s5w16">
 <src.rf>manual</src.rf>
@@ -2573,18 +2553,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Joachymowski</form>
-<tag>
-<AM lemma="Joachymovski_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Joachymowski_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Joachymowský_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Joachymowski_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Joachymowski_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Joachymovski_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Joachymowský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Joachymowski_;K_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Joachymowski_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="joachymowski" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Joachymovski_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-80-p5s1w29">
 <src.rf>manual</src.rf>

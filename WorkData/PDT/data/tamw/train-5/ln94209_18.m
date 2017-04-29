@@ -341,17 +341,7 @@
 <LM>w#w-ln94209-18-p2s4w13</LM>
 </w.rf>
 <form>vymodulovanou</form>
-<tag>
-<AM lemma="vymodulovaný" src="orig">AAFS4----1A----</AM>
-<AM lemma="vymodulovaný" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="vymodulovaný" src="auto">AAFS7----1A----</AM>
-<AM lemma="vymodulovaný_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="vymodulovana" src="auto">NNFS7-----A----</AM>
-<AM lemma="vymodulovaný_^(*3it)" src="auto">AAFS4----1A----</AM>
-<AM lemma="vymodulovaný_^(*2t)" src="auto">AAFS7----1A----</AM>
-<AM lemma="vymodulovaný_^(*3it)" src="auto">AAFS7----1A----</AM>
-<AM lemma="vymodulovanout_:W" src="auto">VB-P---3P-AA---</AM>
-</tag>
+<tag lemma="vymodulovaný" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94209-18-p2s4w14">
 <src.rf>manual</src.rf>

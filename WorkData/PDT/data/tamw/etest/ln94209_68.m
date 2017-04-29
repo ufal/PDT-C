@@ -1065,17 +1065,7 @@
 <LM>w#w-ln94209-68-p4s1w4</LM>
 </w.rf>
 <form>Scenofest</form>
-<tag>
-<AM lemma="Scenofest_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Scenofest_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Scenofest" src="auto">NNIS1-----A----</AM>
-<AM lemma="Scenofest" src="auto">NNIS4-----A----</AM>
-<AM lemma="Scenofest" src="auto">NNFS4-----A----</AM>
-<AM lemma="Scenofest_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Scenofest" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Scenofest_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="scenofest" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Scenofest_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94209-68-p4s1w5">
 <src.rf>manual</src.rf>

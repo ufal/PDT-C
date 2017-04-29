@@ -4920,17 +4920,7 @@
 <LM>w#w-ln94210-95-p5s8w11</LM>
 </w.rf>
 <form>minidemonstrací</form>
-<tag>
-<AM lemma="minidemonstrace" src="orig">NNFP2-----A----</AM>
-<AM lemma="minidemonstrace" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="minidemonstrace" src="auto">NNFS7-----A----</AM>
-<AM lemma="minidemonstrací_^(*2t)" src="auto">AAFP4----1A----</AM>
-<AM lemma="minidemonstrací_^(*2t)" src="auto">AAFS1----1A----</AM>
-<AM lemma="minidemonstrací_^(*2t)" src="auto">AAFS2----1A----</AM>
-<AM lemma="minidemonstrací_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="minidemonstrací_^(*2t)" src="auto">AAIS1----1A----</AM>
-<AM lemma="minidemonstrací_^(*2t)" src="auto">AAIS4----1A----</AM>
-</tag>
+<tag lemma="minidemonstrace" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94210-95-p5s8w12">
 <src.rf>manual</src.rf>
@@ -11784,19 +11774,7 @@
 <LM>w#w-ln94210-95-p11s4w16</LM>
 </w.rf>
 <form>minischodiště</form>
-<tag>
-<AM lemma="minischodiště" src="orig">NNNS2-----A----</AM>
-<AM lemma="minischodišta" src="auto">NNFS6-----A----</AM>
-<AM lemma="minischodiště" src="auto">Db-------------</AM>
-<AM lemma="minischodiště" src="auto">NNNP1-----A----</AM>
-<AM lemma="minischodiště" src="auto">NNNP4-----A----</AM>
-<AM lemma="minischodiště" src="auto">NNNP5-----A----</AM>
-<AM lemma="minischodiště" src="auto">NNNS1-----A----</AM>
-<AM lemma="minischodiště" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="minischodiště" src="auto">NNNS4-----A----</AM>
-<AM lemma="minischodiště" src="auto">NNNS5-----A----</AM>
-<AM lemma="minischodiště-1" src="auto">Db-------------</AM>
-</tag>
+<tag lemma="minischodiště" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94210-95-p11s4w17">
 <src.rf>manual</src.rf>
@@ -17420,28 +17398,7 @@
 <LM>w#w-ln94210-95-p13s10w5</LM>
 </w.rf>
 <form>Pětikostelním</form>
-<tag>
-<AM lemma="pětikostelní_;G" src="orig">AANS7----1A----</AM>
-<AM lemma="Pětikostelní" src="auto">AAFP3----1A----</AM>
-<AM lemma="Pětikostelní" src="auto">AAIP3----1A----</AM>
-<AM lemma="Pětikostelní" src="auto">AAIS6----1A----</AM>
-<AM lemma="Pětikostelní" src="auto">AAIS7----1A----</AM>
-<AM lemma="Pětikostelní" src="auto">AANS6----1A----</AM>
-<AM lemma="Pětikostelní" src="auto">AANS7----1A----</AM>
-<AM lemma="Pětikostelní_^(*3at)" src="auto">NNNS7-----A----</AM>
-<AM lemma="Pětikostelní_^(*3it)" src="auto">NNNS7-----A----</AM>
-<AM lemma="pětikostelní" src="auto">AAFP3----1A----</AM>
-<AM lemma="pětikostelní" src="auto">AAIP3----1A----</AM>
-<AM lemma="pětikostelní" src="auto">AAIS6----1A----</AM>
-<AM lemma="pětikostelní" src="auto">AAIS7----1A----</AM>
-<AM lemma="pětikostelní" src="auto">AAMP3----1A----</AM>
-<AM lemma="pětikostelní" src="auto">AAMS6----1A----</AM>
-<AM lemma="pětikostelní" src="auto">AAMS7----1A----</AM>
-<AM lemma="pětikostelní" src="auto">AANP3----1A----</AM>
-<AM lemma="pětikostelní" src="auto">AANS6----1A----</AM>
-<AM lemma="pětikostelní" src="auto" recommended="1">AANS7----1A----</AM>
-<AM lemma="pětikostelním" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="pětikostelní_;G" src="orig" selected="1">AANS7----1A----</tag>
 </m>
 <m id="m-ln94210-95-p13s10w6">
 <src.rf>manual</src.rf>
@@ -18046,22 +18003,7 @@
 <LM>w#w-ln94210-95-p14s2w29</LM>
 </w.rf>
 <form>předčeskoslovenské</form>
-<tag>
-<AM lemma="předčeskoslovenský" src="orig">AAFS6----1A----</AM>
-<AM lemma="předčeskoslovenský" src="auto">AAFP1----1A----</AM>
-<AM lemma="předčeskoslovenský" src="auto">AAFP4----1A----</AM>
-<AM lemma="předčeskoslovenský" src="auto">AAFP5----1A----</AM>
-<AM lemma="předčeskoslovenský" src="auto">AAFS2----1A----</AM>
-<AM lemma="předčeskoslovenský" src="auto">AAFS3----1A----</AM>
-<AM lemma="předčeskoslovenský" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="předčeskoslovenský" src="auto">AAIP1----1A----</AM>
-<AM lemma="předčeskoslovenský" src="auto">AAIP4----1A----</AM>
-<AM lemma="předčeskoslovenský" src="auto">AAIP5----1A----</AM>
-<AM lemma="předčeskoslovenský" src="auto">AAMP4----1A----</AM>
-<AM lemma="předčeskoslovenský" src="auto">AANS1----1A----</AM>
-<AM lemma="předčeskoslovenský" src="auto">AANS4----1A----</AM>
-<AM lemma="předčeskoslovenský" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="předčeskoslovenský" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94210-95-p14s2w30">
 <src.rf>manual</src.rf>

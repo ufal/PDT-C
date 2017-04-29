@@ -19,18 +19,7 @@
 <LM>w#w-ln95049-118-p1s1w1</LM>
 </w.rf>
 <form>Dépardieův</form>
-<tag>
-<AM lemma="Dépardieův_;S_^(*2u)" src="orig">AUMS1M---------</AM>
-<AM lemma="Dépardiův_;S_^(*2e-2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Dépardieův_;Y_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Dépardieův_;S_^(*2u)" src="auto" recommended="1">AUMS1M---------</AM>
-<AM lemma="Dépardieův_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="Dépardieův_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Dépardieův_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Dépardieův_;S_^(*2a)" src="auto">AUIS1M---------</AM>
-<AM lemma="Dépardieův_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="dépardieův" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dépardieův_;S_^(*2u)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-ln95049-118-p1s1w2">
 <src.rf>manual</src.rf>
@@ -468,18 +457,7 @@
 <LM>w#w-ln95049-118-p2s2w16</LM>
 </w.rf>
 <form>Lanvin</form>
-<tag>
-<AM lemma="Lanvin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lanvina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Lanvin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lanvin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lanviny_^(tisk)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Lanvinsko_:B_;G" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Lanvin-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Lanvin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lanvin" src="auto">NNIS4-----A----</AM>
-<AM lemma="lanvin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lanvin_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-118-p2s2w17">
 <src.rf>manual</src.rf>
@@ -932,18 +910,7 @@
 <LM>w#w-ln95049-118-p2s5w17</LM>
 </w.rf>
 <form>Rapeneaua</form>
-<tag>
-<AM lemma="Rapeneau_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Rapeneau_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Rapeneau_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rapeneaua_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rapeneauum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Rapeneauum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Rapeneauum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Rapeneaue_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rapeneaua_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rapeneaua" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rapeneau_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-118-p2s5w18">
 <src.rf>manual</src.rf>
@@ -967,18 +934,7 @@
 <LM>w#w-ln95049-118-p2s5w20</LM>
 </w.rf>
 <form>Dépardieuem</form>
-<tag>
-<AM lemma="Dépardieu_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Dépardieu_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Dépardieue_;K_,t" src="auto">NNIS7-----A----</AM>
-<AM lemma="Dépardieuum" src="auto">NNNS7-----A----</AM>
-<AM lemma="Dépardieuo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Dépardieuem_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Dépardieu" src="auto">NNIS7-----A----</AM>
-<AM lemma="Dépardieu" src="auto">NNMS7-----A----</AM>
-<AM lemma="Dépardieu_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="dépardieuem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dépardieu_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-118-p2s5w21">
 <src.rf>manual</src.rf>
@@ -1278,18 +1234,7 @@
 <LM>w#w-ln95049-118-p3s1w15</LM>
 </w.rf>
 <form>Newella</form>
-<tag>
-<AM lemma="Newell_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Newell_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Newella_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Newella_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Newell_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Newella_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Newell_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="della_;R_,t_^(it.,_ve_jménech,_př._Newella_Rebia)" src="auto">RR--X----------</AM>
-<AM lemma="Villa-3_;G_^(součást_gegraf._názvů_např._Newella_Adriana)" src="auto">NNFS1-----A----</AM>
-<AM lemma="newella" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Newell_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-118-p3s1w16">
 <src.rf>manual</src.rf>

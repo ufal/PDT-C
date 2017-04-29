@@ -138,18 +138,7 @@
 <LM>w#w-ln94204-85-p2s1Bw5</LM>
 </w.rf>
 <form>Robaina</form>
-<tag>
-<AM lemma="Robaina_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Robaina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Robain_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Robaina_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Robain_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Robaina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Robaina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Robain_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Robaina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="robaina" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Robaina_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-85-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -678,18 +667,7 @@
 <LM>w#w-ln94204-85-p2s4w1</LM>
 </w.rf>
 <form>Robaina</form>
-<tag>
-<AM lemma="Robaina_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Robaina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Robain_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Robaina_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Robain_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Robaina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Robaina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Robain_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Robaina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="robaina" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Robaina_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-85-p2s4w2">
 <src.rf>manual</src.rf>
@@ -737,18 +715,7 @@
 <LM>w#w-ln94204-85-p2s4w7</LM>
 </w.rf>
 <form>Itamarem</form>
-<tag>
-<AM lemma="Itamar_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Itamar" src="auto">NNIS7-----A----</AM>
-<AM lemma="Itamar" src="auto">NNMS7-----A----</AM>
-<AM lemma="Itamar_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Itamar_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Itamaro" src="auto">NNNS7-----A----</AM>
-<AM lemma="Itamar_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Itamarma" src="auto">NNFP2-----A----</AM>
-<AM lemma="Itamare_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="itamarem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Itamar_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94204-85-p2s4w8">
 <src.rf>manual</src.rf>

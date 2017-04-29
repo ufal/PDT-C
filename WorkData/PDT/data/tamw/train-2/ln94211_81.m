@@ -1374,15 +1374,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Silajdžić</form>
-<tag>
-<AM lemma="Silajdžić_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Silajdžić_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Silajdžič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Silajdžić_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Silajdžič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Silajdžić_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="silajdžić" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Silajdžić_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-81-p5s1w5">
 <src.rf>manual</src.rf>

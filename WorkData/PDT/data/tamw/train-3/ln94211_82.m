@@ -3992,17 +3992,7 @@
 <LM>w#w-ln94211-82-p7s1w12</LM>
 </w.rf>
 <form>pannacionalistické</form>
-<tag>
-<AM lemma="pannacionalistický" src="orig">AANS4----1A----</AM>
-<AM lemma="pannacionalistický" src="auto">AAFS2----1A----</AM>
-<AM lemma="pannacionalistický" src="auto">AANS1----1A----</AM>
-<AM lemma="pannacionalistický" src="auto">AAFS6----1A----</AM>
-<AM lemma="pannacionalistický" src="auto">AAFP1----1A----</AM>
-<AM lemma="pannacionalistický" src="auto">AAIP1----1A----</AM>
-<AM lemma="pannacionalistický" src="auto">AAIP4----1A----</AM>
-<AM lemma="pannacionalistický" src="auto">AAFP4----1A----</AM>
-<AM lemma="pannacionalistický" src="auto" recommended="1">AANS4----1A----</AM>
-</tag>
+<tag lemma="pannacionalistický" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln94211-82-p7s1w13">
 <src.rf>manual</src.rf>

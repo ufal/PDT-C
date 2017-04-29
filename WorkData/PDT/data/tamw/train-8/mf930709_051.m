@@ -93,17 +93,7 @@
 <LM>w#w-mf930709-051-p2s1Aw3</LM>
 </w.rf>
 <form>spa</form>
-<tag>
-<AM lemma="spa-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="spa-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="spa" src="auto">NNFS1-----A----</AM>
-<AM lemma="spa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="spa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="sp_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="sp" src="auto">NNMS2-----A----</AM>
-<AM lemma="spo" src="auto">NNNS2-----A----</AM>
-<AM lemma="sp" src="auto">NNMS4-----A----</AM>
-</tag>
+<tag lemma="spa-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-051-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -119,17 +109,7 @@
 <LM>w#w-mf930709-051-p2s1Aw5</LM>
 </w.rf>
 <form>dap</form>
-<tag>
-<AM lemma="dap-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="dap-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="dap" src="auto">NNIS1-----A----</AM>
-<AM lemma="dap" src="auto">NNIS4-----A----</AM>
-<AM lemma="dapa" src="auto">NNFP2-----A----</AM>
-<AM lemma="dap_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="daponsko_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="dapod_:B_^(a_podobně)" src="auto">Db------------9</AM>
-<AM lemma="dapod-1_:B_^(a_podobně)" src="auto">Db------------8</AM>
-</tag>
+<tag lemma="dap-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-051-p2s1Aw6">
 <src.rf>manual</src.rf>

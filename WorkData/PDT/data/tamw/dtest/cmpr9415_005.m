@@ -883,10 +883,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>°</form>
-<tag>
-<AM lemma="°_^(stupeň)" src="orig">NNIP2-----A---8</AM>
-<AM lemma="°_^(stupeň)" src="auto" recommended="1">NNIP2-----A---8</AM>
-</tag>
+<tag lemma="°_^(stupeň)" src="orig" selected="1">NNIP2-----A---8</tag>
 </m>
 <m id="m-cmpr9415-005-p9s1w20">
 <src.rf>manual</src.rf>
@@ -2132,18 +2129,7 @@
 <LM>w#w-cmpr9415-005-p11s6w22</LM>
 </w.rf>
 <form>Daishowa</form>
-<tag>
-<AM lemma="Daishowa_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Daishow_;K" src="auto">NNMS2-----A----</AM>
-<AM lemma="Daishowa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Daishow_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Daishowa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Daishow_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Daishow_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Daishowa_^(prohlášení_islámských_duchovních)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Daishowa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="daishowa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Daishowa_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-005-p11s6w23">
 <src.rf>manual</src.rf>

@@ -1406,20 +1406,7 @@
 <LM>w#w-ln94209-59-p3s3Bw30</LM>
 </w.rf>
 <form>BRUG</form>
-<tag>
-<AM lemma="BRUG_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="BRUG_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BRUG_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BRUG_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Brug_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Brugalsko_:B_;G" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Bruga" src="auto">NNFP2-----A----</AM>
-<AM lemma="Brug_:B_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Brug_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Brug" src="auto">NNMS1-----A----</AM>
-<AM lemma="Brug" src="auto">NNIS1-----A----</AM>
-<AM lemma="brug" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="BRUG_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94209-59-p3s3Bw31">
 <src.rf>manual</src.rf>
@@ -2106,20 +2093,7 @@
 <LM>w#w-ln94209-59-p5s2w12</LM>
 </w.rf>
 <form>BRUG</form>
-<tag>
-<AM lemma="BRUG_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="BRUG_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BRUG_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BRUG_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Brug_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Brugalsko_:B_;G" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Bruga" src="auto">NNFP2-----A----</AM>
-<AM lemma="Brug_:B_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Brug_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Brug" src="auto">NNMS1-----A----</AM>
-<AM lemma="Brug" src="auto">NNIS1-----A----</AM>
-<AM lemma="brug" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="BRUG_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94209-59-p5s2w13">
 <src.rf>manual</src.rf>

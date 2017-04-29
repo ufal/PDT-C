@@ -43,17 +43,7 @@
 <LM>w#w-ln94206-86-p1s1w4</LM>
 </w.rf>
 <form>makedonsku</form>
-<tag>
-<AM lemma="makedonsko" src="orig">NNNS6-----A----</AM>
-<AM lemma="makedonsko_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="makedonsko_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="makedonsk" src="auto">NNIS2-----A----</AM>
-<AM lemma="makedonsko" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="makedonska" src="auto">NNFS4-----A----</AM>
-<AM lemma="makedonsk" src="auto">NNIS6-----A----</AM>
-<AM lemma="makedonsk_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="makedonsko" src="auto">NNNS3-----A----</AM>
-</tag>
+<tag lemma="makedonsko" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 </s>
 <s id="m-ln94206-86-p2s1A">
@@ -1160,17 +1150,7 @@
 <LM>w#w-ln94206-86-p5s1w6</LM>
 </w.rf>
 <form>jihomakedonského</form>
-<tag>
-<AM lemma="jihomakedonský" src="orig">AANS2----1A----</AM>
-<AM lemma="jihomakedonský" src="auto">AAIS2----1A----</AM>
-<AM lemma="jihomakedonský" src="auto">AAMS2----1A----</AM>
-<AM lemma="jihomakedonský" src="auto">AAMS4----1A----</AM>
-<AM lemma="jihomakedonský" src="auto" recommended="1">AANS2----1A----</AM>
-<AM lemma="jihomakedonský_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="jihomakedonský_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="jihomakedonský_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="jihomakedonský_^(*3it)" src="auto">AAIS2----1A----</AM>
-</tag>
+<tag lemma="jihomakedonský" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln94206-86-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1186,18 +1166,7 @@
 <LM>w#w-ln94206-86-p5s1w8</LM>
 </w.rf>
 <form>Štipu</form>
-<tag>
-<AM lemma="Štip_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Štip" src="auto">NNIS2-----A----</AM>
-<AM lemma="Štip" src="auto">NNIS6-----A----</AM>
-<AM lemma="Štip_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Štip_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Štip" src="auto">NNIS3-----A----</AM>
-<AM lemma="Štipa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Štip" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Štipo" src="auto">NNNS6-----A----</AM>
-<AM lemma="štipu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Štip_;G" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-86-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1240,17 +1209,7 @@
 <LM>w#w-ln94206-86-p5s1w13</LM>
 </w.rf>
 <form>grlo</form>
-<tag>
-<AM lemma="grlo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="grlův_;Y_^(*3el)" src="auto">A2--------A----</AM>
-<AM lemma="grlo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="grlo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="grlo-2_;G" src="auto" recommended="1">NNNS4-----A----</AM>
-<AM lemma="grlo-2_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="grt_:W" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="grt_:T" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="grt" src="auto">VpNS---XR-AA---</AM>
-</tag>
+<tag lemma="grlo_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94206-86-p5s1w14">
 <src.rf>manual</src.rf>
@@ -2382,18 +2341,7 @@
 <LM>w#w-ln94206-86-p7s2w22</LM>
 </w.rf>
 <form>Štipu</form>
-<tag>
-<AM lemma="Štip_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Štip" src="auto">NNIS2-----A----</AM>
-<AM lemma="Štip" src="auto">NNIS6-----A----</AM>
-<AM lemma="Štip_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Štip_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Štip" src="auto">NNIS3-----A----</AM>
-<AM lemma="Štipa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Štip" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Štipo" src="auto">NNNS6-----A----</AM>
-<AM lemma="štipu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Štip_;G" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-86-p7s2w23">
 <src.rf>manual</src.rf>
@@ -2887,18 +2835,7 @@
 <LM>w#w-ln94206-86-p9s1w7</LM>
 </w.rf>
 <form>Štipu</form>
-<tag>
-<AM lemma="Štip_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Štip" src="auto">NNIS2-----A----</AM>
-<AM lemma="Štip" src="auto">NNIS6-----A----</AM>
-<AM lemma="Štip_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Štip_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Štip" src="auto">NNIS3-----A----</AM>
-<AM lemma="Štipa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Štip" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Štipo" src="auto">NNNS6-----A----</AM>
-<AM lemma="štipu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Štip_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94206-86-p9s1w8">
 <src.rf>manual</src.rf>

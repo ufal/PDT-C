@@ -135,16 +135,7 @@
 <LM>w#w-ln94200-63-p2s1Bw3</LM>
 </w.rf>
 <form>ikr</form>
-<tag>
-<AM lemma="ikr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ikr-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ikr" src="auto">NNIS1-----A----</AM>
-<AM lemma="ikr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ikr" src="auto">NNIS4-----A----</AM>
-<AM lemma="ikrajina_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ikr" src="auto">NNMS1-----A----</AM>
-<AM lemma="ikr_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="ikr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-63-p2s1Bw4">
 <src.rf>manual</src.rf>

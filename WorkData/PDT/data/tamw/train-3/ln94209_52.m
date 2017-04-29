@@ -117,20 +117,7 @@
 <LM>w#w-ln94209-52-p2s1Aw7</LM>
 </w.rf>
 <form>Zeit</form>
-<tag>
-<AM lemma="Zeit_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Zeit_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zeit_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Zeit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Zeit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Zeit_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Zeit_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zeit_;R_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="zeit" src="auto">NNMS1-----A----</AM>
-<AM lemma="zeit-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="zeit-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="zeitelefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Zeit_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94209-52-p2s1Aw8">
 <src.rf>manual</src.rf>
@@ -582,20 +569,7 @@
 <LM>w#w-ln94209-52-p2s1Cw52</LM>
 </w.rf>
 <form>Zeit</form>
-<tag>
-<AM lemma="Zeit_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Zeit_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zeit_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Zeit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Zeit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Zeit_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Zeit_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zeit_;R_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="zeit" src="auto">NNMS1-----A----</AM>
-<AM lemma="zeit-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="zeit-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="zeitelefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Zeit_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94209-52-p2s1Cw53">
 <src.rf>manual</src.rf>

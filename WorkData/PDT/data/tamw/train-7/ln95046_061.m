@@ -767,18 +767,7 @@
 <LM>w#w-ln95046-061-p2s5w4</LM>
 </w.rf>
 <form>Merec</form>
-<tag>
-<AM lemma="Merec_;K_^(strana)" src="orig">NNXXX-----A----</AM>
-<AM lemma="Merec" src="auto">NNIS1-----A----</AM>
-<AM lemma="Merec_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Merec" src="auto">NNIS4-----A----</AM>
-<AM lemma="Merec_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Merec_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Merec_;K_^(strana)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Merec_;K_^(strana)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Merec_;K_^(strana)" src="auto">NNIS1-----A----</AM>
-<AM lemma="merec" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Merec_;K_^(strana)" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95046-061-p2s5w5">
 <src.rf>manual</src.rf>
@@ -786,20 +775,7 @@
 <LM>w#w-ln95046-061-p2s5w5</LM>
 </w.rf>
 <form>Dedi</form>
-<tag>
-<AM lemma="Dedi_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ded" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Dedi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dedi_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Deď" src="auto">NNFP1-----A---1</AM>
-<AM lemma="Deď" src="auto">NNFS2-----A----</AM>
-<AM lemma="Deď" src="auto">NNFS2-----A---1</AM>
-<AM lemma="Deď" src="auto">NNFS3-----A----</AM>
-<AM lemma="Deď" src="auto">NNFS6-----A----</AM>
-<AM lemma="dedi" src="auto">NNMS1-----A----</AM>
-<AM lemma="dejít_,x" src="auto">Vi-S---2--A---6</AM>
-<AM lemma="dejít_,x" src="auto">Vi-S---3--A---6</AM>
-</tag>
+<tag lemma="Dedi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-061-p2s5w6">
 <src.rf>manual</src.rf>

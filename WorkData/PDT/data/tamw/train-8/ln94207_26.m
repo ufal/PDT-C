@@ -714,17 +714,7 @@
 <LM>w#w-ln94207-26-p2s5w15</LM>
 </w.rf>
 <form>Moskovskije</form>
-<tag>
-<AM lemma="Moskovskije_;R_,t" src="orig">AAFP1----1A----</AM>
-<AM lemma="Moskovskít" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Moskovskij_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Moskovskij_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Moskovskijá_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Moskovskija_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Moskovskij_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Moskovskije_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="moskovskije" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Moskovskije_;R_,t" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln94207-26-p2s5w16">
 <src.rf>manual</src.rf>

@@ -505,18 +505,7 @@
 <LM>w#w-mf930709-117-p2s2w5</LM>
 </w.rf>
 <form>Rachera</form>
-<tag>
-<AM lemma="Racher_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Racher_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Racher_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rachera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Racher" src="auto">NNMS4-----A----</AM>
-<AM lemma="Racher" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rachera" src="auto">NNFS1-----A----</AM>
-<AM lemma="Racher_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rachero" src="auto">NNNS2-----A----</AM>
-<AM lemma="rachera" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Racher_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-117-p2s2w6">
 <src.rf>manual</src.rf>

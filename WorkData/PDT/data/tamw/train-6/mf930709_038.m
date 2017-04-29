@@ -209,18 +209,7 @@
 <LM>w#w-mf930709-038-p2s2w3</LM>
 </w.rf>
 <form>Ákos</form>
-<tag>
-<AM lemma="Ákos_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ákos_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ákos_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ákos_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ákos_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ákos_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="Ákos" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ákos" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ákos_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ákos" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ákos_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-038-p2s2w4">
 <src.rf>manual</src.rf>

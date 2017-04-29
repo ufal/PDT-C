@@ -845,18 +845,7 @@
 <LM>w#w-ln94207-113-p3s1w9</LM>
 </w.rf>
 <form>Whitleyho</form>
-<tag>
-<AM lemma="Whitley_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Whitley_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Whitley_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Whitley_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Whitley_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Whitley_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Whitle_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Whitley_;S_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Whitley_;S_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="whitleyho" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Whitley_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-113-p3s1w10">
 <src.rf>manual</src.rf>
@@ -864,18 +853,7 @@
 <LM>w#w-ln94207-113-p3s1w10</LM>
 </w.rf>
 <form>Striebera</form>
-<tag>
-<AM lemma="Strieber_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Strieber_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Strieber_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Striebera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strieber" src="auto">NNMS4-----A----</AM>
-<AM lemma="Strieber" src="auto">NNMS2-----A----</AM>
-<AM lemma="Striebera" src="auto">NNFS1-----A----</AM>
-<AM lemma="Strieber_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Striebero" src="auto">NNNS2-----A----</AM>
-<AM lemma="striebera" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Strieber_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-113-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1601,18 +1579,7 @@
 <LM>w#w-ln94207-113-p3s4w23</LM>
 </w.rf>
 <form>Lakmé</form>
-<tag>
-<AM lemma="Lakmé_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Lakmé_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Lakmý" src="auto">AANS1----1A----</AM>
-<AM lemma="Lakmý" src="auto">AAFS2----1A----</AM>
-<AM lemma="Lakmý" src="auto">AANS4----1A----</AM>
-<AM lemma="Lakmý" src="auto">AAFS6----1A----</AM>
-<AM lemma="Lakmý" src="auto">AAIP4----1A----</AM>
-<AM lemma="Lakmý" src="auto">AAIP1----1A----</AM>
-<AM lemma="Lakmý" src="auto">AAMP4----1A----</AM>
-<AM lemma="lakmé" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lakmé_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-113-p3s4w24">
 <src.rf>manual</src.rf>
@@ -1737,18 +1704,7 @@
 <LM>w#w-ln94207-113-p3s5Bw2</LM>
 </w.rf>
 <form>Hunger</form>
-<tag>
-<AM lemma="Hunger_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Hunger_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hunger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hunger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Hunžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hunger_;m_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Hunger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Hunger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hunger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="hunger" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hunger_;m_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94207-113-p3s5Bw3">
 <src.rf>manual</src.rf>

@@ -1959,18 +1959,7 @@
 <LM>w#w-ln95046-046-p4s2w23</LM>
 </w.rf>
 <form>Amintiny</form>
-<tag>
-<AM lemma="Amintin_;Y_^(*2a)" src="orig">AUFS2F---------</AM>
-<AM lemma="Amintina" src="auto">NNFS2-----A----</AM>
-<AM lemma="Amintina" src="auto">NNFP4-----A----</AM>
-<AM lemma="Amintina" src="auto">NNFP1-----A----</AM>
-<AM lemma="Amintina_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Amintina_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="Amintina_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Amintiny" src="auto">NNFP4-----A----</AM>
-<AM lemma="Amintina" src="auto">CyFS2----------</AM>
-<AM lemma="amintiny" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Amintin_;Y_^(*2a)" src="orig" selected="1">AUFS2F---------</tag>
 </m>
 <m id="m-ln95046-046-p4s2w24">
 <src.rf>manual</src.rf>
@@ -2095,18 +2084,7 @@
 <LM>w#w-ln95046-046-p4s2w37</LM>
 </w.rf>
 <form>Exsultate</form>
-<tag>
-<AM lemma="exsultate_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Exsultate_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Exsultate_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Exsultate_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Exsultate_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Exsultate_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Exsultást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Exsultate_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Exsultate_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="exsultate" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="exsultate_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95046-046-p4s2w38">
 <src.rf>manual</src.rf>
@@ -2122,17 +2100,7 @@
 <LM>w#w-ln95046-046-p4s2w39</LM>
 </w.rf>
 <form>jubilate</form>
-<tag>
-<AM lemma="jubilate_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="jubilate_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="jubilate_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="jubilate_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="jubilate_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="jubilate_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="jubilást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="jubilate_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="jubilate_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="jubilate_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95046-046-p4s2w40">
 <src.rf>manual</src.rf>
@@ -2883,18 +2851,7 @@
 <LM>w#w-ln95046-046-p4s6w8</LM>
 </w.rf>
 <form>dove</form>
-<tag>
-<AM lemma="dove_,t" src="orig">Db-------------</AM>
-<AM lemma="dov_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="dove-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="dove_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="dove_,t" src="auto" recommended="1">VB-S---3P-AA---</AM>
-<AM lemma="dove_,t" src="auto">Vf--------A----</AM>
-<AM lemma="dove_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="dove_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="dove_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="dvát_,n_,x" src="auto">VB-S---3P-AA---</AM>
-</tag>
+<tag lemma="dove_,t" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95046-046-p4s6w9">
 <src.rf>manual</src.rf>
@@ -2987,18 +2944,7 @@
 <LM>w#w-ln95046-046-p4s9w4</LM>
 </w.rf>
 <form>Clarton</form>
-<tag>
-<AM lemma="Clarton_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Clarton_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Clarton" src="auto">NNIS1-----A----</AM>
-<AM lemma="Clarton_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Clarton_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Clarton" src="auto">NNIS4-----A----</AM>
-<AM lemma="Clarton-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Clarton-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Clarton_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="clarton" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Clarton_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-046-p4s9w5">
 <src.rf>manual</src.rf>

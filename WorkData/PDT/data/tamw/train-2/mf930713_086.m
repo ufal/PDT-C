@@ -126,15 +126,7 @@
 <LM>w#w-mf930713-086-p2s2Aw3</LM>
 </w.rf>
 <form>jkl</form>
-<tag>
-<AM lemma="jkl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jkl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jkl-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jknout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="jkl" src="auto">NNIS4-----A----</AM>
-<AM lemma="jci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jkl" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="jkl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930713-086-p2s2Aw4">
 <src.rf>manual</src.rf>
@@ -150,10 +142,7 @@
 <LM>w#w-mf930713-086-p2s2Aw5</LM>
 </w.rf>
 <form>jh</form>
-<tag>
-<AM lemma="jh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jh-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-</tag>
+<tag lemma="jh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930713-086-p2s2Aw6">
 <src.rf>manual</src.rf>

@@ -303,18 +303,7 @@
 <LM>w#w-ln95046-072-p2s1Bw29</LM>
 </w.rf>
 <form>Collenettem</form>
-<tag>
-<AM lemma="Collenette_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Collenett" src="auto">NNIS7-----A----</AM>
-<AM lemma="Collenett" src="auto">NNMS7-----A----</AM>
-<AM lemma="Collenett_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Collenett_^(*3ý)" src="auto">NNFP3-----A----</AM>
-<AM lemma="Collenetto" src="auto">NNNS7-----A----</AM>
-<AM lemma="Collenet" src="auto">NNNS7-----A----</AM>
-<AM lemma="Collenett" src="auto">NNFP3-----A----</AM>
-<AM lemma="Collenetet" src="auto">NNIS7-----A----</AM>
-<AM lemma="collenettem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Collenette_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-072-p2s1Bw30">
 <src.rf>manual</src.rf>

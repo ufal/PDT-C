@@ -663,18 +663,7 @@
 <LM>w#w-ln95045-047-p3s1w26</LM>
 </w.rf>
 <form>Kabanicha</form>
-<tag>
-<AM lemma="Kabanicha_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Kabanich_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kabanicha_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kabanicha" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Kabanich_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kabanich_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kabanich_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kabanich" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kabanicho" src="auto">NNNS2-----A----</AM>
-<AM lemma="kabanicha" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kabanicha_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-047-p3s1w27">
 <src.rf>manual</src.rf>
@@ -714,19 +703,7 @@
 <LM>w#w-ln95045-047-p3s1w31</LM>
 </w.rf>
 <form>Dikoj</form>
-<tag>
-<AM lemma="Dikoj_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dikoj" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dikoj" src="auto">NNFS4-----A----</AM>
-<AM lemma="Dikoj" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dikoj" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dikoj_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dikoj_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dikoj_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dikě" src="auto">A2--------A----</AM>
-<AM lemma="dikoj" src="auto">NNMS1-----A----</AM>
-<AM lemma="dikoj-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="Dikoj_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-047-p3s1w32">
 <src.rf>manual</src.rf>
@@ -3252,18 +3229,7 @@
 <LM>w#w-ln95045-047-p6s1w9</LM>
 </w.rf>
 <form>English</form>
-<tag>
-<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="English_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
-<AM lemma="English_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="English_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="English_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="English_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="English_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="english" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="English_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95045-047-p6s1w10">
 <src.rf>manual</src.rf>
@@ -4220,16 +4186,7 @@
 <LM>w#w-ln95045-047-p6s7w8</LM>
 </w.rf>
 <form>Rechtor</form>
-<tag>
-<AM lemma="Rechtor_;m" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rechtor" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rechtor" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rechtor" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Rechtor_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rechtor_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Monitor-1_;K_,t_^(souč._názvů,_např._Christian_Rechtor)" src="auto">NNISX-----A----</AM>
-<AM lemma="rechtor" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rechtor_;m" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-047-p6s7w9">
 <src.rf>manual</src.rf>

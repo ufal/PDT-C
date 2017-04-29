@@ -1051,15 +1051,7 @@
 <LM>w#w-ln94202-34-p4s3w14</LM>
 </w.rf>
 <form>home</form>
-<tag>
-<AM lemma="home_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="home_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="home_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="home_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="home_,t" src="auto">Vf--------A----</AM>
-<AM lemma="home_,t" src="auto" recommended="1">PZXXX----------</AM>
-<AM lemma="home-2_;K_,t" src="auto">AAXXX----1A----</AM>
-</tag>
+<tag lemma="home_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94202-34-p4s3w15">
 <src.rf>manual</src.rf>

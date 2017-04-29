@@ -432,16 +432,7 @@
 <LM>w#w-ln94200-76-p2s3w6</LM>
 </w.rf>
 <form>heart</form>
-<tag>
-<AM lemma="heart_,t" src="orig">NNNSX-----A----</AM>
-<AM lemma="heart_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="heart" src="auto">NNIS1-----A----</AM>
-<AM lemma="heart_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="heart" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="hearta_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="hearta" src="auto">NNFP2-----A----</AM>
-<AM lemma="heart_;m_,t" src="auto">NNNXX-----A----</AM>
-</tag>
+<tag lemma="heart_,t" src="orig" selected="1">NNNSX-----A----</tag>
 </m>
 <m id="m-ln94200-76-p2s3w7">
 <src.rf>manual</src.rf>
@@ -449,16 +440,7 @@
 <LM>w#w-ln94200-76-p2s3w7</LM>
 </w.rf>
 <form>wasn</form>
-<tag>
-<AM lemma="be_,t_^(angl._být)" src="orig">VpXS---XR-NA---</AM>
-<AM lemma="be_,t_^(angl._být)" src="auto" recommended="1">VpXS---XR-NA---</AM>
-<AM lemma="wasn-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="wasn_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="wasn" src="auto">NNIS1-----A----</AM>
-<AM lemma="wasna" src="auto">NNFP2-----A----</AM>
-<AM lemma="wasn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="wasn_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="be_,t_^(angl._být)" src="orig" selected="1">VpXS---XR-NA---</tag>
 </m>
 <m id="m-ln94200-76-p2s3w8">
 <src.rf>manual</src.rf>

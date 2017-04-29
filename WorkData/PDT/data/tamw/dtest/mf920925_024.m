@@ -1922,17 +1922,7 @@
 <LM>w#w-mf920925-024-p6s7w6</LM>
 </w.rf>
 <form>deus</form>
-<tag>
-<AM lemma="deus_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="deus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="deus_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="deus_;L_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="deus_,t" src="auto" recommended="1">NNISX-----A----</AM>
-<AM lemma="deus_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="deus_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="deus" src="auto">NNIS1-----A----</AM>
-<AM lemma="deus" src="auto">NNIS4-----A----</AM>
-</tag>
+<tag lemma="deus_,t" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-024-p6s7w7">
 <src.rf>manual</src.rf>
@@ -1948,17 +1938,7 @@
 <LM>w#w-mf920925-024-p6s7w8</LM>
 </w.rf>
 <form>machina</form>
-<tag>
-<AM lemma="machina_,t_^(deus_ex_machina)" src="orig">NNFS1-----A----</AM>
-<AM lemma="machina" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="machin_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="machina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="machin_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="machina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="machina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="machin_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="machina_;K" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="machina_,t_^(deus_ex_machina)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-024-p6s7w9">
 <src.rf>manual</src.rf>

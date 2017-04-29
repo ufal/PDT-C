@@ -3983,19 +3983,7 @@
 <LM>w#w-cmpr9410-018-p13s4w16</LM>
 </w.rf>
 <form>IH</form>
-<tag>
-<AM lemma="IH_:B_;K_^(Interhotel)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IH_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IH_:B_;K_^(Interhotel)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Ih" src="auto">NNMS1-----A----</AM>
-<AM lemma="ih" src="auto">NNIS1-----A----</AM>
-<AM lemma="ih" src="auto">NNIS4-----A----</AM>
-<AM lemma="ih-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="iha" src="auto">NNFP2-----A----</AM>
-<AM lemma="ihlava_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ihodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ihodina_:B_,x" src="auto">NNFXX-----A---9</AM>
-</tag>
+<tag lemma="IH_:B_;K_^(Interhotel)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9410-018-p13s4w17">
 <src.rf>manual</src.rf>

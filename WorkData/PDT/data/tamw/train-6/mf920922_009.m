@@ -221,12 +221,7 @@
 <LM>w#w-mf920922-009-p2s1w15</LM>
 </w.rf>
 <form>Sajaše</form>
-<tag>
-<AM lemma="Sajaš_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Sajaš_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Sajaš_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="sajaše" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sajaš_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-009-p2s1w16">
 <src.rf>manual</src.rf>

@@ -755,19 +755,7 @@
 <LM>w#w-ln94200-115-p2s4w23</LM>
 </w.rf>
 <form>Reece</form>
-<tag>
-<AM lemma="Reece_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reec" src="auto">NNFP4-----A----</AM>
-<AM lemma="Reec" src="auto">NNFS2-----A----</AM>
-<AM lemma="Reec_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Reec_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Reece" src="auto">Db-------------</AM>
-<AM lemma="Reeka" src="auto">NNFS3-----A----</AM>
-<AM lemma="Reeka" src="auto">NNFS6-----A----</AM>
-<AM lemma="Reeka_;Y" src="auto">NNFS3-----A----</AM>
-<AM lemma="reece" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="reece-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto">NNFXX-----A---8</AM>
-</tag>
+<tag lemma="Reece_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-115-p2s4w24">
 <src.rf>manual</src.rf>

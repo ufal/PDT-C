@@ -739,23 +739,7 @@
 <LM>w#w-mf930709-132-p5s3w4</LM>
 </w.rf>
 <form>Sašská</form>
-<tag>
-<AM lemma="sašský" src="orig">AAXXX----1A----</AM>
-<AM lemma="Sašskat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Sašská_;G" src="auto">AAFS1----1A----</AM>
-<AM lemma="Sašská_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sašský" src="auto">AAFS1----1A----</AM>
-<AM lemma="Sašský" src="auto">AANP1----1A----</AM>
-<AM lemma="Sašský" src="auto">AANP4----1A----</AM>
-<AM lemma="Sašský_;G" src="auto">AAFS1----1A----</AM>
-<AM lemma="Sašský_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="sašská" src="auto">NNMS1-----A----</AM>
-<AM lemma="sašský" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="sašský" src="auto">AAFS5----1A----</AM>
-<AM lemma="sašský" src="auto">AANP1----1A----</AM>
-<AM lemma="sašský" src="auto">AANP4----1A----</AM>
-<AM lemma="sašský" src="auto">AANP5----1A----</AM>
-</tag>
+<tag lemma="sašský" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930709-132-p5s3w5">
 <src.rf>manual</src.rf>

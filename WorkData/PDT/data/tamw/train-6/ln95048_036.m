@@ -2984,18 +2984,7 @@
 <LM>w#w-ln95048-036-p5s2w8</LM>
 </w.rf>
 <form>Mapplethorpea</form>
-<tag>
-<AM lemma="Mapplethorpe_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Mapplethorpe_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Mapplethorpea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mapplethorpea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mapplethorpea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mapplethorpea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mapplethorpe_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Mapplethorpe-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mapplethorpea_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="mapplethorpea" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mapplethorpe_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-036-p5s2w9">
 <src.rf>manual</src.rf>
@@ -3231,18 +3220,7 @@
 <LM>w#w-ln95048-036-p5s4w7</LM>
 </w.rf>
 <form>Mapplethorpea</form>
-<tag>
-<AM lemma="Mapplethorpe_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Mapplethorpe_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Mapplethorpea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mapplethorpea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mapplethorpea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mapplethorpea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mapplethorpe_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Mapplethorpe-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mapplethorpea_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="mapplethorpea" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mapplethorpe_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-036-p5s4w8">
 <src.rf>manual</src.rf>
@@ -3420,17 +3398,7 @@
 <LM>w#w-ln95048-036-p5s5w21</LM>
 </w.rf>
 <form>Krimse</form>
-<tag>
-<AM lemma="Krims_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Krims_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Krims_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Krims-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Krims" src="auto">NNIS6-----A----</AM>
-<AM lemma="Krimse_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Krimse" src="auto">NNFS2-----A----</AM>
-<AM lemma="Krims_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="krimse" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Krims_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-036-p5s5w22">
 <src.rf>manual</src.rf>
@@ -4035,17 +4003,7 @@
 <LM>w#w-ln95048-036-p5s10w10</LM>
 </w.rf>
 <form>Angelicovi</form>
-<tag>
-<AM lemma="Angelico_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Angelic_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Angelic" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Angelic_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Angelica_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Angelic_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Angelic" src="auto">NNMS6-----A----</AM>
-<AM lemma="Angelicův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="angelicovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Angelico_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95048-036-p5s10w11">
 <src.rf>manual</src.rf>

@@ -2797,17 +2797,7 @@
 <LM>w#w-mf920925-066-p5s2w24</LM>
 </w.rf>
 <form>camfrňoury</form>
-<tag>
-<AM lemma="camfrňour" src="orig">NNIP1-----A----</AM>
-<AM lemma="camfrňoura" src="auto">NNFS2-----A----</AM>
-<AM lemma="camfrňoura" src="auto">NNFP1-----A----</AM>
-<AM lemma="camfrňoura" src="auto">NNFP4-----A----</AM>
-<AM lemma="camfrňoura_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="camfrňoury_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="camfrňourus" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="camfrňoura_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="camfrňoura_;G" src="auto">NNFS2-----A----</AM>
-</tag>
+<tag lemma="camfrňour" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920925-066-p5s2w25">
 <src.rf>manual</src.rf>

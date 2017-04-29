@@ -306,17 +306,7 @@
 <LM>w#w-ln95049-067-p3s1Bw9</LM>
 </w.rf>
 <form>maghribských</form>
-<tag>
-<AM lemma="maghribský_;G" src="orig">NNMP2-----A----</AM>
-<AM lemma="maghribský" src="auto">AAFP2----1A----</AM>
-<AM lemma="maghribský" src="auto">AAIP2----1A----</AM>
-<AM lemma="maghribský" src="auto">AAFP6----1A----</AM>
-<AM lemma="maghribský" src="auto" recommended="1">AAMP2----1A----</AM>
-<AM lemma="maghribský" src="auto">AANP2----1A----</AM>
-<AM lemma="maghribský" src="auto">AAIP6----1A----</AM>
-<AM lemma="maghribský_^(*2t)" src="auto">AAIP2----1A----</AM>
-<AM lemma="maghribský_^(*2t)" src="auto">AAFP2----1A----</AM>
-</tag>
+<tag lemma="maghribský_;G" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95049-067-p3s1Bw10">
 <src.rf>manual</src.rf>
@@ -3290,18 +3280,7 @@
 <LM>w#w-ln95049-067-p10s1Aw3</LM>
 </w.rf>
 <form>Nelliyotukonam</form>
-<tag>
-<AM lemma="Nelliyotukonam_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nelliyotukonam" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nelliyotukonam" src="auto">NNIS4-----A----</AM>
-<AM lemma="Nelliyotukonam_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nelliyotukonam_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Nelliyotukonam_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nelliyotukonam" src="auto">NNXXX-----A----</AM>
-<AM lemma="Nelliyotukonam" src="auto">Db-------------</AM>
-<AM lemma="Nelliyotukonam_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="nelliyotukonam" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nelliyotukonam_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-067-p10s1Aw4">
 <src.rf>manual</src.rf>
@@ -3341,18 +3320,7 @@
 <LM>w#w-ln95049-067-p10s1Aw8</LM>
 </w.rf>
 <form>Social</form>
-<tag>
-<AM lemma="Social_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Social_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Social_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Social_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Escorial-1_;G_^(El_Social,_šp._král._sídlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Social_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Social_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Social_;R_,t_^(např._F.Times)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Social_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="social" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Social_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95049-067-p10s1Aw9">
 <src.rf>manual</src.rf>

@@ -888,15 +888,7 @@
 <LM>w#w-cmpr9415-027-p4s5w26</LM>
 </w.rf>
 <form>Groupe</form>
-<tag>
-<AM lemma="Groupe_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Groupat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Groupe_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Groupe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Groupe_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Groupe_;Y_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="groupe" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Groupe_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9415-027-p4s5w27">
 <src.rf>manual</src.rf>
@@ -904,18 +896,7 @@
 <LM>w#w-cmpr9415-027-p4s5w27</LM>
 </w.rf>
 <form>Charbonnages</form>
-<tag>
-<AM lemma="Charbonnage_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Charbonnages_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Charbonnage_;K_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Charbonnage_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Charbonnage_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Charbonnages_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Charbonnages_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Charbonnages" src="auto">NNIS4-----A----</AM>
-<AM lemma="Charbonnages" src="auto">NNIS1-----A----</AM>
-<AM lemma="charbonnages" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Charbonnage_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-cmpr9415-027-p4s5w28">
 <src.rf>manual</src.rf>
@@ -1081,17 +1062,7 @@
 <LM>w#w-cmpr9415-027-p6s1w11</LM>
 </w.rf>
 <form>noor</form>
-<tag>
-<AM lemma="noor_;K_^(Koh-i-noor)" src="orig">NNXXX-----A----</AM>
-<AM lemma="noor_;K_^(Koh-i-noor)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="noor_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="noor_,t" src="auto">RR--X----------</AM>
-<AM lemma="noor" src="auto">NNIS1-----A----</AM>
-<AM lemma="noor" src="auto">NNMS1-----A----</AM>
-<AM lemma="noor" src="auto">NNIS4-----A----</AM>
-<AM lemma="noor_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="noor_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="noor_;K_^(Koh-i-noor)" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-027-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1943,22 +1914,7 @@
 <LM>w#w-cmpr9415-027-p8s2w12</LM>
 </w.rf>
 <form>JIPO</form>
-<tag>
-<AM lemma="JIPO_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="JIPO_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="JIPO_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="JIPO_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="JIPO_:B_;m_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Jipo-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Jipo_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Jipo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Jipo-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Jipo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Jipo" src="auto">NNNS4-----A----</AM>
-<AM lemma="po-2_:B_,x_^(Jipondělí)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Jipo_;m" src="auto">NNNXX-----A----</AM>
-<AM lemma="jipo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="JIPO_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-cmpr9415-027-p8s2w13">
 <src.rf>manual</src.rf>
@@ -2088,22 +2044,7 @@
 <LM>w#w-cmpr9415-027-p8s3w8</LM>
 </w.rf>
 <form>JIPO</form>
-<tag>
-<AM lemma="JIPO_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="JIPO_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="JIPO_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="JIPO_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="JIPO_:B_;m_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Jipo-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Jipo_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Jipo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Jipo-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Jipo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Jipo" src="auto">NNNS4-----A----</AM>
-<AM lemma="po-2_:B_,x_^(Jipondělí)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Jipo_;m" src="auto">NNNXX-----A----</AM>
-<AM lemma="jipo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="JIPO_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-cmpr9415-027-p8s3w9">
 <src.rf>manual</src.rf>

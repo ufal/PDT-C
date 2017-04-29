@@ -2289,13 +2289,7 @@
 <LM>w#w-ln95046-043-p4s5w20</LM>
 </w.rf>
 <form>postmalířském</form>
-<tag>
-<AM lemma="postmalířský" src="orig">AAIS6----1A----</AM>
-<AM lemma="postmalířský" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="postmalířský" src="auto">AAMS6----1A----</AM>
-<AM lemma="postmalířský" src="auto">AANS6----1A----</AM>
-<AM lemma="postmalířský_;S" src="auto">NNMS6-----A----</AM>
-</tag>
+<tag lemma="postmalířský" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-ln95046-043-p4s5w21">
 <src.rf>manual</src.rf>

@@ -543,18 +543,7 @@
 <LM>w#w-ln94200-51-p2s3w11</LM>
 </w.rf>
 <form>Czarnikow</form>
-<tag>
-<AM lemma="Czarnikow_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Czarnikow_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Czarnikow_;G_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Czarnikow" src="auto">NNFXX-----A----</AM>
-<AM lemma="know_,t_^(Czarnikow_how)" src="auto">NNNXX-----A----</AM>
-<AM lemma="how_,t_^(know_Czarnikow)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Czarnikow_;m_,t" src="auto">Db-------------</AM>
-<AM lemma="Czarnikow_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Czarnikow_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="czarnikow" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Czarnikow_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-51-p2s3w12">
 <src.rf>manual</src.rf>
@@ -752,18 +741,7 @@
 <LM>w#w-ln94200-51-p3s2w5</LM>
 </w.rf>
 <form>Czarnikowa</form>
-<tag>
-<AM lemma="Czarnikow_;K" src="orig">NNMS2-----A----</AM>
-<AM lemma="Czarnikow_;K" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Czarnikowa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Czarnikow_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Czarnikowa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Czarnikow_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Czarnikow_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Czarnikowa_^(prohlášení_islámských_duchovních)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Czarnikowa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="czarnikowa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Czarnikow_;K" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-51-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1527,18 +1505,7 @@
 <LM>w#w-ln94200-51-p4s1w9</LM>
 </w.rf>
 <form>Czarnikowa</form>
-<tag>
-<AM lemma="Czarnikow_;K" src="orig">NNMS2-----A----</AM>
-<AM lemma="Czarnikow_;K" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Czarnikowa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Czarnikow_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Czarnikowa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Czarnikow_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Czarnikow_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Czarnikowa_^(prohlášení_islámských_duchovních)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Czarnikowa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="czarnikowa" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Czarnikow_;K" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-51-p4s1w10">
 <src.rf>manual</src.rf>

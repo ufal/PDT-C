@@ -272,16 +272,7 @@
 <LM>w#w-ln94206-70-p2s2w6</LM>
 </w.rf>
 <form>Tatralov</form>
-<tag>
-<AM lemma="Tatralov_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Tatralov_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tatralov_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tatralov" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tatralovo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Tatralov_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Tatralov_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="tatralov" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tatralov_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-70-p2s2w7">
 <src.rf>manual</src.rf>

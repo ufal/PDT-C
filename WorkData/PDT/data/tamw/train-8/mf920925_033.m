@@ -1481,25 +1481,7 @@
 <LM>w#w-mf920925-033-p4s1w21</LM>
 </w.rf>
 <form>MHPR</form>
-<tag>
-<AM lemma="MHPR_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MHPR_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="MHPR_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MHPR-2_:B_;K_,t_^(Rwandská_vlastenecká_fronta)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MHPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MHPR-1_:B_;K_,t_^(Rassemblement_pour_la_République)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MHPR_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MHPR_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Mhpr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mhpr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mhpr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mhpr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mhpr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mhpr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mhpra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mhpr_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="mhpr" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="MHPR_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-mf920925-033-p4s1w22">
 <src.rf>manual</src.rf>

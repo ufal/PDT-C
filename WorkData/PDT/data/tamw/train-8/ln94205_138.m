@@ -69,21 +69,7 @@
 <LM>w#w-ln94205-138-p2s1Aw3</LM>
 </w.rf>
 <form>ip</form>
-<tag>
-<AM lemma="ip-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ip" src="auto">NNIS1-----A----</AM>
-<AM lemma="ip" src="auto">NNIS4-----A----</AM>
-<AM lemma="ip-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ip_;K" src="auto" recommended="1">NNISX-----A----</AM>
-<AM lemma="ip_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ip_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ip_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="ip_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ip_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="ipage_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="ipodnik_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ipopisný_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="ip-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-138-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -888,17 +874,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Deutche</form>
-<tag>
-<AM lemma="Deutsche_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Deutch_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Deutche_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Deutche_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Deutche_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Deutch_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Manche_;G_^(La_Deutche)" src="auto">NNISX-----A----</AM>
-<AM lemma="Deutch_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="deutche" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Deutsche_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-138-p3s3w9">
 <src.rf>manual</src.rf>
@@ -922,18 +898,7 @@
 <LM>w#w-ln94205-138-p3s3w11</LM>
 </w.rf>
 <form>Comerzbank</form>
-<tag>
-<AM lemma="Comerzbank_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Comerzbanka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Comerzbank_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Comerzbank" src="auto">NNIS1-----A----</AM>
-<AM lemma="Comerzbank_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Comerzbank" src="auto">NNIS4-----A----</AM>
-<AM lemma="Comerzbanc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Comerzbank_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Comerzbank_;L" src="auto">NNMS1-----A----</AM>
-<AM lemma="comerzbank" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Comerzbank_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-138-p3s3w12">
 <src.rf>manual</src.rf>

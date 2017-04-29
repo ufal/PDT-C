@@ -990,17 +990,7 @@
 <LM>w#w-ln95045-037-p2s5w7</LM>
 </w.rf>
 <form>vibrapáky</form>
-<tag>
-<AM lemma="vibrapáka" src="orig">NNFS2-----A----</AM>
-<AM lemma="vibrapák" src="auto">NNMP4-----A----</AM>
-<AM lemma="vibrapák" src="auto">NNMP7-----A----</AM>
-<AM lemma="vibrapák" src="auto">NNIP4-----A----</AM>
-<AM lemma="vibrapák" src="auto">NNIP7-----A----</AM>
-<AM lemma="vibrapák" src="auto">NNIP1-----A----</AM>
-<AM lemma="vibrapák_;E" src="auto">NNMP4-----A----</AM>
-<AM lemma="vibrapáka" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="vibrapák_;m" src="auto">NNMP7-----A----</AM>
-</tag>
+<tag lemma="vibrapáka" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-037-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1016,17 +1006,7 @@
 <LM>w#w-ln95045-037-p2s5w9</LM>
 </w.rf>
 <form>hammeringu</form>
-<tag>
-<AM lemma="hammering" src="orig">NNIS2-----A----</AM>
-<AM lemma="hammering" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="hammering" src="auto">NNIS6-----A----</AM>
-<AM lemma="hammering_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="hammering_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="hammering_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="hammering_,t" src="auto">NNIS2-----A----</AM>
-<AM lemma="hammering_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-hammering)" src="auto">NNIS6-----A----</AM>
-</tag>
+<tag lemma="hammering" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-037-p2s5w10">
 <src.rf>manual</src.rf>
@@ -2615,17 +2595,7 @@
 <LM>w#w-ln95045-037-p3s8w18</LM>
 </w.rf>
 <form>gitarová</form>
-<tag>
-<AM lemma="gitarový_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="gitarová_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="gitarový" src="auto">AAFS1----1A----</AM>
-<AM lemma="gitarový" src="auto">AANP1----1A----</AM>
-<AM lemma="gitarový" src="auto">AANP4----1A----</AM>
-<AM lemma="gitarová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="gitarová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="gitarový_,x" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="gitarový" src="auto">AAFS5----1A----</AM>
-</tag>
+<tag lemma="gitarový_,t" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln95045-037-p3s8w19">
 <src.rf>manual</src.rf>

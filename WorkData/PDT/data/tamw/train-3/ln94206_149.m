@@ -2056,25 +2056,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>kvaziterminované</form>
-<tag>
-<AM lemma="kvaziterminovaný_^(*2t)" src="orig">AAIP1----1A----</AM>
-<AM lemma="kvaziterminovaný_^(*2t)" src="auto">AAFP1----1A----</AM>
-<AM lemma="kvaziterminovaný_^(*2t)" src="auto">AAFP4----1A----</AM>
-<AM lemma="kvaziterminovaný_^(*2t)" src="auto">AAFP5----1A----</AM>
-<AM lemma="kvaziterminovaný_^(*2t)" src="auto">AAFS2----1A----</AM>
-<AM lemma="kvaziterminovaný_^(*2t)" src="auto">AAFS3----1A----</AM>
-<AM lemma="kvaziterminovaný_^(*2t)" src="auto">AAFS6----1A----</AM>
-<AM lemma="kvaziterminovaný_^(*2t)" src="auto" recommended="1">AAIP1----1A----</AM>
-<AM lemma="kvaziterminovaný_^(*2t)" src="auto">AAIP4----1A----</AM>
-<AM lemma="kvaziterminovaný_^(*2t)" src="auto">AAIP5----1A----</AM>
-<AM lemma="kvaziterminovaný_^(*2t)" src="auto">AAMP4----1A----</AM>
-<AM lemma="kvaziterminovaný_^(*2t)" src="auto">AANP1----1A---6</AM>
-<AM lemma="kvaziterminovaný_^(*2t)" src="auto">AANP4----1A---6</AM>
-<AM lemma="kvaziterminovaný_^(*2t)" src="auto">AANP5----1A---6</AM>
-<AM lemma="kvaziterminovaný_^(*2t)" src="auto">AANS1----1A----</AM>
-<AM lemma="kvaziterminovaný_^(*2t)" src="auto">AANS4----1A----</AM>
-<AM lemma="kvaziterminovaný_^(*2t)" src="auto">AANS5----1A----</AM>
-</tag>
+<tag lemma="kvaziterminovaný_^(*2t)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln94206-149-p5s6w10">
 <src.rf>manual</src.rf>

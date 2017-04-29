@@ -347,14 +347,7 @@
 <LM>w#w-ln95049-027-p2s2w12</LM>
 </w.rf>
 <form>Havelangemu</form>
-<tag>
-<AM lemma="Havelange_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Havelange_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Havelangem" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Havelangem" src="auto">NNIS3-----A----</AM>
-<AM lemma="Havelange_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="havelangemu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Havelange_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95049-027-p2s2w13">
 <src.rf>manual</src.rf>
@@ -410,18 +403,7 @@
 <LM>w#w-ln95049-027-p2s2w19</LM>
 </w.rf>
 <form>Žunži</form>
-<tag>
-<AM lemma="Žunži_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Žunže" src="auto">NNFS6-----A----</AM>
-<AM lemma="Žunže" src="auto">NNFS4-----A----</AM>
-<AM lemma="Žunži_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Žunž" src="auto">NNFS6-----A----</AM>
-<AM lemma="Žunž" src="auto">NNFS3-----A----</AM>
-<AM lemma="Žunž_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Žunž" src="auto">NNMS3-----A----</AM>
-<AM lemma="Žunž" src="auto">NNMP1-----A----</AM>
-<AM lemma="žunži" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Žunži_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-027-p2s2w20">
 <src.rf>manual</src.rf>
@@ -429,17 +411,7 @@
 <LM>w#w-ln95049-027-p2s2w20</LM>
 </w.rf>
 <form>Ogura</form>
-<tag>
-<AM lemma="Ogura_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ogura" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ogura_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ogur_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ogur" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ogur" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ogura-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ogur_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="ogura" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ogura_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-027-p2s2w21">
 <src.rf>manual</src.rf>

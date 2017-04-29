@@ -3110,18 +3110,7 @@
 <LM>w#w-ln94206-6-p4s1w2</LM>
 </w.rf>
 <form>Horovitz</form>
-<tag>
-<AM lemma="Horovitz_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Horovitz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Horovitz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Horovitz_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Horovitz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Horovitz_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Horovitz_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Horovitz_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Horovitz-1_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="horovitz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Horovitz_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-6-p4s1w3">
 <src.rf>manual</src.rf>
@@ -3713,18 +3702,7 @@
 <LM>w#w-ln94206-6-p4s5w10</LM>
 </w.rf>
 <form>Mediterranée</form>
-<tag>
-<AM lemma="Mediterranée_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Mediterranée_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Mediterranée_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mediterranée_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Mediterranée_;S" src="auto">NNMSX-----A----</AM>
-<AM lemma="Mediterranée_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mediterranée_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Mediterranée" src="auto">NNFS2-----A----</AM>
-<AM lemma="Mediterranée" src="auto">NNFS1-----A----</AM>
-<AM lemma="mediterranée" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mediterranée_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94206-6-p4s5w11">
 <src.rf>manual</src.rf>

@@ -784,18 +784,7 @@
 <LM>w#w-lnd94103-056-p1s6w11</LM>
 </w.rf>
 <form>Gundremmingenu</form>
-<tag>
-<AM lemma="Gundremmingen_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Gundremmingen_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Gundremmingen_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Gundremmingen_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Gundremmingena" src="auto">NNFS4-----A----</AM>
-<AM lemma="Gundremmingen" src="auto">NNIS2-----A----</AM>
-<AM lemma="Gundremmingit_:W" src="auto">VsFS4--XX-AP---</AM>
-<AM lemma="Gundremmingenout" src="auto">VB-S---1P-AA---</AM>
-<AM lemma="Gundremmingena_;Y" src="auto">NNFS4-----A----</AM>
-<AM lemma="gundremmingenu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Gundremmingen_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd94103-056-p1s6w12">
 <src.rf>manual</src.rf>
@@ -1512,18 +1501,7 @@
 <LM>w#w-lnd94103-056-p1s15w6</LM>
 </w.rf>
 <form>Three</form>
-<tag>
-<AM lemma="Three_;G_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Three_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Three_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Three_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Three_;L_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Three_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Three_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Three_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="Three_,t" src="auto" recommended="1">ClXPX----------</AM>
-<AM lemma="three" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Three_;G_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-lnd94103-056-p1s15w7">
 <src.rf>manual</src.rf>
@@ -1979,18 +1957,7 @@
 <LM>w#w-lnd94103-056-p1s21w8</LM>
 </w.rf>
 <form>Authority</form>
-<tag>
-<AM lemma="Authority_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Authorita" src="auto">NNFS2-----A----</AM>
-<AM lemma="Authorita" src="auto">NNFP4-----A----</AM>
-<AM lemma="Authorita" src="auto">NNFP1-----A----</AM>
-<AM lemma="Authorit" src="auto">NNIP4-----A----</AM>
-<AM lemma="Authorit" src="auto">NNIP1-----A----</AM>
-<AM lemma="Authorit" src="auto">NNIP7-----A----</AM>
-<AM lemma="Authorít" src="auto" recommended="1">VsTP---XX-AP---</AM>
-<AM lemma="Authorita_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="authority" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Authority_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94103-056-p1s21w9">
 <src.rf>manual</src.rf>
@@ -2014,18 +1981,7 @@
 <LM>w#w-lnd94103-056-p1s21w11</LM>
 </w.rf>
 <form>Sequoyah</form>
-<tag>
-<AM lemma="Sequoyah_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Sequoyah_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Sequoyah" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sequoyah" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sequoyaha" src="auto">NNFP2-----A----</AM>
-<AM lemma="Sequoyah_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sequoyah_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sequoyah_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sequoyah" src="auto">NNMS1-----A----</AM>
-<AM lemma="sequoyah" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sequoyah_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94103-056-p1s21w12">
 <src.rf>manual</src.rf>
@@ -2233,18 +2189,7 @@
 <LM>w#w-lnd94103-056-p1s23w10</LM>
 </w.rf>
 <form>Curuga</form>
-<tag>
-<AM lemma="Curuga_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Curugo-2_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Curuga_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Curuga" src="auto">NNFS1-----A----</AM>
-<AM lemma="Curug_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Curug" src="auto">NNMS2-----A----</AM>
-<AM lemma="Curug" src="auto">NNMS4-----A----</AM>
-<AM lemma="Curug_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Curuga_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="curuga" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Curuga_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-056-p1s23w11">
 <src.rf>manual</src.rf>
@@ -2341,18 +2286,7 @@
 <LM>w#w-lnd94103-056-p1s23w23</LM>
 </w.rf>
 <form>Urazoko</form>
-<tag>
-<AM lemma="Urazoko_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Urazoko_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Urazoko" src="auto">NNNS1-----A----</AM>
-<AM lemma="Urazoko-1" src="auto">Dg-------1A----</AM>
-<AM lemma="Urazoko_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Urazoko_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Urazoko" src="auto">NNNS4-----A----</AM>
-<AM lemma="Urazoko" src="auto">Dg-------1A----</AM>
-<AM lemma="Urazoko" src="auto">Db-------------</AM>
-<AM lemma="urazoko" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Urazoko_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94103-056-p1s23w24">
 <src.rf>manual</src.rf>
@@ -2680,18 +2614,7 @@
 <LM>w#w-lnd94103-056-p1s27w10</LM>
 </w.rf>
 <form>Hamaoce</form>
-<tag>
-<AM lemma="Hamaoka_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Hamaoce" src="auto">NNFP4-----A----</AM>
-<AM lemma="Hamaoce" src="auto">NNFP1-----A----</AM>
-<AM lemma="Hamaok" src="auto" recommended="1">NNIS6-----A---1</AM>
-<AM lemma="Hamaoce" src="auto">NNFS2-----A----</AM>
-<AM lemma="Hamaoce" src="auto">Dg-------1A----</AM>
-<AM lemma="Hamaoce" src="auto">Db-------------</AM>
-<AM lemma="Hamaoc_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Hamaoc" src="auto">NNFP4-----A---1</AM>
-<AM lemma="hamaoce" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hamaoka_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94103-056-p1s27w11">
 <src.rf>manual</src.rf>
@@ -2731,18 +2654,7 @@
 <LM>w#w-lnd94103-056-p1s28w2</LM>
 </w.rf>
 <form>Šizuoka</form>
-<tag>
-<AM lemma="Šizuoka_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Šizuoko" src="auto">NNNS2-----A----</AM>
-<AM lemma="Šizuok" src="auto">NNMS4-----A----</AM>
-<AM lemma="Šizuok" src="auto">NNMS2-----A----</AM>
-<AM lemma="Šizuok_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Šizuok" src="auto">NNIS2-----A----</AM>
-<AM lemma="Šizuoka_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Šizuoka" src="auto">Db-------------</AM>
-<AM lemma="Šizuoko_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="šizuoka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Šizuoka_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-056-p1s28w3">
 <src.rf>manual</src.rf>
@@ -3406,17 +3318,7 @@
 <LM>w#w-lnd94103-056-p1s36w7</LM>
 </w.rf>
 <form>hexafluoridu</form>
-<tag>
-<AM lemma="hexafluorid" src="orig">NNIS2-----A----</AM>
-<AM lemma="hexafluorid" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="hexafluorid" src="auto">NNIS3-----A----</AM>
-<AM lemma="hexafluorid" src="auto">NNIS6-----A----</AM>
-<AM lemma="hexafluorid_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="hexafluorid_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="hexafluorida" src="auto">NNFS4-----A----</AM>
-<AM lemma="hexafluorida" src="auto">NNMS4-----A----</AM>
-<AM lemma="hexafluorida_;G" src="auto">NNFS4-----A----</AM>
-</tag>
+<tag lemma="hexafluorid" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94103-056-p1s36w8">
 <src.rf>manual</src.rf>
@@ -4926,18 +4828,7 @@
 <LM>w#w-lnd94103-056-p1s48w9</LM>
 </w.rf>
 <form>Sosnovyj</form>
-<tag>
-<AM lemma="Sosnovyj_;G_,t" src="orig">AAIS1----1A----</AM>
-<AM lemma="Sosnovyj_;G_,t" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="Sosnovyj_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sosnovyj_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sosnovyj_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sosnovyj_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sosnovyj" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sosnovyj" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sosnovyj_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sosnovyj" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sosnovyj_;G_,t" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd94103-056-p1s48w10">
 <src.rf>manual</src.rf>
@@ -5051,17 +4942,7 @@
 <LM>w#w-lnd94103-056-p1s49w7</LM>
 </w.rf>
 <form>ag</form>
-<tag>
-<AM lemma="ag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ag" src="auto">NNIS1-----A----</AM>
-<AM lemma="ag_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ag_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ag_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ag-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ago" src="auto">NNNP2-----A----</AM>
-<AM lemma="agnetický_:B" src="auto">AAXXX----1A----</AM>
-<AM lemma="agister_:B_,t" src="auto">NNFXX-----A---8</AM>
-</tag>
+<tag lemma="ag-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-056-p1s49w8">
 <src.rf>manual</src.rf>

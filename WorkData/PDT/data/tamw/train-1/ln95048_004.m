@@ -266,18 +266,7 @@
 <LM>w#w-ln95048-004-p2s1Bw21</LM>
 </w.rf>
 <form>Egberts</form>
-<tag>
-<AM lemma="Egberts_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Egbert_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Egbert_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Egberts_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Egberts_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Egberts_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Egberts_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Egbert_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Egbert_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="egberts" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Egberts_;K" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95048-004-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -1245,18 +1234,7 @@
 <LM>w#w-ln95048-004-p4s2w27</LM>
 </w.rf>
 <form>Kaffee</form>
-<tag>
-<AM lemma="Kaffee_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Kaffee_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Kaffee_;K" src="auto">NNFSX-----A----</AM>
-<AM lemma="Kaffee_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Kaffee_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kaffee_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kaffee_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kaffee_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="bungee_,t_^(Kaffee_jumping)" src="auto">AAXXX----1A----</AM>
-<AM lemma="kaffee" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kaffee_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95048-004-p4s2w28">
 <src.rf>manual</src.rf>

@@ -2172,16 +2172,7 @@
 <LM>w#w-ln95047-023-p8s1w11</LM>
 </w.rf>
 <form>Galo</form>
-<tag>
-<AM lemma="Galo_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gat_:T" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="Gat_:W" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="Gat_:T_:W" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="Gat" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="Gat_:T_^(*4at)" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="Gat_:T_^(*3t)" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="galo" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Galo_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-023-p8s1w12">
 <src.rf>manual</src.rf>

@@ -651,21 +651,7 @@
 <LM>w#w-ln94205-81-p2s3w1</LM>
 </w.rf>
 <form>Kokova</form>
-<tag>
-<AM lemma="Kokův_;S_^(*2)" src="orig">AUFS1M---------</AM>
-<AM lemma="Kokov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Kokov_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kokov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kokův_;S_^(*2)" src="auto" recommended="1">AUFS1M---------</AM>
-<AM lemma="Kokův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Kokův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Kokův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Kokův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="kokova" src="auto">NNMS1-----A----</AM>
-<AM lemma="kokova-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="kokova-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="kokovakciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Kokův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94205-81-p2s3w2">
 <src.rf>manual</src.rf>

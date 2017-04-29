@@ -803,18 +803,7 @@
 <LM>w#w-ln94207-32-p2s5w8</LM>
 </w.rf>
 <form>Sajuz</form>
-<tag>
-<AM lemma="Sajuz_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sajuz_^(raketa)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sajuz_;R_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Sajuz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sajuza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Sajuz_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sajuz_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sajuz_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sajuz" src="auto">NNIS4-----A----</AM>
-<AM lemma="sajuz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sajuz_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-32-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1600,17 +1589,7 @@
 <LM>w#w-ln94207-32-p3s7w8</LM>
 </w.rf>
 <form>Talgat</form>
-<tag>
-<AM lemma="Talgat_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Talgat_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Talgat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Talgat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Talgat_:T_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Talgat_:T_^(*4at)" src="auto">Vf--------A----</AM>
-<AM lemma="Talgat" src="auto">Vf--------A----</AM>
-<AM lemma="Talgat_:T_^(*3t)" src="auto">Vf--------A----</AM>
-<AM lemma="talgat" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Talgat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-32-p3s7w9">
 <src.rf>manual</src.rf>
@@ -4710,18 +4689,7 @@
 <LM>w#w-ln94207-32-p8s2w14</LM>
 </w.rf>
 <form>Merbold</form>
-<tag>
-<AM lemma="Merbold_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Merbold_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Merbold_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Merbold_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Merboldávie_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Merbold_;L" src="auto">NNIS1-----A----</AM>
-<AM lemma="Merbold-2_;Y_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Merbold" src="auto">NNIS1-----A----</AM>
-<AM lemma="Merbold_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="merbold" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Merbold_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-32-p8s2w15">
 <src.rf>manual</src.rf>

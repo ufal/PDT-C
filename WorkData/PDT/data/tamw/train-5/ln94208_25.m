@@ -1398,18 +1398,7 @@
 <LM>w#w-ln94208-25-p5s2w17</LM>
 </w.rf>
 <form>Miert</form>
-<tag>
-<AM lemma="Miert_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Miert_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Miert_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miert_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miert" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miert" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miert" src="auto">NNIS4-----A----</AM>
-<AM lemma="Miert_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Miert_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="miert" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miert_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-25-p5s2w18">
 <src.rf>manual</src.rf>

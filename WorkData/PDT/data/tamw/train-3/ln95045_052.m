@@ -127,20 +127,7 @@
 <LM>w#w-ln95045-052-p2s1Bw6</LM>
 </w.rf>
 <form>SRo</form>
-<tag>
-<AM lemma="SRo_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SRo_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SRo-1_:B_;K_^(Český_rozhlas)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Sro" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sro_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sro" src="auto">NNNS4-----A----</AM>
-<AM lemma="Sro_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sro_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sro_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Srý" src="auto">A2--------A----</AM>
-<AM lemma="sro" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SRo_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln95045-052-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -510,20 +497,7 @@
 <LM>w#w-ln95045-052-p2s2w19</LM>
 </w.rf>
 <form>SRo</form>
-<tag>
-<AM lemma="SRo_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SRo_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SRo-1_:B_;K_^(Český_rozhlas)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Sro" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sro_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sro" src="auto">NNNS4-----A----</AM>
-<AM lemma="Sro_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sro_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sro_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Srý" src="auto">A2--------A----</AM>
-<AM lemma="sro" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SRo_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln95045-052-p2s2w20">
 <src.rf>manual</src.rf>
@@ -1090,20 +1064,7 @@
 <LM>w#w-ln95045-052-p3s3w8</LM>
 </w.rf>
 <form>SRo</form>
-<tag>
-<AM lemma="SRo_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SRo_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SRo-1_:B_;K_^(Český_rozhlas)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Sro" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sro_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sro" src="auto">NNNS4-----A----</AM>
-<AM lemma="Sro_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sro_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sro_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Srý" src="auto">A2--------A----</AM>
-<AM lemma="sro" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SRo_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln95045-052-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1317,20 +1278,7 @@
 <LM>w#w-ln95045-052-p4s1w11</LM>
 </w.rf>
 <form>SRo</form>
-<tag>
-<AM lemma="SRo_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SRo_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SRo-1_:B_;K_^(Český_rozhlas)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Sro" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sro_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sro" src="auto">NNNS4-----A----</AM>
-<AM lemma="Sro_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sro_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sro_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Srý" src="auto">A2--------A----</AM>
-<AM lemma="sro" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SRo_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln95045-052-p4s1w12">
 <src.rf>manual</src.rf>
@@ -2036,20 +1984,7 @@
 <LM>w#w-ln95045-052-p5s1w16</LM>
 </w.rf>
 <form>SRo</form>
-<tag>
-<AM lemma="SRo_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SRo_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SRo-1_:B_;K_^(Český_rozhlas)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Sro" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sro_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sro" src="auto">NNNS4-----A----</AM>
-<AM lemma="Sro_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sro_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sro_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Srý" src="auto">A2--------A----</AM>
-<AM lemma="sro" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SRo_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln95045-052-p5s1w17">
 <src.rf>manual</src.rf>

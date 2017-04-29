@@ -2751,17 +2751,7 @@
 <LM>w#w-mf920925-093-p6s5w12</LM>
 </w.rf>
 <form>dementníky</form>
-<tag>
-<AM lemma="dementník" src="orig">NNIP4-----A----</AM>
-<AM lemma="dementník" src="auto">NNMP4-----A----</AM>
-<AM lemma="dementník" src="auto">NNMP7-----A----</AM>
-<AM lemma="dementník" src="auto">NNIP1-----A----</AM>
-<AM lemma="dementník" src="auto" recommended="1">NNIP4-----A----</AM>
-<AM lemma="dementník" src="auto">NNIP7-----A----</AM>
-<AM lemma="dementníka_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="dementník_^(kdo_stráží,_člověk)" src="auto">NNMP4-----A----</AM>
-<AM lemma="dementník_^(kdo_je_vinen/vinna)" src="auto">NNMP4-----A----</AM>
-</tag>
+<tag lemma="dementník" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf920925-093-p6s5w13">
 <src.rf>manual</src.rf>
@@ -3891,17 +3881,7 @@
 <LM>w#w-mf920925-093-p7s10w33</LM>
 </w.rf>
 <form>multidesítkomiliónovým</form>
-<tag>
-<AM lemma="multidesítkomiliónový" src="orig">NNNS7-----A----</AM>
-<AM lemma="multidesítkomiliónový" src="auto">AAIS7----1A----</AM>
-<AM lemma="multidesítkomiliónový" src="auto" recommended="1">AANS7----1A----</AM>
-<AM lemma="multidesítkomiliónový" src="auto">AAFP3----1A----</AM>
-<AM lemma="multidesítkomiliónový" src="auto">AAIP3----1A----</AM>
-<AM lemma="multidesítkomiliónový" src="auto">AAMP3----1A----</AM>
-<AM lemma="multidesítkomiliónový" src="auto">AAMS7----1A----</AM>
-<AM lemma="multidesítkomiliónův_;S_^(*2)" src="auto">AUIS7M---------</AM>
-<AM lemma="multidesítkomiliónový" src="auto">AANP3----1A----</AM>
-</tag>
+<tag lemma="multidesítkomiliónový" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf920925-093-p7s10w34">
 <src.rf>manual</src.rf>

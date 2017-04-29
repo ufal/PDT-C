@@ -1245,26 +1245,7 @@
 <LM>w#w-cmpr9410-027-p4s4w5</LM>
 </w.rf>
 <form>MiniSys</form>
-<tag>
-<AM lemma="MiniSys_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="MiniSys_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="MiniSys_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="MiniSys" src="auto">NNIS1-----A----</AM>
-<AM lemma="MiniSys" src="auto">NNIS4-----A----</AM>
-<AM lemma="MiniSy_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="MiniSy" src="auto">J,-S---2-------</AM>
-<AM lemma="MiniSýt" src="auto">Vc-S---2-------</AM>
-<AM lemma="MiniSy_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Minisys_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Minisys" src="auto">NNIS1-----A----</AM>
-<AM lemma="Minisys" src="auto">NNIS4-----A----</AM>
-<AM lemma="Minisy_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Minisy" src="auto">J,-S---2-------</AM>
-<AM lemma="Minisýt" src="auto">Vc-S---2-------</AM>
-<AM lemma="Minisy_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Minisy_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="minisys" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="MiniSys_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-027-p4s4w6">
 <src.rf>manual</src.rf>
@@ -2980,26 +2961,7 @@
 <LM>w#w-cmpr9410-027-p6s9w14</LM>
 </w.rf>
 <form>MiniSys</form>
-<tag>
-<AM lemma="MiniSys_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="MiniSys_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="MiniSys_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="MiniSys" src="auto">NNIS1-----A----</AM>
-<AM lemma="MiniSys" src="auto">NNIS4-----A----</AM>
-<AM lemma="MiniSy_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="MiniSy" src="auto">J,-S---2-------</AM>
-<AM lemma="MiniSýt" src="auto">Vc-S---2-------</AM>
-<AM lemma="MiniSy_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Minisys_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Minisys" src="auto">NNIS1-----A----</AM>
-<AM lemma="Minisys" src="auto">NNIS4-----A----</AM>
-<AM lemma="Minisy_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Minisy" src="auto">J,-S---2-------</AM>
-<AM lemma="Minisýt" src="auto">Vc-S---2-------</AM>
-<AM lemma="Minisy_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Minisy_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="minisys" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="MiniSys_;R" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-027-p6s9w15">
 <src.rf>manual</src.rf>
@@ -4723,16 +4685,7 @@
 <LM>w#w-cmpr9410-027-p9s3w3</LM>
 </w.rf>
 <form>Translator</form>
-<tag>
-<AM lemma="Translator_;R_,t" src="orig">NNIS4-----A----</AM>
-<AM lemma="Translator" src="auto">NNMS1-----A----</AM>
-<AM lemma="Translator" src="auto">NNIS4-----A----</AM>
-<AM lemma="Translator" src="auto">NNIS1-----A----</AM>
-<AM lemma="Translator_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Translator_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Monitor-1_;K_,t_^(souč._názvů,_např._Christian_Translator)" src="auto" recommended="1">NNISX-----A----</AM>
-<AM lemma="translator" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Translator_;R_,t" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-cmpr9410-027-p9s3w4">
 <src.rf>manual</src.rf>

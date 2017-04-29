@@ -3806,18 +3806,7 @@
 <LM>w#w-mf930713-030-p2s26w9</LM>
 </w.rf>
 <form>Ferrazzi</form>
-<tag>
-<AM lemma="Ferrazzi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ferrazzi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ferrazzi_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ferrazzi_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="Ferrazze" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ferrazze" src="auto">NNFS6-----A----</AM>
-<AM lemma="Ferrazze" src="auto">NNFS3-----A----</AM>
-<AM lemma="Ferrazh" src="auto">NNMP1-----A----</AM>
-<AM lemma="Ferrazz" src="auto">NNMS3-----A----</AM>
-<AM lemma="ferrazzi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ferrazzi_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s26w10">
 <src.rf>manual</src.rf>
@@ -4045,18 +4034,7 @@
 <LM>w#w-mf930713-030-p2s30w7</LM>
 </w.rf>
 <form>Tacenu</form>
-<tag>
-<AM lemma="Tacen_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Tacen_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Tacen_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Tacen_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Tacena" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tacen" src="auto">NNIS2-----A----</AM>
-<AM lemma="Tacit_:W" src="auto">VsFS4--XX-AP---</AM>
-<AM lemma="Tacenout" src="auto">VB-S---1P-AA---</AM>
-<AM lemma="Tacena_;Y" src="auto">NNFS4-----A----</AM>
-<AM lemma="tacenu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tacen_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s30w8">
 <src.rf>manual</src.rf>

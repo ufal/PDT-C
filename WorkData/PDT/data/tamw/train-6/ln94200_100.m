@@ -1052,26 +1052,7 @@
 <LM>w#w-ln94200-100-p2s5w17</LM>
 </w.rf>
 <form>GSR</form>
-<tag>
-<AM lemma="GSR_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="GSR_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="GSR_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="GSR_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GSR_:B_^(Jugoslávská_svazová_republika)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="GSR_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GSR_:B_;G_^(Svaz_sov._socialist._republik)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="GSR_:B_;G" src="auto">NNFSX-----A---8</AM>
-<AM lemma="GSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Gsr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gsr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gsr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gsr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gsr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gsr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gsra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gsr_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="gsr" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="GSR_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-100-p2s5w18">
 <src.rf>manual</src.rf>
@@ -1952,26 +1933,7 @@
 <LM>w#w-ln94200-100-p2s9w6</LM>
 </w.rf>
 <form>GSR</form>
-<tag>
-<AM lemma="GSR_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="GSR_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="GSR_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="GSR_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GSR_:B_^(Jugoslávská_svazová_republika)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="GSR_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GSR_:B_;G_^(Svaz_sov._socialist._republik)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="GSR_:B_;G" src="auto">NNFSX-----A---8</AM>
-<AM lemma="GSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Gsr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gsr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gsr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gsr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gsr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gsr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gsra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gsr_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="gsr" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="GSR_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-100-p2s9w7">
 <src.rf>manual</src.rf>

@@ -375,18 +375,7 @@
 <LM>w#w-ln94210-18-p2s1Bw38</LM>
 </w.rf>
 <form>Building</form>
-<tag>
-<AM lemma="Building_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Building_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Building" src="auto">NNIS4-----A----</AM>
-<AM lemma="Building_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Building" src="auto">NNIS1-----A----</AM>
-<AM lemma="Building_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Building_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Building_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Building_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="building" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Building_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-18-p2s1Bw39">
 <src.rf>manual</src.rf>

@@ -3149,17 +3149,7 @@
 <LM>w#w-ln94207-16-p4s8w18</LM>
 </w.rf>
 <form>špecifík</form>
-<tag>
-<AM lemma="špecifikum_,t" src="orig">NNNP2-----A----</AM>
-<AM lemma="špecifík_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="špecifikum_,t" src="auto" recommended="1">NNNP2-----A----</AM>
-<AM lemma="špecifík" src="auto">NNIS1-----A----</AM>
-<AM lemma="špecifík" src="auto">NNMS1-----A----</AM>
-<AM lemma="špecifík" src="auto">NNIS4-----A----</AM>
-<AM lemma="špecifík_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="špecifík_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="špecifík-1_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="špecifikum_,t" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94207-16-p4s8w19">
 <src.rf>manual</src.rf>

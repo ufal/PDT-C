@@ -445,17 +445,7 @@
 <LM>w#w-ln95048-061-p3s4w12</LM>
 </w.rf>
 <form>pampeliščího</form>
-<tag>
-<AM lemma="pampeliščí" src="orig">AANS2----1A----</AM>
-<AM lemma="pampeliščí" src="auto">AAIS2----1A----</AM>
-<AM lemma="pampeliščí" src="auto" recommended="1">AANS2----1A----</AM>
-<AM lemma="pampeliščí" src="auto">AAMS2----1A----</AM>
-<AM lemma="pampeliščí" src="auto">AAMS4----1A----</AM>
-<AM lemma="pampeliščí_^(*5ovat)" src="auto">AGIS2-----A----</AM>
-<AM lemma="pampeliščí_^(*4t)" src="auto">AGIS2-----A----</AM>
-<AM lemma="pampeliščí_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="pampeliščí_^(*5ovat)" src="auto">AGNS2-----A----</AM>
-</tag>
+<tag lemma="pampeliščí" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln95048-061-p3s4w13">
 <src.rf>manual</src.rf>

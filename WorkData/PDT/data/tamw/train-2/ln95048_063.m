@@ -1379,18 +1379,7 @@
 <LM>w#w-ln95048-063-p4s2w11</LM>
 </w.rf>
 <form>Rykiel</form>
-<tag>
-<AM lemma="Rykiel_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Rykiel_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rykiel_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rykiel_;S" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Rykiel_;R" src="auto">NNFXX-----A----</AM>
-<AM lemma="Rykiel_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rykiel_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rykiel-1_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rykiel" src="auto">NNMS1-----A----</AM>
-<AM lemma="rykiel" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rykiel_;S" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95048-063-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1762,18 +1751,7 @@
 <LM>w#w-ln95048-063-p4s4w2</LM>
 </w.rf>
 <form>Stibon</form>
-<tag>
-<AM lemma="Stibon_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Stibon_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Stibon_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stibon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stibon_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stibon_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Stibon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stibon" src="auto">NNIS1-----A----</AM>
-<AM lemma="Stibon" src="auto">NNIS4-----A----</AM>
-<AM lemma="stibon" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Stibon_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-063-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1967,18 +1945,7 @@
 <LM>w#w-ln95048-063-p4s5w2</LM>
 </w.rf>
 <form>Marongiv</form>
-<tag>
-<AM lemma="Marongiv_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Marongiv_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Marongiv" src="auto">NNIS4-----A----</AM>
-<AM lemma="Marongiv" src="auto">NNIS1-----A----</AM>
-<AM lemma="Marongivo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Marongiva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Marongiv" src="auto">Db-------------</AM>
-<AM lemma="Marongivum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Marongiv_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="marongiv" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Marongiv_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-063-p4s5w3">
 <src.rf>manual</src.rf>

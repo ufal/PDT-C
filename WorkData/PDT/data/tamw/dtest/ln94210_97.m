@@ -768,17 +768,7 @@
 <LM>w#w-ln94210-97-p3s1w28</LM>
 </w.rf>
 <form>Agatománii</form>
-<tag>
-<AM lemma="Agatománie_;R" src="orig">NNFS6-----A----</AM>
-<AM lemma="Agatománie_;G" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Agatománie" src="auto">NNFS4-----A----</AM>
-<AM lemma="Agatománie" src="auto">NNFS6-----A----</AM>
-<AM lemma="Agatománie" src="auto">NNFS3-----A----</AM>
-<AM lemma="Agatománie_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Agatománie_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Agatomanie_,x" src="auto">NNFS6-----A----</AM>
-<AM lemma="agatománii" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Agatománie_;R" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94210-97-p3s1w29">
 <src.rf>manual</src.rf>
@@ -1462,17 +1452,7 @@
 <LM>w#w-ln94210-97-p3s4w21</LM>
 </w.rf>
 <form>trumlfajer</form>
-<tag>
-<AM lemma="trumlfajer_,l" src="orig">NNIS1-----A----</AM>
-<AM lemma="trumlfajer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="trumlfajero_;R_^(Mitsubishi_P.,_terénní_vozidlo)" src="auto">NNNP2-----A----</AM>
-<AM lemma="trumlfajer" src="auto">NNMS1-----A----</AM>
-<AM lemma="trumlfajer" src="auto">NNIS1-----A----</AM>
-<AM lemma="trumlfajer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="trumlfajer_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="trumlfajer" src="auto">NNIS4-----A----</AM>
-<AM lemma="trumlfajer_;K" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="trumlfajer_,l" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-97-p3s4w22">
 <src.rf>manual</src.rf>
@@ -1496,17 +1476,7 @@
 <LM>w#w-ln94210-97-p3s4w24</LM>
 </w.rf>
 <form>ouplavice</form>
-<tag>
-<AM lemma="ouplavice_,h" src="orig">NNFS1-----A----</AM>
-<AM lemma="ouplavice" src="auto">NNFS2-----A----</AM>
-<AM lemma="ouplavice" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="ouplavice_;G" src="auto">NNFP1-----A----</AM>
-<AM lemma="ouplavice" src="auto">NNFP4-----A----</AM>
-<AM lemma="ouplavice" src="auto">NNFP1-----A----</AM>
-<AM lemma="ouplavika" src="auto">NNFS6-----A----</AM>
-<AM lemma="ouplavika" src="auto">NNFS3-----A----</AM>
-<AM lemma="ouplavice_^(*3ík)" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="ouplavice_,h" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-97-p3s4w25">
 <src.rf>manual</src.rf>
@@ -2462,13 +2432,7 @@
 <LM>w#w-ln94210-97-p4s3w10</LM>
 </w.rf>
 <form>zamjatinovském</form>
-<tag>
-<AM lemma="zamjatinovský" src="orig">AAIS6----1A----</AM>
-<AM lemma="zamjatinovský" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="zamjatinovský" src="auto">AANS6----1A----</AM>
-<AM lemma="zamjatinovský" src="auto">AAMS6----1A----</AM>
-<AM lemma="zamjatinovský_;S" src="auto">NNMS6-----A----</AM>
-</tag>
+<tag lemma="zamjatinovský" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-ln94210-97-p4s3w11">
 <src.rf>manual</src.rf>
@@ -3136,17 +3100,7 @@
 <LM>w#w-ln94210-97-p5s3w4</LM>
 </w.rf>
 <form>Kinnairda</form>
-<tag>
-<AM lemma="Kinnaird_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Kinnaird_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Kinnairda_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kinnaird_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kinnaird_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kinnairda" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kinnaird_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kinnairda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="kinnairda" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kinnaird_;S" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-97-p5s3w5">
 <src.rf>manual</src.rf>
@@ -3468,17 +3422,7 @@
 <LM>w#w-ln94210-97-p5s4w13</LM>
 </w.rf>
 <form>pseudořád</form>
-<tag>
-<AM lemma="pseudořád" src="orig">NNIS4-----A----</AM>
-<AM lemma="pseudořád" src="auto">Db-------------</AM>
-<AM lemma="pseudořád" src="auto">NNIS1-----A----</AM>
-<AM lemma="pseudořád" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="pseudořád" src="auto">NNMS1-----A----</AM>
-<AM lemma="pseudořád_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="pseudořád_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="pseudořád_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pseudořáda" src="auto">NNFP2-----A----</AM>
-</tag>
+<tag lemma="pseudořád" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94210-97-p5s4w14">
 <src.rf>manual</src.rf>
@@ -3717,18 +3661,7 @@
 <LM>w#w-ln94210-97-p5s5Bw10</LM>
 </w.rf>
 <form>Century</form>
-<tag>
-<AM lemma="Century_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Centura" src="auto">NNFS2-----A----</AM>
-<AM lemma="Centura" src="auto">NNFP1-----A----</AM>
-<AM lemma="Centura" src="auto">NNFP4-----A----</AM>
-<AM lemma="Centura_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Century_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Centurus" src="auto">NNIP1-----A----</AM>
-<AM lemma="Centura_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="Centura_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="century" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Century_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94210-97-p5s5Bw11">
 <src.rf>manual</src.rf>
@@ -3736,18 +3669,7 @@
 <LM>w#w-ln94210-97-p5s5Bw11</LM>
 </w.rf>
 <form>Plays</form>
-<tag>
-<AM lemma="Plays_;m_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Play_;K_,t" src="auto" recommended="1">NNNPX-----A----</AM>
-<AM lemma="Play_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Plays_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Plays-1_;K_,t_^(souč._názvů,_např._British_A.)" src="auto">NNFPX-----A----</AM>
-<AM lemma="Plays_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Plays" src="auto">NNIS1-----A----</AM>
-<AM lemma="Plays" src="auto">NNIS4-----A----</AM>
-<AM lemma="Play_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="plays" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Plays_;m_,t" src="orig" selected="1">NNFPX-----A----</tag>
 </m>
 <m id="m-ln94210-97-p5s5Bw12">
 <src.rf>manual</src.rf>
@@ -3870,18 +3792,7 @@
 <LM>w#w-ln94210-97-p5s6w3</LM>
 </w.rf>
 <form>Shobrisová</form>
-<tag>
-<AM lemma="Shobrisová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Shobrisová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Shobrisový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Shobrisový" src="auto">AANP1----1A----</AM>
-<AM lemma="Shobrisový" src="auto">AANP4----1A----</AM>
-<AM lemma="Shobrisová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Shobrisová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Shobrisový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Shobrisový" src="auto">AAFS5----1A----</AM>
-<AM lemma="shobrisová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Shobrisová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-97-p5s6w4">
 <src.rf>manual</src.rf>
@@ -3915,18 +3826,7 @@
 <LM>w#w-ln94210-97-p5s7w3</LM>
 </w.rf>
 <form>Speerová</form>
-<tag>
-<AM lemma="Speerová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Speerová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Speerový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Speerový" src="auto">AANP1----1A----</AM>
-<AM lemma="Speerový" src="auto">AANP4----1A----</AM>
-<AM lemma="Speerová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Speerová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Speerový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Speerový" src="auto">AAFS5----1A----</AM>
-<AM lemma="speerová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Speerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-97-p5s7w4">
 <src.rf>manual</src.rf>
@@ -3958,18 +3858,7 @@
 <LM>w#w-ln94210-97-p5s7w7</LM>
 </w.rf>
 <form>Hollister</form>
-<tag>
-<AM lemma="Hollister_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hollister_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hollister_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hollister_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hollister" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hollistro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Hollister_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Hollister" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hollistrum" src="auto">NNNP2-----A----</AM>
-<AM lemma="hollister" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Hollister_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-97-p5s7w8">
 <src.rf>manual</src.rf>
@@ -4001,18 +3890,7 @@
 <LM>w#w-ln94210-97-p5s7w11</LM>
 </w.rf>
 <form>Mundhenková</form>
-<tag>
-<AM lemma="Mundhenková_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Mundhenková_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Mundhenkový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Mundhenkový" src="auto">AANP1----1A----</AM>
-<AM lemma="Mundhenkový" src="auto">AANP4----1A----</AM>
-<AM lemma="Mundhenková_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mundhenková_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mundhenkový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Mundhenkový" src="auto">AAFS5----1A----</AM>
-<AM lemma="mundhenková" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mundhenková_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-97-p5s7w12">
 <src.rf>manual</src.rf>
@@ -4036,18 +3914,7 @@
 <LM>w#w-ln94210-97-p5s7w14</LM>
 </w.rf>
 <form>Iacobucciová</form>
-<tag>
-<AM lemma="Iacobucciová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Iacobucciová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Iacobucciový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Iacobucciový" src="auto">AANP1----1A----</AM>
-<AM lemma="Iacobucciový" src="auto">AANP4----1A----</AM>
-<AM lemma="Iacobucciová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Iacobucciová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Iacobucciový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Iacobucciový" src="auto">AAFS5----1A----</AM>
-<AM lemma="iacobucciová" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Iacobucciová_;S" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-97-p5s7w15">
 <src.rf>manual</src.rf>
@@ -4071,18 +3938,7 @@
 <LM>w#w-ln94210-97-p5s7w17</LM>
 </w.rf>
 <form>Raphie</form>
-<tag>
-<AM lemma="Raphie_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Raphie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Raphie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Raphia_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Raphie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Raphie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Raphie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Raphie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Raphie_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="raphie" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Raphie_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-97-p5s7w18">
 <src.rf>manual</src.rf>

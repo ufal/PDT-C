@@ -373,18 +373,7 @@
 <LM>w#w-ln95046-038-p2s2w25</LM>
 </w.rf>
 <form>Sports</form>
-<tag>
-<AM lemma="Sport_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Sport_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Sport_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Sports_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sports_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sports_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Sports_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Sport_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Sport_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="sports" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sport_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln95046-038-p2s2w26">
 <src.rf>manual</src.rf>
@@ -519,18 +508,7 @@
 <LM>w#w-ln95046-038-p2s3w15</LM>
 </w.rf>
 <form>Soccer</form>
-<tag>
-<AM lemma="Soccer_;m_,t_^(fotbal)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Soccer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Soccera" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Soccer_;m_,t_^(fotbal)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Soccer-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Soccer" src="auto">NNIS1-----A----</AM>
-<AM lemma="Soccer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Soccer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Soccer_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="soccer" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Soccer_;m_,t_^(fotbal)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-038-p2s3w16">
 <src.rf>manual</src.rf>

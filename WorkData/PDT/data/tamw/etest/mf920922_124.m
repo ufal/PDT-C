@@ -2758,18 +2758,7 @@
 <LM>w#w-mf920922-124-p7s1w12</LM>
 </w.rf>
 <form>Haageuenau</form>
-<tag>
-<AM lemma="Haageuenau_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Haageuenau_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Haageuenau_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Haageuenau_;G_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Haageuenau_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="au-2_,t_^(Haageuenau-pair)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Haageuenao_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Haageuenau_;m_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Haageuenau_;S_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="haageuenau" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Haageuenau_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920922-124-p7s1w13">
 <src.rf>manual</src.rf>
@@ -3360,18 +3349,7 @@
 <LM>w#w-mf920922-124-p7s4w11</LM>
 </w.rf>
 <form>Württenbersku</form>
-<tag>
-<AM lemma="Württenbersko_;G" src="orig">NNNS6-----A----</AM>
-<AM lemma="Württenbersko_;G" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="Württenbersko_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Württenbersk" src="auto">NNIS2-----A----</AM>
-<AM lemma="Württenbersko" src="auto">NNNS6-----A----</AM>
-<AM lemma="Württenberska" src="auto">NNFS4-----A----</AM>
-<AM lemma="Württenbersk" src="auto">NNIS6-----A----</AM>
-<AM lemma="Württenbersk_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Württenbersko" src="auto">NNNS3-----A----</AM>
-<AM lemma="württenbersku" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Württenbersko_;G" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920922-124-p7s4w12">
 <src.rf>manual</src.rf>
@@ -3760,18 +3738,7 @@
 <LM>w#w-mf920922-124-p8s1w46</LM>
 </w.rf>
 <form>Pflimlin</form>
-<tag>
-<AM lemma="Pflimlin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pflimlin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pflimlina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Pflimlin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pflimlin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pflimlin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pflimlín" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pflimliny" src="auto">NNFP2-----A----</AM>
-<AM lemma="Pflimlino" src="auto">NNNP2-----A----</AM>
-<AM lemma="pflimlin" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pflimlin_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-124-p8s1w47">
 <src.rf>manual</src.rf>

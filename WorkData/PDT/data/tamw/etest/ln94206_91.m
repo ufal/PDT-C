@@ -1689,17 +1689,7 @@
 <LM>w#w-ln94206-91-p4s4w2</LM>
 </w.rf>
 <form>monstr</form>
-<tag>
-<AM lemma="monstr_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="monstr" src="auto">NNMS1-----A----</AM>
-<AM lemma="monstr" src="auto">NNIS4-----A----</AM>
-<AM lemma="monstr" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="monstr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="monstrálie_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="monstrov_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="monstrana-4_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="monstr_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="monstr_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94206-91-p4s4w3">
 <src.rf>manual</src.rf>

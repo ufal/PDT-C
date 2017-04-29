@@ -510,17 +510,7 @@
 <LM>w#w-mf930713-004-p3s3w28</LM>
 </w.rf>
 <form>Betuš</form>
-<tag>
-<AM lemma="Betuš_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Betuš" src="auto">NNFS1-----A----</AM>
-<AM lemma="Betuš_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Betuš_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Betuš_;Y_,h" src="auto">NNMS1-----A----</AM>
-<AM lemma="Betuš_;K" src="auto">NNMS1-----A----</AM>
-<AM lemma="Betuš-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Betuš" src="auto">NNMS1-----A----</AM>
-<AM lemma="betuš" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Betuš_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-004-p3s3w29">
 <src.rf>manual</src.rf>
@@ -866,17 +856,7 @@
 <LM>w#w-mf930713-004-p3s6w17</LM>
 </w.rf>
 <form>ák</form>
-<tag>
-<AM lemma="ák" src="orig">NNXXX-----A----</AM>
-<AM lemma="ák_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ák" src="auto">NNMS1-----A----</AM>
-<AM lemma="ák" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="ák" src="auto">NNIS1-----A----</AM>
-<AM lemma="ák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="ák_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="ák_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ák_,l" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="ák" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf930713-004-p3s6w18">
 <src.rf>manual</src.rf>
@@ -1670,18 +1650,7 @@
 <LM>w#w-mf930713-004-p3s11w16</LM>
 </w.rf>
 <form>Elišebah</form>
-<tag>
-<AM lemma="Elišebah_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Elišebah_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Elišebah_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Elišebah_,t" src="auto">TT-------------</AM>
-<AM lemma="Elišebah" src="auto">NNIS1-----A----</AM>
-<AM lemma="Elišebah" src="auto">NNIS4-----A----</AM>
-<AM lemma="Elišebaha" src="auto">NNFP2-----A----</AM>
-<AM lemma="Elišebah_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Elišebah_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="elišebah" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Elišebah_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-004-p3s11w17">
 <src.rf>manual</src.rf>
@@ -1713,17 +1682,7 @@
 <LM>w#w-mf930713-004-p3s11w20</LM>
 </w.rf>
 <form>Elišewah</form>
-<tag>
-<AM lemma="Elišewah_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Elišewah_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Elišewah" src="auto">NNIS1-----A----</AM>
-<AM lemma="Elišewah" src="auto">NNIS4-----A----</AM>
-<AM lemma="Elišewaha" src="auto">NNFP2-----A----</AM>
-<AM lemma="Elišewah_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Elišewah_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Elišewah" src="auto">NNMS1-----A----</AM>
-<AM lemma="elišewah" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Elišewah_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-004-p3s11w21">
 <src.rf>manual</src.rf>
@@ -1988,17 +1947,7 @@
 <LM>w#w-mf930713-004-p3s17w2</LM>
 </w.rf>
 <form>šebah</form>
-<tag>
-<AM lemma="šebah_,t" src="orig">Cn-XX----------</AM>
-<AM lemma="šebah_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="šebah_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="šebah_,t" src="auto">TT-------------</AM>
-<AM lemma="šebah" src="auto">NNIS1-----A----</AM>
-<AM lemma="šebah" src="auto">NNIS4-----A----</AM>
-<AM lemma="šebaha" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="šebah_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="šebah_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="šebah_,t" src="orig" selected="1">Cn-XX----------</tag>
 </m>
 <m id="m-mf930713-004-p3s17w3">
 <src.rf>manual</src.rf>

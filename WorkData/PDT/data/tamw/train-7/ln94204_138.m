@@ -63,18 +63,7 @@
 <LM>w#w-ln94204-138-p2s1Bw2</LM>
 </w.rf>
 <form>Domoslawski</form>
-<tag>
-<AM lemma="Domoslawski_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Domoslawski_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Domoslawský_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Domoslawski_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Domoslawski_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Domoslavski_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Domoslawský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Domoslawski_;K_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Domoslawski_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="domoslawski" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Domoslawski_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-138-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -1808,15 +1797,7 @@
 <LM>w#w-ln94204-138-p5s2w9</LM>
 </w.rf>
 <form>proticírkevnost</form>
-<tag>
-<AM lemma="proticírkevnost" src="orig">NNFS1-----A----</AM>
-<AM lemma="proticírkevnost" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="proticírkevnost" src="auto">NNFS4-----A----</AM>
-<AM lemma="proticírkevnost" src="auto">NNIS4-----A----</AM>
-<AM lemma="proticírkevnost_,a_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="proticírkevnost_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="proticírkevnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
-</tag>
+<tag lemma="proticírkevnost" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-138-p5s2w10">
 <src.rf>manual</src.rf>
@@ -5589,17 +5570,7 @@
 <LM>w#w-ln94204-138-p10s9w18</LM>
 </w.rf>
 <form>Glemp</form>
-<tag>
-<AM lemma="Glemp_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Glemp_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Glempo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Glempa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Glempa_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Glemp_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Glemp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Glemp_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="glemp" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Glemp_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-138-p10s9w19">
 <src.rf>manual</src.rf>

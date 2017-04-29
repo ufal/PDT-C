@@ -1063,17 +1063,7 @@
 <LM>w#w-ln94204-158-p4s1w5</LM>
 </w.rf>
 <form>public</form>
-<tag>
-<AM lemma="public_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="publice" src="auto">NNFP2-----A----</AM>
-<AM lemma="public_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="publice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="public_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="publíce" src="auto">NNFP2-----A----</AM>
-<AM lemma="public_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="public_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="public_;K_,t" src="auto">NNFSX-----A----</AM>
-</tag>
+<tag lemma="public_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-158-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1081,17 +1071,7 @@
 <LM>w#w-ln94204-158-p4s1w6</LM>
 </w.rf>
 <form>relations</form>
-<tag>
-<AM lemma="relation_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="relation_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="relation_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="relations_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="relation_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="relations_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="relation_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="relation_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="relation_;K_,t" src="auto">NNNPX-----A----</AM>
-</tag>
+<tag lemma="relation_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94204-158-p4s1w7">
 <src.rf>manual</src.rf>

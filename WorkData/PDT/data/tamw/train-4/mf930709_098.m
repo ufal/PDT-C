@@ -885,17 +885,7 @@
 <LM>w#w-mf930709-098-p3s1w2</LM>
 </w.rf>
 <form>šá</form>
-<tag>
-<AM lemma="šá-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šá-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="šý" src="auto">AAFS1----1A----</AM>
-<AM lemma="šá_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="šat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="šý" src="auto">AANP1----1A----</AM>
-<AM lemma="šý" src="auto">AANP4----1A----</AM>
-<AM lemma="šý_^(*2t)" src="auto">AAFS1----1A----</AM>
-<AM lemma="šý_^(*3it)" src="auto">AAFS1----1A----</AM>
-</tag>
+<tag lemma="šá-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-098-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1027,24 +1017,7 @@
 <LM>w#w-mf930709-098-p4s1Bw13</LM>
 </w.rf>
 <form>VfB</form>
-<tag>
-<AM lemma="VfB_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="VfB_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="VfB_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VfB_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VfB_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VfB_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VfB_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VfB_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Vfb" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vfb" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vfba" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vfb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vfb-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Vfb_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vfb_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="vfb" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="VfB_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-mf930709-098-p4s1Bw14">
 <src.rf>manual</src.rf>
@@ -1789,17 +1762,7 @@
 <LM>w#w-mf930709-098-p5s1w2</LM>
 </w.rf>
 <form>šá</form>
-<tag>
-<AM lemma="šá-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šá-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="šý" src="auto">AAFS1----1A----</AM>
-<AM lemma="šá_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="šat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="šý" src="auto">AANP1----1A----</AM>
-<AM lemma="šý" src="auto">AANP4----1A----</AM>
-<AM lemma="šý_^(*2t)" src="auto">AAFS1----1A----</AM>
-<AM lemma="šý_^(*3it)" src="auto">AAFS1----1A----</AM>
-</tag>
+<tag lemma="šá-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-098-p5s1w3">
 <src.rf>manual</src.rf>

@@ -301,18 +301,7 @@
 <LM>w#w-ln94200-118-p2s2w14</LM>
 </w.rf>
 <form>Constand</form>
-<tag>
-<AM lemma="Constand_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Constand_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Constand_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Constand_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Constand_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Constanda_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Constand_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Constand_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Constando" src="auto">NNNP2-----A----</AM>
-<AM lemma="constand" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Constand_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-118-p2s2w15">
 <src.rf>manual</src.rf>
@@ -320,18 +309,7 @@
 <LM>w#w-ln94200-118-p2s2w15</LM>
 </w.rf>
 <form>Viljoen</form>
-<tag>
-<AM lemma="Viljoen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Viljoen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Viljoen_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Viljoen_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Viljoit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Viljona" src="auto">NNFP2-----A----</AM>
-<AM lemma="Viljoit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Viljoen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Viljoen" src="auto">NNIS1-----A----</AM>
-<AM lemma="viljoen" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Viljoen_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-118-p2s2w16">
 <src.rf>manual</src.rf>

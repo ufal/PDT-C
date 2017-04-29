@@ -339,18 +339,7 @@
 <LM>w#w-ln95045-040-p2s2w10</LM>
 </w.rf>
 <form>Landwirt</form>
-<tag>
-<AM lemma="Landwirt_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Landwirt_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Landwirt_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Landwirt" src="auto">NNIS1-----A----</AM>
-<AM lemma="Landwirt" src="auto">NNIS4-----A----</AM>
-<AM lemma="Landwirt_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Landwirt_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Landwirt_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Landwirt" src="auto">NNMS1-----A----</AM>
-<AM lemma="landwirt" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Landwirt_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-040-p2s2w11">
 <src.rf>manual</src.rf>

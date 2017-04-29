@@ -407,18 +407,7 @@
 <LM>w#w-ln94202-76-p2s1w44</LM>
 </w.rf>
 <form>Tiempo</form>
-<tag>
-<AM lemma="Tiempo_;R_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tiempo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tiempo_;R_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Tiempo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tiempo" src="auto">NNNS4-----A----</AM>
-<AM lemma="Tiempo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tiempo_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tiempo-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="po-2_:B_,x_^(Tiempondělí)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="tiempo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Tiempo_;R_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94202-76-p2s1w45">
 <src.rf>manual</src.rf>

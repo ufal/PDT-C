@@ -1461,25 +1461,7 @@
 <LM>w#w-ln95048-045-p2s8w13</LM>
 </w.rf>
 <form>Mc</form>
-<tag>
-<AM lemma="Mc_;S" src="orig">AAXXX----1A----</AM>
-<AM lemma="Mc_;S_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mc_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mc_;S" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Mc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mc" src="auto">NNIS1-----A----</AM>
-<AM lemma="mc" src="auto">NNMS1-----A----</AM>
-<AM lemma="mc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mce" src="auto">NNFP2-----A----</AM>
-<AM lemma="mce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="mc" src="auto">NNIS1-----A----</AM>
-<AM lemma="mc" src="auto">NNIS4-----A----</AM>
-<AM lemma="mc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="mc_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Mc_;S" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95048-045-p2s8w14">
 <src.rf>manual</src.rf>
@@ -1487,16 +1469,7 @@
 <LM>w#w-ln95048-045-p2s8w14</LM>
 </w.rf>
 <form>Inereymu</form>
-<tag>
-<AM lemma="Inerey_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Inerey_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Inereym_;H" src="auto">NNIS6-----A----</AM>
-<AM lemma="Inereym" src="auto">NNIS2-----A----</AM>
-<AM lemma="Inereymum" src="auto">NNNS6-----A----</AM>
-<AM lemma="Inerey" src="auto">AAIS3----1A----</AM>
-<AM lemma="Inerey" src="auto">AANS3----1A----</AM>
-<AM lemma="inereymu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Inerey_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95048-045-p2s8w15">
 <src.rf>manual</src.rf>

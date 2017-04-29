@@ -996,16 +996,7 @@
 <LM>w#w-ln94206-79-p4s1w2</LM>
 </w.rf>
 <form>McGuiness</form>
-<tag>
-<AM lemma="McGuiness_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="McGuiness_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="McGuiness_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="McGuiness_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="McGuiness_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="McGuiness_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ness_;G_^(jezero_Loch_McGuiness)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mcguiness" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="McGuiness_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-79-p4s1w3">
 <src.rf>manual</src.rf>

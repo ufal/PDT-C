@@ -802,25 +802,7 @@
 <LM>w#w-ln94206-1-p3s1w24</LM>
 </w.rf>
 <form>Oak</form>
-<tag>
-<AM lemma="Oak_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Oak_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Oak_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Oak" src="auto">NNIS1-----A----</AM>
-<AM lemma="Oak" src="auto">NNIS4-----A----</AM>
-<AM lemma="Oak" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="Oak_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Oak-1" src="auto">Db-------------</AM>
-<AM lemma="Oak" src="auto">NNMS1-----A----</AM>
-<AM lemma="oak_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="oak" src="auto">NNIS1-----A----</AM>
-<AM lemma="oak" src="auto">NNIS4-----A----</AM>
-<AM lemma="oak" src="auto">Db-------------</AM>
-<AM lemma="oak_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="oak_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="oak-1" src="auto">Db-------------</AM>
-<AM lemma="oak" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Oak_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94206-1-p3s1w25">
 <src.rf>manual</src.rf>
@@ -1484,20 +1466,7 @@
 <LM>w#w-ln94206-1-p4s4w8</LM>
 </w.rf>
 <form>European</form>
-<tag>
-<AM lemma="European_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="European_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="European_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="European_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="European_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="European_;R_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="european" src="auto">NNIS1-----A----</AM>
-<AM lemma="european" src="auto">NNIS4-----A----</AM>
-<AM lemma="european" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="European_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94206-1-p4s4w9">
 <src.rf>manual</src.rf>

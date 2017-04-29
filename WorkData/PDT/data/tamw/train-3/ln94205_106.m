@@ -703,24 +703,7 @@
 <LM>w#w-ln94205-106-p3s1w16</LM>
 </w.rf>
 <form>Division</form>
-<tag>
-<AM lemma="Division_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Division" src="auto">NNIS1-----A----</AM>
-<AM lemma="Division_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Division_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Division_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Division_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Division_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="División" src="auto">NNIS1-----A----</AM>
-<AM lemma="División" src="auto">NNIS4-----A----</AM>
-<AM lemma="division" src="auto">NNIS1-----A----</AM>
-<AM lemma="division" src="auto">NNIS4-----A----</AM>
-<AM lemma="division" src="auto">NNMS1-----A----</AM>
-<AM lemma="division-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="division_^(n-tice)" src="auto">A2--------A----</AM>
-<AM lemma="divisionádraží_:B" src="auto">NNNXX-----A---9</AM>
-<AM lemma="divisionárodní_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Division_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-106-p3s1w17">
 <src.rf>manual</src.rf>
@@ -2491,24 +2474,7 @@
 <LM>w#w-ln94205-106-p5s3w12</LM>
 </w.rf>
 <form>Division</form>
-<tag>
-<AM lemma="Division_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Division" src="auto">NNIS1-----A----</AM>
-<AM lemma="Division_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Division_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Division_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Division_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Division_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="División" src="auto">NNIS1-----A----</AM>
-<AM lemma="División" src="auto">NNIS4-----A----</AM>
-<AM lemma="division" src="auto">NNIS1-----A----</AM>
-<AM lemma="division" src="auto">NNIS4-----A----</AM>
-<AM lemma="division" src="auto">NNMS1-----A----</AM>
-<AM lemma="division-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="division_^(n-tice)" src="auto">A2--------A----</AM>
-<AM lemma="divisionádraží_:B" src="auto">NNNXX-----A---9</AM>
-<AM lemma="divisionárodní_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<tag lemma="Division_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-106-p5s3w13">
 <src.rf>manual</src.rf>

@@ -483,16 +483,7 @@
 <LM>w#w-ln94203-60-p2s3w21</LM>
 </w.rf>
 <form>bilboardy</form>
-<tag>
-<AM lemma="bilboard_,t" src="orig">NNIP4-----A----</AM>
-<AM lemma="bilboard" src="auto" recommended="1">NNIP4-----A----</AM>
-<AM lemma="bilboarda_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="bilboarda" src="auto">NNFS2-----A----</AM>
-<AM lemma="bilboard" src="auto">NNMP4-----A----</AM>
-<AM lemma="bilboard" src="auto">NNIP7-----A----</AM>
-<AM lemma="bilboard" src="auto">NNIP1-----A----</AM>
-<AM lemma="bilboardy_;S" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="bilboard_,t" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94203-60-p2s3w22">
 <src.rf>manual</src.rf>

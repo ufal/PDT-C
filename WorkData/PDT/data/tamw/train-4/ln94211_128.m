@@ -1015,14 +1015,7 @@
 <LM>w#w-ln94211-128-p5s1w19</LM>
 </w.rf>
 <form>monetálně</form>
-<tag>
-<AM lemma="monetálně" src="orig">Db-------------</AM>
-<AM lemma="monetálně_^(*1í)" src="auto">Dg-------1A----</AM>
-<AM lemma="monetálně_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="monetálna" src="auto">NNFS6-----A----</AM>
-<AM lemma="monetálně_,s_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="monetálně_,a_^(*1í)" src="auto">Dg-------1A----</AM>
-</tag>
+<tag lemma="monetálně" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94211-128-p5s1w20">
 <src.rf>manual</src.rf>

@@ -727,18 +727,7 @@
 <LM>w#w-ln94206-75-p2s5w27</LM>
 </w.rf>
 <form>Kaurov</form>
-<tag>
-<AM lemma="Kaurov_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kaurov_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kaurov_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kaurov" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kaurovnat_:B_:W_^(odkaz_na_jiné_místo)" src="auto">Vi-S---2--A---8</AM>
-<AM lemma="Kaurov_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kaurov-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kaurov-2_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kaurov" src="auto">NNIS4-----A----</AM>
-<AM lemma="kaurov" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kaurov_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-75-p2s5w28">
 <src.rf>manual</src.rf>

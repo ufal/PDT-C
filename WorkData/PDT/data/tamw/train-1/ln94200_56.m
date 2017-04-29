@@ -358,26 +358,7 @@
 <LM>w#w-ln94200-56-p2s7w12</LM>
 </w.rf>
 <form>AÚV</form>
-<tag>
-<AM lemma="AÚV_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AÚV_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="AÚV-1_:B_^(ústřední_výbor)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AÚV-1_:B_^(ústřední_výbor)" src="auto">NNIXX-----A----</AM>
-<AM lemma="AÚV_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AÚV_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AÚV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AÚV_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AÚV_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Aúv_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aúv_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Aúv_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Aúv" src="auto">NNIS4-----A----</AM>
-<AM lemma="Aúva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Aúv_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Aúv" src="auto">NNIS1-----A----</AM>
-<AM lemma="Aúv_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="aúv" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="AÚV_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94200-56-p2s7w13">
 <src.rf>manual</src.rf>
@@ -519,26 +500,7 @@
 <LM>w#w-ln94200-56-p2s8w11</LM>
 </w.rf>
 <form>AÚV</form>
-<tag>
-<AM lemma="AÚV_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AÚV_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="AÚV-1_:B_^(ústřední_výbor)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AÚV-1_:B_^(ústřední_výbor)" src="auto">NNIXX-----A----</AM>
-<AM lemma="AÚV_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AÚV_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AÚV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AÚV_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AÚV_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Aúv_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aúv_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Aúv_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Aúv" src="auto">NNIS4-----A----</AM>
-<AM lemma="Aúva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Aúv_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Aúv" src="auto">NNIS1-----A----</AM>
-<AM lemma="Aúv_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="aúv" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="AÚV_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94200-56-p2s8w12">
 <src.rf>manual</src.rf>
@@ -631,26 +593,7 @@
 <LM>w#w-ln94200-56-p2s9w4</LM>
 </w.rf>
 <form>AÚV</form>
-<tag>
-<AM lemma="AÚV_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AÚV_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="AÚV-1_:B_^(ústřední_výbor)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AÚV-1_:B_^(ústřední_výbor)" src="auto">NNIXX-----A----</AM>
-<AM lemma="AÚV_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AÚV_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AÚV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AÚV_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AÚV_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Aúv_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aúv_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Aúv_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Aúv" src="auto">NNIS4-----A----</AM>
-<AM lemma="Aúva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Aúv_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Aúv" src="auto">NNIS1-----A----</AM>
-<AM lemma="Aúv_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="aúv" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="AÚV_:B" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94200-56-p2s9w5">
 <src.rf>manual</src.rf>

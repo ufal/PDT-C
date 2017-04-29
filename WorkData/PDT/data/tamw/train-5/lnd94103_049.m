@@ -509,18 +509,7 @@
 <LM>w#w-lnd94103-049-p1s3w17</LM>
 </w.rf>
 <form>Lezsák</form>
-<tag>
-<AM lemma="Lezsák_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lezsák_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="tesák-2_^(Bílý_Lezsák)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lezsák" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lezsák" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lezsák" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lezsák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lezsák_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lezsák_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="lezsák" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lezsák_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-049-p1s3w18">
 <src.rf>manual</src.rf>
@@ -704,25 +693,7 @@
 <LM>w#w-lnd94103-049-p1s3w40</LM>
 </w.rf>
 <form>SZDSZ</form>
-<tag>
-<AM lemma="SZDSZ_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SZDSZ_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SZDseverozápad_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SZDSZ_:B_;K_^(Pražská_správa_sociálního_zabezpečení)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SZDSZ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SZDSZ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SZDSZ-1_:B_;K_^(Strana_zelených)" src="auto">NNFXX-----A----</AM>
-<AM lemma="SZDSZ-1_:B_;K_,t_^(Fiatal_Demokraták_Szövetsége)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Szdsz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Szdsz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Szdsz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Szdsz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Szdsz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Szdsza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Szdss" src="auto">NNIS1-----A----</AM>
-<AM lemma="Szdsz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="szdsz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SZDSZ_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-049-p1s3w41">
 <src.rf>manual</src.rf>
@@ -770,18 +741,7 @@
 <LM>w#w-lnd94103-049-p1s3w46</LM>
 </w.rf>
 <form>Kuncze</form>
-<tag>
-<AM lemma="Kuncze_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kuncz_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kuncze_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kuncze" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kuncze" src="auto">NNFS2-----A----</AM>
-<AM lemma="Kuncha" src="auto">NNFS6-----A----</AM>
-<AM lemma="Kuncha" src="auto">NNFS3-----A----</AM>
-<AM lemma="Kuncza" src="auto">NNFS6-----A----</AM>
-<AM lemma="Kuncze" src="auto">NNFP1-----A----</AM>
-<AM lemma="kuncze" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kuncze_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-049-p1s3w47">
 <src.rf>manual</src.rf>
@@ -1275,18 +1235,7 @@
 <LM>w#w-lnd94103-049-p1s6w3</LM>
 </w.rf>
 <form>Lezsák</form>
-<tag>
-<AM lemma="Lezsák_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lezsák_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="tesák-2_^(Bílý_Lezsák)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lezsák" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lezsák" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lezsák" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lezsák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lezsák_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lezsák_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="lezsák" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lezsák_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-049-p1s6w4">
 <src.rf>manual</src.rf>
@@ -1462,17 +1411,7 @@
 <LM>w#w-lnd94103-049-p1s6w25</LM>
 </w.rf>
 <form>Csóti</form>
-<tag>
-<AM lemma="Csóti_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Csóti_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Csót_^(*3ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Csót_^(*3ý)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Csót_^(*3ý)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Csót" src="auto">NNFS2-----A----</AM>
-<AM lemma="Csót" src="auto">NNMP1-----A----</AM>
-<AM lemma="Csót" src="auto">NNFS6-----A----</AM>
-<AM lemma="csóti" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Csóti_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-049-p1s6w26">
 <src.rf>manual</src.rf>
@@ -1814,18 +1753,7 @@
 <LM>w#w-lnd94103-049-p1s9w5</LM>
 </w.rf>
 <form>Kuncze</form>
-<tag>
-<AM lemma="Kuncze_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kuncz_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kuncze_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kuncze" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kuncze" src="auto">NNFS2-----A----</AM>
-<AM lemma="Kuncha" src="auto">NNFS6-----A----</AM>
-<AM lemma="Kuncha" src="auto">NNFS3-----A----</AM>
-<AM lemma="Kuncza" src="auto">NNFS6-----A----</AM>
-<AM lemma="Kuncze" src="auto">NNFP1-----A----</AM>
-<AM lemma="kuncze" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kuncze_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-049-p1s9w6">
 <src.rf>manual</src.rf>
@@ -2781,17 +2709,7 @@
 <LM>w#w-lnd94103-049-p1s13w17</LM>
 </w.rf>
 <form>Kunczem</form>
-<tag>
-<AM lemma="Kuncze_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Kuncz" src="auto">NNIS7-----A----</AM>
-<AM lemma="Kuncz_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Kuncz_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Kuncs" src="auto">NNIS7-----A----</AM>
-<AM lemma="Kunczo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Kuncz_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Kuncz" src="auto">NNMS7-----A----</AM>
-<AM lemma="kunczem" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kuncze_;S" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94103-049-p1s13w18">
 <src.rf>manual</src.rf>

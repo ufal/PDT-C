@@ -317,18 +317,7 @@
 <LM>w#w-ln94205-7-p2s2w7</LM>
 </w.rf>
 <form>Republic</form>
-<tag>
-<AM lemma="Republic_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Republice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Republic_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Republice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Republic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Republíce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Republic_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Republic_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Republic_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="republic" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Republic_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94205-7-p2s2w8">
 <src.rf>manual</src.rf>
@@ -336,18 +325,7 @@
 <LM>w#w-ln94205-7-p2s2w8</LM>
 </w.rf>
 <form>Fund</form>
-<tag>
-<AM lemma="Fund_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Fund_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fund_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fund_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Fund_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Fund" src="auto">NNIS4-----A----</AM>
-<AM lemma="Funda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Fund_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Fund_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="fund" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fund_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94205-7-p2s2w9">
 <src.rf>manual</src.rf>
@@ -819,18 +797,7 @@
 <LM>w#w-ln94205-7-p4s1w10</LM>
 </w.rf>
 <form>First</form>
-<tag>
-<AM lemma="First_;K_,t" src="orig">CrXXX----------</AM>
-<AM lemma="First_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="First" src="auto">NNFS4-----A----</AM>
-<AM lemma="First_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="First_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="First_;K_,t" src="auto" recommended="1">CrXXX----------</AM>
-<AM lemma="First_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="First_,t" src="auto">Db-------------</AM>
-<AM lemma="First" src="auto">NNIS4-----A----</AM>
-<AM lemma="first" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="First_;K_,t" src="orig" selected="1">CrXXX----------</tag>
 </m>
 <m id="m-ln94205-7-p4s1w11">
 <src.rf>manual</src.rf>

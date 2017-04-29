@@ -93,16 +93,7 @@
 <LM>w#w-ln94210-142-p2s1Aw3</LM>
 </w.rf>
 <form>bo</form>
-<tag>
-<AM lemma="bo-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="bo_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="bo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="bo" src="auto">J^-------------</AM>
-<AM lemma="bo_;Y" src="auto">NNNS1-----A----</AM>
-<AM lemma="bo_;Y" src="auto">NNMSX-----A----</AM>
-<AM lemma="bo_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="bo-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94210-142-p2s1Aw4">
 <src.rf>manual</src.rf>

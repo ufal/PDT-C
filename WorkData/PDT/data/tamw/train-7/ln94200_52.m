@@ -43,18 +43,7 @@
 <LM>w#w-ln94200-52-p1s1w4</LM>
 </w.rf>
 <form>Mitonu</form>
-<tag>
-<AM lemma="Miton_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS2-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS6-----A----</AM>
-<AM lemma="Miton_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Miton_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS3-----A----</AM>
-<AM lemma="Mitona" src="auto">NNFS4-----A----</AM>
-<AM lemma="Miton_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Mitón" src="auto">NNIS2-----A----</AM>
-<AM lemma="mitonu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miton_;K" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-52-p1s1w5">
 <src.rf>manual</src.rf>
@@ -160,18 +149,7 @@
 <LM>w#w-ln94200-52-p2s1Bw4</LM>
 </w.rf>
 <form>Products</form>
-<tag>
-<AM lemma="Product_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Product_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Product_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Product_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Products_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Product_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Product_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Products_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Products_;K" src="auto">NNFPX-----A----</AM>
-<AM lemma="products" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Product_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94200-52-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -247,18 +225,7 @@
 <LM>w#w-ln94200-52-p2s1Bw13</LM>
 </w.rf>
 <form>Miton</form>
-<tag>
-<AM lemma="Miton_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Miton_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miton_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Miton_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS4-----A----</AM>
-<AM lemma="Miton-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miton-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miton_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="miton" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miton_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-52-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -693,18 +660,7 @@
 <LM>w#w-ln94200-52-p3s1w19</LM>
 </w.rf>
 <form>Miton</form>
-<tag>
-<AM lemma="Miton_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Miton_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miton_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Miton_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS4-----A----</AM>
-<AM lemma="Miton-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miton-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miton_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="miton" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miton_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-52-p3s1w20">
 <src.rf>manual</src.rf>
@@ -1165,18 +1121,7 @@
 <LM>w#w-ln94200-52-p4s2w7</LM>
 </w.rf>
 <form>Mitonu</form>
-<tag>
-<AM lemma="Miton_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS2-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS6-----A----</AM>
-<AM lemma="Miton_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Miton_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS3-----A----</AM>
-<AM lemma="Mitona" src="auto">NNFS4-----A----</AM>
-<AM lemma="Miton_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Mitón" src="auto">NNIS2-----A----</AM>
-<AM lemma="mitonu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miton_;K" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-52-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1405,18 +1350,7 @@
 <LM>w#w-ln94200-52-p5s1w23</LM>
 </w.rf>
 <form>Miton</form>
-<tag>
-<AM lemma="Miton_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Miton_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miton_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Miton_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS4-----A----</AM>
-<AM lemma="Miton-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miton-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miton_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="miton" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miton_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-52-p5s1w24">
 <src.rf>manual</src.rf>
@@ -1638,18 +1572,7 @@
 <LM>w#w-ln94200-52-p5s2w3</LM>
 </w.rf>
 <form>Mitonu</form>
-<tag>
-<AM lemma="Miton_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS2-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS6-----A----</AM>
-<AM lemma="Miton_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Miton_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS3-----A----</AM>
-<AM lemma="Mitona" src="auto">NNFS4-----A----</AM>
-<AM lemma="Miton_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Mitón" src="auto">NNIS2-----A----</AM>
-<AM lemma="mitonu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miton_;K" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-52-p5s2w4">
 <src.rf>manual</src.rf>
@@ -1998,18 +1921,7 @@
 <LM>w#w-ln94200-52-p5s3w9</LM>
 </w.rf>
 <form>Mitonu</form>
-<tag>
-<AM lemma="Miton_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS2-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS6-----A----</AM>
-<AM lemma="Miton_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Miton_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Miton" src="auto">NNIS3-----A----</AM>
-<AM lemma="Mitona" src="auto">NNFS4-----A----</AM>
-<AM lemma="Miton_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Mitón" src="auto">NNIS2-----A----</AM>
-<AM lemma="mitonu" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miton_;K" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-52-p5s3w10">
 <src.rf>manual</src.rf>
@@ -2118,18 +2030,7 @@
 <LM>w#w-ln94200-52-p6s1w2</LM>
 </w.rf>
 <form>Products</form>
-<tag>
-<AM lemma="Product_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Product_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Product_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Product_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Products_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Product_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Product_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Products_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Products_;K" src="auto">NNFPX-----A----</AM>
-<AM lemma="products" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Product_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-ln94200-52-p6s1w3">
 <src.rf>manual</src.rf>

@@ -2970,17 +2970,7 @@
 <LM>w#w-ln94203-25-p6s2w28</LM>
 </w.rf>
 <form>větrodeštismu</form>
-<tag>
-<AM lemma="větrodeštismus" src="orig">NNIS2-----A----</AM>
-<AM lemma="větrodeštismus" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="větrodeštismus" src="auto">NNIS3-----A----</AM>
-<AM lemma="větrodeštismus" src="auto">NNIS6-----A----</AM>
-<AM lemma="větrodeštizmus" src="auto">NNIS2-----A---1</AM>
-<AM lemma="větrodeštizmus" src="auto">NNIS2-----A----</AM>
-<AM lemma="větrodeštizmus" src="auto">NNIS3-----A---1</AM>
-<AM lemma="větrodeštizmus" src="auto">NNIS6-----A---1</AM>
-<AM lemma="větrodeštizmus_,x" src="auto">NNIS2-----A----</AM>
-</tag>
+<tag lemma="větrodeštismus" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-25-p6s2w29">
 <src.rf>manual</src.rf>

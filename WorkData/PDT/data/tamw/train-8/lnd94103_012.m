@@ -101,15 +101,7 @@
 <LM>w#w-lnd94103-012-p1s2w3</LM>
 </w.rf>
 <form>mš</form>
-<tag>
-<AM lemma="mš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mš-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="mš_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mš_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mš" src="auto">NNIS1-----A----</AM>
-<AM lemma="mš" src="auto">NNFS4-----A----</AM>
-<AM lemma="mš" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="mš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-012-p1s2w4">
 <src.rf>manual</src.rf>

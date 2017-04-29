@@ -509,18 +509,7 @@
 <LM>w#w-ln94209-49-p2s3w28</LM>
 </w.rf>
 <form>Miert</form>
-<tag>
-<AM lemma="Miert_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Miert_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Miert_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miert_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miert" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miert" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miert" src="auto">NNIS4-----A----</AM>
-<AM lemma="Miert_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Miert_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="miert" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miert_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-49-p2s3w29">
 <src.rf>manual</src.rf>
@@ -886,18 +875,7 @@
 <LM>w#w-ln94209-49-p3s3w8</LM>
 </w.rf>
 <form>Miert</form>
-<tag>
-<AM lemma="Miert_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Miert_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Miert_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miert_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miert" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miert" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miert" src="auto">NNIS4-----A----</AM>
-<AM lemma="Miert_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Miert_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="miert" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miert_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-49-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1669,18 +1647,7 @@
 <LM>w#w-ln94209-49-p5s1w3</LM>
 </w.rf>
 <form>Miert</form>
-<tag>
-<AM lemma="Miert_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Miert_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Miert_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miert_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miert" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miert" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miert" src="auto">NNIS4-----A----</AM>
-<AM lemma="Miert_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Miert_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="miert" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Miert_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-49-p5s1w4">
 <src.rf>manual</src.rf>

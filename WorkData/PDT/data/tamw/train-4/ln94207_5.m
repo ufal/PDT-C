@@ -93,16 +93,7 @@
 <LM>w#w-ln94207-5-p2s1Aw3</LM>
 </w.rf>
 <form>škr</form>
-<tag>
-<AM lemma="škr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="škr-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="škr" src="auto">NNIS1-----A----</AM>
-<AM lemma="škr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="škr" src="auto">NNIS4-----A----</AM>
-<AM lemma="škrajina_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="škr" src="auto">NNMS1-----A----</AM>
-<AM lemma="škr_;Y" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="škr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94207-5-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -118,17 +109,7 @@
 <LM>w#w-ln94207-5-p2s1Aw5</LM>
 </w.rf>
 <form>mlp</form>
-<tag>
-<AM lemma="mlp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mlp-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="mlpy_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="mlp" src="auto">NNIS4-----A----</AM>
-<AM lemma="mlp" src="auto">NNIS1-----A----</AM>
-<AM lemma="mlp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mlp" src="auto">NNMS1-----A----</AM>
-<AM lemma="mlp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mlp_;K" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="mlp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94207-5-p2s1Aw6">
 <src.rf>manual</src.rf>

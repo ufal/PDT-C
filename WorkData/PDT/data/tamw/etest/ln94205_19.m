@@ -573,24 +573,7 @@
 <LM>w#w-ln94205-19-p3s1w9</LM>
 </w.rf>
 <form>JVB</form>
-<tag>
-<AM lemma="JVB_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="JVB_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="JVB_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="JVB_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="JVB_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="JVB_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="JVB_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="b-8_:JVB_^(ost._zkratka)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Jvb" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jvb" src="auto">NNIS4-----A----</AM>
-<AM lemma="Jvba" src="auto">NNFP2-----A----</AM>
-<AM lemma="Jvb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jvb-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Jvb_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jvb_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="jvb" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="JVB_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-19-p3s1w10">
 <src.rf>manual</src.rf>
@@ -598,18 +581,7 @@
 <LM>w#w-ln94205-19-p3s1w10</LM>
 </w.rf>
 <form>Luxon</form>
-<tag>
-<AM lemma="Luxon_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Luxon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Luxon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Luxon-2_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Luxon" src="auto">NNIS4-----A----</AM>
-<AM lemma="Luxon" src="auto">NNIS1-----A----</AM>
-<AM lemma="Luxon_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Luxon_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Luxon_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="luxon" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Luxon_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-19-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1888,18 +1860,7 @@
 <LM>w#w-ln94205-19-p5s3w33</LM>
 </w.rf>
 <form>Leuci</form>
-<tag>
-<AM lemma="Leuci_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Leuce" src="auto">NNFS6-----A----</AM>
-<AM lemma="Leuce" src="auto">NNFS4-----A----</AM>
-<AM lemma="Leuce" src="auto">NNFS3-----A----</AM>
-<AM lemma="Leuk" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Leuc_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Leuc_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Leuci_,h" src="auto">II-------------</AM>
-<AM lemma="Leuec" src="auto">NNMP1-----A----</AM>
-<AM lemma="leuci" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Leuci_;K_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94205-19-p5s3w34">
 <src.rf>manual</src.rf>

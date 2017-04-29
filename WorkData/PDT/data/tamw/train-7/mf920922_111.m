@@ -197,15 +197,7 @@
 <LM>w#w-mf920922-111-p1s2w12</LM>
 </w.rf>
 <form>Baidoha</form>
-<tag>
-<AM lemma="Baidoha_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Baidoha" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Baidoho-1" src="auto">Ca--2----------</AM>
-<AM lemma="Baidoha_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Baidoho-1" src="auto">Ca--7----------</AM>
-<AM lemma="Baidoho-1" src="auto">Ca--6----------</AM>
-<AM lemma="baidoha" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Baidoha_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-111-p1s2w13">
 <src.rf>manual</src.rf>

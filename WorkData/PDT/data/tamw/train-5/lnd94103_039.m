@@ -1224,14 +1224,7 @@
 <LM>w#w-lnd94103-039-p1s9w7</LM>
 </w.rf>
 <form>Aninato</form>
-<tag>
-<AM lemma="Aninato_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Aninato" src="auto">Db-------------</AM>
-<AM lemma="Aninato_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Aninmout" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="aninato" src="auto">Db-------------</AM>
-<AM lemma="aninato" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Aninato_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-039-p1s9w8">
 <src.rf>manual</src.rf>

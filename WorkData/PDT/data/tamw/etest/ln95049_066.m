@@ -3340,19 +3340,7 @@
 <LM>w#w-ln95049-066-p9s1w18</LM>
 </w.rf>
 <form>Ezera</form>
-<tag>
-<AM lemma="Ezer_;Y" src="orig">NNMS4-----A----</AM>
-<AM lemma="Ezer" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ezer" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ezer_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ezer_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Ezer_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ezera" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ezera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ezero" src="auto">NNNS2-----A----</AM>
-<AM lemma="ezera" src="auto">NNMS1-----A----</AM>
-<AM lemma="ezera-1_:B_,t_^(radiatus,_druh_oblaku)" src="auto">NNIXX-----A---8</AM>
-</tag>
+<tag lemma="Ezer_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-066-p9s1w19">
 <src.rf>manual</src.rf>
@@ -4508,18 +4496,7 @@
 <LM>w#w-ln95049-066-p12s1w43</LM>
 </w.rf>
 <form>Poklonné</form>
-<tag>
-<AM lemma="Poklonný_;G" src="orig">AAFS6----1A----</AM>
-<AM lemma="Poklonný" src="auto">AAFS2----1A----</AM>
-<AM lemma="Poklonný" src="auto">AAFP1----1A----</AM>
-<AM lemma="Poklonný" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="Poklonný" src="auto">AAFP4----1A----</AM>
-<AM lemma="Poklonný" src="auto">AANS1----1A----</AM>
-<AM lemma="Poklonný" src="auto">AAIP4----1A----</AM>
-<AM lemma="Poklonný" src="auto">AANS4----1A----</AM>
-<AM lemma="Poklonný" src="auto">AAFS3----1A----</AM>
-<AM lemma="poklonné" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Poklonný_;G" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln95049-066-p12s1w44">
 <src.rf>manual</src.rf>

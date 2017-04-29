@@ -300,16 +300,7 @@
 <LM>w#w-mf930713-018-p2s2w8</LM>
 </w.rf>
 <form>Golfklub</form>
-<tag>
-<AM lemma="golfklub" src="orig">NNIS1-----A----</AM>
-<AM lemma="Golfklub" src="auto">NNIS1-----A----</AM>
-<AM lemma="Golfklub_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Golfklub" src="auto">NNIS4-----A----</AM>
-<AM lemma="Golfklub_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Golfklub_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Golfklub-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="golfklub" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="golfklub" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-018-p2s2w9">
 <src.rf>manual</src.rf>
@@ -341,26 +332,7 @@
 <LM>w#w-mf930713-018-p2s2w12</LM>
 </w.rf>
 <form>PGT</form>
-<tag>
-<AM lemma="PGT_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="PGT_:B_;K" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="PGT_:B_;R_^(gran_turismo)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PGT_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PGT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PGT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PGT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PGT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="PGT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Pgt_;G_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Pgt_:B_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Pgt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Pgt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Pgt" src="auto">Vf--------A----</AM>
-<AM lemma="Pgt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Pgt_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pgt" src="auto">NNIS1-----A----</AM>
-<AM lemma="pgt" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="PGT_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
 </m>
 <m id="m-mf930713-018-p2s2w13">
 <src.rf>manual</src.rf>

@@ -795,21 +795,7 @@
 <LM>w#w-ln95049-083-p3s1w19</LM>
 </w.rf>
 <form>poloautarkním</form>
-<tag>
-<AM lemma="poloautarkní" src="orig">AAIS7----1A----</AM>
-<AM lemma="poloautarkní" src="auto">AAFP3----1A----</AM>
-<AM lemma="poloautarkní" src="auto">AAIP3----1A----</AM>
-<AM lemma="poloautarkní" src="auto">AAIS6----1A----</AM>
-<AM lemma="poloautarkní" src="auto" recommended="1">AAIS7----1A----</AM>
-<AM lemma="poloautarkní" src="auto">AAMP3----1A----</AM>
-<AM lemma="poloautarkní" src="auto">AAMS6----1A----</AM>
-<AM lemma="poloautarkní" src="auto">AAMS7----1A----</AM>
-<AM lemma="poloautarkní" src="auto">AANP3----1A----</AM>
-<AM lemma="poloautarkní" src="auto">AANS6----1A----</AM>
-<AM lemma="poloautarkní" src="auto">AANS7----1A----</AM>
-<AM lemma="poloautarkní_^(*3at)" src="auto">NNNS7-----A----</AM>
-<AM lemma="poloautarkní_^(*3it)" src="auto">NNNS7-----A----</AM>
-</tag>
+<tag lemma="poloautarkní" src="orig" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln95049-083-p3s1w20">
 <src.rf>manual</src.rf>

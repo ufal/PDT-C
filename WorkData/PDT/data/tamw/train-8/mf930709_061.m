@@ -302,18 +302,7 @@
 <LM>w#w-mf930709-061-p2s2w8</LM>
 </w.rf>
 <form>Scziranka</form>
-<tag>
-<AM lemma="Scziranka_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Scziranka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Scziranka_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Scziranek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Scziranek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Scziranka_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Scziranka_;E_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Scziranko_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Scziranka_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="scziranka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Scziranka_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-061-p2s2w9">
 <src.rf>manual</src.rf>
@@ -884,18 +873,7 @@
 <LM>w#w-mf930709-061-p2s8w4</LM>
 </w.rf>
 <form>Scziranka</form>
-<tag>
-<AM lemma="Scziranka_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Scziranka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Scziranka_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Scziranek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Scziranek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Scziranka_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Scziranka_;E_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Scziranko_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Scziranka_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="scziranka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Scziranka_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-061-p2s8w5">
 <src.rf>manual</src.rf>
@@ -1937,18 +1915,7 @@
 <LM>w#w-mf930709-061-p2s15w30</LM>
 </w.rf>
 <form>Scziranka</form>
-<tag>
-<AM lemma="Scziranka_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Scziranka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Scziranka_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Scziranek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Scziranek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Scziranka_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Scziranka_;E_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Scziranko_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Scziranka_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="scziranka" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Scziranka_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-061-p2s15w31">
 <src.rf>manual</src.rf>

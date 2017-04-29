@@ -1052,18 +1052,7 @@
 <LM>w#w-mf920925-085-p2s8w31</LM>
 </w.rf>
 <form>Fetuzy</form>
-<tag>
-<AM lemma="Fetuza_;K" src="orig">NNFS2-----A----</AM>
-<AM lemma="Fetuza_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Fetuza" src="auto">NNFS2-----A----</AM>
-<AM lemma="Fetuza" src="auto">NNFP1-----A----</AM>
-<AM lemma="Fetuza_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Fetuz" src="auto">NNIP4-----A----</AM>
-<AM lemma="Fetuz" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="Fetuz" src="auto">NNIP7-----A----</AM>
-<AM lemma="Fetuza" src="auto">NNFP4-----A----</AM>
-<AM lemma="fetuzy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Fetuza_;K" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-085-p2s8w32">
 <src.rf>manual</src.rf>

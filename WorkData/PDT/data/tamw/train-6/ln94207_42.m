@@ -111,18 +111,7 @@
 <LM>w#w-ln94207-42-p2s1Bw7</LM>
 </w.rf>
 <form>Naska</form>
-<tag>
-<AM lemma="Nasko_;Y" src="orig">NNMS4-----A----</AM>
-<AM lemma="Nasko_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Naska" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nasko" src="auto">NNNS2-----A----</AM>
-<AM lemma="Nasko" src="auto">NNNP1-----A----</AM>
-<AM lemma="Naska_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nasko" src="auto">NNNP4-----A----</AM>
-<AM lemma="Nasek_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Nasek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="naska" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nasko_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94207-42-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -286,16 +275,7 @@
 <LM>w#w-ln94207-42-p2s1Bw27</LM>
 </w.rf>
 <form>Olimpijí</form>
-<tag>
-<AM lemma="Olimpija_;K" src="orig">NNFS7-----A----</AM>
-<AM lemma="Olimpít" src="auto">VB-P---3P-AA--1</AM>
-<AM lemma="Olimpije_^(vozidlo)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Olimpije-1_^(utrpení)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Olimpije" src="auto">NNFP2-----A----</AM>
-<AM lemma="Olimpija_;K_;w_,t" src="auto">NNFP2-----A----</AM>
-<AM lemma="Olimpija_;K" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="olimpijí" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Olimpija_;K" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94207-42-p2s1Bw28">
 <src.rf>manual</src.rf>

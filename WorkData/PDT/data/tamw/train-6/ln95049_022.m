@@ -27,17 +27,7 @@
 <LM>w#w-ln95049-022-p1s1w2</LM>
 </w.rf>
 <form>vav</form>
-<tag>
-<AM lemma="vav-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vav-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="vav_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="vava" src="auto">NNFP2-----A----</AM>
-<AM lemma="vav-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="vav" src="auto">NNIS4-----A----</AM>
-<AM lemma="vav" src="auto">NNIS1-----A----</AM>
-<AM lemma="vav_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="vav_;K" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="vav-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95049-022-p1s1w3">
 <src.rf>manual</src.rf>

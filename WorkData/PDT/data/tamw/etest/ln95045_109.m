@@ -19,18 +19,7 @@
 <LM>w#w-ln95045-109-p1s1w1</LM>
 </w.rf>
 <form>Herbacos</form>
-<tag>
-<AM lemma="Herbacos_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Herbacos" src="auto">PZ--4----------</AM>
-<AM lemma="Herbacos" src="auto">PZ--1----------</AM>
-<AM lemma="Herbaco-1" src="auto">PKM-4--2-------</AM>
-<AM lemma="Herbacos_;m_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Herbacos_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Herbacos_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Herbacos" src="auto">NNIS1-----A----</AM>
-<AM lemma="Herbacos" src="auto">NNIS4-----A----</AM>
-<AM lemma="herbacos" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Herbacos_;K" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-109-p1s1w2">
 <src.rf>manual</src.rf>
@@ -199,18 +188,7 @@
 <LM>w#w-ln95045-109-p1s1w22</LM>
 </w.rf>
 <form>FRYMA</form>
-<tag>
-<AM lemma="FRYMA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FRYMA" src="auto">NNMS1-----A----</AM>
-<AM lemma="Frymum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Frym_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Fryma_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fryma" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Fryma" src="auto">NNNS1-----A----</AM>
-<AM lemma="Fryma_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fryma" src="auto">NNNS4-----A----</AM>
-<AM lemma="Fryma_;G" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="FRYMA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 </s>
 </mdata>

@@ -1871,18 +1871,7 @@
 <LM>w#w-ln94210-108-p3s5w2</LM>
 </w.rf>
 <form>Dobrunz</form>
-<tag>
-<AM lemma="Dobrunz_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dobrunz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dobrunz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dobruns" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dobrunz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dobrunz_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Dobrunz-1_;K_;R_^(vozidlo)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Dobrunz" src="auto">NNXXX-----A----</AM>
-<AM lemma="Dobrunz" src="auto">NNMS1-----A----</AM>
-<AM lemma="dobrunz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dobrunz_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-108-p3s5w3">
 <src.rf>manual</src.rf>
@@ -2068,18 +2057,7 @@
 <LM>w#w-ln94210-108-p3s6w10</LM>
 </w.rf>
 <form>Majevszky</form>
-<tag>
-<AM lemma="Majevszky_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Majevszka" src="auto">NNFS2-----A----</AM>
-<AM lemma="Majevszka" src="auto">NNFP4-----A----</AM>
-<AM lemma="Majevszka" src="auto">NNFP1-----A----</AM>
-<AM lemma="Majevszek" src="auto">NNIP4-----A----</AM>
-<AM lemma="Majevszek" src="auto">NNIP1-----A----</AM>
-<AM lemma="Majevszek" src="auto">NNIP7-----A----</AM>
-<AM lemma="Majevszky_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Majevszka_^(*2)" src="auto">NNFS2-----A----</AM>
-<AM lemma="majevszky" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Majevszky_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-108-p3s6w11">
 <src.rf>manual</src.rf>
@@ -2265,18 +2243,7 @@
 <LM>w#w-ln94210-108-p3s7w2</LM>
 </w.rf>
 <form>Reuschke</form>
-<tag>
-<AM lemma="Reuschke_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuschke_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Reuschke_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Reuschke_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Reuschke_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Reuschke_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Reuschka_,t" src="auto">NNFS6-----A----</AM>
-<AM lemma="Reuschk-1" src="auto">RV--3----------</AM>
-<AM lemma="Reuschke_;Y_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="reuschke" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Reuschke_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-108-p3s7w3">
 <src.rf>manual</src.rf>
@@ -2936,18 +2903,7 @@
 <LM>w#w-ln94210-108-p3s13w1</LM>
 </w.rf>
 <form>Ekkehard</form>
-<tag>
-<AM lemma="Ekkehard" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ekkehard_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ekkehard_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ekkehard" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ekkehard_;m_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Ekkehard_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ekkehard" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ekkehard" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ekkeharda`1000000000" src="auto">NNFP2-----A----</AM>
-<AM lemma="ekkehard" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ekkehard" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-108-p3s13w2">
 <src.rf>manual</src.rf>

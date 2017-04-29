@@ -393,17 +393,7 @@
 <LM>w#w-ln94208-129-p2s1Cw31</LM>
 </w.rf>
 <form>aerotaxikem</form>
-<tag>
-<AM lemma="aerotaxik_,h" src="orig">NNIS7-----A----</AM>
-<AM lemma="aerotaxik" src="auto">NNIS7-----A----</AM>
-<AM lemma="aerotaxiek" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="aerotaxik" src="auto">NNMS7-----A----</AM>
-<AM lemma="aerotaxik_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="aerotaxiek_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="aerotaxiko_;G" src="auto">NNNS7-----A----</AM>
-<AM lemma="aerotaxiko" src="auto">NNNS7-----A----</AM>
-<AM lemma="aerotaxiek" src="auto">NNMS7-----A----</AM>
-</tag>
+<tag lemma="aerotaxik_,h" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94208-129-p2s1Cw32">
 <src.rf>manual</src.rf>

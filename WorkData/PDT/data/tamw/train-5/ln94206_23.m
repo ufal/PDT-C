@@ -183,20 +183,7 @@
 <LM>w#w-ln94206-23-p2s1Bw11</LM>
 </w.rf>
 <form>UTE</form>
-<tag>
-<AM lemma="UTE_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="UTE_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Ute_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Uit_:W" src="auto">Vi-P---2--A----</AM>
-<AM lemma="ute_,t" src="auto">Db-------------</AM>
-<AM lemma="ute_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ute_;K_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ute_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="ute_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="ute_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="ute_;K_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="ute_;K_,t" src="auto">NNFSX-----A----</AM>
-</tag>
+<tag lemma="UTE_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94206-23-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -984,20 +971,7 @@
 <LM>w#w-ln94206-23-p4s2w25</LM>
 </w.rf>
 <form>UTE</form>
-<tag>
-<AM lemma="UTE_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="UTE_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Ute_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Uit_:W" src="auto">Vi-P---2--A----</AM>
-<AM lemma="ute_,t" src="auto">Db-------------</AM>
-<AM lemma="ute_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ute_;K_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ute_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="ute_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="ute_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="ute_;K_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="ute_;K_,t" src="auto">NNFSX-----A----</AM>
-</tag>
+<tag lemma="UTE_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94206-23-p4s2w26">
 <src.rf>manual</src.rf>
@@ -2003,20 +1977,7 @@
 <LM>w#w-ln94206-23-p6s1w20</LM>
 </w.rf>
 <form>UTE</form>
-<tag>
-<AM lemma="UTE_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="UTE_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Ute_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Uit_:W" src="auto">Vi-P---2--A----</AM>
-<AM lemma="ute_,t" src="auto">Db-------------</AM>
-<AM lemma="ute_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ute_;K_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ute_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="ute_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="ute_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="ute_;K_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="ute_;K_,t" src="auto">NNFSX-----A----</AM>
-</tag>
+<tag lemma="UTE_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94206-23-p6s1w21">
 <src.rf>manual</src.rf>

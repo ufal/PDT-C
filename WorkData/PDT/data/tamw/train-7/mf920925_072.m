@@ -153,19 +153,7 @@
 <LM>w#w-mf920925-072-p2s2w5</LM>
 </w.rf>
 <form>Národná</form>
-<tag>
-<AM lemma="Národný_;R_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="Národnat_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Národný" src="auto">AAFS1----1A----</AM>
-<AM lemma="Národný" src="auto">AANP1----1A----</AM>
-<AM lemma="Národný" src="auto">AANP4----1A----</AM>
-<AM lemma="národná" src="auto">NNMS1-----A----</AM>
-<AM lemma="národný" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="národný" src="auto">AAFS5----1A----</AM>
-<AM lemma="národný" src="auto">AANP1----1A----</AM>
-<AM lemma="národný" src="auto">AANP4----1A----</AM>
-<AM lemma="národný" src="auto">AANP5----1A----</AM>
-</tag>
+<tag lemma="Národný_;R_,t" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf920925-072-p2s2w6">
 <src.rf>manual</src.rf>

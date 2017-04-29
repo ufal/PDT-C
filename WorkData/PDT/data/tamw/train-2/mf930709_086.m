@@ -694,18 +694,7 @@
 <LM>w#w-mf930709-086-p2s2Bw3</LM>
 </w.rf>
 <form>Beffi</form>
-<tag>
-<AM lemma="Beffi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Beffi_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Beffi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Beffi_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="fiction-2_:B_,t_^(angl._fantastický,_sci-Beffi)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="fiction-1_:B_,t_^(angl._fantastický,_sci-Beffi)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Beffe_,h" src="auto">NNNS6-----A----</AM>
-<AM lemma="Beffi_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Beffe" src="auto">NNFS4-----A----</AM>
-<AM lemma="beffi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Beffi_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-086-p2s2Bw4">
 <src.rf>manual</src.rf>
@@ -1128,18 +1117,7 @@
 <LM>w#w-mf930709-086-p2s4w10</LM>
 </w.rf>
 <form>Beffi</form>
-<tag>
-<AM lemma="Beffi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Beffi_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Beffi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Beffi_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="fiction-2_:B_,t_^(angl._fantastický,_sci-Beffi)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="fiction-1_:B_,t_^(angl._fantastický,_sci-Beffi)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Beffe_,h" src="auto">NNNS6-----A----</AM>
-<AM lemma="Beffi_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Beffe" src="auto">NNFS4-----A----</AM>
-<AM lemma="beffi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Beffi_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-086-p2s4w11">
 <src.rf>manual</src.rf>

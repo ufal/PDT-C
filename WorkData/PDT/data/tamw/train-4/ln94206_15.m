@@ -71,18 +71,7 @@
 <LM>w#w-ln94206-15-p2s1Bw3</LM>
 </w.rf>
 <form>Pansy</form>
-<tag>
-<AM lemma="Pansy_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="Pansa_;Y" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Pansa_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Pansy_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Pansy" src="auto">NNIP4-----A----</AM>
-<AM lemma="Pans" src="auto">NNIP1-----A----</AM>
-<AM lemma="Pans" src="auto">NNIP4-----A----</AM>
-<AM lemma="Pans" src="auto">NNIP7-----A----</AM>
-<AM lemma="Pansa" src="auto">NNFS2-----A----</AM>
-<AM lemma="pansy" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Pansy_;K" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94206-15-p2s1Bw4">
 <src.rf>manual</src.rf>

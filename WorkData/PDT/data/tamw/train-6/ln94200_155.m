@@ -1801,17 +1801,7 @@
 <LM>w#w-ln94200-155-p3s8w14</LM>
 </w.rf>
 <form>Bergort</form>
-<tag>
-<AM lemma="Bergort_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bergort" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bergort" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bergort_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bergort_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bergort_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bergort_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Report_;K_;u_,t_^(umělecký_soubor_Wheather_Bergort)" src="auto">NNIXX-----A----</AM>
-<AM lemma="bergort" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bergort_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-155-p3s8w15">
 <src.rf>manual</src.rf>
@@ -1901,17 +1891,7 @@
 <LM>w#w-ln94200-155-p3s9w1</LM>
 </w.rf>
 <form>Bergort</form>
-<tag>
-<AM lemma="Bergort_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bergort" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bergort" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bergort_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bergort_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bergort_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bergort_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Report_;K_;u_,t_^(umělecký_soubor_Wheather_Bergort)" src="auto">NNIXX-----A----</AM>
-<AM lemma="bergort" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Bergort_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-155-p3s9w2">
 <src.rf>manual</src.rf>
@@ -4033,18 +4013,7 @@
 <LM>w#w-ln94200-155-p5s1w12</LM>
 </w.rf>
 <form>Vaattovaara</form>
-<tag>
-<AM lemma="Vaattovaara_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vaattovaar_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vaattovaar_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vaattovaar_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vaattovaara_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Vaattovaara_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vaattovaar_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vaattovaara_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vaattovaara" src="auto">NNFS1-----A----</AM>
-<AM lemma="vaattovaara" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Vaattovaara_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-155-p5s1w13">
 <src.rf>manual</src.rf>
@@ -4444,18 +4413,7 @@
 <LM>w#w-ln94200-155-p8s1Bw2</LM>
 </w.rf>
 <form>Cratz</form>
-<tag>
-<AM lemma="Cratz_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cratz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cratz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cratz_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Cratz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cratz_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cratz_;K" src="auto">NNMXX-----A----</AM>
-<AM lemma="Cratz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cratz_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="cratz" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cratz_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-155-p8s1Bw3">
 <src.rf>manual</src.rf>
@@ -4763,18 +4721,7 @@
 <LM>w#w-ln94200-155-p8s3w5</LM>
 </w.rf>
 <form>Kindvall</form>
-<tag>
-<AM lemma="Kindvall_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kindvall_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kindvall_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kindvall_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kindvall_;w_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kindvall_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kindvall_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kindvall_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kindvall_,t_^(řec._jinak)" src="auto">Db-------------</AM>
-<AM lemma="kindvall" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Kindvall_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-155-p8s3w6">
 <src.rf>manual</src.rf>

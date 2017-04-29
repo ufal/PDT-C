@@ -53,17 +53,7 @@
 <LM>w#w-ln94200-3-p2s1w1</LM>
 </w.rf>
 <form>Giacommo</form>
-<tag>
-<AM lemma="Giacommo_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Giacommo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Giacommo" src="auto">Db-------------</AM>
-<AM lemma="Giacommo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Giacommo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Giacommo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Giacommo" src="auto">Dg-------1A----</AM>
-<AM lemma="Giacommo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="giacommo" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Giacommo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-3-p2s1w2">
 <src.rf>manual</src.rf>
@@ -751,17 +741,7 @@
 <LM>w#w-ln94200-3-p3s1w19</LM>
 </w.rf>
 <form>Neblettovou</form>
-<tag>
-<AM lemma="Neblettová_;S" src="orig">NNFS4-----A----</AM>
-<AM lemma="Neblettový" src="auto">AAFS4----1A----</AM>
-<AM lemma="Neblettový" src="auto">AAFS7----1A----</AM>
-<AM lemma="Neblettová_;S" src="auto">NNFS7-----A----</AM>
-<AM lemma="Neblettová_;S" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Neblettova" src="auto">NNFS7-----A----</AM>
-<AM lemma="Neblettův_;S_^(*2)" src="auto">AUFS7M---------</AM>
-<AM lemma="Neblettova_;G" src="auto">NNFS7-----A----</AM>
-<AM lemma="neblettovou" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Neblettová_;S" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94200-3-p3s1w20">
 <src.rf>manual</src.rf>

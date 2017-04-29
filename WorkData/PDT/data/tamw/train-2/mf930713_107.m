@@ -538,17 +538,7 @@
 <LM>w#w-mf930713-107-p2s2w16</LM>
 </w.rf>
 <form>Rušovi</form>
-<tag>
-<AM lemma="Ruš_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Ruš_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Ruš" src="auto">NNMS3-----A----</AM>
-<AM lemma="Ruš_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Ruša_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Ruš_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Ruš" src="auto">NNMS6-----A----</AM>
-<AM lemma="Rušův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="rušovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Ruš_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930713-107-p2s2w17">
 <src.rf>manual</src.rf>
@@ -604,23 +594,7 @@
 <LM>w#w-mf930713-107-p2s2w23</LM>
 </w.rf>
 <form>SFŽ</form>
-<tag>
-<AM lemma="SFŽ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SFŽ_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SFŽ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Sfž" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sfž" src="auto">NNFS4-----A----</AM>
-<AM lemma="Sfž" src="auto">Db-------------</AM>
-<AM lemma="Sfž" src="auto">J,-------------</AM>
-<AM lemma="Sfž_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sfž_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sfž-1" src="auto">Db-------------</AM>
-<AM lemma="Sfž" src="auto">TT-------------</AM>
-<AM lemma="sfž" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SFŽ_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930713-107-p2s2w24">
 <src.rf>manual</src.rf>
@@ -809,23 +783,7 @@
 <LM>w#w-mf930713-107-p2s4w5</LM>
 </w.rf>
 <form>SFŽ</form>
-<tag>
-<AM lemma="SFŽ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SFŽ_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SFŽ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Sfž" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sfž" src="auto">NNFS4-----A----</AM>
-<AM lemma="Sfž" src="auto">Db-------------</AM>
-<AM lemma="Sfž" src="auto">J,-------------</AM>
-<AM lemma="Sfž_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sfž_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sfž-1" src="auto">Db-------------</AM>
-<AM lemma="Sfž" src="auto">TT-------------</AM>
-<AM lemma="sfž" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SFŽ_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930713-107-p2s4w6">
 <src.rf>manual</src.rf>
@@ -929,23 +887,7 @@
 <LM>w#w-mf930713-107-p2s4w18</LM>
 </w.rf>
 <form>SFŽ</form>
-<tag>
-<AM lemma="SFŽ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SFŽ_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SFŽ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Sfž" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sfž" src="auto">NNFS4-----A----</AM>
-<AM lemma="Sfž" src="auto">Db-------------</AM>
-<AM lemma="Sfž" src="auto">J,-------------</AM>
-<AM lemma="Sfž_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sfž_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sfž-1" src="auto">Db-------------</AM>
-<AM lemma="Sfž" src="auto">TT-------------</AM>
-<AM lemma="sfž" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SFŽ_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930713-107-p2s4w19">
 <src.rf>manual</src.rf>
@@ -985,23 +927,7 @@
 <LM>w#w-mf930713-107-p2s4w23</LM>
 </w.rf>
 <form>SFŽ</form>
-<tag>
-<AM lemma="SFŽ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SFŽ_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SFŽ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Sfž" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sfž" src="auto">NNFS4-----A----</AM>
-<AM lemma="Sfž" src="auto">Db-------------</AM>
-<AM lemma="Sfž" src="auto">J,-------------</AM>
-<AM lemma="Sfž_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sfž_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sfž-1" src="auto">Db-------------</AM>
-<AM lemma="Sfž" src="auto">TT-------------</AM>
-<AM lemma="sfž" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SFŽ_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930713-107-p2s4w24">
 <src.rf>manual</src.rf>
@@ -1017,18 +943,7 @@
 <LM>w#w-mf930713-107-p2s4w25</LM>
 </w.rf>
 <form>Dziadkovi</form>
-<tag>
-<AM lemma="Dziadko_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Dziadk_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Dziadk" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Dziadk_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Dziadka_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Dziadk_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Dziadk" src="auto">NNMS6-----A----</AM>
-<AM lemma="Dziadkův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="Dziadek_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="dziadkovi" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Dziadko_;S" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930713-107-p2s4w26">
 <src.rf>manual</src.rf>
@@ -1100,23 +1015,7 @@
 <LM>w#w-mf930713-107-p2s4w34</LM>
 </w.rf>
 <form>SFŽ</form>
-<tag>
-<AM lemma="SFŽ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SFŽ_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SFŽ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ-9_:B_;S" src="auto" recommended="1">NNMXX-----A---8</AM>
-<AM lemma="Sfž" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sfž" src="auto">NNFS4-----A----</AM>
-<AM lemma="Sfž" src="auto">Db-------------</AM>
-<AM lemma="Sfž" src="auto">J,-------------</AM>
-<AM lemma="Sfž_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sfž_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sfž-1" src="auto">Db-------------</AM>
-<AM lemma="Sfž" src="auto">TT-------------</AM>
-<AM lemma="sfž" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SFŽ_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930713-107-p2s4w35">
 <src.rf>manual</src.rf>
@@ -1150,23 +1049,7 @@
 <LM>w#w-mf930713-107-p2s5w3</LM>
 </w.rf>
 <form>SFŽ</form>
-<tag>
-<AM lemma="SFŽ_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SFŽ_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SFŽ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SFŽ-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Sfž" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sfž" src="auto">NNFS4-----A----</AM>
-<AM lemma="Sfž" src="auto">Db-------------</AM>
-<AM lemma="Sfž" src="auto">J,-------------</AM>
-<AM lemma="Sfž_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sfž_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sfž-1" src="auto">Db-------------</AM>
-<AM lemma="Sfž" src="auto">TT-------------</AM>
-<AM lemma="sfž" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="SFŽ_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930713-107-p2s5w4">
 <src.rf>manual</src.rf>

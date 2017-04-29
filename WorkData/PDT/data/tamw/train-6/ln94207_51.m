@@ -43,19 +43,7 @@
 <LM>w#w-ln94207-51-p1s1w4</LM>
 </w.rf>
 <form>Sorbita</form>
-<tag>
-<AM lemma="Sorbit_;Y" src="orig">NNMS4-----A----</AM>
-<AM lemma="Sorbita" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sorbita" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sorbita-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sorbita_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sorbita_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sorbita_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sorbito_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sorbít" src="auto" recommended="1">VsQW---XX-AP---</AM>
-<AM lemma="sorbita" src="auto">NNFS1-----A----</AM>
-<AM lemma="sorbita" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Sorbit_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94207-51-p1s1w5">
 <src.rf>manual</src.rf>
@@ -89,17 +77,7 @@
 <LM>w#w-ln94207-51-p2s1Aw3</LM>
 </w.rf>
 <form>mmz</form>
-<tag>
-<AM lemma="mmz-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mmz-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="mmz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mmz" src="auto">NNIS4-----A----</AM>
-<AM lemma="mmz" src="auto">NNIS1-----A----</AM>
-<AM lemma="mmza" src="auto">NNFP2-----A----</AM>
-<AM lemma="mmz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mmz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="mms" src="auto">NNIS1-----A----</AM>
-</tag>
+<tag lemma="mmz-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94207-51-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -562,17 +540,7 @@
 <LM>w#w-ln94207-51-p3s1w14</LM>
 </w.rf>
 <form>Jadese</form>
-<tag>
-<AM lemma="Jades_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Jadést" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Jades_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Jadese" src="auto">NNFS2-----A----</AM>
-<AM lemma="Jadese" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jades_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Jades_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Jades" src="auto">NNIS6-----A----</AM>
-<AM lemma="jadese" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jades_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-51-p3s1w15">
 <src.rf>manual</src.rf>
@@ -580,17 +548,7 @@
 <LM>w#w-ln94207-51-p3s1w15</LM>
 </w.rf>
 <form>Ideala</form>
-<tag>
-<AM lemma="Ideal_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Ideal_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Ideat" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Ideat_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Ideat_:T_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Ideat_:T_^(*4at)" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Ideat_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="ideala" src="auto">NNMS1-----A----</AM>
-<AM lemma="ideala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto">NNFS1-----A----</AM>
-</tag>
+<tag lemma="Ideal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-51-p3s1w16">
 <src.rf>manual</src.rf>

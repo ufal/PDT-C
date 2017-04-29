@@ -550,18 +550,7 @@
 <LM>w#w-ln94207-112-p3s3w11</LM>
 </w.rf>
 <form>Cantitans</form>
-<tag>
-<AM lemma="Cantitans_;K_,t" src="orig">AAFSX----1A----</AM>
-<AM lemma="Cantitans_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cantitan_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Cantitans_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cantitan_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Cantitan_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Cantitansactions_:B_;K_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Cantitans_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cantitans_;Y" src="auto">NNMPX-----A----</AM>
-<AM lemma="cantitans" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cantitans_;K_,t" src="orig" selected="1">AAFSX----1A----</tag>
 </m>
 <m id="m-ln94207-112-p3s3w12">
 <src.rf>manual</src.rf>
@@ -585,18 +574,7 @@
 <LM>w#w-ln94207-112-p3s3w14</LM>
 </w.rf>
 <form>Rudolphina</form>
-<tag>
-<AM lemma="Rudolphina_;K_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="Rudolphina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rudolphin_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rudolphina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rudolphin_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rudolphina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rudolphina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rudolphin_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rudolphina_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="rudolphina" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rudolphina_;K_,t" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94207-112-p3s3w15">
 <src.rf>manual</src.rf>
@@ -628,17 +606,7 @@
 <LM>w#w-ln94207-112-p3s3w18</LM>
 </w.rf>
 <form>Consort</form>
-<tag>
-<AM lemma="Consort_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Consort" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consort" src="auto">NNIS4-----A----</AM>
-<AM lemma="Consort_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Consort_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consort_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consort_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Report_;K_;u_,t_^(umělecký_soubor_Wheather_Consort)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="consort" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Consort_;K" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94207-112-p3s3w19">
 <src.rf>manual</src.rf>
@@ -1280,18 +1248,7 @@
 <LM>w#w-ln94207-112-p3s5w6</LM>
 </w.rf>
 <form>Cantitans</form>
-<tag>
-<AM lemma="Cantitans_;K_,t" src="orig">AAFSX----1A----</AM>
-<AM lemma="Cantitans_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cantitan_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Cantitans_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cantitan_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Cantitan_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Cantitansactions_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Cantitans_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cantitans_;Y" src="auto">NNMPX-----A----</AM>
-<AM lemma="cantitans" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cantitans_;K_,t" src="orig" selected="1">AAFSX----1A----</tag>
 </m>
 <m id="m-ln94207-112-p3s5w7">
 <src.rf>manual</src.rf>
@@ -1512,18 +1469,7 @@
 <LM>w#w-ln94207-112-p4s1w11</LM>
 </w.rf>
 <form>Florea</form>
-<tag>
-<AM lemma="Florea_;K_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="Florea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Floreo_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Flore_;S" src="auto">NNMS4-----A---1</AM>
-<AM lemma="Florea_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Florea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Florea_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Florea_;K_,t" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="Florea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="florea" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Florea_;K_,t" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94207-112-p4s1w12">
 <src.rf>manual</src.rf>
@@ -2273,18 +2219,7 @@
 <LM>w#w-ln94207-112-p5s1w5</LM>
 </w.rf>
 <form>Cantitans</form>
-<tag>
-<AM lemma="Cantitans_;K_,t" src="orig">AAFSX----1A----</AM>
-<AM lemma="Cantitans_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cantitan_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Cantitans_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cantitan_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Cantitan_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Cantitansactions_:B_;K_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Cantitans_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cantitans_;Y" src="auto">NNMPX-----A----</AM>
-<AM lemma="cantitans" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cantitans_;K_,t" src="orig" selected="1">AAFSX----1A----</tag>
 </m>
 <m id="m-ln94207-112-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2308,18 +2243,7 @@
 <LM>w#w-ln94207-112-p5s1w8</LM>
 </w.rf>
 <form>Rudolphina</form>
-<tag>
-<AM lemma="Rudolphina_;K_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="Rudolphina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rudolphin_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rudolphina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rudolphin_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rudolphina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rudolphina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rudolphin_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rudolphina_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="rudolphina" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Rudolphina_;K_,t" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94207-112-p5s1w9">
 <src.rf>manual</src.rf>
@@ -2343,17 +2267,7 @@
 <LM>w#w-ln94207-112-p5s1w11</LM>
 </w.rf>
 <form>Consort</form>
-<tag>
-<AM lemma="Consort_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Consort" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consort" src="auto">NNIS4-----A----</AM>
-<AM lemma="Consort_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Consort_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consort_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Consort_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Report_;K_;u_,t_^(umělecký_soubor_Wheather_Consort)" src="auto">NNIXX-----A----</AM>
-<AM lemma="consort" src="auto" recommended="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Consort_;K" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94207-112-p5s1w12">
 <src.rf>manual</src.rf>
@@ -2485,18 +2399,7 @@
 <LM>w#w-ln94207-112-p6s1w5</LM>
 </w.rf>
 <form>Florea</form>
-<tag>
-<AM lemma="Florea_;K_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="Florea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Floreo_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Flore_;S" src="auto">NNMS4-----A---1</AM>
-<AM lemma="Florea_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Florea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Florea_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Florea_;K_,t" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="Florea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="florea" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Florea_;K_,t" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94207-112-p6s1w6">
 <src.rf>manual</src.rf>

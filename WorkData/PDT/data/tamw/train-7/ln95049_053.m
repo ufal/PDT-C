@@ -269,18 +269,7 @@
 <LM>w#w-ln95049-053-p2s1Bw21</LM>
 </w.rf>
 <form>Caiyum</form>
-<tag>
-<AM lemma="Caiyum_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Caiyum_;S" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Caiyum" src="auto">NNNS1-----A----</AM>
-<AM lemma="Caiyum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Caiyum" src="auto">NNIS4-----A----</AM>
-<AM lemma="Caiyum" src="auto">NNIS1-----A----</AM>
-<AM lemma="Caiyum_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Caiyum_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Caiyum_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="caiyum" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Caiyum_;S" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95049-053-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -2096,18 +2085,7 @@
 <LM>w#w-ln95049-053-p4s3w12</LM>
 </w.rf>
 <form>Caiyum</form>
-<tag>
-<AM lemma="Caiyum_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Caiyum_;S" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Caiyum" src="auto">NNNS1-----A----</AM>
-<AM lemma="Caiyum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Caiyum" src="auto">NNIS4-----A----</AM>
-<AM lemma="Caiyum" src="auto">NNIS1-----A----</AM>
-<AM lemma="Caiyum_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Caiyum_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Caiyum_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="caiyum" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Caiyum_;S" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95049-053-p4s3w13">
 <src.rf>manual</src.rf>

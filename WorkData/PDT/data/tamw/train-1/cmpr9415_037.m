@@ -71,15 +71,7 @@
 <LM>w#w-cmpr9415-037-p4s1w3</LM>
 </w.rf>
 <form>Cycles</form>
-<tag>
-<AM lemma="Cycle_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Cycles_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cycles" src="auto">NNIS4-----A----</AM>
-<AM lemma="Cycles" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cycle_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Cycleso" src="auto">NNNP2-----A----</AM>
-<AM lemma="cycles" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cycle_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-cmpr9415-037-p4s1w4">
 <src.rf>manual</src.rf>
@@ -379,15 +371,7 @@
 <LM>w#w-cmpr9415-037-p5s1w4</LM>
 </w.rf>
 <form>Cycles</form>
-<tag>
-<AM lemma="Cycle_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Cycles_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cycles" src="auto">NNIS4-----A----</AM>
-<AM lemma="Cycles" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cycle_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Cycleso" src="auto">NNNP2-----A----</AM>
-<AM lemma="cycles" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Cycle_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
 </m>
 <m id="m-cmpr9415-037-p5s1w5">
 <src.rf>manual</src.rf>

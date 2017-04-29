@@ -2644,17 +2644,7 @@
 <LM>w#w-ln95048-107-p6s2w9</LM>
 </w.rf>
 <form>Lubrani</form>
-<tag>
-<AM lemma="Lubrani_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lubraň_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Lubrani_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lubran" src="auto">NNMP1-----A----</AM>
-<AM lemma="Lubraň" src="auto">NNFS6-----A----</AM>
-<AM lemma="Lubraň" src="auto">NNFS3-----A----</AM>
-<AM lemma="Lubran" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Lubran_;E" src="auto">NNMP1-----A---1</AM>
-<AM lemma="lubrani" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Lubrani_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-107-p6s2w10">
 <src.rf>manual</src.rf>

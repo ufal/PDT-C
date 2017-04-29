@@ -135,22 +135,7 @@
 <LM>w#w-ln94211-29-p2s1Bw4</LM>
 </w.rf>
 <form>KCF</form>
-<tag>
-<AM lemma="KCF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KCF_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="KCF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KCF_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KCF_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KCF_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Kcf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kcf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kcf" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kcf" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kcf_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kcf" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kcf-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="kcf" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="KCF_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94211-29-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -543,22 +528,7 @@
 <LM>w#w-ln94211-29-p3s1w1</LM>
 </w.rf>
 <form>KCF</form>
-<tag>
-<AM lemma="KCF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KCF_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="KCF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KCF_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KCF_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KCF_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Kcf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kcf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kcf" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kcf" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kcf_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kcf" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kcf-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="kcf" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="KCF_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94211-29-p3s1w2">
 <src.rf>manual</src.rf>
@@ -963,22 +933,7 @@
 <LM>w#w-ln94211-29-p3s3w7</LM>
 </w.rf>
 <form>KCF</form>
-<tag>
-<AM lemma="KCF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KCF_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="KCF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KCF_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KCF_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KCF_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Kcf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kcf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kcf" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kcf" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kcf_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kcf" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kcf-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="kcf" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="KCF_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94211-29-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1087,22 +1042,7 @@
 <LM>w#w-ln94211-29-p3s4w2</LM>
 </w.rf>
 <form>KCF</form>
-<tag>
-<AM lemma="KCF_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KCF_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="KCF_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KCF_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="KCF_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KCF_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Kcf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kcf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kcf" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kcf" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kcf_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kcf" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kcf-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="kcf" src="auto">NNMS1-----A----</AM>
-</tag>
+<tag lemma="KCF_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94211-29-p3s4w3">
 <src.rf>manual</src.rf>
