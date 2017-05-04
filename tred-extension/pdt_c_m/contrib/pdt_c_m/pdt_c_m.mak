@@ -139,10 +139,11 @@ sub select_morph {
 
     my $db = ToplevelFrame()->DialogBox(
         -title => 'Select lemma and tag',
-        -buttons => ['OK', 'New', 'Cancel'],
+        -buttons => ['OK', 'Edit', 'New', 'Cancel'],
     );
     bind_dialog($db);
-    bind_button(New => '<Control-n>', $db);
+    bind_button(New  => '<Control-n>', $db);
+    bind_button(Edit => '<Control-e>', $db);
 
     my @alt = AltV($node->attr('tag'));
     my @list = map tag2selection(), @alt;
@@ -181,8 +182,13 @@ sub select_morph {
         return $lb->curselection;
     }
 
-    if ('New' eq $answer) {
-        my ($result, $lemma, $tag) = new_lemma_tag($form);
+    if ($answer =~ /^(?: Edit | New )$/x) {
+        my ($lemma_to_edit, $tag_to_edit);
+        if ('Edit' eq $answer and my $selected = $lb->curselection) {
+            ($lemma_to_edit, $tag_to_edit) = split ' ', $list[ $selected->[0] ];
+        }
+        my ($result, $lemma, $tag)
+            = new_lemma_tag($form, $lemma_to_edit, $tag_to_edit);
         if ('OK' eq $result) {
             AddToAlt($node, 'tag', Treex::PML::Container->new($tag, {
                 lemma => $lemma, '#content' => $tag, src => 'manual'
@@ -200,7 +206,9 @@ sub tag2selection { $_->get_attribute('lemma') . "  " . $_->value }
 
 
 sub new_lemma_tag {
-    my ($form) = @_;
+    my ($form, $lemma, $tag) = @_;
+    $lemma //= $form;
+    $tag //= '-' x 15;
     my $dialog = ToplevelFrame()->DialogBox(
         -title => 'New lemma and tag',
         -buttons => [ 'OK', 'Cancel' ],
@@ -210,14 +218,14 @@ sub new_lemma_tag {
 
     my $lf = $dialog->Frame->pack;
     $lf->Label(-text => 'Lemma')->pack(-side => 'left');
-    my $le = $lf->Entry(-textvariable => \ (my $lemma = $form))
+    my $le = $lf->Entry(-textvariable => \$lemma)
         ->pack(-side => 'right');
     $le->focus;
     $dialog->bind('<Alt-l>' => sub { $le->focus });
 
     my $tf = $dialog->Frame->pack;
     $tf->Label(-text => 'Tag')->pack(-side => 'left');
-    my $te = $tf->Entry(-textvariable => \(my $tag = '-' x 15))
+    my $te = $tf->Entry(-textvariable => \$tag)
         ->pack(-side => 'right');
     $dialog->bind('<Alt-t>' => sub { $te->focus });
 
