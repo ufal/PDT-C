@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="wdata_30_schema.xml" />
+</head>
+<meta>
+<original_format>csts</original_format>
+</meta>
+<doc id="w-lnd92258-014" source_id="s/pub/nws/1992/lnd92258-014">
+<docmeta>
+<othermeta origin="csts/doc/a">
+&lt;mod>s
+&lt;txtype>pub
+&lt;genre>mix
+&lt;med>nws
+&lt;temp>1992
+&lt;authname>y
+&lt;opus>lnd92258
+&lt;id>014
+</othermeta>
+</docmeta>
+<para>
+<othermarkup origin="csts/doc/p/@n">1</othermarkup>
+<w id="w-lnd92258-014-p1s1w1">
+<token>KONKURS</token>
+</w>
+<w id="w-lnd92258-014-p1s1w2">
+<token>PRO</token>
+</w>
+<w id="w-lnd92258-014-p1s1w3">
+<token>TEXAS</token>
+</w>
+</para>
+<para>
+<othermarkup origin="csts/doc/p/@n">2</othermarkup>
+<w id="w-lnd92258-014-p2s1w1">
+<token>Mladé</token>
+</w>
+<w id="w-lnd92258-014-p2s1w2">
+<token>projekty</token>
+</w>
+</para>
+<para>
+<othermarkup origin="csts/doc/p/@n">3</othermarkup>
+<w id="w-lnd92258-014-p3s1w1">
+<token>PRAHA</token>
+</w>
+<w id="w-lnd92258-014-p3s1w2">
+<token>(</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s1w3">
+<token>r</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s1w4">
+<token>)</token>
+</w>
+<w id="w-lnd92258-014-p3s1w5">
+<token>-</token>
+</w>
+<w id="w-lnd92258-014-p3s2w1">
+<token>Konkurs</token>
+</w>
+<w id="w-lnd92258-014-p3s2w2">
+<token>na</token>
+</w>
+<w id="w-lnd92258-014-p3s2w3">
+<token>účast</token>
+</w>
+<w id="w-lnd92258-014-p3s2w4">
+<token>na</token>
+</w>
+<w id="w-lnd92258-014-p3s2w5">
+<token>IV</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s2w6">
+<token>.</token>
+</w>
+<w id="w-lnd92258-014-p3s2w7">
+<token>mezinárodní</token>
+</w>
+<w id="w-lnd92258-014-p3s2w8">
+<token>výstavě</token>
+</w>
+<w id="w-lnd92258-014-p3s2w9">
+<token>vědeckotechnické</token>
+</w>
+<w id="w-lnd92258-014-p3s2w10">
+<token>činnosti</token>
+</w>
+<w id="w-lnd92258-014-p3s2w11">
+<token>mládeže</token>
+</w>
+<w id="w-lnd92258-014-p3s2w12">
+<token>ESI</token>
+</w>
+<w id="w-lnd92258-014-p3s2w13">
+<token>93</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s2w14">
+<token>,</token>
+</w>
+<w id="w-lnd92258-014-p3s2w15">
+<token>která</token>
+</w>
+<w id="w-lnd92258-014-p3s2w16">
+<token>se</token>
+</w>
+<w id="w-lnd92258-014-p3s2w17">
+<token>uskuteční</token>
+</w>
+<w id="w-lnd92258-014-p3s2w18">
+<token>v</token>
+</w>
+<w id="w-lnd92258-014-p3s2w19">
+<token>červenci</token>
+</w>
+<w id="w-lnd92258-014-p3s2w20">
+<token>1993</token>
+</w>
+<w id="w-lnd92258-014-p3s2w21">
+<token>v</token>
+</w>
+<w id="w-lnd92258-014-p3s2w22">
+<token>texaském</token>
+</w>
+<w id="w-lnd92258-014-p3s2w23">
+<token>městě</token>
+</w>
+<w id="w-lnd92258-014-p3s2w24">
+<token>Amarillo</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s2w25">
+<token>,</token>
+</w>
+<w id="w-lnd92258-014-p3s2w26">
+<token>vyhlašuje</token>
+</w>
+<w id="w-lnd92258-014-p3s2w27">
+<token>Asociace</token>
+</w>
+<w id="w-lnd92258-014-p3s2w28">
+<token>pro</token>
+</w>
+<w id="w-lnd92258-014-p3s2w29">
+<token>mládež</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s2w30">
+<token>,</token>
+</w>
+<w id="w-lnd92258-014-p3s2w31">
+<token>vědu</token>
+</w>
+<w id="w-lnd92258-014-p3s2w32">
+<token>a</token>
+</w>
+<w id="w-lnd92258-014-p3s2w33">
+<token>techniku</token>
+</w>
+<w id="w-lnd92258-014-p3s2w34">
+<token>AMAVET</token>
+</w>
+<w id="w-lnd92258-014-p3s2w35">
+<token>ve</token>
+</w>
+<w id="w-lnd92258-014-p3s2w36">
+<token>spolupráci</token>
+</w>
+<w id="w-lnd92258-014-p3s2w37">
+<token>se</token>
+</w>
+<w id="w-lnd92258-014-p3s2w38">
+<token>STUDIEM</token>
+</w>
+<w id="w-lnd92258-014-p3s2w39">
+<token>2001</token>
+</w>
+<w id="w-lnd92258-014-p3s2w40">
+<token>Českého</token>
+</w>
+<w id="w-lnd92258-014-p3s2w41">
+<token>rozhlasu</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s2w42">
+<token>.</token>
+</w>
+<w id="w-lnd92258-014-p3s3w1">
+<token>Konkursu</token>
+</w>
+<w id="w-lnd92258-014-p3s3w2">
+<token>se</token>
+</w>
+<w id="w-lnd92258-014-p3s3w3">
+<token>mohou</token>
+</w>
+<w id="w-lnd92258-014-p3s3w4">
+<token>účastnit</token>
+</w>
+<w id="w-lnd92258-014-p3s3w5">
+<token>středoškoláci</token>
+</w>
+<w id="w-lnd92258-014-p3s3w6">
+<token>z</token>
+</w>
+<w id="w-lnd92258-014-p3s3w7">
+<token>České</token>
+</w>
+<w id="w-lnd92258-014-p3s3w8">
+<token>republiky</token>
+</w>
+<w id="w-lnd92258-014-p3s3w9">
+<token>ve</token>
+</w>
+<w id="w-lnd92258-014-p3s3w10">
+<token>věku</token>
+</w>
+<w id="w-lnd92258-014-p3s3w11">
+<token>14</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s3w12">
+<token>-</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s3w13">
+<token>18</token>
+</w>
+<w id="w-lnd92258-014-p3s3w14">
+<token>let</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s3w15">
+<token>,</token>
+</w>
+<w id="w-lnd92258-014-p3s3w16">
+<token>kteří</token>
+</w>
+<w id="w-lnd92258-014-p3s3w17">
+<token>předloží</token>
+</w>
+<w id="w-lnd92258-014-p3s3w18">
+<token>vlastní</token>
+</w>
+<w id="w-lnd92258-014-p3s3w19">
+<token>původní</token>
+</w>
+<w id="w-lnd92258-014-p3s3w20">
+<token>projekt</token>
+</w>
+<w id="w-lnd92258-014-p3s3w21">
+<token>z</token>
+</w>
+<w id="w-lnd92258-014-p3s3w22">
+<token>oblasti</token>
+</w>
+<w id="w-lnd92258-014-p3s3w23">
+<token>vědy</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s3w24">
+<token>,</token>
+</w>
+<w id="w-lnd92258-014-p3s3w25">
+<token>techniky</token>
+</w>
+<w id="w-lnd92258-014-p3s3w26">
+<token>nebo</token>
+</w>
+<w id="w-lnd92258-014-p3s3w27">
+<token>ekologie</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s3w28">
+<token>.</token>
+</w>
+<w id="w-lnd92258-014-p3s4w1">
+<token>Podmínkou</token>
+</w>
+<w id="w-lnd92258-014-p3s4w2">
+<token>je</token>
+</w>
+<w id="w-lnd92258-014-p3s4w3">
+<token>schopnost</token>
+</w>
+<w id="w-lnd92258-014-p3s4w4">
+<token>vysvětlit</token>
+</w>
+<w id="w-lnd92258-014-p3s4w5">
+<token>a</token>
+</w>
+<w id="w-lnd92258-014-p3s4w6">
+<token>obhájit</token>
+</w>
+<w id="w-lnd92258-014-p3s4w7">
+<token>vlastní</token>
+</w>
+<w id="w-lnd92258-014-p3s4w8">
+<token>řešení</token>
+</w>
+<w id="w-lnd92258-014-p3s4w9">
+<token>v</token>
+</w>
+<w id="w-lnd92258-014-p3s4w10">
+<token>angličtině</token>
+</w>
+<w id="w-lnd92258-014-p3s4w11">
+<token>nebo</token>
+</w>
+<w id="w-lnd92258-014-p3s4w12">
+<token>francouzštině</token>
+</w>
+<w id="w-lnd92258-014-p3s4w13">
+<token>a</token>
+</w>
+<w id="w-lnd92258-014-p3s4w14">
+<token>prokázat</token>
+</w>
+<w id="w-lnd92258-014-p3s4w15">
+<token>tvůrčí</token>
+</w>
+<w id="w-lnd92258-014-p3s4w16">
+<token>přístup</token>
+</w>
+<w id="w-lnd92258-014-p3s4w17">
+<token>při</token>
+</w>
+<w id="w-lnd92258-014-p3s4w18">
+<token>řešení</token>
+</w>
+<w id="w-lnd92258-014-p3s4w19">
+<token>svého</token>
+</w>
+<w id="w-lnd92258-014-p3s4w20">
+<token>projektu</token>
+</w>
+<w id="w-lnd92258-014-p3s4w21">
+<token>v</token>
+</w>
+<w id="w-lnd92258-014-p3s4w22">
+<token>konkurenci</token>
+</w>
+<w id="w-lnd92258-014-p3s4w23">
+<token>stejně</token>
+</w>
+<w id="w-lnd92258-014-p3s4w24">
+<token>starých</token>
+</w>
+<w id="w-lnd92258-014-p3s4w25">
+<token>řešitelů</token>
+</w>
+<w id="w-lnd92258-014-p3s4w26">
+<token>ze</token>
+</w>
+<w id="w-lnd92258-014-p3s4w27">
+<token>42</token>
+</w>
+<w id="w-lnd92258-014-p3s4w28">
+<token>států</token>
+</w>
+<w id="w-lnd92258-014-p3s4w29">
+<token>světa</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s4w30">
+<token>.</token>
+</w>
+<w id="w-lnd92258-014-p3s5w1">
+<token>Jednotlivci</token>
+</w>
+<w id="w-lnd92258-014-p3s5w2">
+<token>i</token>
+</w>
+<w id="w-lnd92258-014-p3s5w3">
+<token>kolektivy</token>
+</w>
+<w id="w-lnd92258-014-p3s5w4">
+<token>se</token>
+</w>
+<w id="w-lnd92258-014-p3s5w5">
+<token>mohou</token>
+</w>
+<w id="w-lnd92258-014-p3s5w6">
+<token>přihlásit</token>
+</w>
+<w id="w-lnd92258-014-p3s5w7">
+<token>nejpozději</token>
+</w>
+<w id="w-lnd92258-014-p3s5w8">
+<token>do</token>
+</w>
+<w id="w-lnd92258-014-p3s5w9">
+<token>30</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s5w10">
+<token>.</token>
+</w>
+<w id="w-lnd92258-014-p3s5w11">
+<token>listopadu</token>
+</w>
+<w id="w-lnd92258-014-p3s5w12">
+<token>na</token>
+</w>
+<w id="w-lnd92258-014-p3s5w13">
+<token>adrese</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s5w14">
+<token>:</token>
+</w>
+<w id="w-lnd92258-014-p3s5w15">
+<token>AMAVET</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s5w16">
+<token>,</token>
+</w>
+<w id="w-lnd92258-014-p3s5w17">
+<token>Bubenská</token>
+</w>
+<w id="w-lnd92258-014-p3s5w18">
+<token>6</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s5w19">
+<token>,</token>
+</w>
+<w id="w-lnd92258-014-p3s5w20">
+<token>Praha</token>
+</w>
+<w id="w-lnd92258-014-p3s5w21">
+<token>7</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s5w22">
+<token>,</token>
+</w>
+<w id="w-lnd92258-014-p3s5w23">
+<token>170</token>
+</w>
+<w id="w-lnd92258-014-p3s5w24">
+<token>00</token>
+<no_space_after>1</no_space_after>
+</w>
+<w id="w-lnd92258-014-p3s5w25">
+<token>.</token>
+</w>
+</para>
+</doc>
+</wdata>
