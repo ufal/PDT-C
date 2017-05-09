@@ -2505,8 +2505,6 @@
 <lemma>pouze</lemma>
 <tag>Db-------------</tag>
 </m>
-</s>
-<s id="m-mf930702-094-p2s14">
 <m id="m-mf930702-094-p2s14w1">
 <src.rf>manual</src.rf>
 <w.rf>

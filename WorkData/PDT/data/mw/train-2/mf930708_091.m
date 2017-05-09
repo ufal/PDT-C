@@ -323,8 +323,6 @@
 <lemma>čínský</lemma>
 <tag>AAMS1----1A----</tag>
 </m>
-</s>
-<s id="m-mf930708-091-p2s3">
 <m id="m-mf930708-091-p2s3w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -761,8 +759,6 @@
 <lemma>byt_^(místo_k_bydlení)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
-</s>
-<s id="m-mf930708-091-p2s6">
 <m id="m-mf930708-091-p2s6w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -2947,8 +2943,6 @@
 <lemma>cestovní</lemma>
 <tag>AAIP4----1A----</tag>
 </m>
-</s>
-<s id="m-mf930708-091-p2s23">
 <m id="m-mf930708-091-p2s23w1">
 <src.rf>manual</src.rf>
 <w.rf>

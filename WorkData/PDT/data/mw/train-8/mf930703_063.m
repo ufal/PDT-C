@@ -379,8 +379,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930703-063-p3s2">
 <m id="m-mf930703-063-p3s2w1">
 <src.rf>manual</src.rf>
 <w.rf>

@@ -1173,8 +1173,6 @@
 <lemma>a-1</lemma>
 <tag>J^-------------</tag>
 </m>
-</s>
-<s id="m-mf930702-055-p3s2">
 <m id="m-mf930702-055-p3s2w1">
 <src.rf>manual</src.rf>
 <w.rf>

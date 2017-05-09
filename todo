@@ -29,6 +29,39 @@
 - [X] amw/train-1/vesm9301_009.m##{9,10}
 - [X] amw/train-3/vesm9301_001.a##{1,2}
 
+** mw
+
+*** Rozdělit věty
+
+mw/train-3/lnd92257_001.m##4
+mw/train-3/lnd92257_001.m##5
+mw/train-4/ln94201_87.m##22
+mw/train-5/lnd92251_028.m##5
+mw/train-5/lnd92259_097.m##11
+mw/train-5/lnd92259_097.m##25
+mw/train-5/ln94201_102.m##3
+mw/train-5/ln94201_102.m##142
+mw/train-6/lnd92259_078.m##12
+mw/train-7/mf930701_060.m##25
+mw/etest/lnd92253_070.m##32
+mw/etest/ln94201_38.m##2
+
+*** Smazat věty
+
+mw/train-1/lnd92258_078.m##107 a dále až do konce
+
+*** Spojit i rozdělit
+
+mw/train-5/lnd92255_080.m##{74,75,76}
+
+*** Celý soubor špatně
+
+mw/train-5/lnd92254_095.m
+mw/train-5/ln94201_79.m
+mw/train-5/mf930701_088.m
+mw/etest/lnd92252_097.m
+mw/etest/lnd92257_078.m
+
 ** Tokenizace [1/1]
 
 - [X] “sHand H” má být zřejmě “s H and H” tamw/train-4/ln95048_045##1

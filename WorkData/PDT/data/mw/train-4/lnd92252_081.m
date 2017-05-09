@@ -114,8 +114,6 @@
 <lemma>-</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92252-081-p2s2">
 <m id="m-lnd92252-081-p2s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -172,8 +170,6 @@
 <lemma>-</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92252-081-p3s2">
 <m id="m-lnd92252-081-p3s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -230,8 +226,6 @@
 <lemma>-</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92252-081-p4s2">
 <m id="m-lnd92252-081-p4s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -250,8 +244,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92252-081-p4s3">
 <m id="m-lnd92252-081-p4s3w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -308,8 +300,6 @@
 <lemma>-</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92252-081-p5s2">
 <m id="m-lnd92252-081-p5s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -366,8 +356,6 @@
 <lemma>-</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92252-081-p6s2">
 <m id="m-lnd92252-081-p6s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -424,8 +412,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92252-081-p7s2">
 <m id="m-lnd92252-081-p7s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -444,8 +430,6 @@
 <lemma>-</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92252-081-p7s3">
 <m id="m-lnd92252-081-p7s3w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -520,8 +504,6 @@
 <lemma>-</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92252-081-p8s2">
 <m id="m-lnd92252-081-p8s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -578,8 +560,6 @@
 <lemma>-</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92252-081-p9s2">
 <m id="m-lnd92252-081-p9s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -710,8 +690,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92252-081-p11s2">
 <m id="m-lnd92252-081-p11s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -898,8 +876,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92252-081-p14s2">
 <m id="m-lnd92252-081-p14s2w1">
 <src.rf>manual</src.rf>
 <w.rf>

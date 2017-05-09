@@ -7877,8 +7877,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930708-072-p51s2">
 <m id="m-mf930708-072-p51s2w1">
 <src.rf>manual</src.rf>
 <w.rf>

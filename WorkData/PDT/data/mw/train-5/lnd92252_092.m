@@ -2209,8 +2209,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92252-092-p10s2">
 <m id="m-lnd92252-092-p10s2w1">
 <src.rf>manual</src.rf>
 <w.rf>

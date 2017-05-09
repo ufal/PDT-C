@@ -2880,8 +2880,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92258-101-p5s2">
 <m id="m-lnd92258-101-p5s2w1">
 <src.rf>manual</src.rf>
 <w.rf>

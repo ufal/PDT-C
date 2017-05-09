@@ -813,8 +813,6 @@
 <lemma>člen</lemma>
 <tag>NNMP1-----A----</tag>
 </m>
-</s>
-<s id="m-mf930702-015-p2s5">
 <m id="m-mf930702-015-p2s5w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1503,8 +1501,6 @@
 <lemma>že</lemma>
 <tag>J,-------------</tag>
 </m>
-</s>
-<s id="m-mf930702-015-p2s8">
 <m id="m-mf930702-015-p2s8w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -9450,8 +9446,6 @@
 <lemma>učinit_:W</lemma>
 <tag>Vf--------A----</tag>
 </m>
-</s>
-<s id="m-mf930702-015-p18s4">
 <m id="m-mf930702-015-p18s4w1">
 <src.rf>manual</src.rf>
 <w.rf>

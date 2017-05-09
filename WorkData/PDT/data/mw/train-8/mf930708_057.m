@@ -1988,8 +1988,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930708-057-p4s10">
 <m id="m-mf930708-057-p4s10w1">
 <src.rf>manual</src.rf>
 <w.rf>

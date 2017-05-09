@@ -150,8 +150,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930708-121-p1s3">
 <m id="m-mf930708-121-p1s3w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1154,8 +1152,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930708-121-p4s2">
 <m id="m-mf930708-121-p4s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -2338,8 +2334,6 @@
 <lemma>manažer</lemma>
 <tag>NNMS7-----A----</tag>
 </m>
-</s>
-<s id="m-mf930708-121-p5s3">
 <m id="m-mf930708-121-p5s3w1">
 <src.rf>manual</src.rf>
 <w.rf>

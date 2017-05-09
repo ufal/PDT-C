@@ -402,8 +402,6 @@
 <lemma>tři`3</lemma>
 <tag>ClXP2----------</tag>
 </m>
-</s>
-<s id="m-mf930702-034-p2s2">
 <m id="m-mf930702-034-p2s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -595,8 +593,6 @@
 <lemma>jaderný</lemma>
 <tag>AAFP6----1A----</tag>
 </m>
-</s>
-<s id="m-mf930702-034-p2s4">
 <m id="m-mf930702-034-p2s4w1">
 <src.rf>manual</src.rf>
 <w.rf>

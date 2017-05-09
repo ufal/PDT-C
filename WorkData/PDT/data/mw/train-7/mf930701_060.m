@@ -2076,8 +2076,6 @@
 <lemma>jeho_^(přivlast.)</lemma>
 <tag>PSXXXZS3-------</tag>
 </m>
-</s>
-<s id="m-mf930701-060-p9s4">
 <m id="m-mf930701-060-p9s4w1">
 <src.rf>manual</src.rf>
 <w.rf>

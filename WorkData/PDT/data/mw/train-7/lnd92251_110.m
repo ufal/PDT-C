@@ -4732,8 +4732,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92251-110-p9s6">
 <m id="m-lnd92251-110-p9s6w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -4770,8 +4768,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92251-110-p9s7">
 <m id="m-lnd92251-110-p9s7w1">
 <src.rf>manual</src.rf>
 <w.rf>

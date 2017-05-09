@@ -1553,8 +1553,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930708-077-p3s2">
 <m id="m-mf930708-077-p3s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -2617,8 +2615,6 @@
 <lemma>zelený</lemma>
 <tag>AAFS6----1A----</tag>
 </m>
-</s>
-<s id="m-mf930708-077-p4s5">
 <m id="m-mf930708-077-p4s5w1">
 <src.rf>manual</src.rf>
 <w.rf>

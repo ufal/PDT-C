@@ -611,9 +611,8 @@
 <w.rf>
 <LM>w#w-ln94201-75-p2s4w3</LM>
 </w.rf>
-<form_change>spell</form_change>
-<form>Jos</form>
-<lemma>Josef_:B_;Y</lemma>
+<form>Joz</form>
+<lemma>Jozef_:B_;Y</lemma>
 <tag>NNMXX-----A---8</tag>
 </m>
 <m id="m-ln94201-75-p2s4w4">
@@ -625,8 +624,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-75-p2s5">
 <m id="m-ln94201-75-p2s5w1">
 <src.rf>manual</src.rf>
 <w.rf>

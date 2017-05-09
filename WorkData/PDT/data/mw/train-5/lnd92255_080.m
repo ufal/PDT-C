@@ -5227,8 +5227,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92255-080-p10s9">
 <m id="m-lnd92255-080-p10s9w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -5283,8 +5281,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92255-080-p10s10">
 <m id="m-lnd92255-080-p10s10w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -5941,8 +5937,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92255-080-p12s2">
 <m id="m-lnd92255-080-p12s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -6088,8 +6082,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92255-080-p12s3">
 <m id="m-lnd92255-080-p12s3w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -11168,8 +11160,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92255-080-p18s2">
 <m id="m-lnd92255-080-p18s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
