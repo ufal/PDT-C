@@ -148,8 +148,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92257-078-p1s2">
 <m id="m-lnd92257-078-p1s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -258,8 +256,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92257-078-p1s3">
 <m id="m-lnd92257-078-p1s3w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -359,8 +355,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92257-078-p1s4">
 <m id="m-lnd92257-078-p1s4w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -460,8 +454,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92257-078-p1s5">
 <m id="m-lnd92257-078-p1s5w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -570,8 +562,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92257-078-p1s6">
 <m id="m-lnd92257-078-p1s6w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -671,8 +661,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92257-078-p1s7">
 <m id="m-lnd92257-078-p1s7w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -772,8 +760,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92257-078-p1s8">
 <m id="m-lnd92257-078-p1s8w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -882,8 +868,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92257-078-p1s9">
 <m id="m-lnd92257-078-p1s9w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -983,8 +967,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92257-078-p1s10">
 <m id="m-lnd92257-078-p1s10w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1102,8 +1084,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92257-078-p1s11">
 <m id="m-lnd92257-078-p1s11w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1212,8 +1192,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92257-078-p1s12">
 <m id="m-lnd92257-078-p1s12w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1313,8 +1291,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92257-078-p1s13">
 <m id="m-lnd92257-078-p1s13w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1423,8 +1399,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92257-078-p1s14">
 <m id="m-lnd92257-078-p1s14w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1533,8 +1507,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-lnd92257-078-p1s15">
 <m id="m-lnd92257-078-p1s15w1">
 <src.rf>manual</src.rf>
 <w.rf>

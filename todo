@@ -46,21 +46,21 @@
 - [X] mw/etest/lnd92253_070.m##32
 - [X] mw/etest/ln94201_38.m##2
 
-*** Smazat věty
+*** DONE Smazat věty
 
 mw/train-1/lnd92258_078.m##107 a dále až do konce
 
-*** Spojit i rozdělit
+*** DONE Spojit i rozdělit
 
 mw/train-5/lnd92255_080.m##{74,75,76}
 
-*** Celý soubor špatně
+*** Celý soubor špatně [100%]
 
-mw/train-5/lnd92254_095.m
-mw/train-5/ln94201_79.m
-mw/train-5/mf930701_088.m
-mw/etest/lnd92252_097.m
-mw/etest/lnd92257_078.m
+- [X] mw/train-5/lnd92254_095.m
+- [X] mw/train-5/ln94201_79.m
+- [X] mw/train-5/mf930701_088.m
+- [X] mw/etest/lnd92252_097.m
+- [X] mw/etest/lnd92257_078.m
 
 ** Tokenizace [1/1]
 

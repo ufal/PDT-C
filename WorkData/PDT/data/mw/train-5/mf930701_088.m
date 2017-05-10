@@ -68,8 +68,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930701-088-p1s2">
 <m id="m-mf930701-088-p1s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -97,8 +95,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930701-088-p1s3">
 <m id="m-mf930701-088-p1s3w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -119,6 +115,8 @@
 <lemma>výstava</lemma>
 <tag>NNFP1-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p2s1a">
 <m id="m-mf930701-088-p2s1w2">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -362,6 +360,8 @@
 <lemma>Ostrava_;G</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p2s1b">
 <m id="m-mf930701-088-p2s1w29">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -470,6 +470,8 @@
 <lemma>grafika</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p2s1c">
 <m id="m-mf930701-088-p2s1w41">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -569,6 +571,8 @@
 <lemma>stupeň</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p2s1d">
 <m id="m-mf930701-088-p2s1w52">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -812,6 +816,8 @@
 <lemma>)</lemma>
 <tag>Z:-------------</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p2s1e">
 <m id="m-mf930701-088-p2s1w79">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -902,8 +908,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930701-088-p2s2">
 <m id="m-mf930701-088-p2s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1066,6 +1070,8 @@
 <lemma>)</lemma>
 <tag>Z:-------------</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p2s2a">
 <m id="m-mf930701-088-p2s2w19">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1228,8 +1234,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930701-088-p2s3">
 <m id="m-mf930701-088-p2s3w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1257,6 +1261,8 @@
 <lemma>)</lemma>
 <tag>Z:-------------</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p2s3">
 <m id="m-mf930701-088-p2s3w4">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1446,6 +1452,8 @@
 <lemma>obraz</lemma>
 <tag>NNIP1-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p2s3a">
 <m id="m-mf930701-088-p2s3w25">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1545,6 +1553,8 @@
 <lemma>grafika</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p2s3b">
 <m id="m-mf930701-088-p2s3w36">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1709,6 +1719,8 @@
 <lemma>zařízení_^(*4dit)</lemma>
 <tag>NNNP1-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p3s1a">
 <m id="m-mf930701-088-p3s1w3">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1916,6 +1928,8 @@
 <lemma>večer</lemma>
 <tag>Db-------------</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p3s1b">
 <m id="m-mf930701-088-p3s1w26">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -2458,6 +2472,8 @@
 <lemma>sekáč</lemma>
 <tag>NNMP1-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p3s2a">
 <m id="m-mf930701-088-p3s2w28">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -2710,6 +2726,8 @@
 <lemma>)</lemma>
 <tag>Z:-------------</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p3s2b">
 <m id="m-mf930701-088-p3s2w56">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -3045,6 +3063,8 @@
 <lemma>město</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p3s3a">
 <m id="m-mf930701-088-p3s3w18">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -3432,6 +3452,8 @@
 <lemma>chtít</lemma>
 <tag>VB-P---2P-AA---</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p3s3b">
 <m id="m-mf930701-088-p3s3w61">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -3587,6 +3609,8 @@
 <lemma>muzeum</lemma>
 <tag>NNNP1-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s1a">
 <m id="m-mf930701-088-p4s1w2">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -3668,6 +3692,8 @@
 <lemma>lék</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s1b">
 <m id="m-mf930701-088-p4s1w11">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -3947,6 +3973,8 @@
 <lemma>voda</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s1c">
 <m id="m-mf930701-088-p4s1w42">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -4046,6 +4074,8 @@
 <lemma>veduta</lemma>
 <tag>NNFP6-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s1d">
 <m id="m-mf930701-088-p4s1w53">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -4172,6 +4202,8 @@
 <lemma>babička</lemma>
 <tag>NNFP2-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s1e">
 <m id="m-mf930701-088-p4s1w67">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -4253,6 +4285,8 @@
 <lemma>park</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s1f">
 <m id="m-mf930701-088-p4s1w76">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -4361,6 +4395,8 @@
 <lemma>muzeum</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s1g">
 <m id="m-mf930701-088-p4s1w88">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -4442,6 +4478,8 @@
 <lemma>Těšínsko_;G</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s1h">
 <m id="m-mf930701-088-p4s1w97">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -4505,6 +4543,8 @@
 <lemma>Těšínsko_;G</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s1i">
 <m id="m-mf930701-088-p4s1w104">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -4631,6 +4671,8 @@
 <lemma>řemeslo</lemma>
 <tag>NNNP2-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s1j">
 <m id="m-mf930701-088-p4s1w118">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -4694,6 +4736,8 @@
 <lemma>Haná_;G</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s1k">
 <m id="m-mf930701-088-p4s1w125">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -4802,8 +4846,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930701-088-p4s2">
 <m id="m-mf930701-088-p4s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -5074,6 +5116,8 @@
 <lemma>)</lemma>
 <tag>Z:-------------</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s2a">
 <m id="m-mf930701-088-p4s2w31">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -5182,6 +5226,8 @@
 <lemma>Bezruč_;S</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s2b">
 <m id="m-mf930701-088-p4s2w43">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -5425,6 +5471,8 @@
 <lemma>technika</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s2c">
 <m id="m-mf930701-088-p4s2w70">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -5506,6 +5554,8 @@
 <lemma>Bezruč_;S</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s2d">
 <m id="m-mf930701-088-p4s2w79">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -5785,6 +5835,8 @@
 <lemma>úprava</lemma>
 <tag>NNFP1-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s2e">
 <m id="m-mf930701-088-p4s2w110">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -5929,6 +5981,8 @@
 <lemma>zpěvák</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s2f">
 <m id="m-mf930701-088-p4s2w126">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -6100,6 +6154,8 @@
 <lemma>Vico_;S</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s2g">
 <m id="m-mf930701-088-p4s2w145">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -6208,6 +6264,8 @@
 <lemma>Brušperk_;G</lemma>
 <tag>NNIS2-----A---1</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s2h">
 <m id="m-mf930701-088-p4s2w157">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -6343,6 +6401,8 @@
 <lemma>Julina_;S</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s2i">
 <m id="m-mf930701-088-p4s2w172">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -6487,8 +6547,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930701-088-p4s3">
 <m id="m-mf930701-088-p4s3w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -6534,6 +6592,8 @@
 <lemma>den_^(jednotka_času)</lemma>
 <tag>NNIP1-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s3a">
 <m id="m-mf930701-088-p4s3w6">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -6642,6 +6702,8 @@
 <lemma>babička</lemma>
 <tag>NNFP2-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s3b">
 <m id="m-mf930701-088-p4s3w18">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -6696,8 +6758,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930701-088-p4s4">
 <m id="m-mf930701-088-p4s4w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -6824,6 +6884,8 @@
 <lemma>školství</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p4s4a">
 <m id="m-mf930701-088-p4s4w15">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -7105,6 +7167,8 @@
 <lemma>výtvarník-1_^(výtvarný_umělec)</lemma>
 <tag>NNMP2-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p5s1a">
 <m id="m-mf930701-088-p5s1w13">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -7352,6 +7416,8 @@
 <lemma>Vsetín_;G</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p7s1a">
 <m id="m-mf930701-088-p7s1w5">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -7505,6 +7571,8 @@
 <lemma>plakát</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p7s1b">
 <m id="m-mf930701-088-p7s1w22">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -7595,8 +7663,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930701-088-p7s2">
 <m id="m-mf930701-088-p7s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -7660,6 +7726,8 @@
 <lemma>řezbář</lemma>
 <tag>NNMP2-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p7s2a">
 <m id="m-mf930701-088-p7s2w8">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -7687,8 +7755,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930701-088-p7s3">
 <m id="m-mf930701-088-p7s3w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -7799,6 +7865,8 @@
 <lemma>zámek</lemma>
 <tag>NNIP1-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p8s1a">
 <m id="m-mf930701-088-p8s1w4">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -7889,8 +7957,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930701-088-p8s2">
 <m id="m-mf930701-088-p8s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -7945,13 +8011,24 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-<m id="m-mf930701-088-p8s2w7">
+<m id="m-mf930701-088-p8s2w7a">
 <src.rf>manual</src.rf>
 <w.rf>
 <LM>w#w-mf930701-088-p8s2w7</LM>
 </w.rf>
-<form>-8</form>
-<lemma>-8</lemma>
+<form_change>spell</form_change>
+<form>-</form>
+<lemma>-</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-mf930701-088-p8s2w7b">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-mf930701-088-p8s2w7</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>8</form>
+<lemma>8</lemma>
 <tag>C=-------------</tag>
 </m>
 <m id="m-mf930701-088-p8s2w8">
@@ -7963,8 +8040,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930701-088-p8s3">
 <m id="m-mf930701-088-p8s3w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -8147,8 +8222,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-mf930701-088-p9s2">
 <m id="m-mf930701-088-p9s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -8450,6 +8523,8 @@
 <lemma>dítě</lemma>
 <tag>NNFP4-----A----</tag>
 </m>
+</s>
+<s id="m-mf930701-088-p11s1a">
 <m id="m-mf930701-088-p11s1w4">
 <src.rf>manual</src.rf>
 <w.rf>

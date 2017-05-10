@@ -42,6 +42,8 @@
 <lemma>fotbal</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
+</s>
+<s id="m-ln94201-79-p2s1b">
 <m id="m-ln94201-79-p2s1w2">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -449,8 +451,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p3s2">
 <m id="m-ln94201-79-p3s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -487,8 +487,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p3s3">
 <m id="m-ln94201-79-p3s3w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -525,8 +523,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p3s4">
 <m id="m-ln94201-79-p3s4w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -563,8 +559,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p3s5">
 <m id="m-ln94201-79-p3s5w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -637,8 +631,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p3s6">
 <m id="m-ln94201-79-p3s6w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -711,8 +703,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p3s7">
 <m id="m-ln94201-79-p3s7w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -749,8 +739,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p3s8">
 <m id="m-ln94201-79-p3s8w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -814,8 +802,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p3s9">
 <m id="m-ln94201-79-p3s9w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -962,8 +948,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p4s2">
 <m id="m-ln94201-79-p4s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1036,8 +1020,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p4s3">
 <m id="m-ln94201-79-p4s3w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1074,8 +1056,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p4s4">
 <m id="m-ln94201-79-p4s4w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1112,8 +1092,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p4s5">
 <m id="m-ln94201-79-p4s5w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1152,6 +1130,8 @@
 <lemma>hokej</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
+</s>
+<s id="m-ln94201-79-p5s1b">
 <m id="m-ln94201-79-p5s1w2">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1395,8 +1375,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p5s2">
 <m id="m-ln94201-79-p5s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1433,8 +1411,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p5s3">
 <m id="m-ln94201-79-p5s3w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1471,8 +1447,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p5s4">
 <m id="m-ln94201-79-p5s4w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1509,8 +1483,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p5s5">
 <m id="m-ln94201-79-p5s5w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1547,8 +1519,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p5s6">
 <m id="m-ln94201-79-p5s6w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1585,8 +1555,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p5s7">
 <m id="m-ln94201-79-p5s7w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1868,8 +1836,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p5s9">
 <m id="m-ln94201-79-p5s9w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1906,8 +1872,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p5s10">
 <m id="m-ln94201-79-p5s10w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1944,8 +1908,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p5s11">
 <m id="m-ln94201-79-p5s11w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1982,8 +1944,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p5s12">
 <m id="m-ln94201-79-p5s12w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -2265,8 +2225,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p5s14">
 <m id="m-ln94201-79-p5s14w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -2303,8 +2261,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p5s15">
 <m id="m-ln94201-79-p5s15w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -2386,8 +2342,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p5s16">
 <m id="m-ln94201-79-p5s16w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -2424,8 +2378,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p5s17">
 <m id="m-ln94201-79-p5s17w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -2455,6 +2407,8 @@
 <lemma>tenis</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
+</s>
+<s id="m-ln94201-79-p6s1b">
 <m id="m-ln94201-79-p6s1w2">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -6147,6 +6101,8 @@
 <lemma>motorismus</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
+</s>
+<s id="m-ln94201-79-p10s1b">
 <m id="m-ln94201-79-p10s1w2">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -6309,8 +6265,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p10s2">
 <m id="m-ln94201-79-p10s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -6482,8 +6436,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p10s3">
 <m id="m-ln94201-79-p10s3w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -6655,8 +6607,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p10s4">
 <m id="m-ln94201-79-p10s4w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -6812,6 +6762,8 @@
 <lemma>volejbal</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
+</s>
+<s id="m-ln94201-79-p11s1b">
 <m id="m-ln94201-79-p11s1w2">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -7905,8 +7857,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s2">
 <m id="m-ln94201-79-p13s2w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -7970,8 +7920,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s3">
 <m id="m-ln94201-79-p13s3w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -8071,8 +8019,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s4">
 <m id="m-ln94201-79-p13s4w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -8136,8 +8082,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s5">
 <m id="m-ln94201-79-p13s5w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -8246,8 +8190,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s6">
 <m id="m-ln94201-79-p13s6w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -8311,8 +8253,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s7">
 <m id="m-ln94201-79-p13s7w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -8376,8 +8316,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s8">
 <m id="m-ln94201-79-p13s8w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -8450,8 +8388,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s9">
 <m id="m-ln94201-79-p13s9w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -8560,8 +8496,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s10">
 <m id="m-ln94201-79-p13s10w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -8634,8 +8568,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s11">
 <m id="m-ln94201-79-p13s11w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -8699,8 +8631,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s12">
 <m id="m-ln94201-79-p13s12w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -8773,8 +8703,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s13">
 <m id="m-ln94201-79-p13s13w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -8883,8 +8811,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s14">
 <m id="m-ln94201-79-p13s14w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -8957,8 +8883,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s15">
 <m id="m-ln94201-79-p13s15w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -9031,8 +8955,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s16">
 <m id="m-ln94201-79-p13s16w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -9105,8 +9027,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s17">
 <m id="m-ln94201-79-p13s17w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -9215,8 +9135,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s18">
 <m id="m-ln94201-79-p13s18w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -9289,8 +9207,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s19">
 <m id="m-ln94201-79-p13s19w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -9363,8 +9279,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s20">
 <m id="m-ln94201-79-p13s20w1">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -9437,8 +9351,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-79-p13s21">
 <m id="m-ln94201-79-p13s21w1">
 <src.rf>manual</src.rf>
 <w.rf>
