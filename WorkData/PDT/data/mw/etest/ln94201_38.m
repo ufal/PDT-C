@@ -51,6 +51,8 @@
 <lemma>komentář</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
+</s>
+<s id="m-ln94201-38-p2s1b">
 <m id="m-ln94201-38-p2s1w2">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -69,6 +71,8 @@
 <lemma>Kotrba_;S</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
+</s>
+<s id="m-ln94201-38-p2s1c">
 <m id="m-ln94201-38-p2s1w4">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -1874,8 +1878,6 @@
 <lemma>.</lemma>
 <tag>Z:-------------</tag>
 </m>
-</s>
-<s id="m-ln94201-38-p4s2">
 <m id="m-ln94201-38-p4s2w1">
 <src.rf>manual</src.rf>
 <w.rf>

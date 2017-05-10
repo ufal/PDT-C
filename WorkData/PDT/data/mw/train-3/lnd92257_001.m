@@ -361,6 +361,8 @@
 <lemma>omezení_^(*3it)</lemma>
 <tag>NNNP1-----A----</tag>
 </m>
+</s>
+<s id="m-lnd92257-001-p2s2b">
 <m id="m-lnd92257-001-p2s2w18">
 <src.rf>manual</src.rf>
 <w.rf>
@@ -570,6 +572,8 @@
 <lemma>noviny_^(tisk)</lemma>
 <tag>NNFP2-----A----</tag>
 </m>
+</s>
+<s id="m-lnd92257-001-p2s3b">
 <m id="m-lnd92257-001-p2s3w13">
 <src.rf>manual</src.rf>
 <w.rf>
