@@ -33,7 +33,7 @@ my $run = { tag   => \&tag,
             check => \&check,
             retag => \&retag,
 }->{$method};
-die "Unknown method '$method', use 'tag' or 'check'.\n" unless $run;
+die "Unknown method '$method', use 'tag', 'retag', or 'check'.\n" unless $run;
 $run->(@ARGV);
 
 
