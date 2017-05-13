@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"></schema>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="mf930702_096.w"></reffile>
+<reffile id="w" name="wdata" href="mf930702_096.w" />
 </references>
 </head>
 <meta>
@@ -19,8 +19,7 @@
 <LM>w#w-mf930702-096-p1s1w1</LM>
 </w.rf>
 <form>SPORTOVEC</form>
-<tag><AM lemma="sportovec" src="orig" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="sportovec" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-096-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +27,7 @@
 <LM>w#w-mf930702-096-p1s1w2</LM>
 </w.rf>
 <form>MĚSÍCE</form>
-<tag><AM lemma="měsíc" src="orig" selected="1">NNIS2-----A----</AM>
-</tag>
+<tag lemma="měsíc" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 </mdata>

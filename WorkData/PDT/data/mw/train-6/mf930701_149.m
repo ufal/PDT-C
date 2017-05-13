@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"></schema>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="mf930701_149.w"></reffile>
+<reffile id="w" name="wdata" href="mf930701_149.w" />
 </references>
 </head>
 <meta>
@@ -19,8 +19,7 @@
 <LM>w#w-mf930701-149-p1s1w1</LM>
 </w.rf>
 <form>Náčelník</form>
-<tag><AM lemma="náčelník" src="orig" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="náčelník" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-149-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +27,7 @@
 <LM>w#w-mf930701-149-p1s1w2</LM>
 </w.rf>
 <form>generálního</form>
-<tag><AM lemma="generální" src="orig" selected="1">AAIS2----1A----</AM>
-</tag>
+<tag lemma="generální" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf930701-149-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +35,7 @@
 <LM>w#w-mf930701-149-p1s1w3</LM>
 </w.rf>
 <form>štábu</form>
-<tag><AM lemma="štáb" src="orig" selected="1">NNIS2-----A----</AM>
-</tag>
+<tag lemma="štáb" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-149-p1s1w4">
 <src.rf>manual</src.rf>
@@ -46,8 +43,7 @@
 <LM>w#w-mf930701-149-p1s1w4</LM>
 </w.rf>
 <form>Jiří</form>
-<tag><AM lemma="Jiří_;Y" src="orig" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Jiří_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-149-p1s1w5">
 <src.rf>manual</src.rf>
@@ -55,8 +51,7 @@
 <LM>w#w-mf930701-149-p1s1w5</LM>
 </w.rf>
 <form>Nekvasil</form>
-<tag><AM lemma="Nekvasil_;S" src="orig" selected="1">NNMS1-----A----</AM>
-</tag>
+<tag lemma="Nekvasil_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>
