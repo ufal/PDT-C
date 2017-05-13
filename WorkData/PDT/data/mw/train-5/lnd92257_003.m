@@ -1215,15 +1215,7 @@
 <LM>w#w-lnd92257-003-p5s3w12</LM>
 </w.rf>
 <form>ozóňákem</form>
-<tag><AM lemma="ozóňák_,h" src="orig">NNMS7-----A----</AM>
-<AM lemma="ozóňák" src="auto">NNIS7-----A----</AM>
-<AM lemma="ozóňáek" src="auto">NNIS7-----A----</AM>
-<AM lemma="ozóňák" src="auto">NNMS7-----A----</AM>
-<AM lemma="ozóňák_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="ozóňáek_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="ozóňáko_;G" src="auto">NNNS7-----A----</AM>
-<AM lemma="ozóňáko" src="auto">NNNS7-----A----</AM>
-<AM lemma="ozóňáek" src="auto">NNMS7-----A----</AM>
+<tag><AM lemma="ozóňák_,h" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-003-p5s3w13">
@@ -2409,16 +2401,7 @@
 <LM>w#w-lnd92257-003-p7s1w25</LM>
 </w.rf>
 <form>Cliftová</form>
-<tag><AM lemma="Cliftová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Cliftová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Cliftový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Cliftový" src="auto">AANP1----1A----</AM>
-<AM lemma="Cliftový" src="auto">AANP4----1A----</AM>
-<AM lemma="Cliftová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cliftová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cliftový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Cliftový" src="auto">AAFS5----1A----</AM>
-<AM lemma="cliftová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cliftová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-003-p7s1w26">
@@ -2913,16 +2896,7 @@
 <LM>w#w-lnd92257-003-p7s2w53</LM>
 </w.rf>
 <form>Írángate</form>
-<tag><AM lemma="Írángate" src="orig">NNFS1-----A----</AM>
-<AM lemma="Írángate_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Írángate_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Írángate_;m_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Írángate_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Írángate_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Írángást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Írángate_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Írángate_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="írángate" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Írángate" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-003-p7s2w54">
@@ -3394,20 +3368,7 @@
 <LM>w#w-lnd92257-003-p8s1w8</LM>
 </w.rf>
 <form>Perot</form>
-<tag><AM lemma="Perota_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Perot" src="auto">NNIS1-----A----</AM>
-<AM lemma="Perot" src="auto">NNIS4-----A----</AM>
-<AM lemma="Perot" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perot_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Perot_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perota" src="auto">NNFP2-----A----</AM>
-<AM lemma="Perota_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Peroteska_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="perot" src="auto">NNMS1-----A----</AM>
-<AM lemma="perot-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="perot-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="perotelefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
-<AM lemma="perotáčka_:B" src="auto">NNFXX-----A---8</AM>
+<tag><AM lemma="Perota_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-003-p8s1w9">
@@ -6383,20 +6344,7 @@
 <LM>w#w-lnd92257-003-p12s3w12</LM>
 </w.rf>
 <form>Perot</form>
-<tag><AM lemma="Perota_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Perot" src="auto">NNIS1-----A----</AM>
-<AM lemma="Perot" src="auto">NNIS4-----A----</AM>
-<AM lemma="Perot" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perot_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Perot_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perota" src="auto">NNFP2-----A----</AM>
-<AM lemma="Perota_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Peroteska_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="perot" src="auto">NNMS1-----A----</AM>
-<AM lemma="perot-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="perot-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="perotelefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
-<AM lemma="perotáčka_:B" src="auto">NNFXX-----A---8</AM>
+<tag><AM lemma="Perota_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-003-p12s3w13">

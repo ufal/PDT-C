@@ -193,16 +193,7 @@
 <LM>w#w-mf930701-034-p2s1w15</LM>
 </w.rf>
 <form>Motorway</form>
-<tag><AM lemma="Motorway_;K" src="orig">NNFSX-----A----</AM>
-<AM lemma="Motorway_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Motorway_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Motorway_;K" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Motorway_,t" src="auto">NNFS4-----A----</AM>
-<AM lemma="Motorway_,t" src="auto">Db-------------</AM>
-<AM lemma="Motorway_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Motorway_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Motorway_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="motorway" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Motorway_;K" src="orig" selected="1">NNFSX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p2s1w16">
@@ -220,16 +211,7 @@
 <LM>w#w-mf930701-034-p2s1w17</LM>
 </w.rf>
 <form>Republic</form>
-<tag><AM lemma="Republic_;K_,t" src="orig">NNFSX-----A----</AM>
-<AM lemma="Republice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Republic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Republice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Republic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Republíce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Republic_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Republic_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Republic_;K_,t" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="republic" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Republic_;K_,t" src="orig" selected="1">NNFSX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p2s1w18">
@@ -247,24 +229,7 @@
 <LM>w#w-mf930701-034-p2s1w19</LM>
 </w.rf>
 <form>TMCR</form>
-<tag><AM lemma="TMCR_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TMCR_:B_;K_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="TMCR_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TMCR-1_:B_,t_^(polymerase_chain_reaction)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="TMCR-1_:B_,t_^(polymerase_chain_reaction)" src="auto">NNFXX-----A----</AM>
-<AM lemma="TMCR_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TMCR_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TMCR_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="TMCR_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Tmcr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tmcr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tmcr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tmcr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tmcr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tmcr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tmcra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tmcr_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="tmcr" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="TMCR_:B_;K_,t" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p2s1w20">
@@ -922,24 +887,7 @@
 <LM>w#w-mf930701-034-p2s5w3</LM>
 </w.rf>
 <form>TMCR</form>
-<tag><AM lemma="TMCR_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TMCR_:B_;K_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="TMCR_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TMCR-1_:B_,t_^(polymerase_chain_reaction)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="TMCR-1_:B_,t_^(polymerase_chain_reaction)" src="auto">NNFXX-----A----</AM>
-<AM lemma="TMCR_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TMCR_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TMCR_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="TMCR_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Tmcr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tmcr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tmcr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tmcr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tmcr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tmcr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tmcra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tmcr_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="tmcr" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="TMCR_:B_;K_,t" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p2s5w4">
@@ -1089,16 +1037,7 @@
 <LM>w#w-mf930701-034-p2s6w7</LM>
 </w.rf>
 <form>Transroute</form>
-<tag><AM lemma="Transroute_;K_,t" src="orig">NNFSX-----A----</AM>
-<AM lemma="Transroute_,t" src="auto">Db-------------</AM>
-<AM lemma="Transroute_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Transroute_;K_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Transroute_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Transroute_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Transroute_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Transroute_;K_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Transroute_;K_,t" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="transroute" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Transroute_;K_,t" src="orig" selected="1">NNFSX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p2s6w8">
@@ -1136,16 +1075,7 @@
 <LM>w#w-mf930701-034-p2s6w11</LM>
 </w.rf>
 <form>Beugnet</form>
-<tag><AM lemma="Beugnet_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Beugnet_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Beugneta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Beugnet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Beugnet_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Beugnet_;R_^(letadlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Beugnet_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Beugnet_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Beugnet" src="auto">NNIS4-----A----</AM>
-<AM lemma="beugnet" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Beugnet_;K" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p2s6w12">
@@ -1190,12 +1120,7 @@
 <LM>w#w-mf930701-034-p2s6w16</LM>
 </w.rf>
 <form>Cogefarimpresit</form>
-<tag><AM lemma="Cogefarimpresit_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Cogefarimpresit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Cogefarimpresit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Cogefarimpresit_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Cogefarimpresit_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="cogefarimpresit" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cogefarimpresit_;K" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p2s6w17">

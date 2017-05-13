@@ -169,11 +169,7 @@
 <LM>w#w-lnd92258-019-p3s1w3</LM>
 </w.rf>
 <form>ivh</form>
-<tag><AM lemma="ivh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ivh-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ivh-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ivhodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ivhodina_:B_,x" src="auto">NNFXX-----A---9</AM>
+<tag><AM lemma="ivh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-019-p3s1w4">

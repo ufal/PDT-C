@@ -111,17 +111,7 @@
 <LM>w#w-mf930708-019-p2s1w3</LM>
 </w.rf>
 <form>iv</form>
-<tag><AM lemma="iv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="iv" src="auto">Db-------------</AM>
-<AM lemma="iv" src="auto">NNIS1-----A----</AM>
-<AM lemma="iv" src="auto">NNIS4-----A----</AM>
-<AM lemma="iv" src="auto">PZYS1----------</AM>
-<AM lemma="iv-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="iv_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="iva" src="auto">NNFP2-----A----</AM>
-<AM lemma="iveřejný_:B_^(v.o.s.)" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="ivo" src="auto">NNNP2-----A----</AM>
-<AM lemma="ivum" src="auto">NNNP2-----A----</AM>
+<tag><AM lemma="iv-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-019-p2s1w4">
@@ -366,16 +356,7 @@
 <LM>w#w-mf930708-019-p2s2w6</LM>
 </w.rf>
 <form>Seifrem</form>
-<tag><AM lemma="Seifr_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Seifr" src="auto">NNIS7-----A----</AM>
-<AM lemma="Seifr" src="auto">NNMS7-----A----</AM>
-<AM lemma="Seifr_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Seifr_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Seifro" src="auto">NNNS7-----A----</AM>
-<AM lemma="Seifr_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Seifrma" src="auto">NNFP2-----A----</AM>
-<AM lemma="Seifre_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="seifrem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Seifr_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-019-p2s2w7">

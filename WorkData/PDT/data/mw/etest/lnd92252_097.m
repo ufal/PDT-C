@@ -383,16 +383,7 @@
 <LM>w#w-lnd92252-097-p3s1w26</LM>
 </w.rf>
 <form>Tomascheka</form>
-<tag><AM lemma="Tomaschek_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Tomaschek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Tomascheka_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tomaschek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Tomascheka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tomascheko-2" src="auto">NNNS2-----A----</AM>
-<AM lemma="Tomaschek_;G" src="auto" recommended="1">NNIS2-----A---1</AM>
-<AM lemma="Tomascheka" src="auto">Db-------------</AM>
-<AM lemma="Tomascheka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tomascheka" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tomaschek_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p3s1w27">
@@ -805,17 +796,7 @@
 <LM>w#w-lnd92252-097-p4s3w5</LM>
 </w.rf>
 <form>Siago</form>
-<tag><AM lemma="Siago_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Siaga" src="auto">NNMS5-----A----</AM>
-<AM lemma="Siago" src="auto">NNNS1-----A----</AM>
-<AM lemma="Siago" src="auto">NNNS4-----A----</AM>
-<AM lemma="Siago_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Siago_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Siago_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Siago_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Siago_^(značka)" src="auto">NNNS4-----A----</AM>
-<AM lemma="siaga" src="auto">NNMS5-----A----</AM>
-<AM lemma="siago" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Siago_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p4s3w6">
@@ -1035,16 +1016,7 @@
 <LM>w#w-lnd92252-097-p5s2w4</LM>
 </w.rf>
 <form>Hipp</form>
-<tag><AM lemma="Hipp_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hipp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hipp_;S" src="auto">NNMSX-----A----</AM>
-<AM lemma="Hipp_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hipp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hipp_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Hipp-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Hipp" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hipp" src="auto">NNIS4-----A----</AM>
-<AM lemma="hipp" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hipp_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p5s2w5">
@@ -1347,17 +1319,7 @@
 <LM>w#w-lnd92252-097-p6s2w11</LM>
 </w.rf>
 <form>Siago</form>
-<tag><AM lemma="Siago_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Siaga" src="auto">NNMS5-----A----</AM>
-<AM lemma="Siago" src="auto">NNNS1-----A----</AM>
-<AM lemma="Siago" src="auto">NNNS4-----A----</AM>
-<AM lemma="Siago_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Siago_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Siago_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Siago_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Siago_^(značka)" src="auto">NNNS4-----A----</AM>
-<AM lemma="siaga" src="auto">NNMS5-----A----</AM>
-<AM lemma="siago" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Siago_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p6s2w12">
@@ -1393,16 +1355,7 @@
 <LM>w#w-lnd92252-097-p6s2w15</LM>
 </w.rf>
 <form>Zsákovics</form>
-<tag><AM lemma="Zsákovics_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zsákovics_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Zsákovic_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Zsákovic_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Zsákovics_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Zsákovics_;m" src="auto">NNXXX-----A----</AM>
-<AM lemma="Zsákovics_;R" src="auto">NNFXX-----A----</AM>
-<AM lemma="Zsákovics_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Zsákovics_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="zsákovics" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Zsákovics_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p6s2w16">
@@ -2244,16 +2197,7 @@
 <LM>w#w-lnd92252-097-p9s6w4</LM>
 </w.rf>
 <form>Baramek</form>
-<tag><AM lemma="Baramek_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Baramek_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Baramek" src="auto">NNIS4-----A----</AM>
-<AM lemma="Baramek" src="auto">NNIS1-----A----</AM>
-<AM lemma="Baramka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Baramka_^(*2)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Baramek-3_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Baramek" src="auto">NNMS1-----A----</AM>
-<AM lemma="Baramko" src="auto">NNNP2-----A----</AM>
-<AM lemma="baramek" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Baramek_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p9s6w5">
@@ -2727,14 +2671,7 @@
 <LM>w#w-lnd92252-097-p11s1w5</LM>
 </w.rf>
 <form>Maléš</form>
-<tag><AM lemma="Maléš_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Maléš_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Maléš_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Maléš_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Maléš_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Maléš-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Maléš" src="auto">NNIS1-----A----</AM>
-<AM lemma="maléš" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Maléš_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p11s1w6">
@@ -4947,15 +4884,7 @@
 <LM>w#w-lnd92252-097-p15s9w13</LM>
 </w.rf>
 <form>Praženica</form>
-<tag><AM lemma="Praženica_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Praženica_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Praženica_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Praženica_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Praženica_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Praženica_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Praženica_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Praženica_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="praženica" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Praženica_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p15s9w14">
@@ -5519,15 +5448,7 @@
 <LM>w#w-lnd92252-097-p17s2w6</LM>
 </w.rf>
 <form>Praženica</form>
-<tag><AM lemma="Praženica_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Praženica_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Praženica_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Praženica_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Praženica_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Praženica_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Praženica_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Praženica_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="praženica" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Praženica_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p17s2w7">
@@ -7588,15 +7509,7 @@
 <LM>w#w-lnd92252-097-p21s3w4</LM>
 </w.rf>
 <form>Dvirník</form>
-<tag><AM lemma="Dvirník_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dvirník" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dvirník" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dvirník" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dvirník_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dvirník_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dvirník_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dvirník_^(kdo_stráží,_člověk)" src="auto">NNMS1-----A----</AM>
-<AM lemma="dvirník" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Dvirník_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p21s3w5">
@@ -8320,16 +8233,7 @@
 <LM>w#w-lnd92252-097-p26s6w1</LM>
 </w.rf>
 <form>Ujlaky</form>
-<tag><AM lemma="Ujlaky_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ujlak" src="auto">NNIP1-----A----</AM>
-<AM lemma="Ujlak" src="auto">NNIP4-----A----</AM>
-<AM lemma="Ujlak" src="auto">NNIP7-----A----</AM>
-<AM lemma="Ujlak" src="auto">NNMP4-----A----</AM>
-<AM lemma="Ujlaky" src="auto">NNIP7-----A----</AM>
-<AM lemma="Ujlaké_^(rovněž)" src="auto">Db-------------</AM>
-<AM lemma="Ujlakum" src="auto">NNNP7-----A----</AM>
-<AM lemma="Ujlaka_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ujlaky" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Ujlaky_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p26s6w2">

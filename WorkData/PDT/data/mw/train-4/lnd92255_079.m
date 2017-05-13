@@ -592,15 +592,7 @@
 <LM>w#w-lnd92255-079-p7s1w2</LM>
 </w.rf>
 <form>areá</form>
-<tag><AM lemma="areál" src="orig">NNIS1-----A----</AM>
-<AM lemma="areál" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="areý" src="auto">AAFS1----1A----</AM>
-<AM lemma="areá_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="areat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="areý" src="auto">AANP1----1A----</AM>
-<AM lemma="areý" src="auto">AANP4----1A----</AM>
-<AM lemma="areý_^(*2t)" src="auto">AAFS1----1A----</AM>
-<AM lemma="areý_^(*3it)" src="auto">AAFS1----1A----</AM>
+<tag><AM lemma="areál" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-079-p7s1w3">
@@ -789,15 +781,7 @@
 <LM>w#w-lnd92255-079-p9s1w2</LM>
 </w.rf>
 <form>areá</form>
-<tag><AM lemma="areál" src="orig">NNIS1-----A----</AM>
-<AM lemma="areál" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="areý" src="auto">AAFS1----1A----</AM>
-<AM lemma="areá_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="areat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="areý" src="auto">AANP1----1A----</AM>
-<AM lemma="areý" src="auto">AANP4----1A----</AM>
-<AM lemma="areý_^(*2t)" src="auto">AAFS1----1A----</AM>
-<AM lemma="areý_^(*3it)" src="auto">AAFS1----1A----</AM>
+<tag><AM lemma="areál" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-079-p9s1w3">
@@ -909,16 +893,7 @@
 <LM>w#w-lnd92255-079-p10s1w1</LM>
 </w.rf>
 <form>Běšínov</form>
-<tag><AM lemma="Běšínov_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Běšínov_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Běšínov_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Běšínov_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Běšín_,t" src="auto">NNIP2-----A----</AM>
-<AM lemma="Běšínovy" src="auto">NNFP2-----A----</AM>
-<AM lemma="Běšínova" src="auto">NNFP2-----A----</AM>
-<AM lemma="Běšínov_^(pozice_Měsíce)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Běšínov-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="běšínov" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Běšínov_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-079-p10s1w2">

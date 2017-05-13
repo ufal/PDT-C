@@ -7948,15 +7948,7 @@
 <LM>w#w-ln94201-137-p15s1w9</LM>
 </w.rf>
 <form>Lambo</form>
-<tag><AM lemma="Lambo_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="Lambo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo_;m" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Lambo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lambo-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lambo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo" src="auto">J^-------------</AM>
-<AM lemma="lambo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lambo_;m" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-137-p15s1w10">
@@ -8212,15 +8204,7 @@
 <LM>w#w-ln94201-137-p15s3w1</LM>
 </w.rf>
 <form>Lambo</form>
-<tag><AM lemma="Lambo_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="Lambo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo_;m" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Lambo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lambo-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lambo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo" src="auto">J^-------------</AM>
-<AM lemma="lambo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lambo_;m" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-137-p15s3w2">
@@ -8348,15 +8332,7 @@
 <LM>w#w-ln94201-137-p15s4w1</LM>
 </w.rf>
 <form>Lambo</form>
-<tag><AM lemma="Lambo_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="Lambo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo_;m" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Lambo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lambo-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lambo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo" src="auto">J^-------------</AM>
-<AM lemma="lambo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lambo_;m" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-137-p15s4w2">
@@ -8496,15 +8472,7 @@
 <LM>w#w-ln94201-137-p16s1w1</LM>
 </w.rf>
 <form>Lambo</form>
-<tag><AM lemma="Lambo_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="Lambo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo_;m" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Lambo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lambo-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lambo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo" src="auto">J^-------------</AM>
-<AM lemma="lambo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lambo_;m" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-137-p16s1w2">
@@ -9120,15 +9088,7 @@
 <LM>w#w-ln94201-137-p16s6w1</LM>
 </w.rf>
 <form>Lambo</form>
-<tag><AM lemma="Lambo_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="Lambo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo_;m" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Lambo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lambo-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lambo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo" src="auto">J^-------------</AM>
-<AM lemma="lambo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lambo_;m" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-137-p16s6w2">
@@ -10540,15 +10500,7 @@
 <LM>w#w-ln94201-137-p19s2w13</LM>
 </w.rf>
 <form>Lambo</form>
-<tag><AM lemma="Lambo_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="Lambo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo_;m" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Lambo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lambo-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lambo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lambo" src="auto">J^-------------</AM>
-<AM lemma="lambo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lambo_;m" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-137-p19s2w14">
@@ -10652,19 +10604,7 @@
 <LM>w#w-ln94201-137-p20s1w2</LM>
 </w.rf>
 <form>ip</form>
-<tag><AM lemma="ip-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ip" src="auto">NNIS1-----A----</AM>
-<AM lemma="ip" src="auto">NNIS4-----A----</AM>
-<AM lemma="ip-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ip_;K" src="auto">NNISX-----A----</AM>
-<AM lemma="ip_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ip_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ip_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="ip_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ip_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="ipage_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="ipodnik_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ipopisný_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="ip-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-137-p20s1w3">

@@ -3842,15 +3842,7 @@
 <LM>w#w-lnd92257-061-p5s12w8</LM>
 </w.rf>
 <form>holštýnka</form>
-<tag><AM lemma="holštýnka" src="orig">NNFS1-----A----</AM>
-<AM lemma="holštýnka" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="holštýnka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="holštýnek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="holštýnek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="holštýnka_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="holštýnka_;E_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="holštýnko_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="holštýnka_^(*2)" src="auto">NNFS1-----A----</AM>
+<tag><AM lemma="holštýnka" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-061-p5s12w9">

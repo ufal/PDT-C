@@ -3461,31 +3461,7 @@
 <LM>w#w-lnd92258-076-p47s1w49</LM>
 </w.rf>
 <form>víceS</form>
-<tag><AM lemma="hodně" src="orig">Dg-------2A----</AM>
-<AM lemma="víceS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="víceS_:B_;K" src="auto" recommended="1">NNFPX-----A---8</AM>
-<AM lemma="víceS_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="víceS_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="víceS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="víceS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="víceS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="víceS_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="více_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="více_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="více_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="víces-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="víces-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="víces-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="víces_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="víces_;L_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="víces_;L_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="víces_;L_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="víces_;R_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="vícescriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="vícesoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="vícespolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="vícestrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="vícestátní_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="hodně" src="orig" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-076-p47s1w50">
@@ -4155,17 +4131,7 @@
 <LM>w#w-lnd92258-076-p54s1w3</LM>
 </w.rf>
 <form>small</form>
-<tag><AM lemma="small_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="small-2_,t_^(am._nákupní_středisko)" src="auto">NNIS1-----A----</AM>
-<AM lemma="small-2_,t_^(am._nákupní_středisko)" src="auto">NNIS4-----A----</AM>
-<AM lemma="small_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="small_,t_^(řec._jinak)" src="auto">Db-------------</AM>
-<AM lemma="small_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="small_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="small_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="small_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="small_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="small_;w_,t" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="small_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-076-p54s1w4">
@@ -5339,12 +5305,7 @@
 <LM>w#w-lnd92258-076-p70s1w4</LM>
 </w.rf>
 <form>relat</form>
-<tag><AM lemma="relativní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="relat" src="auto">Vf--------A----</AM>
-<AM lemma="relat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="relat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="relata" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="rele" src="auto">NNNP2-----A----</AM>
+<tag><AM lemma="relativní_:B" src="orig" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-076-p70s1w5">
@@ -5663,16 +5624,7 @@
 <LM>w#w-lnd92258-076-p74s1w7</LM>
 </w.rf>
 <form>Administration</form>
-<tag><AM lemma="administration_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Administration_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Administration_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Administration_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Administration_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Administration" src="auto">NNIS1-----A----</AM>
-<AM lemma="Administration_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Administratión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Administratión" src="auto">NNIS1-----A----</AM>
-<AM lemma="administration" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="administration_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-076-p74s1w8">

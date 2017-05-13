@@ -1153,12 +1153,7 @@
 <LM>w#w-mf930708-047-p5s2w14</LM>
 </w.rf>
 <form>Yo</form>
-<tag><AM lemma="Yo_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Yo_;K" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="yo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="yo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="yo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="yo" src="auto">NNNS1-----A----</AM>
+<tag><AM lemma="Yo_;K" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-047-p5s2w15">
@@ -1167,12 +1162,7 @@
 <LM>w#w-mf930708-047-p5s2w15</LM>
 </w.rf>
 <form>Yo</form>
-<tag><AM lemma="Yo_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Yo_;K" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="yo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="yo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="yo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="yo" src="auto">NNNS1-----A----</AM>
+<tag><AM lemma="Yo_;K" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-047-p5s2w16">
@@ -1293,16 +1283,7 @@
 <LM>w#w-mf930708-047-p5s2w28</LM>
 </w.rf>
 <form>sessiony</form>
-<tag><AM lemma="session_,t" src="orig">NNIP4-----A----</AM>
-<AM lemma="session" src="auto">NNIP1-----A----</AM>
-<AM lemma="session" src="auto">NNIP4-----A----</AM>
-<AM lemma="session" src="auto">NNIP5-----A----</AM>
-<AM lemma="session" src="auto">NNIP7-----A----</AM>
-<AM lemma="session" src="auto">NNMP4-----A----</AM>
-<AM lemma="sessiona" src="auto">NNFP1-----A----</AM>
-<AM lemma="sessiona" src="auto">NNFP4-----A----</AM>
-<AM lemma="sessiona" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="sessión" src="auto">NNIP4-----A----</AM>
+<tag><AM lemma="session_,t" src="orig" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-047-p5s2w29">

@@ -4604,8 +4604,7 @@
 <LM>w#w-ln94201-97-p11s2w11</LM>
 </w.rf>
 <form>rozh</form>
-<tag><AM lemma="rozhodnutí_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="rozhodnutí_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
+<tag><AM lemma="rozhodnutí_:B" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-97-p11s2w12">

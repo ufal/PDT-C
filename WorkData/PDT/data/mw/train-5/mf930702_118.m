@@ -1616,15 +1616,7 @@
 <LM>w#w-mf930702-118-p6s1w8</LM>
 </w.rf>
 <form>Dreznica</form>
-<tag><AM lemma="Dreznica_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Dreznica_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dreznica_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Dreznica_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dreznica_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Dreznica_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Dreznica_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dreznica_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dreznica" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Dreznica_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-118-p6s1w9">
@@ -1853,16 +1845,7 @@
 <LM>w#w-mf930702-118-p6s3w2</LM>
 </w.rf>
 <form>Dreznici</form>
-<tag><AM lemma="Dreznica_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Dreznice" src="auto">NNFS6-----A----</AM>
-<AM lemma="Dreznice" src="auto">NNFS4-----A----</AM>
-<AM lemma="Dreznik" src="auto">NNMP1-----A----</AM>
-<AM lemma="Dreznice" src="auto">NNFS3-----A----</AM>
-<AM lemma="Dreznice_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Dreznice_^(*3ík)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Dreznica_;G" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Dreznice_^(*3ík)" src="auto">NNFS6-----A----</AM>
-<AM lemma="dreznici" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Dreznica_;G" src="orig" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-118-p6s3w3">
@@ -2009,16 +1992,7 @@
 <LM>w#w-mf930702-118-p6s4w3</LM>
 </w.rf>
 <form>Žepče</form>
-<tag><AM lemma="Žepče_;G" src="orig">NNNS2-----A----</AM>
-<AM lemma="Žepče_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Žepče_;G" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="Žepče_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Žepč_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Žepč" src="auto">NNIP1-----A----</AM>
-<AM lemma="Žepč" src="auto">NNIS2-----A----</AM>
-<AM lemma="Žepč" src="auto">NNMP4-----A----</AM>
-<AM lemma="Žepč" src="auto">NNMS4-----A----</AM>
-<AM lemma="žepče" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Žepče_;G" src="orig" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-118-p6s4w4">
@@ -2284,16 +2258,7 @@
 <LM>w#w-mf930702-118-p6s6w1</LM>
 </w.rf>
 <form>Žepče</form>
-<tag><AM lemma="Žepče_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Žepče_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Žepče_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Žepče_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Žepč_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Žepč" src="auto">NNIP1-----A----</AM>
-<AM lemma="Žepč" src="auto">NNIS2-----A----</AM>
-<AM lemma="Žepč" src="auto">NNMP4-----A----</AM>
-<AM lemma="Žepč" src="auto">NNMS4-----A----</AM>
-<AM lemma="žepče" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Žepče_;G" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-118-p6s6w2">

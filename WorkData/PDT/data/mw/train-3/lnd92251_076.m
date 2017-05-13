@@ -280,16 +280,7 @@
 <LM>w#w-lnd92251-076-p2s2w3</LM>
 </w.rf>
 <form>Russian</form>
-<tag><AM lemma="Russian_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Russian_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Russian_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Russian_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Russian_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Russián_;Y_,x" src="auto">NNMS1-----A----</AM>
-<AM lemma="Russián_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Russianum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Russiano" src="auto">NNNP2-----A----</AM>
-<AM lemma="russian" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Russian_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-076-p2s2w4">
@@ -298,16 +289,7 @@
 <LM>w#w-lnd92251-076-p2s2w4</LM>
 </w.rf>
 <form>Stars</form>
-<tag><AM lemma="star_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Stars_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Star_;m_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Star_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Star_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Stars_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stars_:B_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Stars_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Stars-2_;R_^(planeta;;kosmická_sonda)" src="auto">NNIS4-----A----</AM>
-<AM lemma="stars" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="star_,t" src="orig" selected="1">NNFPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-076-p2s2w5">
@@ -325,16 +307,7 @@
 <LM>w#w-lnd92251-076-p2s2w6</LM>
 </w.rf>
 <form>Classics</form>
-<tag><AM lemma="classic_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Classics_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Classic_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Classic_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Classics_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Classics_;m" src="auto">NNXXX-----A----</AM>
-<AM lemma="Classics_;R" src="auto">NNFXX-----A----</AM>
-<AM lemma="Classics_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Classics_;K" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="classics" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="classic_,t" src="orig" selected="1">NNMPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-076-p2s2w7">
@@ -669,16 +642,7 @@
 <LM>w#w-lnd92251-076-p2s3w6</LM>
 </w.rf>
 <form>Mkrtčjanové</form>
-<tag><AM lemma="Mkrtčjanová_;S" src="orig">NNFS2-----A----</AM>
-<AM lemma="Mkrtčjanový" src="auto">AAFS2----1A----</AM>
-<AM lemma="Mkrtčjanová_;S" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Mkrtčjanový" src="auto">AAFS6----1A----</AM>
-<AM lemma="Mkrtčjanový" src="auto">AAFP1----1A----</AM>
-<AM lemma="Mkrtčjanový" src="auto">AAIP1----1A----</AM>
-<AM lemma="Mkrtčjanový" src="auto">AAIP4----1A----</AM>
-<AM lemma="Mkrtčjanový" src="auto">AAFP4----1A----</AM>
-<AM lemma="Mkrtčjanový" src="auto">AANS1----1A----</AM>
-<AM lemma="mkrtčjanové" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mkrtčjanová_;S" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-076-p2s3w7">
@@ -831,15 +795,7 @@
 <LM>w#w-lnd92251-076-p2s3w23</LM>
 </w.rf>
 <form>Blagovest</form>
-<tag><AM lemma="Blagovest_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Blagovest_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Blagovest" src="auto">NNIS1-----A----</AM>
-<AM lemma="Blagovest" src="auto">NNIS4-----A----</AM>
-<AM lemma="Blagovest" src="auto">NNFS4-----A----</AM>
-<AM lemma="Blagovest_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Blagovest" src="auto">NNFS1-----A----</AM>
-<AM lemma="Blagovest_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="blagovest" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Blagovest_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-076-p2s3w24">
@@ -2076,16 +2032,7 @@
 <LM>w#w-lnd92251-076-p3s7w39</LM>
 </w.rf>
 <form>Šafrana</form>
-<tag><AM lemma="Šafran_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Šafran_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Šafran_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Šafran_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Šafran_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Šafran" src="auto">NNMS4-----A----</AM>
-<AM lemma="Šafran" src="auto">NNMS2-----A----</AM>
-<AM lemma="Šafrana" src="auto">NNFS1-----A----</AM>
-<AM lemma="Šafran_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="šafrana" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Šafran_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-076-p3s7w40">
@@ -2368,16 +2315,7 @@
 <LM>w#w-lnd92251-076-p5s1w2</LM>
 </w.rf>
 <form>vla</form>
-<tag><AM lemma="vla-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vel-1_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="vel-1_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="vel_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="vel_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="vla-2_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="vla-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="vla_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="vnout_:W" src="auto">VpQW---XR-AA--1</AM>
-<AM lemma="vt_:W" src="auto">VpQW---XR-AA---</AM>
+<tag><AM lemma="vla-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92251-076-p5s1w3">

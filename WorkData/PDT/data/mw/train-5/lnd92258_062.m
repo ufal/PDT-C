@@ -477,16 +477,7 @@
 <LM>w#w-lnd92258-062-p3s3w14</LM>
 </w.rf>
 <form>Mérieuxův</form>
-<tag><AM lemma="Mérieuxův_;K" src="orig">AUIS1M---------</AM>
-<AM lemma="Mérieuxův_;K" src="auto" recommended="1">AUIS1M---------</AM>
-<AM lemma="Mérieuxův-1_;S_^(*4-1)" src="auto">AUMS1M---------</AM>
-<AM lemma="Mérieuxův_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Mérieuxův_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Mérieuxův_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="Mérieuxův_;S_^(*2a)" src="auto">AUIS1M---------</AM>
-<AM lemma="Mérieuxův_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Mérieuxův_;S_^(*2a)" src="auto">AUIS4M---------</AM>
-<AM lemma="mérieuxův" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mérieuxův_;K" src="orig" selected="1">AUIS1M---------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-062-p3s3w15">

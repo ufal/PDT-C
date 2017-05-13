@@ -104,15 +104,7 @@
 <LM>w#w-lnd92252-050-p1s1w10</LM>
 </w.rf>
 <form>casse</form>
-<tag><AM lemma="casse_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="cass_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="casse_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="cass_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="casse_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="casse_;m" src="auto">NNIXX-----A----</AM>
-<AM lemma="casse_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="casse_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="casse_;S" src="auto">NNMS2-----A----</AM>
+<tag><AM lemma="casse_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-050-p1s1w11">
@@ -130,15 +122,7 @@
 <LM>w#w-lnd92252-050-p1s1w12</LM>
 </w.rf>
 <form>pieds</form>
-<tag><AM lemma="pied_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="pied_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="pieds_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="pieds_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="pieds_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pied_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="pied_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="pied_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="pieds_;K_,t" src="auto">NNXXX-----A----</AM>
+<tag><AM lemma="pied_,t" src="orig" selected="1">NNMPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-050-p1s1w13">
@@ -1583,16 +1567,7 @@
 <LM>w#w-lnd92252-050-p2s3w14</LM>
 </w.rf>
 <form>Lanoux</form>
-<tag><AM lemma="Lanoux_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lanoux_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lanoux_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Lanoux_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lanoux_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="faux_,h_,t_^(Lanoux_pas)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lanoux_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Lanoux_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Lanoux_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="lanoux" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lanoux_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-050-p2s3w15">
@@ -1794,15 +1769,7 @@
 <LM>w#w-lnd92252-050-p3s1w2</LM>
 </w.rf>
 <form>jaf</form>
-<tag><AM lemma="jaf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jaf-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jaf" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf" src="auto">NNIS4-----A----</AM>
-<AM lemma="jaf" src="auto">NNIS1-----A----</AM>
-<AM lemma="jaf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="jaf_;R" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="jaf-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-050-p3s1w3">

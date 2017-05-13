@@ -513,15 +513,7 @@
 <LM>w#w-ln94201-67-p2s4w11</LM>
 </w.rf>
 <form>Agostoniho</form>
-<tag><AM lemma="Agostoni_;m" src="orig">NNMS2-----A----</AM>
-<AM lemma="Agostoni_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Agostoni_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Agostoni_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Agostoni_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Agostoni_;m" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Agostoni_;S_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Agostoni-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="agostoniho" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Agostoni_;m" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-67-p2s4w12">

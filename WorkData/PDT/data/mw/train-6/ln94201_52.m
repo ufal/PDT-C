@@ -349,16 +349,7 @@
 <LM>w#w-ln94201-52-p2s1w33</LM>
 </w.rf>
 <form>Twagiramungu</form>
-<tag><AM lemma="Twagiramungu_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Twagiramung" src="auto">NNIS2-----A----</AM>
-<AM lemma="Twagiramung" src="auto">NNIS6-----A----</AM>
-<AM lemma="Twagiramung_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Twagiramung_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Twagiramung_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Twagiramung_,t" src="auto">NNIS2-----A----</AM>
-<AM lemma="Twagiramung_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-Twagiramung)" src="auto">NNIS6-----A----</AM>
-<AM lemma="twagiramungu" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Twagiramungu_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-52-p2s1w34">

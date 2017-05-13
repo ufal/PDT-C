@@ -75,15 +75,7 @@
 <LM>w#w-mf930703-060-p2s1w5</LM>
 </w.rf>
 <form>spa</form>
-<tag><AM lemma="spa-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="spa-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="spa" src="auto">NNFS1-----A----</AM>
-<AM lemma="spa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="spa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="sp_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="sp" src="auto">NNMS2-----A----</AM>
-<AM lemma="spo" src="auto">NNNS2-----A----</AM>
-<AM lemma="sp" src="auto">NNMS4-----A----</AM>
+<tag><AM lemma="spa-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-060-p2s1w6">
@@ -553,15 +545,7 @@
 <LM>w#w-mf930703-060-p2s2w21</LM>
 </w.rf>
 <form>Lelouche</form>
-<tag><AM lemma="Lelouche_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lelouch_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Lelouche_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lelouche_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lelouche_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lelouch_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Manche_;G_^(La_Lelouche)" src="auto">NNISX-----A----</AM>
-<AM lemma="Lelouch_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="lelouche" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lelouche_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-060-p2s2w22">

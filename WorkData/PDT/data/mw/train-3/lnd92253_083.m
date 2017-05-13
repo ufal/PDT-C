@@ -295,16 +295,7 @@
 <LM>w#w-lnd92253-083-p5s3w1</LM>
 </w.rf>
 <form>Vidrai</form>
-<tag><AM lemma="Vidrai_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vidrai_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Vidrai_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Vidrai_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Vidrai_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vidrai_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Vidrai_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Vidrai_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Vidrai_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="vidrai" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Vidrai_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p5s3w2">
@@ -388,16 +379,7 @@
 <LM>w#w-lnd92253-083-p5s4w1</LM>
 </w.rf>
 <form>Vincze</form>
-<tag><AM lemma="Vincze_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vincz_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vincze_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Vincze" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vincze" src="auto">NNFS2-----A----</AM>
-<AM lemma="Vincha" src="auto">NNFS6-----A----</AM>
-<AM lemma="Vincha" src="auto">NNFS3-----A----</AM>
-<AM lemma="Vincza" src="auto">NNFS6-----A----</AM>
-<AM lemma="Vincze" src="auto">NNFP1-----A----</AM>
-<AM lemma="vincze" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Vincze_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p5s4w2">
@@ -445,16 +427,7 @@
 <LM>w#w-lnd92253-083-p5s5w1</LM>
 </w.rf>
 <form>Miskolcz</form>
-<tag><AM lemma="Miskolcz_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Miskolcz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Miskolcz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Miskolcz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miskolcza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Miskolcz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Miskolcz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miskolcs" src="auto">NNIS1-----A----</AM>
-<AM lemma="Miskolcz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="miskolcz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Miskolcz_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p5s5w2">
@@ -728,16 +701,7 @@
 <LM>w#w-lnd92253-083-p5s9w1</LM>
 </w.rf>
 <form>Gegöová</form>
-<tag><AM lemma="Gegöová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Gegöová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Gegöový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Gegöový" src="auto">AANP1----1A----</AM>
-<AM lemma="Gegöový" src="auto">AANP4----1A----</AM>
-<AM lemma="Gegöová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gegöová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gegöový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Gegöový" src="auto">AAFS5----1A----</AM>
-<AM lemma="gegöová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gegöová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p5s9w2">
@@ -959,16 +923,7 @@
 <LM>w#w-lnd92253-083-p7s2w16</LM>
 </w.rf>
 <form>Tarango</form>
-<tag><AM lemma="Tarango_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tarango_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tarango_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Tarango_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tarango_;S_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tarango_;R_^(vozidlo)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tarango_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tarango_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tarango_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="tarango" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tarango_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p7s2w17">
@@ -1127,16 +1082,7 @@
 <LM>w#w-lnd92253-083-p7s2w33</LM>
 </w.rf>
 <form>Hogstedt</form>
-<tag><AM lemma="Hogstedt_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hogstedt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hogstedt_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hogstedt_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Hogstedt_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hogstedt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Hogstedt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Hogstedt" src="auto">Vf--------A----</AM>
-<AM lemma="Hogstedt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="hogstedt" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hogstedt_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p7s2w34">
@@ -1568,15 +1514,7 @@
 <LM>w#w-lnd92253-083-p7s2w81</LM>
 </w.rf>
 <form>Kulti</form>
-<tag><AM lemma="Kulti_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kulti_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kult_^(*3ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Kult_^(*3ý)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Kult_^(*3ý)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Kult" src="auto">NNFS2-----A----</AM>
-<AM lemma="Kult" src="auto">NNMP1-----A----</AM>
-<AM lemma="Kult" src="auto">NNFS6-----A----</AM>
-<AM lemma="kulti" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kulti_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p7s2w82">
@@ -2922,19 +2860,7 @@
 <LM>w#w-lnd92253-083-p11s1w5</LM>
 </w.rf>
 <form>ČNL</form>
-<tag><AM lemma="ČNL_:B_;m_^(Česká_nár._liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNL_:B_;m_^(Česká_nár._liga)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ČNL-2_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČNL_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČNL_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČNL_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Čnt_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Čnt_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Čnl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čnt" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Čnnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="Čnl" src="auto">NNIS1-----A----</AM>
-<AM lemma="čnl" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="ČNL_:B_;m_^(Česká_nár._liga)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p11s1w6">

@@ -28,21 +28,7 @@
 <LM>w#w-mf930701-077-p1s1w2</LM>
 </w.rf>
 <form>MŽ</form>
-<tag><AM lemma="MŽ_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MŽ_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="MŽ_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MŽ_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MŽ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MŽ-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Mž" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mž" src="auto">NNFS4-----A----</AM>
-<AM lemma="Mž" src="auto">Db-------------</AM>
-<AM lemma="Mž" src="auto">J,-------------</AM>
-<AM lemma="Mž_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mž_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mž-1" src="auto">Db-------------</AM>
-<AM lemma="Mž" src="auto">TT-------------</AM>
-<AM lemma="mž" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="MŽ_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-077-p1s1w3">
@@ -89,13 +75,7 @@
 <LM>w#w-mf930701-077-p2s1w3</LM>
 </w.rf>
 <form>jsl</form>
-<tag><AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jsl-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jsnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="jst" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jsl" src="auto">NNIS1-----A----</AM>
-<AM lemma="jsl" src="auto">NNIS4-----A----</AM>
+<tag><AM lemma="jsl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-077-p2s1w4">
@@ -313,15 +293,7 @@
 <LM>w#w-mf930701-077-p2s2w7</LM>
 </w.rf>
 <form>Otelul</form>
-<tag><AM lemma="Otelul_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Otelout" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Otelul_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Otelout_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Otelul" src="auto">NNIS4-----A----</AM>
-<AM lemma="Otelula" src="auto">NNFP2-----A----</AM>
-<AM lemma="Otelul" src="auto">NNIS1-----A----</AM>
-<AM lemma="Otelul_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="otelul" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Otelul_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-077-p2s2w8">

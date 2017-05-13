@@ -55,15 +55,7 @@
 <LM>w#w-lnd92256-086-p1s1w5</LM>
 </w.rf>
 <form>PLASSON</form>
-<tag><AM lemma="Plasson_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="PLASSON" src="auto">NNMS1-----A----</AM>
-<AM lemma="Plasson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Plasson_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Plasson_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Plasson_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Plasson" src="auto">NNIS1-----A----</AM>
-<AM lemma="Plasson_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Plasson_;K_,t" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="Plasson_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-086-p1s1w6">
@@ -301,15 +293,7 @@
 <LM>w#w-lnd92256-086-p1s3w4</LM>
 </w.rf>
 <form>Plasson</form>
-<tag><AM lemma="Plasson_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Plasson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Plasson_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Plasson_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Plasson_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Plasson" src="auto">NNIS1-----A----</AM>
-<AM lemma="Plasson_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Plasson_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="plasson" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Plasson_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-086-p1s3w5">
@@ -827,15 +811,7 @@
 <LM>w#w-lnd92256-086-p1s6w6</LM>
 </w.rf>
 <form>Suite</form>
-<tag><AM lemma="Suite_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Suite_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Suite_;Y" src="auto">NNMSX-----A----</AM>
-<AM lemma="Suite_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Suite_;R_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Suite_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Suite_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Suite-1_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="suite" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Suite_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-086-p1s6w7">
@@ -844,15 +820,7 @@
 <LM>w#w-lnd92256-086-p1s6w7</LM>
 </w.rf>
 <form>Provencale</form>
-<tag><AM lemma="Provencale_,t" src="orig">AAFXX----1A----</AM>
-<AM lemma="Provencale_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Provencale_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Provencal" src="auto">NNIS6-----A----</AM>
-<AM lemma="Provencale_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Provencala" src="auto">NNFS6-----A----</AM>
-<AM lemma="Provencale_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Provencale-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="provencale" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Provencale_,t" src="orig" selected="1">AAFXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-086-p1s6w8">
@@ -897,14 +865,7 @@
 <LM>w#w-lnd92256-086-p1s6w12</LM>
 </w.rf>
 <form>Parade</form>
-<tag><AM lemma="parade_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Parást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Parade_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Parade_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Parade_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Made_;m_,t_^(Czech_Parade)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Parad-1" src="auto">RR--7----------</AM>
-<AM lemma="parade" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="parade_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-086-p1s6w13">
@@ -949,15 +910,7 @@
 <LM>w#w-lnd92256-086-p1s6w17</LM>
 </w.rf>
 <form>Symphonie</form>
-<tag><AM lemma="symphonie_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Symphonie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Symphonie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Symphonie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Symphonie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Symphonie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Symphonie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Symphonie_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="symphonie" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="symphonie_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-086-p1s6w18">
@@ -966,14 +919,7 @@
 <LM>w#w-lnd92256-086-p1s6w18</LM>
 </w.rf>
 <form>liturgique</form>
-<tag><AM lemma="liturgique_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="liturgique_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="liturgique_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="liturgique_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="liturgique_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="liturgique_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="liturgique_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="liturgique_;R_,t" src="auto">AAXXX----1A----</AM>
+<tag><AM lemma="liturgique_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-086-p1s6w19">
@@ -1027,16 +973,7 @@
 <LM>w#w-lnd92256-086-p1s6w24</LM>
 </w.rf>
 <form>Boléro</form>
-<tag><AM lemma="Boléro_;R_,t" src="orig">NNNSX-----A----</AM>
-<AM lemma="Boléro" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Boléro_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Boléro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Boléro" src="auto">NNNS4-----A----</AM>
-<AM lemma="Boléro_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Boléro_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Boléro_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bolérý" src="auto">A2--------A----</AM>
-<AM lemma="boléro" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Boléro_;R_,t" src="orig" selected="1">NNNSX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-086-p1s6w25">

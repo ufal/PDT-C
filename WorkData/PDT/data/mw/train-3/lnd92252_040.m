@@ -369,16 +369,7 @@
 <LM>w#w-lnd92252-040-p2s4w13</LM>
 </w.rf>
 <form>Intrinsic</form>
-<tag><AM lemma="Intrinsic_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Intrinsice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Intrinsic_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Intrinsic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Intrinsic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="music_,t_^(př._pop_Intrinsic)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Intrinsic_;u_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Intrinsic_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Intrinsic_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="intrinsic" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Intrinsic_;m_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-040-p2s4w14">

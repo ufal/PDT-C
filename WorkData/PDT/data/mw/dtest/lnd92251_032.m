@@ -1913,19 +1913,7 @@
 <LM>w#w-lnd92251-032-p3s9w14</LM>
 </w.rf>
 <form>kovo</form>
-<tag><AM lemma="KOVO_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="kovo-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="kovo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="kovobchodní_:B_^(jen_obch._společnost)" src="auto" recommended="1">AAFXX----1A---8</AM>
-<AM lemma="kovokresní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="kovomezený_:B" src="auto">AANS7----1A---8</AM>
-<AM lemma="kův_;S_^(*2)" src="auto">AUNS1M---------</AM>
-<AM lemma="kův_;S_^(*2)" src="auto">AUNS4M---------</AM>
-<AM lemma="kův_;S_^(*2a)" src="auto">AUNS1M---------</AM>
-<AM lemma="kův_;S_^(*3ek)" src="auto">AUNS1M---------</AM>
-<AM lemma="kův_^(*2)" src="auto">AUNS1M---------</AM>
-<AM lemma="kův_^(*2)" src="auto">AUNS4M---------</AM>
-<AM lemma="kův_^(*3ec)" src="auto">AUNS1M---------</AM>
+<tag><AM lemma="KOVO_:B_;K" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92251-032-p3s9w15">

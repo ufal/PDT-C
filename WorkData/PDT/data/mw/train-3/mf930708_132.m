@@ -870,15 +870,7 @@
 <LM>w#w-mf930708-132-p2s6w20</LM>
 </w.rf>
 <form>Kirui</form>
-<tag><AM lemma="Kirui_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kirui_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kirue" src="auto">NNFS6-----A----</AM>
-<AM lemma="Kirue" src="auto">NNFS4-----A----</AM>
-<AM lemma="Kirui_;Y" src="auto">NNXXX-----A----</AM>
-<AM lemma="Kirui_;G_^(Středoafrická_republika)" src="auto">NNNSX-----A----</AM>
-<AM lemma="Kirui_,t" src="auto">TT-------------</AM>
-<AM lemma="Kirui_,t" src="auto">P4XXX----------</AM>
-<AM lemma="kirui" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kirui_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-132-p2s6w21">
@@ -1049,15 +1041,7 @@
 <LM>w#w-mf930708-132-p3s2w1</LM>
 </w.rf>
 <form>Cason</form>
-<tag><AM lemma="Cason_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cason_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cason_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cason_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cason_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cason" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cason_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cason_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="cason" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cason_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-132-p3s2w2">
@@ -1627,15 +1611,7 @@
 <LM>w#w-mf930708-132-p3s7w12</LM>
 </w.rf>
 <form>Kirui</form>
-<tag><AM lemma="Kirui_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kirui_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kirue" src="auto">NNFS6-----A----</AM>
-<AM lemma="Kirue" src="auto">NNFS4-----A----</AM>
-<AM lemma="Kirui_;Y" src="auto">NNXXX-----A----</AM>
-<AM lemma="Kirui_;G_^(Středoafrická_republika)" src="auto">NNNSX-----A----</AM>
-<AM lemma="Kirui_,t" src="auto">TT-------------</AM>
-<AM lemma="Kirui_,t" src="auto">P4XXX----------</AM>
-<AM lemma="kirui" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kirui_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-132-p3s7w13">
@@ -2124,16 +2100,7 @@
 <LM>w#w-mf930708-132-p3s14w1</LM>
 </w.rf>
 <form>Gataullin</form>
-<tag><AM lemma="Gataullin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gataullin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gataullina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gataullin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gataullin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gataullin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gataullín" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gataulliny" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gataullino" src="auto">NNNP2-----A----</AM>
-<AM lemma="gataullin" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gataullin_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-132-p3s14w2">

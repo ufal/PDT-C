@@ -1149,16 +1149,7 @@
 <LM>w#w-lnd92258-002-p4s2w20</LM>
 </w.rf>
 <form>Rondeaua</form>
-<tag><AM lemma="Rondeau_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Rondeau_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Rondeau_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rondeaua_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rondeauum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Rondeauum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Rondeauum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Rondeaue_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rondeaua_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rondeaua" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rondeau_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-002-p4s2w21">
@@ -5304,13 +5295,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>riskantí</form>
-<tag><AM lemma="riskantní" src="orig">AAFS1----1A----</AM>
-<AM lemma="riskantní" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="riskant_^(*3ý)" src="auto">NNFS7-----A----</AM>
-<AM lemma="riskant_^(*3ý)" src="auto">NNFP2-----A----</AM>
-<AM lemma="riskant" src="auto">NNFS7-----A----</AM>
-<AM lemma="riskantit_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="riskantí_^(*3out)" src="auto">NNNS1-----A----</AM>
+<tag><AM lemma="riskantní" src="orig" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-002-p9s6w14">

@@ -371,16 +371,7 @@
 <LM>w#w-lnd92259-105-p3s4w3</LM>
 </w.rf>
 <form>Baltfax</form>
-<tag><AM lemma="Baltfax_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Baltfax_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Baltfax" src="auto">NNIS4-----A----</AM>
-<AM lemma="Baltfax" src="auto">NNIS1-----A----</AM>
-<AM lemma="Baltfax_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Baltfaximální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Baltfaximum_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Baltfax_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Baltfax_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="baltfax" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Baltfax_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-105-p3s4w4">

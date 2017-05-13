@@ -612,21 +612,7 @@
 <LM>w#w-mf930703-095-p3s1w11</LM>
 </w.rf>
 <form>LKS</form>
-<tag><AM lemma="LKS_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="LKS_:B_^(komunistická_strana)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="LKS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="LKS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="LKS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="LKS_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="LKS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="LKS_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Lks_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lk_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Lks" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lk_;R_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Lk_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Lk_;G" src="auto">NNIPX-----A----</AM>
-<AM lemma="lks" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="LKS_:B_;K" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-095-p3s1w12">
@@ -1219,13 +1205,7 @@
 <LM>w#w-mf930703-095-p5s2w11</LM>
 </w.rf>
 <form>Venables</form>
-<tag><AM lemma="Venables_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Venables_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Venables" src="auto">NNIS4-----A----</AM>
-<AM lemma="Venables" src="auto">NNIS1-----A----</AM>
-<AM lemma="Venable_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Venableso" src="auto">NNNP2-----A----</AM>
-<AM lemma="venables" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Venables_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-095-p5s2w12">
@@ -1426,13 +1406,7 @@
 <LM>w#w-mf930703-095-p5s3w1</LM>
 </w.rf>
 <form>Venables</form>
-<tag><AM lemma="Venables_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Venables_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Venables" src="auto">NNIS4-----A----</AM>
-<AM lemma="Venables" src="auto">NNIS1-----A----</AM>
-<AM lemma="Venable_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Venableso" src="auto">NNNP2-----A----</AM>
-<AM lemma="venables" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Venables_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-095-p5s3w2">
@@ -2211,14 +2185,7 @@
 <LM>w#w-mf930703-095-p7s1w6</LM>
 </w.rf>
 <form>Tognonni</form>
-<tag><AM lemma="Tognonni_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tognonni_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tognonni_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="vinný-1_^(kdo_je_vinen/Tognonna)" src="auto">ACMP------A----</AM>
-<AM lemma="Tognonný" src="auto">ACMP------A----</AM>
-<AM lemma="Tognonni_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tognonni_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="tognonni" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tognonni_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-095-p7s1w7">
@@ -2254,15 +2221,7 @@
 <LM>w#w-mf930703-095-p7s1w10</LM>
 </w.rf>
 <form>Rothenbühler</form>
-<tag><AM lemma="Rothenbühler_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rothenbühler_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rothenbühler" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rothenbühler" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rothenbühler_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rothenbühler_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Rothenbühler_,t" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Rothenbühler-2_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="rothenbühler" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rothenbühler_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-095-p7s1w11">

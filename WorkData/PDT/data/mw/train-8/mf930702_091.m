@@ -1122,16 +1122,7 @@
 <LM>w#w-mf930702-091-p3s5w27</LM>
 </w.rf>
 <form>Tampír</form>
-<tag><AM lemma="Tampír_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tampír_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tampír" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tampír" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tampír" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tampír_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tampír_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tampír_^(vodní;_větrný)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tampír_^(opak_války)" src="auto">NNIS4-----A----</AM>
-<AM lemma="tampír" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tampír_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-091-p3s5w28">

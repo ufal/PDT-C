@@ -885,16 +885,7 @@
 <LM>w#w-mf930701-058-p2s4w18</LM>
 </w.rf>
 <form>Baratka</form>
-<tag><AM lemma="Baratka_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Baratka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Baratka_^(*2a)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Baratka_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Baratka_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Baratek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Baratko" src="auto">NNNP4-----A----</AM>
-<AM lemma="Baratko" src="auto">NNNP1-----A----</AM>
-<AM lemma="Baratko" src="auto">NNNS2-----A----</AM>
-<AM lemma="baratka" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Baratka_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-058-p2s4w19">

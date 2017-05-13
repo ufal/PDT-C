@@ -1278,16 +1278,7 @@
 <LM>w#w-ln94201-117-p3s2w20</LM>
 </w.rf>
 <form>Thanathea</form>
-<tag><AM lemma="Thanathea" src="orig">NNFS1-----A----</AM>
-<AM lemma="Thanathea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Thanathea_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Thanathea_;S_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Thanathea_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Thanathea" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Thanathe_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Thanathea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Thanathea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="thanathea" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Thanathea" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-117-p3s2w21">
@@ -1543,23 +1534,7 @@
 <LM>w#w-ln94201-117-p3s4w6</LM>
 </w.rf>
 <form>Noé</form>
-<tag><AM lemma="Noé_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Noé_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Noé_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Noý" src="auto">AAFS2----1A----</AM>
-<AM lemma="Noý" src="auto">AANS1----1A----</AM>
-<AM lemma="Noý" src="auto">AAFS6----1A----</AM>
-<AM lemma="Noý" src="auto">AAFP1----1A----</AM>
-<AM lemma="Noý" src="auto">AAIP1----1A----</AM>
-<AM lemma="Noý" src="auto">AAFP4----1A----</AM>
-<AM lemma="noé_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="noé_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="noý" src="auto">AAFS2----1A----</AM>
-<AM lemma="noý" src="auto">AANS1----1A----</AM>
-<AM lemma="noý" src="auto">AAFS6----1A----</AM>
-<AM lemma="noý" src="auto">AAFP1----1A----</AM>
-<AM lemma="noý" src="auto">AAIP1----1A----</AM>
-<AM lemma="noý" src="auto">AAFP4----1A----</AM>
+<tag><AM lemma="Noé_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-117-p3s4w7">
@@ -2652,15 +2627,7 @@
 <LM>w#w-ln94201-117-p4s1w51</LM>
 </w.rf>
 <form>podrobenců</form>
-<tag><AM lemma="podrobenec" src="orig">NNMP2-----A----</AM>
-<AM lemma="podrobenec" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="podrobenec_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="podrobenec" src="auto">NNIP2-----A----</AM>
-<AM lemma="podrobence" src="auto">NNMP2-----A----</AM>
-<AM lemma="obrněnec-1_^(podrobený_vůz)" src="auto">NNIP2-----A----</AM>
-<AM lemma="podrobence_;G" src="auto">NNIP2-----A---1</AM>
-<AM lemma="podrobence_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="podrobenc" src="auto">NNMP2-----A----</AM>
+<tag><AM lemma="podrobenec" src="orig" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-117-p4s1w52">
@@ -3171,15 +3138,7 @@
 <LM>w#w-ln94201-117-p4s4w10</LM>
 </w.rf>
 <form>konkrétnin</form>
-<tag><AM lemma="konkrétnina" src="orig">NNFP2-----A----</AM>
-<AM lemma="konkrétnina" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="konkrétnin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="konkrétniny" src="auto">NNFP2-----A----</AM>
-<AM lemma="konkrétnin_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="konkrétnin" src="auto">NNIS1-----A----</AM>
-<AM lemma="konkrétnin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="konkrétnin" src="auto">NNIS4-----A----</AM>
-<AM lemma="konkrétnin_;G" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="konkrétnina" src="orig" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-117-p4s4w11">
@@ -4539,15 +4498,7 @@
 <LM>w#w-ln94201-117-p5s4w18</LM>
 </w.rf>
 <form>znicování</form>
-<tag><AM lemma="znicování" src="orig">NNNS2-----A----</AM>
-<AM lemma="znicování_^(*3at)" src="auto">NNNS1-----A----</AM>
-<AM lemma="znicování_^(*3at)" src="auto">NNNS4-----A----</AM>
-<AM lemma="znicování_^(*3at)" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="znicování_^(*3at)" src="auto">NNNS6-----A----</AM>
-<AM lemma="znicování_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="znicování_^(*3at)" src="auto">NNNP4-----A----</AM>
-<AM lemma="znicování_^(*3at)" src="auto">NNNP2-----A----</AM>
-<AM lemma="znicování_^(*3at)" src="auto">NNNP1-----A----</AM>
+<tag><AM lemma="znicování" src="orig" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-117-p5s4w19">
@@ -4874,13 +4825,7 @@
 <LM>w#w-ln94201-117-p5s5w26</LM>
 </w.rf>
 <form>pamfletičnost</form>
-<tag><AM lemma="pamfletičnost" src="orig">NNFS1-----A----</AM>
-<AM lemma="pamfletičnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="pamfletičnost_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="pamfletičnost" src="auto">NNFS4-----A----</AM>
-<AM lemma="pamfletičnost" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="pamfletičnost" src="auto">NNIS4-----A----</AM>
-<AM lemma="pamfletičnost_,a_^(*3ý)" src="auto">NNFS4-----A----</AM>
+<tag><AM lemma="pamfletičnost" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-117-p5s5w27">
@@ -5008,15 +4953,7 @@
 <LM>w#w-ln94201-117-p5s6w12</LM>
 </w.rf>
 <form>konkreticity</form>
-<tag><AM lemma="konkreticita" src="orig">NNFS2-----A----</AM>
-<AM lemma="konkreticita" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="konkreticita" src="auto">NNFP4-----A----</AM>
-<AM lemma="konkreticita" src="auto">NNFP1-----A----</AM>
-<AM lemma="konkreticit" src="auto">NNIP4-----A----</AM>
-<AM lemma="konkreticit" src="auto">NNIP1-----A----</AM>
-<AM lemma="konkreticit" src="auto">NNIP7-----A----</AM>
-<AM lemma="konkreticít" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="konkreticita_;Y" src="auto">NNFS2-----A----</AM>
+<tag><AM lemma="konkreticita" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-117-p5s6w13">
@@ -6981,36 +6918,7 @@
 <LM>w#w-ln94201-117-p7s2w12</LM>
 </w.rf>
 <form>všedeterminující</form>
-<tag><AM lemma="všedeterminující" src="orig">AAFS7----1A----</AM>
-<AM lemma="všedeterminující_^(*4t)" src="auto">AGFS1-----A----</AM>
-<AM lemma="všedeterminující_^(*4t)" src="auto">AGIS1-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGFP1-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGFP4-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGFP5-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGFS1-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGFS2-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGFS3-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGFS4-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGFS5-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGFS6-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto" recommended="1">AGFS7-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGIP1-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGIP4-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGIP5-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGIS1-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGIS4-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGIS5-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGMP1-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGMP4-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGMP5-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGMS1-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGMS5-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGNP1-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGNP4-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGNP5-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGNS1-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGNS4-----A----</AM>
-<AM lemma="všedeterminující_^(*5ovat)" src="auto">AGNS5-----A----</AM>
+<tag><AM lemma="všedeterminující" src="orig" selected="1">AAFS7----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-117-p7s2w13">
@@ -9485,12 +9393,7 @@
 <LM>w#w-ln94201-117-p10s1w13</LM>
 </w.rf>
 <form>shelleyovští</form>
-<tag><AM lemma="shelleyovský" src="orig">AAMP1----1A----</AM>
-<AM lemma="shelleyovský" src="auto" recommended="1">AAMP1----1A----</AM>
-<AM lemma="shelleyovštět_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="shelleyovšť" src="auto">NNFS7-----A----</AM>
-<AM lemma="shelleyovšť" src="auto">NNFP2-----A----</AM>
-<AM lemma="shelleyovští" src="auto">AAIS4----1A----</AM>
+<tag><AM lemma="shelleyovský" src="orig" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-117-p10s1w14">
@@ -11566,16 +11469,7 @@
 <LM>w#w-ln94201-117-p13s1w15</LM>
 </w.rf>
 <form>Thanathea</form>
-<tag><AM lemma="Thanathea" src="orig">NNFS1-----A----</AM>
-<AM lemma="Thanathea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Thanathea_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Thanathea_;S_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Thanathea_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Thanathea" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Thanathe_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Thanathea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Thanathea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="thanathea" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Thanathea" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-117-p13s1w16">

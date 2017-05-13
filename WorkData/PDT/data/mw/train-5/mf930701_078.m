@@ -284,15 +284,7 @@
 <LM>w#w-mf930701-078-p2s2w5</LM>
 </w.rf>
 <form>tomásky</form>
-<tag><AM lemma="tomáska" src="orig">NNFP4-----A----</AM>
-<AM lemma="tomásky_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="tomáska" src="auto">NNFS2-----A----</AM>
-<AM lemma="tomáska" src="auto">NNFP1-----A----</AM>
-<AM lemma="tomáska" src="auto" recommended="1">NNFP4-----A----</AM>
-<AM lemma="tomásek" src="auto">NNIP1-----A----</AM>
-<AM lemma="tomásk" src="auto">NNIP1-----A----</AM>
-<AM lemma="tomásky_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tomáska_;S" src="auto">NNMS2-----A----</AM>
+<tag><AM lemma="tomáska" src="orig" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-078-p2s2w6">
@@ -1820,15 +1812,7 @@
 <LM>w#w-mf930701-078-p2s10w10</LM>
 </w.rf>
 <form>Haribo</form>
-<tag><AM lemma="Haribo_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Haribo_;Y" src="auto">NNNS1-----A----</AM>
-<AM lemma="Haribo_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Haribo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Haribo_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Haribo" src="auto">J^-------------</AM>
-<AM lemma="Haribo_;Y" src="auto">NNMSX-----A----</AM>
-<AM lemma="Haribo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="haribo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Haribo_;K" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-078-p2s10w11">
@@ -1846,16 +1830,7 @@
 <LM>w#w-mf930701-078-p2s10w12</LM>
 </w.rf>
 <form>Efruti</form>
-<tag><AM lemma="Efruti_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Efruť" src="auto">NNFS2-----A---1</AM>
-<AM lemma="Efruť" src="auto">NNFS6-----A----</AM>
-<AM lemma="Efrut" src="auto">NNMP1-----A----</AM>
-<AM lemma="Efrout_:W" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Efruť" src="auto">NNFS3-----A----</AM>
-<AM lemma="Efrout" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Efrut_:W" src="auto">Vf--------A---2</AM>
-<AM lemma="Efrut_,t" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="efruti" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Efruti_;K" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-078-p2s10w13">
@@ -1873,16 +1848,7 @@
 <LM>w#w-mf930701-078-p2s10w14</LM>
 </w.rf>
 <form>Mederer</form>
-<tag><AM lemma="Mederer_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mederer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mederer_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mederer" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mederer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mederer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mederer_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mederer" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mederra" src="auto">NNFP2-----A----</AM>
-<AM lemma="mederer" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Mederer_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-078-p2s10w15">

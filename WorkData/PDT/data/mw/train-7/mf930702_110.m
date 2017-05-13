@@ -846,18 +846,7 @@
 <LM>w#w-mf930702-110-p2s4w26</LM>
 </w.rf>
 <form>FUNCINPEC</form>
-<tag><AM lemma="FUNCINPEC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FUNCINPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FUNCINPEC_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Funcinpec" src="auto">NNMS1-----A----</AM>
-<AM lemma="Funcinpec" src="auto">NNIS1-----A----</AM>
-<AM lemma="Funcinpec_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Funcinpec" src="auto">NNIS4-----A----</AM>
-<AM lemma="Funcinpec" src="auto">NNFS4-----A----</AM>
-<AM lemma="Funcinpec_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Funcinpec_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Funcinpec_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="funcinpec" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="FUNCINPEC_:B_;K" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-110-p2s4w27">
@@ -893,9 +882,7 @@
 <LM>w#w-mf930702-110-p2s4w30</LM>
 </w.rf>
 <form>Ranariddh</form>
-<tag><AM lemma="Ranariddh_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ranariddh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="ranariddh" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ranariddh_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-110-p2s4w31">
@@ -915,18 +902,7 @@
 <LM>w#w-mf930702-110-p2s5w1</LM>
 </w.rf>
 <form>FUNCINPEC</form>
-<tag><AM lemma="FUNCINPEC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FUNCINPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FUNCINPEC_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Funcinpec" src="auto">NNMS1-----A----</AM>
-<AM lemma="Funcinpec" src="auto">NNIS1-----A----</AM>
-<AM lemma="Funcinpec_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Funcinpec" src="auto">NNIS4-----A----</AM>
-<AM lemma="Funcinpec" src="auto">NNFS4-----A----</AM>
-<AM lemma="Funcinpec_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Funcinpec_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Funcinpec_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="funcinpec" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="FUNCINPEC_:B_;K" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-110-p2s5w2">

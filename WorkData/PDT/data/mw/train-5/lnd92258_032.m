@@ -634,15 +634,7 @@
 <LM>w#w-lnd92258-032-p3s1w16</LM>
 </w.rf>
 <form>Alistru</form>
-<tag><AM lemma="Alistro_;G" src="orig">NNNS6-----A----</AM>
-<AM lemma="Alistr" src="auto">NNIS2-----A----</AM>
-<AM lemma="Alistr" src="auto">NNIS6-----A----</AM>
-<AM lemma="Alistra" src="auto">NNFS4-----A----</AM>
-<AM lemma="Alistr" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Alistrum" src="auto">NNNS6-----A----</AM>
-<AM lemma="Alistro" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="Alistrum" src="auto">NNNS3-----A----</AM>
-<AM lemma="alistru" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Alistro_;G" src="orig" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-032-p3s1w17">
@@ -1496,16 +1488,7 @@
 <LM>w#w-lnd92258-032-p6s1w24</LM>
 </w.rf>
 <form>Merec</form>
-<tag><AM lemma="Merec_;K_^(strana)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Merec" src="auto">NNIS1-----A----</AM>
-<AM lemma="Merec_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Merec" src="auto">NNIS4-----A----</AM>
-<AM lemma="Merec_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Merec_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Merec_;K_^(strana)" src="auto">NNXXX-----A----</AM>
-<AM lemma="Merec_;K_^(strana)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Merec_;K_^(strana)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="merec" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Merec_;K_^(strana)" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-032-p6s1w25">
@@ -1550,23 +1533,7 @@
 <LM>w#w-lnd92258-032-p6s1w29</LM>
 </w.rf>
 <form>Šas</form>
-<tag><AM lemma="Šas_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Šas_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Šas_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Šas" src="auto">NNIS1-----A----</AM>
-<AM lemma="Šas" src="auto">NNIS4-----A----</AM>
-<AM lemma="Šas_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Šas_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Šas" src="auto">Db-------------</AM>
-<AM lemma="Šas" src="auto">NNMS1-----A----</AM>
-<AM lemma="šas_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="šas" src="auto">NNIS1-----A----</AM>
-<AM lemma="šas" src="auto">NNIS4-----A----</AM>
-<AM lemma="šas_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="šas_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="šas" src="auto">Db-------------</AM>
-<AM lemma="šas" src="auto">NNMS1-----A----</AM>
-<AM lemma="šas_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Šas_:B_;K" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-032-p6s1w30">
@@ -2230,14 +2197,7 @@
 <LM>w#w-lnd92258-032-p8s2w20</LM>
 </w.rf>
 <form>Akbaršem</form>
-<tag><AM lemma="Akbaršo_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Akbarš_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Akbarš_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Akbarš" src="auto">NNIS7-----A----</AM>
-<AM lemma="Akbarš" src="auto">NNMS7-----A----</AM>
-<AM lemma="Akbaršechen" src="auto">PLZS6----------</AM>
-<AM lemma="Akbaršechen" src="auto">PLXP3----------</AM>
-<AM lemma="akbaršem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Akbaršo_;Y" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-032-p8s2w21">

@@ -758,15 +758,7 @@
 <LM>w#w-mf930701-123-p2s5w1</LM>
 </w.rf>
 <form>Žilovec</form>
-<tag><AM lemma="Žilovec_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Žilovec" src="auto">NNMS1-----A----</AM>
-<AM lemma="Žilovec_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Žilovec" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Žilovec_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Žilovec" src="auto">NNIS4-----A----</AM>
-<AM lemma="Žilovec_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Žilovec_;L" src="auto">NNIS1-----A----</AM>
-<AM lemma="žilovec" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Žilovec_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-123-p2s5w2">

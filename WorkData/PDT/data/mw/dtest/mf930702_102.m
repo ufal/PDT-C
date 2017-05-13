@@ -527,15 +527,7 @@
 <LM>w#w-mf930702-102-p2s5w10</LM>
 </w.rf>
 <form>kancelária</form>
-<tag><AM lemma="kancelária_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="kancelárium" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="kancelárium" src="auto">NNNP4-----A----</AM>
-<AM lemma="kancelária_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="kancelárium" src="auto">NNNP1-----A----</AM>
-<AM lemma="kancelária_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="kancelário_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="kancelárie_;G" src="auto">NNFS1-----A---1</AM>
-<AM lemma="Austria_;K_,t_^(fotbalový_klub_kancelária_Wien)" src="auto">NNFS1-----A----</AM>
+<tag><AM lemma="kancelária_;K_,t" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-102-p2s5w11">
@@ -553,20 +545,7 @@
 <LM>w#w-mf930702-102-p2s5w12</LM>
 </w.rf>
 <form>SCK</form>
-<tag><AM lemma="SCK_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SCK_:B_;K_^(Energetické_centrum_v_Kladně)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="SCK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SCK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SCK_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SCK_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Sck_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sck_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sck_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sck" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sck_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sck" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sck" src="auto">NNIS1-----A----</AM>
-<AM lemma="sck" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="SCK_:B_;K" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-102-p2s5w13">

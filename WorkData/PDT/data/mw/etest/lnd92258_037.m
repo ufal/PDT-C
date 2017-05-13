@@ -383,18 +383,7 @@
 <LM>w#w-lnd92258-037-p2s2w35</LM>
 </w.rf>
 <form>PHGN</form>
-<tag><AM lemma="PHGN_:B_;K_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="orig">NNIP2-----A---8</AM>
-<AM lemma="PHGN_:B_;K_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="auto" recommended="1">NNIP2-----A---8</AM>
-<AM lemma="PHGN_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PHGN_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Phgn_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Phgn_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Phgn" src="auto">NNIS4-----A----</AM>
-<AM lemma="Phgn" src="auto">NNIS1-----A----</AM>
-<AM lemma="Phgn_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Phgna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Phgn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="phgn" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="PHGN_:B_;K_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="orig" selected="1">NNIP2-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-037-p2s2w36">

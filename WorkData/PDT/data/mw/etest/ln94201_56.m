@@ -55,16 +55,7 @@
 <LM>w#w-ln94201-56-p1s1w5</LM>
 </w.rf>
 <form>Weitra</form>
-<tag><AM lemma="Weitra_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Weitr" src="auto">NNMS2-----A----</AM>
-<AM lemma="Weitr" src="auto">NNMS4-----A----</AM>
-<AM lemma="Weitra" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Weitra_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Weitro" src="auto">NNNS2-----A----</AM>
-<AM lemma="Weitrum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Weitrum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Weitro_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="weitra" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Weitra_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p1s1w6">
@@ -409,16 +400,7 @@
 <LM>w#w-ln94201-56-p2s1w31</LM>
 </w.rf>
 <form>Weitra</form>
-<tag><AM lemma="Weitra_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Weitr" src="auto">NNMS2-----A----</AM>
-<AM lemma="Weitr" src="auto">NNMS4-----A----</AM>
-<AM lemma="Weitra" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Weitra_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Weitro" src="auto">NNNS2-----A----</AM>
-<AM lemma="Weitrum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Weitrum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Weitro_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="weitra" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Weitra_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p2s1w32">
@@ -942,16 +924,7 @@
 <LM>w#w-ln94201-56-p3s1w1</LM>
 </w.rf>
 <form>Weitra</form>
-<tag><AM lemma="Weitra_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Weitr" src="auto">NNMS2-----A----</AM>
-<AM lemma="Weitr" src="auto">NNMS4-----A----</AM>
-<AM lemma="Weitra" src="auto">NNFS1-----A----</AM>
-<AM lemma="Weitra_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Weitro" src="auto">NNNS2-----A----</AM>
-<AM lemma="Weitrum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Weitrum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Weitro_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="weitra" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Weitra_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p3s1w2">
@@ -2217,15 +2190,7 @@
 <LM>w#w-ln94201-56-p5s2w10</LM>
 </w.rf>
 <form>Wittelsbacherů</form>
-<tag><AM lemma="Wittelsbacher_;S" src="orig">NNMP2-----A----</AM>
-<AM lemma="Wittelsbacher" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="Wittelsbacher" src="auto">NNIP2-----A----</AM>
-<AM lemma="Wittelsbacher_;S" src="auto">NNMP2-----A----</AM>
-<AM lemma="Wittelsbacher_,t" src="auto">NNMP2-----A----</AM>
-<AM lemma="Wittelsbacher_,h" src="auto">NNMP2-----A----</AM>
-<AM lemma="Wittelsbacher-1" src="auto">NNIP2-----A----</AM>
-<AM lemma="Wittelsbacher_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="wittelsbacherů" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Wittelsbacher_;S" src="orig" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p5s2w11">
@@ -2243,15 +2208,7 @@
 <LM>w#w-ln94201-56-p5s2w12</LM>
 </w.rf>
 <form>Wettinerů</form>
-<tag><AM lemma="Wettiner_;S" src="orig">NNMP2-----A----</AM>
-<AM lemma="Wettiner" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="Wettiner" src="auto">NNIP2-----A----</AM>
-<AM lemma="Wettiner_;S" src="auto">NNMP2-----A----</AM>
-<AM lemma="Wettiner_,t" src="auto">NNMP2-----A----</AM>
-<AM lemma="Wettiner_,h" src="auto">NNMP2-----A----</AM>
-<AM lemma="Wettiner-1" src="auto">NNIP2-----A----</AM>
-<AM lemma="Wettiner_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="wettinerů" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Wettiner_;S" src="orig" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p5s2w13">
@@ -4686,16 +4643,7 @@
 <LM>w#w-ln94201-56-p6s2w3</LM>
 </w.rf>
 <form>Weitra</form>
-<tag><AM lemma="Weitra_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Weitr" src="auto">NNMS2-----A----</AM>
-<AM lemma="Weitr" src="auto">NNMS4-----A----</AM>
-<AM lemma="Weitra" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Weitra_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Weitro" src="auto">NNNS2-----A----</AM>
-<AM lemma="Weitrum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Weitrum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Weitro_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="weitra" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Weitra_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p6s2w4">
@@ -4841,16 +4789,7 @@
 <LM>w#w-ln94201-56-p6s3w10</LM>
 </w.rf>
 <form>Weitry</form>
-<tag><AM lemma="Weitra_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Weitr" src="auto">NNIP4-----A----</AM>
-<AM lemma="Weitr" src="auto">NNIP1-----A----</AM>
-<AM lemma="Weitr" src="auto">NNMP7-----A----</AM>
-<AM lemma="Weitr" src="auto">NNMP4-----A----</AM>
-<AM lemma="Weitrum" src="auto">NNNP7-----A----</AM>
-<AM lemma="Weitra" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Weitra" src="auto">NNFP1-----A----</AM>
-<AM lemma="Weitr" src="auto">NNIP7-----A----</AM>
-<AM lemma="weitry" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Weitra_;G" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p6s3w11">
@@ -5234,16 +5173,7 @@
 <LM>w#w-ln94201-56-p6s6w4</LM>
 </w.rf>
 <form>Weitra</form>
-<tag><AM lemma="Weitra_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Weitr" src="auto">NNMS2-----A----</AM>
-<AM lemma="Weitr" src="auto">NNMS4-----A----</AM>
-<AM lemma="Weitra" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Weitra_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Weitro" src="auto">NNNS2-----A----</AM>
-<AM lemma="Weitrum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Weitrum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Weitro_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="weitra" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Weitra_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p6s6w5">
@@ -6648,16 +6578,7 @@
 <LM>w#w-ln94201-56-p7s1w7</LM>
 </w.rf>
 <form>Weitra</form>
-<tag><AM lemma="Weitra_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Weitr" src="auto">NNMS2-----A----</AM>
-<AM lemma="Weitr" src="auto">NNMS4-----A----</AM>
-<AM lemma="Weitra" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Weitra_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Weitro" src="auto">NNNS2-----A----</AM>
-<AM lemma="Weitrum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Weitrum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Weitro_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="weitra" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Weitra_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p7s1w8">

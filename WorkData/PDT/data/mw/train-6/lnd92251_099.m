@@ -1039,31 +1039,7 @@
 <LM>w#w-lnd92251-099-p4s4w12</LM>
 </w.rf>
 <form>předprvosvětovoválečný</form>
-<tag><AM lemma="předprvosvětovoválečný" src="orig">AAIS1----1A----</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AAFP1----1A---6</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AAFP4----1A---6</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AAFP5----1A---6</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AAFS2----1A---6</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AAFS3----1A---6</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AAFS6----1A---6</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AAIP1----1A---6</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AAIP4----1A---6</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AAIP5----1A---6</AM>
-<AM lemma="předprvosvětovoválečný" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AAIS4----1A----</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AAIS5----1A----</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AAMP1----1A---6</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AAMP4----1A---6</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AAMP5----1A---6</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AAMS1----1A----</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AAMS5----1A----</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AANP1----1A---6</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AANP4----1A---6</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AANP5----1A---6</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AANS1----1A---6</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AANS4----1A---6</AM>
-<AM lemma="předprvosvětovoválečný" src="auto">AANS5----1A---6</AM>
-<AM lemma="předprvosvětovoválečný_;S" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="předprvosvětovoválečný" src="orig" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-099-p4s4w13">
@@ -2343,15 +2319,7 @@
 <LM>w#w-lnd92251-099-p5s3w7</LM>
 </w.rf>
 <form>óef</form>
-<tag><AM lemma="óef_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="óef_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="óef_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="óef_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="óef_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="óef" src="auto">NNIS4-----A----</AM>
-<AM lemma="óef" src="auto">NNIS1-----A----</AM>
-<AM lemma="óef_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="óef" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="óef_;K" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92251-099-p5s3w8">
@@ -4261,14 +4229,7 @@
 <LM>w#w-lnd92251-099-p7s1w15</LM>
 </w.rf>
 <form>oddebolševizováno</form>
-<tag><AM lemma="oddebolševizovat" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="oddebolševizovat" src="auto" recommended="1">VsNS---XX-AP---</AM>
-<AM lemma="oddebolševizovat_:T" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="oddebolševizovat_:T_:W" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="oddebolševizovat_:T_^(*3t)" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="oddebolševizovat_:T_^(*4at)" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="oddebolševizovat_:W" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="oddebolševizovát" src="auto">VsNS---XX-AP---</AM>
+<tag><AM lemma="oddebolševizovat" src="orig" selected="1">VsNS---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-lnd92251-099-p7s1w16">

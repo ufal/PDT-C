@@ -597,11 +597,7 @@
 <LM>w#w-lnd92255-111-p10s1w6</LM>
 </w.rf>
 <form>Odilo</form>
-<tag><AM lemma="Odilo_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Odit_:W" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="Odit_:T" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="Odít" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="odilo" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Odilo_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-111-p10s1w7">

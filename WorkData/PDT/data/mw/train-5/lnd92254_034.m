@@ -28,23 +28,7 @@
 <LM>w#w-lnd92254-034-p1s1w2</LM>
 </w.rf>
 <form>ÚZSI</form>
-<tag><AM lemma="ÚZSI_:B_;K_^(Úřad_FMV_pro_zahraniční_styky_a_informace)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SI-1_:B_^(mez._soustava_jednotek_ÚZSI)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÚZSI-2_:B_,t_^(čistota_diamantu)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="ÚZSI_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ÚZSI_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÚZSI_:B_;K_^(Úřad_FMV_pro_zahraniční_styky_a_informace)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ÚZSI_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Úzs" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Úzs_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="Úzse" src="auto">NNFS3-----A----</AM>
-<AM lemma="Úzse" src="auto">NNFS4-----A----</AM>
-<AM lemma="Úzse" src="auto">NNFS6-----A----</AM>
-<AM lemma="Úzsi" src="auto">Db-------------</AM>
-<AM lemma="Úzsi_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Úzsi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="úzsi" src="auto">NNMS1-----A----</AM>
-<AM lemma="úzsi-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="ÚZSI_:B_;K_^(Úřad_FMV_pro_zahraniční_styky_a_informace)" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 </s>
@@ -156,23 +140,7 @@
 <LM>w#w-lnd92254-034-p3s1w10</LM>
 </w.rf>
 <form>ÚZSI</form>
-<tag><AM lemma="ÚZSI_:B_;K_^(Úřad_FMV_pro_zahraniční_styky_a_informace)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SI-1_:B_^(mez._soustava_jednotek_ÚZSI)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÚZSI-2_:B_,t_^(čistota_diamantu)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="ÚZSI_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ÚZSI_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÚZSI_:B_;K_^(Úřad_FMV_pro_zahraniční_styky_a_informace)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ÚZSI_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Úzs" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Úzs_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="Úzse" src="auto">NNFS3-----A----</AM>
-<AM lemma="Úzse" src="auto">NNFS4-----A----</AM>
-<AM lemma="Úzse" src="auto">NNFS6-----A----</AM>
-<AM lemma="Úzsi" src="auto">Db-------------</AM>
-<AM lemma="Úzsi_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Úzsi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="úzsi" src="auto">NNMS1-----A----</AM>
-<AM lemma="úzsi-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="ÚZSI_:B_;K_^(Úřad_FMV_pro_zahraniční_styky_a_informace)" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-034-p3s1w11">
@@ -752,23 +720,7 @@
 <LM>w#w-lnd92254-034-p3s3w43</LM>
 </w.rf>
 <form>ÚZSI</form>
-<tag><AM lemma="ÚZSI_:B_;K_^(Úřad_FMV_pro_zahraniční_styky_a_informace)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SI-1_:B_^(mez._soustava_jednotek_ÚZSI)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÚZSI-2_:B_,t_^(čistota_diamantu)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="ÚZSI_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ÚZSI_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÚZSI_:B_;K_^(Úřad_FMV_pro_zahraniční_styky_a_informace)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ÚZSI_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Úzs" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Úzs_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="Úzse" src="auto">NNFS3-----A----</AM>
-<AM lemma="Úzse" src="auto">NNFS4-----A----</AM>
-<AM lemma="Úzse" src="auto">NNFS6-----A----</AM>
-<AM lemma="Úzsi" src="auto">Db-------------</AM>
-<AM lemma="Úzsi_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Úzsi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="úzsi" src="auto">NNMS1-----A----</AM>
-<AM lemma="úzsi-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="ÚZSI_:B_;K_^(Úřad_FMV_pro_zahraniční_styky_a_informace)" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-034-p3s3w44">

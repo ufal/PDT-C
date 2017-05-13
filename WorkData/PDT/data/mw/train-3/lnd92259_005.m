@@ -385,16 +385,7 @@
 <LM>w#w-lnd92259-005-p3s2w31</LM>
 </w.rf>
 <form>Mediterranean</form>
-<tag><AM lemma="Mediterranean_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Mediterranean_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Mediterranean_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mediterranean_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mediterranean_;R_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mediterranean_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mediterranean_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Mediterranean_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mediterranean_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="mediterranean" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mediterranean_;m_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-005-p3s2w32">
@@ -403,26 +394,7 @@
 <LM>w#w-lnd92259-005-p3s2w32</LM>
 </w.rf>
 <form>Sea</form>
-<tag><AM lemma="Sea_;m_,t" src="orig">NNFSX-----A----</AM>
-<AM lemma="Se-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Se_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Se_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sea_;m_,t" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="se_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="se_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="sea" src="auto">NNFS1-----A----</AM>
-<AM lemma="sea-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="sea-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="sea_;G_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="sea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="seakciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="seus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ssea" src="auto">NNFS1-----A----</AM>
-<AM lemma="zeum" src="auto">NNNS2-----A----</AM>
+<tag><AM lemma="Sea_;m_,t" src="orig" selected="1">NNFSX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-005-p3s2w33">

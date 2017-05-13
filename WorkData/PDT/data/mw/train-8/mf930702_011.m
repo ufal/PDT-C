@@ -758,16 +758,7 @@
 <LM>w#w-mf930702-011-p3s3w9</LM>
 </w.rf>
 <form>Surgy</form>
-<tag><AM lemma="Surga_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Surgy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Surga_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Surgy_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Surgy_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Surg" src="auto">NNMP7-----A----</AM>
-<AM lemma="Surg" src="auto">NNMP4-----A----</AM>
-<AM lemma="Surga" src="auto">NNFS2-----A----</AM>
-<AM lemma="Surg" src="auto">NNIP1-----A----</AM>
-<AM lemma="surgy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Surga_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-011-p3s3w10">
@@ -2727,17 +2718,7 @@
 <LM>w#w-mf930702-011-p6s5w3</LM>
 </w.rf>
 <form>vícekorunových</form>
-<tag><AM lemma="vícekorunový" src="orig">AAFP2----1A----</AM>
-<AM lemma="vícekorunový" src="auto" recommended="1">AAFP2----1A----</AM>
-<AM lemma="vícekorunový" src="auto">AAFP6----1A----</AM>
-<AM lemma="vícekorunový" src="auto">AAIP2----1A----</AM>
-<AM lemma="vícekorunový" src="auto">AAIP6----1A----</AM>
-<AM lemma="vícekorunový" src="auto">AAMP2----1A----</AM>
-<AM lemma="vícekorunový" src="auto">AAMP6----1A----</AM>
-<AM lemma="vícekorunový" src="auto">AANP2----1A----</AM>
-<AM lemma="vícekorunový" src="auto">AANP6----1A----</AM>
-<AM lemma="vícekorunový_^(*2t)" src="auto">AAFP2----1A----</AM>
-<AM lemma="vícekorunový_^(*2t)" src="auto">AAIP2----1A----</AM>
+<tag><AM lemma="vícekorunový" src="orig" selected="1">AAFP2----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-011-p6s5w4">

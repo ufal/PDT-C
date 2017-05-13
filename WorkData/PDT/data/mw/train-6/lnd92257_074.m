@@ -176,16 +176,7 @@
 <LM>w#w-lnd92257-074-p3s1w6</LM>
 </w.rf>
 <form>Fenwicka</form>
-<tag><AM lemma="Fenwick_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Fenwicko_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Fenwick_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Fenwicek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Fenwick_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Fenwick_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Fenwick_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Fenwicka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fenwicek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="fenwicka" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Fenwick_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-074-p3s1w7">
@@ -729,16 +720,7 @@
 <LM>w#w-lnd92257-074-p3s3w7</LM>
 </w.rf>
 <form>Fenwickovy</form>
-<tag><AM lemma="Fenwickův_;S_^(*2)" src="orig">AUFS2M---------</AM>
-<AM lemma="Fenwickův_;S_^(*2)" src="auto" recommended="1">AUFS2M---------</AM>
-<AM lemma="Fenwickův_;S_^(*2)" src="auto">AUFP1M---------</AM>
-<AM lemma="Fenwickův_^(*2)" src="auto">AUFS2M---------</AM>
-<AM lemma="Fenwickův_;S_^(*2)" src="auto">AUIP1M---------</AM>
-<AM lemma="Fenwickův_;S_^(*2a)" src="auto">AUFS2M---------</AM>
-<AM lemma="Fenwickova" src="auto">NNFS2-----A----</AM>
-<AM lemma="Fenwickův_;S_^(*2)" src="auto">AUIP4M---------</AM>
-<AM lemma="Fenwickův_;S_^(*2)" src="auto">AUFP4M---------</AM>
-<AM lemma="fenwickovy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Fenwickův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-074-p3s3w8">
@@ -2459,16 +2441,7 @@
 <LM>w#w-lnd92257-074-p5s2w10</LM>
 </w.rf>
 <form>Giorgette</form>
-<tag><AM lemma="Giorgette_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Giorgette_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Giorgette_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Giorgette_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tutte_,t_^(jen_Cosi_fan_Giorgette,_it.)" src="auto">PLFP1----------</AM>
-<AM lemma="Giorgette_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Giorgette_;m" src="auto">NNXXX-----A----</AM>
-<AM lemma="Giorgette_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Giorgette_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="giorgette" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Giorgette_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-074-p5s2w11">
@@ -2695,16 +2668,7 @@
 <LM>w#w-lnd92257-074-p5s3w9</LM>
 </w.rf>
 <form>Bémont</form>
-<tag><AM lemma="Bémont_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bémont_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bémonto" src="auto">NNNP2-----A----</AM>
-<AM lemma="Bémont_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bémont" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bémont" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bémonta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bémont_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Bémont_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="bémont" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bémont_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-074-p5s3w10">
@@ -2821,15 +2785,7 @@
 <LM>w#w-lnd92257-074-p5s3w22</LM>
 </w.rf>
 <form>Clausat</form>
-<tag><AM lemma="Clausat_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Clausat" src="auto">Vf--------A----</AM>
-<AM lemma="Clausat_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Clausat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Clausat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Clause" src="auto">NNNP2-----A----</AM>
-<AM lemma="Clausat_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Clausat_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="clausat" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Clausat_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-074-p5s3w23">

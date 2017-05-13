@@ -37,20 +37,7 @@
 <LM>w#w-lnd92252-048-p1s1w3</LM>
 </w.rf>
 <form>NICKLISH</form>
-<tag><AM lemma="Nicklish_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nicklish_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="NICKLISH_:B_;K_^(Křesťanskosociální_hnutí)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NICKLISH-1_:B_;K_^(Český_svaz_házené)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="NICKLISH_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Nicklish_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Nicklish_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Nicklish_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Nicklish_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Nicklish_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Nicklish_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Nicklish_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nicklish_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="nicklish" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nicklish_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-048-p1s1w4">
@@ -281,17 +268,7 @@
 <LM>w#w-lnd92252-048-p3s2w3</LM>
 </w.rf>
 <form>NICKLISCH</form>
-<tag><AM lemma="Nicklish_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nicklish_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nicklisch_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nicklisch-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Nicklisch_;m_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Nicklisch_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nicklisch_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Nicklisch_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nicklisch_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Nicklisch-2_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="nicklisch" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nicklish_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-048-p3s2w4">
@@ -455,16 +432,7 @@
 <LM>w#w-lnd92252-048-p4s1w3</LM>
 </w.rf>
 <form>Nicklischi</form>
-<tag><AM lemma="Nicklish_;S" src="orig">NNMS5-----A----</AM>
-<AM lemma="Nicklischi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nicklischi_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Nicklisch_;R_,t" src="auto">NNIP1-----A----</AM>
-<AM lemma="Nicklish_;S" src="auto" recommended="1">NNMS5-----A----</AM>
-<AM lemma="Nicklischi_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nicklischi_;K_,t" src="auto">AAMP1----1A----</AM>
-<AM lemma="Nicklischi_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Nicklischi" src="auto">AAXXX----1A----</AM>
-<AM lemma="nicklischi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nicklish_;S" src="orig" selected="1">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-048-p4s1w4">
@@ -8596,17 +8564,7 @@
 <LM>w#w-lnd92252-048-p18s3w6</LM>
 </w.rf>
 <form>znovupřijímání</form>
-<tag><AM lemma="znovupřijímání" src="orig">NNNS2-----A----</AM>
-<AM lemma="znovupřijímání_^(*3at)" src="auto">NNNP1-----A----</AM>
-<AM lemma="znovupřijímání_^(*3at)" src="auto">NNNP2-----A----</AM>
-<AM lemma="znovupřijímání_^(*3at)" src="auto">NNNP4-----A----</AM>
-<AM lemma="znovupřijímání_^(*3at)" src="auto">NNNP5-----A----</AM>
-<AM lemma="znovupřijímání_^(*3at)" src="auto">NNNS1-----A----</AM>
-<AM lemma="znovupřijímání_^(*3at)" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="znovupřijímání_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="znovupřijímání_^(*3at)" src="auto">NNNS4-----A----</AM>
-<AM lemma="znovupřijímání_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="znovupřijímání_^(*3at)" src="auto">NNNS6-----A----</AM>
+<tag><AM lemma="znovupřijímání" src="orig" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-048-p18s3w7">

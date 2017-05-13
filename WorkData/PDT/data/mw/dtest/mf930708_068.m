@@ -1343,15 +1343,7 @@
 <LM>w#w-mf930708-068-p4s1w9</LM>
 </w.rf>
 <form>Sportfestspiele</form>
-<tag><AM lemma="Sportfestspiele_;m_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Sportfestspiel" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sportfestspiel" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Sportfestspiel" src="auto">NNMP4-----A----</AM>
-<AM lemma="Sportfestspiel" src="auto">NNIS2-----A----</AM>
-<AM lemma="Sportfestspiele_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Sportfestspiela" src="auto">NNFS6-----A----</AM>
-<AM lemma="Sportfestspiele_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="sportfestspiele" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sportfestspiele_;m_,t" src="orig" selected="1">NNFPX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-068-p4s1w10">
@@ -1378,16 +1370,7 @@
 <LM>w#w-mf930708-068-p4s1w12</LM>
 </w.rf>
 <form>Krautheimu</form>
-<tag><AM lemma="Krautheim_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Krauthei_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Krautheim_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Krautheim" src="auto">NNIS6-----A----</AM>
-<AM lemma="Krautheim" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Krautheimum" src="auto">NNNS3-----A----</AM>
-<AM lemma="Krautheima_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Krautheima-1" src="auto">NNFS4-----A----</AM>
-<AM lemma="Krautheim_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="krautheimu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Krautheim_;G" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-068-p4s1w13">
@@ -1418,14 +1401,7 @@
 <LM>w#w-mf930708-068-p4s1w15</LM>
 </w.rf>
 <form>Jagst</form>
-<tag><AM lemma="Jagst_;G" src="orig">NNFXX-----A----</AM>
-<AM lemma="Jagst_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Jagst_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Jagst" src="auto">NNFS4-----A----</AM>
-<AM lemma="Jagst" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jagst" src="auto">Vf--------A----</AM>
-<AM lemma="Jagst_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jagst" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Jagst_;G" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-068-p4s1w16">

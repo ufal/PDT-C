@@ -238,14 +238,7 @@
 <LM>w#w-lnd92252-072-p1s2w16</LM>
 </w.rf>
 <form>Künnla</form>
-<tag><AM lemma="Kühnl_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Kühnl_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Künnt_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Künnt_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Künnl_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Künnt" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Künnnout_:W" src="auto">VpQW---XR-AA--1</AM>
-<AM lemma="künnla" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kühnl_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-072-p1s2w17">

@@ -75,8 +75,7 @@
 <LM>w#w-mf930703-029-p2s1w3</LM>
 </w.rf>
 <form>jh</form>
-<tag><AM lemma="jh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jh-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<tag><AM lemma="jh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-029-p2s1w4">
@@ -656,15 +655,7 @@
 <LM>w#w-mf930703-029-p2s3w14</LM>
 </w.rf>
 <form>Aratinga</form>
-<tag><AM lemma="Aratinga" src="orig">NNXXX-----A----</AM>
-<AM lemma="Arating_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Arating_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Arating_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Aratingo_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Aratinga_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Aratingo_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Aratingo" src="auto">NNNS2-----A----</AM>
-<AM lemma="aratinga" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Aratinga" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-029-p2s3w15">

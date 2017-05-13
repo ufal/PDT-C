@@ -4625,7 +4625,6 @@
 <AM lemma="made_,t" src="auto">XX-------------</AM>
 <AM lemma="Mad_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Mad_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="made_,t" src="auto">XX-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-41-p7s4w11">
@@ -4822,7 +4821,6 @@
 <AM lemma="made_,t" src="auto">XX-------------</AM>
 <AM lemma="Mad_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Mad_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="made_,t" src="auto">XX-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-41-p7s5w9">

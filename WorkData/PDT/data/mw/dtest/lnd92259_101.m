@@ -59,16 +59,7 @@
 <LM>w#w-lnd92259-101-p2s2w1</LM>
 </w.rf>
 <form>Abovyan</form>
-<tag><AM lemma="Abovyan_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Abovyan_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Abovyan" src="auto">NNIS4-----A----</AM>
-<AM lemma="Abovyan_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Abovyan" src="auto">NNMS1-----A----</AM>
-<AM lemma="Abovyan_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Abovyany_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Abovyan" src="auto">NNIS1-----A----</AM>
-<AM lemma="Abovyan_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="abovyan" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Abovyan_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-101-p2s2w2">
@@ -721,19 +712,7 @@
 <LM>w#w-lnd92259-101-p5s2w24</LM>
 </w.rf>
 <form>ČNL</form>
-<tag><AM lemma="ČNL_:B_;m_^(Česká_nár._liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNL_:B_;m_^(Česká_nár._liga)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ČNL-2_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČNL_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČNL_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČNL_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Čnt_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Čnt_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Čnl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čnt" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Čnnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="Čnl" src="auto">NNIS1-----A----</AM>
-<AM lemma="čnl" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="ČNL_:B_;m_^(Česká_nár._liga)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-101-p5s2w25">
@@ -955,19 +934,7 @@
 <LM>w#w-lnd92259-101-p6s2w1</LM>
 </w.rf>
 <form>SNL</form>
-<tag><AM lemma="SNL_:B_;m_^(Slovenská_nár._liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNL_:B_;m_^(Česká_nár._liga)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SNL-2_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SNL_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SNL_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SNL_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Snt_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Snt_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Snl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Snt" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Snnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="Snl" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="snl" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="SNL_:B_;m_^(Slovenská_nár._liga)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-101-p6s2w2">
@@ -1533,16 +1500,7 @@
 <LM>w#w-lnd92259-101-p8s2w7</LM>
 </w.rf>
 <form>Clavet</form>
-<tag><AM lemma="Clavet_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Claveta_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="Claveta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Clavet_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Clavet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Clavet-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Clavet_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Clavet" src="auto">Vf--------A----</AM>
-<AM lemma="Clavet" src="auto">NNIS4-----A----</AM>
-<AM lemma="clavet" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Clavet_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-101-p8s2w8">
@@ -1857,16 +1815,7 @@
 <LM>w#w-lnd92259-101-p8s2w42</LM>
 </w.rf>
 <form>Raoux</form>
-<tag><AM lemma="Raoux_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Raoux_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Raoux_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Raoux_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Raoux_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="faux_,h_,t_^(Raoux_pas)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Raoux_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Raoux_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Raoux_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="raoux" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Raoux_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-101-p8s2w43">

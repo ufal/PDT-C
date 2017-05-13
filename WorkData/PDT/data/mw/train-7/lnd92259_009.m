@@ -91,16 +91,7 @@
 <LM>w#w-lnd92259-009-p1s1w9</LM>
 </w.rf>
 <form>Notch</form>
-<tag><AM lemma="Notch_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Notch_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Notch_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Notch_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Notch_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Notch_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Notch_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Notch_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Not" src="auto">AAFP2----1A----</AM>
-<AM lemma="notch" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Notch_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-009-p1s1w10">

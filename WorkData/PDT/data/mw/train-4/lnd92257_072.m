@@ -493,21 +493,7 @@
 <LM>w#w-lnd92257-072-p3s2w14</LM>
 </w.rf>
 <form>FITESu</form>
-<tag><AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="orig">NNIS2-----A----</AM>
-<AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="FITES_:B_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="FITESu_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="FITESu_:B_;R_^(letadlo)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="FITES" src="auto">NNIS2-----A----</AM>
-<AM lemma="FITESa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Fites" src="auto">NNIS2-----A----</AM>
-<AM lemma="Fites" src="auto">NNIS3-----A----</AM>
-<AM lemma="Fites" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Fites" src="auto">NNIS6-----A----</AM>
-<AM lemma="Fitesa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Fiteso" src="auto">NNNS3-----A----</AM>
-<AM lemma="Fites_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="fitesu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-072-p3s2w15">
@@ -691,21 +677,7 @@
 <LM>w#w-lnd92257-072-p4s1w10</LM>
 </w.rf>
 <form>FITESu</form>
-<tag><AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="orig">NNIS2-----A----</AM>
-<AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="FITES_:B_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="FITESu_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="FITESu_:B_;R_^(letadlo)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="FITES" src="auto">NNIS2-----A----</AM>
-<AM lemma="FITESa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Fites" src="auto">NNIS2-----A----</AM>
-<AM lemma="Fites" src="auto">NNIS3-----A----</AM>
-<AM lemma="Fites" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Fites" src="auto">NNIS6-----A----</AM>
-<AM lemma="Fitesa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Fiteso" src="auto">NNNS3-----A----</AM>
-<AM lemma="Fites_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="fitesu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-072-p4s1w11">
@@ -2269,21 +2241,7 @@
 <LM>w#w-lnd92257-072-p7s3w7</LM>
 </w.rf>
 <form>FITESu</form>
-<tag><AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="orig">NNIS2-----A----</AM>
-<AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="FITES_:B_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="FITESu_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="FITESu_:B_;R_^(letadlo)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="FITES" src="auto">NNIS2-----A----</AM>
-<AM lemma="FITESa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Fites" src="auto">NNIS2-----A----</AM>
-<AM lemma="Fites" src="auto">NNIS3-----A----</AM>
-<AM lemma="Fites" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Fites" src="auto">NNIS6-----A----</AM>
-<AM lemma="Fitesa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Fiteso" src="auto">NNNS3-----A----</AM>
-<AM lemma="Fites_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="fitesu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-072-p7s3w8">
@@ -3633,21 +3591,7 @@
 <LM>w#w-lnd92257-072-p9s3w7</LM>
 </w.rf>
 <form>FITESu</form>
-<tag><AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="orig">NNIS2-----A----</AM>
-<AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="FITES_:B_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="FITESu_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="FITESu_:B_;R_^(letadlo)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="FITES" src="auto">NNIS2-----A----</AM>
-<AM lemma="FITESa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Fites" src="auto">NNIS2-----A----</AM>
-<AM lemma="Fites" src="auto">NNIS3-----A----</AM>
-<AM lemma="Fites" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Fites" src="auto">NNIS6-----A----</AM>
-<AM lemma="Fitesa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Fiteso" src="auto">NNNS3-----A----</AM>
-<AM lemma="Fites_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="fitesu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="FITES-1_:B_;K_^(Filmový_a_televizní_svaz)" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-072-p9s3w8">

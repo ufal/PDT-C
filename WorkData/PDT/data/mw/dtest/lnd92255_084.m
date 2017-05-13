@@ -118,15 +118,7 @@
 <LM>w#w-lnd92255-084-p1s1w12</LM>
 </w.rf>
 <form>Nižnie</form>
-<tag><AM lemma="Nižnie_;G" src="orig">AAFP1----1A----</AM>
-<AM lemma="Nižnie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Nižnie" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Nižnie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Nižnie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nižnie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Nižnie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Nižnie_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="nižnie" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nižnie_;G" src="orig" selected="1">AAFP1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-084-p1s1w13">

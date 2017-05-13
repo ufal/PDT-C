@@ -1088,13 +1088,7 @@
 <LM>w#w-mf930702-098-p5s1w13</LM>
 </w.rf>
 <form>rapidmontáž</form>
-<tag><AM lemma="rapidmontáž" src="orig">NNFS1-----A----</AM>
-<AM lemma="rapidmontáž" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="rapidmontáž" src="auto">NNFS4-----A----</AM>
-<AM lemma="rapidmontáž_;U" src="auto">NNFS4-----A----</AM>
-<AM lemma="rapidmontáž_;U" src="auto">NNFS1-----A----</AM>
-<AM lemma="rapidmontaze" src="auto">Dg-------2A----</AM>
-<AM lemma="rapidmontáž_;S" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="rapidmontáž" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-098-p5s1w14">
@@ -2927,11 +2921,7 @@
 <LM>w#w-mf930702-098-p9s1w5</LM>
 </w.rf>
 <form>magnýtkový</form>
-<tag><AM lemma="magnýtkový" src="orig">AAIS4----1A----</AM>
-<AM lemma="magnýtkový" src="auto">AAIS1----1A----</AM>
-<AM lemma="magnýtkový" src="auto" recommended="1">AAIS4----1A----</AM>
-<AM lemma="magnýtkový" src="auto">AAMS1----1A----</AM>
-<AM lemma="magnýtkový_;S" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="magnýtkový" src="orig" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-098-p9s1w6">
@@ -3670,14 +3660,7 @@
 <LM>w#w-mf930702-098-p10s2w4</LM>
 </w.rf>
 <form>rapidmontáží</form>
-<tag><AM lemma="rapidmontáž" src="orig">NNFS7-----A----</AM>
-<AM lemma="rapidmontážet_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="rapidmontáž" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="rapidmontáž" src="auto">NNFP2-----A----</AM>
-<AM lemma="rapidmontázat" src="auto">VB-P---3P-AA--1</AM>
-<AM lemma="rapidmontážet_:T_^(něco_někam_např._autem)" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="rapidmontážit_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="rapidmontážet_:T" src="auto">VB-P---3P-AA--1</AM>
+<tag><AM lemma="rapidmontáž" src="orig" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-098-p10s2w5">
@@ -5500,15 +5483,7 @@
 <LM>w#w-mf930702-098-p14s1w12</LM>
 </w.rf>
 <form>magnýtkovací</form>
-<tag><AM lemma="magnýtkovací" src="orig">AAFS6----1A----</AM>
-<AM lemma="magnýtkovace" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="magnýtkovace" src="auto">NNFP2-----A----</AM>
-<AM lemma="magnýtkovací_^(*2t)" src="auto">AAFS2----1A----</AM>
-<AM lemma="magnýtkovací_^(*2t)" src="auto">AAIS4----1A----</AM>
-<AM lemma="magnýtkovací_^(*2t)" src="auto">AAFS1----1A----</AM>
-<AM lemma="magnýtkovací_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="magnýtkovací_^(*2t)" src="auto">AAIS1----1A----</AM>
-<AM lemma="magnýtkovací_^(*2t)" src="auto">AAFP4----1A----</AM>
+<tag><AM lemma="magnýtkovací" src="orig" selected="1">AAFS6----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-098-p14s1w13">
@@ -5557,7 +5532,6 @@
 <AM lemma="made_,t" src="auto">XX-------------</AM>
 <AM lemma="Mad_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Mad_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="made_,t" src="auto">XX-------------</AM>
 </tag>
 </m>
 </s>

@@ -839,15 +839,7 @@
 <LM>w#w-lnd92258-061-p3s2w4</LM>
 </w.rf>
 <form>Sudetendeutsche</form>
-<tag><AM lemma="Sudetendeutsche_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Sudetendeutsch_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sudetendeutsche_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sudetendeutsche_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sudetendeutsche_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Sudetendeutsch_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Manche_;G_^(La_Sudetendeutsche)" src="auto">NNISX-----A----</AM>
-<AM lemma="Sudetendeutsch_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="sudetendeutsche" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sudetendeutsche_;R_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-061-p3s2w5">
@@ -1901,16 +1893,7 @@
 <LM>w#w-lnd92258-061-p6s2w12</LM>
 </w.rf>
 <form>Sanaího</form>
-<tag><AM lemma="Sanaí_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Sanaí" src="auto">AAIS2----1A----</AM>
-<AM lemma="Sanaí" src="auto">AANS2----1A----</AM>
-<AM lemma="Sanaí" src="auto">AAMS2----1A----</AM>
-<AM lemma="Sanaí" src="auto" recommended="1">AAMS4----1A----</AM>
-<AM lemma="Sanaí_^(*5ovat)" src="auto">AGIS2-----A----</AM>
-<AM lemma="Sanaí_^(*4t)" src="auto">AGIS2-----A----</AM>
-<AM lemma="Sanaí_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="Sanaí_^(*5ovat)" src="auto">AGNS2-----A----</AM>
-<AM lemma="sanaího" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sanaí_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-061-p6s2w13">

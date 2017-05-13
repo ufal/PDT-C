@@ -129,15 +129,7 @@
 <LM>w#w-mf930703-048-p2s1w9</LM>
 </w.rf>
 <form>Banque</form>
-<tag><AM lemma="Banque_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Banque_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Banque_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Banque_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Banque_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Banque_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Banque_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Banque_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="banque" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Banque_;K_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-048-p2s1w10">
@@ -1727,16 +1719,7 @@
 <LM>w#w-mf930703-048-p6s4w1</LM>
 </w.rf>
 <form>Financial</form>
-<tag><AM lemma="Financial_;R_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Financial_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Escorial-1_;G_^(El_Financial,_šp._král._sídlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Financial_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Financial_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Financial_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="financial" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Financial_;R_,t_^(např._F.Times)" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-048-p6s4w2">

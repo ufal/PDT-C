@@ -378,16 +378,7 @@
 <LM>w#w-lnd92259-047-p3s3w10</LM>
 </w.rf>
 <form>Muravjova</form>
-<tag><AM lemma="Muravjov_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Muravjův_;S_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="Muravjův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Muravjov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Muravjov_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Muravjův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Muravjův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Muravjov_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Muravjův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="muravjova" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Muravjov_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-047-p3s3w11">

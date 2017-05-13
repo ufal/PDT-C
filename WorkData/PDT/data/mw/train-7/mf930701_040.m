@@ -1190,16 +1190,7 @@
 <LM>w#w-mf930701-040-p2s9w10</LM>
 </w.rf>
 <form>School</form>
-<tag><AM lemma="School_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="School_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="School_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="School_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="School_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="School-2_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="School" src="auto">NNIS4-----A----</AM>
-<AM lemma="School_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="School" src="auto">NNIS1-----A----</AM>
-<AM lemma="school" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="School_;K_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-040-p2s9w11">
@@ -3176,13 +3167,7 @@
 <LM>w#w-mf930701-040-p2s24w7</LM>
 </w.rf>
 <form>Mostly</form>
-<tag><AM lemma="mostly_,t" src="orig">Db-------------</AM>
-<AM lemma="Mostnout_:W" src="auto">VpTP---XR-AA--1</AM>
-<AM lemma="Můst" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="Mostlo-1" src="auto">NNNP7-----A----</AM>
-<AM lemma="Mostla" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Můst-1" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="mostly" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="mostly_,t" src="orig" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-040-p2s24w8">
@@ -3191,16 +3176,7 @@
 <LM>w#w-mf930701-040-p2s24w8</LM>
 </w.rf>
 <form>Standards</form>
-<tag><AM lemma="standard_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Standard_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Standards_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Standard_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Standard_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Standards_;K_;u_,t_^(rocková_skupina)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Standards_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Standard_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Standards_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="standards" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="standard_,t" src="orig" selected="1">NNIPX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-040-p2s24w9">
@@ -5443,14 +5419,7 @@
 <LM>w#w-mf930701-040-p2s37w12</LM>
 </w.rf>
 <form>Timeless</form>
-<tag><AM lemma="Timeless_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="Timeless_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Timeless_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Timeless_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Timeless_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Timeless_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ness_;G_^(jezero_Loch_Timeless)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="timeless" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Timeless_;K" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-040-p2s37w13">
@@ -5533,16 +5502,7 @@
 <LM>w#w-mf930701-040-p2s37w21</LM>
 </w.rf>
 <form>Goldsteen</form>
-<tag><AM lemma="Goldsteen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Goldsteen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Goldsteen_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Goldsteen_;Y" src="auto">AAXXX----1A----</AM>
-<AM lemma="Goldsteen_;K_,t_^(hudební_skupina)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Goldsteen_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Goldsteen_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Goldsteen_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Goldsteen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="goldsteen" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Goldsteen_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-040-p2s37w22">

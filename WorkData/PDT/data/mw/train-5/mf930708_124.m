@@ -4170,16 +4170,7 @@
 <LM>w#w-mf930708-124-p6s4w17</LM>
 </w.rf>
 <form>McEnroem</form>
-<tag><AM lemma="McEnroe_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="McEnroe_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="McEnroe-1_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="McEnro" src="auto">NNIS7-----A----</AM>
-<AM lemma="McEnro_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="McEnro" src="auto">NNMS7-----A----</AM>
-<AM lemma="McEnroo" src="auto">NNNS7-----A----</AM>
-<AM lemma="McEnro_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="McEnro_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Mcenroem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="McEnroe_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-124-p6s4w18">

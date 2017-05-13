@@ -666,20 +666,7 @@
 <LM>w#w-lnd92251-044-p4s1w11</LM>
 </w.rf>
 <form>Ponavy</form>
-<tag><AM lemma="Ponava_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Ponav" src="auto">NNIP1-----A----</AM>
-<AM lemma="Ponav" src="auto">NNIP4-----A----</AM>
-<AM lemma="Ponava" src="auto">NNFP1-----A----</AM>
-<AM lemma="Ponava" src="auto">NNFP4-----A----</AM>
-<AM lemma="Ponava" src="auto">NNFS2-----A----</AM>
-<AM lemma="Ponava_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Ponava_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ponava_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="ponava" src="auto">NNFP1-----A----</AM>
-<AM lemma="ponava" src="auto">NNFP4-----A----</AM>
-<AM lemma="ponava" src="auto">NNFP5-----A----</AM>
-<AM lemma="ponava" src="auto">NNFS2-----A----</AM>
-<AM lemma="ponavy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ponava_;G" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-044-p4s1w12">
@@ -1849,20 +1836,7 @@
 <LM>w#w-lnd92251-044-p4s5w8</LM>
 </w.rf>
 <form>Ponavy</form>
-<tag><AM lemma="Ponava_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Ponav" src="auto">NNIP1-----A----</AM>
-<AM lemma="Ponav" src="auto">NNIP4-----A----</AM>
-<AM lemma="Ponava" src="auto">NNFP1-----A----</AM>
-<AM lemma="Ponava" src="auto">NNFP4-----A----</AM>
-<AM lemma="Ponava" src="auto">NNFS2-----A----</AM>
-<AM lemma="Ponava_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Ponava_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ponava_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="ponava" src="auto">NNFP1-----A----</AM>
-<AM lemma="ponava" src="auto">NNFP4-----A----</AM>
-<AM lemma="ponava" src="auto">NNFP5-----A----</AM>
-<AM lemma="ponava" src="auto">NNFS2-----A----</AM>
-<AM lemma="ponavy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ponava_;G" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-044-p4s5w9">

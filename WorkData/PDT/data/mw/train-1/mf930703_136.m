@@ -129,21 +129,7 @@
 <LM>w#w-mf930703-136-p2s1w4</LM>
 </w.rf>
 <form>Kein</form>
-<tag><AM lemma="kein_,t" src="orig">PWYS1----------</AM>
-<AM lemma="Kein" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kein" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kein_,t_^(řec._reagovat)" src="auto">Vf--------A----</AM>
-<AM lemma="Kein_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kein_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kein_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kein_;S_;K" src="auto">NNMS1-----A----</AM>
-<AM lemma="SF-2`Fein-1_;K_,t_^(Sinn_Kein)" src="auto">NNFXX-----A----</AM>
-<AM lemma="kein" src="auto">NNMS1-----A----</AM>
-<AM lemma="kein-2_,h_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="kein-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="kein_^(n-tice)" src="auto">A2--------A----</AM>
-<AM lemma="keinádraží_:B" src="auto">NNNXX-----A---9</AM>
-<AM lemma="keinárodní_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="kein_,t" src="orig" selected="1">PWYS1----------</AM>
 </tag>
 </m>
 <m id="m-mf930703-136-p2s1w5">
@@ -287,16 +273,7 @@
 <LM>w#w-mf930703-136-p2s1w20</LM>
 </w.rf>
 <form>Philipsreutu</form>
-<tag><AM lemma="Philipsreut_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Philipsreut" src="auto">NNIS2-----A----</AM>
-<AM lemma="Philipsreut_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Philipsreut" src="auto">NNIS6-----A----</AM>
-<AM lemma="Philipsreuta" src="auto">NNFS4-----A----</AM>
-<AM lemma="Philipsreut" src="auto">NNIS3-----A----</AM>
-<AM lemma="Philipsreuto" src="auto">NNNS3-----A----</AM>
-<AM lemma="Philipsreuta_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Philipsreut_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="philipsreutu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Philipsreut_;G" src="orig" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-136-p2s1w21">
@@ -477,14 +454,7 @@
 <LM>w#w-mf930703-136-p2s1w40</LM>
 </w.rf>
 <form>Minescu</form>
-<tag><AM lemma="Minescu_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Minescu_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Minesca_;R_,t" src="auto">NNFS4-----A----</AM>
-<AM lemma="Minesko_;G_,x" src="auto">NNNS6-----A----</AM>
-<AM lemma="Minesc" src="auto">NNIS2-----A----</AM>
-<AM lemma="Minesc_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Minesc_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="minescu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Minescu_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-136-p2s1w41">
@@ -1777,16 +1747,7 @@
 <LM>w#w-mf930703-136-p4s1w19</LM>
 </w.rf>
 <form>Philipsreutu</form>
-<tag><AM lemma="Philipsreut_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Philipsreut" src="auto">NNIS2-----A----</AM>
-<AM lemma="Philipsreut_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Philipsreut" src="auto">NNIS6-----A----</AM>
-<AM lemma="Philipsreuta" src="auto">NNFS4-----A----</AM>
-<AM lemma="Philipsreut" src="auto">NNIS3-----A----</AM>
-<AM lemma="Philipsreuto" src="auto">NNNS3-----A----</AM>
-<AM lemma="Philipsreuta_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Philipsreut_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="philipsreutu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Philipsreut_;G" src="orig" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-136-p4s1w20">

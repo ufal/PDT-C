@@ -430,18 +430,7 @@
 <LM>w#w-mf930708-112-p2s1w35</LM>
 </w.rf>
 <form>Investing</form>
-<tag><AM lemma="Investing_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Investing" src="auto">NNIS1-----A----</AM>
-<AM lemma="Investing" src="auto">NNIS4-----A----</AM>
-<AM lemma="Investing_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Investing_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Investing_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Investing_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Investing_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Investing_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="investing" src="auto">NNMS1-----A----</AM>
-<AM lemma="investing_,a_^(nejvyšší_shromáždění._svobodných_islandských_občanů)" src="auto">NNIS1-----A----</AM>
-<AM lemma="investing_,a_^(nejvyšší_shromáždění._svobodných_islandských_občanů)" src="auto">NNIS4-----A----</AM>
+<tag><AM lemma="Investing_;K_,t" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-112-p2s1w36">

@@ -129,17 +129,7 @@
 <LM>w#w-mf930703-127-p2s1w4</LM>
 </w.rf>
 <form>VERLAGSGRUPPE</form>
-<tag><AM lemma="Verlagsgruppe_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Verlagsgruppe_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="VERLAGSGRUPPE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VERLAGSGRUPPE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VERLAGSGRUPPE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Verlagsgruppe_;Y_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Verlagsgruppe_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Verlagsgruppe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Verlagsgruppe_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Verlagsgruppat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="verlagsgruppe" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Verlagsgruppe_;K_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-127-p2s1w5">
@@ -196,19 +186,7 @@
 <LM>w#w-mf930703-127-p2s2w1</LM>
 </w.rf>
 <form>HIRTREITEREM</form>
-<tag><AM lemma="Hirtreiter_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Hirtreiter_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="HIRTREITERema_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="HIRTREITEREM-1_:B_,t_^(fáze_spánku)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Hirtreiter" src="auto">NNIS7-----A----</AM>
-<AM lemma="Hirtreiter" src="auto">NNMS7-----A----</AM>
-<AM lemma="Hirtreiter_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Hirtreiter_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Hirtreitero" src="auto">NNNS7-----A----</AM>
-<AM lemma="Hirtreiter_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Hirtreiterma" src="auto">NNFP2-----A----</AM>
-<AM lemma="Hirtreitere_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="hirtreiterem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hirtreiter_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-127-p2s2w2">
@@ -262,13 +240,7 @@
 <LM>w#w-mf930703-127-p2s2w7</LM>
 </w.rf>
 <form>Verlagsgruppe</form>
-<tag><AM lemma="Verlagsgruppe_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Verlagsgruppe_;Y_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Verlagsgruppe_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Verlagsgruppe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Verlagsgruppe_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Verlagsgruppat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="verlagsgruppe" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Verlagsgruppe_;K_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-127-p2s2w8">
@@ -7510,16 +7482,7 @@
 <LM>w#w-mf930703-127-p2s66w18</LM>
 </w.rf>
 <form>Mitterfelsu</form>
-<tag><AM lemma="Mitterfels_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Mitterfels_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Mitterfels" src="auto">NNIS2-----A----</AM>
-<AM lemma="Mitterfels" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Mitterfels" src="auto">NNIS3-----A----</AM>
-<AM lemma="Mitterfels" src="auto">NNIS6-----A----</AM>
-<AM lemma="Mitterfelsa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Mitterfels_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Mitterfels_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="mitterfelsu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mitterfels_;G" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-127-p2s66w19">
@@ -7948,14 +7911,7 @@
 <LM>w#w-mf930703-127-p2s69w7</LM>
 </w.rf>
 <form>Krankenhaupt</form>
-<tag><AM lemma="Krankenhaupt_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krankenhaupt_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Krankenhaupt" src="auto">NNIS4-----A----</AM>
-<AM lemma="Krankenhaupt" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krankenhaupt_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Krankenhaupt_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krankenhaupt" src="auto">NNMS1-----A----</AM>
-<AM lemma="krankenhaupt" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Krankenhaupt_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-127-p2s69w8">
@@ -8258,16 +8214,7 @@
 <LM>w#w-mf930703-127-p2s72w2</LM>
 </w.rf>
 <form>Passauer</form>
-<tag><AM lemma="Passauer_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Passauer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Passauer_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Passauer_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Passauer" src="auto">NNIS1-----A----</AM>
-<AM lemma="Passauer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Passauer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Passauer_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Passauer" src="auto">NNIS4-----A----</AM>
-<AM lemma="passauer" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Passauer_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-127-p2s72w3">
@@ -8276,13 +8223,7 @@
 <LM>w#w-mf930703-127-p2s72w3</LM>
 </w.rf>
 <form>Verlagsgruppe</form>
-<tag><AM lemma="Verlagsgruppe_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Verlagsgruppe_;Y_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Verlagsgruppe_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Verlagsgruppe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Verlagsgruppe_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Verlagsgruppat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="verlagsgruppe" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Verlagsgruppe_;K_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-127-p2s72w4">

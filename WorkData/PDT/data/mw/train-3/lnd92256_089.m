@@ -28,24 +28,7 @@
 <LM>w#w-lnd92256-089-p1s1w2</LM>
 </w.rf>
 <form>BIE</form>
-<tag><AM lemma="Bie_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Bie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Bie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Bie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Bie_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bie_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="bi_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="bie" src="auto">NNFS2-----A----</AM>
-<AM lemma="bie-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="bie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="bie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="bie_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="bie_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="bie_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="bie_;S" src="auto">NNMXX-----A----</AM>
+<tag><AM lemma="Bie_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-089-p1s1w3">
@@ -121,20 +104,7 @@
 <LM>w#w-lnd92256-089-p1s2w3</LM>
 </w.rf>
 <form>SUPERPRESTIGE</form>
-<tag><AM lemma="Superprestige_;m" src="orig">NNFXX-----A----</AM>
-<AM lemma="SUPERPRESTIGE-1_:B_;K_,t_^(General_Electric_Company)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SUPERPRESTIGE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SUPERPRESTIGE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SUPERPRESTIGE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Superprestige_;m_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;Y" src="auto">AAXXX----1A----</AM>
-<AM lemma="Superprestige_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Superprestige_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Superprestige_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="superprestige" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Superprestige_;m" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -246,16 +216,7 @@
 <LM>w#w-lnd92256-089-p3s1w10</LM>
 </w.rf>
 <form>Superprestige</form>
-<tag><AM lemma="Superprestige_;m" src="orig">NNFXX-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;Y" src="auto">AAXXX----1A----</AM>
-<AM lemma="Superprestige_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Superprestige_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Superprestige_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="superprestige" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Superprestige_;m" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-089-p3s1w11">
@@ -400,16 +361,7 @@
 <LM>w#w-lnd92256-089-p3s2w5</LM>
 </w.rf>
 <form>Frischknechta</form>
-<tag><AM lemma="Frischknecht_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Frischknechta_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Frischknechta" src="auto">NNFS1-----A----</AM>
-<AM lemma="Frischknecht_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Frischknecht_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Frischknechta_;L_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Frischknechta_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Frischknechta-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Frischknechta" src="auto">NNMS1-----A----</AM>
-<AM lemma="frischknechta" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Frischknecht_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-089-p3s2w6">
@@ -445,13 +397,7 @@
 <LM>w#w-lnd92256-089-p3s2w9</LM>
 </w.rf>
 <form>Bieho</form>
-<tag><AM lemma="Bie_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Bie_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Bie_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bie_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bie_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bie-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="bieho" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bie_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-089-p3s2w10">
@@ -478,16 +424,7 @@
 <LM>w#w-lnd92256-089-p3s2w12</LM>
 </w.rf>
 <form>Baarse</form>
-<tag><AM lemma="Baars_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Baars_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Baars_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Baarze" src="auto">NNFP4-----A----</AM>
-<AM lemma="Baars_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Baars_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Baars_;G" src="auto">NNIS2-----A---1</AM>
-<AM lemma="Baarse_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Baarse_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="baarse" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Baars_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-089-p3s2w13">
@@ -1004,16 +941,7 @@
 <LM>w#w-lnd92256-089-p4s1w11</LM>
 </w.rf>
 <form>Superprestige</form>
-<tag><AM lemma="Superprestige_;m" src="orig">NNFXX-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;Y" src="auto">AAXXX----1A----</AM>
-<AM lemma="Superprestige_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Superprestige_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Superprestige_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="superprestige" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Superprestige_;m" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-089-p4s1w12">

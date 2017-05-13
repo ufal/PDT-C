@@ -4795,14 +4795,7 @@
 <LM>w#w-lnd92251-027-p6s12w29</LM>
 </w.rf>
 <form>Capital</form>
-<tag><AM lemma="Capital-1_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Capitat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Capitat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Capitat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Capital_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Capital_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Capital_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="capital" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Capital-1_;K_,t" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-027-p6s12w30">

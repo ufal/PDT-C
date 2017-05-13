@@ -149,15 +149,7 @@
 <LM>w#w-lnd92259-004-p3s1w5</LM>
 </w.rf>
 <form>jd</form>
-<tag><AM lemma="jd-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jd-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jd" src="auto">NNIS4-----A----</AM>
-<AM lemma="jd" src="auto">NNIS1-----A----</AM>
-<AM lemma="jd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jda" src="auto">NNFP2-----A----</AM>
-<AM lemma="jd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jd_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="jd_,t" src="auto">AAXXX----1A----</AM>
+<tag><AM lemma="jd-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-004-p3s1w6">
@@ -432,18 +424,7 @@
 <LM>w#w-lnd92259-004-p3s3w20</LM>
 </w.rf>
 <form>PHGN</form>
-<tag><AM lemma="PHGN_:B_;K_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="orig">NNIP2-----A---8</AM>
-<AM lemma="PHGN_:B_;K_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="auto" recommended="1">NNIP2-----A---8</AM>
-<AM lemma="PHGN_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PHGN_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Phgn_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Phgn_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Phgn" src="auto">NNIS4-----A----</AM>
-<AM lemma="Phgn" src="auto">NNIS1-----A----</AM>
-<AM lemma="Phgn_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Phgna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Phgn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="phgn" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="PHGN_:B_;K_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="orig" selected="1">NNIP2-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-004-p3s3w21">
@@ -797,18 +778,7 @@
 <LM>w#w-lnd92259-004-p4s1w37</LM>
 </w.rf>
 <form>PHGN</form>
-<tag><AM lemma="PHGN_:B_;K_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="orig">NNIP2-----A---8</AM>
-<AM lemma="PHGN_:B_;K_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="auto" recommended="1">NNIP2-----A---8</AM>
-<AM lemma="PHGN_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PHGN_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Phgn_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Phgn_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Phgn" src="auto">NNIS4-----A----</AM>
-<AM lemma="Phgn" src="auto">NNIS1-----A----</AM>
-<AM lemma="Phgn_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Phgna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Phgn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="phgn" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="PHGN_:B_;K_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="orig" selected="1">NNIP2-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-004-p4s1w38">

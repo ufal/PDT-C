@@ -7841,26 +7841,7 @@
 <LM>w#w-lnd92258-075-p8s11w45</LM>
 </w.rf>
 <form>UŘ</form>
-<tag><AM lemma="UŘ_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="UŘ_:B_;R" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="UŘ_:B_;K_;b_^(Generální_ředitelství)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="UŘ-1_:B_;R_^(Občanský_soudní_řád)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Uř" src="auto">NNMS1-----A----</AM>
-<AM lemma="Uř_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Uř" src="auto">NNIS1-----A----</AM>
-<AM lemma="Uř" src="auto">NNIS4-----A----</AM>
-<AM lemma="Uř" src="auto">NNFS4-----A----</AM>
-<AM lemma="Uř" src="auto">NNFS1-----A----</AM>
-<AM lemma="Uř-2" src="auto">Db-------------</AM>
-<AM lemma="Uř_,l" src="auto">NNMS1-----A----</AM>
-<AM lemma="uř" src="auto">NNIS1-----A----</AM>
-<AM lemma="uř" src="auto">NNMS1-----A----</AM>
-<AM lemma="uř_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="uř" src="auto">NNIS4-----A----</AM>
-<AM lemma="uř" src="auto">NNFS4-----A----</AM>
-<AM lemma="uř" src="auto">NNFS1-----A----</AM>
-<AM lemma="uř-2" src="auto">Db-------------</AM>
-<AM lemma="uř_,l" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="UŘ_:B_;R" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p8s11w46">

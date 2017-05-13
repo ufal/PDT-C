@@ -284,16 +284,7 @@
 <LM>w#w-mf930701-127-p2s2w4</LM>
 </w.rf>
 <form>Lawstav</form>
-<tag><AM lemma="Lawstav_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Lawstava" src="auto">NNFP2-----A----</AM>
-<AM lemma="Lawstav" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lawstav_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Lawstav" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lawstav_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lawstav_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Lawstav_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lawstav-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="lawstav" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lawstav_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-127-p2s2w5">
@@ -750,15 +741,7 @@
 <LM>w#w-mf930701-127-p2s4w3</LM>
 </w.rf>
 <form>Gábr</form>
-<tag><AM lemma="Gábr_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gábr_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gábr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gábrázek_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Gábr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gábr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gábr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gábr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="gábr" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gábr_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-127-p2s4w4">

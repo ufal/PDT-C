@@ -37,13 +37,7 @@
 <LM>w#w-mf930703-051-p1s1w3</LM>
 </w.rf>
 <form>jš</form>
-<tag><AM lemma="jš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jš_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jš-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jš_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jš" src="auto">NNIS1-----A----</AM>
-<AM lemma="jš" src="auto">NNFS4-----A----</AM>
-<AM lemma="jš" src="auto">NNFS1-----A----</AM>
+<tag><AM lemma="jš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-051-p1s1w4">

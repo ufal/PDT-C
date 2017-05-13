@@ -28,15 +28,7 @@
 <LM>w#w-ln94201-71-p1s1w2</LM>
 </w.rf>
 <form>Bergort</form>
-<tag><AM lemma="Bergort_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bergort" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bergort" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bergort_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bergort_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bergort_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bergort_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Report_;K_;u_,t_^(umělecký_soubor_Wheather_Bergort)" src="auto">NNIXX-----A----</AM>
-<AM lemma="bergort" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bergort_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-71-p1s1w3">

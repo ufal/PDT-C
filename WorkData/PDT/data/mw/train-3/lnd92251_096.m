@@ -163,15 +163,7 @@
 <LM>w#w-lnd92251-096-p3s2w6</LM>
 </w.rf>
 <form>kchun</form>
-<tag><AM lemma="kchun_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="kchun_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="kchuna" src="auto">NNFP2-----A----</AM>
-<AM lemma="kchun_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kchun" src="auto">NNMS1-----A----</AM>
-<AM lemma="kchun" src="auto">NNIS1-----A----</AM>
-<AM lemma="kchun" src="auto">NNIS4-----A----</AM>
-<AM lemma="kchun_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="kchun_;E" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="kchun_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-096-p3s2w7">

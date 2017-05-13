@@ -187,16 +187,7 @@
 <LM>w#w-lnd92255-024-p3s2w4</LM>
 </w.rf>
 <form>Gasaver</form>
-<tag><AM lemma="Gasaver_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Gasaver_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gasaver_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gasaver_,t" src="auto">Db-------------</AM>
-<AM lemma="Gasaver" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gasaver" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gasaver_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gasaver_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gasaver_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="gasaver" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gasaver_;R" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-024-p3s2w5">
@@ -232,16 +223,7 @@
 <LM>w#w-lnd92255-024-p3s2w8</LM>
 </w.rf>
 <form>FuelSaver</form>
-<tag><AM lemma="FuelSaver_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="FuelSaver_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="FuelSaver_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="FuelSaver_,t" src="auto">Db-------------</AM>
-<AM lemma="FuelSaver" src="auto">NNIS4-----A----</AM>
-<AM lemma="FuelSaver" src="auto">NNIS1-----A----</AM>
-<AM lemma="FuelSaver_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="FuelSaver_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="FuelSaver_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Fuelsaver" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="FuelSaver_;K" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-024-p3s2w9">
@@ -313,20 +295,7 @@
 <LM>w#w-lnd92255-024-p3s2w16</LM>
 </w.rf>
 <form>ENVIBRNO</form>
-<tag><AM lemma="ENVIBRNO_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="ENVIBrno_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="ENVIBrno_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="ENVIBRNO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ENVIBRNO_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Envibrno_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Envibrno" src="auto">NNNS1-----A----</AM>
-<AM lemma="Envibrný" src="auto">ACNS------A----</AM>
-<AM lemma="Envibrno_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Envibrno_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Envibrno_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Envibrno_;R_^(značka_piva)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Envibrno_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="envibrno" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="ENVIBRNO_;m" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-024-p3s2w17">
@@ -1522,16 +1491,7 @@
 <LM>w#w-lnd92255-024-p5s1w4</LM>
 </w.rf>
 <form>Gasaver</form>
-<tag><AM lemma="Gasaver_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Gasaver_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gasaver_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gasaver_,t" src="auto">Db-------------</AM>
-<AM lemma="Gasaver" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gasaver" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gasaver_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gasaver_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gasaver_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="gasaver" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gasaver_;R" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-024-p5s1w5">
@@ -3222,16 +3182,7 @@
 <LM>w#w-lnd92255-024-p6s2w29</LM>
 </w.rf>
 <form>Gasaver</form>
-<tag><AM lemma="Gasaver_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Gasaver_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gasaver_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Gasaver_,t" src="auto">Db-------------</AM>
-<AM lemma="Gasaver" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gasaver" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gasaver_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gasaver_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gasaver_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="gasaver" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gasaver_;R" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-024-p6s2w30">

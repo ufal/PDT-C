@@ -201,16 +201,7 @@
 <LM>w#w-mf930702-043-p2s1w13</LM>
 </w.rf>
 <form>Theatre</form>
-<tag><AM lemma="Theatre_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Theatre_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Theatre_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Theatre_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Theatre_;R_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Theatre_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Theatre_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Theatre_;K_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Theatre_;G_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="theatre" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Theatre_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-043-p2s1w14">
@@ -237,24 +228,7 @@
 <LM>w#w-mf930702-043-p2s1w16</LM>
 </w.rf>
 <form>BFTC</form>
-<tag><AM lemma="BFTC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BFTC_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="BFTC-4_:B_;K_,t_^(International_Typeface_Corporation)" src="auto">NNFXX-----A----</AM>
-<AM lemma="BFTC-2_:B_^(letecké_taktické_cvičení)" src="auto">NNNXX-----A----</AM>
-<AM lemma="BFTC-2_:B_;K_,t_^(European_Translation_Centre)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="BFTC-1_:B_;K_,t_^(Öster._Autom.-Motorrad-und_Touring_Club)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="BFTC_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BFTC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BFTC_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Bftc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bftc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bftce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bftce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bftc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bftc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bftc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bftc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="bftc" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="BFTC_:B_;K" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-043-p2s1w17">

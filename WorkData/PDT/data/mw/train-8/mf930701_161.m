@@ -723,15 +723,7 @@
 <LM>w#w-mf930701-161-p4s1w4</LM>
 </w.rf>
 <form>Šačirbej</form>
-<tag><AM lemma="Šačirbej_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Šačirbej_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Šačirbý" src="auto">AAMS1----1A---6</AM>
-<AM lemma="Šačirbej" src="auto">NNIS1-----A----</AM>
-<AM lemma="Šačirbej_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Šačirbý" src="auto">AAIS1----1A---6</AM>
-<AM lemma="Šačirbej" src="auto">NNIS4-----A----</AM>
-<AM lemma="Šačirbat_:T" src="auto">Vi-S---2--A----</AM>
-<AM lemma="šačirbej" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Šačirbej_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-161-p4s1w5">
@@ -1759,16 +1751,7 @@
 <LM>w#w-mf930701-161-p7s1w9</LM>
 </w.rf>
 <form>Prlič</form>
-<tag><AM lemma="Prlič_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Prlič_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Prlič" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prlič" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prlič" src="auto">NNIS4-----A----</AM>
-<AM lemma="Prlić" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prlič_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prlič_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prlič_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="prlič" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Prlič_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-161-p7s1w10">
@@ -2022,16 +2005,7 @@
 <LM>w#w-mf930701-161-p7s2w6</LM>
 </w.rf>
 <form>HINA</form>
-<tag><AM lemma="HINA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="HINA" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hin_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Hina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hin_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Hina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hin_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Hina_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<tag><AM lemma="HINA_:B_;K" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-161-p7s2w7">
@@ -2541,16 +2515,7 @@
 <LM>w#w-mf930701-161-p9s2w10</LM>
 </w.rf>
 <form>Milliyet</form>
-<tag><AM lemma="Milliyet_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Milliyet_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Milliyet_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Milliyet" src="auto">Vf--------A----</AM>
-<AM lemma="Milliyet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Milliyet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Milliyeta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Milliyet_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Milliyet_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="milliyet" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Milliyet_;R" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-161-p9s2w11">

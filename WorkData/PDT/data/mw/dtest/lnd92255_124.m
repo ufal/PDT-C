@@ -1241,15 +1241,7 @@
 <LM>w#w-lnd92255-124-p3s4w17</LM>
 </w.rf>
 <form>Dunakiliti</form>
-<tag><AM lemma="Dunakiliti_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Dunakilit_:W" src="auto">Vf--------A---2</AM>
-<AM lemma="Dunakilít" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Dunakilit_:T" src="auto">Vf--------A---2</AM>
-<AM lemma="Dunakiliti_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="dunakilit-2_:W" src="auto">Vf--------A---2</AM>
-<AM lemma="Dunakilit" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Dunakiliti_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="dunakiliti" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Dunakiliti_;G" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-124-p3s4w18">
@@ -1395,15 +1387,7 @@
 <LM>w#w-lnd92255-124-p4s1w15</LM>
 </w.rf>
 <form>nebou</form>
-<tag><AM lemma="být" src="orig">VB-P---3F-NA---</AM>
-<AM lemma="neba" src="auto">NNFS7-----A----</AM>
-<AM lemma="nebý" src="auto">AAFS4----1A----</AM>
-<AM lemma="neba_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="nebý" src="auto">AAFS7----1A----</AM>
-<AM lemma="nebat" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="neba_;Y" src="auto">NNFS7-----A----</AM>
-<AM lemma="bat" src="auto" recommended="1">VB-P---3P-NA---</AM>
-<AM lemma="neba`2" src="auto">ClXP6----------</AM>
+<tag><AM lemma="být" src="orig" selected="1">VB-P---3F-NA---</AM>
 </tag>
 </m>
 <m id="m-lnd92255-124-p4s1w16">
@@ -3948,16 +3932,7 @@
 <LM>w#w-lnd92255-124-p7s4w1</LM>
 </w.rf>
 <form>Pché</form>
-<tag><AM lemma="pché" src="orig">II-------------</AM>
-<AM lemma="Pchý" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="Pchý" src="auto">AAFS2----1A----</AM>
-<AM lemma="Pchý" src="auto">AAFP4----1A----</AM>
-<AM lemma="Pchý" src="auto">AAIP4----1A----</AM>
-<AM lemma="Pchý" src="auto">AAFS6----1A----</AM>
-<AM lemma="Pchý" src="auto">AAFP1----1A----</AM>
-<AM lemma="Pchý" src="auto">AANS4----1A----</AM>
-<AM lemma="Pchý" src="auto">AAIP1----1A----</AM>
-<AM lemma="pché" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="pché" src="orig" selected="1">II-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-124-p7s4w2">

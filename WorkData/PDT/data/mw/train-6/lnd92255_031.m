@@ -502,15 +502,7 @@
 <LM>w#w-lnd92255-031-p2s1w14</LM>
 </w.rf>
 <form>Galileiho</form>
-<tag><AM lemma="Galilei_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Galilei_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galilei_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Galilei_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galilei_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galilei_;m" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galilei_;S_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galilei-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="galileiho" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Galilei_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-031-p2s1w15">

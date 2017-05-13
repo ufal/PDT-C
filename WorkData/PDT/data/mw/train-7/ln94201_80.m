@@ -1056,16 +1056,7 @@
 <LM>w#w-ln94201-80-p3s2w9</LM>
 </w.rf>
 <form>Australian</form>
-<tag><AM lemma="Australian_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Australian_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australian_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australian_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Australian_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Australián_;Y_,x" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australián_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australianum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Australiano" src="auto">NNNP2-----A----</AM>
-<AM lemma="australian" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Australian_;m_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-80-p3s2w10">
@@ -2256,16 +2247,7 @@
 <LM>w#w-ln94201-80-p3s5w25</LM>
 </w.rf>
 <form>Australian</form>
-<tag><AM lemma="Australian_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Australian_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australian_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australian_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Australian_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Australián_;Y_,x" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australián_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australianum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Australiano" src="auto">NNNP2-----A----</AM>
-<AM lemma="australian" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Australian_;m_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-80-p3s5w26">
@@ -3085,16 +3067,7 @@
 <LM>w#w-ln94201-80-p4s3w6</LM>
 </w.rf>
 <form>Canadian</form>
-<tag><AM lemma="Canadian_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Canadian_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Canadian_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Canadian_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Canadian_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Canadián_;Y_,x" src="auto">NNMS1-----A----</AM>
-<AM lemma="Canadián_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Canadianum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Canadiano" src="auto">NNNP2-----A----</AM>
-<AM lemma="canadian" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Canadian_;m_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-80-p4s3w7">
@@ -4405,16 +4378,7 @@
 <LM>w#w-ln94201-80-p5s5w17</LM>
 </w.rf>
 <form>Meligini</form>
-<tag><AM lemma="Meligini_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Meligini_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Meligini_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Meligin" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Meligin" src="auto">NNMP1-----A----</AM>
-<AM lemma="Meligini_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Meligini_;K_^(nakladatelství)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Meligini_,h_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Meligini-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="meligini" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Meligini_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-80-p5s5w18">
@@ -4432,16 +4396,7 @@
 <LM>w#w-ln94201-80-p5s5w19</LM>
 </w.rf>
 <form>Braz</form>
-<tag><AM lemma="Brazílie_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Braz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Braz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Brazílie_:B_;G" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Braz_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Braz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Braz_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Braza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Braz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="braz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Brazílie_:B_;G" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-80-p5s5w20">
@@ -4596,15 +4551,7 @@
 <LM>w#w-ln94201-80-p5s6w15</LM>
 </w.rf>
 <form>Yanaoui</form>
-<tag><AM lemma="Yanaoui_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Yanaoui_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Yanaoui_,t" src="auto">TT-------------</AM>
-<AM lemma="Yanaoue" src="auto">NNFS6-----A----</AM>
-<AM lemma="Yanaoue" src="auto">NNFS4-----A----</AM>
-<AM lemma="Yanaoui_;Y" src="auto">NNXXX-----A----</AM>
-<AM lemma="Yanaoui_;G_^(Středoafrická_republika)" src="auto">NNNSX-----A----</AM>
-<AM lemma="Yanaoui_,t" src="auto">P4XXX----------</AM>
-<AM lemma="yanaoui" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Yanaoui_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-80-p5s6w16">
@@ -5051,16 +4998,7 @@
 <LM>w#w-ln94201-80-p5s9w8</LM>
 </w.rf>
 <form>Eltingh</form>
-<tag><AM lemma="Eltingh_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eltingh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Eltingh_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Eltingh_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Eltingh_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eltingh_;S_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eltingh_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Eltingh_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Eltingh_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="eltingh" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Eltingh_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-80-p5s9w9">
@@ -6105,17 +6043,7 @@
 <LM>w#w-ln94201-80-p5s15w9</LM>
 </w.rf>
 <form>Poová</form>
-<tag><AM lemma="Poová_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Poová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Poová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Poová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Poový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Poový" src="auto">AAFS5----1A----</AM>
-<AM lemma="Poový" src="auto">AANP1----1A----</AM>
-<AM lemma="Poový" src="auto">AANP4----1A----</AM>
-<AM lemma="Poový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="poová" src="auto">NNMS1-----A----</AM>
-<AM lemma="poová-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="Poová_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-80-p5s15w10">

@@ -91,12 +91,7 @@
 <LM>w#w-mf930703-141-p1s1w9</LM>
 </w.rf>
 <form>Mogadiišo</form>
-<tag><AM lemma="Mogadišo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Mogadišo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Mogadiišo_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="Mogadiišo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Mogadiišo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mogadiišo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mogadišo_;G" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-141-p1s1w10">
@@ -465,15 +460,7 @@
 <LM>w#w-mf930703-141-p1s1w50</LM>
 </w.rf>
 <form>Faraha</form>
-<tag><AM lemma="Farah_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Faraha" src="auto">NNFS1-----A----</AM>
-<AM lemma="Farah_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Faraho" src="auto">NNNS2-----A----</AM>
-<AM lemma="Farah_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Farah_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Farah" src="auto">NNMS4-----A----</AM>
-<AM lemma="Farah" src="auto">NNMS2-----A----</AM>
-<AM lemma="faraha" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Farah_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-141-p1s1w51">

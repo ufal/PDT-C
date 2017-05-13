@@ -73,24 +73,7 @@
 <LM>w#w-lnd92257-088-p1s1w7</LM>
 </w.rf>
 <form>JDC</form>
-<tag><AM lemma="JDC_:B_;K_,t_^(židovská_org._Joint_Distribution_Committee)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="JDC_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="JDC-2_:B_;K_,t_^(Civil_Defence_Committee)" src="auto">NNIXX-----A----</AM>
-<AM lemma="JDC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="JDC_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="JDC_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="JDC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="JDC_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="JDC_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Jdc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jdc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jdce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Jdce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Jdc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jdc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Jdc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jdc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jdc" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="JDC_:B_;K_,t_^(židovská_org._Joint_Distribution_Committee)" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-088-p1s1w8">

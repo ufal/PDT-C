@@ -55,14 +55,7 @@
 <LM>w#w-mf930701-136-p1s1w5</LM>
 </w.rf>
 <form>Oramem</form>
-<tag><AM lemma="Oramo_;K" src="orig">NNNS7-----A----</AM>
-<AM lemma="Oramus" src="auto">NNIS7-----A----</AM>
-<AM lemma="Oram" src="auto">NNIS7-----A----</AM>
-<AM lemma="Oraem" src="auto">NNIS7-----A----</AM>
-<AM lemma="Oram_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Oram_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Oram_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="oramem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Oramo_;K" src="orig" selected="1">NNNS7-----A----</AM>
 </tag>
 </m>
 </s>
@@ -91,13 +84,7 @@
 <LM>w#w-mf930701-136-p2s1w3</LM>
 </w.rf>
 <form>jsl</form>
-<tag><AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jsl-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jsnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="jst" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jsl" src="auto">NNIS1-----A----</AM>
-<AM lemma="jsl" src="auto">NNIS4-----A----</AM>
+<tag><AM lemma="jsl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-136-p2s1w4">
@@ -187,16 +174,7 @@
 <LM>w#w-mf930701-136-p2s1w13</LM>
 </w.rf>
 <form>Oramo</form>
-<tag><AM lemma="Oramo_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Oramo_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Oramo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Oramo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="sám_^(Oramotný)" src="auto">PLNS4----------</AM>
-<AM lemma="sám_^(Oramotný)" src="auto">PLNS1----------</AM>
-<AM lemma="Oramo_;Y" src="auto">NNNS1-----A----</AM>
-<AM lemma="Oramo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Oramo_:B_;K_;p_,t_^(Resistencia_Nacional_Mocambicana)" src="auto">NNNS1-----A----</AM>
-<AM lemma="oramo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Oramo_;K" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-136-p2s1w14">
@@ -769,16 +747,7 @@
 <LM>w#w-mf930701-136-p2s4w4</LM>
 </w.rf>
 <form>Oramo</form>
-<tag><AM lemma="Oramo_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Oramo_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Oramo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Oramo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="sám_^(Oramotný)" src="auto">PLNS4----------</AM>
-<AM lemma="sám_^(Oramotný)" src="auto">PLNS1----------</AM>
-<AM lemma="Oramo_;Y" src="auto">NNNS1-----A----</AM>
-<AM lemma="Oramo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Oramo_:B_;K_;p_,t_^(Resistencia_Nacional_Mocambicana)" src="auto">NNNS1-----A----</AM>
-<AM lemma="oramo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Oramo_;K" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-136-p2s4w5">

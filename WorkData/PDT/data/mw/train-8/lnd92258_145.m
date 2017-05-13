@@ -400,16 +400,7 @@
 <LM>w#w-lnd92258-145-p2s4w11</LM>
 </w.rf>
 <form>Salvádor</form>
-<tag><AM lemma="Salvádor_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Salvádor_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Salvádor" src="auto">NNIS4-----A----</AM>
-<AM lemma="Salvádor" src="auto">NNIS1-----A----</AM>
-<AM lemma="Salvádor_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Salvádor_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Salvádor_;Y_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Salvádor_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Salvádor_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="salvádor" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Salvádor_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-145-p2s4w12">
@@ -638,15 +629,7 @@
 <LM>w#w-lnd92258-145-p4s1w14</LM>
 </w.rf>
 <form>Preussen</form>
-<tag><AM lemma="Preussen_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Preussen_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Preussen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Preussen_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Preussen-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Preussna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Preussit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Preussen_;K" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="preussen" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Preussen_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-145-p4s1w15">
@@ -1317,16 +1300,7 @@
 <LM>w#w-lnd92258-145-p7s1w17</LM>
 </w.rf>
 <form>Mévius</form>
-<tag><AM lemma="Mévius_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mévius_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mévius" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mévius_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mévius_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mévius_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mévius_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mévius_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mévius_;L_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="mévius" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mévius_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-145-p7s1w18">
@@ -1416,15 +1390,7 @@
 <LM>w#w-lnd92258-145-p7s1w27</LM>
 </w.rf>
 <form>Tauziac</form>
-<tag><AM lemma="Tauziac_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tauziac_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tauziac_;R_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Tauziac_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mac_;S_^(TauziacIntosh)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tauziac_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tauziac_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tauziac_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="tauziac" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tauziac_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-145-p7s1w28">

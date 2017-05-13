@@ -439,16 +439,7 @@
 <LM>w#w-ln94201-125-p2s2w13</LM>
 </w.rf>
 <form>Renwick</form>
-<tag><AM lemma="Renwick_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Renwick_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Renwick_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Renwick_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Renwick_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Renwick_;K_^(hotel)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Renwick-2_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Renwick-1_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Renwick" src="auto">NNMS1-----A----</AM>
-<AM lemma="renwick" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Renwick_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-125-p2s2w14">
@@ -648,15 +639,7 @@
 <LM>w#w-ln94201-125-p2s3w4</LM>
 </w.rf>
 <form>pinkfloydi</form>
-<tag><AM lemma="pinkfloyd" src="orig">NNMP1-----A----</AM>
-<AM lemma="pinkfloyď" src="auto">NNFS6-----A----</AM>
-<AM lemma="pinkfloydi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pinkfloyd" src="auto">NNMP1-----A---1</AM>
-<AM lemma="pinkfloyď" src="auto">NNFS3-----A----</AM>
-<AM lemma="pinkfloyď" src="auto">NNFS2-----A----</AM>
-<AM lemma="pinkfloyď" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="pinkfloyď" src="auto">NNFS2-----A---1</AM>
-<AM lemma="pinkfloyď" src="auto">NNFP4-----A----</AM>
+<tag><AM lemma="pinkfloyd" src="orig" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-125-p2s3w5">

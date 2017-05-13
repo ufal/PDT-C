@@ -641,16 +641,7 @@
 <LM>w#w-lnd92258-120-p2s5w6</LM>
 </w.rf>
 <form>Nordiku</form>
-<tag><AM lemma="Nordikum_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Nordika" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Nordik" src="auto">NNIS6-----A----</AM>
-<AM lemma="Nordik" src="auto">NNIS2-----A----</AM>
-<AM lemma="Nordika_^(věda)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Nordik" src="auto">NNIS3-----A----</AM>
-<AM lemma="Nordika_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Nordik_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Nordik_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="nordiku" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nordikum_;m_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-120-p2s5w7">

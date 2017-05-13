@@ -1647,15 +1647,7 @@
 <LM>w#w-lnd92255-032-p3s2w9</LM>
 </w.rf>
 <form>Pichoje</form>
-<tag><AM lemma="Pichoje_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pichoj" src="auto">NNIS2-----A----</AM>
-<AM lemma="Pichoj" src="auto">NNIP4-----A----</AM>
-<AM lemma="Pichoj" src="auto">NNIP1-----A----</AM>
-<AM lemma="Pichojí" src="auto">CdXP4---------1</AM>
-<AM lemma="Pichoj_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pichoj" src="auto">NNFS2-----A----</AM>
-<AM lemma="Pichoje" src="auto">Db-------------</AM>
-<AM lemma="pichoje" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Pichoje_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-032-p3s2w10">

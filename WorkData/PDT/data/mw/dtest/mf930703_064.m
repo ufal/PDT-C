@@ -560,13 +560,7 @@
 <LM>w#w-mf930703-064-p2s2w30</LM>
 </w.rf>
 <form>Alles</form>
-<tag><AM lemma="alles_,t" src="orig">PLNS1----------</AM>
-<AM lemma="Alles_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alles" src="auto">NNIS4-----A----</AM>
-<AM lemma="Alles" src="auto">NNIS1-----A----</AM>
-<AM lemma="Alle_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Alleso" src="auto">NNNP2-----A----</AM>
-<AM lemma="alles" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="alles_,t" src="orig" selected="1">PLNS1----------</AM>
 </tag>
 </m>
 <m id="m-mf930703-064-p2s2w31">
@@ -778,15 +772,7 @@
 <LM>w#w-mf930703-064-p3s1w2</LM>
 </w.rf>
 <form>spa</form>
-<tag><AM lemma="spa-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="spa-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="spa" src="auto">NNFS1-----A----</AM>
-<AM lemma="spa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="spa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="sp_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="sp" src="auto">NNMS2-----A----</AM>
-<AM lemma="spo" src="auto">NNNS2-----A----</AM>
-<AM lemma="sp" src="auto">NNMS4-----A----</AM>
+<tag><AM lemma="spa-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-064-p3s1w3">

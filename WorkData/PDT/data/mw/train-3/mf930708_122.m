@@ -751,15 +751,7 @@
 <LM>w#w-mf930708-122-p3s1w2</LM>
 </w.rf>
 <form>Prüher</form>
-<tag><AM lemma="Prüher_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Prüher_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Prühra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Prüher_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Prüher_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prühry_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Prühry_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Prüher_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="prüher" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Prüher_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-122-p3s1w3">
@@ -4382,15 +4374,7 @@
 <LM>w#w-mf930708-122-p11s6w1</LM>
 </w.rf>
 <form>Prüher</form>
-<tag><AM lemma="Prüher_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Prüher_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Prühra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Prüher_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Prüher_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prühry_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Prühry_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Prüher_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="prüher" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Prüher_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-122-p11s6w2">
@@ -4465,16 +4449,7 @@
 <LM>w#w-mf930708-122-p11s7w1</LM>
 </w.rf>
 <form>Marriottt</form>
-<tag><AM lemma="Marriottt_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Marriottt_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Marriottt-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Marriottt_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Marriottt_;R_^(časopis)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Marriottt_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Marriottt_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Marriottt_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Marriottt_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="marriottt" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Marriottt_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-122-p11s7w2">

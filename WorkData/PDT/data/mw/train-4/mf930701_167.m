@@ -266,16 +266,7 @@
 <LM>w#w-mf930701-167-p2s2w6</LM>
 </w.rf>
 <form>Nězavisimaja</form>
-<tag><AM lemma="Nězavisimaja_;R_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="Nězavisimij_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Nězavisimaja_;R_,t" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="Nězavisimať_,t" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="Nězavisimyj_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Nězavisimyj_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Nězavisimij_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nězavisimaja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nězavisimaja_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="nězavisimaja" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nězavisimaja_;R_,t" src="orig" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-167-p2s2w7">

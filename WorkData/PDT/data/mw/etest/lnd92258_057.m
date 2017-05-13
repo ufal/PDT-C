@@ -305,23 +305,7 @@
 <LM>w#w-lnd92258-057-p3s2w15</LM>
 </w.rf>
 <form>dos</form>
-<tag><AM lemma="dos_;S_,t" src="orig">RR--X----------</AM>
-<AM lemma="do" src="auto">PZM-1---------1</AM>
-<AM lemma="do_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="dos-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="dos-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="dos-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="dos-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="dos_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="dos_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="dos_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="dos_;S_,t" src="auto" recommended="1">RR--X----------</AM>
-<AM lemma="dos_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="doscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="dosoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="dospolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dostrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dostátní_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="dos_;S_,t" src="orig" selected="1">RR--X----------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p3s2w16">
@@ -799,25 +783,7 @@
 <LM>w#w-lnd92258-057-p4s4w4</LM>
 </w.rf>
 <form>SABC</form>
-<tag><AM lemma="SABC_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SABC-2_:B_;K_^(divadlo)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SABC-3_:B_^(základy_něčeho)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SABC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SABC_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SABC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SABC_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SABC_:B_;K_^(International_Business_Center)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SABC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Sabc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sabc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sabc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sabc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sabc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sabc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sabce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Sabce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="sabc" src="auto">NNMS1-----A----</AM>
-<AM lemma="sabc-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="SABC_:B_;K_,t" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s4w5">
@@ -1289,16 +1255,7 @@
 <LM>w#w-lnd92258-057-p4s6w14</LM>
 </w.rf>
 <form>Jeremias</form>
-<tag><AM lemma="Jeremias_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jeremias_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Jeremias_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jeremias_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jeremias_;L_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Jeremias" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jeremias" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jeremias" src="auto">J^-------------</AM>
-<AM lemma="Jeremias" src="auto">NNIS4-----A----</AM>
-<AM lemma="jeremias" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Jeremias_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s6w15">
@@ -1307,16 +1264,7 @@
 <LM>w#w-lnd92258-057-p4s6w15</LM>
 </w.rf>
 <form>Chitunda</form>
-<tag><AM lemma="Chitunda_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chitunda_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chitunda" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chitund_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Chitund_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Chitund_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Chitunda_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chitunda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chitund_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="chitunda" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Chitunda_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s6w16">
@@ -1370,16 +1318,7 @@
 <LM>w#w-lnd92258-057-p4s6w21</LM>
 </w.rf>
 <form>Elías</form>
-<tag><AM lemma="Elías_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Elías_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Elías_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Elías" src="auto">NNIS1-----A----</AM>
-<AM lemma="Elías" src="auto">NNIS4-----A----</AM>
-<AM lemma="Elías_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Elías_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Elías" src="auto">Db-------------</AM>
-<AM lemma="Elías" src="auto">NNMS1-----A----</AM>
-<AM lemma="elías" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Elías_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s6w22">
@@ -1388,15 +1327,7 @@
 <LM>w#w-lnd92258-057-p4s6w22</LM>
 </w.rf>
 <form>Salupeto</form>
-<tag><AM lemma="Salupeto_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Salupeto" src="auto">NNNS1-----A----</AM>
-<AM lemma="Salupeto" src="auto">NNNS4-----A----</AM>
-<AM lemma="Salupeto_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Salupeta" src="auto">NNFS5-----A----</AM>
-<AM lemma="Salupet" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="Salupeto_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Salupeto_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="salupeto" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Salupeto_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s6w23">
@@ -1508,16 +1439,7 @@
 <LM>w#w-lnd92258-057-p4s7w10</LM>
 </w.rf>
 <form>Arlindo</form>
-<tag><AM lemma="Arlindo_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Arlindo_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Arlindo" src="auto">NNNS4-----A----</AM>
-<AM lemma="Arlindo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Arlindo_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Arlindo_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Arlindo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Arlindo_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Arlindo_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="arlindo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Arlindo_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s7w11">
@@ -1526,16 +1448,7 @@
 <LM>w#w-lnd92258-057-p4s7w11</LM>
 </w.rf>
 <form>Chenda</form>
-<tag><AM lemma="Chenda_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chenda_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chenda" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chend_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Chend_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Chend_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Chenda_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chenda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chend_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="chenda" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Chenda_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s7w12">
@@ -1609,16 +1522,7 @@
 <LM>w#w-lnd92258-057-p4s7w19</LM>
 </w.rf>
 <form>Chivukuvuku</form>
-<tag><AM lemma="Chivukuvuku_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chivukuvuka" src="auto">NNFS4-----A----</AM>
-<AM lemma="Chivukuvuk" src="auto">NNIS2-----A----</AM>
-<AM lemma="Chivukuvuk_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Chivukuvuk" src="auto">NNIS6-----A----</AM>
-<AM lemma="Chivukuvuka_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Chivukuvuk-2_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Chivukuvuk" src="auto">NNIS3-----A----</AM>
-<AM lemma="Chivukuvuek" src="auto">NNIS2-----A----</AM>
-<AM lemma="chivukuvuku" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Chivukuvuku_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s7w20">
@@ -1719,23 +1623,7 @@
 <LM>w#w-lnd92258-057-p5s1w4</LM>
 </w.rf>
 <form>dos</form>
-<tag><AM lemma="dos_;S_,t" src="orig">RR--X----------</AM>
-<AM lemma="do" src="auto">PZM-1---------1</AM>
-<AM lemma="do_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="dos-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="dos-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="dos-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="dos-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="dos_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="dos_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="dos_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="dos_;S_,t" src="auto" recommended="1">RR--X----------</AM>
-<AM lemma="dos_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="doscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="dosoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="dospolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dostrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dostátní_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="dos_;S_,t" src="orig" selected="1">RR--X----------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p5s1w5">

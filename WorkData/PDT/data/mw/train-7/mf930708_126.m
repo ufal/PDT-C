@@ -1174,16 +1174,7 @@
 <LM>w#w-mf930708-126-p3s10w1</LM>
 </w.rf>
 <form>Glivar</form>
-<tag><AM lemma="Glivar_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Glivar" src="auto">NNIS1-----A----</AM>
-<AM lemma="Glivar" src="auto">NNIS4-----A----</AM>
-<AM lemma="Glivar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Glivariabilní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Glivar_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Glivar_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Glivar_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Glivar_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="glivar" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Glivar_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-126-p3s10w2">

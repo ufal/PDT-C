@@ -383,15 +383,7 @@
 <LM>w#w-lnd92255-002-p1s2w12</LM>
 </w.rf>
 <form>trombolika</form>
-<tag><AM lemma="trombolikum" src="orig">NNNS2-----A----</AM>
-<AM lemma="trombolika" src="auto">NNFS1-----A----</AM>
-<AM lemma="trombolik" src="auto">NNMS2-----A----</AM>
-<AM lemma="trombolik" src="auto">NNMS4-----A----</AM>
-<AM lemma="trombolik_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="trombolika_^(věda)" src="auto">NNFS1-----A----</AM>
-<AM lemma="trombolika_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="trombolikum" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="trombolikum" src="auto">NNNP4-----A----</AM>
+<tag><AM lemma="trombolikum" src="orig" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-002-p1s2w13">
@@ -400,14 +392,7 @@
 <LM>w#w-lnd92255-002-p1s2w13</LM>
 </w.rf>
 <form>streptokináze</form>
-<tag><AM lemma="streptokináza" src="orig">NNFS2-----A----</AM>
-<AM lemma="streptokináze" src="auto">NNFS1-----A----</AM>
-<AM lemma="streptokináze" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="streptokináze" src="auto">NNFP1-----A----</AM>
-<AM lemma="streptokináha" src="auto">NNFS6-----A----</AM>
-<AM lemma="streptokináze" src="auto">NNFP4-----A----</AM>
-<AM lemma="streptokináha" src="auto">NNFS3-----A----</AM>
-<AM lemma="váha_^(na_streptokinážení;_hmotnost)" src="auto">NNFS6-----A----</AM>
+<tag><AM lemma="streptokináza" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-002-p1s2w14">

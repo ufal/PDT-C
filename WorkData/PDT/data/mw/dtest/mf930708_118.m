@@ -492,16 +492,7 @@
 <LM>w#w-mf930708-118-p2s2w29</LM>
 </w.rf>
 <form>Sternadel</form>
-<tag><AM lemma="Sternadel_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sternadlo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Sternadel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sternadel_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sternadel_;S_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sternadel_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sternadel_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sternadel_;G_,t" src="auto">RR--X----------</AM>
-<AM lemma="Sternadel_,t_^(de+člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="sternadel" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sternadel_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-118-p2s2w30">
@@ -519,18 +510,7 @@
 <LM>w#w-mf930708-118-p2s2w31</LM>
 </w.rf>
 <form>ol</form>
-<tag><AM lemma="olympijský_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="ol" src="auto">NNIS1-----A----</AM>
-<AM lemma="ol" src="auto">NNIS4-----A----</AM>
-<AM lemma="ol-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ol-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ol_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ol_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ol_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ola" src="auto">NNFP2-----A----</AM>
-<AM lemma="oletopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
-<AM lemma="olitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="olo" src="auto">NNNP2-----A----</AM>
+<tag><AM lemma="olympijský_:B" src="orig" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-118-p2s2w32">
@@ -639,16 +619,7 @@
 <LM>w#w-mf930708-118-p2s2w43</LM>
 </w.rf>
 <form>Frübling</form>
-<tag><AM lemma="Frübling_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Frübling_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Frübling" src="auto">NNIS4-----A----</AM>
-<AM lemma="Frübling_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Frübling" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Frübling_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Frübling_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Frübling_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Frübling_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="frübling" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Frübling_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-118-p2s2w44">

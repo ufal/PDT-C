@@ -104,16 +104,7 @@
 <LM>w#w-mf930701-146-p3s1w6</LM>
 </w.rf>
 <form>Doogie</form>
-<tag><AM lemma="Doogie_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Doogie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Doogie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Doogie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Doogie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Doogie_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Doogia_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Doogie_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Doogie_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="doogie" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Doogie_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p3s1w7">
@@ -459,15 +450,7 @@
 <LM>w#w-mf930701-146-p3s1w44</LM>
 </w.rf>
 <form>švéd</form>
-<tag><AM lemma="švédský_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="švédský_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="švédsko_:B_;G" src="auto">NNNXX-----A---8</AM>
-<AM lemma="švéd_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="švédo" src="auto">NNNP2-----A----</AM>
-<AM lemma="švéd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="švéd" src="auto">NNIS1-----A----</AM>
-<AM lemma="švéd" src="auto">NNIS4-----A----</AM>
-<AM lemma="švéd_;S" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="švédský_:B" src="orig" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p3s1w45">
@@ -638,15 +621,7 @@
 <LM>w#w-mf930701-146-p5s1w10</LM>
 </w.rf>
 <form>labora</form>
-<tag><AM lemma="laborare_,t" src="orig">Vi-S---2--A----</AM>
-<AM lemma="labor" src="auto">NNMS2-----A----</AM>
-<AM lemma="labor" src="auto">NNMS4-----A----</AM>
-<AM lemma="labor_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="labora" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="labora_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="labor_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="labor_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="labor_;S" src="auto">NNMS4-----A----</AM>
+<tag><AM lemma="laborare_,t" src="orig" selected="1">Vi-S---2--A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p5s1w11">
@@ -1011,17 +986,7 @@
 <LM>w#w-mf930701-146-p7s1w6</LM>
 </w.rf>
 <form>Paradise</form>
-<tag><AM lemma="paradise_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Paradis" src="auto">NNIS6-----A----</AM>
-<AM lemma="Paradis_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Paradis_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Paradis_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Paradise" src="auto">NNFP1-----A----</AM>
-<AM lemma="Paradise" src="auto">NNFP4-----A----</AM>
-<AM lemma="Paradise" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Paradise" src="auto">NNFS2-----A----</AM>
-<AM lemma="paradise" src="auto">NNMS1-----A----</AM>
-<AM lemma="paradise-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="paradise_,t" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p7s1w7">
@@ -1093,16 +1058,7 @@
 <LM>w#w-mf930701-146-p7s1w14</LM>
 </w.rf>
 <form>Biebrza</form>
-<tag><AM lemma="Biebrza_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Biebrza" src="auto">NNFS1-----A----</AM>
-<AM lemma="Biebrzo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Biebrza_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Biebrza_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Biebrza_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Biebrza_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Biebrza_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Biebrzo_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="biebrza" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Biebrza_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p7s1w15">
@@ -1249,15 +1205,7 @@
 <LM>w#w-mf930701-146-p7s1w30</LM>
 </w.rf>
 <form>Duckula</form>
-<tag><AM lemma="Duckula_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Duckout" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Duckula_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Duckula" src="auto">NNFS1-----A----</AM>
-<AM lemma="Duckul_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Duckula_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Duckula_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Duckula_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="duckula" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Duckula_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p7s1w31">
@@ -1653,17 +1601,7 @@
 <LM>w#w-mf930701-146-p7s1w74</LM>
 </w.rf>
 <form>Paradise</form>
-<tag><AM lemma="paradise_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Paradis" src="auto">NNIS6-----A----</AM>
-<AM lemma="Paradis_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Paradis_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Paradis_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Paradise" src="auto">NNFP1-----A----</AM>
-<AM lemma="Paradise" src="auto">NNFP4-----A----</AM>
-<AM lemma="Paradise" src="auto">NNFS1-----A----</AM>
-<AM lemma="Paradise" src="auto">NNFS2-----A----</AM>
-<AM lemma="paradise" src="auto">NNMS1-----A----</AM>
-<AM lemma="paradise-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<tag><AM lemma="paradise_,t" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p7s1w75">

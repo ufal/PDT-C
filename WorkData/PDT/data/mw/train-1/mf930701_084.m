@@ -1454,15 +1454,7 @@
 <LM>w#w-mf930701-084-p5s4w18</LM>
 </w.rf>
 <form>erythropoetin</form>
-<tag><AM lemma="erythropoetin" src="orig">NNIS1-----A----</AM>
-<AM lemma="erythropoetina" src="auto">NNFP2-----A----</AM>
-<AM lemma="erythropoetin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="erythropoetin" src="auto">NNIS4-----A----</AM>
-<AM lemma="erythropoetin" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="erythropoetina" src="auto">CyFP2----------</AM>
-<AM lemma="erythropoetin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="erythropoetiny" src="auto">NNFP2-----A----</AM>
-<AM lemma="erythropoetina`80_^(*3)" src="auto">CyFP2----------</AM>
+<tag><AM lemma="erythropoetin" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-084-p5s4w19">

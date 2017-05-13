@@ -417,16 +417,7 @@
 <LM>w#w-mf930702-046-p2s1w43</LM>
 </w.rf>
 <form>Rappeneaua</form>
-<tag><AM lemma="Rappeneau_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Rappeneau_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Rappeneau_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rappeneaua_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rappeneauum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Rappeneauum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Rappeneauum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Rappeneaue_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rappeneaua_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rappeneaua" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rappeneau_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-046-p2s1w44">
@@ -700,15 +691,7 @@
 <LM>w#w-mf930702-046-p3s1w2</LM>
 </w.rf>
 <form>spa</form>
-<tag><AM lemma="spa-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="spa-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="spa" src="auto">NNFS1-----A----</AM>
-<AM lemma="spa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="spa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="sp_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="sp" src="auto">NNMS2-----A----</AM>
-<AM lemma="spo" src="auto">NNNS2-----A----</AM>
-<AM lemma="sp" src="auto">NNMS4-----A----</AM>
+<tag><AM lemma="spa-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-046-p3s1w3">
@@ -755,16 +738,7 @@
 <LM>w#w-mf930702-046-p4s1w4</LM>
 </w.rf>
 <form>Molièrovu</form>
-<tag><AM lemma="Molièrův_;S_^(*2e)" src="orig">AUFS4M---------</AM>
-<AM lemma="Molièrův_;S_^(*2)" src="auto" recommended="1">AUFS4M---------</AM>
-<AM lemma="Molièrův_^(*2)" src="auto">AUFS4M---------</AM>
-<AM lemma="Molièrův_;S_^(*2a)" src="auto">AUFS4M---------</AM>
-<AM lemma="Molièrova" src="auto">NNFS4-----A----</AM>
-<AM lemma="Molièrův_;S_^(*2)" src="auto">AUIS3M---------</AM>
-<AM lemma="Molièrov" src="auto">NNIS3-----A----</AM>
-<AM lemma="Molièrovo_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Molièrov_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="molièrovu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Molièrův_;S_^(*2e)" src="orig" selected="1">AUFS4M---------</AM>
 </tag>
 </m>
 <m id="m-mf930702-046-p4s1w5">
@@ -836,16 +810,7 @@
 <LM>w#w-mf930702-046-p4s1w12</LM>
 </w.rf>
 <form>Tonino</form>
-<tag><AM lemma="Tonino_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tonino_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tonino_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tonino" src="auto">NNNS4-----A----</AM>
-<AM lemma="Tonino" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tonin_^(*2a)" src="auto">AUNS4F---------</AM>
-<AM lemma="Tonin_;Y_^(*2a)" src="auto">AUNS4F---------</AM>
-<AM lemma="Tonin_;Y_^(*2a)" src="auto">AUNS1F---------</AM>
-<AM lemma="Tonin_;G_,t" src="auto">AANS1----1A----</AM>
-<AM lemma="tonino" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tonino_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-046-p4s1w13">
@@ -854,11 +819,7 @@
 <LM>w#w-mf930702-046-p4s1w13</LM>
 </w.rf>
 <form>Cervi</form>
-<tag><AM lemma="Cervi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cerev" src="auto">NNFS6-----A----</AM>
-<AM lemma="Cerv" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Cervi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="cervi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cervi_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-046-p4s1w14">
@@ -1318,15 +1279,7 @@
 <LM>w#w-mf930702-046-p5s1w2</LM>
 </w.rf>
 <form>zat</form>
-<tag><AM lemma="zat-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="zat" src="auto">Vf--------A----</AM>
-<AM lemma="zat-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="zat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="zat_:T_:W" src="auto">Vf--------A----</AM>
-<AM lemma="zat_:T_^(*4at)" src="auto">Vf--------A----</AM>
-<AM lemma="zat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="zat_^(např._provazem;_se_k_čemu)" src="auto">Vf--------A----</AM>
-<AM lemma="zatmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto">NNFXX-----A---8</AM>
+<tag><AM lemma="zat-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-046-p5s1w3">

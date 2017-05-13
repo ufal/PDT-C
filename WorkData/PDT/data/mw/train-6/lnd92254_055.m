@@ -59,17 +59,7 @@
 <LM>w#w-lnd92254-055-p3s1w1</LM>
 </w.rf>
 <form>SALÁHADDÍN</form>
-<tag><AM lemma="Saláhaddín_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Saláhaddín_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Saláhaddín_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Saláhaddín_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Saláhaddín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Saláhaddín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Saláhaddín" src="auto">NNIS1-----A----</AM>
-<AM lemma="Saláhaddín" src="auto">NNIS4-----A----</AM>
-<AM lemma="Saláhaddín" src="auto">NNMS1-----A----</AM>
-<AM lemma="Saláhaddína" src="auto">NNFP2-----A----</AM>
-<AM lemma="saláhaddín" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Saláhaddín_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-055-p3s1w2">
@@ -451,23 +441,7 @@
 <LM>w#w-lnd92254-055-p3s3w8</LM>
 </w.rf>
 <form>UPK</form>
-<tag><AM lemma="UPK_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="UPK_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Upedokomplex_:B_^(půdní_komplex)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="UPK_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UPK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UPK_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="UPK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UPK-1_:B_;K_^(Českosloven._obchodní_a_průmyslová_komora)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="UPK-1_:B_;G_^(Palác_kultury)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Upk-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Upk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Upk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Upk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Upk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Upk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Upk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="upk" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="UPK_:B_;K" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-055-p3s3w9">
@@ -840,16 +814,7 @@
 <LM>w#w-lnd92254-055-p3s5w22</LM>
 </w.rf>
 <form>Cukurca</form>
-<tag><AM lemma="Cukurca_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Cukurca_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Cukurc_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cukurca_;L_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Cukurca_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cukurca_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cukurca_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cukurco_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cukurc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="cukurca" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cukurca_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-055-p3s5w23">
@@ -885,11 +850,7 @@
 <LM>w#w-lnd92254-055-p3s5w26</LM>
 </w.rf>
 <form>Zakho</form>
-<tag><AM lemma="Zakho_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Zakho_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Zak" src="auto">AAIS2----1A----</AM>
-<AM lemma="Zak" src="auto">AANS2----1A----</AM>
-<AM lemma="zakho" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Zakho_;G" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-055-p3s5w27">

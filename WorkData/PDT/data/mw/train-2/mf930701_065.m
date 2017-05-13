@@ -48,16 +48,7 @@
 <LM>w#w-mf930701-065-p2s1w3</LM>
 </w.rf>
 <form>Serious</form>
-<tag><AM lemma="Serious_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Serious_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Serious_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Serious_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Serious_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Serious_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Serious_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Serious" src="auto">NNIS1-----A----</AM>
-<AM lemma="Serious" src="auto">NNIS4-----A----</AM>
-<AM lemma="serious" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Serious_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-065-p2s1w4">
@@ -322,16 +313,7 @@
 <LM>w#w-mf930701-065-p2s2w14</LM>
 </w.rf>
 <form>Iupiter</form>
-<tag><AM lemma="Iupiter_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Iupiter_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Iupiter_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Iupiter_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Iupiter" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Iupitro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Iupiter_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Iupiter" src="auto">NNIS4-----A----</AM>
-<AM lemma="Iupitrum" src="auto">NNNP2-----A----</AM>
-<AM lemma="iupiter" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Iupiter_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-065-p2s2w15">
@@ -549,18 +531,7 @@
 <LM>w#w-mf930701-065-p3s1w12</LM>
 </w.rf>
 <form>Masomlejnu</form>
-<tag><AM lemma="Masomlejn_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Masomlejen" src="auto">NNIS3-----A----</AM>
-<AM lemma="Masomlejen" src="auto">NNIS6-----A----</AM>
-<AM lemma="Masomlejn" src="auto">NNIS2-----A----</AM>
-<AM lemma="Masomlejn-2_,h_^(záře)" src="auto">NNIS2-----A----</AM>
-<AM lemma="Masomlejn_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Masomlejn_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Masomlejna" src="auto">NNFS4-----A----</AM>
-<AM lemma="Masomlejno" src="auto">NNNS6-----A---1</AM>
-<AM lemma="masomlejn_,h" src="auto">NNIS3-----A----</AM>
-<AM lemma="masomlejn_,h" src="auto">NNIS6-----A---1</AM>
-<AM lemma="masomlejnu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Masomlejn_;K" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-065-p3s1w13">
@@ -589,27 +560,7 @@
 <LM>w#w-mf930701-065-p3s2w1</LM>
 </w.rf>
 <form>Zon</form>
-<tag><AM lemma="Zon_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zon" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zon" src="auto">NNIS4-----A----</AM>
-<AM lemma="Zon_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Zon_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zon_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zon_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="zon" src="auto">NNIS1-----A----</AM>
-<AM lemma="zon" src="auto">NNIS4-----A----</AM>
-<AM lemma="zon" src="auto">NNMS1-----A----</AM>
-<AM lemma="zon-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="zon_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="zon_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="zon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="zon_^(n-tice)" src="auto">A2--------A----</AM>
-<AM lemma="zona" src="auto">NNFP2-----A----</AM>
-<AM lemma="zonádraží_:B" src="auto">NNNXX-----A---9</AM>
-<AM lemma="zonárodní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="zóna" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="Zon_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-065-p3s2w2">
@@ -618,27 +569,7 @@
 <LM>w#w-mf930701-065-p3s2w2</LM>
 </w.rf>
 <form>Zon</form>
-<tag><AM lemma="Zon_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zon" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zon" src="auto">NNIS4-----A----</AM>
-<AM lemma="Zon_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Zon_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zon_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zon_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="zon" src="auto">NNIS1-----A----</AM>
-<AM lemma="zon" src="auto">NNIS4-----A----</AM>
-<AM lemma="zon" src="auto">NNMS1-----A----</AM>
-<AM lemma="zon-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="zon_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="zon_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="zon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="zon_^(n-tice)" src="auto">A2--------A----</AM>
-<AM lemma="zona" src="auto">NNFP2-----A----</AM>
-<AM lemma="zonádraží_:B" src="auto">NNNXX-----A---9</AM>
-<AM lemma="zonárodní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="zóna" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="Zon_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-065-p3s2w3">

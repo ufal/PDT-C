@@ -1496,15 +1496,7 @@
 <LM>w#w-mf930703-137-p5s2w31</LM>
 </w.rf>
 <form>Jemison</form>
-<tag><AM lemma="Jemison_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jemison_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Jemison_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jemison_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jemison_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jemison" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jemison_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jemison_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="jemison" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Jemison_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-137-p5s2w32">
@@ -1896,16 +1888,7 @@
 <LM>w#w-mf930703-137-p7s1w4</LM>
 </w.rf>
 <form>Jemisona</form>
-<tag><AM lemma="Jemison_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Jemison_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Jemison_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Jemisona" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jemison_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Jemison" src="auto">NNMS2-----A----</AM>
-<AM lemma="Jemisona_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jemisona_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Jemisona_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="jemisona" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Jemison_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-137-p7s1w5">

@@ -2407,16 +2407,7 @@
 <LM>w#w-lnd92257-060-p5s4w1</LM>
 </w.rf>
 <form>Zárověň</form>
-<tag><AM lemma="zároveň" src="orig">Db-------------</AM>
-<AM lemma="Zároveň" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="Zárověň" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zárověň" src="auto">NNFS4-----A----</AM>
-<AM lemma="Zárověň_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zárověň_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zárověň" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zárověnout" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Zárověň_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="zárověň" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="zároveň" src="orig" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-060-p5s4w2">

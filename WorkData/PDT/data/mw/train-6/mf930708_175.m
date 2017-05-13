@@ -787,15 +787,7 @@
 <LM>w#w-mf930708-175-p4s1w4</LM>
 </w.rf>
 <form>Tengiz</form>
-<tag><AM lemma="Tengiz_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tengizstán_:B_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="Tengiz_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tengiz_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tengíza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tengizozemí_:B_;G" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Tengiza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tengiz_;Y_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="tengiz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tengiz_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-175-p4s1w5">
@@ -804,16 +796,7 @@
 <LM>w#w-mf930708-175-p4s1w5</LM>
 </w.rf>
 <form>Sigua</form>
-<tag><AM lemma="Sigua_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sigua_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sigua_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sigu_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sigu_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Siguum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Siguum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Siguum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Sigue_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="sigua" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sigua_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-175-p4s1w6">

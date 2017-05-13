@@ -149,15 +149,7 @@
 <LM>w#w-lnd92255-054-p3s1w3</LM>
 </w.rf>
 <form>nel</form>
-<tag><AM lemma="nel-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="nel_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="nel" src="auto">NNIS4-----A----</AM>
-<AM lemma="nel" src="auto">NNIS1-----A----</AM>
-<AM lemma="nel_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="nel_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="nel_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="nel-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="nel" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="nel-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-054-p3s1w4">

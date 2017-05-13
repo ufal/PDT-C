@@ -232,16 +232,7 @@
 <LM>w#w-mf930703-024-p3s1w15</LM>
 </w.rf>
 <form>Heidelberger</form>
-<tag><AM lemma="Heidelberger_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Heidelberger_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Heidelberger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Heidelberger_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Heidelberžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Heidelberger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Heidelberger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Heidelberger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Heidelberger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="heidelberger" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Heidelberger_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-024-p3s1w16">
@@ -250,16 +241,7 @@
 <LM>w#w-mf930703-024-p3s1w16</LM>
 </w.rf>
 <form>Milchkosmetik</form>
-<tag><AM lemma="Milchkosmetik_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Milchkosmetik" src="auto">NNMS1-----A----</AM>
-<AM lemma="Milchkosmetika" src="auto">NNFP2-----A----</AM>
-<AM lemma="Milchkosmetikum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Milchkosmetika_^(věda)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Milchkosmetikum_;U" src="auto">NNNP2-----A----</AM>
-<AM lemma="Milchkosmetika-1_^(způsob)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Milchkosmetik_;R_^(vozidlo)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Milchkosmetik_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="milchkosmetik" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Milchkosmetik_;K_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-024-p3s1w17">

@@ -302,24 +302,7 @@
 <LM>w#w-lnd92258-082-p1s3w4</LM>
 </w.rf>
 <form>TKSR</form>
-<tag><AM lemma="TKSR_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TKSR_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="TKSR_:B_^(Jugoslávská_svazová_republika)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TKSR_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TKSR_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TKSR_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="TKSR_:B_;G_^(Svaz_sov._socialist._republik)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TKSR_:B_;G" src="auto">NNFSX-----A---8</AM>
-<AM lemma="TKSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Tksr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tksr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tksr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tksr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tksr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tksr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tksra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tksr_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="tksr" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="TKSR_:B_;K" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 </s>

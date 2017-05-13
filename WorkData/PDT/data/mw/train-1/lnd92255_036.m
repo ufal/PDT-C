@@ -219,15 +219,7 @@
 <LM>w#w-lnd92255-036-p2s1w7</LM>
 </w.rf>
 <form>nel</form>
-<tag><AM lemma="nel-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="nel_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="nel" src="auto">NNIS4-----A----</AM>
-<AM lemma="nel" src="auto">NNIS1-----A----</AM>
-<AM lemma="nel_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="nel_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="nel_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="nel-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="nel" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="nel-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-036-p2s1w8">
@@ -245,13 +237,7 @@
 <LM>w#w-lnd92255-036-p2s1w9</LM>
 </w.rf>
 <form>čstk</form>
-<tag><AM lemma="čstk_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="čstk_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="čstk-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="čstk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="čstk" src="auto">NNIS1-----A----</AM>
-<AM lemma="čstk" src="auto">NNIS4-----A----</AM>
-<AM lemma="čstk" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="čstk_:B_;K" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-036-p2s1w10">
@@ -559,15 +545,7 @@
 <LM>w#w-lnd92255-036-p2s2w10</LM>
 </w.rf>
 <form>Júliuse</form>
-<tag><AM lemma="Július_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Július_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Július" src="auto">NNIS6-----A----</AM>
-<AM lemma="Július_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Július_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Júliuse_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Júliuse_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Júliuse" src="auto">NNFP1-----A----</AM>
-<AM lemma="júliuse" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Július_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-036-p2s2w11">
@@ -1296,15 +1274,7 @@
 <LM>w#w-lnd92255-036-p3s3w22</LM>
 </w.rf>
 <form>Dunakiliti</form>
-<tag><AM lemma="Dunakiliti_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Dunakilit_:W" src="auto">Vf--------A---2</AM>
-<AM lemma="Dunakilít" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Dunakilit_:T" src="auto">Vf--------A---2</AM>
-<AM lemma="Dunakiliti_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="dunakilit-2_:W" src="auto">Vf--------A---2</AM>
-<AM lemma="Dunakilit" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Dunakiliti_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="dunakiliti" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Dunakiliti_;G" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-036-p3s3w23">

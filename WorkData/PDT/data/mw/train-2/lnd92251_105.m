@@ -1743,12 +1743,7 @@
 <LM>w#w-lnd92251-105-p10s6w1</LM>
 </w.rf>
 <form>Madový</form>
-<tag><AM lemma="Madový_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Madový" src="auto">AAIS1----1A----</AM>
-<AM lemma="Madový" src="auto">AAIS4----1A----</AM>
-<AM lemma="Madový" src="auto">AAMS1----1A----</AM>
-<AM lemma="Madový_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="madový" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Madový_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-105-p10s6w2">
@@ -2670,19 +2665,7 @@
 <LM>w#w-lnd92251-105-p14s7w1</LM>
 </w.rf>
 <form>Paveza</form>
-<tag><AM lemma="Paveza_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Impreza_;R_^(automobil_Subaru_Paveza)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Paveza" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Paveza_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Paveza_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paveza_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Paveza_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pavezo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Pavezo_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="paveza" src="auto">NNMS1-----A----</AM>
-<AM lemma="paveza-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="paveza-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="pavezakciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="Paveza_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-105-p14s7w2">

@@ -2867,18 +2867,7 @@
 <LM>w#w-lnd92257-039-p6s1w30</LM>
 </w.rf>
 <form>Defence</form>
-<tag><AM lemma="defence_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Defence" src="auto">NNFP1-----A----</AM>
-<AM lemma="Defence" src="auto">NNFP4-----A----</AM>
-<AM lemma="Defence" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Defence" src="auto">NNFS2-----A----</AM>
-<AM lemma="Defenec" src="auto">NNMP4-----A----</AM>
-<AM lemma="Defenec" src="auto">NNMS2-----A----</AM>
-<AM lemma="Defenka" src="auto">NNFS3-----A----</AM>
-<AM lemma="Defenka" src="auto">NNFS6-----A----</AM>
-<AM lemma="defence" src="auto">NNMS1-----A----</AM>
-<AM lemma="defenka" src="auto">NNFS3-----A----</AM>
-<AM lemma="defenka" src="auto">NNFS6-----A----</AM>
+<tag><AM lemma="defence_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p6s1w31">
@@ -2887,16 +2876,7 @@
 <LM>w#w-lnd92257-039-p6s1w31</LM>
 </w.rf>
 <form>Policy</form>
-<tag><AM lemma="policy_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Policy_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Policy_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Policy_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Policy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Policy_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Polica_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Polica_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Polic_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="policy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="policy_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p6s1w32">
@@ -2905,16 +2885,7 @@
 <LM>w#w-lnd92257-039-p6s1w32</LM>
 </w.rf>
 <form>Guidance</form>
-<tag><AM lemma="guidance_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Guidance" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Guidance" src="auto">NNFS2-----A----</AM>
-<AM lemma="Guidance" src="auto">NNFP1-----A----</AM>
-<AM lemma="Guidanec" src="auto">NNMP4-----A----</AM>
-<AM lemma="Guidanka" src="auto">NNFS6-----A----</AM>
-<AM lemma="Guidanka" src="auto">NNFS3-----A----</AM>
-<AM lemma="Guidance" src="auto">NNFP4-----A----</AM>
-<AM lemma="Guidanec" src="auto">NNMS2-----A----</AM>
-<AM lemma="guidance" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="guidance_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p6s1w33">
@@ -6065,14 +6036,7 @@
 <LM>w#w-lnd92257-039-p8s6w3</LM>
 </w.rf>
 <form>mnohopolaritě</form>
-<tag><AM lemma="mnohopolarita" src="orig">NNFS3-----A----</AM>
-<AM lemma="mnohopolarit" src="auto">NNFP1-----A----</AM>
-<AM lemma="mnohopolarita" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="mnohopolarita" src="auto">NNFS6-----A----</AM>
-<AM lemma="mnohopolarito" src="auto">NNNS6-----A----</AM>
-<AM lemma="mnohopolaritě" src="auto">NNNS1-----A----</AM>
-<AM lemma="mnohopolaritě_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="mnohopolariť_,t" src="auto">Vi-P---2--A----</AM>
+<tag><AM lemma="mnohopolarita" src="orig" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p8s6w4">
@@ -7803,14 +7767,7 @@
 <LM>w#w-lnd92257-039-p9s1w11</LM>
 </w.rf>
 <form>mnohopolaritě</form>
-<tag><AM lemma="mnohopolarita" src="orig">NNFS3-----A----</AM>
-<AM lemma="mnohopolarit" src="auto">NNFP1-----A----</AM>
-<AM lemma="mnohopolarita" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="mnohopolarita" src="auto">NNFS6-----A----</AM>
-<AM lemma="mnohopolarito" src="auto">NNNS6-----A----</AM>
-<AM lemma="mnohopolaritě" src="auto">NNNS1-----A----</AM>
-<AM lemma="mnohopolaritě_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="mnohopolariť_,t" src="auto">Vi-P---2--A----</AM>
+<tag><AM lemma="mnohopolarita" src="orig" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p9s1w12">
@@ -7965,24 +7922,7 @@
 <LM>w#w-lnd92257-039-p9s2w7</LM>
 </w.rf>
 <form>DGP</form>
-<tag><AM lemma="DPG-2_:B_,t_^(Defence_Policy_Guidance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DPG-2_:B_,t_^(Defence_Policy_Guidance)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="DGP_:B_;m_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DGP_:B_;K_^(Grand_Prix)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DGP_:B_;K_^(Grand_Prix)" src="auto">NNFXX-----A----</AM>
-<AM lemma="DGP-3_:B_;K_,t_^(rakouská_firma)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DGP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DGP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DGP_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Dgp" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dgp" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dgp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dgp-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Dgp" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dgp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dgp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dgpa" src="auto">NNFP2-----A----</AM>
-<AM lemma="dgp" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="DPG-2_:B_,t_^(Defence_Policy_Guidance)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p9s2w8">
@@ -8527,24 +8467,7 @@
 <LM>w#w-lnd92257-039-p9s4w3</LM>
 </w.rf>
 <form>DGP</form>
-<tag><AM lemma="DPG-2_:B_,t_^(Defence_Policy_Guidance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DPG-2_:B_,t_^(Defence_Policy_Guidance)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="DGP_:B_;m_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DGP_:B_;K_^(Grand_Prix)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DGP_:B_;K_^(Grand_Prix)" src="auto">NNFXX-----A----</AM>
-<AM lemma="DGP-3_:B_;K_,t_^(rakouská_firma)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DGP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DGP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DGP_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Dgp" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dgp" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dgp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dgp-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Dgp" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dgp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dgp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dgpa" src="auto">NNFP2-----A----</AM>
-<AM lemma="dgp" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="DPG-2_:B_,t_^(Defence_Policy_Guidance)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p9s4w4">

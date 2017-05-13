@@ -6220,15 +6220,7 @@
 <LM>w#w-lnd92258-108-p9s4w8</LM>
 </w.rf>
 <form>Health</form>
-<tag><AM lemma="Health_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Health_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Health_;K_^(letoun)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Health_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Health_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Health_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Health_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sabbath_;K_;u_,t_^(z_názvu_skupiny_Black_Health)" src="auto">NNFXX-----A----</AM>
-<AM lemma="health" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Health_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-108-p9s4w9">
@@ -6237,16 +6229,7 @@
 <LM>w#w-lnd92258-108-p9s4w9</LM>
 </w.rf>
 <form>Maintenance</form>
-<tag><AM lemma="Maintenance_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Maintenance" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Maintenance" src="auto">NNFS2-----A----</AM>
-<AM lemma="Maintenance" src="auto">NNFP1-----A----</AM>
-<AM lemma="Maintenanec" src="auto">NNMP4-----A----</AM>
-<AM lemma="Maintenanka" src="auto">NNFS6-----A----</AM>
-<AM lemma="Maintenanka" src="auto">NNFS3-----A----</AM>
-<AM lemma="Maintenance" src="auto">NNFP4-----A----</AM>
-<AM lemma="Maintenanec" src="auto">NNMS2-----A----</AM>
-<AM lemma="maintenance" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Maintenance_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-108-p9s4w10">
@@ -6255,16 +6238,7 @@
 <LM>w#w-lnd92258-108-p9s4w10</LM>
 </w.rf>
 <form>Organizations</form>
-<tag><AM lemma="Organization_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Organization_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Organization_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Organizations_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Organization_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Organizations_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Organization_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Organization_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Organization_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="organizations" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Organization_,t" src="orig" selected="1">NNFPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-108-p9s4w11">
@@ -6282,22 +6256,7 @@
 <LM>w#w-lnd92258-108-p9s4w12</LM>
 </w.rf>
 <form>HMO</form>
-<tag><AM lemma="HMO_:B_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="HMO_:B_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="HMO_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="HMO-1_:B_;K_^(Státní_ústav_pro_rekonstr._památ._měst..)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A----</AM>
-<AM lemma="HMO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HMO_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HMO_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Hmo" src="auto">Db-------------</AM>
-<AM lemma="Hmo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Hmo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Hmo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Hmo" src="auto">Dg-------1A----</AM>
-<AM lemma="Hmo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="známý-2_^(co_Hme)" src="auto">ACNS------A----</AM>
-<AM lemma="hmo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="HMO_:B_,t" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-108-p9s4w13">
@@ -6933,22 +6892,7 @@
 <LM>w#w-lnd92258-108-p9s7w31</LM>
 </w.rf>
 <form>HMO</form>
-<tag><AM lemma="HMO_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="HMO_:B_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="HMO_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="HMO-1_:B_;K_^(Státní_ústav_pro_rekonstr._památ._měst..)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A----</AM>
-<AM lemma="HMO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HMO_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HMO_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Hmo" src="auto">Db-------------</AM>
-<AM lemma="Hmo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Hmo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Hmo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Hmo" src="auto">Dg-------1A----</AM>
-<AM lemma="Hmo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="známý-2_^(co_Hme)" src="auto">ACNS------A----</AM>
-<AM lemma="hmo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="HMO_:B" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-108-p9s7w32">

@@ -37,21 +37,7 @@
 <LM>w#w-lnd92255-063-p1s1w3</LM>
 </w.rf>
 <form>SHATWELL</form>
-<tag><AM lemma="Shatwell_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Shatwell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="SHATWELL_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SHATWELL_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SHATWELL_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SHATWELL_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Shatwell_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shatwell_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Shatwell_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Shatwell_;R_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Shatwell_;K" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shatwell_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Shatwell_,t" src="auto">RR--X----------</AM>
-<AM lemma="Shatwell_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="shatwell" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Shatwell_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-063-p1s1w4">
@@ -222,16 +208,7 @@
 <LM>w#w-lnd92255-063-p1s1w22</LM>
 </w.rf>
 <form>Parengarenge</form>
-<tag><AM lemma="Parengarenge_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Parengarenge_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Parengarenge_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Parengarenge_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Parengarenge_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Parengarenge_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Parengarenge_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Parengarenge_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Parengarenge_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="parengarenge" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Parengarenge_;G" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-063-p1s1w23">

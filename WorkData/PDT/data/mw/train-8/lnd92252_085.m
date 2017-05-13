@@ -1295,16 +1295,7 @@
 <LM>w#w-lnd92252-085-p3s6w23</LM>
 </w.rf>
 <form>Sportprojektu</form>
-<tag><AM lemma="Sportprojekt_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Sportprojekt" src="auto">NNIS2-----A----</AM>
-<AM lemma="Sportprojekt" src="auto">NNIS6-----A----</AM>
-<AM lemma="Sportprojekt" src="auto">NNIS3-----A----</AM>
-<AM lemma="Sportprojekt_^(čin;;obraz_nahého_těla)" src="auto">NNIS6-----A----</AM>
-<AM lemma="Sportprojekt_^(čin;;obraz_nahého_těla)" src="auto">NNIS3-----A----</AM>
-<AM lemma="Sportprojekt_^(čin;;obraz_nahého_těla)" src="auto">NNIS2-----A----</AM>
-<AM lemma="Sportprojekt_;R_^(časopis)" src="auto">NNIS2-----A----</AM>
-<AM lemma="Sportprojekt_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="sportprojektu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sportprojekt_;K" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-085-p3s6w24">
@@ -1604,15 +1595,7 @@
 <LM>w#w-lnd92252-085-p4s1w32</LM>
 </w.rf>
 <form>skatingring</form>
-<tag><AM lemma="skatingring" src="orig">NNIS1-----A----</AM>
-<AM lemma="skatingring_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="skatingring" src="auto">NNIS4-----A----</AM>
-<AM lemma="skatingring_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="skatingring" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="skatingring_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="skatingring_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="skatingring_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="skatingring_;G" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="skatingring" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-085-p4s1w33">

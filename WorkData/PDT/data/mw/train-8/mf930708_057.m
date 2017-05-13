@@ -365,16 +365,7 @@
 <LM>w#w-mf930708-057-p3s1w6</LM>
 </w.rf>
 <form>Dršťáková</form>
-<tag><AM lemma="Dršťáková_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Dršťáková_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Dršťákový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Dršťákový" src="auto">AANP1----1A----</AM>
-<AM lemma="Dršťákový" src="auto">AANP4----1A----</AM>
-<AM lemma="Dršťáková_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dršťáková_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dršťákový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Dršťákový" src="auto">AAFS5----1A----</AM>
-<AM lemma="dršťáková" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Dršťáková_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-057-p3s1w7">
@@ -410,15 +401,7 @@
 <LM>w#w-mf930708-057-p3s1w10</LM>
 </w.rf>
 <form>life</form>
-<tag><AM lemma="life_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="life_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="life_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="life_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="life_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="life_;K" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="life_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="life_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="life_,t" src="auto">NNIXX-----A----</AM>
+<tag><AM lemma="life_;K" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-057-p3s1w11">
@@ -1483,15 +1466,7 @@
 <LM>w#w-mf930708-057-p4s7w7</LM>
 </w.rf>
 <form>life</form>
-<tag><AM lemma="life_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="life_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="life_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="life_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="life_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="life_;K" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="life_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="life_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="life_,t" src="auto">NNIXX-----A----</AM>
+<tag><AM lemma="life_;K" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-057-p4s7w8">

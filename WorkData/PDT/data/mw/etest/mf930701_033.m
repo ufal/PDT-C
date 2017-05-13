@@ -75,15 +75,7 @@
 <LM>w#w-mf930701-033-p2s1w3</LM>
 </w.rf>
 <form>rů</form>
-<tag><AM lemma="rů-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="r" src="auto">NNIP2-----A----</AM>
-<AM lemma="r" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="r_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="r_;Y" src="auto">NNMP2-----A----</AM>
-<AM lemma="ry" src="auto">NNIP2-----A----</AM>
-<AM lemma="r_;S" src="auto">NNMP2-----A----</AM>
-<AM lemma="r_;H" src="auto">NNIP2-----A----</AM>
-<AM lemma="r_,t" src="auto">NNMP2-----A----</AM>
+<tag><AM lemma="rů-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-033-p2s1w4">

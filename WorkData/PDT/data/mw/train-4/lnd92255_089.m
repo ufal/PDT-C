@@ -268,16 +268,7 @@
 <LM>w#w-lnd92255-089-p1s1w28</LM>
 </w.rf>
 <form>Games</form>
-<tag><AM lemma="game_;R_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Games_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="game_;R_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Games)" src="auto">NNIPX-----A----</AM>
-<AM lemma="Game_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Game_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Game_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Games_;m_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Games_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="games" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="game_;R_,t" src="orig" selected="1">NNFPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-089-p1s1w29">
@@ -1069,16 +1060,7 @@
 <LM>w#w-lnd92255-089-p1s5w5</LM>
 </w.rf>
 <form>Noyce</form>
-<tag><AM lemma="Noyce_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Noyka" src="auto">NNFS6-----A----</AM>
-<AM lemma="Noyce_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Noyc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Noyk" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Noyce_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Noyce_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Noyce" src="auto">NNFS1-----A----</AM>
-<AM lemma="Noyce" src="auto">NNFS2-----A----</AM>
-<AM lemma="noyce" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Noyce_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-089-p1s5w6">

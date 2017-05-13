@@ -1485,23 +1485,7 @@
 <LM>w#w-mf930701-027-p18s1w4</LM>
 </w.rf>
 <form>XEU</form>
-<tag><AM lemma="XEU_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="XEU_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="XEU_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="XEU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="XEU_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="XEU_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="XEU-1_:B_;K_;p_^(Evropská_Unie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="XEU" src="auto">NNFS1-----A----</AM>
-<AM lemma="Xea" src="auto">NNFS4-----A----</AM>
-<AM lemma="Xeum" src="auto">NNNS6-----A----</AM>
-<AM lemma="Xeum" src="auto">NNNS3-----A----</AM>
-<AM lemma="Xeu_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Xeu_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Xeo_;K_;R_^(vozidlo)" src="auto">NNNS6-----A----</AM>
-<AM lemma="Xeo-1" src="auto">NNNS6-----A----</AM>
-<AM lemma="Xeo-1" src="auto">NNNS3-----A----</AM>
-<AM lemma="xeu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="XEU_:B" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-027-p18s1w5">
@@ -1578,20 +1562,7 @@
 <LM>w#w-mf930701-027-p19s1w2</LM>
 </w.rf>
 <form>XCU</form>
-<tag><AM lemma="XCU_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="XCU_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="XCU_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="XCU_:B_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="XCU_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="XCU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="XCU_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="Xcu_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Xc" src="auto">NNIS2-----A----</AM>
-<AM lemma="Xc_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Xc_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Xca_;R_,t" src="auto">NNFS4-----A----</AM>
-<AM lemma="Xca_;G" src="auto">NNFS4-----A---1</AM>
-<AM lemma="xcu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="XCU_:B" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-027-p19s1w3">
@@ -1666,20 +1637,7 @@
 <LM>w#w-mf930701-027-p20s1w2</LM>
 </w.rf>
 <form>XCU</form>
-<tag><AM lemma="XCU_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="XCU_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="XCU_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="XCU_:B_;b" src="auto">NNFXX-----A---8</AM>
-<AM lemma="XCU_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="XCU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="XCU_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="Xcu_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Xc" src="auto">NNIS2-----A----</AM>
-<AM lemma="Xc_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Xc_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Xca_;R_,t" src="auto">NNFS4-----A----</AM>
-<AM lemma="Xca_;G" src="auto">NNFS4-----A---1</AM>
-<AM lemma="xcu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="XCU_:B" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-027-p20s1w3">

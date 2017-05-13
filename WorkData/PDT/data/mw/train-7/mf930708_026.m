@@ -385,16 +385,7 @@
 <LM>w#w-mf930708-026-p2s3w7</LM>
 </w.rf>
 <form>Lenger</form>
-<tag><AM lemma="Lenger_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lenger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lenger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lenger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lenžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lenger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Lenger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lenger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lenger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="lenger" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lenger_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-026-p2s3w8">
@@ -2168,24 +2159,7 @@
 <LM>w#w-mf930708-026-p6s3w29</LM>
 </w.rf>
 <form>PSIPS</form>
-<tag><AM lemma="PSIPS_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="PSIPS_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="PSIPS_;R" src="auto">NNXXX-----A----</AM>
-<AM lemma="PSIPS_:B_;K" src="auto">NNFPX-----A---8</AM>
-<AM lemma="PSIPS_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PSIPS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PSIPS-4_:B_;K_,t_^(Algérie_Presse_Service)" src="auto">NNFXX-----A----</AM>
-<AM lemma="PSIPS-3_:B_;K_^(Přerovské_strojírny)" src="auto">NNFPX-----A---8</AM>
-<AM lemma="PSIPS-2_:B_^(Závody_přesného_strojírenství)" src="auto">NNIPX-----A---8</AM>
-<AM lemma="Psip_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Psips_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Psips_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Psips_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Psips_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Psips_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Psips_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Psips-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="psips" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="PSIPS_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-026-p6s3w30">

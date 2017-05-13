@@ -74,16 +74,7 @@
 <LM>w#w-mf930701-066-p1s1w6</LM>
 </w.rf>
 <form>Peyjalero</form>
-<tag><AM lemma="Peyjalero_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Peyjalero" src="auto">NNNS1-----A----</AM>
-<AM lemma="Peyjalero_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Peyjalero_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Peyjalero_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Peyjalero" src="auto">NNNS4-----A----</AM>
-<AM lemma="Peyjalero_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Peyjalero_;R_^(Mitsubishi_P.,_terénní_vozidlo)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Peyjalero_;K_^(letecká_továrna)" src="auto">NNNS4-----A----</AM>
-<AM lemma="peyjalero" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Peyjalero_;K" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-066-p1s1w7">

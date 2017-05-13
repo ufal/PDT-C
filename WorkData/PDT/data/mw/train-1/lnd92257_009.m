@@ -1980,15 +1980,7 @@
 <LM>w#w-lnd92257-009-p3s5w21</LM>
 </w.rf>
 <form>Paniće</form>
-<tag><AM lemma="Panić_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Panić_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Panič_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Panić_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Panić_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Paniće" src="auto">NNFS2-----A----</AM>
-<AM lemma="Paniće" src="auto">NNFS1-----A----</AM>
-<AM lemma="Paniće" src="auto">NNFP1-----A----</AM>
-<AM lemma="paniće" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Panić_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-009-p3s5w22">
@@ -2006,15 +1998,7 @@
 <LM>w#w-lnd92257-009-p3s5w23</LM>
 </w.rf>
 <form>Čosiće</form>
-<tag><AM lemma="Čosić_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Čosić_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Čosič_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Čosić_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Čosić_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Čosiće" src="auto">NNFS2-----A----</AM>
-<AM lemma="Čosiće" src="auto">NNFS1-----A----</AM>
-<AM lemma="Čosiće" src="auto">NNFP1-----A----</AM>
-<AM lemma="čosiće" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Čosić_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-009-p3s5w24">

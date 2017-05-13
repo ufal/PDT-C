@@ -39,16 +39,7 @@
 <LM>w#w-lnd92259-018-p2s1w1</LM>
 </w.rf>
 <form>Pragoterm</form>
-<tag><AM lemma="Pragoterm_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Pragoterm_;m" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Pragoterm_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pragoterm_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pragoterm" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pragoterm_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pragoterm" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pragoterm_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pragoterm_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pragoterm" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pragoterm_;m" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-018-p2s1w2">
@@ -191,22 +182,7 @@
 <LM>w#w-lnd92259-018-p3s2w9</LM>
 </w.rf>
 <form>PRAGOTERM</form>
-<tag><AM lemma="Pragoterm_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="PRAGOTERM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="RM_:B_;K_;b_^(PRAGOTERM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="PRAGOTERM_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PRAGOTERM_:B_;K_,t" src="auto">NNNXX-----A---8</AM>
-<AM lemma="PRAGOTERM_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PRAGOTERM_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Pragoterm_;m" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Pragoterm_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pragoterm_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pragoterm" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pragoterm_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pragoterm" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pragoterm_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pragoterm_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pragoterm" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pragoterm_;m" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-018-p3s2w10">
@@ -1068,16 +1044,7 @@
 <LM>w#w-lnd92259-018-p3s5w2</LM>
 </w.rf>
 <form>Pragoterm</form>
-<tag><AM lemma="Pragoterm_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Pragoterm_;m" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Pragoterm_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pragoterm_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pragoterm" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pragoterm_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pragoterm" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pragoterm_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pragoterm_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pragoterm" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pragoterm_;m" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-018-p3s5w3">

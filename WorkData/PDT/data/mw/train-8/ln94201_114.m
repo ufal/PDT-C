@@ -414,15 +414,7 @@
 <LM>w#w-ln94201-114-p3s2w10</LM>
 </w.rf>
 <form>gotickohororových</form>
-<tag><AM lemma="gotickohororový" src="orig">AAIP2----1A----</AM>
-<AM lemma="gotickohororový" src="auto">AAFP2----1A----</AM>
-<AM lemma="gotickohororový" src="auto" recommended="1">AAIP2----1A----</AM>
-<AM lemma="gotickohororový" src="auto">AAFP6----1A----</AM>
-<AM lemma="gotickohororový" src="auto">AAMP2----1A----</AM>
-<AM lemma="gotickohororový" src="auto">AANP2----1A----</AM>
-<AM lemma="gotickohororový" src="auto">AAIP6----1A----</AM>
-<AM lemma="gotickohororový_^(*2t)" src="auto">AAIP2----1A----</AM>
-<AM lemma="gotickohororový_^(*2t)" src="auto">AAFP2----1A----</AM>
+<tag><AM lemma="gotickohororový" src="orig" selected="1">AAIP2----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-114-p3s2w11">

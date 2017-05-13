@@ -470,13 +470,7 @@
 <LM>w#w-lnd92251-100-p3s4w11</LM>
 </w.rf>
 <form>definitívně</form>
-<tag><AM lemma="definitívně" src="orig">Dg-------1A----</AM>
-<AM lemma="definitívně_^(*1í)" src="auto">Dg-------1A----</AM>
-<AM lemma="definitívně_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="definitívna" src="auto">NNFS6-----A----</AM>
-<AM lemma="definitívna" src="auto">NNFS3-----A----</AM>
-<AM lemma="definitívně" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="definitíveň" src="auto">NNFS2-----A----</AM>
+<tag><AM lemma="definitívně" src="orig" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-100-p3s4w12">
@@ -1018,16 +1012,7 @@
 <LM>w#w-lnd92251-100-p5s6w4</LM>
 </w.rf>
 <form>Lauff</form>
-<tag><AM lemma="Lauff_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lauff_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lauff" src="auto">II-------------</AM>
-<AM lemma="Lauff_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lauff_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lauff_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lauff_;R_^(vodka)" src="auto">NNFSX-----A----</AM>
-<AM lemma="Lauff_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lauff-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="auto">TT-------------</AM>
-<AM lemma="lauff" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lauff_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-100-p5s6w5">
@@ -1560,12 +1545,7 @@
 <LM>w#w-lnd92251-100-p7s6w1</LM>
 </w.rf>
 <form>Madový</form>
-<tag><AM lemma="Madový_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Madový" src="auto">AAIS1----1A----</AM>
-<AM lemma="Madový" src="auto">AAIS4----1A----</AM>
-<AM lemma="Madový" src="auto">AAMS1----1A----</AM>
-<AM lemma="Madový_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="madový" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Madový_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-100-p7s6w2">

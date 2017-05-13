@@ -1143,13 +1143,7 @@
 <LM>w#w-ln94201-49-p4s1w4</LM>
 </w.rf>
 <form>Izetbegović</form>
-<tag><AM lemma="Izetbegović_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Izetbegović_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Izetbegovič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Izetbegović_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Izetbegovič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Izetbegović_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="izetbegović" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Izetbegović_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1223,15 +1217,7 @@
 <LM>w#w-ln94201-49-p4s2w8</LM>
 </w.rf>
 <form>Stülpnagela</form>
-<tag><AM lemma="Stülpnagel_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Stülpnaget_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Stülpnaget" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Stülpnagel_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Stülpnagel_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Stülpnagela_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stülpnagela" src="auto">NNFS1-----A----</AM>
-<AM lemma="Stülpnagít" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="stülpnagela" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Stülpnagel_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-49-p4s2w9">
@@ -1285,15 +1271,7 @@
 <LM>w#w-ln94201-49-p4s2w15</LM>
 </w.rf>
 <form>Bihaće</form>
-<tag><AM lemma="Bihać_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Bihać_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Bihać_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bihač_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bihać_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bihaće" src="auto">NNFS2-----A----</AM>
-<AM lemma="Bihaće" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bihaće" src="auto">NNFP1-----A----</AM>
-<AM lemma="bihaće" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bihać_;G" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-49-p4s2w16">
@@ -1419,15 +1397,7 @@
 <LM>w#w-ln94201-49-p4s2w29</LM>
 </w.rf>
 <form>Bihaće</form>
-<tag><AM lemma="Bihać_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Bihać_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Bihać_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bihač_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bihać_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bihaće" src="auto">NNFS2-----A----</AM>
-<AM lemma="Bihaće" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bihaće" src="auto">NNFP1-----A----</AM>
-<AM lemma="bihaće" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bihać_;G" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-49-p4s2w30">
@@ -1675,15 +1645,7 @@
 <LM>w#w-ln94201-49-p5s1w16</LM>
 </w.rf>
 <form>Turanj</form>
-<tag><AM lemma="Turanj_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Turanj_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Turanjekce_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Turanj" src="auto">NNIS1-----A----</AM>
-<AM lemma="Turanj" src="auto">NNIS4-----A----</AM>
-<AM lemma="Turanj_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Turanj_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Turanj" src="auto">NNFS4-----A----</AM>
-<AM lemma="turanj" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Turanj_;G" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-49-p5s1w17">

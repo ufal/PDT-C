@@ -28,16 +28,7 @@
 <LM>w#w-mf930701-050-p1s1w2</LM>
 </w.rf>
 <form>Cicoň</form>
-<tag><AM lemma="Cicoň_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cicoň_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cicoň_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cicoň_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cicoň-1" src="auto">Db-------------</AM>
-<AM lemma="Cicoň_;L" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cicoň_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cicoň_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Cicoň" src="auto">NNMS1-----A----</AM>
-<AM lemma="cicoň" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cicoň_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-050-p1s1w3">

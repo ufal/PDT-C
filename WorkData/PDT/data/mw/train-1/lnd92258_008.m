@@ -487,15 +487,7 @@
 <LM>w#w-lnd92258-008-p3s2w44</LM>
 </w.rf>
 <form>Nyáradi</form>
-<tag><AM lemma="Nyáradi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nyárad" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Nyárad" src="auto">NNMP1-----A----</AM>
-<AM lemma="Nyáradi_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Nyáradi_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nyáradi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nyáraď" src="auto">NNFS6-----A----</AM>
-<AM lemma="Nyáraď" src="auto">NNFS3-----A----</AM>
-<AM lemma="nyáradi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nyáradi_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-008-p3s2w45">

@@ -1807,15 +1807,7 @@
 <LM>w#w-mf930703-052-p3s6w12</LM>
 </w.rf>
 <form>antizemanovců</form>
-<tag><AM lemma="antizemanovec" src="orig">NNMP2-----A----</AM>
-<AM lemma="antizemanovce" src="auto">NNMP2-----A----</AM>
-<AM lemma="antizemanovec" src="auto">NNIP2-----A----</AM>
-<AM lemma="antizemanovec" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="antizemanovec_,e" src="auto">NNMP2-----A----</AM>
-<AM lemma="antizemanovec_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="antizemanovec_;L" src="auto">NNIP2-----A----</AM>
-<AM lemma="antizemanovec_;L_^(živočich)" src="auto">NNMP2-----A----</AM>
-<AM lemma="vlasovec-2_^(voják_generála_antizemanova)" src="auto">NNMP2-----A----</AM>
+<tag><AM lemma="antizemanovec" src="orig" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-052-p3s6w13">

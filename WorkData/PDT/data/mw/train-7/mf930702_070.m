@@ -185,14 +185,7 @@
 <LM>w#w-mf930702-070-p3s1w5</LM>
 </w.rf>
 <form>čen</form>
-<tag><AM lemma="čen-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="čit_:W" src="auto" recommended="1">VsYS---XX-AP---</AM>
-<AM lemma="čit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="knout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čit_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="knout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čet_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čet" src="auto">VsYS---XX-AP---</AM>
+<tag><AM lemma="čen-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-070-p3s1w6">
@@ -3097,12 +3090,7 @@
 <LM>w#w-mf930702-070-p6s7w8</LM>
 </w.rf>
 <form>breakbolů</form>
-<tag><AM lemma="breakbol" src="orig">NNIP2-----A----</AM>
-<AM lemma="breakbol" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="breakbol-1_^(jílovitá_hlinka)" src="auto">NNIP2-----A----</AM>
-<AM lemma="breakbol" src="auto">NNMP2-----A----</AM>
-<AM lemma="breakbůl" src="auto">NNIP2-----A----</AM>
-<AM lemma="breakbolů" src="auto">Db-------------</AM>
+<tag><AM lemma="breakbol" src="orig" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-070-p6s7w9">

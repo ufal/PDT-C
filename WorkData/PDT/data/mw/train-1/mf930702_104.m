@@ -331,16 +331,7 @@
 <LM>w#w-mf930702-104-p2s3w7</LM>
 </w.rf>
 <form>Rara</form>
-<tag><AM lemma="Rara_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Rar_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rar_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rar_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rara_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rara_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rar_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rara_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rara" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="rara" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rara_:B_;K" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-104-p2s3w8">
@@ -405,16 +396,7 @@
 <LM>w#w-mf930702-104-p2s4w1</LM>
 </w.rf>
 <form>Rara</form>
-<tag><AM lemma="Rara_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Rar_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rar_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rar_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rara_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rara_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rar_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rara_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rara" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="rara" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rara_:B_;K" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-104-p2s4w2">

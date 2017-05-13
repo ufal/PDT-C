@@ -1340,16 +1340,7 @@
 <LM>w#w-lnd92257-051-p4s4w21</LM>
 </w.rf>
 <form>Gvencadze</form>
-<tag><AM lemma="Gvencadze_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gvencadze_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gvencadze_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Gvencadze" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gvencadze" src="auto">NNFS2-----A----</AM>
-<AM lemma="Gvencadha" src="auto">NNFS6-----A----</AM>
-<AM lemma="Gvencadz_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gvencadha" src="auto">NNFS3-----A----</AM>
-<AM lemma="Gvencadza" src="auto">NNFS6-----A----</AM>
-<AM lemma="gvencadze" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gvencadze_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-051-p4s4w22">
@@ -1412,16 +1403,7 @@
 <LM>w#w-lnd92257-051-p4s4w28</LM>
 </w.rf>
 <form>Chaindrava</form>
-<tag><AM lemma="Chaindrava_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chaindrava" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chaindrava_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chaindrav_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Chaindrava_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chaindrav_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Chaindrav-1_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Chaindrava_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chaindrav-1_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="chaindrava" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Chaindrava_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-051-p4s4w29">
@@ -1705,19 +1687,7 @@
 <LM>w#w-lnd92257-051-p5s2w20</LM>
 </w.rf>
 <form>OMON</form>
-<tag><AM lemma="OMON_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="OMON_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OMON_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Omon" src="auto">NNIS1-----A----</AM>
-<AM lemma="Omon" src="auto">NNIS4-----A----</AM>
-<AM lemma="Omon" src="auto">NNMS1-----A----</AM>
-<AM lemma="Omon_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Omon_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Omon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Omon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Omon_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="omon" src="auto">NNMS1-----A----</AM>
-<AM lemma="omon_,t_^(ve_spojení_mon-khmerský_jazyk)" src="auto">A2--------A----</AM>
+<tag><AM lemma="OMON_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-051-p5s2w21">
@@ -1935,19 +1905,7 @@
 <LM>w#w-lnd92257-051-p5s3w15</LM>
 </w.rf>
 <form>OMON</form>
-<tag><AM lemma="OMON_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="OMON_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OMON_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Omon" src="auto">NNIS1-----A----</AM>
-<AM lemma="Omon" src="auto">NNIS4-----A----</AM>
-<AM lemma="Omon" src="auto">NNMS1-----A----</AM>
-<AM lemma="Omon_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Omon_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Omon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Omon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Omon_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="omon" src="auto">NNMS1-----A----</AM>
-<AM lemma="omon_,t_^(ve_spojení_mon-khmerský_jazyk)" src="auto">A2--------A----</AM>
+<tag><AM lemma="OMON_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-051-p5s3w16">
@@ -2340,16 +2298,7 @@
 <LM>w#w-lnd92257-051-p5s6w7</LM>
 </w.rf>
 <form>Achsarbek</form>
-<tag><AM lemma="Achsarbek_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Achsarbek_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Achsarbek" src="auto">NNIS4-----A----</AM>
-<AM lemma="Achsarbek" src="auto">NNIS1-----A----</AM>
-<AM lemma="Achsarbka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Achsarbka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Achsarbek`7" src="auto">NNIS4-----A----</AM>
-<AM lemma="Achsarbek`6" src="auto">NNIS4-----A----</AM>
-<AM lemma="Achsarbek_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="achsarbek" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Achsarbek_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-051-p5s6w8">

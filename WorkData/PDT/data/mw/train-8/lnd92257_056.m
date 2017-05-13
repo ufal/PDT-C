@@ -796,14 +796,7 @@
 <LM>w#w-lnd92257-056-p4s1w4</LM>
 </w.rf>
 <form>lombarda</form>
-<tag><AM lemma="lombarda_;K_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="lombard_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="lombarda_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="lombard_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="lombard_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="lombarda" src="auto">NNFS1-----A----</AM>
-<AM lemma="lombard_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="lombarda_;G" src="auto">NNFS1-----A----</AM>
+<tag><AM lemma="lombarda_;K_,t" src="orig" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-056-p4s1w5">
@@ -2028,15 +2021,7 @@
 <LM>w#w-lnd92257-056-p4s5w18</LM>
 </w.rf>
 <form>lumbard</form>
-<tag><AM lemma="lumbard" src="orig">NNIS1-----A----</AM>
-<AM lemma="lumbard_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="lumbard_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lumbard" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="lumbard_;m_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="lumbard_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="lumbard" src="auto">NNMS1-----A----</AM>
-<AM lemma="lumbard" src="auto">NNIS4-----A----</AM>
-<AM lemma="lumbarda`1000000000" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="lumbard" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-056-p4s5w19">
@@ -6110,16 +6095,7 @@
 <LM>w#w-lnd92257-056-p7s4w8</LM>
 </w.rf>
 <form>Leghe</form>
-<tag><AM lemma="leghe" src="orig">NNXXX-----A----</AM>
-<AM lemma="Leghe" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Legh_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Leghe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Leghe_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Legh_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Leghe_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Leghe_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Leghe_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="leghe" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="leghe" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-056-p7s4w9">
@@ -7364,16 +7340,7 @@
 <LM>w#w-lnd92257-056-p9s1w24</LM>
 </w.rf>
 <form>Ronchetta</form>
-<tag><AM lemma="Ronchetta_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ronchett_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ronchett_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ronchetta_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ronchetta_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ronchetta_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ronchetta_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ronchetto_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ronchetto" src="auto">NNNS2-----A----</AM>
-<AM lemma="ronchetta" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ronchetta_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-056-p9s1w25">
@@ -7798,16 +7765,7 @@
 <LM>w#w-lnd92257-056-p9s2w15</LM>
 </w.rf>
 <form>Ronchetta</form>
-<tag><AM lemma="Ronchetta_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ronchett_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ronchett_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ronchetta_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ronchetta_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ronchetta_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ronchetta_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ronchetto_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ronchetto" src="auto">NNNS2-----A----</AM>
-<AM lemma="ronchetta" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ronchetta_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-056-p9s2w16">

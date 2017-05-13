@@ -75,10 +75,7 @@
 <LM>w#w-mf930702-067-p2s1w3</LM>
 </w.rf>
 <form>šm</form>
-<tag><AM lemma="šm-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šm-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="š" src="auto">AAIS7----1A----</AM>
-<AM lemma="š" src="auto">AANS7----1A----</AM>
+<tag><AM lemma="šm-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-067-p2s1w4">
@@ -1118,14 +1115,7 @@
 <LM>w#w-mf930702-067-p3s2w3</LM>
 </w.rf>
 <form>Tarden</form>
-<tag><AM lemma="Tarden_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tardna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tarden_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tarden_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tardnout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Tardný" src="auto">ACYS------A----</AM>
-<AM lemma="Tarden_^(jednotka_času)" src="auto">NNIS4-----A----</AM>
-<AM lemma="tarden" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Tarden_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-067-p3s2w4">
@@ -1219,16 +1209,7 @@
 <LM>w#w-mf930702-067-p3s4w5</LM>
 </w.rf>
 <form>Loll</form>
-<tag><AM lemma="Loll_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Loll_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Loll_^(typ_stupnice,_hudební)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Loll_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Loll_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Loll-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Loll-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Loll" src="auto">NNIS1-----A----</AM>
-<AM lemma="Loll_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="loll" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Loll_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-067-p3s4w6">
@@ -1277,16 +1258,7 @@
 <LM>w#w-mf930702-067-p3s6w2</LM>
 </w.rf>
 <form>Rocket</form>
-<tag><AM lemma="Rocket_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Rocketa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Rocket" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rocket" src="auto">NNIS1-----A----</AM>
-<AM lemma="Rocket_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Rocket_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Rocket-2_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Rocket_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Rocket" src="auto">Vf--------A----</AM>
-<AM lemma="rocket" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rocket_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-067-p3s6w3">
@@ -1322,18 +1294,7 @@
 <LM>w#w-mf930702-067-p3s6w6</LM>
 </w.rf>
 <form>Iben</form>
-<tag><AM lemma="Iben_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Iben" src="auto">NNIS4-----A----</AM>
-<AM lemma="Iben_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Iben_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Iben_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ibit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Ibit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Ibna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ibít" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="iben" src="auto">NNMS1-----A----</AM>
-<AM lemma="iben-2_;m" src="auto">NNMXX-----A----</AM>
-<AM lemma="iben-99_:B_;S" src="auto">NNXXX-----A---8</AM>
+<tag><AM lemma="Iben_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-067-p3s6w7">
@@ -1418,12 +1379,7 @@
 <LM>w#w-mf930702-067-p3s8w6</LM>
 </w.rf>
 <form>Navarila</form>
-<tag><AM lemma="Navarila_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Navarit_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Navarit_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Navaril_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Navarít" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="navarila" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Navarila_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-067-p3s8w7">
@@ -1742,16 +1698,7 @@
 <LM>w#w-mf930702-067-p3s16w3</LM>
 </w.rf>
 <form>Fragrance</form>
-<tag><AM lemma="Fragrance_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Fragrance" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fragrance" src="auto">NNFS2-----A----</AM>
-<AM lemma="Fragrance" src="auto">NNFP1-----A----</AM>
-<AM lemma="Fragranec" src="auto">NNMP4-----A----</AM>
-<AM lemma="Fragranka" src="auto">NNFS6-----A----</AM>
-<AM lemma="Fragranka" src="auto">NNFS3-----A----</AM>
-<AM lemma="Fragrance" src="auto">NNFP4-----A----</AM>
-<AM lemma="Fragranec" src="auto">NNMS2-----A----</AM>
-<AM lemma="fragrance" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Fragrance_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-067-p3s16w4">

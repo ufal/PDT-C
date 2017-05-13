@@ -1796,20 +1796,7 @@
 <LM>w#w-lnd92255-146-p4s6w11</LM>
 </w.rf>
 <form>Perot</form>
-<tag><AM lemma="Perota_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Perot" src="auto">NNIS1-----A----</AM>
-<AM lemma="Perot" src="auto">NNIS4-----A----</AM>
-<AM lemma="Perot" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perot_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Perot_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perota" src="auto">NNFP2-----A----</AM>
-<AM lemma="Perota_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Peroteska_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="perot" src="auto">NNMS1-----A----</AM>
-<AM lemma="perot-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="perot-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="perotelefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
-<AM lemma="perotáčka_:B" src="auto">NNFXX-----A---8</AM>
+<tag><AM lemma="Perota_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-146-p4s6w12">
@@ -2283,15 +2270,7 @@
 <LM>w#w-lnd92255-146-p5s3w12</LM>
 </w.rf>
 <form>Ahram</form>
-<tag><AM lemma="Ahram_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Ahram" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ahram" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ahram_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ahram_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ahram_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ahram_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ahram_;G_,t_^(Seragram_Building)" src="auto">AAXXX----1A----</AM>
-<AM lemma="ahram" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ahram_;R_,t" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-146-p5s3w13">
@@ -2300,14 +2279,7 @@
 <LM>w#w-lnd92255-146-p5s3w13</LM>
 </w.rf>
 <form>Weekly</form>
-<tag><AM lemma="Weekly_;R_,t" src="orig">Db-------------</AM>
-<AM lemma="Weeknout_:W" src="auto">VpTP---XR-AA--1</AM>
-<AM lemma="Weekl" src="auto">NNIP1-----A----</AM>
-<AM lemma="Weeklus" src="auto">NNIP7-----A----</AM>
-<AM lemma="Weeklus" src="auto">NNIP1-----A----</AM>
-<AM lemma="Weekla_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Weekla_;G_;K_^(sport._klub;;průsmyk)" src="auto">NNFS2-----A----</AM>
-<AM lemma="weekly" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Weekly_;R_,t" src="orig" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-146-p5s3w14">

@@ -2165,16 +2165,7 @@
 <LM>w#w-mf930701-041-p4s2w4</LM>
 </w.rf>
 <form>arciimaginace</form>
-<tag><AM lemma="arciimaginace" src="orig">NNFS2-----A----</AM>
-<AM lemma="arciimaginace" src="auto">NNFP1-----A----</AM>
-<AM lemma="arciimaginace" src="auto">NNFP4-----A----</AM>
-<AM lemma="arciimaginace" src="auto">NNFP5-----A----</AM>
-<AM lemma="arciimaginace" src="auto">NNFS1-----A----</AM>
-<AM lemma="arciimaginace" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="arciimaginace" src="auto">NNFS5-----A----</AM>
-<AM lemma="arciimaginace_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="arciimaginace_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="arciimaginace_;S" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="arciimaginace" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-041-p4s2w5">

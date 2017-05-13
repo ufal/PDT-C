@@ -595,16 +595,7 @@
 <LM>w#w-mf930701-135-p4s1w6</LM>
 </w.rf>
 <form>Čenkovičky</form>
-<tag><AM lemma="Čenkovička_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Čenkovička" src="auto">NNFP1-----A----</AM>
-<AM lemma="Čenkovička" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Čenkovička" src="auto">NNFP4-----A----</AM>
-<AM lemma="Čenkovička_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Čenkoviček" src="auto">NNIP1-----A----</AM>
-<AM lemma="Čenkoviček" src="auto">NNIP4-----A----</AM>
-<AM lemma="Čenkovička_^(*2)" src="auto">NNFP4-----A----</AM>
-<AM lemma="Čenkovička_^(*2)" src="auto">NNFS2-----A----</AM>
-<AM lemma="čenkovičky" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Čenkovička_;G" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-135-p4s1w7">

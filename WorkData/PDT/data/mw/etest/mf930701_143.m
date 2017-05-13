@@ -2967,15 +2967,7 @@
 <LM>w#w-mf930701-143-p2s15w9</LM>
 </w.rf>
 <form>ozónovu</form>
-<tag><AM lemma="ozónový_:B" src="orig">AAFS4----1A----</AM>
-<AM lemma="ozónův_;S_^(*2)" src="auto" recommended="1">AUFS4M---------</AM>
-<AM lemma="ozónův_^(*2)" src="auto">AUFS4M---------</AM>
-<AM lemma="ozónův_;S_^(*2a)" src="auto">AUFS4M---------</AM>
-<AM lemma="ozónova" src="auto">NNFS4-----A----</AM>
-<AM lemma="ozónův_;S_^(*2)" src="auto">AUIS3M---------</AM>
-<AM lemma="ozónov" src="auto">NNIS3-----A----</AM>
-<AM lemma="ozónovo_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="ozónov_;G" src="auto">NNIS3-----A----</AM>
+<tag><AM lemma="ozónový_:B" src="orig" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-143-p2s15w10">

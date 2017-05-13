@@ -365,16 +365,7 @@
 <LM>w#w-mf930703-129-p1s3w20</LM>
 </w.rf>
 <form>Gadrut</form>
-<tag><AM lemma="Gadrut_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Gadrut_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gadrut_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Gadrut-2_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Gadrut" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gadrut_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Gadrut" src="auto">Vf--------A----</AM>
-<AM lemma="Gadrout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Gadrout_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="gadrut" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gadrut_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-129-p1s3w21">
@@ -657,16 +648,7 @@
 <LM>w#w-mf930703-129-p1s5w10</LM>
 </w.rf>
 <form>Mardakert</form>
-<tag><AM lemma="Mardakert_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mardakert_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mardakert_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mardakert_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Mardakert" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mardakert" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mardakert" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mardakert_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Mardakert_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="mardakert" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mardakert_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-129-p1s5w11">

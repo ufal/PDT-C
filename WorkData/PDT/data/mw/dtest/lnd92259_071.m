@@ -259,16 +259,7 @@
 <LM>w#w-lnd92259-071-p3s2w19</LM>
 </w.rf>
 <form>Madana</form>
-<tag><AM lemma="Madan_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Madan_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Madan_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Madan_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Madan_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Madan" src="auto">NNMS4-----A----</AM>
-<AM lemma="Madan" src="auto">NNMS2-----A----</AM>
-<AM lemma="Madana" src="auto">NNFS1-----A----</AM>
-<AM lemma="Madan_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="madana" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Madan_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-071-p3s2w20">
@@ -286,16 +277,7 @@
 <LM>w#w-lnd92259-071-p3s2w21</LM>
 </w.rf>
 <form>Khurány</form>
-<tag><AM lemma="Khurána_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Khurat_:T" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="Khurat_:W" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="Khurat_:T_:W" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="Khurat" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="Khurat_:T_^(*4at)" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="Khurán" src="auto">NNMP4-----A----</AM>
-<AM lemma="Khurat_:T_^(*3t)" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="Khurán" src="auto">NNIP1-----A----</AM>
-<AM lemma="khurány" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Khurána_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-071-p3s2w22">
@@ -1000,16 +982,7 @@
 <LM>w#w-lnd92259-071-p3s6w12</LM>
 </w.rf>
 <form>Narasimhy</form>
-<tag><AM lemma="Narasimha_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Narasimha" src="auto">NNFS2-----A----</AM>
-<AM lemma="Narasimh" src="auto">NNIP1-----A----</AM>
-<AM lemma="Narasimh" src="auto">NNIP4-----A----</AM>
-<AM lemma="Narasimha" src="auto">NNFP1-----A----</AM>
-<AM lemma="Narasimh" src="auto">NNIP7-----A----</AM>
-<AM lemma="Narasimha" src="auto">NNFP4-----A----</AM>
-<AM lemma="Narasimha_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Narasimh" src="auto">NNMP4-----A----</AM>
-<AM lemma="narasimhy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Narasimha_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-071-p3s6w13">

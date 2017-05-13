@@ -2587,11 +2587,7 @@
 <LM>w#w-lnd92256-072-p6s2w7</LM>
 </w.rf>
 <form>Özal</form>
-<tag><AM lemma="Özal_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Özat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Özat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Özal_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="özal" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Özal_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-072-p6s2w8">

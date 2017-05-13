@@ -1170,16 +1170,7 @@
 <LM>w#w-lnd92259-077-p4s4w12</LM>
 </w.rf>
 <form>Pandarem</form>
-<tag><AM lemma="Pandar_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Pandar" src="auto">NNIS7-----A----</AM>
-<AM lemma="Pandar" src="auto">NNMS7-----A----</AM>
-<AM lemma="Pandar_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Pandar_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Pandaro" src="auto">NNNS7-----A----</AM>
-<AM lemma="Pandar_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Pandarma" src="auto">NNFP2-----A----</AM>
-<AM lemma="Pandare_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="pandarem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pandar_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-077-p4s4w13">
@@ -2345,16 +2336,7 @@
 <LM>w#w-lnd92259-077-p5s3w21</LM>
 </w.rf>
 <form>Menelaus</form>
-<tag><AM lemma="Menelaus_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Menelaus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Menelaus_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Menelaus_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Menelaus_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Menelaus_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Menelaus_,t" src="auto">Db-------------</AM>
-<AM lemma="Menelaus" src="auto">NNIS1-----A----</AM>
-<AM lemma="Menelaus" src="auto">NNIS4-----A----</AM>
-<AM lemma="menelaus" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Menelaus_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-077-p5s3w22">

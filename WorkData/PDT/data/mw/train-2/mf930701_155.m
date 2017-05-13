@@ -482,15 +482,7 @@
 <LM>w#w-mf930701-155-p2s2w10</LM>
 </w.rf>
 <form>Kožyn</form>
-<tag><AM lemma="Kožyn_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kožyn_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kožyn" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kožyn" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kožyn" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kožynamo_:B_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Kožyn_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Kožyn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="kožyn" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kožyn_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-155-p2s2w11">

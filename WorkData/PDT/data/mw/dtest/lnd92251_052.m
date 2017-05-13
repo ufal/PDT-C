@@ -66,15 +66,7 @@
 <LM>w#w-lnd92251-052-p2s1w3</LM>
 </w.rf>
 <form>rk</form>
-<tag><AM lemma="rk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="rk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rk" src="auto">NNIS1-----A----</AM>
-<AM lemma="rk" src="auto">NNIS4-----A----</AM>
-<AM lemma="rk-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="rk_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="rk_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="rk_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="rk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92251-052-p2s1w4">
@@ -274,15 +266,7 @@
 <LM>w#w-lnd92251-052-p2s2w20</LM>
 </w.rf>
 <form>iure</form>
-<tag><AM lemma="ius_,t" src="orig">NNNS6-----A----</AM>
-<AM lemma="iure_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="ius_,t" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="iure_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="iure_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="iure_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="iure_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="iure_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="iure_;K_,t" src="auto">AAFSX----1A----</AM>
+<tag><AM lemma="ius_,t" src="orig" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-052-p2s2w21">

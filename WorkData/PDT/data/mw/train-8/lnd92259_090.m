@@ -1323,15 +1323,7 @@
 <LM>w#w-lnd92259-090-p2s8w22</LM>
 </w.rf>
 <form>Schur</form>
-<tag><AM lemma="Schur_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Schur_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schur_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Schura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Schur_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schur" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schur_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schur_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="schur" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Schur_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-090-p2s8w23">

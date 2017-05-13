@@ -104,15 +104,7 @@
 <LM>w#w-lnd92256-064-p3s1w5</LM>
 </w.rf>
 <form>rk</form>
-<tag><AM lemma="rk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="rk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rk" src="auto">NNIS1-----A----</AM>
-<AM lemma="rk" src="auto">NNIS4-----A----</AM>
-<AM lemma="rk-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="rk_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="rk_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="rk_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="rk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-064-p3s1w6">
@@ -1086,24 +1078,7 @@
 <LM>w#w-lnd92256-064-p3s6w24</LM>
 </w.rf>
 <form>ČMV</form>
-<tag><AM lemma="ČMV_:B_;K_^(České_ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČMV_:B_;K_^(České_ministerstvo_vnitra)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="ČMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ČMV_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČMV_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČMV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČMV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ČMV-1_:B_;K_^(Karlovarské_minerální_vody)" src="auto">NNFPX-----A---8</AM>
-<AM lemma="ČMV_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Čmv_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čmv_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Čmv_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čmv" src="auto">NNIS4-----A----</AM>
-<AM lemma="Čmva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Čmv_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Čmv" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čmv_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="čmv" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="ČMV_:B_;K_^(České_ministerstvo_vnitra)" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-064-p3s6w25">

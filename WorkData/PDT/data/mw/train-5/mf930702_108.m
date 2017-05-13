@@ -1425,16 +1425,7 @@
 <LM>w#w-mf930702-108-p8s1w18</LM>
 </w.rf>
 <form>Olivenca</form>
-<tag><AM lemma="Olivenca_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Olivenco" src="auto">NNNS2-----A----</AM>
-<AM lemma="Olivenc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Olivenca_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Olivenca_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Olivenco_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Olivenca_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Olivenca_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Olivenca_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="olivenca" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Olivenca_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-108-p8s1w19">

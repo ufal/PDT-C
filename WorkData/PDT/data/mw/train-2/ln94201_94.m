@@ -4940,15 +4940,7 @@
 <LM>w#w-ln94201-94-p4s7w19</LM>
 </w.rf>
 <form>ghosts</form>
-<tag><AM lemma="ghosts_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="ghosts_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="ghost_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="ghost_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="ghosts_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ghost_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="ghost_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="ghost_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="ghosts_;K_,t" src="auto">NNMPX-----A----</AM>
+<tag><AM lemma="ghosts_,t" src="orig" selected="1">NNMPX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-94-p4s7w20">
@@ -4957,15 +4949,7 @@
 <LM>w#w-ln94201-94-p4s7w20</LM>
 </w.rf>
 <form>hunting</form>
-<tag><AM lemma="hunting_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="hunting_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="hunting" src="auto">NNIS4-----A----</AM>
-<AM lemma="hunting_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="hunting" src="auto">NNIS1-----A----</AM>
-<AM lemma="hunting_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="hunting_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="hunting_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="hunting_;G" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="hunting_,t" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-94-p4s7w21">

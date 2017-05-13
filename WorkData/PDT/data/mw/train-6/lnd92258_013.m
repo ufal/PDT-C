@@ -64,21 +64,7 @@
 <LM>w#w-lnd92258-013-p1s1w6</LM>
 </w.rf>
 <form>LIBRI</form>
-<tag><AM lemma="Libri_;m_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="LIBRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="LIBRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto">NNFXX-----A----</AM>
-<AM lemma="LIBRI_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="LIBRI_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="LIBRI_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Libri_;m_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Libri_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Libri_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Libri_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Libri_,t" src="auto">Db-------------</AM>
-<AM lemma="Libri_;m" src="auto">ClXP1----------</AM>
-<AM lemma="Libri_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Libri_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="libri" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Libri_;m_,t" src="orig" selected="1">NNFPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-013-p1s1w7">
@@ -181,15 +167,7 @@
 <LM>w#w-lnd92258-013-p3s1w3</LM>
 </w.rf>
 <form>mlp</form>
-<tag><AM lemma="mlp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mlp-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="mlpy_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="mlp" src="auto">NNIS4-----A----</AM>
-<AM lemma="mlp" src="auto">NNIS1-----A----</AM>
-<AM lemma="mlp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mlp" src="auto">NNMS1-----A----</AM>
-<AM lemma="mlp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mlp_;K" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="mlp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-013-p3s1w4">
@@ -338,16 +316,7 @@
 <LM>w#w-lnd92258-013-p3s2w14</LM>
 </w.rf>
 <form>Libri</form>
-<tag><AM lemma="Libri_;m_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Libri_;m_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Libri_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Libri_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Libri_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Libri_,t" src="auto">Db-------------</AM>
-<AM lemma="Libri_;m" src="auto">ClXP1----------</AM>
-<AM lemma="Libri_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Libri_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="libri" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Libri_;m_,t" src="orig" selected="1">NNFPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-013-p3s2w15">
@@ -1178,16 +1147,7 @@
 <LM>w#w-lnd92258-013-p5s1w11</LM>
 </w.rf>
 <form>Agres</form>
-<tag><AM lemma="Agres_;K" src="orig">NNXSX-----A----</AM>
-<AM lemma="Agres" src="auto">NNIS4-----A----</AM>
-<AM lemma="Agres_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Agres" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Agre_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="affaires_:B_,t_^(v_chargé_d'Agres)" src="auto">NNNPX-----A----</AM>
-<AM lemma="Aires_;G_^(Buenos_Agres)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Agre_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Agre_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="agres" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Agres_;K" src="orig" selected="1">NNXSX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-013-p5s1w12">

@@ -4433,14 +4433,7 @@
 <LM>w#w-lnd92259-060-p14s1w2</LM>
 </w.rf>
 <form>jk</form>
-<tag><AM lemma="jk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="jk-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jk" src="auto">NNIS1-----A----</AM>
-<AM lemma="jk" src="auto">NNIS4-----A----</AM>
-<AM lemma="jk" src="auto">NNMS1-----A----</AM>
-<AM lemma="jk_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="jk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-060-p14s1w3">

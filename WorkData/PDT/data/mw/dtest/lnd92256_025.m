@@ -271,18 +271,7 @@
 <LM>w#w-lnd92256-025-p1s1w29</LM>
 </w.rf>
 <form>Agromarket</form>
-<tag><AM lemma="Agromarket_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Agromarket" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Agromarket" src="auto">NNIS4-----A----</AM>
-<AM lemma="Agromarket" src="auto">Vf--------A----</AM>
-<AM lemma="Agromarket-2_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Agromarket_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Agromarket_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Agromarket_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Agromarketa" src="auto">NNFP2-----A----</AM>
-<AM lemma="agromarket" src="auto">NNIS1-----A----</AM>
-<AM lemma="agromarket" src="auto">NNIS4-----A----</AM>
-<AM lemma="agromarket" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Agromarket_;m" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-025-p1s1w30">

@@ -140,14 +140,7 @@
 <LM>w#w-mf930703-089-p2s1w7</LM>
 </w.rf>
 <form>čen</form>
-<tag><AM lemma="čen-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="čit_:W" src="auto" recommended="1">VsYS---XX-AP---</AM>
-<AM lemma="čit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="knout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čit_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="knout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čet_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čet" src="auto">VsYS---XX-AP---</AM>
+<tag><AM lemma="čen-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-089-p2s1w8">
@@ -1819,16 +1812,7 @@
 <LM>w#w-mf930703-089-p5s3w1</LM>
 </w.rf>
 <form>Today</form>
-<tag><AM lemma="Today_;R_,t" src="orig">Db-------------</AM>
-<AM lemma="Today_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Today_,t" src="auto">Db-------------</AM>
-<AM lemma="Today_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Today_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Today_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Today_;R_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="Today_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Today_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="today" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Today_;R_,t" src="orig" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-089-p5s3w2">

@@ -439,16 +439,7 @@
 <LM>w#w-lnd92258-070-p2s3w18</LM>
 </w.rf>
 <form>Rádžurí</form>
-<tag><AM lemma="Rádžurí_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Rádžurí_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Rádžurí_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rádžurí_;G" src="auto">AAFXX----1A----</AM>
-<AM lemma="Rádžurí" src="auto">AAFS1----1A----</AM>
-<AM lemma="Rádžurí" src="auto">AAFS2----1A----</AM>
-<AM lemma="Rádžurí" src="auto">AAIS1----1A----</AM>
-<AM lemma="Rádžurí" src="auto">AAFS4----1A----</AM>
-<AM lemma="Rádžurí" src="auto">AAIS4----1A----</AM>
-<AM lemma="rádžurí" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rádžurí_;G" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-070-p2s3w19">

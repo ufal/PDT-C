@@ -243,16 +243,7 @@
 <LM>w#w-lnd92259-072-p3s3w8</LM>
 </w.rf>
 <form>Sargódha</form>
-<tag><AM lemma="Sargódha_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sargódh_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sargódha" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Sargódha_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sargódh_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sargódh_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sargódh" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sargódh_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sargódh" src="auto">NNMS4-----A----</AM>
-<AM lemma="sargódha" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sargódha_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-072-p3s3w9">
@@ -324,12 +315,7 @@
 <LM>w#w-lnd92259-072-p3s3w16</LM>
 </w.rf>
 <form>Masih</form>
-<tag><AM lemma="Masih_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Masih" src="auto">NNIS4-----A----</AM>
-<AM lemma="Masih" src="auto">NNIS1-----A----</AM>
-<AM lemma="Masihlava_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Masiha" src="auto">NNFP2-----A----</AM>
-<AM lemma="masih" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Masih_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-072-p3s3w17">
@@ -403,12 +389,7 @@
 <LM>w#w-lnd92259-072-p3s4w1</LM>
 </w.rf>
 <form>Masih</form>
-<tag><AM lemma="Masih_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Masih" src="auto">NNIS4-----A----</AM>
-<AM lemma="Masih" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Masihlava_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Masiha" src="auto">NNFP2-----A----</AM>
-<AM lemma="masih" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Masih_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-072-p3s4w2">
@@ -828,12 +809,7 @@
 <LM>w#w-lnd92259-072-p3s7w1</LM>
 </w.rf>
 <form>Masih</form>
-<tag><AM lemma="Masih_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Masih" src="auto">NNIS4-----A----</AM>
-<AM lemma="Masih" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Masihlava_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Masiha" src="auto">NNFP2-----A----</AM>
-<AM lemma="masih" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Masih_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-072-p3s7w2">

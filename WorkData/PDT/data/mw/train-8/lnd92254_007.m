@@ -66,20 +66,7 @@
 <LM>w#w-lnd92254-007-p1s2w3</LM>
 </w.rf>
 <form>FNS</form>
-<tag><AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Fns_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fn_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fns_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fns_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fns" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="fns" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 </s>

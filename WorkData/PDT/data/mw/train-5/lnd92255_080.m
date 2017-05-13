@@ -6830,16 +6830,7 @@
 <LM>w#w-lnd92255-080-p12s6w35</LM>
 </w.rf>
 <form>English</form>
-<tag><AM lemma="english_,t" src="orig">NNFSX-----A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="English_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="English_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
-<AM lemma="English_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="English_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="English_,t" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="English_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="English_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="english" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="english_,t" src="orig" selected="1">NNFSX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-080-p12s6w36">
@@ -13842,15 +13833,7 @@
 <LM>w#w-lnd92255-080-p20s1w33</LM>
 </w.rf>
 <form>und</form>
-<tag><AM lemma="und_;K_,t" src="orig">J^-------------</AM>
-<AM lemma="und_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="und_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="und_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="und_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="und" src="auto">NNIS4-----A----</AM>
-<AM lemma="unda" src="auto">NNFP2-----A----</AM>
-<AM lemma="und_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="und_;S_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="und_;K_,t" src="orig" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-080-p20s1w34">
@@ -13859,17 +13842,7 @@
 <LM>w#w-lnd92255-080-p20s1w34</LM>
 </w.rf>
 <form>Sonn</form>
-<tag><AM lemma="Sonn_;K_,t" src="orig">NNMSX-----A----</AM>
-<AM lemma="SF-2`Sinn-1_;K_,t_^(Sonn_Fein)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sonn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sonn_;G" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Sonn_;K_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="Sonn_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sonn_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sonn_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Sonné_:B_;S_;K_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="soNN-1_:B_,x_^(nízké_napětí)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="sonn" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sonn_;K_,t" src="orig" selected="1">NNMSX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-080-p20s1w35">

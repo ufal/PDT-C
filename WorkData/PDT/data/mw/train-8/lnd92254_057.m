@@ -58,17 +58,7 @@
 <LM>w#w-lnd92254-057-p1s1w5</LM>
 </w.rf>
 <form>EVAKOUVÁNI</form>
-<tag><AM lemma="evakuvat_:T" src="orig">VsMP---XX-AP---</AM>
-<AM lemma="evakuvat_:T" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Evakouvat_:T" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Evakouvat_:W" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Evakouvat_:T_:W" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Evakouvat" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Evakouván" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Evakouvat_:T_^(*4at)" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Evakouván" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Evakouvát" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="evakouváni" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="evakuvat_:T" src="orig" selected="1">VsMP---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-lnd92254-057-p1s1w6">
@@ -872,16 +862,7 @@
 <LM>w#w-lnd92254-057-p4s2w8</LM>
 </w.rf>
 <form>Zelenika</form>
-<tag><AM lemma="Zelenika_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zelenika" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zelenik" src="auto">NNMS2-----A----</AM>
-<AM lemma="Zelenik" src="auto">NNMS4-----A----</AM>
-<AM lemma="Zelenik_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Zelenika_^(věda)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zelenika_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zelenikum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Zelenikum" src="auto">NNNP4-----A----</AM>
-<AM lemma="zelenika" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Zelenika_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-057-p4s2w9">
@@ -1027,16 +1008,7 @@
 <LM>w#w-lnd92254-057-p4s3w1</LM>
 </w.rf>
 <form>Zelenika</form>
-<tag><AM lemma="Zelenika_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zelenika" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zelenik" src="auto">NNMS2-----A----</AM>
-<AM lemma="Zelenik" src="auto">NNMS4-----A----</AM>
-<AM lemma="Zelenik_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Zelenika_^(věda)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zelenika_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zelenikum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Zelenikum" src="auto">NNNP4-----A----</AM>
-<AM lemma="zelenika" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Zelenika_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-057-p4s3w2">
@@ -2140,15 +2112,7 @@
 <LM>w#w-lnd92254-057-p7s2w9</LM>
 </w.rf>
 <form>Vučureviće</form>
-<tag><AM lemma="Vučurević_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Vučurević_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vučurevič_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vučurević_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Vučurević_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Vučureviće" src="auto">NNFS2-----A----</AM>
-<AM lemma="Vučureviće" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vučureviće" src="auto">NNFP1-----A----</AM>
-<AM lemma="vučureviće" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Vučurević_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-057-p7s2w10">
@@ -2716,16 +2680,7 @@
 <LM>w#w-lnd92254-057-p8s2w6</LM>
 </w.rf>
 <form>Hina</form>
-<tag><AM lemma="Hina_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Hina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hin_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Hina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hin_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Hina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hin_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Hina_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="hina" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hina_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-057-p8s2w7">
@@ -2779,17 +2734,7 @@
 <LM>w#w-lnd92254-057-p8s2w12</LM>
 </w.rf>
 <form>Vinkovcích</form>
-<tag><AM lemma="Vinkovce_;G" src="orig">NNFP6-----A----</AM>
-<AM lemma="Vinkovce" src="auto">NNFP6-----A----</AM>
-<AM lemma="Vinkovce_;G" src="auto" recommended="1">NNFP6-----A----</AM>
-<AM lemma="Vinkovcí" src="auto">AAFP2----1A----</AM>
-<AM lemma="Vinkovcí" src="auto">AAFP6----1A----</AM>
-<AM lemma="Vinkovcí" src="auto">AAIP2----1A----</AM>
-<AM lemma="Vinkovcí" src="auto">AAIP6----1A----</AM>
-<AM lemma="Vinkovcí" src="auto">AAMP2----1A----</AM>
-<AM lemma="Vinkovcí" src="auto">AANP2----1A----</AM>
-<AM lemma="vinkovcích" src="auto">NNMS1-----A----</AM>
-<AM lemma="vinkovcícha" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="Vinkovce_;G" src="orig" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-057-p8s2w13">

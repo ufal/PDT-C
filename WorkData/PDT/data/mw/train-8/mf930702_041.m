@@ -5491,16 +5491,7 @@
 <LM>w#w-mf930702-041-p2s24w15</LM>
 </w.rf>
 <form>Alenáš</form>
-<tag><AM lemma="Alenáš_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Alenat_:W" src="auto">VB-S---2P-AA---</AM>
-<AM lemma="Alemůj_^(přivlast.)" src="auto">PSYS5-P1-------</AM>
-<AM lemma="Alemůj_^(přivlast.)" src="auto">PSYS1-P1-------</AM>
-<AM lemma="Alemůj_^(přivlast.)" src="auto">PSIS4-P1-------</AM>
-<AM lemma="Alenáš_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alenáš_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Alenáš" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alenat_:T" src="auto">VB-S---2P-AA---</AM>
-<AM lemma="alenáš" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Alenáš_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-041-p2s24w16">

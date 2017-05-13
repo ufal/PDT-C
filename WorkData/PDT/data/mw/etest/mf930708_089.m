@@ -93,13 +93,7 @@
 <LM>w#w-mf930708-089-p2s1w3</LM>
 </w.rf>
 <form>jsl</form>
-<tag><AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jsl-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jsnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="jst" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jsl" src="auto">NNIS1-----A----</AM>
-<AM lemma="jsl" src="auto">NNIS4-----A----</AM>
+<tag><AM lemma="jsl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-089-p2s1w4">
@@ -144,18 +138,7 @@
 <LM>w#w-mf930708-089-p2s1w8</LM>
 </w.rf>
 <form>Bionet</form>
-<tag><AM lemma="Bionet_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Bionet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bionet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bionet_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bionet_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Bionet_;R_^(letadlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bionet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bionet_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bioneta" src="auto">NNFP2-----A----</AM>
-<AM lemma="bionet" src="auto">NNIS1-----A----</AM>
-<AM lemma="bionet" src="auto">NNIS4-----A----</AM>
-<AM lemma="bionet" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bionet_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-089-p2s1w9">
@@ -1028,19 +1011,7 @@
 <LM>w#w-mf930708-089-p3s4w2</LM>
 </w.rf>
 <form>Bionetu</form>
-<tag><AM lemma="Bionet_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Bionet" src="auto">NNIS2-----A----</AM>
-<AM lemma="Bionet" src="auto">NNIS3-----A----</AM>
-<AM lemma="Bionet" src="auto">NNIS6-----A----</AM>
-<AM lemma="Bionet" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Bionet_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Bionet_;K" src="auto">NNIS6-----A----</AM>
-<AM lemma="Bioneta" src="auto">NNFS4-----A----</AM>
-<AM lemma="Bioneto" src="auto">NNNS3-----A----</AM>
-<AM lemma="bionet" src="auto">NNIS2-----A----</AM>
-<AM lemma="bionet" src="auto">NNIS3-----A----</AM>
-<AM lemma="bionet" src="auto">NNIS6-----A----</AM>
-<AM lemma="bionetu" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Bionet_;K" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-089-p3s4w3">
@@ -1776,16 +1747,7 @@
 <LM>w#w-mf930708-089-p4s1w27</LM>
 </w.rf>
 <form>Rezavky</form>
-<tag><AM lemma="Rezavka_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Rezavka" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Rezavka" src="auto">NNFP1-----A----</AM>
-<AM lemma="Rezavka" src="auto">NNFP4-----A----</AM>
-<AM lemma="Rezavek" src="auto">NNIP4-----A----</AM>
-<AM lemma="Rezavek" src="auto">NNIP7-----A----</AM>
-<AM lemma="Rezavek" src="auto">NNIP1-----A----</AM>
-<AM lemma="Rezavka_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Rezavka_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="rezavky" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rezavka_;G" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-089-p4s1w28">

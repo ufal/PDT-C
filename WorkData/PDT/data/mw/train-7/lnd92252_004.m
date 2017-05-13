@@ -95,11 +95,7 @@
 <LM>w#w-lnd92252-004-p2s2w4</LM>
 </w.rf>
 <form>Akbaršo</form>
-<tag><AM lemma="Akbaršo_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Akbaršo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Akbaršo_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="Akbaršo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="akbaršo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Akbaršo_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-004-p2s2w5">

@@ -1587,13 +1587,7 @@
 <LM>w#w-lnd92257-026-p5s1w6</LM>
 </w.rf>
 <form>zůstáva</form>
-<tag><AM lemma="zůstávat_:T_^(*4at)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="zůstáva" src="auto">NNFS1-----A----</AM>
-<AM lemma="právo_^(zůstávo_na_něco;_také_jako_obor)" src="auto">NNNS2-----A----</AM>
-<AM lemma="právo_^(zůstávo_na_něco;_také_jako_obor)" src="auto">NNNP4-----A----</AM>
-<AM lemma="právo_^(zůstávo_na_něco;_také_jako_obor)" src="auto">NNNP1-----A----</AM>
-<AM lemma="zůstáv_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="zůstávat_:T_^(*4at)" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<tag><AM lemma="zůstávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</AM>
 </tag>
 </m>
 <m id="m-lnd92257-026-p5s1w7">

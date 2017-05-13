@@ -443,19 +443,7 @@
 <LM>w#w-mf930703-088-p3s1w7</LM>
 </w.rf>
 <form>zp</form>
-<tag><AM lemma="způsob_:B_,a" src="orig">NNIXX-----A---8</AM>
-<AM lemma="zp" src="auto">NNIS1-----A----</AM>
-<AM lemma="zp" src="auto">NNIS4-----A----</AM>
-<AM lemma="zp" src="auto">NNMS1-----A----</AM>
-<AM lemma="zp-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="zp-8_:B_^(ost._zkratka)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="zp-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="zp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="zp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="zpage_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="zpodnik_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="zpopisný_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="způsob_:B_,a" src="auto" recommended="1">NNIXX-----A---8</AM>
+<tag><AM lemma="způsob_:B_,a" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-088-p3s1w8">
@@ -1925,19 +1913,7 @@
 <LM>w#w-mf930703-088-p3s21w8</LM>
 </w.rf>
 <form>zp</form>
-<tag><AM lemma="způsob_:B_,a" src="orig">NNIXX-----A---8</AM>
-<AM lemma="zp" src="auto">NNIS1-----A----</AM>
-<AM lemma="zp" src="auto">NNIS4-----A----</AM>
-<AM lemma="zp" src="auto">NNMS1-----A----</AM>
-<AM lemma="zp-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="zp-8_:B_^(ost._zkratka)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="zp-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="zp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="zp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="zpage_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="zpodnik_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="zpopisný_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="způsob_:B_,a" src="auto" recommended="1">NNIXX-----A---8</AM>
+<tag><AM lemma="způsob_:B_,a" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-088-p3s21w9">

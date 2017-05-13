@@ -460,16 +460,7 @@
 <LM>w#w-lnd92258-148-p3s3w15</LM>
 </w.rf>
 <form>Hansgeorg</form>
-<tag><AM lemma="Hansgeorg_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hansgeorg_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hansgeorg_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hansgeorga_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Hansgeorg_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hansgeorg" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hansgeork_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hansgeorg_;G_^(osada)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hansgeorg_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="hansgeorg" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hansgeorg_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-148-p3s3w16">

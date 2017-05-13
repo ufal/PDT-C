@@ -561,15 +561,7 @@
 <LM>w#w-lnd92256-030-p1s2w34</LM>
 </w.rf>
 <form>Traspol</form>
-<tag><AM lemma="Traspol_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Traspol_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Traspol" src="auto">NNIS4-----A----</AM>
-<AM lemma="společník_:B_^(Pepa_a_Traspol.)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Traspolovina_:B" src="auto">NNFS2-----A----</AM>
-<AM lemma="Traspolovina_:B" src="auto">NNFS1-----A----</AM>
-<AM lemma="Traspolkový_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Traspolkový_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="traspol" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Traspol_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-030-p1s2w35">

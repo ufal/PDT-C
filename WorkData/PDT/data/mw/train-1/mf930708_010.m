@@ -329,16 +329,7 @@
 <LM>w#w-mf930708-010-p2s1w29</LM>
 </w.rf>
 <form>Sports</form>
-<tag><AM lemma="Sport_;K_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="Sport_;K_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Sport_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Sports_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sports_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sports_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Sports_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Sport_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Sport_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="sports" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sport_;K_,t" src="orig" selected="1">NNIPX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-010-p2s1w30">

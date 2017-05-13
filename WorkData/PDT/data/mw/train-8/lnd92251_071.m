@@ -1621,16 +1621,7 @@
 <LM>w#w-lnd92251-071-p6s1w11</LM>
 </w.rf>
 <form>Quartett</form>
-<tag><AM lemma="Quartett_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Quartett_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Quartett_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Quartett_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Quartett-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Quartett_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Quartett_;R_^(časopis)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Quartett_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Quartett_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="quartett" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Quartett_;K_,t" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-071-p6s1w12">

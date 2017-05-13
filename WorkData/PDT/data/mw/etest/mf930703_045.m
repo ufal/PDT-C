@@ -574,20 +574,7 @@
 <LM>w#w-mf930703-045-p2s3w11</LM>
 </w.rf>
 <form>CEFIC</form>
-<tag><AM lemma="CEFIC_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEFIC_:B_;K_,t_^(Mez._org._svazů_chemie)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="IC-7_:B_;K_^(CEFIC_Banka)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="CEFIC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CEFIC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Cefic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Scientific-2_;R_,t_^(např._časopis_Cefic_American)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cefic_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cefic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cefice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cefice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cefic_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cefice_^(*3ík)" src="auto">NNFP2-----A----</AM>
-<AM lemma="cefic" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="CEFIC_:B_;K_,t" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-045-p2s3w12">
@@ -652,20 +639,7 @@
 <LM>w#w-mf930703-045-p3s1w5</LM>
 </w.rf>
 <form>CEFIC</form>
-<tag><AM lemma="CEFIC_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CEFIC_:B_;K_,t_^(Mez._org._svazů_chemie)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="IC-7_:B_;K_^(CEFIC_Banka)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="CEFIC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CEFIC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Cefic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Scientific-2_;R_,t_^(např._časopis_Cefic_American)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cefic_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cefic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cefice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cefice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cefic_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cefice_^(*3ík)" src="auto">NNFP2-----A----</AM>
-<AM lemma="cefic" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="CEFIC_:B_;K_,t" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-045-p3s1w6">
@@ -957,20 +931,7 @@
 <LM>w#w-mf930703-045-p4s1w1</LM>
 </w.rf>
 <form>CEFIC</form>
-<tag><AM lemma="CEFIC_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CEFIC_:B_;K_,t_^(Mez._org._svazů_chemie)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="IC-7_:B_;K_^(CEFIC_Banka)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="CEFIC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CEFIC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Cefic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Scientific-2_;R_,t_^(např._časopis_Cefic_American)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cefic_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cefic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cefice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cefice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cefic_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cefice_^(*3ík)" src="auto">NNFP2-----A----</AM>
-<AM lemma="cefic" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="CEFIC_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-045-p4s1w2">
@@ -1399,20 +1360,7 @@
 <LM>w#w-mf930703-045-p5s1w1</LM>
 </w.rf>
 <form>CEFIC</form>
-<tag><AM lemma="CEFIC_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CEFIC_:B_;K_,t_^(Mez._org._svazů_chemie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IC-7_:B_;K_^(CEFIC_Banka)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="CEFIC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="CEFIC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Cefic_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Scientific-2_;R_,t_^(např._časopis_Cefic_American)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cefic_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cefic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cefice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cefice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cefic_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cefice_^(*3ík)" src="auto">NNFP2-----A----</AM>
-<AM lemma="cefic" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="CEFIC_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-045-p5s1w2">

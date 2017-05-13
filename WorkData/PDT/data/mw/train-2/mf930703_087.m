@@ -618,16 +618,7 @@
 <LM>w#w-mf930703-087-p3s3w6</LM>
 </w.rf>
 <form>Goycochea</form>
-<tag><AM lemma="Goycochea_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Goycochea_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Goycochea_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Goycochea_;S_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Goycochea_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Goycochea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Goycoche_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Goycochea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Goycochea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="goycochea" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Goycochea_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-087-p3s3w7">
@@ -1153,16 +1144,7 @@
 <LM>w#w-mf930703-087-p5s1w18</LM>
 </w.rf>
 <form>Jair</form>
-<tag><AM lemma="Jair_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jair_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jair_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Jair_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jair_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="pair-2_^(au-Jair)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Jair_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Jair_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Jair_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="jair" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Jair_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-087-p5s1w19">

@@ -167,15 +167,7 @@
 <LM>w#w-lnd92252-080-p3s1w6</LM>
 </w.rf>
 <form>pd</form>
-<tag><AM lemma="pd-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="pd-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="pd" src="auto">NNNXX-----A---8</AM>
-<AM lemma="pd" src="auto">NNIS1-----A----</AM>
-<AM lemma="pd" src="auto">NNIS4-----A----</AM>
-<AM lemma="pd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pda" src="auto">NNFP2-----A----</AM>
-<AM lemma="pd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pd_;G" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="pd-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-080-p3s1w7">
@@ -1263,15 +1255,7 @@
 <LM>w#w-lnd92252-080-p5s1w19</LM>
 </w.rf>
 <form>Masalitinovi</form>
-<tag><AM lemma="Masalitin_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Masalitin_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Masalitin" src="auto">NNMS3-----A----</AM>
-<AM lemma="Masalitin_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Masalitina_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Masalitin_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Masalitin" src="auto">NNMS6-----A----</AM>
-<AM lemma="Masalitinův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="masalitinovi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Masalitin_;S" src="orig" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-080-p5s1w20">
@@ -5737,16 +5721,7 @@
 <LM>w#w-lnd92252-080-p9s3w4</LM>
 </w.rf>
 <form>Masalitin</form>
-<tag><AM lemma="Masalitin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Masalitina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Masalitin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Masalitin" src="auto">NNIS4-----A----</AM>
-<AM lemma="Masalitin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Masalitina" src="auto">CyFP2----------</AM>
-<AM lemma="Masalitin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Masalitiny" src="auto">NNFP2-----A----</AM>
-<AM lemma="Masalitina`80_^(*3)" src="auto">CyFP2----------</AM>
-<AM lemma="masalitin" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Masalitin_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-080-p9s3w5">

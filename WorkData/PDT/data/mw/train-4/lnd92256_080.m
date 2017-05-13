@@ -66,14 +66,7 @@
 <LM>w#w-lnd92256-080-p2s1w1</LM>
 </w.rf>
 <form>Comedia</form>
-<tag><AM lemma="Comedia_;m_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Comedium" src="auto">NNNS2-----A----</AM>
-<AM lemma="Comedium" src="auto">NNNP4-----A----</AM>
-<AM lemma="Comedium" src="auto">NNNP1-----A----</AM>
-<AM lemma="Comedio" src="auto">NNNS2-----A----</AM>
-<AM lemma="Comedio" src="auto">NNNP4-----A----</AM>
-<AM lemma="Comedio" src="auto" recommended="1">NNNP1-----A----</AM>
-<AM lemma="comedia" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Comedia_;m_,t" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-080-p2s1w2">

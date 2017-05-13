@@ -255,16 +255,7 @@
 <LM>w#w-mf930702-042-p2s1w25</LM>
 </w.rf>
 <form>Snellincka</form>
-<tag><AM lemma="Snellinck_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Snellincko_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Snellinck_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Snellincek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Snellinck_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Snellinck_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Snellinck_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Snellincka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Snellincek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="snellincka" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Snellinck_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-042-p2s1w26">
@@ -393,16 +384,7 @@
 <LM>w#w-mf930702-042-p2s2w5</LM>
 </w.rf>
 <form>Papca</form>
-<tag><AM lemma="Papco_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Papco_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Papca_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Papca_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Papco_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Papc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Papca_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Papca_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Papca_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="papca" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Papco_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-042-p2s2w6">
@@ -641,16 +623,7 @@
 <LM>w#w-mf930702-042-p2s4w7</LM>
 </w.rf>
 <form>Jordense</form>
-<tag><AM lemma="Jordens_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Jordens_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Jordens_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Jordenze" src="auto">NNFS2-----A----</AM>
-<AM lemma="Jordensa_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Jordens_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Jordens_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Jordens_:B_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Jordens-2_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="jordense" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Jordens_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-042-p2s4w8">
@@ -704,15 +677,7 @@
 <LM>w#w-mf930702-042-p2s4w13</LM>
 </w.rf>
 <form>Naussica</form>
-<tag><AM lemma="Naussica_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Naussica_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Naussica_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Naussica_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Naussica_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Naussica_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Naussica_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Naussica_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="naussica" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Naussica_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-042-p2s4w14">

@@ -113,15 +113,7 @@
 <LM>w#w-lnd92256-043-p3s1w3</LM>
 </w.rf>
 <form>jku</form>
-<tag><AM lemma="jku-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jka" src="auto">NNFS4-----A----</AM>
-<AM lemma="jka_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="jk" src="auto">NNIS6-----A----</AM>
-<AM lemma="jk" src="auto">NNIS2-----A----</AM>
-<AM lemma="jek" src="auto">NNIS6-----A----</AM>
-<AM lemma="jku-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jek" src="auto">NNIS2-----A----</AM>
-<AM lemma="jko_;G" src="auto">NNNS6-----A----</AM>
+<tag><AM lemma="jku-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-043-p3s1w4">
@@ -742,32 +734,7 @@
 <LM>w#w-lnd92256-043-p4s1w28</LM>
 </w.rf>
 <form>OZS</form>
-<tag><AM lemma="OZS_:B_;K_^(obvodní_zdravotnické_středisko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="OZS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OZS_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OZS_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="OZS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="OZS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OZS_:B_;K_^(obvodní_zdravotnické_středisko)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="OZS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="OZS_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Oz_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Oz_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Ozs" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ozs" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ozs_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ozs_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ozs_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ozs_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ozs" src="auto">NNMS1-----A----</AM>
-<AM lemma="ozs-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="ozs-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ozs-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="ozscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ozsoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="ozspolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ozstrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ozstátní_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="OZS_:B_;K_^(obvodní_zdravotnické_středisko)" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-043-p4s1w29">
@@ -1380,32 +1347,7 @@
 <LM>w#w-lnd92256-043-p5s1w6</LM>
 </w.rf>
 <form>OZS</form>
-<tag><AM lemma="OZS_:B_;K_^(obvodní_zdravotnické_středisko)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="OZS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OZS_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OZS_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="OZS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="OZS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OZS_:B_;K_^(obvodní_zdravotnické_středisko)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="OZS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="OZS_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Oz_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Oz_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Ozs" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ozs" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ozs_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ozs_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ozs_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ozs_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ozs" src="auto">NNMS1-----A----</AM>
-<AM lemma="ozs-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="ozs-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ozs-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="ozscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ozsoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="ozspolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ozstrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ozstátní_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="OZS_:B_;K_^(obvodní_zdravotnické_středisko)" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-043-p5s1w7">

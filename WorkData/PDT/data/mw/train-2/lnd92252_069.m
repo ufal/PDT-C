@@ -1091,16 +1091,7 @@
 <LM>w#w-lnd92252-069-p3s7w6</LM>
 </w.rf>
 <form>Scargill</form>
-<tag><AM lemma="Scargill_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Scargill_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Scargill_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Scargill_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Scargill_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Scargill_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Scargill_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Scargill_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Scargill_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="scargill" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Scargill_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-069-p3s7w7">

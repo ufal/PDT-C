@@ -5971,22 +5971,7 @@
 <LM>w#w-lnd92258-106-p6s7w50</LM>
 </w.rf>
 <form>XY</form>
-<tag><AM lemma="XY_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="XY_:B_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Xa" src="auto">NNFS2-----A----</AM>
-<AM lemma="Xa" src="auto">NNFP1-----A----</AM>
-<AM lemma="X" src="auto">NNIP1-----A----</AM>
-<AM lemma="X" src="auto">NNIP4-----A----</AM>
-<AM lemma="Xa" src="auto">NNFP4-----A----</AM>
-<AM lemma="X" src="auto">NNIP7-----A----</AM>
-<AM lemma="x" src="auto">NNIP1-----A----</AM>
-<AM lemma="x" src="auto">NNIP4-----A----</AM>
-<AM lemma="xa_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="x" src="auto">NNIP7-----A----</AM>
-<AM lemma="xy" src="auto">A2--------A----</AM>
-<AM lemma="xa" src="auto">NNFS2-----A----</AM>
-<AM lemma="xa" src="auto">NNFP1-----A----</AM>
-<AM lemma="xy_;m_^(klub)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="XY_:B_;Y" src="orig" selected="1">NNMXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-106-p6s7w51">

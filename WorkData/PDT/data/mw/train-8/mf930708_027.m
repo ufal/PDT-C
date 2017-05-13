@@ -176,16 +176,7 @@
 <LM>w#w-mf930708-027-p2s2w5</LM>
 </w.rf>
 <form>Mediata</form>
-<tag><AM lemma="Mediata_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Mediata" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Medie" src="auto">NNNP4-----A----</AM>
-<AM lemma="Medie" src="auto">NNNP1-----A----</AM>
-<AM lemma="Media" src="auto">NNNP1-----A----</AM>
-<AM lemma="Media" src="auto">NNNP4-----A----</AM>
-<AM lemma="Mediat" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mediata_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Medimout" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="mediata" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mediata_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-027-p2s2w6">

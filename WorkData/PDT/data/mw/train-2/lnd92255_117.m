@@ -3645,15 +3645,7 @@
 <LM>w#w-lnd92255-117-p7s1w16</LM>
 </w.rf>
 <form>least</form>
-<tag><AM lemma="least_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="least" src="auto">NNFS4-----A----</AM>
-<AM lemma="least" src="auto">NNFS1-----A----</AM>
-<AM lemma="least_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="least_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="least_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="least" src="auto">NNIS4-----A----</AM>
-<AM lemma="least" src="auto">NNIS1-----A----</AM>
-<AM lemma="leasta" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="least_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-117-p7s1w17">
@@ -3673,15 +3665,7 @@
 <LM>w#w-lnd92255-117-p7s1w18</LM>
 </w.rf>
 <form>integrated</form>
-<tag><AM lemma="integrated_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="integrated_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="integrated_;K_,t_^(souč._angl._názvu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="integrated_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="integrated" src="auto">NNIS4-----A----</AM>
-<AM lemma="integrated" src="auto">NNIS1-----A----</AM>
-<AM lemma="integrated_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="integrated-1" src="auto">Db-------------</AM>
-<AM lemma="integrated" src="auto">Db-------------</AM>
+<tag><AM lemma="integrated_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-117-p7s1w19">
@@ -3690,15 +3674,7 @@
 <LM>w#w-lnd92255-117-p7s1w19</LM>
 </w.rf>
 <form>planning</form>
-<tag><AM lemma="planning_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="planning_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="planning" src="auto">NNIS4-----A----</AM>
-<AM lemma="planning_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="planning" src="auto">NNIS1-----A----</AM>
-<AM lemma="planning_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="planning_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="planning_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="planning_;G" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="planning_,t" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-117-p7s1w20">
@@ -4442,16 +4418,7 @@
 <LM>w#w-lnd92255-117-p7s4w2</LM>
 </w.rf>
 <form>Massachussetts</form>
-<tag><AM lemma="Massachussetts_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Massachussetts_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Massachussetts_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Massachussetts_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Massachussett_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Massachussett_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Massachussetts_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Massachussett_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Massachussett_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="massachussetts" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Massachussetts_;G" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-117-p7s4w3">
@@ -7005,16 +6972,7 @@
 <LM>w#w-lnd92255-117-p9s3w18</LM>
 </w.rf>
 <form>Electricité</form>
-<tag><AM lemma="Electricité_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Electricitý" src="auto">AAFS2----1A----</AM>
-<AM lemma="Electricitý" src="auto">AANS1----1A----</AM>
-<AM lemma="Electricitý" src="auto">AAFP1----1A----</AM>
-<AM lemma="Electricitý" src="auto">AAIP4----1A----</AM>
-<AM lemma="Electricitý" src="auto">AANS4----1A----</AM>
-<AM lemma="Electricitý" src="auto">AAIP1----1A----</AM>
-<AM lemma="Electricitý" src="auto">AAFP4----1A----</AM>
-<AM lemma="Electricitý" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="electricité" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Electricité_;K_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-117-p9s3w19">
@@ -9388,16 +9346,7 @@
 <LM>w#w-lnd92255-117-p13s1w17</LM>
 </w.rf>
 <form>Bupp</form>
-<tag><AM lemma="Bupp_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bupp_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bupp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bupp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bupp_;S" src="auto">NNMSX-----A----</AM>
-<AM lemma="Bupp_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Bupp-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Bupp" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bupp" src="auto">NNIS4-----A----</AM>
-<AM lemma="bupp" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bupp_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-117-p13s1w18">
@@ -9439,16 +9388,7 @@
 <LM>w#w-lnd92255-117-p13s1w21</LM>
 </w.rf>
 <form>Energy</form>
-<tag><AM lemma="Energy_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Energy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Energa_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Energy_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Energy_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Energ" src="auto">NNMP7-----A----</AM>
-<AM lemma="Energ" src="auto">NNMP4-----A----</AM>
-<AM lemma="Energa" src="auto">NNFS2-----A----</AM>
-<AM lemma="Energ" src="auto">NNIP1-----A----</AM>
-<AM lemma="energy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Energy_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-117-p13s1w22">
@@ -9466,16 +9406,7 @@
 <LM>w#w-lnd92255-117-p13s1w23</LM>
 </w.rf>
 <form>Associates</form>
-<tag><AM lemma="Associates_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Associates_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Associate_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Associates_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Associates_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Associates_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Associates_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Associates_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Associates_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="associates" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Associates_;K_,t" src="orig" selected="1">NNMPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-117-p13s1w24">
@@ -9953,16 +9884,7 @@
 <LM>w#w-lnd92255-117-p13s3w25</LM>
 </w.rf>
 <form>McCollam</form>
-<tag><AM lemma="McCollam_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="McCollam" src="auto">NNIS1-----A----</AM>
-<AM lemma="McCollama" src="auto">NNFP2-----A----</AM>
-<AM lemma="McCollam_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="McCollam_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="McCollam_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="McCollam" src="auto">NNIS4-----A----</AM>
-<AM lemma="McCollam_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="McCollam_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mccollam" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="McCollam_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-117-p13s3w26">
@@ -10375,16 +10297,7 @@
 <LM>w#w-lnd92255-117-p14s1w27</LM>
 </w.rf>
 <form>Electricité</form>
-<tag><AM lemma="Electricité_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Electricitý" src="auto">AAFS2----1A----</AM>
-<AM lemma="Electricitý" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="Electricitý" src="auto">AAFP1----1A----</AM>
-<AM lemma="Electricitý" src="auto">AAIP4----1A----</AM>
-<AM lemma="Electricitý" src="auto">AANS4----1A----</AM>
-<AM lemma="Electricitý" src="auto">AAIP1----1A----</AM>
-<AM lemma="Electricitý" src="auto">AAFP4----1A----</AM>
-<AM lemma="Electricitý" src="auto">AAFS6----1A----</AM>
-<AM lemma="electricité" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Electricité_;K_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-117-p14s1w28">

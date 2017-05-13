@@ -3535,13 +3535,7 @@
 <LM>w#w-lnd92256-059-p7s1w4</LM>
 </w.rf>
 <form>rádiomost</form>
-<tag><AM lemma="rádiomost" src="orig">NNIS4-----A----</AM>
-<AM lemma="rádiomost_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="rádiomost_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="rádiomost" src="auto">NNFS4-----A----</AM>
-<AM lemma="rádiomost" src="auto">NNFS1-----A----</AM>
-<AM lemma="rádiomost" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="rádiomost_,a_^(*3ý)" src="auto">NNFS4-----A----</AM>
+<tag><AM lemma="rádiomost" src="orig" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-059-p7s1w5">
@@ -3957,15 +3951,7 @@
 <LM>w#w-lnd92256-059-p7s2w35</LM>
 </w.rf>
 <form>Weidler</form>
-<tag><AM lemma="Weidler_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Weidler_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Weidler" src="auto">NNIS1-----A----</AM>
-<AM lemma="Weidler" src="auto">NNIS4-----A----</AM>
-<AM lemma="Weidler_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Weidler_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Weidler_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Weidler-2_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="weidler" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Weidler_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-059-p7s2w36">

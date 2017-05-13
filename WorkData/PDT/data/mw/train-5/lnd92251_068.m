@@ -825,16 +825,7 @@
 <LM>w#w-lnd92251-068-p3s5w13</LM>
 </w.rf>
 <form>Kreuznach</form>
-<tag><AM lemma="Kreuznach_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kreuznach_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kreuznach" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kreuznach" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kreuznach_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Kreuznach_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="prach-1_^(střelný_Kreuznach)" src="auto">NNIS4-----A----</AM>
-<AM lemma="prach-1_^(střelný_Kreuznach)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kreuznacha" src="auto">NNFP2-----A----</AM>
-<AM lemma="kreuznach" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kreuznach_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-068-p3s5w14">

@@ -935,16 +935,7 @@
 <LM>w#w-lnd92255-094-p1s4w24</LM>
 </w.rf>
 <form>Bei</form>
-<tag><AM lemma="Bei_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bei_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Bei_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bei_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Dei_;S_^(Bei-Anang)" src="auto">A2--------A----</AM>
-<AM lemma="Beum" src="auto">NNNP7-----A----</AM>
-<AM lemma="Bei_;b_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Bei_;K_,t" src="auto" recommended="1">RR--X----------</AM>
-<AM lemma="Bei_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="bei" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bei_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-094-p1s4w25">
@@ -962,25 +953,7 @@
 <LM>w#w-lnd92255-094-p1s4w26</LM>
 </w.rf>
 <form>Visser</form>
-<tag><AM lemma="Visser_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Visser" src="auto">NNIS1-----A----</AM>
-<AM lemma="Visser" src="auto">NNIS4-----A----</AM>
-<AM lemma="Visser" src="auto">NNMS1-----A----</AM>
-<AM lemma="Visser_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Visser_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Visser_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Visser_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Visser_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="visser" src="auto">NNMS1-----A----</AM>
-<AM lemma="visser-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="visser_^(er-forma)" src="auto">A2--------A----</AM>
-<AM lemma="visser_^(název_hlásky_r)" src="auto">NNNXX-----A----</AM>
-<AM lemma="visserežie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="visserok_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="visseručení_:B" src="auto">NNNS7-----A---8</AM>
-<AM lemma="vissrát" src="auto">Vi-S---2--A----</AM>
-<AM lemma="vissrát" src="auto">Vi-S---3--A---4</AM>
-<AM lemma="vissérum" src="auto">NNNP2-----A----</AM>
+<tag><AM lemma="Visser_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-094-p1s4w27">
@@ -1007,15 +980,7 @@
 <LM>w#w-lnd92255-094-p1s4w29</LM>
 </w.rf>
 <form>Vische</form>
-<tag><AM lemma="Visch_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Visch_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Vische_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vische_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Vische_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Visch_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Manche_;G_^(La_Vische)" src="auto">NNISX-----A----</AM>
-<AM lemma="Visch_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="vische" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Visch_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-094-p1s4w30">

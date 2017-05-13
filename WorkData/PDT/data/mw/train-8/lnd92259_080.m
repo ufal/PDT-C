@@ -2452,16 +2452,7 @@
 <LM>w#w-lnd92259-080-p8s1w4</LM>
 </w.rf>
 <form>Libertas</form>
-<tag><AM lemma="Libertas_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Libertas_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Libertas_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Libertas_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Libertas_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Libertas_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Libertas-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Libertas" src="auto">NNIS1-----A----</AM>
-<AM lemma="Libertas" src="auto">NNIS4-----A----</AM>
-<AM lemma="libertas" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Libertas_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-080-p8s1w5">
@@ -4087,16 +4078,7 @@
 <LM>w#w-lnd92259-080-p12s1w4</LM>
 </w.rf>
 <form>Libertas</form>
-<tag><AM lemma="Libertas_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Libertas_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Libertas_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Libertas_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Libertas_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Libertas_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Libertas-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Libertas" src="auto">NNIS1-----A----</AM>
-<AM lemma="Libertas" src="auto">NNIS4-----A----</AM>
-<AM lemma="libertas" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Libertas_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-080-p12s1w5">

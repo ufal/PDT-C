@@ -993,16 +993,7 @@
 <LM>w#w-mf930701-165-p3s1w14</LM>
 </w.rf>
 <form>Bachmeiera</form>
-<tag><AM lemma="Bachmeier_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Bachmeier_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Bachmeier_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bachmeiera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bachmeier" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bachmeier" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bachmeiera" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bachmeier_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bachmeiero" src="auto">NNNS2-----A----</AM>
-<AM lemma="bachmeiera" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bachmeier_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-165-p3s1w15">
@@ -1766,15 +1757,7 @@
 <LM>w#w-mf930701-165-p4s3w5</LM>
 </w.rf>
 <form>ilegálové</form>
-<tag><AM lemma="ilegál_,l" src="orig">NNMP1-----A----</AM>
-<AM lemma="ilegálový" src="auto">AAFS2----1A----</AM>
-<AM lemma="ilegálová_;S" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="ilegálový" src="auto">AAFS6----1A----</AM>
-<AM lemma="ilegálový" src="auto">AAFP1----1A----</AM>
-<AM lemma="ilegálový" src="auto">AAIP1----1A----</AM>
-<AM lemma="ilegálový" src="auto">AAIP4----1A----</AM>
-<AM lemma="ilegálový" src="auto">AAFP4----1A----</AM>
-<AM lemma="ilegálový" src="auto">AANS1----1A----</AM>
+<tag><AM lemma="ilegál_,l" src="orig" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-165-p4s3w6">

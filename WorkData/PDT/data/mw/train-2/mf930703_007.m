@@ -547,16 +547,7 @@
 <LM>w#w-mf930703-007-p2s3w4</LM>
 </w.rf>
 <form>Krenkel</form>
-<tag><AM lemma="Krenkel_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krenkel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Krenkel_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krenklo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Krenkel_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Krenkel" src="auto">NNMS1-----A----</AM>
-<AM lemma="Krenket_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Krenket" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Krenkel" src="auto">NNIS1-----A----</AM>
-<AM lemma="krenkel" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Krenkel_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-007-p2s3w5">

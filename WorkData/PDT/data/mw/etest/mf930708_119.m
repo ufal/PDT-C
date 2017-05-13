@@ -66,16 +66,7 @@
 <LM>w#w-mf930708-119-p2s1w5</LM>
 </w.rf>
 <form>Solves</form>
-<tag><AM lemma="Solves_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Solves_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Solve_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Solvesa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Solves_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Solves_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Solves-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Solves" src="auto">NNIS4-----A----</AM>
-<AM lemma="Solves" src="auto">NNFS4-----A----</AM>
-<AM lemma="solves" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Solves_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p2s1w6">
@@ -360,16 +351,7 @@
 <LM>w#w-mf930708-119-p2s4w2</LM>
 </w.rf>
 <form>Zöcke</form>
-<tag><AM lemma="Zöcke_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zöcke_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zöcke_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Zöcke_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Zöcke_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zöcke_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Zöcke_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Zöcka_,t" src="auto">NNFS6-----A----</AM>
-<AM lemma="Zöck-1" src="auto">RV--3----------</AM>
-<AM lemma="zöcke" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Zöcke_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p2s4w3">
@@ -719,16 +701,7 @@
 <LM>w#w-mf930708-119-p2s8w2</LM>
 </w.rf>
 <form>Ondruska</form>
-<tag><AM lemma="Ondruska_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ondrusko_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Ondruska" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ondrusko" src="auto">NNNS2-----A----</AM>
-<AM lemma="Ondrusko" src="auto">NNNP1-----A----</AM>
-<AM lemma="Ondruska_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ondrusko" src="auto">NNNP4-----A----</AM>
-<AM lemma="Ondrusek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ondrusek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ondruska" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ondruska_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p2s8w3">
@@ -1759,16 +1732,7 @@
 <LM>w#w-mf930708-119-p4s3w13</LM>
 </w.rf>
 <form>MacPhie</form>
-<tag><AM lemma="MacPhie_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="MacPhie" src="auto">NNFS2-----A----</AM>
-<AM lemma="MacPhie" src="auto">NNFS1-----A----</AM>
-<AM lemma="MacPhia_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="MacPhie" src="auto">NNFP4-----A----</AM>
-<AM lemma="MacPhie" src="auto">NNFP1-----A----</AM>
-<AM lemma="MacPhie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="MacPhie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="MacPhie_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Macphie" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="MacPhie_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p4s3w14">
@@ -2525,15 +2489,7 @@
 <LM>w#w-mf930708-119-p4s7w10</LM>
 </w.rf>
 <form>Ruah</form>
-<tag><AM lemma="Ruah_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ruah" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ruah" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ruaha" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ruah_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ruah_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ruah_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ruah" src="auto">NNMS1-----A----</AM>
-<AM lemma="ruah" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ruah_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p4s7w11">
@@ -3120,16 +3076,7 @@
 <LM>w#w-mf930708-119-p5s1w29</LM>
 </w.rf>
 <form>McEnroem</form>
-<tag><AM lemma="McEnroe_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="McEnroe_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="McEnroe-1_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="McEnro" src="auto">NNIS7-----A----</AM>
-<AM lemma="McEnro_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="McEnro" src="auto">NNMS7-----A----</AM>
-<AM lemma="McEnroo" src="auto">NNNS7-----A----</AM>
-<AM lemma="McEnro_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="McEnro_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Mcenroem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="McEnroe_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p5s1w30">

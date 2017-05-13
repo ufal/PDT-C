@@ -671,16 +671,7 @@
 <LM>w#w-lnd92253-074-p5s6w6</LM>
 </w.rf>
 <form>Lauff</form>
-<tag><AM lemma="Lauff_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lauff_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lauff" src="auto">II-------------</AM>
-<AM lemma="Lauff_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lauff_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lauff_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lauff_;R_^(vodka)" src="auto">NNFSX-----A----</AM>
-<AM lemma="Lauff_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lauff-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="auto">TT-------------</AM>
-<AM lemma="lauff" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lauff_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-074-p5s6w7">

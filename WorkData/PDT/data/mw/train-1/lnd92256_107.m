@@ -662,15 +662,7 @@
 <LM>w#w-lnd92256-107-p2s5w1</LM>
 </w.rf>
 <form>Bratseth</form>
-<tag><AM lemma="Bratseth_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bratseth_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bratseth_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bratseth_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bratseth_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Bratseth_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bratseth_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bratseth_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="bratseth" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bratseth_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-107-p2s5w2">

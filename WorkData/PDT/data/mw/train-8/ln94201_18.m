@@ -1035,28 +1035,7 @@
 <LM>w#w-ln94201-18-p3s2w36</LM>
 </w.rf>
 <form>EBA</form>
-<tag><AM lemma="EBA_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EBA_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="EBA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EBA_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="EBA_:B_;K_,t_^(British_Airways)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EBA_:B_;K_,t_^(Bermuda_International_Bussiness_Association)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Eba" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eba_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eba-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Eb_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Eba_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eba_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eb_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Eba_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="eba_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="eba_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="eba-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="eba" src="auto">NNFS1-----A----</AM>
-<AM lemma="éb" src="auto">NNIS4-----A----</AM>
-<AM lemma="éb" src="auto">NNIS2-----A----</AM>
-<AM lemma="eba_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="eba_;K_,t" src="auto">NNFS1-----A----</AM>
+<tag><AM lemma="EBA_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-18-p3s2w37">

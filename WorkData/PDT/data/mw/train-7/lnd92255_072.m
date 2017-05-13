@@ -1188,16 +1188,7 @@
 <LM>w#w-lnd92255-072-p5s1w2</LM>
 </w.rf>
 <form>Finacial</form>
-<tag><AM lemma="Finacial_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Finacial_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Finacial_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Finacial_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Escorial-1_;G_^(El_Finacial,_šp._král._sídlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Finacial_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Finacial_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Finacial_;R_,t_^(např._F.Times)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Finacial_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="finacial" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Finacial_;R_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-072-p5s1w3">
@@ -2045,16 +2036,7 @@
 <LM>w#w-lnd92255-072-p6s1w48</LM>
 </w.rf>
 <form>Independent</form>
-<tag><AM lemma="Independent_;R_,t" src="orig">NNMSX-----A----</AM>
-<AM lemma="Independent" src="auto">NNIS1-----A----</AM>
-<AM lemma="Independent" src="auto">NNMS1-----A----</AM>
-<AM lemma="Independent" src="auto">NNIS4-----A----</AM>
-<AM lemma="Independent_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Independent_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Independent_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Independent_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Independent_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="independent" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Independent_;R_,t" src="orig" selected="1">NNMSX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-072-p6s1w49">
@@ -3074,14 +3056,7 @@
 <LM>w#w-lnd92255-072-p7s3w1</LM>
 </w.rf>
 <form>Nowy</form>
-<tag><AM lemma="Nowy_;R_,t" src="orig">AAIS1----1A----</AM>
-<AM lemma="Nowy_;R_,t" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="Nowy_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Nowy_;K_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Nowa_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Nowa_;K_;R" src="auto">NNFS2-----A----</AM>
-<AM lemma="Nowa_;K_;R" src="auto">NNFP1-----A----</AM>
-<AM lemma="nowy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nowy_;R_,t" src="orig" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-072-p7s3w2">
@@ -3090,16 +3065,7 @@
 <LM>w#w-lnd92255-072-p7s3w2</LM>
 </w.rf>
 <form>Swiat</form>
-<tag><AM lemma="Swiat_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Swiat_;R_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Swiat_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Swiat_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Swiat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Swiat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Swiat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Swiat_:T_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Swiat_:T_^(*4at)" src="auto">Vf--------A----</AM>
-<AM lemma="swiat" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Swiat_;R_,t" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-072-p7s3w3">
@@ -3300,16 +3266,7 @@
 <LM>w#w-lnd92255-072-p7s4w14</LM>
 </w.rf>
 <form>Sztandar</form>
-<tag><AM lemma="Sztandar_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sztandar" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sztandar" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sztandar_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sztandar_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sztandar_;R_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Sztandar_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sztandar" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sztandar_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="sztandar" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sztandar_;R_,t" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-072-p7s4w15">
@@ -3318,16 +3275,7 @@
 <LM>w#w-lnd92255-072-p7s4w15</LM>
 </w.rf>
 <form>Mlodych</form>
-<tag><AM lemma="Mlodych_;R_,t" src="orig">NNMP2-----A----</AM>
-<AM lemma="Mlodych_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mlody" src="auto">J,-S---1-------</AM>
-<AM lemma="Mlodych" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mlodýt" src="auto">Vc-S---1-------</AM>
-<AM lemma="Mlodychology_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Mlodych_;R_,t" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="Mlodych_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mlodych" src="auto">NNIS1-----A----</AM>
-<AM lemma="mlodych" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mlodych_;R_,t" src="orig" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-072-p7s4w16">

@@ -3891,16 +3891,7 @@
 <LM>w#w-lnd92254-087-p6s3w6</LM>
 </w.rf>
 <form>Hánákům</form>
-<tag><AM lemma="Hánák_;E" src="orig">NNMP3-----A----</AM>
-<AM lemma="Hánák" src="auto">NNMP3-----A----</AM>
-<AM lemma="Hánáek" src="auto">NNIP3-----A----</AM>
-<AM lemma="Hánák" src="auto">NNIP3-----A----</AM>
-<AM lemma="Hánáko" src="auto">NNNP3-----A----</AM>
-<AM lemma="Hánáek" src="auto">NNMP3-----A----</AM>
-<AM lemma="Hánák_;E" src="auto" recommended="1">NNMP3-----A----</AM>
-<AM lemma="Hánákum" src="auto">NNNP3-----A----</AM>
-<AM lemma="Hánáky_;G" src="auto">NNIP3-----A----</AM>
-<AM lemma="hánákům" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hánák_;E" src="orig" selected="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-087-p6s3w7">

@@ -321,16 +321,7 @@
 <LM>w#w-lnd92255-020-p2s1w31</LM>
 </w.rf>
 <form>Libri</form>
-<tag><AM lemma="Libri_;m_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Libri_;m_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Libri_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Libri_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Libri_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Libri_,t" src="auto">Db-------------</AM>
-<AM lemma="Libri_;m" src="auto">ClXP1----------</AM>
-<AM lemma="Libri_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Libri_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="libri" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Libri_;m_,t" src="orig" selected="1">NNFPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-020-p2s1w32">

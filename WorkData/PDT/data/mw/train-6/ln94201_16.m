@@ -2191,13 +2191,7 @@
 <LM>w#w-ln94201-16-p5s1w7</LM>
 </w.rf>
 <form>Verstappena</form>
-<tag><AM lemma="Verstappen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Verstappit_:W" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="Verstappit" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="Verstappen_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Verstappen_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Verstappena_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="verstappena" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Verstappen_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-16-p5s1w8">

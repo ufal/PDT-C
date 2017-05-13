@@ -86,15 +86,7 @@
 <LM>w#w-mf930708-081-p2s1w6</LM>
 </w.rf>
 <form>lík</form>
-<tag><AM lemma="lík-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lík_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík" src="auto">NNIS4-----A----</AM>
-<AM lemma="lík" src="auto">NNIS1-----A----</AM>
-<AM lemma="lík" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="lík-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<tag><AM lemma="lík-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-081-p2s1w7">
@@ -893,16 +885,7 @@
 <LM>w#w-mf930708-081-p3s1w12</LM>
 </w.rf>
 <form>Nicols</form>
-<tag><AM lemma="Nicols_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Nicol_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Nicols_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nicols_;S" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Nicols_;S" src="auto">NNFSX-----A----</AM>
-<AM lemma="Nicols_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Nicols" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nicol_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Nicol_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="nicols" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nicols_;S" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-081-p3s1w13">
@@ -958,16 +941,7 @@
 <LM>w#w-mf930708-081-p3s2w2</LM>
 </w.rf>
 <form>Keatons</form>
-<tag><AM lemma="Keatons_;K" src="orig">NNMPX-----A----</AM>
-<AM lemma="Keaton_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Keaton_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Keatons_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Keaton_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Keatons_;K" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Keaton_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Keaton_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Keaton_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="keatons" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Keatons_;K" src="orig" selected="1">NNMPX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-081-p3s2w3">
@@ -1170,16 +1144,7 @@
 <LM>w#w-mf930708-081-p3s2w24</LM>
 </w.rf>
 <form>Yabu</form>
-<tag><AM lemma="Yaba_;K" src="orig">NNFS4-----A----</AM>
-<AM lemma="Yaba_;K" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Yaba" src="auto">NNFS4-----A----</AM>
-<AM lemma="Yab_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Yab_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Yab" src="auto">NNIS6-----A----</AM>
-<AM lemma="Yabu" src="auto">NNNXX-----A----</AM>
-<AM lemma="Yab" src="auto">NNIS2-----A----</AM>
-<AM lemma="Yab" src="auto">NNIS3-----A----</AM>
-<AM lemma="yabu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Yaba_;K" src="orig" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-081-p3s2w25">

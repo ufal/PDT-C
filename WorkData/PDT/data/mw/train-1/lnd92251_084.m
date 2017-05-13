@@ -1688,15 +1688,7 @@
 <LM>w#w-lnd92251-084-p5s2w12</LM>
 </w.rf>
 <form>Graig</form>
-<tag><AM lemma="Graig_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Graig_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Graig_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Graig_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Graig_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Big-1_;K_,t_^(souč._názvů,_např._Graig_Ben)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Graiginální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Graig_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="graig" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Graig_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-084-p5s2w13">
@@ -2835,16 +2827,7 @@
 <LM>w#w-lnd92251-084-p5s9w19</LM>
 </w.rf>
 <form>Lemelin</form>
-<tag><AM lemma="Lemelin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lemelin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lemelina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Lemelin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lemelin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lemelin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lemelín" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lemeliny" src="auto">NNFP2-----A----</AM>
-<AM lemma="Lemelino" src="auto">NNNP2-----A----</AM>
-<AM lemma="lemelin" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lemelin_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-084-p5s9w20">
@@ -4773,16 +4756,7 @@
 <LM>w#w-lnd92251-084-p7s23w1</LM>
 </w.rf>
 <form>Smytheova</form>
-<tag><AM lemma="Smytheův_;S_^(*2)" src="orig">AUFS1M---------</AM>
-<AM lemma="Smytheův_;S_^(*2)" src="auto" recommended="1">AUFS1M---------</AM>
-<AM lemma="Smytheův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Smytheov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Smytheov_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Smytheův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Smytheův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Smytheov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Smytheův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="smytheova" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Smytheův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-084-p7s23w2">

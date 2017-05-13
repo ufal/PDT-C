@@ -48,20 +48,7 @@
 <LM>w#w-lnd92251-030-p1s1w4</LM>
 </w.rf>
 <form>ENVIBRNO</form>
-<tag><AM lemma="Envibrno_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="ENVIBrno_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="ENVIBrno_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="ENVIBRNO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ENVIBRNO_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Envibrno_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Envibrno" src="auto">NNNS1-----A----</AM>
-<AM lemma="Envibrný" src="auto">ACNS------A----</AM>
-<AM lemma="Envibrno_;m" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Envibrno_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Envibrno_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Envibrno_;R_^(značka_piva)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Envibrno_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="envibrno" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Envibrno_;m" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-030-p1s1w5">
@@ -88,16 +75,7 @@
 <LM>w#w-lnd92251-030-p1s1w7</LM>
 </w.rf>
 <form>NOVELTIES</form>
-<tag><AM lemma="Novelty_;m_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="NOVELTIES" src="auto">NNMS1-----A----</AM>
-<AM lemma="Novelty_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Noveltie_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Novelty_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Novelties_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Novelties_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Novelties_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Novelties" src="auto">NNMPX-----A----</AM>
-<AM lemma="Novelty_;m_,t" src="auto" recommended="1">NNFPX-----A----</AM>
+<tag><AM lemma="Novelty_;m_,t" src="orig" selected="1">NNFPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-030-p1s1w8">
@@ -842,23 +820,7 @@
 <LM>w#w-lnd92251-030-p4s1w22</LM>
 </w.rf>
 <form>IFABO</form>
-<tag><AM lemma="IFABO_:B_;m" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IFABO_:B_;m" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="IFABO_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="IFABO_:B_;K_^(film._kanál)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IFABO_:B_;K_,t_^(Western_Buddhists_Order)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IFABO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IFABO_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IFABO_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IFABO_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ifabo_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ifabo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ifabo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ifabo" src="auto">J^-------------</AM>
-<AM lemma="Ifabo_;Y" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ifabo_;Y" src="auto">NNMSX-----A----</AM>
-<AM lemma="Ifabo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ifabo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="IFABO_:B_;m" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92251-030-p4s1w23">
@@ -2131,20 +2093,7 @@
 <LM>w#w-lnd92251-030-p6s1w10</LM>
 </w.rf>
 <form>ENVIBRNO</form>
-<tag><AM lemma="Envibrno_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="ENVIBrno_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="ENVIBrno_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="ENVIBRNO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ENVIBRNO_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Envibrno_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Envibrno" src="auto">NNNS1-----A----</AM>
-<AM lemma="Envibrný" src="auto">ACNS------A----</AM>
-<AM lemma="Envibrno_;m" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Envibrno_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Envibrno_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Envibrno_;R_^(značka_piva)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Envibrno_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="envibrno" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Envibrno_;m" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-030-p6s1w11">
@@ -3014,16 +2963,7 @@
 <LM>w#w-lnd92251-030-p7s1w21</LM>
 </w.rf>
 <form>Novelties</form>
-<tag><AM lemma="Novelty_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Novelty_;K_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Noveltie_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Novelty_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Novelties_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Novelties_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Novelties_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Novelties" src="auto">NNMPX-----A----</AM>
-<AM lemma="Novelty_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="novelties" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Novelty_;K_,t" src="orig" selected="1">NNFPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-030-p7s1w22">

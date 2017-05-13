@@ -84,16 +84,7 @@
 <LM>w#w-mf930701-075-p3s1w4</LM>
 </w.rf>
 <form>Mapei</form>
-<tag><AM lemma="Mapei_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mapei_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Mapei_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mapei_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mapei_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mapei_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dei_;S_^(Mapei-Anang)" src="auto">A2--------A----</AM>
-<AM lemma="Mapeum" src="auto">NNNP7-----A----</AM>
-<AM lemma="Mapei_;b_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="mapei" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mapei_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-075-p3s1w5">
@@ -1050,16 +1041,7 @@
 <LM>w#w-mf930701-075-p3s7w45</LM>
 </w.rf>
 <form>Soldenu</form>
-<tag><AM lemma="Solden_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Solden_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Solden_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Solden_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Soldena" src="auto">NNFS4-----A----</AM>
-<AM lemma="Solden" src="auto">NNIS2-----A----</AM>
-<AM lemma="Soldit_:W" src="auto">VsFS4--XX-AP---</AM>
-<AM lemma="Soldenout" src="auto">VB-S---1P-AA---</AM>
-<AM lemma="Soldena_;Y" src="auto">NNFS4-----A----</AM>
-<AM lemma="soldenu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Solden_;G" src="orig" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-075-p3s7w46">

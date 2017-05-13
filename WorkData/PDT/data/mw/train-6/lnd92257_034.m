@@ -647,15 +647,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>užgodorské</form>
-<tag><AM lemma="užgorodský" src="orig">AAFS2----1A----</AM>
-<AM lemma="užgodorský" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="užgodorský" src="auto">AAFS6----1A----</AM>
-<AM lemma="užgodorský" src="auto">AANS1----1A----</AM>
-<AM lemma="užgodorský" src="auto">AAFP1----1A----</AM>
-<AM lemma="užgodorský" src="auto">AAIP1----1A----</AM>
-<AM lemma="užgodorský" src="auto">AANS4----1A----</AM>
-<AM lemma="užgodorský" src="auto">AAFP4----1A----</AM>
-<AM lemma="užgodorský" src="auto">AAFS3----1A----</AM>
+<tag><AM lemma="užgorodský" src="orig" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-034-p2s2w11">
@@ -700,16 +692,7 @@
 <LM>w#w-lnd92257-034-p2s2w15</LM>
 </w.rf>
 <form>Landovskyj</form>
-<tag><AM lemma="Landovskyj_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Landovskyj_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Landovskyj_;G_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Landovskyj_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Landovskyj_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Landovskyj_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Landovskyj" src="auto">NNIS1-----A----</AM>
-<AM lemma="Landovskyj" src="auto">NNIS4-----A----</AM>
-<AM lemma="Landovskyj_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="landovskyj" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Landovskyj_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-034-p2s2w16">
@@ -1294,16 +1277,7 @@
 <LM>w#w-lnd92257-034-p3s2w5</LM>
 </w.rf>
 <form>Saláhaddínu</form>
-<tag><AM lemma="Saláhaddín_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Saláhaddína" src="auto">NNFS4-----A----</AM>
-<AM lemma="Saláhaddín" src="auto">NNIS2-----A----</AM>
-<AM lemma="Saláhaddín_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Saláhaddín" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Saláhaddín" src="auto">NNIS3-----A----</AM>
-<AM lemma="Saláhaddína_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Saláhaddín_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Saláhaddín_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="saláhaddínu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Saláhaddín_;G" src="orig" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-034-p3s2w6">
@@ -2606,15 +2580,7 @@
 <LM>w#w-lnd92257-034-p6s1w11</LM>
 </w.rf>
 <form>Dolgenbrodtu</form>
-<tag><AM lemma="Dolgenbrodt_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Dolgenbrodt_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Dolgenbrodt_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Dolgenbrodt_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Dolgenbrodt" src="auto">NNIS2-----A----</AM>
-<AM lemma="Dolgenbrodta" src="auto">NNFS4-----A----</AM>
-<AM lemma="Dolgenbrodt" src="auto">NNIS6-----A----</AM>
-<AM lemma="Dolgenbrodt" src="auto">NNIS3-----A----</AM>
-<AM lemma="dolgenbrodtu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Dolgenbrodt_;G" src="orig" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-034-p6s1w12">

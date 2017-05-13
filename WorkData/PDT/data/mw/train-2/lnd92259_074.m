@@ -1138,15 +1138,7 @@
 <LM>w#w-lnd92259-074-p5s1w12</LM>
 </w.rf>
 <form>Perrenoud</form>
-<tag><AM lemma="Perrenoud_;K_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="Perrenoud" src="auto">NNIS1-----A----</AM>
-<AM lemma="Perrenoud" src="auto">NNIS4-----A----</AM>
-<AM lemma="Perrenoud_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perrenoud_;K_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perrenoud_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Perrenoud-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perrenoud" src="auto">NNMS1-----A----</AM>
-<AM lemma="perrenoud" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Perrenoud_;K_,t" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-074-p5s1w13">
@@ -2101,16 +2093,7 @@
 <LM>w#w-lnd92259-074-p8s1w4</LM>
 </w.rf>
 <form>Rittrem</form>
-<tag><AM lemma="Rittr_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Rittr" src="auto">NNIS7-----A----</AM>
-<AM lemma="Rittr" src="auto">NNMS7-----A----</AM>
-<AM lemma="Rittr_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Rittr_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Rittro" src="auto">NNNS7-----A----</AM>
-<AM lemma="Rittr_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Rittrma" src="auto">NNFP2-----A----</AM>
-<AM lemma="Rittre_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="rittrem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rittr_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-074-p8s1w5">
@@ -2805,24 +2788,7 @@
 <LM>w#w-lnd92259-074-p9s1w55</LM>
 </w.rf>
 <form>DnZ</form>
-<tag><AM lemma="DnZ_:B_;K_^(Divadlo_na_Zábradlí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="DnZ_:B_;K_^(Divadlo_na_Zábradlí)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="DnZ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DnZ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AZ-2_:B_;K_^(např._DnZ_agentura)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Dnz-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Dnz-1" src="auto">RR--2----------</AM>
-<AM lemma="DnZ-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DnZ-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Dnz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dnz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dns" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dnz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dnz_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Dnz-1_;K_;R_^(vozidlo)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Dnz" src="auto">NNXXX-----A----</AM>
-<AM lemma="Dnz" src="auto">NNMS1-----A----</AM>
-<AM lemma="dnz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="DnZ_:B_;K_^(Divadlo_na_Zábradlí)" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-074-p9s1w56">

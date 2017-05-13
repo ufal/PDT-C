@@ -605,13 +605,7 @@
 <LM>w#w-mf930702-071-p2s3w18</LM>
 </w.rf>
 <form>Eydelieho</form>
-<tag><AM lemma="Eydelie_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Eydelie_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Eydelie_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Eydelie_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Eydelie_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Eydelie-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="eydelieho" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Eydelie_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-071-p2s3w19">

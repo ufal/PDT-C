@@ -1832,16 +1832,7 @@
 <LM>w#w-ln94201-119-p2s8w23</LM>
 </w.rf>
 <form>Kavlina</form>
-<tag><AM lemma="Kavlin_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Kavlina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kavlin_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Kavlina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kavlin_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kavlina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kavlina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kavlin_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kavlina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="kavlina" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kavlin_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-119-p2s8w24">
@@ -2619,16 +2610,7 @@
 <LM>w#w-ln94201-119-p3s2w2</LM>
 </w.rf>
 <form>Guettaová</form>
-<tag><AM lemma="Guettaová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Guettaová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Guettaový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Guettaový" src="auto">AANP1----1A----</AM>
-<AM lemma="Guettaový" src="auto">AANP4----1A----</AM>
-<AM lemma="Guettaová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Guettaová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Guettaový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Guettaový" src="auto">AAFS5----1A----</AM>
-<AM lemma="guettaová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Guettaová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-119-p3s2w3">
@@ -2796,15 +2778,7 @@
 <LM>w#w-ln94201-119-p3s3w6</LM>
 </w.rf>
 <form>Orgel</form>
-<tag><AM lemma="Orgel_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Orgel_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Orgel_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Orgel_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Orgel_;R_,t_^(př._něm._noviny)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Orgel_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Orgel-1_;K_,t_^(souč._názvu_Der_S.)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Orgel" src="auto">NNMS1-----A----</AM>
-<AM lemma="orgel" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Orgel_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-119-p3s3w7">
@@ -2941,16 +2915,7 @@
 <LM>w#w-ln94201-119-p3s4w4</LM>
 </w.rf>
 <form>Yossi</form>
-<tag><AM lemma="Yossi_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Yossi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Yossi_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Yosse" src="auto">NNFS4-----A----</AM>
-<AM lemma="Yosse" src="auto">NNFS3-----A----</AM>
-<AM lemma="Yosse" src="auto">NNFS6-----A----</AM>
-<AM lemma="Yossi" src="auto">Db-------------</AM>
-<AM lemma="Yoss_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="Yoss" src="auto">NNMP1-----A---1</AM>
-<AM lemma="yossi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Yossi_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-119-p3s4w5">
@@ -2959,16 +2924,7 @@
 <LM>w#w-ln94201-119-p3s4w5</LM>
 </w.rf>
 <form>Breger</form>
-<tag><AM lemma="Breger_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Breger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Breger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Breger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Brežer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Breger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Breger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Breger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Breger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="breger" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Breger_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-119-p3s4w6">
@@ -3141,16 +3097,7 @@
 <LM>w#w-ln94201-119-p3s5w7</LM>
 </w.rf>
 <form>Yosaif</form>
-<tag><AM lemma="Yosaif_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Yosaif_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Yosaif_,t" src="auto">J^-------------</AM>
-<AM lemma="Yosaif-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Yosaif" src="auto">NNIS4-----A----</AM>
-<AM lemma="Yosaif" src="auto">NNIS1-----A----</AM>
-<AM lemma="Yosaif_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Yosaif_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Yosaif" src="auto">NNMS1-----A----</AM>
-<AM lemma="yosaif" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Yosaif_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-119-p3s5w8">
@@ -3159,16 +3106,7 @@
 <LM>w#w-ln94201-119-p3s5w8</LM>
 </w.rf>
 <form>Cohain</form>
-<tag><AM lemma="Cohain_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cohain_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cohain_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cohain_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cohain_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cohain_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cohain_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cohain_;G_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Cohain_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="cohain" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cohain_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-119-p3s5w9">
@@ -3188,15 +3126,7 @@
 <LM>w#w-ln94201-119-p3s6w1</LM>
 </w.rf>
 <form>Pesi</form>
-<tag><AM lemma="Pesi_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Pese" src="auto">NNFS4-----A----</AM>
-<AM lemma="Pese" src="auto">NNFS3-----A----</AM>
-<AM lemma="Pese" src="auto">NNFS6-----A----</AM>
-<AM lemma="Pesi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pesi_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Pesi" src="auto">Db-------------</AM>
-<AM lemma="Pes_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="pesi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pesi_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-119-p3s6w2">
@@ -3205,16 +3135,7 @@
 <LM>w#w-ln94201-119-p3s6w2</LM>
 </w.rf>
 <form>Girschová</form>
-<tag><AM lemma="Girschová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Girschová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Girschový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Girschový" src="auto">AANP1----1A----</AM>
-<AM lemma="Girschový" src="auto">AANP4----1A----</AM>
-<AM lemma="Girschová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Girschová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Girschový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Girschový" src="auto">AAFS5----1A----</AM>
-<AM lemma="girschová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Girschová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-119-p3s6w3">
@@ -3324,16 +3245,7 @@
 <LM>w#w-ln94201-119-p3s7w2</LM>
 </w.rf>
 <form>Ganor</form>
-<tag><AM lemma="Ganor_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ganor_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ganor" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ganor" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ganora" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ganor_^(zpěvák)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ganor_^(hlas)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ganor_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ganor_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="ganor" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ganor_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-119-p3s7w3">
@@ -3578,15 +3490,7 @@
 <LM>w#w-ln94201-119-p3s8w10</LM>
 </w.rf>
 <form>Shirman</form>
-<tag><AM lemma="Shirman_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Shirman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Shirman" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shirman_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shirman-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shirman_;m" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shirman_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shirman_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="shirman" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Shirman_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-119-p3s8w11">
@@ -3723,16 +3627,7 @@
 <LM>w#w-ln94201-119-p3s9w9</LM>
 </w.rf>
 <form>Bareket</form>
-<tag><AM lemma="Bareket_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Bareketa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bareket" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bareket" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bareket_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Bareket_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bareket-2_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bareket_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Bareket" src="auto">Vf--------A----</AM>
-<AM lemma="bareket" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bareket_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-119-p3s9w10">
@@ -3750,16 +3645,7 @@
 <LM>w#w-ln94201-119-p3s9w11</LM>
 </w.rf>
 <form>Yaakovová</form>
-<tag><AM lemma="Yaakovová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Yaakovová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Yaakovový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Yaakovový" src="auto">AANP1----1A----</AM>
-<AM lemma="Yaakovový" src="auto">AANP4----1A----</AM>
-<AM lemma="Yaakovová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Yaakovová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Yaakovový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Yaakovový" src="auto">AAFS5----1A----</AM>
-<AM lemma="yaakovová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Yaakovová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-119-p3s9w12">

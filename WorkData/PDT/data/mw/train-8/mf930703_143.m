@@ -192,16 +192,7 @@
 <LM>w#w-mf930703-143-p2s1w16</LM>
 </w.rf>
 <form>Lisničuka</form>
-<tag><AM lemma="Lisničuk_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Lisničuk_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Lisničuka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lisničuk_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Lisničuk" src="auto">NNMS2-----A----</AM>
-<AM lemma="Lisničuk_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Lisničuk" src="auto">NNMS4-----A----</AM>
-<AM lemma="Lisničuka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lisničuc_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="lisničuka" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lisničuk_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-143-p2s1w17">

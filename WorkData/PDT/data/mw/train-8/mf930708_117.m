@@ -48,16 +48,7 @@
 <LM>w#w-mf930708-117-p2s1w1</LM>
 </w.rf>
 <form>Avranches</form>
-<tag><AM lemma="Avranches_;G" src="orig">NNFP1-----A----</AM>
-<AM lemma="Avranches_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Avranches_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Avranches_;K_,t" src="auto">AAISX----1A----</AM>
-<AM lemma="Avranches_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Avranches_;G" src="auto">NNFPX-----A----</AM>
-<AM lemma="Avranches_;G" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="Avranches" src="auto">NNIS4-----A----</AM>
-<AM lemma="Avranche_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="avranches" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Avranches_;G" src="orig" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-117-p2s1w2">
@@ -156,16 +147,7 @@
 <LM>w#w-mf930708-117-p2s1w12</LM>
 </w.rf>
 <form>Tour</form>
-<tag><AM lemma="Tour_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tour_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Toura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Tour_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tour_;R_,t" src="auto">PSXXX-X2-------</AM>
-<AM lemma="tour" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tour_;m_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-117-p2s1w13">
@@ -235,16 +217,7 @@
 <LM>w#w-mf930708-117-p2s1w18</LM>
 </w.rf>
 <form>Avranches</form>
-<tag><AM lemma="Avranches_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Avranches_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Avranches_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Avranches_;K_,t" src="auto">AAISX----1A----</AM>
-<AM lemma="Avranches_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Avranches_;G" src="auto">NNFPX-----A----</AM>
-<AM lemma="Avranches_;G" src="auto">NNFP1-----A----</AM>
-<AM lemma="Avranches" src="auto">NNIS4-----A----</AM>
-<AM lemma="Avranche_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="avranches" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Avranches_;G" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-117-p2s1w19">
@@ -667,16 +640,7 @@
 <LM>w#w-mf930708-117-p3s3w1</LM>
 </w.rf>
 <form>Once</form>
-<tag><AM lemma="Once_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Once" src="auto">NNFS1-----A----</AM>
-<AM lemma="Once" src="auto">NNFS2-----A----</AM>
-<AM lemma="Once" src="auto">NNFP1-----A----</AM>
-<AM lemma="Onec" src="auto">NNMP4-----A----</AM>
-<AM lemma="Onka" src="auto">NNFS6-----A----</AM>
-<AM lemma="Onka" src="auto">NNFS3-----A----</AM>
-<AM lemma="Once" src="auto">NNFP4-----A----</AM>
-<AM lemma="Onec" src="auto">NNMS2-----A----</AM>
-<AM lemma="once" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Once_;K" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-117-p3s3w2">
@@ -974,15 +938,7 @@
 <LM>w#w-mf930708-117-p3s8w1</LM>
 </w.rf>
 <form>Nelissen</form>
-<tag><AM lemma="Nelissen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nelissen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nelissen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nelissen_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nelissen-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nelissna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Nelissit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Nelissen_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="nelissen" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nelissen_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-117-p3s8w2">

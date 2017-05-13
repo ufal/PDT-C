@@ -1196,16 +1196,7 @@
 <LM>w#w-mf930703-145-p4s1w2</LM>
 </w.rf>
 <form>Kargašina</form>
-<tag><AM lemma="Kargašin_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Kargašina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kargašin_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kargašina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kargašin_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Kargašina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kargašina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kargašin_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kargašina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="kargašina" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kargašin_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-145-p4s1w3">
@@ -2203,16 +2194,7 @@
 <LM>w#w-mf930703-145-p4s5w20</LM>
 </w.rf>
 <form>Kargašin</form>
-<tag><AM lemma="Kargašin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kargašina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kargašin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kargašin_;G_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Kargašin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kargašin-2_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kargašin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kargašin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kargašin" src="auto">NNIS4-----A----</AM>
-<AM lemma="kargašin" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kargašin_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-145-p4s5w21">

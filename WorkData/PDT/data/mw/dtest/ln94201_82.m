@@ -163,16 +163,7 @@
 <LM>w#w-ln94201-82-p1s1w17</LM>
 </w.rf>
 <form>KcEwana</form>
-<tag><AM lemma="KcEwan_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="KcEwan_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="KcEwan_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="KcEwan_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="KcEwan_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="KcEwan" src="auto">NNMS4-----A----</AM>
-<AM lemma="KcEwan" src="auto">NNMS2-----A----</AM>
-<AM lemma="KcEwana" src="auto">NNFS1-----A----</AM>
-<AM lemma="KcEwan_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kcewana" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="KcEwan_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-82-p1s1w18">

@@ -620,15 +620,7 @@
 <LM>w#w-lnd92256-090-p4s2w23</LM>
 </w.rf>
 <form>Akropol</form>
-<tag><AM lemma="Akropolis_;G" src="orig">NNFS4-----A----</AM>
-<AM lemma="Akropol_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Akropol" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="společník_:B_^(Pepa_a_Akropol.)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Akropolovina_:B" src="auto">NNFS2-----A----</AM>
-<AM lemma="Akropolovina_:B" src="auto">NNFS1-----A----</AM>
-<AM lemma="Akropolkový_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Akropolkový_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="akropol" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Akropolis_;G" src="orig" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-090-p4s2w24">
@@ -1573,16 +1565,7 @@
 <LM>w#w-lnd92256-090-p4s6w20</LM>
 </w.rf>
 <form>Abovyanem</form>
-<tag><AM lemma="Abovyan_;K" src="orig">NNIS7-----A----</AM>
-<AM lemma="Abovyan" src="auto">NNIS7-----A----</AM>
-<AM lemma="Abovyan_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Abovyan_;G" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="Abovyan" src="auto">NNMS7-----A----</AM>
-<AM lemma="Abovyan_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Abovyano" src="auto">NNNS7-----A----</AM>
-<AM lemma="Abovyaen" src="auto">NNIS7-----A----</AM>
-<AM lemma="Abovyan_;E" src="auto">NNMS7-----A----</AM>
-<AM lemma="abovyanem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Abovyan_;K" src="orig" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-090-p4s6w21">
@@ -2784,16 +2767,7 @@
 <LM>w#w-lnd92256-090-p5s4w1</LM>
 </w.rf>
 <form>Wloknierz</form>
-<tag><AM lemma="Wloknierz_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Wloknierz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wloknierza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Wloknierz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wloknierz_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Wlokniers_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Wlokniers_^(úpadek;;soutěž)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wlokniers_;G" src="auto">NNIS1-----A---6</AM>
-<AM lemma="Wlokniers" src="auto">NNIS4-----A----</AM>
-<AM lemma="wloknierz" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Wloknierz_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-090-p5s4w2">
@@ -2802,16 +2776,7 @@
 <LM>w#w-lnd92256-090-p5s4w2</LM>
 </w.rf>
 <form>Pabjanice</form>
-<tag><AM lemma="Pabjanice_;K" src="orig">NNFP1-----A----</AM>
-<AM lemma="Pabjanice" src="auto">NNFS2-----A----</AM>
-<AM lemma="Pabjanice" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pabjanice_;G" src="auto">NNFP1-----A----</AM>
-<AM lemma="Pabjanice" src="auto">NNFP4-----A----</AM>
-<AM lemma="Pabjanice" src="auto">NNFP1-----A----</AM>
-<AM lemma="Pabjanika" src="auto">NNFS6-----A----</AM>
-<AM lemma="Pabjanika" src="auto">NNFS3-----A----</AM>
-<AM lemma="Pabjanice_^(*3ík)" src="auto">NNFS1-----A----</AM>
-<AM lemma="pabjanice" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Pabjanice_;K" src="orig" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-090-p5s4w3">
@@ -3220,23 +3185,7 @@
 <LM>w#w-lnd92256-090-p5s5w24</LM>
 </w.rf>
 <form>EPK</form>
-<tag><AM lemma="EPK_:B_;m" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EPK_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Epedokomplex_:B_^(půdní_komplex)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="EPK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EPK_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="EPK_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EPK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EPK-1_:B_;K_^(Českosloven._obchodní_a_průmyslová_komora)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EPK-1_:B_;G_^(Palác_kultury)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Epk-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Epk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Epk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Epk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Epk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Epk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Epk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="epk" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="EPK_:B_;m" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-090-p5s5w25">
@@ -4077,16 +4026,7 @@
 <LM>w#w-lnd92256-090-p5s7w24</LM>
 </w.rf>
 <form>Maniatyse</form>
-<tag><AM lemma="Maniatys_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Maniatys_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Maniatys_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Maniatys_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Maniatyse_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Maniatys" src="auto">NNIS6-----A----</AM>
-<AM lemma="Maniatyse_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Maniatyse" src="auto">NNFS2-----A----</AM>
-<AM lemma="Maniatys_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="maniatyse" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Maniatys_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-090-p5s7w25">

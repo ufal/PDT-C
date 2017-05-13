@@ -115,15 +115,7 @@
 <LM>w#w-mf930708-173-p2s1w4</LM>
 </w.rf>
 <form>kw</form>
-<tag><AM lemma="kw-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kw-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="kw_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kw_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kw_;G_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="kw" src="auto">NNNXX-----A----</AM>
-<AM lemma="kw" src="auto">NNFXX-----A----</AM>
-<AM lemma="know_,t_^(kw_how)" src="auto">NNNXX-----A----</AM>
-<AM lemma="how_,t_^(know_kw)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="kw-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-173-p2s1w5">
@@ -833,16 +825,7 @@
 <LM>w#w-mf930708-173-p3s2w34</LM>
 </w.rf>
 <form>Trágl</form>
-<tag><AM lemma="Trágl_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Trágl_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Trágl" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tráglie_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Tráglický_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Tráglicky_:B" src="auto">Dg-------1A---8</AM>
-<AM lemma="Trágl_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Trágl_,l" src="auto">NNIS4-----A----</AM>
-<AM lemma="Trágt_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="trágl" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Trágl_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-173-p3s2w35">

@@ -313,16 +313,7 @@
 <LM>w#w-lnd92258-064-p3s2w26</LM>
 </w.rf>
 <form>Tchung</form>
-<tag><AM lemma="Tchung_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tchung_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tchung_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tchung_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tchung_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Tchung_;p" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tchung_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tchung_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tchung_;R_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="tchung" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tchung_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-064-p3s2w27">

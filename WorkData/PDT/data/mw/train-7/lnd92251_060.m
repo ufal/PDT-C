@@ -2407,9 +2407,7 @@
 <LM>w#w-lnd92251-060-p7s1w10</LM>
 </w.rf>
 <form>Bangladéší</form>
-<tag><AM lemma="Bangladéš_;G" src="orig">NNFS7-----A----</AM>
-<AM lemma="Bangladéš_;G" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="bangladéší" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bangladéš_;G" src="orig" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-060-p7s1w11">
@@ -2863,14 +2861,7 @@
 <LM>w#w-lnd92251-060-p8s1w29</LM>
 </w.rf>
 <form>Weekly</form>
-<tag><AM lemma="Weekly_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Weeknout_:W" src="auto">VpTP---XR-AA--1</AM>
-<AM lemma="Weekl" src="auto">NNIP1-----A----</AM>
-<AM lemma="Weeklus" src="auto">NNIP7-----A----</AM>
-<AM lemma="Weeklus" src="auto">NNIP1-----A----</AM>
-<AM lemma="Weekla_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Weekla_;G_;K_^(sport._klub;;průsmyk)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="weekly" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Weekly_;R_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-060-p8s1w30">
@@ -3384,15 +3375,7 @@
 <LM>w#w-lnd92251-060-p9s2w19</LM>
 </w.rf>
 <form>patnáctikopejkových</form>
-<tag><AM lemma="patnáctikopejkový" src="orig">AAFP2----1A----</AM>
-<AM lemma="patnáctikopejkový" src="auto" recommended="1">AAFP2----1A----</AM>
-<AM lemma="patnáctikopejkový" src="auto">AAIP2----1A----</AM>
-<AM lemma="patnáctikopejkový" src="auto">AAFP6----1A----</AM>
-<AM lemma="patnáctikopejkový" src="auto">AAMP2----1A----</AM>
-<AM lemma="patnáctikopejkový" src="auto">AANP2----1A----</AM>
-<AM lemma="patnáctikopejkový" src="auto">AAIP6----1A----</AM>
-<AM lemma="patnáctikopejkový_^(*2t)" src="auto">AAIP2----1A----</AM>
-<AM lemma="patnáctikopejkový_^(*2t)" src="auto">AAFP2----1A----</AM>
+<tag><AM lemma="patnáctikopejkový" src="orig" selected="1">AAFP2----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-060-p9s2w20">
@@ -4783,15 +4766,7 @@
 <LM>w#w-lnd92251-060-p13s1w21</LM>
 </w.rf>
 <form>Sumner</form>
-<tag><AM lemma="Sumner" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sumner_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sumner" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sumner" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sumne_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Summer_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sumner_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sumner_;K_,t_^(měm.,_v_názvech)" src="auto">AAXXX----1A----</AM>
-<AM lemma="sumner" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sumner" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-060-p13s1w22">

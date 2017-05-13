@@ -838,15 +838,7 @@
 <LM>w#w-lnd92252-091-p3s1w2</LM>
 </w.rf>
 <form>řej</form>
-<tag><AM lemma="řej-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="řej_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="řej-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="řý" src="auto">AAMS1----1A---6</AM>
-<AM lemma="řej" src="auto">NNIS1-----A----</AM>
-<AM lemma="řý" src="auto">AAIS1----1A---6</AM>
-<AM lemma="řej_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="řej" src="auto">NNIS4-----A----</AM>
-<AM lemma="řat_:T" src="auto">Vi-S---2--A----</AM>
+<tag><AM lemma="řej-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-091-p3s1w3">

@@ -831,16 +831,7 @@
 <LM>w#w-lnd92252-014-p4s1w16</LM>
 </w.rf>
 <form>Dairútu</form>
-<tag><AM lemma="Dairút_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Dairút_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Dairút_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Dairút" src="auto">NNIS2-----A----</AM>
-<AM lemma="Dairúta" src="auto">NNFS4-----A----</AM>
-<AM lemma="Dairút" src="auto">NNIS6-----A----</AM>
-<AM lemma="Dairút" src="auto">NNIS3-----A----</AM>
-<AM lemma="Dairút" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Dairúta" src="auto">NNMS4-----A----</AM>
-<AM lemma="dairútu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Dairút_;G" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-014-p4s1w17">

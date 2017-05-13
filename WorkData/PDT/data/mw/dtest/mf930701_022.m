@@ -646,15 +646,7 @@
 <LM>w#w-mf930701-022-p3s1w32</LM>
 </w.rf>
 <form>Ingelson</form>
-<tag><AM lemma="Ingelson_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ingelson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ingelson_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ingelson_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ingelson_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ingelson" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ingelson_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ingelson_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="ingelson" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ingelson_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-022-p3s1w33">
@@ -1003,15 +995,7 @@
 <LM>w#w-mf930701-022-p4s1w8</LM>
 </w.rf>
 <form>Petroleum</form>
-<tag><AM lemma="Petroleum_;K_,t" src="orig">NNNSX-----A----</AM>
-<AM lemma="Petroleum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Petroleum" src="auto">NNNS1-----A----</AM>
-<AM lemma="Petroleus_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Petroleum_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Petroleum_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Petroleum_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Petroleum_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="petroleum" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Petroleum_;K_,t" src="orig" selected="1">NNNSX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-022-p4s1w9">

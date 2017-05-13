@@ -1390,16 +1390,7 @@
 <LM>w#w-lnd92254-096-p3s6w1</LM>
 </w.rf>
 <form>Baciochi</form>
-<tag><AM lemma="Baciochi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Baciochi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Baciochi_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Bacioch_;R_,t" src="auto">NNIP1-----A----</AM>
-<AM lemma="Bacioh_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Baciochi_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Baciochi_;K_,t" src="auto">AAMP1----1A----</AM>
-<AM lemma="Baciochi_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Baciochi" src="auto">AAXXX----1A----</AM>
-<AM lemma="baciochi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Baciochi_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-096-p3s6w2">
@@ -2353,31 +2344,7 @@
 <LM>w#w-lnd92254-096-p7s1w19</LM>
 </w.rf>
 <form>ERC</form>
-<tag><AM lemma="ERC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ERC_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ERC_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ERC-4_:B_;m_,t_^(Responsible_Care)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ERC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ERC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ERC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ERC_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="ERC_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Erc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Erciální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Erc_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Erc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Erc_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Erc_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Erc_,l" src="auto">NNIS1-----A----</AM>
-<AM lemma="Erc" src="auto">NNMS1-----A----</AM>
-<AM lemma="erciální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="erc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="erc_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="erc_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="erc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="erc_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="erc_,l" src="auto">NNIS1-----A----</AM>
-<AM lemma="erc" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="ERC_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-096-p7s1w20">
@@ -2671,15 +2638,7 @@
 <LM>w#w-lnd92254-096-p9s2w6</LM>
 </w.rf>
 <form>Taranga</form>
-<tag><AM lemma="Tarango_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Tarang_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Tarang_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Tarang_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Tarango_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Taranga_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tarango_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Tarango" src="auto">NNNS2-----A----</AM>
-<AM lemma="taranga" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tarango_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-096-p9s2w7">
@@ -3110,15 +3069,7 @@
 <LM>w#w-lnd92254-096-p9s3w34</LM>
 </w.rf>
 <form>Ivanisevic</form>
-<tag><AM lemma="Ivanisevic_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ivanisevic" src="auto">Cn-SX----------</AM>
-<AM lemma="Ivanisevic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ivanisevic_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ivanisevice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ivanisevice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ivanisevice_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="ivanisevic" src="auto">NNMS1-----A----</AM>
-<AM lemma="ivanisevic-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="Ivanisevic_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-096-p9s3w35">
@@ -3235,10 +3186,7 @@
 <LM>w#w-lnd92254-096-p9s3w47</LM>
 </w.rf>
 <form>Rostagno</form>
-<tag><AM lemma="Rostagno_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rostagno_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Rostagno_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="rostagno" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rostagno_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-096-p9s3w48">

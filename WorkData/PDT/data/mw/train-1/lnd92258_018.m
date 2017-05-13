@@ -365,15 +365,7 @@
 <LM>w#w-lnd92258-018-p2s1w2</LM>
 </w.rf>
 <form>woll</form>
-<tag><AM lemma="woll-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="woll_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="woll_^(typ_stupnice,_hudební)" src="auto">NNIXX-----A----</AM>
-<AM lemma="woll_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="woll_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="woll-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="woll-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="woll" src="auto">NNIS1-----A----</AM>
-<AM lemma="woll_;K" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="woll-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-018-p2s1w3">

@@ -895,16 +895,7 @@
 <LM>w#w-lnd92256-096-p4s2w17</LM>
 </w.rf>
 <form>Karabín</form>
-<tag><AM lemma="Karabín_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Karabín" src="auto">NNMS1-----A----</AM>
-<AM lemma="Karabín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Karabín-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Karabína" src="auto">NNFP2-----A----</AM>
-<AM lemma="Karabín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Karabín-1_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Karabín" src="auto">NNIS4-----A----</AM>
-<AM lemma="Karabín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="karabín" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Karabín_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-096-p4s2w18">
@@ -2871,16 +2862,7 @@
 <LM>w#w-lnd92256-096-p7s2w63</LM>
 </w.rf>
 <form>Karabín</form>
-<tag><AM lemma="Karabín_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Karabín" src="auto">NNMS1-----A----</AM>
-<AM lemma="Karabín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Karabín-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Karabína" src="auto">NNFP2-----A----</AM>
-<AM lemma="Karabín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Karabín-1_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Karabín" src="auto">NNIS4-----A----</AM>
-<AM lemma="Karabín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="karabín" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Karabín_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-096-p7s2w64">

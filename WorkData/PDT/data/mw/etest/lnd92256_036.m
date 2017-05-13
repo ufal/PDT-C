@@ -113,15 +113,7 @@
 <LM>w#w-lnd92256-036-p3s1w3</LM>
 </w.rf>
 <form>tes</form>
-<tag><AM lemma="tes-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="tes_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="te_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="tes_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="tes_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="tes_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="tes_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="tes_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="tes_;G" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="tes-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-036-p3s1w4">

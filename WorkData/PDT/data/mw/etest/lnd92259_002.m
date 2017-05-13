@@ -95,15 +95,7 @@
 <LM>w#w-lnd92259-002-p3s1w3</LM>
 </w.rf>
 <form>črk</form>
-<tag><AM lemma="črk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="črk-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="črk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="črk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="črk" src="auto">NNIS1-----A----</AM>
-<AM lemma="črk" src="auto">NNIS4-----A----</AM>
-<AM lemma="črk_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="črk_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="črk_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="črk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-002-p3s1w4">
@@ -3642,16 +3634,7 @@
 <LM>w#w-lnd92259-002-p7s6w7</LM>
 </w.rf>
 <form>Csapodyho</form>
-<tag><AM lemma="Csapody_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Csapody_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Csapody_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Csapody_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Csapody_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Csapody_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Csapod_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Csapody_;S_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Csapody_;S_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="csapodyho" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Csapody_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-002-p7s6w8">

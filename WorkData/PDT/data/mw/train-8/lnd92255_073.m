@@ -338,31 +338,7 @@
 <LM>w#w-lnd92255-073-p1s3w6</LM>
 </w.rf>
 <form>VOX</form>
-<tag><AM lemma="Vox_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="VOX-3`10" src="auto">C}-------------</AM>
-<AM lemma="VOX-4_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="VOX-98_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VOX_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VOX_;R" src="auto">NNNXX-----A----</AM>
-<AM lemma="VOx-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Vox" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vox-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vox-4_;K_^(film._produkce)" src="auto">NNMXX-----A----</AM>
-<AM lemma="Vox_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vox_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Vox_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Vox_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vox_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="vox" src="auto">NNIS1-----A----</AM>
-<AM lemma="vox-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="vox-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="vox-4_;K_^(film._produkce)" src="auto">NNMXX-----A----</AM>
-<AM lemma="vox_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="vox_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="vox_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="vox_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="vox_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="x-6_,t_^(Extra,_př._X-treme,_VOX-large)" src="auto">Db-------------</AM>
+<tag><AM lemma="Vox_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-073-p1s3w7">
@@ -371,18 +347,7 @@
 <LM>w#w-lnd92255-073-p1s3w7</LM>
 </w.rf>
 <form>POPULI</form>
-<tag><AM lemma="Populi_;K_,t" src="orig">NNMP2-----A----</AM>
-<AM lemma="Popout" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Popout_^(např._na_vrcholu)" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Popule" src="auto">NNFS3-----A----</AM>
-<AM lemma="Popule" src="auto">NNFS4-----A----</AM>
-<AM lemma="Popule" src="auto">NNFS6-----A----</AM>
-<AM lemma="Populi_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Populi_;K_,t" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="Populus_,t" src="auto">NNIS2-----A----</AM>
-<AM lemma="populi" src="auto">NNMS1-----A----</AM>
-<AM lemma="populi_;L" src="auto">NNMS1-----A----</AM>
-<AM lemma="populi_;L" src="auto">NNMS5-----A----</AM>
+<tag><AM lemma="Populi_;K_,t" src="orig" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-073-p1s3w8">

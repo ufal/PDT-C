@@ -244,16 +244,7 @@
 <LM>w#w-lnd92257-020-p1s1w26</LM>
 </w.rf>
 <form>Aglow</form>
-<tag><AM lemma="Aglow_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Aglow_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aglow_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Aglow_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Aglow" src="auto">NNFXX-----A----</AM>
-<AM lemma="Aglow_;G_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="know_,t_^(Aglow_how)" src="auto">NNNXX-----A----</AM>
-<AM lemma="how_,t_^(know_Aglow)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Aglow_;m_,t" src="auto">Db-------------</AM>
-<AM lemma="aglow" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Aglow_;K_,t" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-020-p1s1w27">

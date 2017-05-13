@@ -833,17 +833,7 @@
 <LM>w#w-lnd92255-026-p3s7w1</LM>
 </w.rf>
 <form>Mikrosoft</form>
-<tag><AM lemma="Mikrosoft_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mikrosoft_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Mikrosoft_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mikrosoft_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Mikrosoft_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Mikrosoft_;K_;b_;c" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mikrosoft_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Mikrosoft_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mikrosoft_^(jako_součást_názvu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="mikrosoft" src="auto">NNMS1-----A----</AM>
-<AM lemma="mikrosoft_,t" src="auto">AAXXX----1A----</AM>
+<tag><AM lemma="Mikrosoft_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-026-p3s7w2">

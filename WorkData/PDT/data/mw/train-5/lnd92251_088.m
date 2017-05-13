@@ -84,15 +84,7 @@
 <LM>w#w-lnd92251-088-p2s1w4</LM>
 </w.rf>
 <form>pd</form>
-<tag><AM lemma="pd-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="pd-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="pd" src="auto">NNNXX-----A---8</AM>
-<AM lemma="pd" src="auto">NNIS1-----A----</AM>
-<AM lemma="pd" src="auto">NNIS4-----A----</AM>
-<AM lemma="pd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pda" src="auto">NNFP2-----A----</AM>
-<AM lemma="pd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pd_;G" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="pd-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92251-088-p2s1w5">

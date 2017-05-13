@@ -68,16 +68,7 @@
 <LM>w#w-mf930701-001-p2s1w3</LM>
 </w.rf>
 <form>Illie</form>
-<tag><AM lemma="Illie_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Illie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Illie_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Illie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Illie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Illie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Illie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Illie_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Illie_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="illie" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Illie_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-001-p2s1w4">
@@ -268,14 +259,7 @@
 <LM>w#w-mf930701-001-p2s2w7</LM>
 </w.rf>
 <form>Metreveli</form>
-<tag><AM lemma="Metreveli_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Metrevel" src="auto">NNMP7-----A----</AM>
-<AM lemma="Metrevet_:T" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Metrevel" src="auto">NNMS3-----A----</AM>
-<AM lemma="Metrevet" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="Metrevel" src="auto">NNMS6-----A----</AM>
-<AM lemma="Metrevít" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="metreveli" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Metreveli_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-001-p2s2w8">
@@ -648,15 +632,7 @@
 <LM>w#w-mf930701-001-p2s4w3</LM>
 </w.rf>
 <form>Metreveliho</form>
-<tag><AM lemma="Metreveli_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Metreveli_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Metreveli_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Metreveli_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Metreveli_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Metreveli_;m" src="auto">NNMS2-----A----</AM>
-<AM lemma="Metreveli_;S_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Metreveli-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="metreveliho" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Metreveli_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-001-p2s4w4">
@@ -850,14 +826,7 @@
 <LM>w#w-mf930701-001-p4s1w3</LM>
 </w.rf>
 <form>čen</form>
-<tag><AM lemma="čen-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="čit_:W" src="auto" recommended="1">VsYS---XX-AP---</AM>
-<AM lemma="čit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="knout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čit_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="knout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čet_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čet" src="auto">VsYS---XX-AP---</AM>
+<tag><AM lemma="čen-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-001-p4s1w4">

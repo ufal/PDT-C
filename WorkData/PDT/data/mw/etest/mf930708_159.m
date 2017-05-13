@@ -28,16 +28,7 @@
 <LM>w#w-mf930708-159-p1s1w2</LM>
 </w.rf>
 <form>Szasz</form>
-<tag><AM lemma="Szasz_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Szasz_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Szasz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Szasz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Szasz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Szasz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Szasza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Szass" src="auto">NNIS1-----A----</AM>
-<AM lemma="Szasz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="szasz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Szasz_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-159-p1s1w3">
@@ -118,12 +109,7 @@
 <LM>w#w-mf930708-159-p1s1w11</LM>
 </w.rf>
 <form>Curtuseni</form>
-<tag><AM lemma="Curtuseni_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Curtusit_:W" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Curtusit" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Curtuset_:T" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Curtusít" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="curtuseni" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Curtuseni_;G" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-159-p1s1w12">

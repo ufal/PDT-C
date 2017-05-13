@@ -441,15 +441,7 @@
 <LM>w#w-lnd92256-110-p3s4w8</LM>
 </w.rf>
 <form>Rašídíja</form>
-<tag><AM lemma="Rašídíja_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Rašídíja_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rašídíja_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Rašídíja_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Rašídíja" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rašídíja_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rašídíja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rašídíja_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="rašídíja" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rašídíja_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-110-p3s4w9">
@@ -530,16 +522,7 @@
 <LM>w#w-lnd92256-110-p3s4w17</LM>
 </w.rf>
 <form>Rísání</form>
-<tag><AM lemma="Rísání_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Rísání_^(*3at)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Rísání_^(*3at)" src="auto">NNNS4-----A----</AM>
-<AM lemma="Rísání_^(*3at)" src="auto">NNNS2-----A----</AM>
-<AM lemma="Rísání_^(*3at)" src="auto">NNNS6-----A----</AM>
-<AM lemma="Rísání_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="Rísání_^(*3at)" src="auto">NNNP4-----A----</AM>
-<AM lemma="Rísání_^(*3at)" src="auto">NNNP2-----A----</AM>
-<AM lemma="Rísání_^(*3at)" src="auto">NNNP1-----A----</AM>
-<AM lemma="rísání" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rísání_;G" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-110-p3s4w18">
@@ -557,16 +540,7 @@
 <LM>w#w-lnd92256-110-p3s4w19</LM>
 </w.rf>
 <form>Erfúd</form>
-<tag><AM lemma="Erfúd_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Erfúd_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Erfúd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Erfúd" src="auto">NNIS1-----A----</AM>
-<AM lemma="Erfúd" src="auto">NNIS4-----A----</AM>
-<AM lemma="Erfúda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Erfúd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Erfúd_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Erfúd" src="auto">NNMS1-----A----</AM>
-<AM lemma="erfúd" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Erfúd_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-110-p3s4w20">
@@ -1240,15 +1214,7 @@
 <LM>w#w-lnd92256-110-p3s11w12</LM>
 </w.rf>
 <form>Torišima</form>
-<tag><AM lemma="Torišima_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Torišim_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Torišima_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Torišimum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Torišimum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Torišim_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Torišima_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Torišima_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="torišima" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Torišima_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-110-p3s11w13">

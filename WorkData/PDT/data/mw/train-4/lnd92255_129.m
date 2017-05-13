@@ -605,15 +605,7 @@
 <LM>w#w-lnd92255-129-p3s3w13</LM>
 </w.rf>
 <form>Holmqistovi</form>
-<tag><AM lemma="Holmqist_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Holmqist_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Holmqist" src="auto">NNMS3-----A----</AM>
-<AM lemma="Holmqist_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Holmqista_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Holmqist_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Holmqist" src="auto">NNMS6-----A----</AM>
-<AM lemma="Holmqistův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="holmqistovi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Holmqist_;S" src="orig" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-129-p3s3w14">
@@ -3747,16 +3739,7 @@
 <LM>w#w-lnd92255-129-p5s5w38</LM>
 </w.rf>
 <form>Gattermyer</form>
-<tag><AM lemma="Gattermyer_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gattermyer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gattermyer" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gattermyer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gattermyer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gattermyer_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gattermyer" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gattermyer_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gattermyra" src="auto">NNFP2-----A----</AM>
-<AM lemma="gattermyer" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gattermyer_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-129-p5s5w39">

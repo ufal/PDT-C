@@ -239,15 +239,7 @@
 <LM>w#w-lnd92257-068-p2s2w3</LM>
 </w.rf>
 <form>Nerat</form>
-<tag><AM lemma="Nerat_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nerat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Nerat" src="auto">Vf--------A----</AM>
-<AM lemma="Nerat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Nerat" src="auto">NNIS4-----A----</AM>
-<AM lemma="Nerat" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nerat" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nerat_:T_:W" src="auto">Vf--------A----</AM>
-<AM lemma="nerat" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nerat_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-068-p2s2w4">

@@ -3086,15 +3086,7 @@
 <LM>w#w-lnd92259-075-p7s3w32</LM>
 </w.rf>
 <form>marlbora</form>
-<tag><AM lemma="marlboro_;R" src="orig">NNNP4-----A----</AM>
-<AM lemma="marlbor" src="auto">NNMS2-----A----</AM>
-<AM lemma="marlbor" src="auto">NNMS4-----A----</AM>
-<AM lemma="marlbor_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="marlbora" src="auto">NNFS1-----A----</AM>
-<AM lemma="marlbora_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="marlbor_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="marlbor_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="marlbor_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<tag><AM lemma="marlboro_;R" src="orig" selected="1">NNNP4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-075-p7s3w33">
@@ -4071,15 +4063,7 @@
 <LM>w#w-lnd92259-075-p9s2w2</LM>
 </w.rf>
 <form>jaf</form>
-<tag><AM lemma="jaf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jaf-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jaf" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf" src="auto">NNIS4-----A----</AM>
-<AM lemma="jaf" src="auto">NNIS1-----A----</AM>
-<AM lemma="jaf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="jaf_;R" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="jaf-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-075-p9s2w3">

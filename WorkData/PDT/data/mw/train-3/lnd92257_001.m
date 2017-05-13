@@ -499,16 +499,7 @@
 <LM>w#w-lnd92257-001-p2s3w4</LM>
 </w.rf>
 <form>Tlemundi</form>
-<tag><AM lemma="Tlemundi_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Tlemundi_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Tlemundus_,t" src="auto">NNIS2-----A----</AM>
-<AM lemma="Tlemundum_,t" src="auto">NNNS2-----A----</AM>
-<AM lemma="Tlemundi_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tlemundi_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Tlemundi_;K" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Tlemundi_;G_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Tlemundi_,t" src="auto">NNIS2-----A----</AM>
-<AM lemma="tlemundi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tlemundi_;K" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-001-p2s3w5">

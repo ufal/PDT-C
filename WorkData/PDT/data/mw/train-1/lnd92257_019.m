@@ -304,12 +304,7 @@
 <LM>w#w-lnd92257-019-p3s2w25</LM>
 </w.rf>
 <form>Ičo</form>
-<tag><AM lemma="Ičo_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ičo_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ičový" src="auto">A2--------A----</AM>
-<AM lemma="iča_^(ča-ča)" src="auto">NNFS5-----A----</AM>
-<AM lemma="ičo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ičový" src="auto">A2--------A----</AM>
+<tag><AM lemma="Ičo_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-019-p3s2w26">

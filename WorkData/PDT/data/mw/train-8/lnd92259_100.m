@@ -243,16 +243,7 @@
 <LM>w#w-lnd92259-100-p4s2w1</LM>
 </w.rf>
 <form>Vitesse</form>
-<tag><AM lemma="Vitesse_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Vitess_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vitesse_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vitess_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vitesse_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Vitesse_;m" src="auto">NNIXX-----A----</AM>
-<AM lemma="Vitesse_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Vitesse_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vitesse_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="vitesse" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Vitesse_;K" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-100-p4s2w2">
@@ -666,16 +657,7 @@
 <LM>w#w-lnd92259-100-p4s9w1</LM>
 </w.rf>
 <form>Creany</form>
-<tag><AM lemma="Creany_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Creany_;G" src="auto">NNIP1-----A----</AM>
-<AM lemma="Crean_;E" src="auto">NNMP4-----A----</AM>
-<AM lemma="Crean" src="auto">NNMP4-----A----</AM>
-<AM lemma="Crean_;E" src="auto">NNMP7-----A----</AM>
-<AM lemma="Crean" src="auto">NNMP7-----A----</AM>
-<AM lemma="Creana_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="Creana" src="auto">NNFS2-----A----</AM>
-<AM lemma="Creana_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="creany" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Creany_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-100-p4s9w2">
@@ -713,15 +695,7 @@
 <LM>w#w-lnd92259-100-p4s10w1</LM>
 </w.rf>
 <form>Chapuisat</form>
-<tag><AM lemma="Chapuisat_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chapuisat" src="auto">Vf--------A----</AM>
-<AM lemma="Chapuisat_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chapuisat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Chapuisat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Chapuise" src="auto">NNNP2-----A----</AM>
-<AM lemma="Chapuisat_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chapuisat_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="chapuisat" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Chapuisat_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-100-p4s10w2">
@@ -759,16 +733,7 @@
 <LM>w#w-lnd92259-100-p4s11w1</LM>
 </w.rf>
 <form>Zorc</form>
-<tag><AM lemma="Zorc_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zorc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zorciální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Zorc_;m_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Zorc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zorc_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zorc_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zorc_,l" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zorc" src="auto">NNMS1-----A----</AM>
-<AM lemma="zorc" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Zorc_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-100-p4s11w2">
@@ -898,16 +863,7 @@
 <LM>w#w-lnd92259-100-p4s13w4</LM>
 </w.rf>
 <form>Frem</form>
-<tag><AM lemma="Frem_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Fr" src="auto">NNIS7-----A----</AM>
-<AM lemma="Fr" src="auto">NNMS7-----A----</AM>
-<AM lemma="Fr_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Fr_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Fro" src="auto">NNNS7-----A----</AM>
-<AM lemma="Fr_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Frma" src="auto">NNFP2-----A----</AM>
-<AM lemma="Fre_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="frem" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Frem_;K" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-100-p4s13w5">
@@ -1100,16 +1056,7 @@
 <LM>w#w-lnd92259-100-p4s15w1</LM>
 </w.rf>
 <form>Mateut</form>
-<tag><AM lemma="Mateut_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mateuty_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mateut_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mateut_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Mateut" src="auto">Vf--------A----</AM>
-<AM lemma="Mateout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Mateout_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Mateut_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Mateut" src="auto">NNIS4-----A----</AM>
-<AM lemma="mateut" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mateut_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-100-p4s15w2">

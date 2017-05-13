@@ -2692,16 +2692,7 @@
 <LM>w#w-lnd92254-088-p5s4w7</LM>
 </w.rf>
 <form>ProServ</form>
-<tag><AM lemma="ProServ_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="ProServa" src="auto">NNFP2-----A----</AM>
-<AM lemma="ProServ_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="ProServ" src="auto">NNMS1-----A----</AM>
-<AM lemma="ProServ" src="auto">NNIS4-----A----</AM>
-<AM lemma="ProServ" src="auto">NNIS1-----A----</AM>
-<AM lemma="ProServe" src="auto">Db------------1</AM>
-<AM lemma="ProServ_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ProServ_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Proserv" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="ProServ_;K" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-088-p5s4w8">

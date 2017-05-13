@@ -391,16 +391,7 @@
 <LM>w#w-mf930701-096-p2s1w34</LM>
 </w.rf>
 <form>Csóthy</form>
-<tag><AM lemma="Csóthy_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Csóthy_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Csótha_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Csóthy_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Csóthy_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Csótha" src="auto">NNFS2-----A----</AM>
-<AM lemma="Csóth" src="auto">NNIP1-----A----</AM>
-<AM lemma="Csóth" src="auto">NNIP4-----A----</AM>
-<AM lemma="Csótha" src="auto">NNFP1-----A----</AM>
-<AM lemma="csóthy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Csóthy_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-096-p2s1w35">

@@ -84,15 +84,7 @@
 <LM>w#w-mf930701-026-p2s1w3</LM>
 </w.rf>
 <form>dd</form>
-<tag><AM lemma="dd-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ddělení_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="dd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="dd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="dd-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="dd-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="dd" src="auto">NNIS1-----A----</AM>
-<AM lemma="dd" src="auto">NNIS4-----A----</AM>
-<AM lemma="dda" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="dd-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-026-p2s1w4">

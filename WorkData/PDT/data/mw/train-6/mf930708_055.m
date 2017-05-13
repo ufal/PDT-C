@@ -1557,17 +1557,7 @@
 <LM>w#w-mf930708-055-p5s4w15</LM>
 </w.rf>
 <form>velkopřekladiště</form>
-<tag><AM lemma="velkopřekladiště" src="orig">NNNS1-----A----</AM>
-<AM lemma="velkopřekladišta" src="auto">NNFS6-----A----</AM>
-<AM lemma="velkopřekladiště" src="auto">Db-------------</AM>
-<AM lemma="velkopřekladiště" src="auto">NNNP1-----A----</AM>
-<AM lemma="velkopřekladiště" src="auto">NNNP4-----A----</AM>
-<AM lemma="velkopřekladiště" src="auto">NNNP5-----A----</AM>
-<AM lemma="velkopřekladiště" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="velkopřekladiště" src="auto">NNNS2-----A----</AM>
-<AM lemma="velkopřekladiště" src="auto">NNNS4-----A----</AM>
-<AM lemma="velkopřekladiště" src="auto">NNNS5-----A----</AM>
-<AM lemma="velkopřekladiště-1" src="auto">Db-------------</AM>
+<tag><AM lemma="velkopřekladiště" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-055-p5s4w16">

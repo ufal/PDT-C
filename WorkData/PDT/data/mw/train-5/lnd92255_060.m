@@ -157,19 +157,7 @@
 <LM>w#w-lnd92255-060-p3s2w6</LM>
 </w.rf>
 <form>Paias</form>
-<tag><AM lemma="Paias_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Paias" src="auto">J^-------------</AM>
-<AM lemma="Paias" src="auto">NNIS1-----A----</AM>
-<AM lemma="Paias" src="auto">NNIS4-----A----</AM>
-<AM lemma="Paias" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paias_;L_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Paias_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paias_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Paias_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="paias" src="auto">NNMS1-----A----</AM>
-<AM lemma="paias-1_:B_,t_^(assymetric)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="paias_;b_,t_^(měnová/váhová_jednotka)" src="auto">NNIS1-----A----</AM>
-<AM lemma="paias_;b_,t_^(měnová/váhová_jednotka)" src="auto">NNIS4-----A----</AM>
+<tag><AM lemma="Paias_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-060-p3s2w7">
@@ -178,15 +166,7 @@
 <LM>w#w-lnd92255-060-p3s2w7</LM>
 </w.rf>
 <form>Wingti</form>
-<tag><AM lemma="Wingti_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Wingti_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Wingt_^(*3ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Wingt_^(*3ý)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Wingt_^(*3ý)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Wingt" src="auto">NNFS2-----A----</AM>
-<AM lemma="Wingt" src="auto">NNMP1-----A----</AM>
-<AM lemma="Wingt" src="auto">NNFS6-----A----</AM>
-<AM lemma="wingti" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Wingti_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-060-p3s2w8">

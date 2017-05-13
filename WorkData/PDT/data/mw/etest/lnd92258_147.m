@@ -28,14 +28,7 @@
 <LM>w#w-lnd92258-147-p1s1w2</LM>
 </w.rf>
 <form>Durchwursteln</form>
-<tag><AM lemma="durchwursteln_,t" src="orig">Vf--------A----</AM>
-<AM lemma="Durchwurstelna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Durchwursteln_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Durchwursteln-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Durchwursteln" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Durchwursteln_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Durchwursteln_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="durchwursteln" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="durchwursteln_,t" src="orig" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-147-p1s1w3">
@@ -100,14 +93,7 @@
 <LM>w#w-lnd92258-147-p2s1w2</LM>
 </w.rf>
 <form>Durchwursteln</form>
-<tag><AM lemma="durchwursteln_,t" src="orig">Vf--------A----</AM>
-<AM lemma="Durchwurstelna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Durchwursteln_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Durchwursteln-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Durchwursteln" src="auto">NNIS1-----A----</AM>
-<AM lemma="Durchwursteln_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Durchwursteln_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="durchwursteln" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="durchwursteln_,t" src="orig" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-147-p2s1w3">
@@ -2114,13 +2100,7 @@
 <LM>w#w-lnd92258-147-p4s8w25</LM>
 </w.rf>
 <form>durchwursteln</form>
-<tag><AM lemma="durchwursteln_,t" src="orig">Vf--------A----</AM>
-<AM lemma="durchwurstelna" src="auto">NNFP2-----A----</AM>
-<AM lemma="durchwursteln_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="durchwursteln-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="durchwursteln" src="auto">NNIS1-----A----</AM>
-<AM lemma="durchwursteln_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="durchwursteln_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="durchwursteln_,t" src="orig" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-147-p4s8w26">
@@ -3047,16 +3027,7 @@
 <LM>w#w-lnd92258-147-p6s3w1</LM>
 </w.rf>
 <form>Sunt</form>
-<tag><AM lemma="esse_,t" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="Sunt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sunt_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Sunt_;G_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Sunt-1_,h_^(brak)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sunt" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sunt" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sunt" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sunta" src="auto">NNFP2-----A----</AM>
-<AM lemma="sunt" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="esse_,t" src="orig" selected="1">VB-P---3P-AA---</AM>
 </tag>
 </m>
 <m id="m-lnd92258-147-p6s3w2">
@@ -3065,15 +3036,7 @@
 <LM>w#w-lnd92258-147-p6s3w2</LM>
 </w.rf>
 <form>certi</form>
-<tag><AM lemma="certus_,t" src="orig">AAIP1----1A----</AM>
-<AM lemma="cert" src="auto">NNMP1-----A---1</AM>
-<AM lemma="cerť_^(města)" src="auto">NNFS6-----A----</AM>
-<AM lemma="cerť_^(města)" src="auto">NNFS3-----A----</AM>
-<AM lemma="cerť_^(města)" src="auto">NNFS2-----A---1</AM>
-<AM lemma="cerť_^(města)" src="auto">NNFP4-----A---1</AM>
-<AM lemma="cert" src="auto">NNFS6-----A----</AM>
-<AM lemma="cert" src="auto">NNFS3-----A----</AM>
-<AM lemma="cert" src="auto" recommended="1">NNFS2-----A----</AM>
+<tag><AM lemma="certus_,t" src="orig" selected="1">AAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-147-p6s3w3">
@@ -3082,14 +3045,7 @@
 <LM>w#w-lnd92258-147-p6s3w3</LM>
 </w.rf>
 <form>denique</form>
-<tag><AM lemma="denique_,t" src="orig">Db-------------</AM>
-<AM lemma="denique_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="denique_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="denique_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="denique_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="denique_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="denique_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="denique_;R_,t" src="auto">AAXXX----1A----</AM>
+<tag><AM lemma="denique_,t" src="orig" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-147-p6s3w4">
@@ -5524,13 +5480,7 @@
 <LM>w#w-lnd92258-147-p9s1w14</LM>
 </w.rf>
 <form>durchwursteln</form>
-<tag><AM lemma="durchwursteln_,t" src="orig">Vf--------A----</AM>
-<AM lemma="durchwurstelna" src="auto">NNFP2-----A----</AM>
-<AM lemma="durchwursteln_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="durchwursteln-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="durchwursteln" src="auto">NNIS1-----A----</AM>
-<AM lemma="durchwursteln_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="durchwursteln_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="durchwursteln_,t" src="orig" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-147-p9s1w15">

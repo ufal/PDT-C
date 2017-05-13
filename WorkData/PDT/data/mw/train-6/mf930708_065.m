@@ -3286,14 +3286,7 @@
 <LM>w#w-mf930708-065-p4s23w15</LM>
 </w.rf>
 <form>Hukvaldami</form>
-<tag><AM lemma="Hukvaldami" src="orig">NNIP7-----A----</AM>
-<AM lemma="Hukvalda" src="auto">NNFP7-----A----</AM>
-<AM lemma="Hukvaldy" src="auto" recommended="1">NNFP7-----A----</AM>
-<AM lemma="Hukvalda_^(*2)" src="auto">NNFP7-----A----</AM>
-<AM lemma="Hukvaldy_;G" src="auto">NNFP7-----A----</AM>
-<AM lemma="Hukvalda_^(*2a)" src="auto">NNFP7-----A----</AM>
-<AM lemma="Hukvalda_^(věda)" src="auto">NNFP7-----A----</AM>
-<AM lemma="hukvaldami" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hukvaldami" src="orig" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-065-p4s23w16">

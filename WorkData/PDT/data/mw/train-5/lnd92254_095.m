@@ -1896,12 +1896,7 @@
 <LM>w#w-lnd92254-095-p5s2w1</LM>
 </w.rf>
 <form>Madový</form>
-<tag><AM lemma="Madový_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Madový" src="auto">AAIS1----1A----</AM>
-<AM lemma="Madový" src="auto">AAIS4----1A----</AM>
-<AM lemma="Madový" src="auto">AAMS1----1A----</AM>
-<AM lemma="Madový_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="madový" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Madový_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-095-p5s2w2">
@@ -5305,16 +5300,7 @@
 <LM>w#w-lnd92254-095-p15s3w1</LM>
 </w.rf>
 <form>Guda</form>
-<tag><AM lemma="Guda_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Guda_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Guda" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gudo_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gude_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Gude_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gud_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Gud" src="auto">NNMS2-----A----</AM>
-<AM lemma="Guda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="guda" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Guda_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-095-p15s3w2">

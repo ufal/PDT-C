@@ -2029,12 +2029,7 @@
 <LM>w#w-lnd92251-077-p4s6w26</LM>
 </w.rf>
 <form>jarrettovský</form>
-<tag><AM lemma="jarrettovský" src="orig">AAIS1----1A----</AM>
-<AM lemma="jarrettovský" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="jarrettovský" src="auto">AAMS1----1A----</AM>
-<AM lemma="jarrettovský" src="auto">AAIS4----1A----</AM>
-<AM lemma="jarrettovský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jarrettovský_;S" src="auto">AAMS1----1A----</AM>
+<tag><AM lemma="jarrettovský" src="orig" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-077-p4s6w27">

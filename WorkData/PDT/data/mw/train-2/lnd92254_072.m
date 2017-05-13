@@ -56,15 +56,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>geopolitké</form>
-<tag><AM lemma="geopolitický" src="orig">AAIP1----1A----</AM>
-<AM lemma="geopolitký" src="auto">AAFS6----1A----</AM>
-<AM lemma="geopolitký" src="auto">AAFS2----1A----</AM>
-<AM lemma="geopolitký" src="auto">AANS4----1A----</AM>
-<AM lemma="geopolitký" src="auto">AANS1----1A----</AM>
-<AM lemma="geopolitký" src="auto">AAIP4----1A----</AM>
-<AM lemma="geopolitký" src="auto">AAFP4----1A----</AM>
-<AM lemma="geopolitký" src="auto">AAFP1----1A----</AM>
-<AM lemma="geopolitický" src="auto" recommended="1">AAIP1----1A----</AM>
+<tag><AM lemma="geopolitický" src="orig" selected="1">AAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-072-p1s1w6">

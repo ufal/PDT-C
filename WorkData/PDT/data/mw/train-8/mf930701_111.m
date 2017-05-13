@@ -1642,16 +1642,7 @@
 <LM>w#w-mf930701-111-p8s1w3</LM>
 </w.rf>
 <form>Braz</form>
-<tag><AM lemma="Brazílie_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Braz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Braz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Brazílie_:B_;G" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Braz_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Braz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Braz_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Braza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Braz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="braz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Brazílie_:B_;G" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-111-p8s1w4">
@@ -1788,11 +1779,7 @@
 <LM>w#w-mf930701-111-p8s2w13</LM>
 </w.rf>
 <form>Filho</form>
-<tag><AM lemma="Filho_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Filho_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Fil" src="auto">AAIS2----1A----</AM>
-<AM lemma="Fil" src="auto">AANS2----1A----</AM>
-<AM lemma="filho" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Filho_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-111-p8s2w14">
@@ -2341,15 +2328,7 @@
 <LM>w#w-mf930701-111-p10s1w15</LM>
 </w.rf>
 <form>Arambašičovi</form>
-<tag><AM lemma="Arambašič_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Arambašič_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Arambašič" src="auto">NNMS3-----A----</AM>
-<AM lemma="Arambašič_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Arambašiča_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Arambašič_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Arambašič" src="auto">NNMS6-----A----</AM>
-<AM lemma="Arambašičův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="arambašičovi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Arambašič_;S" src="orig" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-111-p10s1w16">

@@ -1723,16 +1723,7 @@
 <LM>w#w-lnd92258-003-p4s2w11</LM>
 </w.rf>
 <form>Čuňově</form>
-<tag><AM lemma="Čuňov_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Čuňově_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Čuňov_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Čuňův_;S_^(*2)" src="auto">AUFS6M---------</AM>
-<AM lemma="Čuňův_;S_^(*2)" src="auto">AUIS6M---------</AM>
-<AM lemma="Čuňův_;S_^(*2)" src="auto">AUNS6M---------</AM>
-<AM lemma="Čuňův_;S_^(*2)" src="auto">AUFS3M---------</AM>
-<AM lemma="Čuňův_;S_^(*2a)" src="auto">AUFS6M---------</AM>
-<AM lemma="Čuňov" src="auto">NNIS6-----A----</AM>
-<AM lemma="čuňově" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Čuňov_;G" src="orig" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-003-p4s2w12">

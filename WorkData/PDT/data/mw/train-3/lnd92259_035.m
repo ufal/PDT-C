@@ -347,16 +347,7 @@
 <LM>w#w-lnd92259-035-p1s3w6</LM>
 </w.rf>
 <form>Balsay</form>
-<tag><AM lemma="Balsay_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Balsay_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Balsay_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Balsay_,t" src="auto">VB-X---XP-AA---</AM>
-<AM lemma="Balsay_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Balsay" src="auto">NNIS1-----A----</AM>
-<AM lemma="Balsay_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Balsay_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Balsay_,t" src="auto">Db-------------</AM>
-<AM lemma="balsay" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Balsay_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-035-p1s3w7">

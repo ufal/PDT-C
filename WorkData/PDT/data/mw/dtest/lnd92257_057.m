@@ -2264,21 +2264,7 @@
 <LM>w#w-lnd92257-057-p5s4w21</LM>
 </w.rf>
 <form>District</form>
-<tag><AM lemma="District_;G_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Districi" src="auto">Vf--------A----</AM>
-<AM lemma="Districi" src="auto">Vf--------A---1</AM>
-<AM lemma="Districi" src="auto">Vf--------A---6</AM>
-<AM lemma="District_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="District`19" src="auto">Cn-S1----------</AM>
-<AM lemma="District`19" src="auto">Cn-S4----------</AM>
-<AM lemma="Districta" src="auto">NNFP2-----A----</AM>
-<AM lemma="districontusus_:B_,t_^(tlučený,_drcený)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="district" src="auto">NNMS1-----A----</AM>
-<AM lemma="district-1_:B_,t_^(carat,_karát)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="district-2_:B_,t_^(cent)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="district-3_:B_,t_^(county)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="district-3_:B_,t_^(county)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="district-4_:B_,t_^(current,_proud)" src="auto">NNIXX-----A---8</AM>
+<tag><AM lemma="District_;G_,t" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-057-p5s4w22">
@@ -4103,17 +4089,7 @@
 <LM>w#w-lnd92257-057-p6s3w36</LM>
 </w.rf>
 <form>Perotem</form>
-<tag><AM lemma="Perota_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Pero" src="auto">NNNS7-----A----</AM>
-<AM lemma="Peroet" src="auto">NNIS7-----A----</AM>
-<AM lemma="Perot" src="auto">NNFP3-----A----</AM>
-<AM lemma="Perot" src="auto">NNIS7-----A----</AM>
-<AM lemma="Perot" src="auto">NNMS7-----A----</AM>
-<AM lemma="Perot_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Perot_^(*3ý)" src="auto">NNFP3-----A----</AM>
-<AM lemma="Peroto" src="auto">NNNS7-----A----</AM>
-<AM lemma="perotem" src="auto">NNMS1-----A----</AM>
-<AM lemma="perotma" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="Perota_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-057-p6s3w37">
@@ -5666,16 +5642,7 @@
 <LM>w#w-lnd92257-057-p7s6w2</LM>
 </w.rf>
 <form>Pollsters</form>
-<tag><AM lemma="pollster_,t" src="orig">NNMP1-----A----</AM>
-<AM lemma="Pollsters_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pollster_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Pollsters_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Pollster_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Pollster_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Pollsters_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Pollsters_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pollsters_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="pollsters" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="pollster_,t" src="orig" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-057-p7s6w3">

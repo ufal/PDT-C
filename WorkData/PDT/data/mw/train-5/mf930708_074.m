@@ -64,20 +64,7 @@
 <LM>w#w-mf930708-074-p1s1w6</LM>
 </w.rf>
 <form>Ekol</form>
-<tag><AM lemma="Ekol_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Ekol" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ekol" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ekol-2_;K_^(organizace)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ekol_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Ekol_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ekola" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ekolo" src="auto">NNNP2-----A----</AM>
-<AM lemma="ecola_,h_,x_^(nápoj)" src="auto">NNFP2-----A----</AM>
-<AM lemma="ekol" src="auto">NNMS1-----A----</AM>
-<AM lemma="ekol-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ekoletopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
-<AM lemma="ekolitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ekolo" src="auto">NNNP2-----A----</AM>
+<tag><AM lemma="Ekol_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-074-p1s1w7">
@@ -319,20 +306,7 @@
 <LM>w#w-mf930708-074-p2s2w3</LM>
 </w.rf>
 <form>Ekol</form>
-<tag><AM lemma="Ekol_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Ekol" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ekol" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ekol-2_;K_^(organizace)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ekol_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Ekol_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ekola" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ekolo" src="auto">NNNP2-----A----</AM>
-<AM lemma="ecola_,h_,x_^(nápoj)" src="auto">NNFP2-----A----</AM>
-<AM lemma="ekol" src="auto">NNMS1-----A----</AM>
-<AM lemma="ekol-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ekoletopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
-<AM lemma="ekolitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ekolo" src="auto">NNNP2-----A----</AM>
+<tag><AM lemma="Ekol_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-074-p2s2w4">
@@ -525,20 +499,7 @@
 <LM>w#w-mf930708-074-p2s4w6</LM>
 </w.rf>
 <form>Ekol</form>
-<tag><AM lemma="Ekol_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Ekol" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ekol" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ekol-2_;K_^(organizace)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ekol_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Ekol_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ekola" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ekolo" src="auto">NNNP2-----A----</AM>
-<AM lemma="ecola_,h_,x_^(nápoj)" src="auto">NNFP2-----A----</AM>
-<AM lemma="ekol" src="auto">NNMS1-----A----</AM>
-<AM lemma="ekol-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ekoletopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
-<AM lemma="ekolitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ekolo" src="auto">NNNP2-----A----</AM>
+<tag><AM lemma="Ekol_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-074-p2s4w7">

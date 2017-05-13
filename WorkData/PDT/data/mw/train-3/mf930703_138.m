@@ -435,16 +435,7 @@
 <LM>w#w-mf930703-138-p2s1w38</LM>
 </w.rf>
 <form>Šurabád</form>
-<tag><AM lemma="Šurabád_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Šurabád_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Šurabád_;R" src="auto">NNMS1-----A----</AM>
-<AM lemma="Šurabáda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Šurabád" src="auto">NNIS1-----A----</AM>
-<AM lemma="Šurabád" src="auto">NNIS4-----A----</AM>
-<AM lemma="Šurabád_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Šurabád_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Šurabád" src="auto">NNMS1-----A----</AM>
-<AM lemma="šurabád" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Šurabád_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-138-p2s1w39">

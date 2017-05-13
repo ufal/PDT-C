@@ -75,15 +75,7 @@
 <LM>w#w-mf930701-139-p2s1w3</LM>
 </w.rf>
 <form>pka</form>
-<tag><AM lemma="pka-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="pka" src="auto">NNFS1-----A----</AM>
-<AM lemma="pka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="pek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="pek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="pek-1_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="pek" src="auto">NNMS4-----A----</AM>
-<AM lemma="pko_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="pka-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<tag><AM lemma="pka-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-139-p2s1w4">

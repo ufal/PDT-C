@@ -140,15 +140,7 @@
 <LM>w#w-lnd92259-032-p3s1w3</LM>
 </w.rf>
 <form>kp</form>
-<tag><AM lemma="kp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kp-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="kp" src="auto">NNIS1-----A----</AM>
-<AM lemma="kp" src="auto">NNIS4-----A----</AM>
-<AM lemma="kp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kp" src="auto">NNMS1-----A----</AM>
-<AM lemma="kp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="kpa" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="kp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-032-p3s1w4">
@@ -1283,16 +1275,7 @@
 <LM>w#w-lnd92259-032-p4s3w18</LM>
 </w.rf>
 <form>Mamedův</form>
-<tag><AM lemma="Mamedův_;S_^(*2)" src="orig">AUIS4M---------</AM>
-<AM lemma="Mamedův_;S_^(*2o)" src="auto">AUIS1M---------</AM>
-<AM lemma="Mamedův_;S_^(*2a)" src="auto">AUMS1M---------</AM>
-<AM lemma="Mamedův_;S_^(*2a)" src="auto" recommended="1">AUIS4M---------</AM>
-<AM lemma="Mamedův_;S_^(*2a)" src="auto">AUIS1M---------</AM>
-<AM lemma="Mamedův_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="Mamedův_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Mamedův_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Mamedův-1_;S_^(*5s-1)" src="auto">AUMS1M---------</AM>
-<AM lemma="mamedův" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mamedův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-032-p4s3w19">

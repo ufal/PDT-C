@@ -14549,15 +14549,7 @@
 <LM>w#w-lnd92255-071-p18s9w30</LM>
 </w.rf>
 <form>reuter</form>
-<tag><AM lemma="reuter_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="reuter_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="reuter_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="reuter_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="reuter" src="auto">NNIS1-----A----</AM>
-<AM lemma="reutro" src="auto">NNNP2-----A----</AM>
-<AM lemma="reuter_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="reuter" src="auto">NNIS4-----A----</AM>
-<AM lemma="reutrum" src="auto">NNNP2-----A----</AM>
+<tag><AM lemma="reuter_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-071-p18s9w31">

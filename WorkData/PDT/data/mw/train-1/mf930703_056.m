@@ -142,16 +142,7 @@
 <LM>w#w-mf930703-056-p2s1w9</LM>
 </w.rf>
 <form>Strega</form>
-<tag><AM lemma="Strega_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Strega_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Strego_;S_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Strego_;S_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Strega_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Strega_;m" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Strega_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strega_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Strega_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="strega" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Strega_;m" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-056-p2s1w10">
@@ -419,16 +410,7 @@
 <LM>w#w-mf930703-056-p2s2w2</LM>
 </w.rf>
 <form>Strega</form>
-<tag><AM lemma="Strega_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Strega_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Strego_;S_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Strego_;S_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Strega_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Strega_;m" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Strega_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strega_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Strega_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="strega" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Strega_;m" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-056-p2s2w3">

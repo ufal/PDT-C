@@ -66,15 +66,7 @@
 <LM>w#w-mf930702-117-p2s1w2</LM>
 </w.rf>
 <form>Farmingdale</form>
-<tag><AM lemma="Farmingdale_;G_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Farmingdale_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Farmingdale_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Farmingdal" src="auto">NNIS6-----A----</AM>
-<AM lemma="Farmingdale_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Farmingdala" src="auto">NNFS6-----A----</AM>
-<AM lemma="Farmingdale_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Farmingdale-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="farmingdale" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Farmingdale_;G_,t" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-117-p2s1w3">
@@ -713,15 +705,7 @@
 <LM>w#w-mf930702-117-p4s1w19</LM>
 </w.rf>
 <form>upu</form>
-<tag><AM lemma="up_,t_^(pick-up)" src="orig">NNIS6-----A----</AM>
-<AM lemma="up" src="auto">NNIS2-----A----</AM>
-<AM lemma="up" src="auto">NNIS6-----A----</AM>
-<AM lemma="up" src="auto">NNIS3-----A----</AM>
-<AM lemma="upa" src="auto">NNFS4-----A----</AM>
-<AM lemma="up_,t_^(pick-up)" src="auto">NNIS6-----A----</AM>
-<AM lemma="upa_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="up_;R_^(auto)" src="auto">NNIS2-----A----</AM>
-<AM lemma="up_,t_^(pohár)" src="auto" recommended="1">NNIS2-----A----</AM>
+<tag><AM lemma="up_,t_^(pick-up)" src="orig" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-117-p4s1w20">
@@ -1336,16 +1320,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Meadow</form>
-<tag><AM lemma="Meadow_;G_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Meadow_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Meadow_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Meadow_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Meadow_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Meadow_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Meadow_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Meadow" src="auto">NNFXX-----A----</AM>
-<AM lemma="know_,t_^(Meadow_how)" src="auto">NNNXX-----A----</AM>
-<AM lemma="meadow" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Meadow_;G_,t" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-117-p5s3w13">

@@ -120,16 +120,7 @@
 <LM>w#w-lnd92259-076-p1s2w3</LM>
 </w.rf>
 <form>Missariel</form>
-<tag><AM lemma="Missariel_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Missariel_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Missariel_;m" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Missariel_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Missariel_;R" src="auto">NNFXX-----A----</AM>
-<AM lemma="Missariel_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Missariel_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Missariel-1_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Missariel" src="auto">NNMS1-----A----</AM>
-<AM lemma="missariel" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Missariel_;m" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-076-p1s2w4">

@@ -199,15 +199,7 @@
 <LM>w#w-lnd92257-053-p3s2w11</LM>
 </w.rf>
 <form>Manyula</form>
-<tag><AM lemma="Manyula_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Manyout" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Manyula_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Manyula" src="auto">NNFS1-----A----</AM>
-<AM lemma="Manyul_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Manyula_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Manyula_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Manyula_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="manyula" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Manyula_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-053-p3s2w12">
@@ -517,15 +509,7 @@
 <LM>w#w-lnd92257-053-p3s3w7</LM>
 </w.rf>
 <form>Manyula</form>
-<tag><AM lemma="Manyula_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Manyout" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Manyula_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Manyula" src="auto">NNFS1-----A----</AM>
-<AM lemma="Manyul_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Manyula_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Manyula_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Manyula_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="manyula" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Manyula_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-053-p3s3w8">
@@ -821,15 +805,7 @@
 <LM>w#w-lnd92257-053-p3s5w1</LM>
 </w.rf>
 <form>Manyula</form>
-<tag><AM lemma="Manyula_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Manyout" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Manyula_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Manyula" src="auto">NNFS1-----A----</AM>
-<AM lemma="Manyul_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Manyula_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Manyula_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Manyula_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="manyula" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Manyula_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-053-p3s5w2">

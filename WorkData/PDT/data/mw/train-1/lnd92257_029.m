@@ -221,16 +221,7 @@
 <LM>w#w-lnd92257-029-p2s2w15</LM>
 </w.rf>
 <form>Overture</form>
-<tag><AM lemma="Overture_;m" src="orig">NNFXX-----A----</AM>
-<AM lemma="Overture_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Overtus_,t" src="auto">NNNS6-----A----</AM>
-<AM lemma="Overture_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Overture_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Overture_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Overture_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Overture_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Overture_;K_,t" src="auto">AAFSX----1A----</AM>
-<AM lemma="overture" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Overture_;m" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-029-p2s2w16">
@@ -502,16 +493,7 @@
 <LM>w#w-lnd92257-029-p2s3w29</LM>
 </w.rf>
 <form>Frídek</form>
-<tag><AM lemma="Frídek_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Frídek_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Frídek" src="auto">NNIS4-----A----</AM>
-<AM lemma="Frídek" src="auto">NNIS1-----A----</AM>
-<AM lemma="Frídka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Frídek" src="auto">NNMS1-----A----</AM>
-<AM lemma="Frídek_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Frídek_^(textu)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Frídek_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="frídek" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Frídek_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-029-p2s3w30">
@@ -887,16 +869,7 @@
 <LM>w#w-lnd92257-029-p2s6w4</LM>
 </w.rf>
 <form>Overture</form>
-<tag><AM lemma="Overture_;m" src="orig">NNFXX-----A----</AM>
-<AM lemma="Overture_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Overtus_,t" src="auto">NNNS6-----A----</AM>
-<AM lemma="Overture_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Overture_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Overture_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Overture_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Overture_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Overture_;K_,t" src="auto">AAFSX----1A----</AM>
-<AM lemma="overture" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Overture_;m" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-029-p2s6w5">

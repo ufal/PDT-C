@@ -898,24 +898,7 @@
 <LM>w#w-mf930708-134-p2s7w6</LM>
 </w.rf>
 <form>čtyřicetilibrové</form>
-<tag><AM lemma="čtyřicetilibrový" src="orig">AAFS2----1A----</AM>
-<AM lemma="čtyřicetilibrová_;S" src="auto">NNFS2-----A----</AM>
-<AM lemma="čtyřicetilibrový" src="auto">AAFP1----1A----</AM>
-<AM lemma="čtyřicetilibrový" src="auto">AAFP4----1A----</AM>
-<AM lemma="čtyřicetilibrový" src="auto">AAFP5----1A----</AM>
-<AM lemma="čtyřicetilibrový" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="čtyřicetilibrový" src="auto">AAFS3----1A----</AM>
-<AM lemma="čtyřicetilibrový" src="auto">AAFS6----1A----</AM>
-<AM lemma="čtyřicetilibrový" src="auto">AAIP1----1A----</AM>
-<AM lemma="čtyřicetilibrový" src="auto">AAIP4----1A----</AM>
-<AM lemma="čtyřicetilibrový" src="auto">AAIP5----1A----</AM>
-<AM lemma="čtyřicetilibrový" src="auto">AAMP4----1A----</AM>
-<AM lemma="čtyřicetilibrový" src="auto">AANP1----1A---6</AM>
-<AM lemma="čtyřicetilibrový" src="auto">AANP4----1A---6</AM>
-<AM lemma="čtyřicetilibrový" src="auto">AANP5----1A---6</AM>
-<AM lemma="čtyřicetilibrový" src="auto">AANS1----1A----</AM>
-<AM lemma="čtyřicetilibrový" src="auto">AANS4----1A----</AM>
-<AM lemma="čtyřicetilibrový" src="auto">AANS5----1A----</AM>
+<tag><AM lemma="čtyřicetilibrový" src="orig" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-134-p2s7w7">

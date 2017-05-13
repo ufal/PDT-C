@@ -158,16 +158,7 @@
 <LM>w#w-mf930708-114-p2s1w13</LM>
 </w.rf>
 <form>Primoraca</form>
-<tag><AM lemma="Primorac_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Primoraco_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Primorac_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Primoraca_;L_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Primoraca_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Primoraca_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Primoraca-1_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Primoraca_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Primoraca_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="primoraca" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Primorac_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-114-p2s1w14">
@@ -248,16 +239,7 @@
 <LM>w#w-mf930708-114-p2s1w22</LM>
 </w.rf>
 <form>Élysées</form>
-<tag><AM lemma="Élysées_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Élysées_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Élysées_;G" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Élysées_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Élysées" src="auto">NNIS4-----A----</AM>
-<AM lemma="Élysée_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Élysées" src="auto">NNIS1-----A----</AM>
-<AM lemma="Élysées_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Élysée_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="élysées" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Élysées_;G" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-114-p2s1w23">
@@ -484,15 +466,7 @@
 <LM>w#w-mf930708-114-p2s2w1</LM>
 </w.rf>
 <form>Primoracovi</form>
-<tag><AM lemma="Primorac_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Primorac_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Primorac" src="auto">NNMS3-----A----</AM>
-<AM lemma="Primorac_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Primoraca_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Primorac_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Primorac" src="auto">NNMS6-----A----</AM>
-<AM lemma="Primoracův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="primoracovi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Primorac_;S" src="orig" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-114-p2s2w2">
@@ -611,15 +585,7 @@
 <LM>w#w-mf930708-114-p2s3w5</LM>
 </w.rf>
 <form>Primorace</form>
-<tag><AM lemma="Primorac_;S" src="orig">NNMS4-----A---1</AM>
-<AM lemma="Primorace" src="auto">NNFS1-----A----</AM>
-<AM lemma="Primorace" src="auto">NNFS2-----A----</AM>
-<AM lemma="Primorace" src="auto">NNFP4-----A----</AM>
-<AM lemma="Primorace" src="auto">NNFP1-----A----</AM>
-<AM lemma="Primorace_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Primorace_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Primorace_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="primorace" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Primorac_;S" src="orig" selected="1">NNMS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930708-114-p2s3w6">

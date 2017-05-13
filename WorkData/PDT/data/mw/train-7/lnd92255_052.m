@@ -113,13 +113,7 @@
 <LM>w#w-lnd92255-052-p3s1w3</LM>
 </w.rf>
 <form>ph</form>
-<tag><AM lemma="ph-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ph_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="ph_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ph_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="ph_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ph-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ph-1_;K_,t_^(souč._názvu_Daily_T.)" src="auto">NNIXX-----A----</AM>
+<tag><AM lemma="ph-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-052-p3s1w4">

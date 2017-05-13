@@ -113,15 +113,7 @@
 <LM>w#w-lnd92257-010-p3s1w3</LM>
 </w.rf>
 <form>rk</form>
-<tag><AM lemma="rk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="rk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rk" src="auto">NNIS1-----A----</AM>
-<AM lemma="rk" src="auto">NNIS4-----A----</AM>
-<AM lemma="rk-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="rk_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="rk_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="rk_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="rk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-010-p3s1w4">
@@ -615,35 +607,7 @@
 <LM>w#w-lnd92257-010-p4s1w1</LM>
 </w.rf>
 <form>Třicetičtyřstránkový</form>
-<tag><AM lemma="třicetičtyřstránkový" src="orig">AAIS1----1A----</AM>
-<AM lemma="Třicetičtyřstránkový" src="auto">AAIS1----1A----</AM>
-<AM lemma="Třicetičtyřstránkový" src="auto">AAIS4----1A----</AM>
-<AM lemma="Třicetičtyřstránkový" src="auto">AAMS1----1A----</AM>
-<AM lemma="Třicetičtyřstránkový_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AAFP1----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AAFP4----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AAFP5----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AAFS2----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AAFS3----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AAFS6----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AAIP1----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AAIP4----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AAIP5----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AAIS4----1A----</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AAIS5----1A----</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AAMP1----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AAMP4----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AAMP5----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AAMS1----1A----</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AAMS5----1A----</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AANP1----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AANP4----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AANP5----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AANS1----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AANS4----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">AANS5----1A---6</AM>
-<AM lemma="třicetičtyřstránkový" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="třicetičtyřstránkový" src="orig" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-010-p4s1w2">

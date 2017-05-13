@@ -3610,19 +3610,7 @@
 <LM>w#w-lnd92257-082-p12s1Bw2</LM>
 </w.rf>
 <form>FLORIMOND</form>
-<tag><AM lemma="Florimond_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="FLORIMond_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Florimond_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bundesnachrichttendienst_:FLORIMO_;K_,t_^(spolk._zprav._služba)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Florimond_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Florimond_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Florimond_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Florimond_:B_;K_^(Český_literární_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Florimond_:B_;K_^(Český_literární_fond)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Florimond_,t" src="auto">RR--X----------</AM>
-<AM lemma="Florimond_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Florimond_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="florimond" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Florimond_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-082-p12s1Bw3">
@@ -4269,19 +4257,7 @@
 <LM>w#w-lnd92257-082-p23s1w4</LM>
 </w.rf>
 <form>BERTHOLLET</form>
-<tag><AM lemma="Berthollet_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Berthollet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="BERTHOLLet_;K_,t_^(síť)" src="auto">NNIS1-----A----</AM>
-<AM lemma="BERTHOLLET_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Berthollet" src="auto">Vf--------A----</AM>
-<AM lemma="Berthollet_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Berthollet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Berthollet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Berthollet_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bertholleta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Berthollet_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Berthollet_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="berthollet" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Berthollet_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -4469,17 +4445,7 @@
 <LM>w#w-lnd92257-082-p27s1w3</LM>
 </w.rf>
 <form>POTTIER</form>
-<tag><AM lemma="Pottier_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pottier_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pottier_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pottier_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kurier-1_;K_,t_^(souč._názvu_Der_Pottier)" src="auto">NNISX-----A----</AM>
-<AM lemma="Pottiéra_,x" src="auto">NNFP2-----A----</AM>
-<AM lemma="Pottier_^(sklárna)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pottier_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pottier_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Pottier_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="pottier" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pottier_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

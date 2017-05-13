@@ -64,13 +64,7 @@
 <LM>w#w-mf930703-053-p1s1w6</LM>
 </w.rf>
 <form>aš</form>
-<tag><AM lemma="aš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="aš_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="aš-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="aš_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="aš_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="aš" src="auto">NNIS1-----A----</AM>
-<AM lemma="aš" src="auto">NNFS4-----A----</AM>
+<tag><AM lemma="aš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-053-p1s1w7">
@@ -373,16 +367,7 @@
 <LM>w#w-mf930703-053-p1s2w9</LM>
 </w.rf>
 <form>Maguy</form>
-<tag><AM lemma="Maguy_;K_,t" src="orig">NNMXX-----A----</AM>
-<AM lemma="Maguy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Maguy_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Maguy_;K_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Magua_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Maguy_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Maguy_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Maguy_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Magua" src="auto">NNFS2-----A----</AM>
-<AM lemma="maguy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Maguy_;K_,t" src="orig" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-053-p1s2w10">

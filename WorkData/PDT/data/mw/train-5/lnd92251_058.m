@@ -125,16 +125,7 @@
 <LM>w#w-lnd92251-058-p3s2w5</LM>
 </w.rf>
 <form>Pching</form>
-<tag><AM lemma="Pching_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pching_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pching" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pching_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pching" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pching_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pching_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Pching_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pching_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="pching" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pching_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-058-p3s2w6">
@@ -425,16 +416,7 @@
 <LM>w#w-lnd92251-058-p3s3w2</LM>
 </w.rf>
 <form>Pching</form>
-<tag><AM lemma="Pching_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pching_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pching" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pching_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pching" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pching_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pching_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Pching_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pching_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="pching" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pching_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-058-p3s3w3">
@@ -887,16 +869,7 @@
 <LM>w#w-lnd92251-058-p3s4w18</LM>
 </w.rf>
 <form>Pching</form>
-<tag><AM lemma="Pching_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pching_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pching" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pching_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pching" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pching_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pching_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Pching_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pching_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="pching" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pching_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-058-p3s4w19">

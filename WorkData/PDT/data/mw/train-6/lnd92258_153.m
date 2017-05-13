@@ -104,15 +104,7 @@
 <LM>w#w-lnd92258-153-p3s1w3</LM>
 </w.rf>
 <form>tes</form>
-<tag><AM lemma="tes-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="tes_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="te_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="tes_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="tes_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="tes_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="tes_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="tes_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="tes_;G" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="tes-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-153-p3s1w4">
@@ -1817,15 +1809,7 @@
 <LM>w#w-lnd92258-153-p3s11w17</LM>
 </w.rf>
 <form>Schüsslovi</form>
-<tag><AM lemma="Schüssel_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Schüssl_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Schüssl" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Schüssl_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Schüssla_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Schüssl_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Schüssl" src="auto">NNMS6-----A----</AM>
-<AM lemma="Schüsslův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="schüsslovi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Schüssel_;S" src="orig" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-153-p3s11w18">

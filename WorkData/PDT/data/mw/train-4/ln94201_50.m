@@ -785,14 +785,7 @@
 <LM>w#w-ln94201-50-p2s5w10</LM>
 </w.rf>
 <form>Corriere</form>
-<tag><AM lemma="Corriere_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Corrirat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Corriere_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Corrirát" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Corriere_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="zabrat_^([Corriavit]_něco_někomu)" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Corrirát-2" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="corriere" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Corriere_;R_,t" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-50-p2s5w11">
@@ -838,16 +831,7 @@
 <LM>w#w-ln94201-50-p2s5w15</LM>
 </w.rf>
 <form>Llerová</form>
-<tag><AM lemma="Llerová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Llerová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Llerový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Llerový" src="auto">AANP1----1A----</AM>
-<AM lemma="Llerový" src="auto">AANP4----1A----</AM>
-<AM lemma="Llerová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Llerová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Llerový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Llerový" src="auto">AAFS5----1A----</AM>
-<AM lemma="llerová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Llerová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-50-p2s5w16">

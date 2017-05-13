@@ -620,15 +620,7 @@
 <LM>w#w-lnd92251-113-p2s3w21</LM>
 </w.rf>
 <form>Fodriestovi</form>
-<tag><AM lemma="Fodriest_;S" src="orig">NNMS6-----A----</AM>
-<AM lemma="Fodriest_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Fodriest" src="auto">NNMS3-----A----</AM>
-<AM lemma="Fodriest_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Fodriesta_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Fodriest_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Fodriest" src="auto">NNMS6-----A----</AM>
-<AM lemma="Fodriestův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="fodriestovi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Fodriest_;S" src="orig" selected="1">NNMS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-113-p2s3w22">

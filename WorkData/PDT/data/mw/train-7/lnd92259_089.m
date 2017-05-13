@@ -549,16 +549,7 @@
 <LM>w#w-lnd92259-089-p2s4w9</LM>
 </w.rf>
 <form>Turcotte</form>
-<tag><AM lemma="Turcotte_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Turcotte_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Turcotte_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Turcotte_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="tutte_,t_^(jen_Cosi_fan_Turcotte,_it.)" src="auto">PLFP1----------</AM>
-<AM lemma="Turcotte_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Turcotte_;m" src="auto">NNXXX-----A----</AM>
-<AM lemma="Turcotte_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Turcotte_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="turcotte" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Turcotte_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-089-p2s4w10">

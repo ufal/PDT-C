@@ -261,16 +261,7 @@
 <LM>w#w-lnd92259-067-p3s2w19</LM>
 </w.rf>
 <form>Madiganem</form>
-<tag><AM lemma="Madigan_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Madigan" src="auto">NNIS7-----A----</AM>
-<AM lemma="Madigan_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Madigan_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Madigan" src="auto">NNMS7-----A----</AM>
-<AM lemma="Madigan_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Madigano" src="auto">NNNS7-----A----</AM>
-<AM lemma="Madigaen" src="auto">NNIS7-----A----</AM>
-<AM lemma="Madigan_;E" src="auto">NNMS7-----A----</AM>
-<AM lemma="madiganem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Madigan_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-067-p3s2w20">
@@ -1176,16 +1167,7 @@
 <LM>w#w-lnd92259-067-p3s5w12</LM>
 </w.rf>
 <form>Gummer</form>
-<tag><AM lemma="Gummer_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gummer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gummera" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gummerický_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Gummer_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Gummer_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gummer_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gummer_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Gummer_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="gummer" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gummer_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-067-p3s5w13">

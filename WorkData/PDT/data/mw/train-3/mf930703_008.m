@@ -93,16 +93,7 @@
 <LM>w#w-mf930703-008-p2s1w3</LM>
 </w.rf>
 <form>zj</form>
-<tag><AM lemma="zj-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="zbýt_:B_^(jen_ve_spojení_t._j.,_to_jest)" src="auto">VB-S---3P-AA--8</AM>
-<AM lemma="zj" src="auto">NNFS1-----A----</AM>
-<AM lemma="zj" src="auto">NNFS4-----A----</AM>
-<AM lemma="zj" src="auto">NNIS1-----A----</AM>
-<AM lemma="zj" src="auto">NNIS4-----A----</AM>
-<AM lemma="zj-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="zj-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="zj_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="zj_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="zj-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-008-p2s1w4">

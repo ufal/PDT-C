@@ -66,15 +66,7 @@
 <LM>w#w-lnd92256-066-p2s1w3</LM>
 </w.rf>
 <form>zšá</form>
-<tag><AM lemma="zšá-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="zšá-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="zšý" src="auto">AAFS1----1A----</AM>
-<AM lemma="zšá_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="zšat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="zšý" src="auto">AANP1----1A----</AM>
-<AM lemma="zšý" src="auto">AANP4----1A----</AM>
-<AM lemma="zšý_^(*2t)" src="auto">AAFS1----1A----</AM>
-<AM lemma="zšý_^(*3it)" src="auto">AAFS1----1A----</AM>
+<tag><AM lemma="zšá-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-066-p2s1w4">

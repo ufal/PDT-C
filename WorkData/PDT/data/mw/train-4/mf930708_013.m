@@ -2487,16 +2487,7 @@
 <LM>w#w-mf930708-013-p5s3w6</LM>
 </w.rf>
 <form>Synášek</form>
-<tag><AM lemma="Synášek_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Synášek_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Synáška" src="auto">NNFP2-----A----</AM>
-<AM lemma="Synášek" src="auto">NNIS1-----A----</AM>
-<AM lemma="Synášek" src="auto">NNIS4-----A----</AM>
-<AM lemma="Synášek" src="auto">NNMS1-----A----</AM>
-<AM lemma="Synášek_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Synášky" src="auto">NNFP2-----A----</AM>
-<AM lemma="Synáška-1_;E" src="auto">NNFP2-----A----</AM>
-<AM lemma="synášek" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Synášek_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-013-p5s3w7">

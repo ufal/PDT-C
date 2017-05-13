@@ -1030,16 +1030,7 @@
 <LM>w#w-lnd92253-060-p3s4w1</LM>
 </w.rf>
 <form>Andrassy</form>
-<tag><AM lemma="Andrassy_;S" src="orig">NNMS1-----A---8</AM>
-<AM lemma="Andrassy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Andrass" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="Andrass" src="auto">NNIP4-----A----</AM>
-<AM lemma="Andrass" src="auto">NNIP7-----A----</AM>
-<AM lemma="Andrassa" src="auto">NNFS2-----A----</AM>
-<AM lemma="Andrassa" src="auto">NNFP4-----A----</AM>
-<AM lemma="Andrassa" src="auto">NNFP1-----A----</AM>
-<AM lemma="Andrassa_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="andrassy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Andrassy_;S" src="orig" selected="1">NNMS1-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92253-060-p3s4w2">

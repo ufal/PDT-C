@@ -413,15 +413,7 @@
 <LM>w#w-lnd92254-085-p3s2w26</LM>
 </w.rf>
 <form>MacDermidovi</form>
-<tag><AM lemma="MacDermid_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="MacDermid_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="MacDermid" src="auto">NNMS3-----A----</AM>
-<AM lemma="MacDermid_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="MacDermida_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="MacDermid_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="MacDermid" src="auto">NNMS6-----A----</AM>
-<AM lemma="MacDermidův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="Macdermidovi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="MacDermid_;S" src="orig" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-085-p3s2w27">
@@ -1245,16 +1237,7 @@
 <LM>w#w-lnd92254-085-p4s7w10</LM>
 </w.rf>
 <form>Lightning</form>
-<tag><AM lemma="Lightning_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Lightning_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lightning" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lightning_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lightning" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lightning_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lightning_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Lightning_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lightning_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="lightning" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lightning_;K_,t" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-085-p4s7w11">
@@ -1272,16 +1255,7 @@
 <LM>w#w-lnd92254-085-p4s7w12</LM>
 </w.rf>
 <form>Nordiques</form>
-<tag><AM lemma="Nordiques_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Nordique_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Nordiques_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Nordique_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Nordiques_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nordiques_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Nordiques_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Nordiques" src="auto">NNNXX-----A----</AM>
-<AM lemma="Nordiques" src="auto">AAXXX----1A----</AM>
-<AM lemma="nordiques" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nordiques_;K_,t" src="orig" selected="1">NNMPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-085-p4s7w13">
@@ -1580,12 +1554,7 @@
 <LM>w#w-lnd92254-085-p4s8w24</LM>
 </w.rf>
 <form>Bradleyemu</form>
-<tag><AM lemma="Bradley_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Bradleye_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Bradleyem" src="auto">NNIS2-----A----</AM>
-<AM lemma="Bradleyem" src="auto">NNIS3-----A----</AM>
-<AM lemma="Bradleye_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="bradleyemu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bradley_;S" src="orig" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-085-p4s8w25">
@@ -1767,16 +1736,7 @@
 <LM>w#w-lnd92254-085-p4s9w14</LM>
 </w.rf>
 <form>Nordiques</form>
-<tag><AM lemma="Nordiques_;K" src="orig">NNMPX-----A----</AM>
-<AM lemma="Nordique_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Nordiques_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Nordique_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Nordiques_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nordiques_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Nordiques_;K" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Nordiques" src="auto">NNNXX-----A----</AM>
-<AM lemma="Nordiques" src="auto">AAXXX----1A----</AM>
-<AM lemma="nordiques" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nordiques_;K" src="orig" selected="1">NNMPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-085-p4s9w15">
@@ -1958,16 +1918,7 @@
 <LM>w#w-lnd92254-085-p4s10w16</LM>
 </w.rf>
 <form>Senators</form>
-<tag><AM lemma="Senators_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Senator_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Senators_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Senator_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Senators_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Senators_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Senators-1_;K_,t_^(souč._názvů,_např._General_M.)" src="auto">NNIPX-----A----</AM>
-<AM lemma="Senators_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Senator_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="senators" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Senators_;K_,t" src="orig" selected="1">NNMPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-085-p4s10w17">

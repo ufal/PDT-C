@@ -1091,16 +1091,7 @@
 <LM>w#w-ln94201-124-p3s4w16</LM>
 </w.rf>
 <form>Dudákov</form>
-<tag><AM lemma="Dudákov_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Dudákov_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dudákov_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dudákov_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dudákov" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dudákov" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dudák_;G_,t" src="auto">NNMP2-----A----</AM>
-<AM lemma="Dudák-2_,t" src="auto">NNMP2-----A----</AM>
-<AM lemma="Dudákov_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="dudákov" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Dudákov_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-124-p3s4w17">
@@ -1604,16 +1595,7 @@
 <LM>w#w-ln94201-124-p4s3w31</LM>
 </w.rf>
 <form>Victoire</form>
-<tag><AM lemma="Victoire_;Y_,t" src="orig">NNFSX-----A----</AM>
-<AM lemma="Victoire_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Victoire_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Victoire_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Victoire_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Victoire_;K_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Victoire_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Victoire_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Victoire_,t" src="auto">Vf--------A----</AM>
-<AM lemma="victoire" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Victoire_;Y_,t" src="orig" selected="1">NNFSX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-124-p4s3w32">
@@ -1814,15 +1796,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>musette</form>
-<tag><AM lemma="musette_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="musette_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="musette_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="musette_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tutte_,t_^(jen_Cosi_fan_musette,_it.)" src="auto">PLFP1----------</AM>
-<AM lemma="musette_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="musette_;m" src="auto">NNXXX-----A----</AM>
-<AM lemma="musette_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="musette_;R_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<tag><AM lemma="musette_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-124-p4s4w22">
@@ -1988,16 +1962,7 @@
 <LM>w#w-ln94201-124-p4s5w14</LM>
 </w.rf>
 <form>Wilzek</form>
-<tag><AM lemma="Wilzek_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Wilzek_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Wilzka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Wilzek" src="auto">NNIS4-----A----</AM>
-<AM lemma="Wilzek" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wilzek" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wilzka_^(*2)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Wilzek-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wilzko" src="auto">NNNP2-----A----</AM>
-<AM lemma="wilzek" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Wilzek_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-124-p4s5w15">
@@ -2216,15 +2181,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>musette</form>
-<tag><AM lemma="musette_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="musette_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="musette_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="musette_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tutte_,t_^(jen_Cosi_fan_musette,_it.)" src="auto">PLFP1----------</AM>
-<AM lemma="musette_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="musette_;m" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="musette_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="musette_;R_,t" src="auto">NNFXX-----A----</AM>
+<tag><AM lemma="musette_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-124-p4s6w3">
@@ -2543,16 +2500,7 @@
 <LM>w#w-ln94201-124-p4s7w10</LM>
 </w.rf>
 <form>Spilwut</form>
-<tag><AM lemma="Spilwut_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Spilwut_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Spilwut_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Spilwut" src="auto">Vf--------A----</AM>
-<AM lemma="Spilwout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Spilwout_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Spilwut_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Spilwut_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Spilwut" src="auto">NNIS4-----A----</AM>
-<AM lemma="spilwut" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Spilwut_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-124-p4s7w11">

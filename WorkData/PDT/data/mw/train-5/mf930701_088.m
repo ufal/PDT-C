@@ -1060,16 +1060,7 @@
 <LM>w#w-mf930701-088-p2s2w17</LM>
 </w.rf>
 <form>Kľúčik</form>
-<tag><AM lemma="Kľúčik_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kľúčik_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kľúčik_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kľúčik" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kľúčika" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kľúčik" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kľúčik" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kľúčikum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Kľúčik_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kľúčik" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kľúčik_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-088-p2s2w18">
@@ -2649,16 +2640,7 @@
 <LM>w#w-mf930701-088-p3s2w45</LM>
 </w.rf>
 <form>Cahel</form>
-<tag><AM lemma="Cahel_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cahel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cahla" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cahel" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cahel_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cahel" src="auto">NNIS4-----A----</AM>
-<AM lemma="Cahel_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cahel_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Cahel" src="auto">NNMS1-----A----</AM>
-<AM lemma="cahel" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cahel_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-088-p3s2w46">
@@ -2712,16 +2694,7 @@
 <LM>w#w-mf930701-088-p3s2w51</LM>
 </w.rf>
 <form>Drtva</form>
-<tag><AM lemma="Drtva_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Drtvo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Drtvo" src="auto">NNNP1-----A----</AM>
-<AM lemma="Drtvo" src="auto">NNNP4-----A----</AM>
-<AM lemma="Drtva" src="auto">NNFS1-----A----</AM>
-<AM lemma="Drtva_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Drtva_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Drtva_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Drtva-1" src="auto">Db-------------</AM>
-<AM lemma="drtva" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Drtva_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-088-p3s2w52">
@@ -8442,16 +8415,7 @@
 <LM>w#w-mf930701-088-p9s2w17</LM>
 </w.rf>
 <form>Free</form>
-<tag><AM lemma="Free_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Free_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Free_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Free_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Free_;L_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Free_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Free_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Free_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="Free_,t" src="auto">ClXPX----------</AM>
-<AM lemma="free" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Free_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-088-p9s2w18">

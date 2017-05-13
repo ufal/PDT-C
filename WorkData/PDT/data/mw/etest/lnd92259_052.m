@@ -533,16 +533,7 @@
 <LM>w#w-lnd92259-052-p3s4w10</LM>
 </w.rf>
 <form>Jeremias</form>
-<tag><AM lemma="Jeremias_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jeremias_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Jeremias_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jeremias_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jeremias_;L_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Jeremias" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jeremias" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jeremias" src="auto">J^-------------</AM>
-<AM lemma="Jeremias" src="auto">NNIS4-----A----</AM>
-<AM lemma="jeremias" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Jeremias_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-052-p3s4w11">
@@ -551,16 +542,7 @@
 <LM>w#w-lnd92259-052-p3s4w11</LM>
 </w.rf>
 <form>Citunda</form>
-<tag><AM lemma="Citunda_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Citunda_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Citunda" src="auto">NNFS1-----A----</AM>
-<AM lemma="Citund_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Citund_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Citund_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Citunda_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Citunda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Citund_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="citunda" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Citunda_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-052-p3s4w12">
@@ -659,15 +641,7 @@
 <LM>w#w-lnd92259-052-p3s4w22</LM>
 </w.rf>
 <form>Salupeto</form>
-<tag><AM lemma="Salupeto_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Salupeto" src="auto">NNNS1-----A----</AM>
-<AM lemma="Salupeto" src="auto">NNNS4-----A----</AM>
-<AM lemma="Salupeto_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Salupeta" src="auto">NNFS5-----A----</AM>
-<AM lemma="Salupet" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="Salupeto_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Salupeto_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="salupeto" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Salupeto_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-052-p3s4w23">
@@ -813,12 +787,7 @@
 <LM>w#w-lnd92259-052-p3s4w38</LM>
 </w.rf>
 <form>Cilingutila</form>
-<tag><AM lemma="Cilingutila_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cilingutit_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Cilingutit_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Cilingutil_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cilingutít" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="cilingutila" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Cilingutila_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-052-p3s4w39">

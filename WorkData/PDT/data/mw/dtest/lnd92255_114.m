@@ -699,17 +699,7 @@
 <LM>w#w-lnd92255-114-p6s2w15</LM>
 </w.rf>
 <form>Soufi</form>
-<tag><AM lemma="Soufi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Soufe" src="auto">NNFS4-----A----</AM>
-<AM lemma="Soufe_,h" src="auto">NNNS6-----A----</AM>
-<AM lemma="Soufi_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Soufi_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Soufi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Soufi_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="fiction-1_:B_,t_^(angl._fantastický,_sci-Soufi)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="fiction-2_:B_,t_^(angl._fantastický,_sci-Soufi)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="soufi" src="auto">NNMS1-----A----</AM>
-<AM lemma="soufi-2_:B_,t_^(fiction,_angl._fantastický,_sci-fi)" src="auto">NNFXX-----A---8</AM>
+<tag><AM lemma="Soufi_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-114-p6s2w16">
@@ -745,16 +735,7 @@
 <LM>w#w-lnd92255-114-p6s2w19</LM>
 </w.rf>
 <form>Thanis</form>
-<tag><AM lemma="Thanis_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Thanis_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Thanis_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Thanis_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Thanis_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Thanis_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Thanis_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Thanis" src="auto">NNIS4-----A----</AM>
-<AM lemma="Thanis" src="auto">NNIS1-----A----</AM>
-<AM lemma="thanis" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Thanis_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-114-p6s2w20">
@@ -1136,21 +1117,7 @@
 <LM>w#w-lnd92255-114-p8s1w39</LM>
 </w.rf>
 <form>Svéd</form>
-<tag><AM lemma="Švédsko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Svéd" src="auto">NNIS1-----A----</AM>
-<AM lemma="Svéd" src="auto">NNIS4-----A----</AM>
-<AM lemma="Svéd_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Svéd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Svéd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Svédo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Svédsko_:B_;G" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="Svédský_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="svéd" src="auto">NNIS1-----A----</AM>
-<AM lemma="svéd" src="auto">NNIS4-----A----</AM>
-<AM lemma="svéd" src="auto">NNMS1-----A----</AM>
-<AM lemma="svéd-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="svéd-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
-<AM lemma="svéda" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="Švédsko_:B_;G" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-114-p8s1w40">

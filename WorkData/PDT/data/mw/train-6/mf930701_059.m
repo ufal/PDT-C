@@ -122,15 +122,7 @@
 <LM>w#w-mf930701-059-p2s1w6</LM>
 </w.rf>
 <form>Juridico</form>
-<tag><AM lemma="Juridico_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Juridico_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Juridico_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Juridiko_;G_,t_,x" src="auto">NNNXX-----A----</AM>
-<AM lemma="JuridiCo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Juridico_;m_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Juridico_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Juridico_;Y" src="auto">AAXXX----1A----</AM>
-<AM lemma="juridico" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Juridico_;K" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-059-p2s1w7">
@@ -568,16 +560,7 @@
 <LM>w#w-mf930701-059-p2s4w8</LM>
 </w.rf>
 <form>Montanex</form>
-<tag><AM lemma="Montanex_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Montanex_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Montanex_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Montanex_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Montanex_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Montanex" src="auto">NNIS4-----A----</AM>
-<AM lemma="Montanex" src="auto">NNIS1-----A----</AM>
-<AM lemma="Montanex_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Montanex_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="montanex" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Montanex_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-059-p2s4w9">

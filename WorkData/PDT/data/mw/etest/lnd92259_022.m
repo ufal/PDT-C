@@ -93,14 +93,7 @@
 <LM>w#w-lnd92259-022-p2s1w6</LM>
 </w.rf>
 <form>kac</form>
-<tag><AM lemma="kac-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kac_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kac_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mac_;S_^(kacIntosh)" src="auto">NNMS1-----A----</AM>
-<AM lemma="kac_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kac_;R_,t" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="kac_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="kac_;K_,t" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="kac-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-022-p2s1w7">

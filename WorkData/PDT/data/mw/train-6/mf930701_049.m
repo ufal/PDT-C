@@ -2569,16 +2569,7 @@
 <LM>w#w-mf930701-049-p2s15w16</LM>
 </w.rf>
 <form>Cicoň</form>
-<tag><AM lemma="Cicoň_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cicoň_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cicoň_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cicoň_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cicoň-1" src="auto">Db-------------</AM>
-<AM lemma="Cicoň_;L" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cicoň_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cicoň_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Cicoň" src="auto">NNMS1-----A----</AM>
-<AM lemma="cicoň" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cicoň_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-049-p2s15w17">
@@ -2726,16 +2717,7 @@
 <LM>w#w-mf930701-049-p2s17w10</LM>
 </w.rf>
 <form>Cicoň</form>
-<tag><AM lemma="Cicoň_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cicoň_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cicoň_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cicoň_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cicoň-1" src="auto">Db-------------</AM>
-<AM lemma="Cicoň_;L" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cicoň_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cicoň_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Cicoň" src="auto">NNMS1-----A----</AM>
-<AM lemma="cicoň" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cicoň_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-049-p2s17w11">
@@ -3793,16 +3775,7 @@
 <LM>w#w-mf930701-049-p2s24w12</LM>
 </w.rf>
 <form>Cicoň</form>
-<tag><AM lemma="Cicoň_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cicoň_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cicoň_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cicoň_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cicoň-1" src="auto">Db-------------</AM>
-<AM lemma="Cicoň_;L" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cicoň_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cicoň_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Cicoň" src="auto">NNMS1-----A----</AM>
-<AM lemma="cicoň" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cicoň_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-049-p2s24w13">
@@ -4260,16 +4233,7 @@
 <LM>w#w-mf930701-049-p2s28w2</LM>
 </w.rf>
 <form>Cicoň</form>
-<tag><AM lemma="Cicoň_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cicoň_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cicoň_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cicoň_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cicoň-1" src="auto">Db-------------</AM>
-<AM lemma="Cicoň_;L" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cicoň_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cicoň_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Cicoň" src="auto">NNMS1-----A----</AM>
-<AM lemma="cicoň" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cicoň_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-049-p2s28w3">
@@ -4523,15 +4487,7 @@
 <LM>w#w-mf930701-049-p2s29w18</LM>
 </w.rf>
 <form>třemešínské</form>
-<tag><AM lemma="třemešínský" src="orig">AAFS2----1A----</AM>
-<AM lemma="třemešínský" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="třemešínský" src="auto">AAFS6----1A----</AM>
-<AM lemma="třemešínský" src="auto">AANS1----1A----</AM>
-<AM lemma="třemešínský" src="auto">AAFP1----1A----</AM>
-<AM lemma="třemešínský" src="auto">AAIP1----1A----</AM>
-<AM lemma="třemešínský" src="auto">AANS4----1A----</AM>
-<AM lemma="třemešínský" src="auto">AAFP4----1A----</AM>
-<AM lemma="třemešínský" src="auto">AAFS3----1A----</AM>
+<tag><AM lemma="třemešínský" src="orig" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-049-p2s29w19">
@@ -4981,15 +4937,7 @@
 <LM>w#w-mf930701-049-p2s33w16</LM>
 </w.rf>
 <form>Przybyla</form>
-<tag><AM lemma="Przybyla_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Przybýt" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Przybyl_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Przybyl_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Przybyla_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Przybyla" src="auto">NNFS1-----A----</AM>
-<AM lemma="Przybyla_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Przybyt_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="przybyla" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Przybyla_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-049-p2s33w17">
@@ -5564,15 +5512,7 @@
 <LM>w#w-mf930701-049-p2s37w21</LM>
 </w.rf>
 <form>Przybyla</form>
-<tag><AM lemma="Przybyla_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Przybýt" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Przybyl_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Przybyl_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Przybyla_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Przybyla" src="auto">NNFS1-----A----</AM>
-<AM lemma="Przybyla_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Przybyt_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="przybyla" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Przybyla_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-049-p2s37w22">
@@ -6223,17 +6163,7 @@
 <LM>w#w-mf930701-049-p3s1w2</LM>
 </w.rf>
 <form>WILNETKA</form>
-<tag><AM lemma="Wilnetka_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Wilnetka_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Wilnetka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Wilnetka_^(*2a)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Wilnetka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wilnetka_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Wilnetek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Wilnetko" src="auto">NNNP4-----A----</AM>
-<AM lemma="Wilnetko" src="auto">NNNP1-----A----</AM>
-<AM lemma="Wilnetko" src="auto">NNNS2-----A----</AM>
-<AM lemma="wilnetka" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Wilnetka_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

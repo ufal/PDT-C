@@ -999,17 +999,7 @@
 <LM>w#w-lnd92253-044-p3s5w25</LM>
 </w.rf>
 <form>Sonn</form>
-<tag><AM lemma="Sonn_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="SF-2`Sinn-1_;K_,t_^(Sonn_Fein)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sonn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sonn_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sonn_;K_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="Sonn_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sonn_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sonn_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Sonné_:B_;S_;K_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="soNN-1_:B_,x_^(nízké_napětí)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="sonn" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sonn_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-044-p3s5w26">

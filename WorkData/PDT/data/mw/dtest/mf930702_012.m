@@ -93,13 +93,7 @@
 <LM>w#w-mf930702-012-p2s1w3</LM>
 </w.rf>
 <form>jkl</form>
-<tag><AM lemma="jkl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jkl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jkl-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jknout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="jkl" src="auto">NNIS4-----A----</AM>
-<AM lemma="jci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jkl" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="jkl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-012-p2s1w4">

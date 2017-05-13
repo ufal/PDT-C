@@ -614,16 +614,7 @@
 <LM>w#w-ln94201-75-p2s4w3</LM>
 </w.rf>
 <form>Joz</form>
-<tag><AM lemma="Jozef_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Joz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Joz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Joci" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Joznámka_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Joza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Joz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Joz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Joz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="joz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Jozef_:B_;Y" src="orig" selected="1">NNMXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-75-p2s4w4">

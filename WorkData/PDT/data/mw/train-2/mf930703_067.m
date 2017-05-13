@@ -129,15 +129,7 @@
 <LM>w#w-mf930703-067-p2s1w3</LM>
 </w.rf>
 <form>tnt</form>
-<tag><AM lemma="tnt-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="tnt-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="tnt" src="auto">NNIS1-----A----</AM>
-<AM lemma="tnt" src="auto">NNMS1-----A----</AM>
-<AM lemma="tnt" src="auto">NNIS4-----A----</AM>
-<AM lemma="tnt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tnta" src="auto">NNFP2-----A----</AM>
-<AM lemma="tnt_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="tnt_,t" src="auto">NNIXX-----A----</AM>
+<tag><AM lemma="tnt-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-067-p2s1w4">

@@ -1924,16 +1924,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Düsseledorfu</form>
-<tag><AM lemma="Düsseldorf_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Düsseledorf_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Düsseledorf_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Düsseledorf_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Düsseledorf" src="auto">NNIS2-----A----</AM>
-<AM lemma="Düsseldorf_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Düsseledorf" src="auto">NNIS6-----A----</AM>
-<AM lemma="Düsseledorf_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Düsseledorfa" src="auto">NNFS4-----A----</AM>
-<AM lemma="düsseledorfu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Düsseldorf_;G" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-087-p5s4w6">

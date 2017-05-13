@@ -879,21 +879,7 @@
 <LM>w#w-lnd92253-030-p4s2w18</LM>
 </w.rf>
 <form>SNKPV</form>
-<tag><AM lemma="SNKPV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNKPV_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SNKPV_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SNKPV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SNKPV_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SNKPV_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Snkpv_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Snkpv_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Snkpv_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Snkpv" src="auto">NNIS4-----A----</AM>
-<AM lemma="Snkpva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Snkpv_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Snkpv" src="auto">NNIS1-----A----</AM>
-<AM lemma="Snkpv_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="snkpv" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="SNKPV_:B_;K" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92253-030-p4s2w19">
@@ -2438,21 +2424,7 @@
 <LM>w#w-lnd92253-030-p5s6w8</LM>
 </w.rf>
 <form>SNKPV</form>
-<tag><AM lemma="SNKPV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNKPV_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SNKPV_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SNKPV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SNKPV_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SNKPV_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Snkpv_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Snkpv_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Snkpv_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Snkpv" src="auto">NNIS4-----A----</AM>
-<AM lemma="Snkpva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Snkpv_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Snkpv" src="auto">NNIS1-----A----</AM>
-<AM lemma="Snkpv_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="snkpv" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="SNKPV_:B_;K" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92253-030-p5s6w9">

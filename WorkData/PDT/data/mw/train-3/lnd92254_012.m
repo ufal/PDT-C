@@ -624,15 +624,7 @@
 <LM>w#w-lnd92254-012-p3s4w2</LM>
 </w.rf>
 <form>Sandford</form>
-<tag><AM lemma="Sandford_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sandford_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sandford_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sandford" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sandford_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sandford_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Sandford" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sandford_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="sandford" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sandford_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-012-p3s4w3">
@@ -641,16 +633,7 @@
 <LM>w#w-lnd92254-012-p3s4w3</LM>
 </w.rf>
 <form>Krantz</form>
-<tag><AM lemma="Krantz_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krantz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Krantz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Krantz_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Krantz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krantz_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krantz_;K" src="auto">NNMXX-----A----</AM>
-<AM lemma="Krantz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krantz_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="krantz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Krantz_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-012-p3s4w4">
@@ -1313,16 +1296,7 @@
 <LM>w#w-lnd92254-012-p4s2w19</LM>
 </w.rf>
 <form>Krantz</form>
-<tag><AM lemma="Krantz_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krantz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Krantz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Krantz_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Krantz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krantz_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krantz_;K" src="auto">NNMXX-----A----</AM>
-<AM lemma="Krantz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krantz_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="krantz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Krantz_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-012-p4s2w20">
@@ -2099,16 +2073,7 @@
 <LM>w#w-lnd92254-012-p4s7w7</LM>
 </w.rf>
 <form>Krantz</form>
-<tag><AM lemma="Krantz_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krantz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Krantz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Krantz_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Krantz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krantz_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krantz_;K" src="auto">NNMXX-----A----</AM>
-<AM lemma="Krantz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krantz_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="krantz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Krantz_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-012-p4s7w8">
@@ -2547,17 +2512,7 @@
 <LM>w#w-lnd92254-012-p4s8w25</LM>
 </w.rf>
 <form>potransfúzních</form>
-<tag><AM lemma="potransfúzní" src="orig">AAFP2----1A----</AM>
-<AM lemma="potransfúzne" src="auto">NNFP6-----A----</AM>
-<AM lemma="potransfúzne_;G" src="auto">NNFP6-----A----</AM>
-<AM lemma="potransfúzní" src="auto" recommended="1">AAFP2----1A----</AM>
-<AM lemma="potransfúzní" src="auto">AAFP6----1A----</AM>
-<AM lemma="potransfúzní" src="auto">AAIP2----1A----</AM>
-<AM lemma="potransfúzní" src="auto">AAIP6----1A----</AM>
-<AM lemma="potransfúzní" src="auto">AAMP2----1A----</AM>
-<AM lemma="potransfúzní" src="auto">AAMP6----1A----</AM>
-<AM lemma="potransfúzní" src="auto">AANP2----1A----</AM>
-<AM lemma="potransfúzní" src="auto">AANP6----1A----</AM>
+<tag><AM lemma="potransfúzní" src="orig" selected="1">AAFP2----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-012-p4s8w26">
@@ -3114,16 +3069,7 @@
 <LM>w#w-lnd92254-012-p4s11w13</LM>
 </w.rf>
 <form>Krantz</form>
-<tag><AM lemma="Krantz_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krantz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Krantz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Krantz_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Krantz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krantz_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krantz_;K" src="auto">NNMXX-----A----</AM>
-<AM lemma="Krantz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krantz_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="krantz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Krantz_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-012-p4s11w14">
@@ -4546,16 +4492,7 @@
 <LM>w#w-lnd92254-012-p5s7w31</LM>
 </w.rf>
 <form>Krantz</form>
-<tag><AM lemma="Krantz_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krantz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Krantz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Krantz_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Krantz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krantz_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krantz_;K" src="auto">NNMXX-----A----</AM>
-<AM lemma="Krantz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Krantz_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="krantz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Krantz_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-012-p5s7w32">

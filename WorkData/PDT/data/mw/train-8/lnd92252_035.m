@@ -125,21 +125,7 @@
 <LM>w#w-lnd92252-035-p3s2w3</LM>
 </w.rf>
 <form>Čen</form>
-<tag><AM lemma="Čen_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Čen_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Čit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Čen_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Čit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Čen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čen" src="auto">NNIS1-----A----</AM>
-<AM lemma="čit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="knout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čit_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="knout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čet_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čet" src="auto">VsYS---XX-AP---</AM>
+<tag><AM lemma="Čen_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-035-p3s2w4">
@@ -148,16 +134,7 @@
 <LM>w#w-lnd92252-035-p3s2w4</LM>
 </w.rf>
 <form>Tchung</form>
-<tag><AM lemma="Tchung_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tchung_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tchung_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tchung_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tchung_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Tchung_;p" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tchung_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tchung_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tchung_;R_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="tchung" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tchung_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-035-p3s2w5">
@@ -440,21 +417,7 @@
 <LM>w#w-lnd92252-035-p3s4w2</LM>
 </w.rf>
 <form>Čen</form>
-<tag><AM lemma="Čen_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Čen_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Čit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Čen_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Čit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Čen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Čen" src="auto">NNIS1-----A----</AM>
-<AM lemma="čit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="knout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čit_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="knout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čet_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čet" src="auto">VsYS---XX-AP---</AM>
+<tag><AM lemma="Čen_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-035-p3s4w3">
@@ -544,16 +507,7 @@
 <LM>w#w-lnd92252-035-p3s4w12</LM>
 </w.rf>
 <form>Tchien</form>
-<tag><AM lemma="Tchien_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="Tchien_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tchie_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Tchien_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tchien_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tchien_;R_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Tchien_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tchien_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Tchien_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="tchien" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tchien_;G" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-035-p3s4w13">

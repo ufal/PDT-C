@@ -1598,18 +1598,7 @@
 <LM>w#w-lnd92253-068-p3s8w8</LM>
 </w.rf>
 <form>European</form>
-<tag><AM lemma="European_;R_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="European_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="European_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="European_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="European_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="European_;R_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="European_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="european" src="auto">NNIS1-----A----</AM>
-<AM lemma="european" src="auto">NNIS4-----A----</AM>
-<AM lemma="european" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="European_;R_,t" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-068-p3s8w9">
@@ -2569,16 +2558,7 @@
 <LM>w#w-lnd92253-068-p4s5w36</LM>
 </w.rf>
 <form>Tour</form>
-<tag><AM lemma="Tour_;m" src="orig">AAXXX----1A----</AM>
-<AM lemma="Tour_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Toura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Tour_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tour_;R_,t" src="auto">PSXXX-X2-------</AM>
-<AM lemma="tour" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tour_;m" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-068-p4s5w37">
@@ -2587,16 +2567,7 @@
 <LM>w#w-lnd92253-068-p4s5w37</LM>
 </w.rf>
 <form>World</form>
-<tag><AM lemma="World_;m" src="orig">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="World_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;m" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="World_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="world" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="World_;m" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-068-p4s5w38">
@@ -2605,16 +2576,7 @@
 <LM>w#w-lnd92253-068-p4s5w38</LM>
 </w.rf>
 <form>Championship</form>
-<tag><AM lemma="Championship_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Championship_;m_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Championship_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Championship_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Championship" src="auto">II-------------</AM>
-<AM lemma="Championship" src="auto">NNIS1-----A----</AM>
-<AM lemma="Championship" src="auto">NNIS4-----A----</AM>
-<AM lemma="Championship_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Championship_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="championship" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Championship_;m_,t" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-068-p4s5w39">
@@ -3496,16 +3458,7 @@
 <LM>w#w-lnd92253-068-p5s3w10</LM>
 </w.rf>
 <form>Delaitrem</form>
-<tag><AM lemma="Delaitre_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Delaitr" src="auto">NNIS7-----A----</AM>
-<AM lemma="Delaitr" src="auto">NNMS7-----A----</AM>
-<AM lemma="Delaitr_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Delaitr_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Delaitro" src="auto">NNNS7-----A----</AM>
-<AM lemma="Delaitr_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Delaitrma" src="auto">NNFP2-----A----</AM>
-<AM lemma="Delaitre_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="delaitrem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Delaitre_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-068-p5s3w11">
@@ -3777,16 +3730,7 @@
 <LM>w#w-lnd92253-068-p5s4w9</LM>
 </w.rf>
 <form>Moretton</form>
-<tag><AM lemma="Moretton_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Moretton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Moretton" src="auto">NNIS1-----A----</AM>
-<AM lemma="Moretton_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Moretton_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Moretton" src="auto">NNIS4-----A----</AM>
-<AM lemma="Moretton-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Moretton-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Moretton_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="moretton" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Moretton_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-068-p5s4w10">

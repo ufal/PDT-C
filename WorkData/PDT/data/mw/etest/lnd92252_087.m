@@ -185,15 +185,7 @@
 <LM>w#w-lnd92252-087-p2s2w13</LM>
 </w.rf>
 <form>kateg</form>
-<tag><AM lemma="kategorie_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="kategický_:B" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="kateg_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kateg_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="katego" src="auto">NNNP2-----A----</AM>
-<AM lemma="kateg_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="kateg_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="kateg" src="auto">NNMS1-----A----</AM>
-<AM lemma="kateg" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="kategorie_:B" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p2s2w14">
@@ -641,15 +633,7 @@
 <LM>w#w-lnd92252-087-p2s4w19</LM>
 </w.rf>
 <form>kateg</form>
-<tag><AM lemma="kategorie_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="kategický_:B" src="auto">AANS1----1A----</AM>
-<AM lemma="kateg_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kateg_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="katego" src="auto">NNNP2-----A----</AM>
-<AM lemma="kateg_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="kateg_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="kateg" src="auto">NNMS1-----A----</AM>
-<AM lemma="kateg" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="kategorie_:B" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p2s4w20">
@@ -786,15 +770,7 @@
 <LM>w#w-lnd92252-087-p2s4w34</LM>
 </w.rf>
 <form>kateg</form>
-<tag><AM lemma="kategorie_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="kategický_:B" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="kateg_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kateg_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="katego" src="auto">NNNP2-----A----</AM>
-<AM lemma="kateg_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="kateg_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="kateg" src="auto">NNMS1-----A----</AM>
-<AM lemma="kateg" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="kategorie_:B" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p2s4w35">
@@ -1430,15 +1406,7 @@
 <LM>w#w-lnd92252-087-p4s2w7</LM>
 </w.rf>
 <form>maratónpochod</form>
-<tag><AM lemma="maratónpochod" src="orig">NNIS1-----A----</AM>
-<AM lemma="maratónpochod" src="auto">NNIS4-----A----</AM>
-<AM lemma="maratónpochod" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="maratónpochoda" src="auto">NNFP2-----A----</AM>
-<AM lemma="maratónpocoda" src="auto">NNFP2-----A----</AM>
-<AM lemma="maratónpochody_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="maratónpochodovací_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="maratónpochodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="maratónpochoda_^(př._s_takovou_n._jsem_počítal,_n._tomu_chtěla)" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="maratónpochod" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s2w8">
@@ -2015,16 +1983,7 @@
 <LM>w#w-lnd92252-087-p4s6w2</LM>
 </w.rf>
 <form>odj</form>
-<tag><AM lemma="odjezd_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="odbýt_:B_^(jen_ve_spojení_t._j.,_to_jest)" src="auto">VB-S---3P-AA--8</AM>
-<AM lemma="odj" src="auto">NNFS1-----A----</AM>
-<AM lemma="odj" src="auto">NNFS4-----A----</AM>
-<AM lemma="odj" src="auto">NNIS1-----A----</AM>
-<AM lemma="odj" src="auto">NNIS4-----A----</AM>
-<AM lemma="odj-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="odj-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="odj_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="odj_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="odjezd_:B" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s6w3">
@@ -2800,19 +2759,7 @@
 <LM>w#w-lnd92252-087-p4s8w34</LM>
 </w.rf>
 <form>přesp</form>
-<tag><AM lemma="přespolní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="přesp" src="auto">NNIS1-----A----</AM>
-<AM lemma="přesp" src="auto">NNIS4-----A----</AM>
-<AM lemma="přesp" src="auto">NNMS1-----A----</AM>
-<AM lemma="přesp-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="přesp-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="přesp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="přespage_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="přespeciální_:B_,x" src="auto">AAXXX----1A---8</AM>
-<AM lemma="přespektive_:B" src="auto">Db------------8</AM>
-<AM lemma="přespodnik_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="přespodářský_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="přespopisný_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="přespolní_:B" src="orig" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s8w35">
@@ -2848,15 +2795,7 @@
 <LM>w#w-lnd92252-087-p4s8w38</LM>
 </w.rf>
 <form>kateg</form>
-<tag><AM lemma="kategorie_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="kategický_:B" src="auto">AANS1----1A----</AM>
-<AM lemma="kateg_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kateg_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="katego" src="auto" recommended="1">NNNP2-----A----</AM>
-<AM lemma="kateg_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="kateg_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="kateg" src="auto">NNMS1-----A----</AM>
-<AM lemma="kateg" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="kategorie_:B" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s8w39">
@@ -3000,15 +2939,7 @@
 <LM>w#w-lnd92252-087-p4s8w54</LM>
 </w.rf>
 <form>kateg</form>
-<tag><AM lemma="kategorie_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="kategický_:B" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="kateg_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kateg_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="katego" src="auto">NNNP2-----A----</AM>
-<AM lemma="kateg_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="kateg_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="kateg" src="auto">NNMS1-----A----</AM>
-<AM lemma="kateg" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="kategorie_:B" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s8w55">
@@ -3219,15 +3150,7 @@
 <LM>w#w-lnd92252-087-p4s9w15</LM>
 </w.rf>
 <form>kateg</form>
-<tag><AM lemma="kategorie_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="kategický_:B" src="auto">AANS1----1A----</AM>
-<AM lemma="kateg_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kateg_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="katego" src="auto">NNNP2-----A----</AM>
-<AM lemma="kateg_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="kateg_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="kateg" src="auto">NNMS1-----A----</AM>
-<AM lemma="kateg" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="kategorie_:B" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s9w16">
@@ -3746,14 +3669,7 @@
 <LM>w#w-lnd92252-087-p5s2w15</LM>
 </w.rf>
 <form>fotb</form>
-<tag><AM lemma="fotbalový_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="fotb" src="auto">NNIS1-----A----</AM>
-<AM lemma="fotb" src="auto">NNIS4-----A----</AM>
-<AM lemma="fotba" src="auto">NNFP2-----A----</AM>
-<AM lemma="fotb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="fotb-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="fotb_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="fotb_;G" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="fotbalový_:B" src="orig" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p5s2w16">
@@ -3942,15 +3858,7 @@
 <LM>w#w-lnd92252-087-p5s2w36</LM>
 </w.rf>
 <form>kateg</form>
-<tag><AM lemma="kategorie_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="kategický_:B" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="kateg_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kateg_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="katego" src="auto">NNNP2-----A----</AM>
-<AM lemma="kateg_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="kateg_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="kateg" src="auto">NNMS1-----A----</AM>
-<AM lemma="kateg" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="kategorie_:B" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p5s2w37">

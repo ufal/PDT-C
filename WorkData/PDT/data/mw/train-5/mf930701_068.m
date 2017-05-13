@@ -28,16 +28,7 @@
 <LM>w#w-mf930701-068-p1s1w2</LM>
 </w.rf>
 <form>Brzozska</form>
-<tag><AM lemma="Brzozska_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Brzozsko_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Brzozska" src="auto">NNFS1-----A----</AM>
-<AM lemma="Brzozsko" src="auto">NNNS2-----A----</AM>
-<AM lemma="Brzozsko" src="auto">NNNP1-----A----</AM>
-<AM lemma="Brzozska_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Brzozsko" src="auto">NNNP4-----A----</AM>
-<AM lemma="Brzozsek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Brzozsek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="brzozska" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Brzozska_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-068-p1s1w3">
@@ -147,13 +138,7 @@
 <LM>w#w-mf930701-068-p2s1w3</LM>
 </w.rf>
 <form>jsl</form>
-<tag><AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jsl-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jsnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="jst" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jsl" src="auto">NNIS1-----A----</AM>
-<AM lemma="jsl" src="auto">NNIS4-----A----</AM>
+<tag><AM lemma="jsl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-068-p2s1w4">
@@ -216,16 +201,7 @@
 <LM>w#w-mf930701-068-p2s1w10</LM>
 </w.rf>
 <form>Brzozska</form>
-<tag><AM lemma="Brzozska_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Brzozsko_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Brzozska" src="auto">NNFS1-----A----</AM>
-<AM lemma="Brzozsko" src="auto">NNNS2-----A----</AM>
-<AM lemma="Brzozsko" src="auto">NNNP1-----A----</AM>
-<AM lemma="Brzozska_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Brzozsko" src="auto">NNNP4-----A----</AM>
-<AM lemma="Brzozsek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Brzozsek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="brzozska" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Brzozska_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-068-p2s1w11">
@@ -1726,16 +1702,7 @@
 <LM>w#w-mf930701-068-p2s9w27</LM>
 </w.rf>
 <form>Brzozska</form>
-<tag><AM lemma="Brzozska_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Brzozsko_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Brzozska" src="auto">NNFS1-----A----</AM>
-<AM lemma="Brzozsko" src="auto">NNNS2-----A----</AM>
-<AM lemma="Brzozsko" src="auto">NNNP1-----A----</AM>
-<AM lemma="Brzozska_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Brzozsko" src="auto">NNNP4-----A----</AM>
-<AM lemma="Brzozsek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Brzozsek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="brzozska" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Brzozska_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-068-p2s9w28">
@@ -2554,16 +2521,7 @@
 <LM>w#w-mf930701-068-p2s14w3</LM>
 </w.rf>
 <form>Brzozsky</form>
-<tag><AM lemma="Brzozska_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Brzozsky_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Brzozska" src="auto">NNFS2-----A----</AM>
-<AM lemma="Brzozska" src="auto">NNFP1-----A----</AM>
-<AM lemma="Brzozska" src="auto">NNFP4-----A----</AM>
-<AM lemma="Brzozsek" src="auto">NNIP1-----A----</AM>
-<AM lemma="Brzozsk" src="auto">NNIP1-----A----</AM>
-<AM lemma="Brzozsky_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Brzozska_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="brzozsky" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Brzozska_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-068-p2s14w4">
@@ -3382,16 +3340,7 @@
 <LM>w#w-mf930701-068-p2s22w20</LM>
 </w.rf>
 <form>Brzozska</form>
-<tag><AM lemma="Brzozska_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Brzozsko_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Brzozska" src="auto">NNFS1-----A----</AM>
-<AM lemma="Brzozsko" src="auto">NNNS2-----A----</AM>
-<AM lemma="Brzozsko" src="auto">NNNP1-----A----</AM>
-<AM lemma="Brzozska_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Brzozsko" src="auto">NNNP4-----A----</AM>
-<AM lemma="Brzozsek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Brzozsek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="brzozska" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Brzozska_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-068-p2s22w21">

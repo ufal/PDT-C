@@ -73,20 +73,7 @@
 <LM>w#w-lnd92258-086-p1s1w7</LM>
 </w.rf>
 <form>GOSZTONYM</form>
-<tag><AM lemma="Gosztony_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="GOSZTONYM_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="GOSZTONYM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="GOSZTONYM_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="RM_:B_;K_;b_^(GOSZTONYM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Gosztonym" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gosztonymum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Gosztonym" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gosztonym" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gosztony_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Gosztonym_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gosztony_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="Gosztony_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="gosztonym" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gosztony_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-086-p1s1w8">
@@ -7489,13 +7476,7 @@
 <LM>w#w-lnd92258-086-p9s4w16</LM>
 </w.rf>
 <form>kortešskou</form>
-<tag><AM lemma="kortešský" src="orig">AAFS7----1A----</AM>
-<AM lemma="kortešský" src="auto">AAFS4----1A----</AM>
-<AM lemma="kortešský" src="auto" recommended="1">AAFS7----1A----</AM>
-<AM lemma="kortešska" src="auto">NNFS7-----A----</AM>
-<AM lemma="kortešska_^(*2)" src="auto">NNFS7-----A----</AM>
-<AM lemma="kortešska_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="kortešska_;G" src="auto">NNFS7-----A----</AM>
+<tag><AM lemma="kortešský" src="orig" selected="1">AAFS7----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-086-p9s4w17">

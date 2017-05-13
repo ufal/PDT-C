@@ -212,14 +212,7 @@
 <LM>w#w-lnd92254-001-p2s2w11</LM>
 </w.rf>
 <form>Deklarácie</form>
-<tag><AM lemma="deklarácie_,t" src="orig">NNFS2-----A----</AM>
-<AM lemma="Deklarácie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Deklarácie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Deklarácie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Deklarácie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Deklarácie_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Deklarácie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="deklarácie" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="deklarácie_,t" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-001-p2s2w12">
@@ -392,14 +385,7 @@
 <LM>w#w-lnd92254-001-p2s3w3</LM>
 </w.rf>
 <form>stajně</form>
-<tag><AM lemma="stajně_,t" src="orig">Dg-------1A----</AM>
-<AM lemma="stajn_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="stajna" src="auto">NNFS3-----A----</AM>
-<AM lemma="stajna" src="auto">NNFS6-----A----</AM>
-<AM lemma="stajna_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="stajně_,t" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="stajně_^(*1í)" src="auto">Dg-------1A----</AM>
-<AM lemma="stajně_^(*1ý)" src="auto">Dg-------1A----</AM>
+<tag><AM lemma="stajně_,t" src="orig" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-001-p2s3w4">

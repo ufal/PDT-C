@@ -3113,16 +3113,7 @@
 <LM>w#w-mf930708-067-p6s2w23</LM>
 </w.rf>
 <form>Gmoch</form>
-<tag><AM lemma="Gmoch_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gmoch_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gmocha" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gmoch" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gmochy_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gmo" src="auto">AAFP2----1A----</AM>
-<AM lemma="Gmo" src="auto">AAIP2----1A----</AM>
-<AM lemma="Gmo" src="auto">AAFP6----1A----</AM>
-<AM lemma="Gmo" src="auto">AAMP2----1A----</AM>
-<AM lemma="gmoch" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gmoch_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-067-p6s2w24">
@@ -3149,16 +3140,7 @@
 <LM>w#w-mf930708-067-p6s2w26</LM>
 </w.rf>
 <form>Appolonu</form>
-<tag><AM lemma="Appolon_;K" src="orig">NNIS6-----A----</AM>
-<AM lemma="Appolon" src="auto">NNIS2-----A----</AM>
-<AM lemma="Appolon" src="auto">NNIS6-----A----</AM>
-<AM lemma="Appolon_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Appolon_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Appolon" src="auto">NNIS3-----A----</AM>
-<AM lemma="Appolona" src="auto">NNFS4-----A----</AM>
-<AM lemma="Appolon_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Appolón" src="auto">NNIS2-----A----</AM>
-<AM lemma="appolonu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Appolon_;K" src="orig" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-067-p6s2w27">
@@ -3167,19 +3149,7 @@
 <LM>w#w-mf930708-067-p6s2w27</LM>
 </w.rf>
 <form>Nikosia</form>
-<tag><AM lemma="Nikosia_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Nikosia_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Nikosia_;K_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nikosia_;K_^(restaurace)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Nikosia_;L_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nikosia_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nikosio_;K" src="auto">NNNS2-----A----</AM>
-<AM lemma="Nikosius_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Nikózium" src="auto">NNNS2-----A----</AM>
-<AM lemma="nikosia" src="auto">NNMS1-----A----</AM>
-<AM lemma="nikosia-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="nikosia-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="nikosiakciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="Nikosia_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-067-p6s2w28">

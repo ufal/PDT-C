@@ -351,15 +351,7 @@
 <LM>w#w-mf930708-063-p4s2w6</LM>
 </w.rf>
 <form>geriatrů</form>
-<tag><AM lemma="geriatr" src="orig">NNMP2-----A----</AM>
-<AM lemma="geriatr" src="auto">NNIP2-----A----</AM>
-<AM lemma="geriatr" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="ml-1`geriatr" src="auto">NNIP2-----A----</AM>
-<AM lemma="l-1`geriatr" src="auto">NNIP2-----A----</AM>
-<AM lemma="hl-1`geriatr" src="auto">NNIP2-----A----</AM>
-<AM lemma="geriatr_^(sport:_přihrávka)" src="auto">NNIP2-----A----</AM>
-<AM lemma="geriatr_;Y" src="auto">NNMP2-----A----</AM>
-<AM lemma="geriatrů_;S" src="auto">NNMXX-----A----</AM>
+<tag><AM lemma="geriatr" src="orig" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-063-p4s2w7">

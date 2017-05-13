@@ -316,15 +316,7 @@
 <LM>w#w-lnd92252-036-p3s3w5</LM>
 </w.rf>
 <form>Dobrica</form>
-<tag><AM lemma="Dobrica_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dobrica_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dobrica_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dobrica_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dobrica_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Dobrica_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Dobrica_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dobrica_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dobrica" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Dobrica_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-036-p3s3w6">
@@ -334,13 +326,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Cosić</form>
-<tag><AM lemma="Cosić_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cosić_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cosič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cosić_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cosič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cosić_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="cosić" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cosić_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-036-p3s3w7">
@@ -543,14 +529,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Panić</form>
-<tag><AM lemma="Panić_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Panić_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Panić_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Panić_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Panič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Panič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="panić" src="auto">NNMS1-----A----</AM>
-<AM lemma="panić-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="Panić_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-036-p5s1w6">
@@ -1569,15 +1548,7 @@
 <LM>w#w-lnd92252-036-p7s1w6</LM>
 </w.rf>
 <form>Dobrica</form>
-<tag><AM lemma="Dobrica_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dobrica_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dobrica_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dobrica_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dobrica_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Dobrica_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Dobrica_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dobrica_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dobrica" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Dobrica_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-036-p7s1w7">
@@ -1587,13 +1558,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Cosić</form>
-<tag><AM lemma="Cosić_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cosić_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cosič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cosić_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cosič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cosić_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="cosić" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cosić_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-036-p7s1w8">
@@ -1692,15 +1657,7 @@
 <LM>w#w-lnd92252-036-p7s1w18</LM>
 </w.rf>
 <form>Cyrusu</form>
-<tag><AM lemma="Cyrus_;Y" src="orig">NNMS3-----A----</AM>
-<AM lemma="Cyrus" src="auto">NNIS2-----A----</AM>
-<AM lemma="Cyrus" src="auto">NNIS6-----A----</AM>
-<AM lemma="Cyrus" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Cyrus" src="auto" recommended="1">NNIS3-----A----</AM>
-<AM lemma="Cyrusa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Cyrus_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Cyrus_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="cyrusu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cyrus_;Y" src="orig" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-036-p7s1w19">

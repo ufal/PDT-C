@@ -149,16 +149,7 @@
 <LM>w#w-lnd92256-078-p2s2w10</LM>
 </w.rf>
 <form>Fuej</form>
-<tag><AM lemma="Fuej_;G_,t" src="orig">A2--------A----</AM>
-<AM lemma="Fuej_;G_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Fuej_;G_,t" src="auto">A2--------A----</AM>
-<AM lemma="Fuý" src="auto">AAMS1----1A---6</AM>
-<AM lemma="Fuej" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fuej_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fuý" src="auto">AAIS1----1A---6</AM>
-<AM lemma="Fuej_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fuej" src="auto">NNIS4-----A----</AM>
-<AM lemma="fuej" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Fuej_;G_,t" src="orig" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s2w11">
@@ -203,18 +194,7 @@
 <LM>w#w-lnd92256-078-p2s2w15</LM>
 </w.rf>
 <form>Wu</form>
-<tag><AM lemma="Wu_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Wu_;m_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Wu_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Wu_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Wu_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="W" src="auto">NNIS2-----A----</AM>
-<AM lemma="Wa" src="auto">NNFS4-----A----</AM>
-<AM lemma="wa_;K_;R" src="auto">NNFS4-----A----</AM>
-<AM lemma="w" src="auto">NNIS2-----A----</AM>
-<AM lemma="wa" src="auto">NNFS4-----A----</AM>
-<AM lemma="w" src="auto">NNIS6-----A----</AM>
-<AM lemma="w" src="auto">NNIS3-----A----</AM>
+<tag><AM lemma="Wu_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s2w16">
@@ -223,16 +203,7 @@
 <LM>w#w-lnd92256-078-p2s2w16</LM>
 </w.rf>
 <form>Ťing</form>
-<tag><AM lemma="Ťing_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Ťing_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ťing" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ťing_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ťing" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ťing_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ťing_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Ťing_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ťing_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ťing" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ťing_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s2w17">
@@ -387,16 +358,7 @@
 <LM>w#w-lnd92256-078-p2s3w9</LM>
 </w.rf>
 <form>Wuinu</form>
-<tag><AM lemma="Wuina_;Y_^(*3)" src="orig">AUFS4F---------</AM>
-<AM lemma="Wuina" src="auto">NNFS4-----A----</AM>
-<AM lemma="Wuin" src="auto">NNIS2-----A----</AM>
-<AM lemma="Wuin_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Wuin_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Wuina_;G" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Wuina" src="auto">CyFS4----------</AM>
-<AM lemma="Wuin_;H" src="auto">NNIS2-----A----</AM>
-<AM lemma="Wuin" src="auto">NNIS6-----A----</AM>
-<AM lemma="wuinu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Wuina_;Y_^(*3)" src="orig" selected="1">AUFS4F---------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s3w10">
@@ -597,18 +559,7 @@
 <LM>w#w-lnd92256-078-p2s5w3</LM>
 </w.rf>
 <form>Wu</form>
-<tag><AM lemma="Wu_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Wu_;m_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Wu_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Wu_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Wu_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="W" src="auto">NNIS2-----A----</AM>
-<AM lemma="Wa" src="auto">NNFS4-----A----</AM>
-<AM lemma="wa_;K_;R" src="auto">NNFS4-----A----</AM>
-<AM lemma="w" src="auto">NNIS2-----A----</AM>
-<AM lemma="wa" src="auto">NNFS4-----A----</AM>
-<AM lemma="w" src="auto">NNIS6-----A----</AM>
-<AM lemma="w" src="auto">NNIS3-----A----</AM>
+<tag><AM lemma="Wu_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s5w4">
@@ -617,16 +568,7 @@
 <LM>w#w-lnd92256-078-p2s5w4</LM>
 </w.rf>
 <form>Ťing</form>
-<tag><AM lemma="Ťing_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Ťing_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ťing" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ťing_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ťing" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ťing_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ťing_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Ťing_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ťing_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="ťing" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ťing_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s5w5">
@@ -1055,18 +997,7 @@
 <LM>w#w-lnd92256-078-p2s8w10</LM>
 </w.rf>
 <form>Wu</form>
-<tag><AM lemma="Wu_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Wu_;m_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Wu_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Wu_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Wu_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="W" src="auto">NNIS2-----A----</AM>
-<AM lemma="Wa" src="auto">NNFS4-----A----</AM>
-<AM lemma="wa_;K_;R" src="auto">NNFS4-----A----</AM>
-<AM lemma="w" src="auto">NNIS2-----A----</AM>
-<AM lemma="wa" src="auto">NNFS4-----A----</AM>
-<AM lemma="w" src="auto">NNIS6-----A----</AM>
-<AM lemma="w" src="auto">NNIS3-----A----</AM>
+<tag><AM lemma="Wu_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s8w11">
@@ -1149,16 +1080,7 @@
 <LM>w#w-lnd92256-078-p2s9w4</LM>
 </w.rf>
 <form>Fuej</form>
-<tag><AM lemma="Fuej_;G_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Fuej_;G_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Fuej_;G_,t" src="auto">A2--------A----</AM>
-<AM lemma="Fuý" src="auto">AAMS1----1A---6</AM>
-<AM lemma="Fuej" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fuej_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fuý" src="auto">AAIS1----1A---6</AM>
-<AM lemma="Fuej_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fuej" src="auto">NNIS4-----A----</AM>
-<AM lemma="fuej" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Fuej_;G_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s9w5">
@@ -1203,16 +1125,7 @@
 <LM>w#w-lnd92256-078-p2s9w9</LM>
 </w.rf>
 <form>Wuina</form>
-<tag><AM lemma="Wuina_;Y_^(*3)" src="orig">AUFS1F---------</AM>
-<AM lemma="Wuina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Wuin_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Wuina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wuin_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Wuina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Wuina_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Wuin_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Wuina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="wuina" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Wuina_;Y_^(*3)" src="orig" selected="1">AUFS1F---------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s9w10">

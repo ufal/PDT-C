@@ -93,20 +93,7 @@
 <LM>w#w-lnd92254-009-p1s2w3</LM>
 </w.rf>
 <form>HARST</form>
-<tag><AM lemma="Harst_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="HARST_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="HARSt-6_:B_,t_^(saint,_svatý)" src="auto">AAXXX----1A----</AM>
-<AM lemma="HARst_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="HARst" src="auto">NNFS1-----A----</AM>
-<AM lemma="Harst_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Harst" src="auto">NNFS4-----A----</AM>
-<AM lemma="Harst_;m_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Harst_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Harst_;K_,t" src="auto">CrXXX----------</AM>
-<AM lemma="Harst_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Harst_,t" src="auto">Db-------------</AM>
-<AM lemma="Harst" src="auto">NNIS4-----A----</AM>
-<AM lemma="harst" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Harst_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-009-p1s2w4">
@@ -679,16 +666,7 @@
 <LM>w#w-lnd92254-009-p3s2w23</LM>
 </w.rf>
 <form>Harst</form>
-<tag><AM lemma="Harst_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Harst_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Harst" src="auto">NNFS4-----A----</AM>
-<AM lemma="Harst_;m_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Harst_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Harst_;K_,t" src="auto">CrXXX----------</AM>
-<AM lemma="Harst_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Harst_,t" src="auto">Db-------------</AM>
-<AM lemma="Harst" src="auto">NNIS4-----A----</AM>
-<AM lemma="harst" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Harst_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-009-p3s2w24">
@@ -1658,16 +1636,7 @@
 <LM>w#w-lnd92254-009-p5s1w5</LM>
 </w.rf>
 <form>Harst</form>
-<tag><AM lemma="Harst_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Harst_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Harst" src="auto">NNFS4-----A----</AM>
-<AM lemma="Harst_;m_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Harst_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Harst_;K_,t" src="auto">CrXXX----------</AM>
-<AM lemma="Harst_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Harst_,t" src="auto">Db-------------</AM>
-<AM lemma="Harst" src="auto">NNIS4-----A----</AM>
-<AM lemma="harst" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Harst_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-009-p5s1w6">
@@ -2701,16 +2670,7 @@
 <LM>w#w-lnd92254-009-p6s2w16</LM>
 </w.rf>
 <form>Allemang</form>
-<tag><AM lemma="Allemang_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Allemang_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Allemang_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Allemang_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Allemang" src="auto">NNIS4-----A----</AM>
-<AM lemma="Allemang" src="auto">NNIS1-----A----</AM>
-<AM lemma="Allemang_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Allemang_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Allemang_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="allemang" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Allemang_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-009-p6s2w17">
@@ -3637,16 +3597,7 @@
 <LM>w#w-lnd92254-009-p7s3w21</LM>
 </w.rf>
 <form>Harst</form>
-<tag><AM lemma="Harst_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Harst_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Harst" src="auto">NNFS4-----A----</AM>
-<AM lemma="Harst_;m_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Harst_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Harst_;K_,t" src="auto">CrXXX----------</AM>
-<AM lemma="Harst_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Harst_,t" src="auto">Db-------------</AM>
-<AM lemma="Harst" src="auto">NNIS4-----A----</AM>
-<AM lemma="harst" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Harst_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-009-p7s3w22">

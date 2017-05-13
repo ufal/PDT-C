@@ -452,16 +452,7 @@
 <LM>w#w-lnd92252-039-p3s3w2</LM>
 </w.rf>
 <form>Mašuma</form>
-<tag><AM lemma="Mašum_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Mašuma" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mašum_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Mašuma_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mašum_,t" src="auto">NNNS2-----A----</AM>
-<AM lemma="Mašum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Mašuma_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mašuma_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mašuma_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="mašuma" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mašum_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-039-p3s3w3">
@@ -470,15 +461,7 @@
 <LM>w#w-lnd92252-039-p3s3w3</LM>
 </w.rf>
 <form>Korkmaze</form>
-<tag><AM lemma="Korkmaz_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Korkmaha" src="auto">NNFS6-----A----</AM>
-<AM lemma="Korkmaha" src="auto">NNFS3-----A----</AM>
-<AM lemma="Korkmaz_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Korkmaz" src="auto">NNIS6-----A----</AM>
-<AM lemma="Korkmaz_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Korkmaha_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Korkmaha_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="korkmaze" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Korkmaz_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-039-p3s3w4">
@@ -2971,16 +2954,7 @@
 <LM>w#w-lnd92252-039-p6s3w11</LM>
 </w.rf>
 <form>Fáruka</form>
-<tag><AM lemma="Fáruk_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Fáruk_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Fáruka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fáruk_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Fáruk" src="auto">NNMS2-----A----</AM>
-<AM lemma="Fáruk_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Fáruk" src="auto">NNMS4-----A----</AM>
-<AM lemma="Fáruka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fáruc_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="fáruka" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Fáruk_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-039-p6s3w12">
@@ -3426,15 +3400,7 @@
 <LM>w#w-lnd92252-039-p6s4w28</LM>
 </w.rf>
 <form>modžáhedové</form>
-<tag><AM lemma="modžáhed_;K" src="orig">NNMP1-----A----</AM>
-<AM lemma="modžáhedový" src="auto">AAFS2----1A----</AM>
-<AM lemma="modžáhedová_;S" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="modžáhedový" src="auto">AAFS6----1A----</AM>
-<AM lemma="modžáhedový" src="auto">AAFP1----1A----</AM>
-<AM lemma="modžáhedový" src="auto">AAIP1----1A----</AM>
-<AM lemma="modžáhedový" src="auto">AAIP4----1A----</AM>
-<AM lemma="modžáhedový" src="auto">AAFP4----1A----</AM>
-<AM lemma="modžáhedový" src="auto">AANS1----1A----</AM>
+<tag><AM lemma="modžáhed_;K" src="orig" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-039-p6s4w29">
@@ -4208,16 +4174,7 @@
 <LM>w#w-lnd92252-039-p7s3w34</LM>
 </w.rf>
 <form>Isikveren</form>
-<tag><AM lemma="Isikveren_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Isikverna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Isikveren_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Isikveren_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Isikveren_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Isikvere_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Isikverný" src="auto">ACYS------A----</AM>
-<AM lemma="Isikverna" src="auto">NNNP2-----A----</AM>
-<AM lemma="Isikver_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="isikveren" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Isikveren_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-039-p7s3w35">
@@ -6124,15 +6081,7 @@
 <LM>w#w-lnd92252-039-p11s1w7</LM>
 </w.rf>
 <form>Suleyman</form>
-<tag><AM lemma="Suleyman_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Suleyman_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Suleyman" src="auto">NNMS1-----A----</AM>
-<AM lemma="Suleyman_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Suleyman-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Suleyman_;m" src="auto">NNMS1-----A----</AM>
-<AM lemma="Suleyman_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Suleyman_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="suleyman" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Suleyman_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-039-p11s1w8">

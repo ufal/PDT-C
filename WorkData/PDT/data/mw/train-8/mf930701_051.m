@@ -504,16 +504,7 @@
 <LM>w#w-mf930701-051-p1s3w10</LM>
 </w.rf>
 <form>Norisringu</form>
-<tag><AM lemma="Norisring_;m" src="orig">NNIS6-----A----</AM>
-<AM lemma="Norisring" src="auto">NNIS2-----A----</AM>
-<AM lemma="Norisring" src="auto">NNIS6-----A----</AM>
-<AM lemma="Norisring_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Norisring_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Norisring_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Norisring_,t" src="auto">NNIS2-----A----</AM>
-<AM lemma="Norisring_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-Norisring)" src="auto">NNIS6-----A----</AM>
-<AM lemma="norisringu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Norisring_;m" src="orig" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-051-p1s3w11">
@@ -531,16 +522,7 @@
 <LM>w#w-mf930701-051-p1s3w12</LM>
 </w.rf>
 <form>Trophae</form>
-<tag><AM lemma="Trophae_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Trophae_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Trophae_;L_,t" src="auto">NNFP1-----A----</AM>
-<AM lemma="Trophae_;L_,t" src="auto">AAFP1----1A----</AM>
-<AM lemma="Tropha_,t" src="auto">NNFP1-----A----</AM>
-<AM lemma="tae_,t_^(Trophae-kwon-do)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Tropha_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Trophae_;u_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Trophae_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="trophae" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Trophae_;G" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-051-p1s3w13">
@@ -724,16 +706,7 @@
 <LM>w#w-mf930701-051-p1s4w9</LM>
 </w.rf>
 <form>Reynard</form>
-<tag><AM lemma="Reynard_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Reynard_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Reynard_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Reynard" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Reynard_;m_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Reynard_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Reynard" src="auto">NNMS1-----A----</AM>
-<AM lemma="Reynard" src="auto">NNIS4-----A----</AM>
-<AM lemma="Reynarda`1000000000" src="auto">NNFP2-----A----</AM>
-<AM lemma="reynard" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Reynard_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-051-p1s4w10">
@@ -1099,14 +1072,7 @@
 <LM>w#w-mf930701-051-p1s7w9</LM>
 </w.rf>
 <form>Versttapen</form>
-<tag><AM lemma="Versttapen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Versttapit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Versttapit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="loupen-1_;m_,t_^(Versttapen_clean,_označení_čistoty_diamantu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Versttapný" src="auto">ACYS------A----</AM>
-<AM lemma="Versttapenalta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Versttapen_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="versttapen" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Versttapen_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-051-p1s7w10">
@@ -1133,24 +1099,7 @@
 <LM>w#w-mf930701-051-p1s7w12</LM>
 </w.rf>
 <form>WTS</form>
-<tag><AM lemma="WTS_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="WTS_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="WTS_:B_;b_^(rakouský_šilink)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="WTS_:B_;K" src="auto">NNISX-----A----</AM>
-<AM lemma="WTS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="WTS-3_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="WTS-2_:B_,t_^(oblast_mozku_makaka)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="WTS-1_:B_^(vědeckotechnická_společnost)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="WTS-1_:B_;K_^(Čs._konfederace_sport._a_tělových._svazů)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Wt_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Wt_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Wts_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wt_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Wt_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Wt_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Wts_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Wts_;K" src="auto">NNFPX-----A----</AM>
-<AM lemma="wts" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="WTS_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-051-p1s7w13">

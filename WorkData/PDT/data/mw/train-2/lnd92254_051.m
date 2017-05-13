@@ -3632,20 +3632,7 @@
 <LM>w#w-lnd92254-051-p7s1w14</LM>
 </w.rf>
 <form>Perot</form>
-<tag><AM lemma="Perota_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Perot" src="auto">NNIS1-----A----</AM>
-<AM lemma="Perot" src="auto">NNIS4-----A----</AM>
-<AM lemma="Perot" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perot_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Perot_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perota" src="auto">NNFP2-----A----</AM>
-<AM lemma="Perota_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Peroteska_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="perot" src="auto">NNMS1-----A----</AM>
-<AM lemma="perot-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="perot-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="perotelefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
-<AM lemma="perotáčka_:B" src="auto">NNFXX-----A---8</AM>
+<tag><AM lemma="Perota_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-051-p7s1w15">

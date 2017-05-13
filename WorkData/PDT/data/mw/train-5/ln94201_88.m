@@ -84,15 +84,7 @@
 <LM>w#w-ln94201-88-p2s1w3</LM>
 </w.rf>
 <form>teb</form>
-<tag><AM lemma="teb-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="tba" src="auto">NNFP2-----A----</AM>
-<AM lemma="teb-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="teb_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="teb" src="auto">NNIS1-----A----</AM>
-<AM lemma="teb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="teb_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="tba_^(všechny_významy)" src="auto">NNFP2-----A----</AM>
-<AM lemma="teby_;G" src="auto">NNIP2-----A----</AM>
+<tag><AM lemma="teb-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-88-p2s1w4">

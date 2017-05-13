@@ -93,10 +93,7 @@
 <LM>w#w-lnd92255-070-p2s1w2</LM>
 </w.rf>
 <form>Gaptschikowo</form>
-<tag><AM lemma="Gaptschikowo_;G_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Gaptschikowo_;G_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Gaptschikowo_,t" src="auto">ClXPX----------</AM>
-<AM lemma="gaptschikowo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gaptschikowo_;G_,t" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -215,16 +212,7 @@
 <LM>w#w-lnd92255-070-p3s1w13</LM>
 </w.rf>
 <form>Wačlawa</form>
-<tag><AM lemma="Wačlaw_;Y_,t" src="orig">NNMS2-----A----</AM>
-<AM lemma="Wačlaw_;Y_,t" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Wačlaw_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Wačlaw_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Wačlawa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wačlawa_;K_;R" src="auto">NNFS1-----A----</AM>
-<AM lemma="Wačlawa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Wačlaw_;K" src="auto">NNMS2-----A----</AM>
-<AM lemma="Wačlawa_^(prohlášení_islámských_duchovních)" src="auto">NNFS1-----A----</AM>
-<AM lemma="wačlawa" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Wačlaw_;Y_,t" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-070-p3s1w14">

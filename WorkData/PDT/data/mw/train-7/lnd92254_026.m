@@ -95,15 +95,7 @@
 <LM>w#w-lnd92254-026-p3s1w3</LM>
 </w.rf>
 <form>jaf</form>
-<tag><AM lemma="jaf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jaf-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jaf" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf" src="auto">NNIS4-----A----</AM>
-<AM lemma="jaf" src="auto">NNIS1-----A----</AM>
-<AM lemma="jaf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="jaf_;R" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="jaf-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-026-p3s1w4">
@@ -153,14 +145,7 @@
 <LM>w#w-lnd92254-026-p3s2w3</LM>
 </w.rf>
 <form>publica</form>
-<tag><AM lemma="publicus_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="publica_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="publica_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="publica_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="publica_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="publica_;R_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="publica_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="publica_,t" src="auto">AAXXX----1A----</AM>
+<tag><AM lemma="publicus_,t" src="orig" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-026-p3s2w4">

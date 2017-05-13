@@ -66,14 +66,7 @@
 <LM>w#w-mf930702-068-p2s1w3</LM>
 </w.rf>
 <form>mich</form>
-<tag><AM lemma="mich-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mich_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mich_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mich_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="mich_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mich" src="auto">NNMS1-----A----</AM>
-<AM lemma="mich" src="auto">NNIS4-----A----</AM>
-<AM lemma="mich" src="auto" recommended="1">NNIS1-----A----</AM>
+<tag><AM lemma="mich-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-068-p2s1w4">
@@ -701,15 +694,7 @@
 <LM>w#w-mf930702-068-p2s4w11</LM>
 </w.rf>
 <form>tour</form>
-<tag><AM lemma="tour_;m" src="orig">NNFXX-----A----</AM>
-<AM lemma="tour_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="toura" src="auto">NNFP2-----A----</AM>
-<AM lemma="tour_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="tour_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="tour_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="tour_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="tour_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="tour_;R_,t" src="auto">PSXXX-X2-------</AM>
+<tag><AM lemma="tour_;m" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-068-p2s4w12">

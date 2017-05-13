@@ -2174,17 +2174,7 @@
 <LM>w#w-lnd92251-062-p5s3w8</LM>
 </w.rf>
 <form>Europae</form>
-<tag><AM lemma="Europa_;G_,t" src="orig">NNFS2-----A----</AM>
-<AM lemma="Europa_,t" src="auto">NNFP1-----A----</AM>
-<AM lemma="Europa_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Europae_;L_,t" src="auto">AAFP1----1A----</AM>
-<AM lemma="Europae_;L_,t" src="auto">NNFP1-----A----</AM>
-<AM lemma="Europae_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Europae_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Europae_;u_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="europae" src="auto">NNMS1-----A----</AM>
-<AM lemma="europae-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="tae_,t_^(Europae-kwon-do)" src="auto">AAXXX----1A----</AM>
+<tag><AM lemma="Europa_;G_,t" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-062-p5s3w9">

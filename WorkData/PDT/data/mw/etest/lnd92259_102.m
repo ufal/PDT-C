@@ -304,14 +304,7 @@
 <LM>w#w-lnd92259-102-p3s2w25</LM>
 </w.rf>
 <form>Ortal</form>
-<tag><AM lemma="Ortal_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Ortat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Ortat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Ortat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Ortal_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ortal_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ortal_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="ortal" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ortal_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-102-p3s2w26">

@@ -181,23 +181,7 @@
 <LM>w#w-lnd92259-109-p1s1w19</LM>
 </w.rf>
 <form>FITESU</form>
-<tag><AM lemma="FITES_:B_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="FITES_:B_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="FITESU_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FITESU_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FITESU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FITESU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FITESU_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FITESU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FITESU_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="Fites" src="auto">NNIS2-----A----</AM>
-<AM lemma="Fites" src="auto">NNIS3-----A----</AM>
-<AM lemma="Fites" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Fites" src="auto">NNIS6-----A----</AM>
-<AM lemma="Fitesa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Fiteso" src="auto">NNNS3-----A----</AM>
-<AM lemma="Fites_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="fitesu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="FITES_:B_;K" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-109-p1s1w20">
@@ -916,15 +900,7 @@
 <LM>w#w-lnd92259-109-p2s1w2</LM>
 </w.rf>
 <form>jaf</form>
-<tag><AM lemma="jaf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jaf-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jaf" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf" src="auto">NNIS4-----A----</AM>
-<AM lemma="jaf" src="auto">NNIS1-----A----</AM>
-<AM lemma="jaf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="jaf_;R" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="jaf-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-109-p2s1w3">

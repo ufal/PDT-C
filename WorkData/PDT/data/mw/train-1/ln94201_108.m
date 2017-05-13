@@ -48,16 +48,7 @@
 <LM>w#w-ln94201-108-p2s1w1</LM>
 </w.rf>
 <form>Slavenka</form>
-<tag><AM lemma="Slavenka_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Slavenka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Slavenka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Slavenek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Slavenek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Slavenka_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Slavenka_;E_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Slavenko_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Slavenka_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="slavenka" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Slavenka_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-108-p2s1w2">
@@ -457,16 +448,7 @@
 <LM>w#w-ln94201-108-p3s1w1</LM>
 </w.rf>
 <form>Slavenka</form>
-<tag><AM lemma="Slavenka_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Slavenka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Slavenka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Slavenek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Slavenek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Slavenka_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Slavenka_;E_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Slavenko_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Slavenka_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="slavenka" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Slavenka_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-108-p3s1w2">
@@ -4186,16 +4168,7 @@
 <LM>w#w-ln94201-108-p32s2w12</LM>
 </w.rf>
 <form>Bršadinu</form>
-<tag><AM lemma="Bršadin_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Bršadina" src="auto">NNFS4-----A----</AM>
-<AM lemma="Bršadin" src="auto">NNIS2-----A----</AM>
-<AM lemma="Bršadin_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Bršadin_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Bršadina_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Bršadina" src="auto">CyFS4----------</AM>
-<AM lemma="Bršadin_;H" src="auto">NNIS2-----A----</AM>
-<AM lemma="Bršadin" src="auto">NNIS6-----A----</AM>
-<AM lemma="bršadinu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bršadin_;G" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-108-p32s2w13">
@@ -11678,16 +11651,7 @@
 <LM>w#w-ln94201-108-p52s7w19</LM>
 </w.rf>
 <form>nezasloužej</form>
-<tag><AM lemma="zasloužit_:W" src="orig">VB-P---3P-NA--6</AM>
-<AM lemma="nezasloužat_:T" src="auto">Vi-S---2--A----</AM>
-<AM lemma="nezasloužej" src="auto">NNIS1-----A----</AM>
-<AM lemma="nezasloužej" src="auto">NNIS4-----A----</AM>
-<AM lemma="nezasloužej_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="nezasloužej_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="nezasloužý" src="auto">AAIS1----1A---6</AM>
-<AM lemma="nezasloužý" src="auto">AAMS1----1A---6</AM>
-<AM lemma="zasloužit" src="auto">VB-P---3P-NA--6</AM>
-<AM lemma="zasloužit_:W" src="auto" recommended="1">VB-P---3P-NA--6</AM>
+<tag><AM lemma="zasloužit_:W" src="orig" selected="1">VB-P---3P-NA--6</AM>
 </tag>
 </m>
 <m id="m-ln94201-108-p52s7w20">
@@ -25439,12 +25403,7 @@
 <LM>w#w-ln94201-108-p92s1w8</LM>
 </w.rf>
 <form>trpinjský</form>
-<tag><AM lemma="trpinjský" src="orig">AAFS6----1A---6</AM>
-<AM lemma="trpinjský" src="auto">AAIS1----1A----</AM>
-<AM lemma="trpinjský" src="auto">AAMS1----1A----</AM>
-<AM lemma="trpinjský" src="auto" recommended="1">AAIS4----1A----</AM>
-<AM lemma="trpinjský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="trpinjský_;S" src="auto">AAMS1----1A----</AM>
+<tag><AM lemma="trpinjský" src="orig" selected="1">AAFS6----1A---6</AM>
 </tag>
 </m>
 <m id="m-ln94201-108-p92s1w9">

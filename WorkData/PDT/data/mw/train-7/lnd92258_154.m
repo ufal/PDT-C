@@ -1124,16 +1124,7 @@
 <LM>w#w-lnd92258-154-p11s1w21</LM>
 </w.rf>
 <form>Moldávia</form>
-<tag><AM lemma="Moldávie_;G" src="orig">NNFS1-----A---1</AM>
-<AM lemma="Moldávia_;K" src="auto">NNFS1-----A---1</AM>
-<AM lemma="Moldávius_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Moldávium" src="auto">NNNP4-----A----</AM>
-<AM lemma="Moldávio_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Moldávie_;G" src="auto" recommended="1">NNFS1-----A---1</AM>
-<AM lemma="Moldávia_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Moldávia_;K_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Moldávia_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="moldávia" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Moldávie_;G" src="orig" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92258-154-p11s1w22">

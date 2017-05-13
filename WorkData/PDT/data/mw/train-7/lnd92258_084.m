@@ -1133,15 +1133,7 @@
 <LM>w#w-lnd92258-084-p4s2w27</LM>
 </w.rf>
 <form>Dunakiliti</form>
-<tag><AM lemma="Dunakiliti_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Dunakilit_:W" src="auto">Vf--------A---2</AM>
-<AM lemma="Dunakilít" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="Dunakilit_:T" src="auto">Vf--------A---2</AM>
-<AM lemma="Dunakiliti_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="dunakilit-2_:W" src="auto">Vf--------A---2</AM>
-<AM lemma="Dunakilit" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Dunakiliti_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="dunakiliti" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Dunakiliti_;G" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p4s2w28">
@@ -4313,16 +4305,7 @@
 <LM>w#w-lnd92258-084-p7s3w18</LM>
 </w.rf>
 <form>Iplu</form>
-<tag><AM lemma="Ipel_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Iplo-1" src="auto">NNNS3-----A----</AM>
-<AM lemma="Ipel_;K_;R" src="auto">NNIS3-----A----</AM>
-<AM lemma="Ipel_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Ipl" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ipl" src="auto">NNIS6-----A----</AM>
-<AM lemma="Ipl" src="auto">NNIS3-----A----</AM>
-<AM lemma="Ipla" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ipl" src="auto">NNIS6-----A---1</AM>
-<AM lemma="iplu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ipel_;G" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p7s3w19">
@@ -6007,16 +5990,7 @@
 <LM>w#w-lnd92258-084-p9s2w13</LM>
 </w.rf>
 <form>Keresztesem</form>
-<tag><AM lemma="Keresztes_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Keresztes" src="auto">NNIS7-----A----</AM>
-<AM lemma="Keresztes_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Keresztes_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Kereszteso" src="auto">NNNS7-----A----</AM>
-<AM lemma="Keresztes_;S_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Keresztes_;K" src="auto">NNIS7-----A----</AM>
-<AM lemma="Keresztes_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Keresztes" src="auto">NNMS7-----A----</AM>
-<AM lemma="keresztesem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Keresztes_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p9s2w14">
@@ -6671,16 +6645,7 @@
 <LM>w#w-lnd92258-084-p10s1w16</LM>
 </w.rf>
 <form>Nagymáros</form>
-<tag><AM lemma="Nagymáros_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Nagymáros_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nagymáros_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nagymáros" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nagymár_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Nagymáros_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nagymáros_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Nagymáros_;G_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nagymáros_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="nagymáros" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nagymáros_;G" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p10s1w17">
@@ -10401,23 +10366,7 @@
 <LM>w#w-lnd92258-084-p13s4w8</LM>
 </w.rf>
 <form>SZOPK</form>
-<tag><AM lemma="SZOPK_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SZOPK_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SZOPK_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SZOPK-1_:B_;K_^(Českosloven._obchodní_a_průmyslová_komora)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SZOpedokomplex_:B_^(půdní_komplex)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SZOPK_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SZOPK_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SZOPK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SZOPK-1_:B_;G_^(Palác_kultury)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Szopk-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Szopk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Szopk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Szopk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Szopk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Szopk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Szopk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="szopk" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="SZOPK_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-084-p13s4w9">

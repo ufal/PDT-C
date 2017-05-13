@@ -146,16 +146,7 @@
 <LM>w#w-lnd92259-003-p3s1w5</LM>
 </w.rf>
 <form>Arteria</form>
-<tag><AM lemma="Arteria_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Arterium" src="auto">NNNS2-----A----</AM>
-<AM lemma="Arterium" src="auto">NNNP4-----A----</AM>
-<AM lemma="Arteria_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Arterium" src="auto">NNNP1-----A----</AM>
-<AM lemma="Arteria_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Arterio_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Arterie_;G" src="auto">NNFS1-----A---1</AM>
-<AM lemma="Austria_;K_,t_^(fotbalový_klub_Arteria_Wien)" src="auto">NNFS1-----A----</AM>
-<AM lemma="arteria" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Arteria_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-003-p3s1w6">

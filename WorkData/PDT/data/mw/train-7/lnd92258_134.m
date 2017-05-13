@@ -311,13 +311,7 @@
 <LM>w#w-lnd92258-134-p2s2w9</LM>
 </w.rf>
 <form>spinkou</form>
-<tag><AM lemma="spinka" src="orig">NNFS7-----A----</AM>
-<AM lemma="spinka" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="spinka_;G" src="auto">NNFS7-----A----</AM>
-<AM lemma="spinka_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="spinka_^(*2)" src="auto">NNFS7-----A----</AM>
-<AM lemma="spinký" src="auto">AAFS4----1A----</AM>
-<AM lemma="spinký" src="auto">AAFS7----1A----</AM>
+<tag><AM lemma="spinka" src="orig" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-134-p2s2w10">
@@ -1012,31 +1006,7 @@
 <LM>w#w-lnd92258-134-p3s1w2</LM>
 </w.rf>
 <form>MMZ</form>
-<tag><AM lemma="MMZ-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="MMZ-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="MMZ_:B_;K_;b_;p_^(min._zemědělství)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MMZ-1_:B_;K_^(Úřad_pro_tech._normal.,_metrol._a_st._zk.)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MMZ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MMZ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AZ-2_:B_;K_^(např._MMZ_agentura)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="MMz-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="MMz-1" src="auto">RR--2----------</AM>
-<AM lemma="Mmz-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Mmz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mmz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mmz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mmza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mmz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mmz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mms" src="auto">NNIS1-----A----</AM>
-<AM lemma="mmz-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="mmz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mmz" src="auto">NNIS4-----A----</AM>
-<AM lemma="mmz" src="auto">NNIS1-----A----</AM>
-<AM lemma="mmza" src="auto">NNFP2-----A----</AM>
-<AM lemma="mmz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mmz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="mms" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="MMZ-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-134-p3s1w3">

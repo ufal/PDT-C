@@ -475,19 +475,7 @@
 <LM>w#w-ln94201-13-p2s3w14</LM>
 </w.rf>
 <form>TANAS</form>
-<tag><AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="TANAS_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TANAS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Tanas_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tanas_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tanas_;m_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Tanas_;G_^(stát)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tanas_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Tanas_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tanas-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tanas" src="auto">NNIS1-----A----</AM>
-<AM lemma="tanas" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-13-p2s3w15">
@@ -635,19 +623,7 @@
 <LM>w#w-ln94201-13-p2s5w7</LM>
 </w.rf>
 <form>TANAS</form>
-<tag><AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="TANAS_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TANAS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Tanas_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tanas_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tanas_;m_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Tanas_;G_^(stát)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tanas_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Tanas_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tanas-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tanas" src="auto">NNIS1-----A----</AM>
-<AM lemma="tanas" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-13-p2s5w8">
@@ -832,19 +808,7 @@
 <LM>w#w-ln94201-13-p2s6w7</LM>
 </w.rf>
 <form>TANAS</form>
-<tag><AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="TANAS_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TANAS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Tanas_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tanas_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tanas_;m_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Tanas_;G_^(stát)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tanas_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Tanas_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tanas-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tanas" src="auto">NNIS1-----A----</AM>
-<AM lemma="tanas" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-13-p2s6w8">

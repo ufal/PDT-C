@@ -174,16 +174,7 @@
 <LM>w#w-lnd92256-073-p1s1w18</LM>
 </w.rf>
 <form>Livenza</form>
-<tag><AM lemma="Livenza_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Livenzo_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Livenzo_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Livenza_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Livenza_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Livenza_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Livenza_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Livenza" src="auto">NNFS1-----A----</AM>
-<AM lemma="Livenza_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="livenza" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Livenza_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-073-p1s1w19">

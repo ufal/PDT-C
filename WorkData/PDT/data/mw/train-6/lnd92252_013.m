@@ -1258,16 +1258,7 @@
 <LM>w#w-lnd92252-013-p5s6w8</LM>
 </w.rf>
 <form>Versöhnung</form>
-<tag><AM lemma="Versöhnung_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Versöhnung_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Versöhnung_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Versöhnung_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Versöhnung_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Versöhnung_;p" src="auto">NNMS1-----A----</AM>
-<AM lemma="Versöhnung_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Versöhnung_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Versöhnung_;R_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="versöhnung" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Versöhnung_,t" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-013-p5s6w9">
@@ -2364,16 +2355,7 @@
 <LM>w#w-lnd92252-013-p6s2w8</LM>
 </w.rf>
 <form>Hofstetter</form>
-<tag><AM lemma="Hofstetter_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hofstetter_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hofstetter_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hofstetter_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hofstetter" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hofstettro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Hofstetter_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Hofstetter" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hofstettrum" src="auto">NNNP2-----A----</AM>
-<AM lemma="hofstetter" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hofstetter_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-013-p6s2w9">

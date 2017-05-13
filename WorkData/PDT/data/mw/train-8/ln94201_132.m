@@ -767,11 +767,7 @@
 <LM>w#w-ln94201-132-p2s4w18</LM>
 </w.rf>
 <form>woodoo</form>
-<tag><AM lemma="woodoo" src="orig">NNNXX-----A----</AM>
-<AM lemma="woodoo" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="woodoo_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="woodoo_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="woodoo_,t" src="auto">Db-------------</AM>
+<tag><AM lemma="woodoo" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-132-p2s4w19">
@@ -1553,15 +1549,7 @@
 <LM>w#w-ln94201-132-p3s2w28</LM>
 </w.rf>
 <form>happy</form>
-<tag><AM lemma="happy" src="orig">AAXXX----1A----</AM>
-<AM lemma="happy_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="happy_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="happy" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="happ" src="auto">NNIP4-----A----</AM>
-<AM lemma="happ" src="auto">NNIP1-----A----</AM>
-<AM lemma="happ" src="auto">NNIP7-----A----</AM>
-<AM lemma="happa" src="auto">NNFS2-----A----</AM>
-<AM lemma="happa" src="auto">NNFP1-----A----</AM>
+<tag><AM lemma="happy" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-132-p3s2w29">
@@ -1626,16 +1614,7 @@
 <LM>w#w-ln94201-132-p3s3w5</LM>
 </w.rf>
 <form>League</form>
-<tag><AM lemma="league_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="League_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="League_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="League_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="League_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="League_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="League_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="League_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="League_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="league" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="league_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-132-p3s3w6">
@@ -1905,15 +1884,7 @@
 <LM>w#w-ln94201-132-p3s6w9</LM>
 </w.rf>
 <form>Bernsen</form>
-<tag><AM lemma="Bernsen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bernsen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bernsen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bernsen_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bernsen-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bernsna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bernsit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Bernsen_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="bernsen" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bernsen_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-132-p3s6w10">
@@ -3586,16 +3557,7 @@
 <LM>w#w-ln94201-132-p5s5w4</LM>
 </w.rf>
 <form>Clash</form>
-<tag><AM lemma="clash_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Clash_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Clash_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Clash_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Clash_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Clash_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Clash_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Clash_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Clash_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="clash" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="clash_,t" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-132-p5s5w5">
@@ -3622,16 +3584,7 @@
 <LM>w#w-ln94201-132-p5s5w7</LM>
 </w.rf>
 <form>Titans</form>
-<tag><AM lemma="Titan_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Titans_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Titan_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Titans_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Titan_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Titan_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Titansactions_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Titans_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Titans_;Y" src="auto">NNMPX-----A----</AM>
-<AM lemma="titans" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Titan_,t" src="orig" selected="1">NNMPX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-132-p5s5w8">
@@ -3863,16 +3816,7 @@
 <LM>w#w-ln94201-132-p5s8w7</LM>
 </w.rf>
 <form>Bowkerová</form>
-<tag><AM lemma="Bowkerová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Bowkerová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Bowkerový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Bowkerový" src="auto">AANP1----1A----</AM>
-<AM lemma="Bowkerový" src="auto">AANP4----1A----</AM>
-<AM lemma="Bowkerová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bowkerová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bowkerový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Bowkerový" src="auto">AAFS5----1A----</AM>
-<AM lemma="bowkerová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bowkerová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-132-p5s8w8">

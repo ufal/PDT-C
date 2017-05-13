@@ -287,15 +287,7 @@
 <LM>w#w-lnd92258-042-p4s1w3</LM>
 </w.rf>
 <form>mlp</form>
-<tag><AM lemma="mlp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mlp-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="mlpy_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="mlp" src="auto">NNIS4-----A----</AM>
-<AM lemma="mlp" src="auto">NNIS1-----A----</AM>
-<AM lemma="mlp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mlp" src="auto">NNMS1-----A----</AM>
-<AM lemma="mlp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mlp_;K" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="mlp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-042-p4s1w4">

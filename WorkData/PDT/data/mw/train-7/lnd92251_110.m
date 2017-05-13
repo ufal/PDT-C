@@ -2294,16 +2294,7 @@
 <LM>w#w-lnd92251-110-p6s3w10</LM>
 </w.rf>
 <form>Masalitin</form>
-<tag><AM lemma="Masalitin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Masalitina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Masalitin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Masalitin" src="auto">NNIS4-----A----</AM>
-<AM lemma="Masalitin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Masalitina" src="auto">CyFP2----------</AM>
-<AM lemma="Masalitin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Masalitiny" src="auto">NNFP2-----A----</AM>
-<AM lemma="Masalitina`80_^(*3)" src="auto">CyFP2----------</AM>
-<AM lemma="masalitin" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Masalitin_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-110-p6s3w11">

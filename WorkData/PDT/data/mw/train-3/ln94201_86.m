@@ -2611,16 +2611,7 @@
 <LM>w#w-ln94201-86-p4s3w10</LM>
 </w.rf>
 <form>Karmišin</form>
-<tag><AM lemma="Karmišin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Karmišina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Karmišin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Karmišin_;G_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Karmišin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Karmišin-2_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Karmišin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Karmišin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Karmišin" src="auto">NNIS4-----A----</AM>
-<AM lemma="karmišin" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Karmišin_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-86-p4s3w11">
@@ -2737,16 +2728,7 @@
 <LM>w#w-ln94201-86-p4s3w23</LM>
 </w.rf>
 <form>Kuffy</form>
-<tag><AM lemma="Kuffa_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Kuffa_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Kuff" src="auto">NNIP4-----A----</AM>
-<AM lemma="Kuffy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kuffy_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kuff" src="auto">NNMP4-----A----</AM>
-<AM lemma="Kuff" src="auto">NNIP1-----A----</AM>
-<AM lemma="Kuffa_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Kuffa" src="auto">NNFS2-----A----</AM>
-<AM lemma="kuffy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kuffa_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-86-p4s3w24">
@@ -3506,16 +3488,7 @@
 <LM>w#w-ln94201-86-p5s2w11</LM>
 </w.rf>
 <form>Benacek</form>
-<tag><AM lemma="Benacek_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Benacek_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Benacka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Benacek" src="auto">NNMS1-----A----</AM>
-<AM lemma="Benacky_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Benacka_,h" src="auto">NNFP2-----A----</AM>
-<AM lemma="Benacek_;Y_,h" src="auto">NNMS1-----A----</AM>
-<AM lemma="Benacek_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Benacek" src="auto">NNIS1-----A----</AM>
-<AM lemma="benacek" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Benacek_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-86-p5s2w12">
@@ -3852,15 +3825,7 @@
 <LM>w#w-ln94201-86-p5s4w23</LM>
 </w.rf>
 <form>Domzale</form>
-<tag><AM lemma="Domzale_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Domzale_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Domzale_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Domzal" src="auto">NNIS6-----A----</AM>
-<AM lemma="Domzale_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Domzala" src="auto">NNFS6-----A----</AM>
-<AM lemma="Domzale_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Domzale-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="domzale" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Domzale_;K" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-86-p5s4w24">
@@ -4734,15 +4699,7 @@
 <LM>w#w-ln94201-86-p5s7w18</LM>
 </w.rf>
 <form>Palatiniuse</form>
-<tag><AM lemma="Palatinius_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Palatinius_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Palatinius" src="auto">NNIS6-----A----</AM>
-<AM lemma="Palatinius_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Palatinius_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Palatiniuse_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Palatiniuse_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Palatiniuse" src="auto">NNFP1-----A----</AM>
-<AM lemma="palatiniuse" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Palatinius_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-86-p5s7w19">
@@ -4861,16 +4818,7 @@
 <LM>w#w-ln94201-86-p5s8w12</LM>
 </w.rf>
 <form>Pinčukovi</form>
-<tag><AM lemma="Pinčuk_;S" src="orig">NNMS6-----A----</AM>
-<AM lemma="Pinčuk_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Pinčuk" src="auto">NNMS3-----A----</AM>
-<AM lemma="Pinčuk_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Pinčuka_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Pinčuk_;S" src="auto" recommended="1">NNMS6-----A----</AM>
-<AM lemma="Pinčuk" src="auto">NNMS6-----A----</AM>
-<AM lemma="Pinčukův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="Pinčuek_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="pinčukovi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pinčuk_;S" src="orig" selected="1">NNMS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-86-p5s8w13">

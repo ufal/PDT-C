@@ -976,19 +976,7 @@
 <LM>w#w-mf930708-077-p2s6w14</LM>
 </w.rf>
 <form>Nieman</form>
-<tag><AM lemma="Nieman_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Nieman" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nieman-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nieman_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Nieman_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nieman_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nieman_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nieman_;m" src="auto">NNMS1-----A----</AM>
-<AM lemma="nieman" src="auto">NNMS1-----A----</AM>
-<AM lemma="nieman-1_^(člověk)" src="auto">NNMS1-----A----</AM>
-<AM lemma="nieman-2_^(jednotka_radioaktivity)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="nieman-2_^(jednotka_radioaktivity)" src="auto">NNIS4-----A----</AM>
-<AM lemma="niemana" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="Nieman_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-077-p2s6w15">
@@ -1170,15 +1158,7 @@
 <LM>w#w-mf930708-077-p2s7w3</LM>
 </w.rf>
 <form>Marcusu</form>
-<tag><AM lemma="Marcus_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Marcus" src="auto">NNIS2-----A----</AM>
-<AM lemma="Marcus" src="auto">NNIS6-----A----</AM>
-<AM lemma="Marcus" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Marcus" src="auto">NNIS3-----A----</AM>
-<AM lemma="Marcusa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Marcus_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Marcus_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="marcusu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Marcus_;K" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-077-p2s7w4">

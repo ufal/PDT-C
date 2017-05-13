@@ -84,14 +84,7 @@
 <LM>w#w-lnd92259-106-p2s1w1</LM>
 </w.rf>
 <form>Panić</form>
-<tag><AM lemma="Panić_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Panić_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Panić_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Panić_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Panič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Panič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="panić" src="auto">NNMS1-----A----</AM>
-<AM lemma="panić-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="Panić_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-106-p2s1w2">
@@ -212,14 +205,7 @@
 <LM>w#w-lnd92259-106-p3s2w5</LM>
 </w.rf>
 <form>Panić</form>
-<tag><AM lemma="Panić_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Panić_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Panić_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Panić_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Panič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Panič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="panić" src="auto">NNMS1-----A----</AM>
-<AM lemma="panić-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="Panić_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-106-p3s2w6">
@@ -763,15 +749,7 @@
 <LM>w#w-lnd92259-106-p4s2w1</LM>
 </w.rf>
 <form>Panićovi</form>
-<tag><AM lemma="Panić_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Panić_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Panić" src="auto">NNMS3-----A----</AM>
-<AM lemma="Panić_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Panića_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Panić_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Panić" src="auto">NNMS6-----A----</AM>
-<AM lemma="Panićův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="panićovi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Panić_;S" src="orig" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-106-p4s2w2">
@@ -1088,15 +1066,7 @@
 <LM>w#w-lnd92259-106-p4s3w17</LM>
 </w.rf>
 <form>Paniće</form>
-<tag><AM lemma="Panić_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Panić_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Panič_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Panić_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Panić_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Paniće" src="auto">NNFS2-----A----</AM>
-<AM lemma="Paniće" src="auto">NNFS1-----A----</AM>
-<AM lemma="Paniće" src="auto">NNFP1-----A----</AM>
-<AM lemma="paniće" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Panić_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-106-p4s3w18">
@@ -1143,14 +1113,7 @@
 <LM>w#w-lnd92259-106-p4s4w2</LM>
 </w.rf>
 <form>Panić</form>
-<tag><AM lemma="Panić_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Panić_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Panić_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Panić_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Panič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Panič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="panić" src="auto">NNMS1-----A----</AM>
-<AM lemma="panić-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="Panić_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-106-p4s4w3">
@@ -1168,13 +1131,7 @@
 <LM>w#w-lnd92259-106-p4s4w4</LM>
 </w.rf>
 <form>Cosić</form>
-<tag><AM lemma="Cosić_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cosić_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cosič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cosić_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cosič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cosić_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="cosić" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cosić_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-106-p4s4w5">

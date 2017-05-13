@@ -493,16 +493,7 @@
 <LM>w#w-lnd92255-097-p3s2w21</LM>
 </w.rf>
 <form>Koltés</form>
-<tag><AM lemma="Koltés_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Koltés_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Koltes_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Koltés_;K_;p_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Koltés" src="auto">NNIS1-----A----</AM>
-<AM lemma="Koltés" src="auto">NNIS4-----A----</AM>
-<AM lemma="Koltés_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Koltés_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Koltés_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="koltés" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Koltés_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-097-p3s2w22">
@@ -1774,10 +1765,7 @@
 <LM>w#w-lnd92255-097-p4s3w27</LM>
 </w.rf>
 <form>à</form>
-<tag><AM lemma="à_,t" src="orig">RR--X----------</AM>
-<AM lemma="a_,t" src="auto">Db-------------</AM>
-<AM lemma="a-4_,t_^(př._a_la)" src="auto">RR--1----------</AM>
-<AM lemma="à_,t" src="auto" recommended="1">RR--X----------</AM>
+<tag><AM lemma="à_,t" src="orig" selected="1">RR--X----------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-097-p4s3w28">
@@ -3519,16 +3507,7 @@
 <LM>w#w-lnd92255-097-p7s1w11</LM>
 </w.rf>
 <form>Ciniová</form>
-<tag><AM lemma="Ciniová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Ciniová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Ciniový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Ciniový" src="auto">AANP1----1A----</AM>
-<AM lemma="Ciniový" src="auto">AANP4----1A----</AM>
-<AM lemma="Ciniová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ciniová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ciniový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Ciniový" src="auto">AAFS5----1A----</AM>
-<AM lemma="ciniová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ciniová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-097-p7s1w12">

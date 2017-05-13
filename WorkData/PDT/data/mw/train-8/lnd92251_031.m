@@ -149,15 +149,7 @@
 <LM>w#w-lnd92251-031-p3s1w3</LM>
 </w.rf>
 <form>rk</form>
-<tag><AM lemma="rk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="rk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rk" src="auto">NNIS1-----A----</AM>
-<AM lemma="rk" src="auto">NNIS4-----A----</AM>
-<AM lemma="rk-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="rk_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="rk_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="rk_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="rk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92251-031-p3s1w4">

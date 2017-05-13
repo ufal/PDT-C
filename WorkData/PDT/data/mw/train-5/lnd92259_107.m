@@ -28,16 +28,7 @@
 <LM>w#w-lnd92259-107-p1s1w2</LM>
 </w.rf>
 <form>Eppur</form>
-<tag><AM lemma="eppur_,t" src="orig">Db-------------</AM>
-<AM lemma="Eppur_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Eppur_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Eppur_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Eppur_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="Eppura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Eppur_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eppur_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eppur" src="auto">NNMS1-----A----</AM>
-<AM lemma="eppur" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="eppur_,t" src="orig" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-107-p1s1w3">
@@ -55,16 +46,7 @@
 <LM>w#w-lnd92259-107-p1s1w4</LM>
 </w.rf>
 <form>Muove</form>
-<tag><AM lemma="muove_,t" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="Muvát_,n_,x" src="auto" recommended="1">VB-S---3P-AA---</AM>
-<AM lemma="Muov_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Muove_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Muove_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Muove_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Muove_,t" src="auto">Vf--------A----</AM>
-<AM lemma="Muove_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Muove_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="muove" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="muove_,t" src="orig" selected="1">VB-S---3P-AA---</AM>
 </tag>
 </m>
 </s>

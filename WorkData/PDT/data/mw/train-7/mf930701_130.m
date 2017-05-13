@@ -237,16 +237,7 @@
 <LM>w#w-mf930701-130-p2s1w20</LM>
 </w.rf>
 <form>Moai</form>
-<tag><AM lemma="Moai_;m" src="orig">NNFXX-----A----</AM>
-<AM lemma="Moai_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Moai_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Moai_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Moai_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Moai_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Moai_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Moai_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Moai_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="moai" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Moai_;m" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-130-p2s1w21">

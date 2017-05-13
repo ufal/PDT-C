@@ -721,14 +721,7 @@
 <LM>w#w-ln94201-22-p2s4w4</LM>
 </w.rf>
 <form>otavník</form>
-<tag><AM lemma="otavník" src="orig">NNMS1-----A----</AM>
-<AM lemma="otavník" src="auto">NNMS1-----A----</AM>
-<AM lemma="otavník" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="otavník" src="auto">NNIS4-----A----</AM>
-<AM lemma="otavník_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="otavník_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="otavník_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="otavník_^(kdo_stráží,_člověk)" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="otavník" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-22-p2s4w5">
@@ -773,14 +766,7 @@
 <LM>w#w-ln94201-22-p2s4w9</LM>
 </w.rf>
 <form>chřápal</form>
-<tag><AM lemma="chřápal" src="orig">NNMS1-----A----</AM>
-<AM lemma="chřápat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="chřápal_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="chřápat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="chřápal" src="auto">NNIS4-----A----</AM>
-<AM lemma="chřápat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="chřápal_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="chřápal" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="chřápal" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-22-p2s4w10">

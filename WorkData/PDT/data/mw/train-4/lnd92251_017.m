@@ -293,16 +293,7 @@
 <LM>w#w-lnd92251-017-p2s2w9</LM>
 </w.rf>
 <form>Kašavjáky</form>
-<tag><AM lemma="Kašavják_;m" src="orig">NNMP7-----A----</AM>
-<AM lemma="Kašavják" src="auto">NNMP4-----A----</AM>
-<AM lemma="Kašavják" src="auto">NNMP7-----A----</AM>
-<AM lemma="Kašavják" src="auto">NNIP4-----A----</AM>
-<AM lemma="Kašavják" src="auto">NNIP7-----A----</AM>
-<AM lemma="Kašavják" src="auto">NNIP1-----A----</AM>
-<AM lemma="Kašavják_;E" src="auto">NNMP4-----A----</AM>
-<AM lemma="Kašavjáka" src="auto">NNFS2-----A----</AM>
-<AM lemma="Kašavják_;m" src="auto" recommended="1">NNMP7-----A----</AM>
-<AM lemma="kašavjáky" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kašavják_;m" src="orig" selected="1">NNMP7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-017-p2s2w10">

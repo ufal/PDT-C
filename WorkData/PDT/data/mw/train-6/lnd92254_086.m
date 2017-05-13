@@ -5016,16 +5016,7 @@
 <LM>w#w-lnd92254-086-p17s3w16</LM>
 </w.rf>
 <form>Laflop</form>
-<tag><AM lemma="Laflop_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Laflop_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Laflop" src="auto">NNIS1-----A----</AM>
-<AM lemma="Laflop" src="auto">NNIS4-----A----</AM>
-<AM lemma="Laflop-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Laflop" src="auto">NNMS1-----A----</AM>
-<AM lemma="Laflop_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Laflop_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="stop-1_^(zastavení,_i_Laflopování)" src="auto">NNIS4-----A----</AM>
-<AM lemma="laflop" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Laflop_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-086-p17s3w17">
@@ -6145,17 +6136,7 @@
 <LM>w#w-lnd92254-086-p24s3w1</LM>
 </w.rf>
 <form>Sverna</form>
-<tag><AM lemma="Sverna_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Svern_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Svern_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sverna" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Sverna_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sverna_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sverna_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sverno_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Sverný" src="auto">ACQW------A----</AM>
-<AM lemma="sverna" src="auto">NNMS1-----A----</AM>
-<AM lemma="sverna_;L_,t" src="auto">AAXXX----1A----</AM>
+<tag><AM lemma="Sverna_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-086-p24s3w2">
@@ -6749,16 +6730,7 @@
 <LM>w#w-lnd92254-086-p27s3w1</LM>
 </w.rf>
 <form>Smatana</form>
-<tag><AM lemma="Smatana_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Smatan_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Smatan_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Smatan_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Smatan_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Smatan" src="auto">NNMS4-----A----</AM>
-<AM lemma="Smatan" src="auto">NNMS2-----A----</AM>
-<AM lemma="Smatana" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Smatan_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="smatana" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Smatana_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-086-p27s3w2">
@@ -6848,16 +6820,7 @@
 <LM>w#w-lnd92254-086-p27s3w11</LM>
 </w.rf>
 <form>Kalan</form>
-<tag><AM lemma="Kalan_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kalan_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kalan_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kalan_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kalan_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Klan_;K_,t_^(Ku-Klux-Kalan)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kalany_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kalan_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kalan-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kalan" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kalan_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-086-p27s3w12">

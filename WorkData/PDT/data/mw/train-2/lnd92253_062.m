@@ -1727,16 +1727,7 @@
 <LM>w#w-lnd92253-062-p4s8w6</LM>
 </w.rf>
 <form>Zbytkostan</form>
-<tag><AM lemma="zbytkostan" src="orig">NNIS1-----A----</AM>
-<AM lemma="Zbytkostan_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zbytkostan" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zbytkostan_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zbytkostan" src="auto">NNIS4-----A----</AM>
-<AM lemma="Zbytkostany_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Zbytkostan_;m_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Zbytkostan_;R" src="auto">NNIXX-----A----</AM>
-<AM lemma="Zbytkostan_;K_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="zbytkostan" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="zbytkostan" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-062-p4s8w7">
@@ -8765,16 +8756,7 @@
 <LM>w#w-lnd92253-062-p12s2w21</LM>
 </w.rf>
 <form>Vitislavem</form>
-<tag><AM lemma="Vitislav_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Vitislav" src="auto">NNIS7-----A----</AM>
-<AM lemma="Vitislavo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Vitislav_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Vitislav_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Vitislav_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Vitislav-1_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Vitislavum" src="auto">NNNS7-----A----</AM>
-<AM lemma="Vitislavo_;G" src="auto">NNNS7-----A----</AM>
-<AM lemma="vitislavem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Vitislav_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-062-p12s2w22">
@@ -19461,11 +19443,7 @@
 <LM>w#w-lnd92253-062-p21s3w4</LM>
 </w.rf>
 <form>sežloutlo</form>
-<tag><AM lemma="zežloutnout" src="orig">VpNS---XR-AA--1</AM>
-<AM lemma="sežloust" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="sežloutnout_:T" src="auto">VpNS---XR-AA--1</AM>
-<AM lemma="sežloutnout_:W" src="auto">VpNS---XR-AA--1</AM>
-<AM lemma="zežloutnout" src="auto" recommended="1">VpNS---XR-AA--1</AM>
+<tag><AM lemma="zežloutnout" src="orig" selected="1">VpNS---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-lnd92253-062-p21s3w5">
@@ -29408,15 +29386,7 @@
 <LM>w#w-lnd92253-062-p29s6w8</LM>
 </w.rf>
 <form>iure</form>
-<tag><AM lemma="ius_,t" src="orig">NNNS6-----A----</AM>
-<AM lemma="iure_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="ius_,t" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="iure_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="iure_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="iure_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="iure_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="iure_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="iure_;K_,t" src="auto">AAFSX----1A----</AM>
+<tag><AM lemma="ius_,t" src="orig" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-062-p29s6w9">
@@ -31172,16 +31142,7 @@
 <LM>w#w-lnd92253-062-p29s14w6</LM>
 </w.rf>
 <form>Herr</form>
-<tag><AM lemma="herr_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="Herr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Herr_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Herr" src="auto">II-------------</AM>
-<AM lemma="Herr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Herr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Herr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Herr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Herr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="herr" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="herr_,t" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-062-p29s14w7">
@@ -43135,8 +43096,7 @@
 <LM>w#w-lnd92253-062-p44s4w20</LM>
 </w.rf>
 <form>tutejší</form>
-<tag><AM lemma="tutejší" src="orig">AAMP1----1A----</AM>
-<AM lemma="tutejší" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="tutejší" src="orig" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-062-p44s4w21">

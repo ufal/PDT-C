@@ -154,9 +154,7 @@
 <LM>w#w-mf930701-031-p2s1w5</LM>
 </w.rf>
 <form>lh</form>
-<tag><AM lemma="lh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lha" src="auto">NNFP2-----A----</AM>
-<AM lemma="lh-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<tag><AM lemma="lh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-031-p2s1w6">
@@ -971,17 +969,7 @@
 <LM>w#w-mf930701-031-p4s1w24</LM>
 </w.rf>
 <form>SOFMA</form>
-<tag><AM lemma="SOFMA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SOFMA_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Sofma" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sofm_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sofma_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sofma" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sofma_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sofma" src="auto">NNNS4-----A----</AM>
-<AM lemma="Sofma_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sofm_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="sofma" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="SOFMA_:B_;K" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-031-p4s1w25">

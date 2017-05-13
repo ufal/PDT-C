@@ -138,13 +138,7 @@
 <LM>w#w-ln94201-3-p2s1w8</LM>
 </w.rf>
 <form>jpš</form>
-<tag><AM lemma="jpš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jpš-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jpš_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jpš_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jpš" src="auto">NNIS1-----A----</AM>
-<AM lemma="jpš" src="auto">NNFS4-----A----</AM>
-<AM lemma="jpš" src="auto">NNFS1-----A----</AM>
+<tag><AM lemma="jpš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-3-p2s1w9">

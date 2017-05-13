@@ -129,16 +129,7 @@
 <LM>w#w-mf930703-063-p2s1w12</LM>
 </w.rf>
 <form>Pielmeierovy</form>
-<tag><AM lemma="Pielmeierův_;S_^(*2)" src="orig">AUFS2M---------</AM>
-<AM lemma="Pielmeierův_;S_^(*2)" src="auto" recommended="1">AUFS2M---------</AM>
-<AM lemma="Pielmeierův_;S_^(*2)" src="auto">AUFP1M---------</AM>
-<AM lemma="Pielmeierův_^(*2)" src="auto">AUFS2M---------</AM>
-<AM lemma="Pielmeierův_;S_^(*2)" src="auto">AUIP1M---------</AM>
-<AM lemma="Pielmeierův_;S_^(*2a)" src="auto">AUFS2M---------</AM>
-<AM lemma="Pielmeierova" src="auto">NNFS2-----A----</AM>
-<AM lemma="Pielmeierův_;S_^(*2)" src="auto">AUIP4M---------</AM>
-<AM lemma="Pielmeierův_;S_^(*2)" src="auto">AUFP4M---------</AM>
-<AM lemma="pielmeierovy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pielmeierův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</AM>
 </tag>
 </m>
 <m id="m-mf930703-063-p2s1w13">
@@ -156,16 +147,7 @@
 <LM>w#w-mf930703-063-p2s1w14</LM>
 </w.rf>
 <form>Agnus</form>
-<tag><AM lemma="Agnus_;R_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Agnus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="minus-2_^(mat._operace;_9_minus_3,_též_Agnus_dva_stupně)" src="auto">J*-------------</AM>
-<AM lemma="minus-1_^(znaménko_Agnus;_vyjádření_záporné_vlastnosti)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Agnus_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Agnus_;R_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Agnus_;L_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Agnus_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Agnus_;L_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="agnus" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Agnus_;R_,t" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-063-p2s1w15">

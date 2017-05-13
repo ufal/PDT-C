@@ -248,16 +248,7 @@
 <LM>w#w-mf930701-054-p2s2w7</LM>
 </w.rf>
 <form>Clamence</form>
-<tag><AM lemma="Clamence_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Clamence" src="auto">NNFS1-----A----</AM>
-<AM lemma="Clamence" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Clamence" src="auto">NNFP1-----A----</AM>
-<AM lemma="Clamenec" src="auto">NNMP4-----A----</AM>
-<AM lemma="Clamenka" src="auto">NNFS6-----A----</AM>
-<AM lemma="Clamenka" src="auto">NNFS3-----A----</AM>
-<AM lemma="Clamence" src="auto">NNFP4-----A----</AM>
-<AM lemma="Clamenec" src="auto">NNMS2-----A----</AM>
-<AM lemma="clamence" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Clamence_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-054-p2s2w8">
@@ -1407,14 +1398,7 @@
 <LM>w#w-mf930701-054-p2s13w4</LM>
 </w.rf>
 <form>rockték</form>
-<tag><AM lemma="rocktéka" src="orig">NNFP2-----A----</AM>
-<AM lemma="rocktéka" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="rockték" src="auto">NNIS4-----A----</AM>
-<AM lemma="rockték" src="auto">NNIS1-----A----</AM>
-<AM lemma="rockték_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rockték" src="auto">NNMS1-----A----</AM>
-<AM lemma="rockték_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="rockték_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="rocktéka" src="orig" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-054-p2s13w5">
@@ -1450,18 +1434,7 @@
 <LM>w#w-mf930701-054-p2s13w8</LM>
 </w.rf>
 <form>Neodancing</form>
-<tag><AM lemma="Neodancing_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="Neodancing" src="auto">NNIS1-----A----</AM>
-<AM lemma="Neodancing" src="auto">NNIS4-----A----</AM>
-<AM lemma="Neodancing_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Neodancing_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Neodancing_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Neodancing_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Neodancing_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Neodancing_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="neodancing" src="auto">NNIS1-----A----</AM>
-<AM lemma="neodancing" src="auto">NNIS4-----A----</AM>
-<AM lemma="neodancing" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Neodancing_;m" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-054-p2s13w9">
@@ -2514,18 +2487,7 @@
 <LM>w#w-mf930701-054-p2s22w14</LM>
 </w.rf>
 <form>Neodancing</form>
-<tag><AM lemma="Neodancing_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="Neodancing" src="auto">NNIS1-----A----</AM>
-<AM lemma="Neodancing" src="auto">NNIS4-----A----</AM>
-<AM lemma="Neodancing_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Neodancing_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Neodancing_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Neodancing_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Neodancing_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Neodancing_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="neodancing" src="auto">NNIS1-----A----</AM>
-<AM lemma="neodancing" src="auto">NNIS4-----A----</AM>
-<AM lemma="neodancing" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Neodancing_;m" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-054-p2s22w15">
@@ -2893,16 +2855,7 @@
 <LM>w#w-mf930701-054-p2s26w7</LM>
 </w.rf>
 <form>Hypnotix</form>
-<tag><AM lemma="Hypnotix_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hypnotix_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Hypnotix" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hypnotix_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Hypnotix_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hypnotix_;L_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hypnotix_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Hypnotix_;K_,t" src="auto">Cn-S1----------</AM>
-<AM lemma="Hypnotix_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="hypnotix" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hypnotix_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-054-p2s26w8">

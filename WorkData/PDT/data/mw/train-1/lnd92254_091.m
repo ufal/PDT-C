@@ -650,16 +650,7 @@
 <LM>w#w-lnd92254-091-p2s4w10</LM>
 </w.rf>
 <form>Rezonem</form>
-<tag><AM lemma="Rezon_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Rezon" src="auto">NNIS7-----A----</AM>
-<AM lemma="Rezon_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Rezon_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Rezon" src="auto">NNMS7-----A----</AM>
-<AM lemma="Rezon_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Rezono" src="auto">NNNS7-----A----</AM>
-<AM lemma="Rezoen" src="auto">NNIS7-----A----</AM>
-<AM lemma="Rezon_;E" src="auto">NNMS7-----A----</AM>
-<AM lemma="rezonem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rezon_;Y" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-091-p2s4w11">
@@ -786,16 +777,7 @@
 <LM>w#w-lnd92254-091-p2s5w3</LM>
 </w.rf>
 <form>Rezona</form>
-<tag><AM lemma="Rezon_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Rezon_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rezon_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rezona" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rezon_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Rezon" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rezona_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rezona_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rezona_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="rezona" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rezon_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-091-p2s5w4">
@@ -1251,15 +1233,7 @@
 <LM>w#w-lnd92254-091-p3s1w2</LM>
 </w.rf>
 <form>mmz</form>
-<tag><AM lemma="mmz-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mmz-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="mmz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mmz" src="auto">NNIS4-----A----</AM>
-<AM lemma="mmz" src="auto">NNIS1-----A----</AM>
-<AM lemma="mmza" src="auto">NNFP2-----A----</AM>
-<AM lemma="mmz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mmz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="mms" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="mmz-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-091-p3s1w3">

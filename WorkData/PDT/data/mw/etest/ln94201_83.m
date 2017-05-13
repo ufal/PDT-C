@@ -19,18 +19,7 @@
 <LM>w#w-ln94201-83-p1s1w1</LM>
 </w.rf>
 <form>Mikrointerview</form>
-<tag><AM lemma="mikrointerview" src="orig">NNNXX-----A----</AM>
-<AM lemma="Mikrointerview" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mikrointerview-1_;K_,t_^(souč._názvu_časopisů)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Mikrointerview-2_;m_,t_^(angl._nový,_souč._ost._názvů)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mikrointerview_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Mikrointerview_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mikrointerview_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mikrointerview_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mikrointerview_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mikrointerview" src="auto">NNMS1-----A----</AM>
-<AM lemma="mikrointerview" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="mikrointerview-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="mikrointerview" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-83-p1s1w2">

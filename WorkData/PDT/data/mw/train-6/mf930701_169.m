@@ -619,20 +619,7 @@
 <LM>w#w-mf930701-169-p3s2w6</LM>
 </w.rf>
 <form>jihobalkánské</form>
-<tag><AM lemma="jihobalkánský" src="orig">AAFS2----1A----</AM>
-<AM lemma="jihobalkánský" src="auto">AAFP1----1A----</AM>
-<AM lemma="jihobalkánský" src="auto">AAFP4----1A----</AM>
-<AM lemma="jihobalkánský" src="auto">AAFP5----1A----</AM>
-<AM lemma="jihobalkánský" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="jihobalkánský" src="auto">AAFS3----1A----</AM>
-<AM lemma="jihobalkánský" src="auto">AAFS6----1A----</AM>
-<AM lemma="jihobalkánský" src="auto">AAIP1----1A----</AM>
-<AM lemma="jihobalkánský" src="auto">AAIP4----1A----</AM>
-<AM lemma="jihobalkánský" src="auto">AAIP5----1A----</AM>
-<AM lemma="jihobalkánský" src="auto">AAMP4----1A----</AM>
-<AM lemma="jihobalkánský" src="auto">AANS1----1A----</AM>
-<AM lemma="jihobalkánský" src="auto">AANS4----1A----</AM>
-<AM lemma="jihobalkánský" src="auto">AANS5----1A----</AM>
+<tag><AM lemma="jihobalkánský" src="orig" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-169-p3s2w7">
@@ -2270,17 +2257,7 @@
 <LM>w#w-mf930701-169-p7s1w6</LM>
 </w.rf>
 <form>polorestauračních</form>
-<tag><AM lemma="polorestaurační" src="orig">AANP2----1A----</AM>
-<AM lemma="polorestauračne" src="auto">NNFP6-----A----</AM>
-<AM lemma="polorestauračne_;G" src="auto">NNFP6-----A----</AM>
-<AM lemma="polorestaurační" src="auto">AAFP2----1A----</AM>
-<AM lemma="polorestaurační" src="auto">AAFP6----1A----</AM>
-<AM lemma="polorestaurační" src="auto">AAIP2----1A----</AM>
-<AM lemma="polorestaurační" src="auto">AAIP6----1A----</AM>
-<AM lemma="polorestaurační" src="auto">AAMP2----1A----</AM>
-<AM lemma="polorestaurační" src="auto">AAMP6----1A----</AM>
-<AM lemma="polorestaurační" src="auto" recommended="1">AANP2----1A----</AM>
-<AM lemma="polorestaurační" src="auto">AANP6----1A----</AM>
+<tag><AM lemma="polorestaurační" src="orig" selected="1">AANP2----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-169-p7s1w7">

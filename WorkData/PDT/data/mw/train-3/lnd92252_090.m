@@ -385,24 +385,7 @@
 <LM>w#w-lnd92252-090-p2s3w4</LM>
 </w.rf>
 <form>Siomin</form>
-<tag><AM lemma="Siomin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Siomin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Siomin" src="auto">NNIS4-----A----</AM>
-<AM lemma="Siomin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Siomin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Siomina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Siominimální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Siominuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Siomín_,x" src="auto">NNIS4-----A----</AM>
-<AM lemma="siomin" src="auto">NNMS1-----A----</AM>
-<AM lemma="siomin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="siomina" src="auto">NNFP2-----A----</AM>
-<AM lemma="siominimum_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="siominimální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="siominimálně_:B" src="auto">Dg-------1A---8</AM>
-<AM lemma="sioministerský_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="sioministerstvo_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="siominuta_:B" src="auto">NNFXX-----A---8</AM>
+<tag><AM lemma="Siomin_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-090-p2s3w5">
@@ -420,16 +403,7 @@
 <LM>w#w-lnd92252-090-p2s3w6</LM>
 </w.rf>
 <form>Gazajev</form>
-<tag><AM lemma="Gazajev_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gazajev_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gazajev" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gazajev" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gazajev_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gazajev_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gazajev" src="auto">NNFS4-----A----</AM>
-<AM lemma="Gazajev" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gazajvo" src="auto">NNNP2-----A----</AM>
-<AM lemma="gazajev" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gazajev_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-090-p2s3w7">

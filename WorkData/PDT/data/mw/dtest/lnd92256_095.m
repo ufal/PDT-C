@@ -1419,16 +1419,7 @@
 <LM>w#w-lnd92256-095-p5s8w7</LM>
 </w.rf>
 <form>Lauff</form>
-<tag><AM lemma="Lauff_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lauff_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lauff" src="auto">II-------------</AM>
-<AM lemma="Lauff_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lauff_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lauff_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lauff_;R_^(vodka)" src="auto">NNFSX-----A----</AM>
-<AM lemma="Lauff_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lauff-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="auto">TT-------------</AM>
-<AM lemma="lauff" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lauff_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-095-p5s8w8">
@@ -2547,14 +2538,7 @@
 <LM>w#w-lnd92256-095-p8s2w1</LM>
 </w.rf>
 <form>OIomouc</form>
-<tag><AM lemma="Olomouc_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="OIomout_:T" src="auto">VeHS------A----</AM>
-<AM lemma="OIomouc_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="OIomouc_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="OIomouc_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="OIomouc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="OIomouc_;Y_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Oiomouc" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Olomouc_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-095-p8s2w2">
@@ -2934,16 +2918,7 @@
 <LM>w#w-lnd92256-095-p9s10w3</LM>
 </w.rf>
 <form>Fietko</form>
-<tag><AM lemma="Fietko_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Fietko" src="auto">NNNS1-----A----</AM>
-<AM lemma="Fietko" src="auto">NNNS4-----A----</AM>
-<AM lemma="Fietko_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Fietko" src="auto">Db-------------</AM>
-<AM lemma="Fietka_;Y" src="auto">NNFS5-----A----</AM>
-<AM lemma="Fietkový" src="auto">A2--------A----</AM>
-<AM lemma="Fietko_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fietký" src="auto">A2--------A----</AM>
-<AM lemma="fietko" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Fietko_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-095-p9s10w4">
@@ -2979,16 +2954,7 @@
 <LM>w#w-lnd92256-095-p9s10w7</LM>
 </w.rf>
 <form>Marušín</form>
-<tag><AM lemma="Marušín_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Marušín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Marušín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Marušín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Marušín" src="auto">NNIS1-----A----</AM>
-<AM lemma="Marušín" src="auto">NNIS4-----A----</AM>
-<AM lemma="Marušín_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Marušín" src="auto">NNMS1-----A----</AM>
-<AM lemma="Marušína" src="auto">NNFP2-----A----</AM>
-<AM lemma="marušín" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Marušín_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-095-p9s10w8">
@@ -3428,16 +3394,7 @@
 <LM>w#w-lnd92256-095-p11s4w1</LM>
 </w.rf>
 <form>Paukovček</form>
-<tag><AM lemma="Paukovček_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Paukovček_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Paukovčka" src="auto">NNFP2-----A----</AM>
-<AM lemma="Paukovček" src="auto">NNIS4-----A----</AM>
-<AM lemma="Paukovček" src="auto">NNIS1-----A----</AM>
-<AM lemma="Paukovček" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paukovčka_^(*2)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Paukovčko" src="auto">NNNP2-----A----</AM>
-<AM lemma="Paukovček-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="paukovček" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Paukovček_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-095-p11s4w2">
@@ -3704,11 +3661,7 @@
 <LM>w#w-lnd92256-095-p11s7w16</LM>
 </w.rf>
 <form>Pethö</form>
-<tag><AM lemma="Pethö_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pethö_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Pethö_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pethö_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="pethö" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pethö_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-095-p11s7w17">

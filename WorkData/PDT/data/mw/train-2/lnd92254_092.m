@@ -532,16 +532,7 @@
 <LM>w#w-lnd92254-092-p2s2w9</LM>
 </w.rf>
 <form>Beina</form>
-<tag><AM lemma="Bein_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Beina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bein_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Beina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bein_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Beina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Beina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bein_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Beina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="beina" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bein_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-092-p2s2w10">

@@ -1743,16 +1743,7 @@
 <LM>w#w-mf930703-134-p5s1w13</LM>
 </w.rf>
 <form>Waigaoqiao</form>
-<tag><AM lemma="Waigaoqiao_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Waigaoqiao_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Waigaoqiao_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Waigaoqiao_,t" src="auto">TT-------------</AM>
-<AM lemma="Waigaoqiao_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Waigaoqiao_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="tao_,t_^(Waigaoqiaoistický_pojem)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Sao_;G_^(Waigaoqiao_Paulo)" src="auto">NNNSX-----A----</AM>
-<AM lemma="Waigaoqiao_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="waigaoqiao" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Waigaoqiao_;G" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-134-p5s1w14">

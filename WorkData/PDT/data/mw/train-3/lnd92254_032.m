@@ -134,15 +134,7 @@
 <LM>w#w-lnd92254-032-p3s1w5</LM>
 </w.rf>
 <form>woll</form>
-<tag><AM lemma="woll-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="woll_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="woll_^(typ_stupnice,_hudební)" src="auto">NNIXX-----A----</AM>
-<AM lemma="woll_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="woll_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="woll-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="woll-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="woll" src="auto">NNIS1-----A----</AM>
-<AM lemma="woll_;K" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="woll-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-032-p3s1w6">
@@ -178,13 +170,7 @@
 <LM>w#w-lnd92254-032-p3s1w9</LM>
 </w.rf>
 <form>čstk</form>
-<tag><AM lemma="čstk_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="čstk_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="čstk-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="čstk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="čstk" src="auto">NNIS1-----A----</AM>
-<AM lemma="čstk" src="auto">NNIS4-----A----</AM>
-<AM lemma="čstk" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="čstk_:B_;K" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-032-p3s1w10">
@@ -1820,16 +1806,7 @@
 <LM>w#w-lnd92254-032-p5s1w10</LM>
 </w.rf>
 <form>Kludsky</form>
-<tag><AM lemma="Kludsky_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kludsky_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Kludska" src="auto">NNFS2-----A----</AM>
-<AM lemma="Kludska" src="auto">NNFP1-----A----</AM>
-<AM lemma="Kludska" src="auto">NNFP4-----A----</AM>
-<AM lemma="Kludsek" src="auto">NNIP1-----A----</AM>
-<AM lemma="Kludsk" src="auto">NNIP1-----A----</AM>
-<AM lemma="Kludsky_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kludska_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="kludsky" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kludsky_;K" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-032-p5s1w11">

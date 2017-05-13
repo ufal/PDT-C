@@ -46,16 +46,7 @@
 <LM>w#w-mf930702-126-p1s1w4</LM>
 </w.rf>
 <form>Chuďjakova</form>
-<tag><AM lemma="Chuďjakov_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Chuďjakův_;S_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="Chuďjakův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Chuďjakov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Chuďjakov_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Chuďjakův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Chuďjakův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Chuďjakov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Chuďjakův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="chuďjakova" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Chuďjakov_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 </s>
@@ -284,16 +275,7 @@
 <LM>w#w-mf930702-126-p2s2w9</LM>
 </w.rf>
 <form>Chuďjakov</form>
-<tag><AM lemma="Chuďjakov_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chuďjakov_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chuďjakov_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chuďjakov_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Chuďjakov" src="auto">NNIS4-----A----</AM>
-<AM lemma="Chuďjakov" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chuďjak_;G_,t" src="auto">NNMP2-----A----</AM>
-<AM lemma="Chuďjak-2_,t" src="auto">NNMP2-----A----</AM>
-<AM lemma="Chuďjakov_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="chuďjakov" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Chuďjakov_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-126-p2s2w10">
@@ -2588,16 +2570,7 @@
 <LM>w#w-mf930702-126-p6s4w25</LM>
 </w.rf>
 <form>Chuďjakovovy</form>
-<tag><AM lemma="Chuďjakovův_;S_^(*2)" src="orig">AUIP4M---------</AM>
-<AM lemma="Chuďjakovův_;S_^(*2)" src="auto">AUFS2M---------</AM>
-<AM lemma="Chuďjakovův_;S_^(*2)" src="auto">AUFP1M---------</AM>
-<AM lemma="Chuďjakovův_^(*2)" src="auto">AUFS2M---------</AM>
-<AM lemma="Chuďjakovův_;S_^(*2)" src="auto">AUIP1M---------</AM>
-<AM lemma="Chuďjakovův_;S_^(*2a)" src="auto">AUFS2M---------</AM>
-<AM lemma="Chuďjakovova" src="auto">NNFS2-----A----</AM>
-<AM lemma="Chuďjakovův_;S_^(*2)" src="auto" recommended="1">AUIP4M---------</AM>
-<AM lemma="Chuďjakovův_;S_^(*2)" src="auto">AUFP4M---------</AM>
-<AM lemma="chuďjakovovy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Chuďjakovův_;S_^(*2)" src="orig" selected="1">AUIP4M---------</AM>
 </tag>
 </m>
 <m id="m-mf930702-126-p6s4w26">

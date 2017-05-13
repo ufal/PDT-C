@@ -628,16 +628,7 @@
 <LM>w#w-mf930708-104-p2s3w10</LM>
 </w.rf>
 <form>Francesconi</form>
-<tag><AM lemma="Francesconi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Francesconi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Francescon" src="auto">NNMP1-----A----</AM>
-<AM lemma="Francescoň_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Francesconi" src="auto">Db-------------</AM>
-<AM lemma="vFrancesconi_,h" src="auto">Db------------1</AM>
-<AM lemma="Francescůň" src="auto">NNMS6-----A----</AM>
-<AM lemma="Francescůň" src="auto">NNMP7-----A----</AM>
-<AM lemma="Francescoňa_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="francesconi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Francesconi_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-104-p2s3w11">
@@ -799,26 +790,7 @@
 <LM>w#w-mf930708-104-p2s3w28</LM>
 </w.rf>
 <form>Del</form>
-<tag><AM lemma="del_,t_^(de+člen)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Del" src="auto">NNIS1-----A----</AM>
-<AM lemma="Del" src="auto">NNIS4-----A----</AM>
-<AM lemma="Del" src="auto">NNMS1-----A----</AM>
-<AM lemma="Del_:B_;c_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Del_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Det" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Det_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Dlo" src="auto">NNNP2-----A----</AM>
-<AM lemma="del-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="del_,t_^(de+člen)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="del_;G_,t" src="auto">RR--X----------</AM>
-<AM lemma="del_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="del_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="del_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="del_;S_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="del_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="deletopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
-<AM lemma="delitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="dlo" src="auto">NNNP2-----A----</AM>
+<tag><AM lemma="del_,t_^(de+člen)" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-104-p2s3w29">

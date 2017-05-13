@@ -517,14 +517,7 @@
 <LM>w#w-lnd92251-061-p3s2w47</LM>
 </w.rf>
 <form>Corriere</form>
-<tag><AM lemma="Corriere_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Corrirat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Corriere_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Corrirát" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Corriere_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="zabrat_^([Corriavit]_něco_někomu)" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Corrirát-2" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="corriere" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Corriere_;R_,t" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-061-p3s2w48">

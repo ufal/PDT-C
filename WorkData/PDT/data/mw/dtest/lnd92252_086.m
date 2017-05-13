@@ -403,16 +403,7 @@
 <LM>w#w-lnd92252-086-p3s2w5</LM>
 </w.rf>
 <form>Congesta</form>
-<tag><AM lemma="Congesta_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Congesta" src="auto">NNMS1-----A----</AM>
-<AM lemma="Congesto" src="auto">NNNS2-----A----</AM>
-<AM lemma="Congesta_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Congesta" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Congesta_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Congestý" src="auto">ACQW------A----</AM>
-<AM lemma="Congest_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Congesta_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="congesta" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Congesta_;m" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-086-p3s2w6">
@@ -2954,15 +2945,7 @@
 <LM>w#w-lnd92252-086-p5s1w2</LM>
 </w.rf>
 <form>šc</form>
-<tag><AM lemma="šc-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šc-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="šc" src="auto">NNMS1-----A----</AM>
-<AM lemma="šc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="šce" src="auto">NNFP2-----A----</AM>
-<AM lemma="šce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="šc" src="auto">NNIS1-----A----</AM>
-<AM lemma="šc" src="auto">NNIS4-----A----</AM>
-<AM lemma="šc_;G" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="šc-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-086-p5s1w3">

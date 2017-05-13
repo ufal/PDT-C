@@ -1181,16 +1181,7 @@
 <LM>w#w-ln94201-100-p4s1w1</LM>
 </w.rf>
 <form>Beloffovy</form>
-<tag><AM lemma="Beloffův_;S_^(*2)" src="orig">AUFP1M---------</AM>
-<AM lemma="Beloffův_;S_^(*2)" src="auto">AUFS2M---------</AM>
-<AM lemma="Beloffův_;S_^(*2)" src="auto" recommended="1">AUFP1M---------</AM>
-<AM lemma="Beloffův_^(*2)" src="auto">AUFS2M---------</AM>
-<AM lemma="Beloffův_;S_^(*2)" src="auto">AUIP1M---------</AM>
-<AM lemma="Beloffův_;S_^(*2a)" src="auto">AUFS2M---------</AM>
-<AM lemma="Beloffova" src="auto">NNFS2-----A----</AM>
-<AM lemma="Beloffův_;S_^(*2)" src="auto">AUIP4M---------</AM>
-<AM lemma="Beloffův_;S_^(*2)" src="auto">AUFP4M---------</AM>
-<AM lemma="beloffovy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Beloffův_;S_^(*2)" src="orig" selected="1">AUFP1M---------</AM>
 </tag>
 </m>
 <m id="m-ln94201-100-p4s1w2">
@@ -1298,16 +1289,7 @@
 <LM>w#w-ln94201-100-p4s1w13</LM>
 </w.rf>
 <form>Beloffa</form>
-<tag><AM lemma="Beloff_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Beloff_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Beloff_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Beloff_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Beloff" src="auto">NNMS4-----A----</AM>
-<AM lemma="Beloff" src="auto">NNMS2-----A----</AM>
-<AM lemma="Beloffa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Beloffa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Beloff_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="beloffa" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Beloff_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-100-p4s1w14">
@@ -2078,16 +2060,7 @@
 <LM>w#w-ln94201-100-p5s1w8</LM>
 </w.rf>
 <form>Beloff</form>
-<tag><AM lemma="Beloff_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Beloff_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Beloff_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Beloff_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Beloff_;R_^(vodka)" src="auto">NNFSX-----A----</AM>
-<AM lemma="Beloff-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="auto">TT-------------</AM>
-<AM lemma="Beloff_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Beloff_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Beloff" src="auto">NNIS4-----A----</AM>
-<AM lemma="beloff" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Beloff_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-100-p5s1w9">
@@ -4420,16 +4393,7 @@
 <LM>w#w-ln94201-100-p8s5w9</LM>
 </w.rf>
 <form>Curranová</form>
-<tag><AM lemma="Curranová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Curranová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Curranový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Curranový" src="auto">AANP1----1A----</AM>
-<AM lemma="Curranový" src="auto">AANP4----1A----</AM>
-<AM lemma="Curranová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Curranová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Curranový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Curranový" src="auto">AAFS5----1A----</AM>
-<AM lemma="curranová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Curranová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-100-p8s5w10">
@@ -4669,16 +4633,7 @@
 <LM>w#w-ln94201-100-p8s8w1</LM>
 </w.rf>
 <form>Curranová</form>
-<tag><AM lemma="Curranová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Curranová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Curranový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Curranový" src="auto">AANP1----1A----</AM>
-<AM lemma="Curranový" src="auto">AANP4----1A----</AM>
-<AM lemma="Curranová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Curranová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Curranový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Curranový" src="auto">AAFS5----1A----</AM>
-<AM lemma="curranová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Curranová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-100-p8s8w2">
@@ -6174,16 +6129,7 @@
 <LM>w#w-ln94201-100-p8s16w2</LM>
 </w.rf>
 <form>Curranová</form>
-<tag><AM lemma="Curranová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Curranová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Curranový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Curranový" src="auto">AANP1----1A----</AM>
-<AM lemma="Curranový" src="auto">AANP4----1A----</AM>
-<AM lemma="Curranová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Curranová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Curranový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Curranový" src="auto">AAFS5----1A----</AM>
-<AM lemma="curranová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Curranová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-100-p8s16w3">
@@ -6347,16 +6293,7 @@
 <LM>w#w-ln94201-100-p8s17w4</LM>
 </w.rf>
 <form>Curranová</form>
-<tag><AM lemma="Curranová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Curranová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Curranový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Curranový" src="auto">AANP1----1A----</AM>
-<AM lemma="Curranový" src="auto">AANP4----1A----</AM>
-<AM lemma="Curranová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Curranová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Curranový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Curranový" src="auto">AAFS5----1A----</AM>
-<AM lemma="curranová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Curranová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-100-p8s17w5">
@@ -7199,14 +7136,7 @@
 <LM>w#w-ln94201-100-p9s2w9</LM>
 </w.rf>
 <form>Mental</form>
-<tag><AM lemma="mental_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Mentat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Mentat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Mentat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Mental_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mental_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mental_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="mental" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="mental_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-100-p9s2w10">
@@ -9617,16 +9547,7 @@
 <LM>w#w-ln94201-100-p12s3w8</LM>
 </w.rf>
 <form>Beloff</form>
-<tag><AM lemma="Beloff_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Beloff_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Beloff_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Beloff_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Beloff_;R_^(vodka)" src="auto">NNFSX-----A----</AM>
-<AM lemma="Beloff-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="auto">TT-------------</AM>
-<AM lemma="Beloff_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Beloff_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Beloff" src="auto">NNIS4-----A----</AM>
-<AM lemma="beloff" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Beloff_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-100-p12s3w9">
@@ -9779,16 +9700,7 @@
 <LM>w#w-ln94201-100-p12s3w25</LM>
 </w.rf>
 <form>Beloff</form>
-<tag><AM lemma="Beloff_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Beloff_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Beloff_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Beloff_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Beloff_;R_^(vodka)" src="auto">NNFSX-----A----</AM>
-<AM lemma="Beloff-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="auto">TT-------------</AM>
-<AM lemma="Beloff_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Beloff_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Beloff" src="auto">NNIS4-----A----</AM>
-<AM lemma="beloff" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Beloff_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-100-p12s3w26">
@@ -9907,16 +9819,7 @@
 <LM>w#w-ln94201-100-p13s1w2</LM>
 </w.rf>
 <form>Beloff</form>
-<tag><AM lemma="Beloff_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Beloff_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Beloff_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Beloff_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Beloff_;R_^(vodka)" src="auto">NNFSX-----A----</AM>
-<AM lemma="Beloff-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="auto">TT-------------</AM>
-<AM lemma="Beloff_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Beloff_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Beloff" src="auto">NNIS4-----A----</AM>
-<AM lemma="beloff" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Beloff_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-100-p13s1w3">

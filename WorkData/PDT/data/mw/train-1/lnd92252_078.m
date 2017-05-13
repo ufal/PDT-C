@@ -2019,16 +2019,7 @@
 <LM>w#w-lnd92252-078-p3s15w11</LM>
 </w.rf>
 <form>Dabašina</form>
-<tag><AM lemma="Dabašin_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Dabašina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dabašin_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Dabašina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dabašin_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Dabašina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dabašina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Dabašin_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Dabašina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="dabašina" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Dabašin_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-078-p3s15w12">

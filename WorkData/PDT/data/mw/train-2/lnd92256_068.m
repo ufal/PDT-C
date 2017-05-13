@@ -930,15 +930,7 @@
 <LM>w#w-lnd92256-068-p3s8w12</LM>
 </w.rf>
 <form>Torišima</form>
-<tag><AM lemma="Torišima_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Torišim_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Torišima_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Torišimum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Torišimum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Torišim_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Torišima_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Torišima_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="torišima" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Torišima_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-068-p3s8w13">

@@ -821,16 +821,7 @@
 <LM>w#w-lnd92257-022-p3s1w17</LM>
 </w.rf>
 <form>Havlíčově</form>
-<tag><AM lemma="Havlíčkův-2_;G" src="orig">AUIS6M---------</AM>
-<AM lemma="Havlíčově_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Havlíčov_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Havlíčův_;S_^(*2)" src="auto">AUFS6M---------</AM>
-<AM lemma="Havlíčův_;S_^(*2)" src="auto" recommended="1">AUIS6M---------</AM>
-<AM lemma="Havlíčův_;S_^(*2)" src="auto">AUNS6M---------</AM>
-<AM lemma="Havlíčův_;S_^(*2)" src="auto">AUFS3M---------</AM>
-<AM lemma="Havlíčův_;S_^(*2a)" src="auto">AUFS6M---------</AM>
-<AM lemma="Havlíčov" src="auto">NNIS6-----A----</AM>
-<AM lemma="havlíčově" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Havlíčkův-2_;G" src="orig" selected="1">AUIS6M---------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-022-p3s1w18">

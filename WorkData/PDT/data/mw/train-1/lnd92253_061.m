@@ -5860,16 +5860,7 @@
 <LM>w#w-lnd92253-061-p11s2w21</LM>
 </w.rf>
 <form>Vitislavem</form>
-<tag><AM lemma="Vitislav_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Vitislav" src="auto">NNIS7-----A----</AM>
-<AM lemma="Vitislavo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Vitislav_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Vitislav_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Vitislav_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Vitislav-1_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Vitislavum" src="auto">NNNS7-----A----</AM>
-<AM lemma="Vitislavo_;G" src="auto">NNNS7-----A----</AM>
-<AM lemma="vitislavem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Vitislav_;Y" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-061-p11s2w22">

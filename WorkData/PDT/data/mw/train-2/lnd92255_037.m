@@ -208,16 +208,7 @@
 <LM>w#w-lnd92255-037-p1s1w22</LM>
 </w.rf>
 <form>Perotwood</form>
-<tag><AM lemma="Perotwood_;G" src="orig">NNIS4-----A----</AM>
-<AM lemma="Perotwood_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perotwood_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Perotwood_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Perotwood_;G" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Perotwood_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Perotwood_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Perotwood_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Perotwood-2_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="perotwood" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Perotwood_;G" src="orig" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-037-p1s1w23">

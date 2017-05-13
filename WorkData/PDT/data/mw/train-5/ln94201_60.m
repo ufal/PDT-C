@@ -1405,15 +1405,7 @@
 <LM>w#w-ln94201-60-p3s4w22</LM>
 </w.rf>
 <form>dřevěnic</form>
-<tag><AM lemma="dřevěnice" src="orig">NNFP2-----A----</AM>
-<AM lemma="dřevěnice" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="dřevěnice_^(*3ík)" src="auto">NNFP2-----A----</AM>
-<AM lemma="dřevěnice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="dřevěnic_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="dřevěnic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dřevěnic" src="auto">Db-------------</AM>
-<AM lemma="dřevěnice_;G_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="dřevěnice-2_^(místo_výkonu_služby)" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="dřevěnice" src="orig" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-60-p3s4w23">
@@ -4887,12 +4879,7 @@
 <LM>w#w-ln94201-60-p6s1w6</LM>
 </w.rf>
 <form>žitkovský</form>
-<tag><AM lemma="žitkovský" src="orig">AAMS1----1A----</AM>
-<AM lemma="žitkovský" src="auto">AAIS1----1A----</AM>
-<AM lemma="žitkovský" src="auto" recommended="1">AAMS1----1A----</AM>
-<AM lemma="žitkovský" src="auto">AAIS4----1A----</AM>
-<AM lemma="žitkovský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="žitkovský_;S" src="auto">AAMS1----1A----</AM>
+<tag><AM lemma="žitkovský" src="orig" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-60-p6s1w7">
@@ -5964,16 +5951,7 @@
 <LM>w#w-ln94201-60-p6s6w8</LM>
 </w.rf>
 <form>maxipřevaděče</form>
-<tag><AM lemma="maxipřevaděč" src="orig">NNMS4-----A----</AM>
-<AM lemma="maxipřevaděč" src="auto">NNIP1-----A----</AM>
-<AM lemma="maxipřevaděč" src="auto">NNIP4-----A----</AM>
-<AM lemma="maxipřevaděč" src="auto">NNIP5-----A----</AM>
-<AM lemma="maxipřevaděč" src="auto">NNIS2-----A----</AM>
-<AM lemma="maxipřevaděč" src="auto">NNMP4-----A----</AM>
-<AM lemma="maxipřevaděč" src="auto">NNMS2-----A----</AM>
-<AM lemma="maxipřevaděč" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="maxipřevaděč_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="maxipřevaděč_;S" src="auto">NNMS4-----A----</AM>
+<tag><AM lemma="maxipřevaděč" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-60-p6s6w9">
@@ -6159,13 +6137,7 @@
 <LM>w#w-ln94201-60-p7s1w2</LM>
 </w.rf>
 <form>Žitkovští</form>
-<tag><AM lemma="Žitkovský_;E" src="orig">NNMP1-----A----</AM>
-<AM lemma="Žitkovský" src="auto" recommended="1">AAMP1----1A----</AM>
-<AM lemma="Žitkovštět_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Žitkovšť" src="auto">NNFS7-----A----</AM>
-<AM lemma="Žitkovšť" src="auto">NNFP2-----A----</AM>
-<AM lemma="Žitkovští" src="auto">AAIS4----1A----</AM>
-<AM lemma="žitkovští" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Žitkovský_;E" src="orig" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-60-p7s1w3">
@@ -6952,16 +6924,7 @@
 <LM>w#w-ln94201-60-p7s5w6</LM>
 </w.rf>
 <form>Žitkovských</form>
-<tag><AM lemma="Žitkovský_;E" src="orig">NNMP2-----A----</AM>
-<AM lemma="Žitkovský" src="auto">AAFP2----1A----</AM>
-<AM lemma="Žitkovský" src="auto">AAIP2----1A----</AM>
-<AM lemma="Žitkovský" src="auto">AAFP6----1A----</AM>
-<AM lemma="Žitkovský" src="auto" recommended="1">AAMP2----1A----</AM>
-<AM lemma="Žitkovský" src="auto">AANP2----1A----</AM>
-<AM lemma="Žitkovský" src="auto">AAIP6----1A----</AM>
-<AM lemma="Žitkovský_^(*2t)" src="auto">AAIP2----1A----</AM>
-<AM lemma="Žitkovský_^(*2t)" src="auto">AAFP2----1A----</AM>
-<AM lemma="žitkovských" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Žitkovský_;E" src="orig" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-60-p7s5w7">

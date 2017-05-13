@@ -753,15 +753,7 @@
 <LM>w#w-lnd92255-115-p3s4w12</LM>
 </w.rf>
 <form>Bonaliovou</form>
-<tag><AM lemma="Bonalyová_;S" src="orig">NNFS7-----A----</AM>
-<AM lemma="Bonaliový" src="auto">AAFS4----1A----</AM>
-<AM lemma="Bonaliový" src="auto">AAFS7----1A----</AM>
-<AM lemma="Bonaliová_;S" src="auto">NNFS7-----A----</AM>
-<AM lemma="Bonaliová_;S" src="auto">NNFS4-----A----</AM>
-<AM lemma="Bonaliova" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="Bonaliův_;S_^(*2)" src="auto">AUFS7M---------</AM>
-<AM lemma="Bonaliova_;G" src="auto">NNFS7-----A----</AM>
-<AM lemma="bonaliovou" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bonalyová_;S" src="orig" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-115-p3s4w13">
@@ -921,14 +913,7 @@
 <LM>w#w-lnd92255-115-p3s5w9</LM>
 </w.rf>
 <form>axela</form>
-<tag><AM lemma="axel" src="orig">NNMS4-----A----</AM>
-<AM lemma="axet_:T" src="auto" recommended="1">VpQW---XR-AA---</AM>
-<AM lemma="axet" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="axel_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="axel_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="axela_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="axela" src="auto">NNFS1-----A----</AM>
-<AM lemma="axít" src="auto">VpQW---XR-AA---</AM>
+<tag><AM lemma="axel" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-115-p3s5w10">
@@ -1204,16 +1189,7 @@
 <LM>w#w-lnd92255-115-p3s7w9</LM>
 </w.rf>
 <form>Kagiyma</form>
-<tag><AM lemma="Kagiyma_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kagiymum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Kagiym_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kagiyma_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kagiyma" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kagiyma" src="auto">NNNS1-----A----</AM>
-<AM lemma="Kagiyma_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kagiyma" src="auto">NNNS4-----A----</AM>
-<AM lemma="Kagiyma_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="kagiyma" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kagiyma_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-115-p3s7w10">

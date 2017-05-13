@@ -113,14 +113,7 @@
 <LM>w#w-lnd92259-062-p3s1w3</LM>
 </w.rf>
 <form>vyb</form>
-<tag><AM lemma="vyb-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vyb-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="vyba" src="auto">NNFP2-----A----</AM>
-<AM lemma="vyb" src="auto">NNIS4-----A----</AM>
-<AM lemma="vyb" src="auto">NNIS1-----A----</AM>
-<AM lemma="vyb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="vyb_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="vyb_;G" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="vyb-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-062-p3s1w4">

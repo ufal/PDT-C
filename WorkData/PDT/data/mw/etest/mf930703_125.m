@@ -684,15 +684,7 @@
 <LM>w#w-mf930703-125-p2s4w10</LM>
 </w.rf>
 <form>Faraha</form>
-<tag><AM lemma="Farah_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Faraha" src="auto">NNFS1-----A----</AM>
-<AM lemma="Farah_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Faraho" src="auto">NNNS2-----A----</AM>
-<AM lemma="Farah_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Farah_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Farah" src="auto">NNMS4-----A----</AM>
-<AM lemma="Farah" src="auto">NNMS2-----A----</AM>
-<AM lemma="faraha" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Farah_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-125-p2s4w11">

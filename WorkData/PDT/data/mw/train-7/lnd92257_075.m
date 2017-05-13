@@ -66,17 +66,7 @@
 <LM>w#w-lnd92257-075-p1s2w1</LM>
 </w.rf>
 <form>BAILEYHO</form>
-<tag><AM lemma="Bailey_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Bailey_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Bailey_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bailey_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bailey_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bailey_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bailey_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Baile_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bailey_;S_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bailey_;S_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="baileyho" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bailey_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 </s>

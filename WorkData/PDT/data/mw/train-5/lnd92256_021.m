@@ -441,16 +441,7 @@
 <LM>w#w-lnd92256-021-p3s2w35</LM>
 </w.rf>
 <form>Reallex</form>
-<tag><AM lemma="Reallex_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Reallex_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Reallex" src="auto">NNIS1-----A----</AM>
-<AM lemma="Reallex_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Reallex" src="auto">NNIS4-----A----</AM>
-<AM lemma="Reallex_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Reallex_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Reallex-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Reallex_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="reallex" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Reallex_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-021-p3s2w36">

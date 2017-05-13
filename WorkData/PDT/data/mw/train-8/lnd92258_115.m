@@ -721,11 +721,7 @@
 <LM>w#w-lnd92258-115-p4s1w9</LM>
 </w.rf>
 <form>centenárium</form>
-<tag><AM lemma="centenárium" src="orig">NNNS1-----A----</AM>
-<AM lemma="centenárium" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="centenárium" src="auto">NNNS4-----A----</AM>
-<AM lemma="centenárium_;L_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="centenárium_;K" src="auto">NNNS1-----A----</AM>
+<tag><AM lemma="centenárium" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-115-p4s1w10">
@@ -2971,15 +2967,7 @@
 <LM>w#w-lnd92258-115-p10s3w7</LM>
 </w.rf>
 <form>Te</form>
-<tag><AM lemma="tu-2_,t" src="orig">PP-S4--2-------</AM>
-<AM lemma="Te_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Te" src="auto">NNFS2-----A----</AM>
-<AM lemma="Te" src="auto">NNFS1-----A----</AM>
-<AM lemma="Te" src="auto">NNFP1-----A----</AM>
-<AM lemma="Te" src="auto">NNFP4-----A----</AM>
-<AM lemma="T_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="te_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="it_:W" src="auto">Vi-P---2--A----</AM>
+<tag><AM lemma="tu-2_,t" src="orig" selected="1">PP-S4--2-------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-115-p10s3w8">
@@ -2988,18 +2976,7 @@
 <LM>w#w-lnd92258-115-p10s3w8</LM>
 </w.rf>
 <form>deum</form>
-<tag><AM lemma="deus_,t" src="orig">NNMS4-----A----</AM>
-<AM lemma="deum" src="auto">NNIS1-----A----</AM>
-<AM lemma="deum" src="auto">NNIS4-----A----</AM>
-<AM lemma="deum" src="auto">NNNS1-----A----</AM>
-<AM lemma="deum" src="auto">NNNS4-----A----</AM>
-<AM lemma="deum_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="deum_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="deum_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="deum_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="deumělec_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="deumělkyně_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="deus_,t" src="auto">NNMS4-----A----</AM>
+<tag><AM lemma="deus_,t" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-115-p10s3w9">

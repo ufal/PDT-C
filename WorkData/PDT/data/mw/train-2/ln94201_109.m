@@ -974,16 +974,7 @@
 <LM>w#w-ln94201-109-p3s4w11</LM>
 </w.rf>
 <form>Republic</form>
-<tag><AM lemma="Republic_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Republice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Republic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Republice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Republic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Republíce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Republic_;R_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Republic_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Republic_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="republic" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Republic_;R_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-109-p3s4w12">
@@ -1049,14 +1040,7 @@
 <LM>w#w-ln94201-109-p3s4w18</LM>
 </w.rf>
 <form>Books</form>
-<tag><AM lemma="Book_;R_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Book_;R_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Books_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Books_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Book_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Books" src="auto">NNIS4-----A----</AM>
-<AM lemma="Book_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="books" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Book_;R_,t" src="orig" selected="1">NNFPX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-109-p3s4w19">
@@ -1294,13 +1278,7 @@
 <LM>w#w-ln94201-109-p4s2w16</LM>
 </w.rf>
 <form>tampaxů</form>
-<tag><AM lemma="tampax" src="orig">NNIP2-----A----</AM>
-<AM lemma="tampax" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="tampax-1" src="auto">NNIP2-----A----</AM>
-<AM lemma="tampax" src="auto">NNMP2-----A----</AM>
-<AM lemma="tampaxa" src="auto">NNMP2-----A----</AM>
-<AM lemma="tampax_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="tampaxe" src="auto">NNMP2-----A----</AM>
+<tag><AM lemma="tampax" src="orig" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-109-p4s2w17">

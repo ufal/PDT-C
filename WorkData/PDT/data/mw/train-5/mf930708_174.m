@@ -66,16 +66,7 @@
 <LM>w#w-mf930708-174-p2s1w1</LM>
 </w.rf>
 <form>Longega</form>
-<tag><AM lemma="Longega_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Longega_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Longego_;S_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Longego_;S_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Longega_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Longega_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Longega_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Longega_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Longega_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="longega" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Longega_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-174-p2s1w2">

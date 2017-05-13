@@ -356,18 +356,7 @@
 <LM>w#w-lnd92258-110-p3s1w4</LM>
 </w.rf>
 <form>Speranzy</form>
-<tag><AM lemma="Speranza_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Speranz" src="auto">NNIP1-----A----</AM>
-<AM lemma="Speranz" src="auto">NNIP4-----A----</AM>
-<AM lemma="Speranz" src="auto">NNIP7-----A----</AM>
-<AM lemma="Speranza" src="auto">NNFP1-----A----</AM>
-<AM lemma="Speranza" src="auto">NNFS2-----A----</AM>
-<AM lemma="Speranza-2_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Speranza_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Speranza_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="speranzy" src="auto">NNMS1-----A----</AM>
-<AM lemma="speranzy-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="speranzygion_:B_;U_^(kraniometrický_bod)" src="auto">NNIXX-----A---8</AM>
+<tag><AM lemma="Speranza_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-110-p3s1w5">
@@ -2267,15 +2256,7 @@
 <LM>w#w-lnd92258-110-p10s1w12</LM>
 </w.rf>
 <form>Perrenoud</form>
-<tag><AM lemma="Perrenoud_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Perrenoud" src="auto">NNIS1-----A----</AM>
-<AM lemma="Perrenoud" src="auto">NNIS4-----A----</AM>
-<AM lemma="Perrenoud_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perrenoud_;K_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perrenoud_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Perrenoud-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perrenoud" src="auto">NNMS1-----A----</AM>
-<AM lemma="perrenoud" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Perrenoud_;K" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-110-p10s1w13">

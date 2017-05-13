@@ -675,16 +675,7 @@
 <LM>w#w-lnd92258-096-p3s3w24</LM>
 </w.rf>
 <form>Cehia</form>
-<tag><AM lemma="Cehia_;G_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Cehia_;R_,t" src="auto">NNNP1-----A----</AM>
-<AM lemma="Cehia_;L_;U_,t_^(bakterie)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Cehia_;G" src="auto">NNFS1-----A---1</AM>
-<AM lemma="Cehium" src="auto">NNNS2-----A----</AM>
-<AM lemma="Cehia_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cehium" src="auto">NNNP4-----A----</AM>
-<AM lemma="Cehium" src="auto">NNNP1-----A----</AM>
-<AM lemma="Cehia_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="cehia" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cehia_;G_,t" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-096-p3s3w25">
@@ -996,15 +987,7 @@
 <LM>w#w-lnd92258-096-p3s5w2</LM>
 </w.rf>
 <form>Republica</form>
-<tag><AM lemma="Republica_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Republica_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Republica_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Republica_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Republica_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Republica_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Republica_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Republica_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="republica" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Republica_,t" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-096-p3s5w3">
@@ -1013,13 +996,7 @@
 <LM>w#w-lnd92258-096-p3s5w3</LM>
 </w.rf>
 <form>Cehá</form>
-<tag><AM lemma="Cehá_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="Cehý" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="Cehat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Cehat_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Cehý" src="auto">AANP4----1A----</AM>
-<AM lemma="Cehý" src="auto">AANP1----1A----</AM>
-<AM lemma="cehá" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cehá_,t" src="orig" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-096-p3s5w4">

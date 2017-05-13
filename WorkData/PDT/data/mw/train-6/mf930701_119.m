@@ -997,16 +997,7 @@
 <LM>w#w-mf930701-119-p2s7w3</LM>
 </w.rf>
 <form>Piolina</form>
-<tag><AM lemma="Pioline_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Piolina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Piolin_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Piolina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Piolin_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Piolina_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Piolina_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Piolin_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Piolina_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="piolina" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pioline_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-119-p2s7w4">

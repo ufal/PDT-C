@@ -2048,16 +2048,7 @@
 <LM>w#w-mf930701-087-p7s4w6</LM>
 </w.rf>
 <form>Osohová</form>
-<tag><AM lemma="Osohová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Osohová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Osohový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Osohový" src="auto">AANP1----1A----</AM>
-<AM lemma="Osohový" src="auto">AANP4----1A----</AM>
-<AM lemma="Osohová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Osohová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Osohový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Osohový" src="auto">AAFS5----1A----</AM>
-<AM lemma="osohová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Osohová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-087-p7s4w7">

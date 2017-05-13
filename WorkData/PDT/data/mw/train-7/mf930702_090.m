@@ -66,15 +66,7 @@
 <LM>w#w-mf930702-090-p2s1w3</LM>
 </w.rf>
 <form>hd</form>
-<tag><AM lemma="hd-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="hd-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="hd" src="auto">NNIS1-----A----</AM>
-<AM lemma="hd" src="auto">NNIS4-----A----</AM>
-<AM lemma="hda" src="auto">NNFP2-----A----</AM>
-<AM lemma="hd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="hd_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="hd_,t" src="auto">AAXXX----1A----</AM>
+<tag><AM lemma="hd-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-090-p2s1w4">
@@ -981,14 +973,7 @@
 <LM>w#w-mf930702-090-p3s2w14</LM>
 </w.rf>
 <form>Rider</form>
-<tag><AM lemma="Rider_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Rider_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rider_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Ridro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Rider_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Ridry_;G" src="auto">NNIP2-----A---1</AM>
-<AM lemma="Ridra_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="rider" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rider_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-090-p3s2w15">
@@ -1141,14 +1126,7 @@
 <LM>w#w-mf930702-090-p3s2w31</LM>
 </w.rf>
 <form>Rider</form>
-<tag><AM lemma="Rider_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Rider_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rider_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Ridro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Rider_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Ridry_;G" src="auto">NNIP2-----A---1</AM>
-<AM lemma="Ridra_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="rider" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rider_;R" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-090-p3s2w32">
@@ -1467,14 +1445,7 @@
 <LM>w#w-mf930702-090-p3s4w9</LM>
 </w.rf>
 <form>Rider</form>
-<tag><AM lemma="Rider_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Rider_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rider_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Ridro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Rider_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Ridry_;G" src="auto">NNIP2-----A---1</AM>
-<AM lemma="Ridra_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="rider" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rider_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-090-p3s4w10">

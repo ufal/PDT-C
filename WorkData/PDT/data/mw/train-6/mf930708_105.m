@@ -19,16 +19,7 @@
 <LM>w#w-mf930708-105-p1s1w1</LM>
 </w.rf>
 <form>Piironen</form>
-<tag><AM lemma="Piironen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Piironen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="vinný-1_^(kdo_je_Piironen/vinna)" src="auto">ACYS------A----</AM>
-<AM lemma="Piirone_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Piironný" src="auto">ACYS------A----</AM>
-<AM lemma="Piironna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Piiron_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Piironen" src="auto">PDYS1----------</AM>
-<AM lemma="Piironen" src="auto">PDIS4----------</AM>
-<AM lemma="piironen" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Piironen_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-105-p1s1w2">
@@ -232,16 +223,7 @@
 <LM>w#w-mf930708-105-p2s3w4</LM>
 </w.rf>
 <form>Piironen</form>
-<tag><AM lemma="Piironen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Piironen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="vinný-1_^(kdo_je_Piironen/vinna)" src="auto">ACYS------A----</AM>
-<AM lemma="Piirone_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Piironný" src="auto">ACYS------A----</AM>
-<AM lemma="Piironna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Piiron_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Piironen" src="auto">PDYS1----------</AM>
-<AM lemma="Piironen" src="auto">PDIS4----------</AM>
-<AM lemma="piironen" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Piironen_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-105-p2s3w5">

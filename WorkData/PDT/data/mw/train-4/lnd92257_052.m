@@ -541,15 +541,7 @@
 <LM>w#w-lnd92257-052-p3s3w8</LM>
 </w.rf>
 <form>Lusa</form>
-<tag><AM lemma="Lusa_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Lus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Lus_;E" src="auto">NNMS4-----A----</AM>
-<AM lemma="Lus_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="Lusa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lusa_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Lusa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lusa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="lusa" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lusa_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-052-p3s3w9">
@@ -1241,15 +1233,7 @@
 <LM>w#w-lnd92257-052-p4s2w11</LM>
 </w.rf>
 <form>Tropico</form>
-<tag><AM lemma="Tropico_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tropico_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Tropico_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tropiko_;G_,t_,x" src="auto">NNNXX-----A----</AM>
-<AM lemma="TropiCo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tropico_;m_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tropico_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tropico_;Y" src="auto">AAXXX----1A----</AM>
-<AM lemma="tropico" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tropico_;K" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-052-p4s2w12">
@@ -1572,16 +1556,7 @@
 <LM>w#w-lnd92257-052-p4s5w6</LM>
 </w.rf>
 <form>Elías</form>
-<tag><AM lemma="Elías_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Elías_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Elías_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Elías" src="auto">NNIS1-----A----</AM>
-<AM lemma="Elías" src="auto">NNIS4-----A----</AM>
-<AM lemma="Elías_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Elías_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Elías" src="auto">Db-------------</AM>
-<AM lemma="Elías" src="auto">NNMS1-----A----</AM>
-<AM lemma="elías" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Elías_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-052-p4s5w7">
@@ -1590,15 +1565,7 @@
 <LM>w#w-lnd92257-052-p4s5w7</LM>
 </w.rf>
 <form>Salupeto</form>
-<tag><AM lemma="Salupeto_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Salupeto" src="auto">NNNS1-----A----</AM>
-<AM lemma="Salupeto" src="auto">NNNS4-----A----</AM>
-<AM lemma="Salupeto_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Salupeta" src="auto">NNFS5-----A----</AM>
-<AM lemma="Salupet" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="Salupeto_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Salupeto_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="salupeto" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Salupeto_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-052-p4s5w8">
@@ -1919,13 +1886,7 @@
 <LM>w#w-lnd92257-052-p5s2w2</LM>
 </w.rf>
 <form>Lusy</form>
-<tag><AM lemma="Lusa_;K" src="orig">NNFS2-----A----</AM>
-<AM lemma="Lus" src="auto">NNIP1-----A----</AM>
-<AM lemma="Lus" src="auto">NNIP4-----A----</AM>
-<AM lemma="Lus" src="auto">NNIP7-----A----</AM>
-<AM lemma="Lusa" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Lus" src="auto">NNMP4-----A----</AM>
-<AM lemma="lusy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lusa_;K" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-052-p5s2w3">

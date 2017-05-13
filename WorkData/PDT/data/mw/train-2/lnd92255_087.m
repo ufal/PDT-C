@@ -312,16 +312,7 @@
 <LM>w#w-lnd92255-087-p2s2w9</LM>
 </w.rf>
 <form>Fame</form>
-<tag><AM lemma="Fame_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Famat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Fame_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fame_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Fame_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fame_;K" src="auto">NNNSX-----A----</AM>
-<AM lemma="Fame_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fame_,t_^(hra)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fame_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="fame" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Fame_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-087-p2s2w10">
@@ -1380,13 +1371,7 @@
 <LM>w#w-lnd92255-087-p6s1w9</LM>
 </w.rf>
 <form>Soběský</form>
-<tag><AM lemma="Soběský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Soběský" src="auto">AAIS1----1A----</AM>
-<AM lemma="Soběský" src="auto">AAMS1----1A----</AM>
-<AM lemma="Soběský" src="auto">AAIS4----1A----</AM>
-<AM lemma="Soběský_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Soběský_;S" src="auto">AAMS1----1A----</AM>
-<AM lemma="soběský" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Soběský_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-087-p6s1w10">

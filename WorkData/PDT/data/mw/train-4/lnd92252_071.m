@@ -893,15 +893,7 @@
 <LM>w#w-lnd92252-071-p5s1w12</LM>
 </w.rf>
 <form>Abulfazem</form>
-<tag><AM lemma="Abulfaz_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Abulfaz" src="auto">NNIS7-----A----</AM>
-<AM lemma="Abulfaz_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Abulfaz_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Abulfas" src="auto">NNIS7-----A----</AM>
-<AM lemma="Abulfazo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Abulfaz_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Abulfaz" src="auto">NNMS7-----A----</AM>
-<AM lemma="abulfazem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Abulfaz_;Y" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-071-p5s1w13">

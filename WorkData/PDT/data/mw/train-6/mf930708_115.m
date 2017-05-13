@@ -64,12 +64,7 @@
 <LM>w#w-mf930708-115-p1s1w6</LM>
 </w.rf>
 <form>rá</form>
-<tag><AM lemma="rá-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="rý" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="rý" src="auto">PZFS1----------</AM>
-<AM lemma="rat_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="rý" src="auto">AANP1----1A----</AM>
+<tag><AM lemma="rá-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-115-p1s1w7">
@@ -968,12 +963,7 @@
 <LM>w#w-mf930708-115-p1s5w2</LM>
 </w.rf>
 <form>rá</form>
-<tag><AM lemma="rá-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="rý" src="auto">AAFS1----1A----</AM>
-<AM lemma="rý" src="auto" recommended="1">PZFS1----------</AM>
-<AM lemma="rat_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="rý" src="auto">AANP1----1A----</AM>
+<tag><AM lemma="rá-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-115-p1s5w3">

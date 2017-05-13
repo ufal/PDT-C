@@ -151,21 +151,7 @@
 <LM>w#w-lnd92254-016-p1s1w15</LM>
 </w.rf>
 <form>LIBRI</form>
-<tag><AM lemma="Libri_;m_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="LIBRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="LIBRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto">NNFXX-----A----</AM>
-<AM lemma="LIBRI_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="LIBRI_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="LIBRI_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Libri_;m_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Libri_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Libri_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Libri_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Libri_,t" src="auto">Db-------------</AM>
-<AM lemma="Libri_;m" src="auto">ClXP1----------</AM>
-<AM lemma="Libri_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Libri_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="libri" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Libri_;m_,t" src="orig" selected="1">NNFPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-016-p1s1w16">

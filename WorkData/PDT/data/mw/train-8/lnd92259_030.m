@@ -271,22 +271,7 @@
 <LM>w#w-lnd92259-030-p2s2w21</LM>
 </w.rf>
 <form>FESTO</form>
-<tag><AM lemma="Festo_;R" src="orig">NNNS1-----A----</AM>
-<AM lemma="Festo_;R" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="FESTO_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNS1-----A----</AM>
-<AM lemma="FESTO_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="FESTO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="FESTO-1_:B_^(lehký_topný_olej)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="FESTO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Festo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Festo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Festo-3" src="auto">J,-------------</AM>
-<AM lemma="Festo-2_^(záměnou_za)" src="auto">RR--2----------</AM>
-<AM lemma="Festo" src="auto">NNNS4-----A----</AM>
-<AM lemma="Festo" src="auto">Dg-------1A----</AM>
-<AM lemma="sto-1`100_^(bez_sto_mužů,_Festo_dětem,...)" src="auto">ClXP7----------</AM>
-<AM lemma="sto-1`100_^(bez_sto_mužů,_Festo_dětem,...)" src="auto">ClXP6----------</AM>
-<AM lemma="festo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Festo_;R" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-030-p2s2w22">
@@ -295,21 +280,7 @@
 <LM>w#w-lnd92259-030-p2s2w22</LM>
 </w.rf>
 <form>DIDACTIC</form>
-<tag><AM lemma="Didactic_;R" src="orig">AAXXX----1A----</AM>
-<AM lemma="Didactic_;R" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="IC-7_:B_;K_^(DIDACTIC_Banka)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="DIDACTIC_:B_;K_,t_^(Mez._org._svazů_chemie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DIDACTIC_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DIDACTIC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Didactice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Didactic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Didactice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Didactice" src="auto">NNFP2-----A---1</AM>
-<AM lemma="Didactic_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Didactic_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Didactic_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Didactic_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="didactic" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Didactic_;R" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-030-p2s2w23">

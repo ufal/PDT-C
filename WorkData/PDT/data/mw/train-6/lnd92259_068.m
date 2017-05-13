@@ -3168,16 +3168,7 @@
 <LM>w#w-lnd92259-068-p8s1w18</LM>
 </w.rf>
 <form>Notch</form>
-<tag><AM lemma="Notch_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="Notch_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Notch_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Notch_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Notch_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Notch_;G" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Notch_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Notch_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Not" src="auto">AAFP2----1A----</AM>
-<AM lemma="notch" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Notch_;G" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-068-p8s1w19">
@@ -3422,20 +3413,7 @@
 <LM>w#w-lnd92259-068-p8s2w16</LM>
 </w.rf>
 <form>Perot</form>
-<tag><AM lemma="Perota_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Perot" src="auto">NNIS1-----A----</AM>
-<AM lemma="Perot" src="auto">NNIS4-----A----</AM>
-<AM lemma="Perot" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perot_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Perot_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perota" src="auto">NNFP2-----A----</AM>
-<AM lemma="Perota_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Peroteska_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="perot" src="auto">NNMS1-----A----</AM>
-<AM lemma="perot-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="perot-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="perotelefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
-<AM lemma="perotáčka_:B" src="auto">NNFXX-----A---8</AM>
+<tag><AM lemma="Perota_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-068-p8s2w17">
@@ -3836,17 +3814,7 @@
 <LM>w#w-lnd92259-068-p9s1w18</LM>
 </w.rf>
 <form>Sinead</form>
-<tag><AM lemma="Sinéad_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Sinead_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sinead_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sinead_;K_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Sinead_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Sinead_;R_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Sinead_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sinead_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sinéad_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="sinead" src="auto">NNMS1-----A----</AM>
-<AM lemma="sineadalší_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="Sinéad_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-068-p9s1w19">
@@ -4449,14 +4417,7 @@
 <LM>w#w-lnd92259-068-p9s4w8</LM>
 </w.rf>
 <form>Murphey</form>
-<tag><AM lemma="Murphey_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Murphey_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Murphey_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Murphey_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Murphey_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Murphey_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Murphey_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="murphey" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Murphey_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-068-p9s4w9">

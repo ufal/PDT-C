@@ -140,16 +140,7 @@
 <LM>w#w-ln94201-120-p1s1w14</LM>
 </w.rf>
 <form>Bareket</form>
-<tag><AM lemma="Bareket_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Bareketa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bareket" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bareket" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bareket_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Bareket_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bareket-2_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bareket_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Bareket" src="auto">Vf--------A----</AM>
-<AM lemma="bareket" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bareket_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-120-p1s1w15">
@@ -167,16 +158,7 @@
 <LM>w#w-ln94201-120-p1s1w16</LM>
 </w.rf>
 <form>Yaakovové</form>
-<tag><AM lemma="Yaakovová_;S" src="orig">NNFS2-----A----</AM>
-<AM lemma="Yaakovový" src="auto">AAFS2----1A----</AM>
-<AM lemma="Yaakovová_;S" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Yaakovový" src="auto">AAFS6----1A----</AM>
-<AM lemma="Yaakovový" src="auto">AAFP1----1A----</AM>
-<AM lemma="Yaakovový" src="auto">AAIP1----1A----</AM>
-<AM lemma="Yaakovový" src="auto">AAIP4----1A----</AM>
-<AM lemma="Yaakovový" src="auto">AAFP4----1A----</AM>
-<AM lemma="Yaakovový" src="auto">AANS1----1A----</AM>
-<AM lemma="yaakovové" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Yaakovová_;S" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-120-p1s1w17">

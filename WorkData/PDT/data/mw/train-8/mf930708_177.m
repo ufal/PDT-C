@@ -311,14 +311,7 @@
 <LM>w#w-mf930708-177-p2s2w2</LM>
 </w.rf>
 <form>Hannán</form>
-<tag><AM lemma="Hannán_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Hannat_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="zaměstnat-1_:W_^(všeob._význam:_činnost,_Hannání)" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Hannat_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Hannat" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Hannán_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Hannán" src="auto">NNIS1-----A----</AM>
-<AM lemma="hannán" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hannán_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-177-p2s2w3">

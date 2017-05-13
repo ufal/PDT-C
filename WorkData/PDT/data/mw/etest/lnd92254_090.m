@@ -822,16 +822,7 @@
 <LM>w#w-lnd92254-090-p2s4w32</LM>
 </w.rf>
 <form>Tschechei</form>
-<tag><AM lemma="Tschechei_;G_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tschechei_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Tschechei_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tschechei_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Dei_;S_^(Tschechei-Anang)" src="auto">A2--------A----</AM>
-<AM lemma="Tschecheum" src="auto">NNNP7-----A----</AM>
-<AM lemma="Tschechei_;b_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tschechei_;K_,t" src="auto">RR--X----------</AM>
-<AM lemma="Tschechei_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="tschechei" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tschechei_;G_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-090-p2s4w33">
@@ -876,16 +867,7 @@
 <LM>w#w-lnd92254-090-p2s4w37</LM>
 </w.rf>
 <form>Slowakei</form>
-<tag><AM lemma="Slowakei_;G_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Slowakei_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Slowakei_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Slowakei_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dei_;S_^(Slowakei-Anang)" src="auto">A2--------A----</AM>
-<AM lemma="Slowakeum" src="auto">NNNP7-----A----</AM>
-<AM lemma="Slowakei_;b_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Slowakei_;K_,t" src="auto">RR--X----------</AM>
-<AM lemma="Slowakei_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="slowakei" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Slowakei_;G_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-090-p2s4w38">

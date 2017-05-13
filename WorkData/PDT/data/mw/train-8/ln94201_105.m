@@ -3965,15 +3965,7 @@
 <LM>w#w-ln94201-105-p7s1w2</LM>
 </w.rf>
 <form>podsektou</form>
-<tag><AM lemma="podsekta" src="orig">NNFS7-----A----</AM>
-<AM lemma="podsekta" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="podsekta" src="auto">NNMS7-----A----</AM>
-<AM lemma="podsekta_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="podsektý" src="auto">AAFS4----1A----</AM>
-<AM lemma="podsektý" src="auto">AAFS7----1A----</AM>
-<AM lemma="podsektý" src="auto">CrFS4----------</AM>
-<AM lemma="podsektý" src="auto">CrFS7----------</AM>
-<AM lemma="podsektý_^(*3out)" src="auto">AAFS4----1A----</AM>
+<tag><AM lemma="podsekta" src="orig" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-105-p7s1w3">
@@ -5219,15 +5211,7 @@
 <LM>w#w-ln94201-105-p7s7w26</LM>
 </w.rf>
 <form>prügelpatentu</form>
-<tag><AM lemma="prügelpatent" src="orig">NNIS2-----A----</AM>
-<AM lemma="prügelpatent" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="prügelpatent" src="auto">NNIS6-----A----</AM>
-<AM lemma="prügelpatent" src="auto">NNIS3-----A----</AM>
-<AM lemma="prügelpatent" src="auto">NNIS6-----A---1</AM>
-<AM lemma="prügelpatenta" src="auto">NNFS4-----A----</AM>
-<AM lemma="prügelpatent" src="auto">NNMS3-----A---1</AM>
-<AM lemma="prügelpatent_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="prügelpatento_;G" src="auto">NNNS6-----A----</AM>
+<tag><AM lemma="prügelpatent" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-105-p7s7w27">

@@ -981,19 +981,7 @@
 <LM>w#w-lnd92259-073-p4s3w13</LM>
 </w.rf>
 <form>OMON</form>
-<tag><AM lemma="OMON_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="OMON_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OMON_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Omon" src="auto">NNIS1-----A----</AM>
-<AM lemma="Omon" src="auto">NNIS4-----A----</AM>
-<AM lemma="Omon" src="auto">NNMS1-----A----</AM>
-<AM lemma="Omon_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Omon_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Omon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Omon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Omon_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="omon" src="auto">NNMS1-----A----</AM>
-<AM lemma="omon_,t_^(ve_spojení_mon-khmerský_jazyk)" src="auto">A2--------A----</AM>
+<tag><AM lemma="OMON_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-073-p4s3w14">

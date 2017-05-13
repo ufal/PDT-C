@@ -423,16 +423,7 @@
 <LM>w#w-mf930708-025-p2s4w3</LM>
 </w.rf>
 <form>Lengera</form>
-<tag><AM lemma="Lenger_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Lenger_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Lenger_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Lengera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lenger" src="auto">NNMS4-----A----</AM>
-<AM lemma="Lenger" src="auto">NNMS2-----A----</AM>
-<AM lemma="Lengera" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lenger_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Lengero" src="auto">NNNS2-----A----</AM>
-<AM lemma="lengera" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lenger_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-025-p2s4w4">

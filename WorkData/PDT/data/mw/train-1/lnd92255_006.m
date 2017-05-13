@@ -3907,15 +3907,7 @@
 <LM>w#w-lnd92255-006-p7s1w2</LM>
 </w.rf>
 <form>ge</form>
-<tag><AM lemma="ge-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ge_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ge_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ge_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="ge_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="ge_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ge_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ge_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="ge_;Y_,t" src="auto">NNMS2-----A----</AM>
+<tag><AM lemma="ge-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-006-p7s1w3">

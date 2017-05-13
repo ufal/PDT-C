@@ -1684,15 +1684,7 @@
 <LM>w#w-mf930708-091-p2s13w4</LM>
 </w.rf>
 <form>gao</form>
-<tag><AM lemma="gao_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="gao_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="gao_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="tao_,t_^(gaoistický_pojem)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Sao_;G_^(gao_Paulo)" src="auto">NNNSX-----A----</AM>
-<AM lemma="gao_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="gao_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="gao_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="gao_,t" src="auto">TT-------------</AM>
+<tag><AM lemma="gao_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-091-p2s13w5">

@@ -428,16 +428,7 @@
 <LM>w#w-mf930702-128-p2s2w18</LM>
 </w.rf>
 <form>Pannel</form>
-<tag><AM lemma="Pannel_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Pannel_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pannel" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pannel" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pannel_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pannel_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pannel_;K" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Pannel-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Pannel" src="auto">NNMS1-----A----</AM>
-<AM lemma="pannel" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pannel_;K" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-128-p2s2w19">

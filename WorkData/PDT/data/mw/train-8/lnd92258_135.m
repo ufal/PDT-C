@@ -1759,16 +1759,7 @@
 <LM>w#w-lnd92258-135-p4s3w52</LM>
 </w.rf>
 <form>Klostenburg</form>
-<tag><AM lemma="Klostenburg_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Klostenburg_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Klostenburg" src="auto">NNMS1-----A----</AM>
-<AM lemma="Klostenburk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Klostenburg_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Klostenburg_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Klostenburg_;G_^(osada)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Klostenburgentina_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Klostenburga_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="klostenburg" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Klostenburg_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-135-p4s3w53">
@@ -1913,16 +1904,7 @@
 <LM>w#w-lnd92258-135-p4s3w68</LM>
 </w.rf>
 <form>Mollensdorf</form>
-<tag><AM lemma="Mollensdorf_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mollensdorf_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mollensdorf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mollensdorf" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mollensdorf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mollensdorf" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mollensdorf" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mollensdorf-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Mollensdorf_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="mollensdorf" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mollensdorf_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-135-p4s3w69">

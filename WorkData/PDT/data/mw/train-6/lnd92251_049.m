@@ -104,15 +104,7 @@
 <LM>w#w-lnd92251-049-p3s1w3</LM>
 </w.rf>
 <form>jaf</form>
-<tag><AM lemma="jaf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jaf-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jaf" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf" src="auto">NNIS4-----A----</AM>
-<AM lemma="jaf" src="auto">NNIS1-----A----</AM>
-<AM lemma="jaf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="jaf_;R" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="jaf-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92251-049-p3s1w4">

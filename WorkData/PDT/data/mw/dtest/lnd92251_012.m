@@ -738,16 +738,7 @@
 <LM>w#w-lnd92251-012-p2s4w6</LM>
 </w.rf>
 <form>Harwin</form>
-<tag><AM lemma="Harwin_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Harwin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Harwin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Harwin_;G" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Harwina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Harwin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Harwin" src="auto">NNIS4-----A----</AM>
-<AM lemma="Harwin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Harwin_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="harwin" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Harwin_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-012-p2s4w7">
@@ -784,16 +775,7 @@
 <LM>w#w-lnd92251-012-p2s4w10</LM>
 </w.rf>
 <form>Componente</form>
-<tag><AM lemma="Componente_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Componente_;K" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Componente_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Componente_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Component" src="auto">NNIS5-----A----</AM>
-<AM lemma="Componente_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Componente_,t" src="auto">RR--X----------</AM>
-<AM lemma="Componente_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="Componente_,t" src="auto">Db-------------</AM>
-<AM lemma="componente" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Componente_;K" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-012-p2s4w11">

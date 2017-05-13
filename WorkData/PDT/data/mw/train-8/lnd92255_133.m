@@ -131,16 +131,7 @@
 <LM>w#w-lnd92255-133-p2s2w9</LM>
 </w.rf>
 <form>Gunde</form>
-<tag><AM lemma="Gunde_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gunde" src="auto">Db-------------</AM>
-<AM lemma="Monde_;R_^(Le_Gunde)" src="auto">NNISX-----A----</AM>
-<AM lemma="Monde_;R_^(Le_Gunde)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gunde_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gunde_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gunde_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gunde_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Gunde_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="gunde" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gunde_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-133-p2s2w10">
@@ -295,16 +286,7 @@
 <LM>w#w-lnd92255-133-p2s3w7</LM>
 </w.rf>
 <form>Gunde</form>
-<tag><AM lemma="Gunde_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gunde" src="auto">Db-------------</AM>
-<AM lemma="Monde_;R_^(Le_Gunde)" src="auto">NNISX-----A----</AM>
-<AM lemma="Monde_;R_^(Le_Gunde)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gunde_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gunde_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Gunde_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gunde_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Gunde_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="gunde" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gunde_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-133-p2s3w8">

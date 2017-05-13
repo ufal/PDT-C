@@ -66,17 +66,7 @@
 <LM>w#w-mf930708-042-p2s1w3</LM>
 </w.rf>
 <form>vd</form>
-<tag><AM lemma="vd-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vd" src="auto">NNIS1-----A----</AM>
-<AM lemma="vd" src="auto">NNIS4-----A----</AM>
-<AM lemma="vd-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="vd-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
-<AM lemma="vd-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="vd_:B_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="vd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="vd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="vda" src="auto">NNFP2-----A----</AM>
-<AM lemma="vda-1" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="vd-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-042-p2s1w4">

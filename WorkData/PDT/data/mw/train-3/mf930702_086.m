@@ -3562,22 +3562,7 @@
 <LM>w#w-mf930702-086-p2s25w15</LM>
 </w.rf>
 <form>VfB</form>
-<tag><AM lemma="VfB_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="VfB_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VfB_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="VfB_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VfB_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VfB_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VfB_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VfB_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Vfb" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vfb" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vfba" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vfb_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vfb-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Vfb_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vfb_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="vfb" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="VfB_:B_;K" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-086-p2s25w16">
@@ -3687,15 +3672,7 @@
 <LM>w#w-mf930702-086-p2s26w5</LM>
 </w.rf>
 <form>Praženica</form>
-<tag><AM lemma="Praženica_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Praženica_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Praženica_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Praženica_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Praženica_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Praženica_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Praženica_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Praženica_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="praženica" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Praženica_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-086-p2s26w6">

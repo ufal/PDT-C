@@ -19,23 +19,7 @@
 <LM>w#w-lnd92255-057-p1s1w1</LM>
 </w.rf>
 <form>TENGIZ</form>
-<tag><AM lemma="Tengiz_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tengiz_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="TENGIZ_:B_;K_,t" src="auto">NNNXX-----A---8</AM>
-<AM lemma="TENGIZ_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="TENGIZ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TENGIZ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AZ-2_:B_;K_^(např._TENGIZ_agentura)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="TENGIz-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="TENGIz-1" src="auto">RR--2----------</AM>
-<AM lemma="Tengizstán_:B_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="Tengiz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tengiz_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tengíza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tengizozemí_:B_;G" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Tengiza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tengiz_;Y_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="tengiz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tengiz_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-057-p1s1w2">
@@ -317,16 +301,7 @@
 <LM>w#w-lnd92255-057-p3s3w16</LM>
 </w.rf>
 <form>Krasnaja</form>
-<tag><AM lemma="Krasnaja_;R_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="Krasnij_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Krasnaja_;R_,t" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="Krasnať_,t" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="Krasnyj_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Krasnyj_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Krasnij_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Krasnaja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Krasnaja_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="krasnaja" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Krasnaja_;R_,t" src="orig" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-057-p3s3w17">
@@ -335,15 +310,7 @@
 <LM>w#w-lnd92255-057-p3s3w17</LM>
 </w.rf>
 <form>zvězda</form>
-<tag><AM lemma="zvězda_;R_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="zvězda" src="auto">NNFS1-----A----</AM>
-<AM lemma="zvězda_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="zvězdo" src="auto">NNNS2-----A----</AM>
-<AM lemma="zvězdo" src="auto">NNNP4-----A----</AM>
-<AM lemma="zvězdo" src="auto">NNNP1-----A----</AM>
-<AM lemma="zvězda_;R_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="zvězda_;K_;R" src="auto">NNFS1-----A----</AM>
-<AM lemma="zvězda" src="auto">J,-------------</AM>
+<tag><AM lemma="zvězda_;R_,t" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-057-p3s3w18">
@@ -379,15 +346,7 @@
 <LM>w#w-lnd92255-057-p3s3w21</LM>
 </w.rf>
 <form>Tengiz</form>
-<tag><AM lemma="Tengiz_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tengizstán_:B_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="Tengiz_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tengiz_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tengíza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tengizozemí_:B_;G" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Tengiza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tengiz_;Y_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="tengiz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tengiz_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-057-p3s3w22">

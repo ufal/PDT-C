@@ -1655,15 +1655,7 @@
 <LM>w#w-lnd92252-074-p5s3w18</LM>
 </w.rf>
 <form>bujivé</form>
-<tag><AM lemma="bujivý" src="orig">AAFS6----1A----</AM>
-<AM lemma="bujivý" src="auto">AANS1----1A----</AM>
-<AM lemma="bujivý" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="bujivý" src="auto">AAFS2----1A----</AM>
-<AM lemma="bujivý" src="auto">AAIP1----1A----</AM>
-<AM lemma="bujivý" src="auto">AAFP1----1A----</AM>
-<AM lemma="bujivý" src="auto">AANS4----1A----</AM>
-<AM lemma="bujivý" src="auto">AAIP4----1A----</AM>
-<AM lemma="bujivý" src="auto">AAFP4----1A----</AM>
+<tag><AM lemma="bujivý" src="orig" selected="1">AAFS6----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-074-p5s3w19">

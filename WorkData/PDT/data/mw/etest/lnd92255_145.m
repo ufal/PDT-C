@@ -564,15 +564,7 @@
 <LM>w#w-lnd92255-145-p4s1w11</LM>
 </w.rf>
 <form>Zarja</form>
-<tag><AM lemma="Zarja_;R_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Zarja_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zarja_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zarja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zarja_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zarja_;R_,t" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="Zarja_;R" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zarja_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="zarja" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Zarja_;R_,t" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-145-p4s1w12">
@@ -581,17 +573,7 @@
 <LM>w#w-lnd92255-145-p4s1w12</LM>
 </w.rf>
 <form>Vostoka</form>
-<tag><AM lemma="Vostok_;R_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="Vostok" src="auto">NNIS2-----A----</AM>
-<AM lemma="Vostok" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vostok" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vostok_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vostoka" src="auto">Db-------------</AM>
-<AM lemma="Vostoka_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Vostoko" src="auto">NNNS2-----A----</AM>
-<AM lemma="Vostoko_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="vostoka" src="auto">NNMS1-----A----</AM>
-<AM lemma="vostoka_^(odpadní_kanál)" src="auto">NNFS1-----A----</AM>
+<tag><AM lemma="Vostok_;R_,t" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-145-p4s1w13">
@@ -2667,16 +2649,7 @@
 <LM>w#w-lnd92255-145-p7s6w14</LM>
 </w.rf>
 <form>Beers</form>
-<tag><AM lemma="Beers_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Beers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Beer_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beer_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Beer_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Beers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="beers" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Beers_;K_,t" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-145-p7s6w15">
@@ -3498,15 +3471,7 @@
 <LM>w#w-lnd92255-145-p7s12w2</LM>
 </w.rf>
 <form>Beersům</form>
-<tag><AM lemma="Beers_;K_,t" src="orig">NNMP3-----A----</AM>
-<AM lemma="Beers" src="auto">NNIP3-----A----</AM>
-<AM lemma="Beersus" src="auto">NNIP3-----A----</AM>
-<AM lemma="Beersa" src="auto">NNNP3-----A----</AM>
-<AM lemma="Beers_;L_,t_^(motýl)" src="auto" recommended="1">NNMP3-----A----</AM>
-<AM lemma="Beers_;E" src="auto">NNMP3-----A----</AM>
-<AM lemma="Beers" src="auto">NNMP3-----A----</AM>
-<AM lemma="Beersa" src="auto">NNMP3-----A----</AM>
-<AM lemma="beersům" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Beers_;K_,t" src="orig" selected="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-145-p7s12w3">
@@ -4032,16 +3997,7 @@
 <LM>w#w-lnd92255-145-p7s14w4</LM>
 </w.rf>
 <form>Centenary</form>
-<tag><AM lemma="Centenary_;m" src="orig">NNIXX-----A----</AM>
-<AM lemma="Centenar" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="Centenar" src="auto">NNIP4-----A----</AM>
-<AM lemma="Centenar" src="auto">NNIP7-----A----</AM>
-<AM lemma="Centenara_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Centenara" src="auto">NNFS2-----A----</AM>
-<AM lemma="Centenary_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Centenar_;E" src="auto">NNMP7-----A----</AM>
-<AM lemma="Centenar_;E" src="auto">NNMP4-----A----</AM>
-<AM lemma="centenary" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Centenary_;m" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-145-p7s14w5">

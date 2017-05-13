@@ -702,15 +702,7 @@
 <LM>w#w-mf930703-091-p2s3w18</LM>
 </w.rf>
 <form>Skahovi</form>
-<tag><AM lemma="Skah_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Skah_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Skah" src="auto">NNMS3-----A----</AM>
-<AM lemma="Skah_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Skaha_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Skah_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Skah" src="auto">NNMS6-----A----</AM>
-<AM lemma="Skahův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="skahovi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Skah_;S" src="orig" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-091-p2s3w19">

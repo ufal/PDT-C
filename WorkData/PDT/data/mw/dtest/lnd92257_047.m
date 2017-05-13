@@ -710,11 +710,7 @@
 <LM>w#w-lnd92257-047-p2s3w8</LM>
 </w.rf>
 <form>monrovijském</form>
-<tag><AM lemma="monrovijský" src="orig">AANS6----1A----</AM>
-<AM lemma="monrovijský" src="auto">AAIS6----1A----</AM>
-<AM lemma="monrovijský" src="auto" recommended="1">AANS6----1A----</AM>
-<AM lemma="monrovijský" src="auto">AAMS6----1A----</AM>
-<AM lemma="monrovijský_;S" src="auto">NNMS6-----A----</AM>
+<tag><AM lemma="monrovijský" src="orig" selected="1">AANS6----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-047-p2s3w9">
@@ -741,16 +737,7 @@
 <LM>w#w-lnd92257-047-p2s3w11</LM>
 </w.rf>
 <form>Gardnersville</form>
-<tag><AM lemma="Gardnersville_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Gardnersville_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Gardnersville_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gardnersville_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Gardnersville_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gardnersvillo_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Gardnersvilla_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Gardnersvill_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Gardnersville_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="gardnersville" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gardnersville_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-047-p2s3w12">
@@ -1521,11 +1508,7 @@
 <LM>w#w-lnd92257-047-p4s1w35</LM>
 </w.rf>
 <form>Özal</form>
-<tag><AM lemma="Özal_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Özat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Özat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Özal_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="özal" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Özal_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-047-p4s1w36">

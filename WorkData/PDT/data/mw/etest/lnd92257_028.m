@@ -531,16 +531,7 @@
 <LM>w#w-lnd92257-028-p2s3w10</LM>
 </w.rf>
 <form>Hochschülerschaft</form>
-<tag><AM lemma="Hochschülerschaft_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Hochschülerschaft_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Hochschülerschaft_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hochschülerschaft_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Hochschülerschaft_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Hochschülerschaft_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hochschülerschaft" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hochschülerschaft" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hochschülerschaft_^(jako_součást_názvu)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="hochschülerschaft" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hochschülerschaft_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-028-p2s3w11">
@@ -549,15 +540,7 @@
 <LM>w#w-lnd92257-028-p2s3w11</LM>
 </w.rf>
 <form>Alternativreferat</form>
-<tag><AM lemma="Alternativreferat_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Alternativreferat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Alternativreferat" src="auto">Vf--------A----</AM>
-<AM lemma="Alternativreferat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Alternativreferat" src="auto">NNIS4-----A----</AM>
-<AM lemma="Alternativreferat" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Alternativreferat" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alternativreferat_:T_:W" src="auto">Vf--------A----</AM>
-<AM lemma="alternativreferat" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Alternativreferat_;K_,t" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-028-p2s3w12">

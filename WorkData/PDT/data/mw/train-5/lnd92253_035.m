@@ -481,15 +481,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Qubecku</form>
-<tag><AM lemma="Qubeck_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Qubecko_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Qubeck_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Qubecko_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Qubeck_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Qubeck" src="auto">NNIS2-----A----</AM>
-<AM lemma="Qubecka" src="auto">NNFS4-----A----</AM>
-<AM lemma="americko-2_^(ve_spojení_&quot;po_Qubecku&quot;)" src="auto">NNNS6-----A----</AM>
-<AM lemma="qubecku" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Qubeck_;G" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-035-p1s2w34">

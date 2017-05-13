@@ -615,24 +615,7 @@
 <LM>w#w-lnd92258-126-p2s5w9</LM>
 </w.rf>
 <form>EVK</form>
-<tag><AM lemma="EVK_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EVK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EVK_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EVK_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="EVK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EVK_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Evk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Evk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Evk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Evk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Evk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Evk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="evk" src="auto">NNMS1-----A----</AM>
-<AM lemma="evk-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="evk-4`kůň_:B_^(jednotka_výkonu)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="evkomanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="evkoncernový_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="evkuo-1_:B_,t_^(stará_jednotka_výkonu)" src="auto">NNNXX-----A---8</AM>
+<tag><AM lemma="EVK_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-126-p2s5w10">

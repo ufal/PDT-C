@@ -66,15 +66,7 @@
 <LM>w#w-mf930701-042-p2s1w3</LM>
 </w.rf>
 <form>spa</form>
-<tag><AM lemma="spa-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="spa-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="spa" src="auto">NNFS1-----A----</AM>
-<AM lemma="spa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="spa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="sp_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="sp" src="auto">NNMS2-----A----</AM>
-<AM lemma="spo" src="auto">NNNS2-----A----</AM>
-<AM lemma="sp" src="auto">NNMS4-----A----</AM>
+<tag><AM lemma="spa-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-042-p2s1w4">
@@ -128,16 +120,7 @@
 <LM>w#w-mf930701-042-p2s1w9</LM>
 </w.rf>
 <form>Kurvahošigutntág</form>
-<tag><AM lemma="Kurvahošigutntág_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kurvahošigutntág_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Kurvahošigutntág_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kurvahošigutntág_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kurvahošigutntág" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kurvahošigutntág" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kurvahošigutntág" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kurvahošigutntág_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kurvahošigutntág_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kurvahošigutntág" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kurvahošigutntág_;R" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-042-p2s1w10">
@@ -535,17 +518,7 @@
 <LM>w#w-mf930701-042-p2s2w26</LM>
 </w.rf>
 <form>Space</form>
-<tag><AM lemma="Space_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Space" src="auto">NNFP1-----A----</AM>
-<AM lemma="Space" src="auto">NNFP4-----A----</AM>
-<AM lemma="Space" src="auto">NNFS1-----A----</AM>
-<AM lemma="Space" src="auto">NNFS2-----A----</AM>
-<AM lemma="Space_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Space_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Space_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="spac-3_^(stará_drobná_mince)" src="auto">NNIS5-----A----</AM>
-<AM lemma="space" src="auto">NNMS1-----A----</AM>
-<AM lemma="space-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<tag><AM lemma="Space_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-042-p2s2w27">

@@ -1823,16 +1823,7 @@
 <LM>w#w-lnd92252-067-p9s1Aw11</LM>
 </w.rf>
 <form>Interracio</form>
-<tag><AM lemma="Interracio_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="Interracio_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Interracio_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Interracio_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Interracio" src="auto">NNNS1-----A----</AM>
-<AM lemma="Interracio_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Interracio_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Interracio_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Interracio" src="auto">NNNS4-----A----</AM>
-<AM lemma="interracio" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Interracio_;m" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-067-p9s1Aw12">
@@ -3296,17 +3287,7 @@
 <LM>w#w-lnd92252-067-p20s1w5</LM>
 </w.rf>
 <form>LYŽEC</form>
-<tag><AM lemma="Lyžec_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="LYŽEC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Lyžec" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lyžec_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lyžec" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lyžec" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lyžec_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lyžec_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lyžec_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lyžec-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lyžec" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lyžec_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -4022,15 +4003,7 @@
 <LM>w#w-lnd92252-067-p31s1w2</LM>
 </w.rf>
 <form>jazzklarinetista</form>
-<tag><AM lemma="jazzklarinetista" src="orig">NNMS1-----A----</AM>
-<AM lemma="jazzklarinetista" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="jazzklarinetisto" src="auto">NNNS2-----A----</AM>
-<AM lemma="jazzklarinetista_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jazzklarinetista" src="auto">NNFS1-----A----</AM>
-<AM lemma="jazzklarinetista_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="jazzklarinetistý" src="auto">ACQW------A----</AM>
-<AM lemma="jazzklarinetist_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="jazzklarinetista_;G" src="auto">NNFS1-----A----</AM>
+<tag><AM lemma="jazzklarinetista" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-067-p31s1w3">
@@ -4619,24 +4592,7 @@
 <LM>w#w-lnd92252-067-p39s2w4</LM>
 </w.rf>
 <form>BARTOLOMMEO</form>
-<tag><AM lemma="Bartolommeo_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="BARTOLOMMeo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="BARTOLOMMEO_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="BARTOLOMMEO_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="BARTOLOMMEO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BARTOLOMMEO_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="BARTOLOMMEO_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="BARTOLOMMEO_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="BARTOLOMMEO_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Bartolommeo-3_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bartolommeo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bartolommeo_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Bartolommeo_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bartolommeo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bartolommeo_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="Bartolommeo_;K_;R_;u_^(opera)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Bartolommeo_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="bartolommeo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bartolommeo_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -4813,19 +4769,7 @@
 <LM>w#w-lnd92252-067-p42s1w9</LM>
 </w.rf>
 <form>MUNTHE</form>
-<tag><AM lemma="Munthe_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="MUNTHE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MUNTHE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MUNTHE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Munth_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Munth_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Munthe_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Munthe_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Munthe_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Munthe-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Munthe_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Munthe_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="munthe" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Munthe_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

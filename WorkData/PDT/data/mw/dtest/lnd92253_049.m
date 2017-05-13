@@ -149,17 +149,7 @@
 <LM>w#w-lnd92253-049-p3s1w2</LM>
 </w.rf>
 <form>FINANCIAL</form>
-<tag><AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Financial_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Financial_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Escorial-1_;G_^(El_Financial,_šp._král._sídlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Financial_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Financial_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="financial" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Financial_;R_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-049-p3s1w3">
@@ -542,15 +532,7 @@
 <LM>w#w-lnd92253-049-p4s2w14</LM>
 </w.rf>
 <form>Yorkshiru</form>
-<tag><AM lemma="Yorkshir_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Yorkshir_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Yorkshiro_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Yorkshira" src="auto">NNFS4-----A----</AM>
-<AM lemma="Yorkshir" src="auto">NNIS2-----A----</AM>
-<AM lemma="Yorkshiro_;m" src="auto">NNNS6-----A----</AM>
-<AM lemma="Yorkshiro" src="auto">NNNS6-----A----</AM>
-<AM lemma="Yorkshiro" src="auto">NNNS3-----A----</AM>
-<AM lemma="yorkshiru" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Yorkshir_;G" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-049-p4s2w15">
@@ -568,15 +550,7 @@
 <LM>w#w-lnd92253-049-p4s2w16</LM>
 </w.rf>
 <form>Nottinghamshiru</form>
-<tag><AM lemma="Nottinghamshir_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Nottinghamshir_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Nottinghamshiro_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Nottinghamshira" src="auto">NNFS4-----A----</AM>
-<AM lemma="Nottinghamshir" src="auto">NNIS2-----A----</AM>
-<AM lemma="Nottinghamshiro_;m" src="auto">NNNS6-----A----</AM>
-<AM lemma="Nottinghamshiro" src="auto">NNNS6-----A----</AM>
-<AM lemma="Nottinghamshiro" src="auto">NNNS3-----A----</AM>
-<AM lemma="nottinghamshiru" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nottinghamshir_;G" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-049-p4s2w17">
@@ -1945,16 +1919,7 @@
 <LM>w#w-lnd92253-049-p5s7w9</LM>
 </w.rf>
 <form>Heathe</form>
-<tag><AM lemma="Heath_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Heath_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Heath_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Heathe_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Heathe_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Heathe_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Heathe-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Heathe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Heathe_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="heathe" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Heath_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-049-p5s7w10">
@@ -2453,16 +2418,7 @@
 <LM>w#w-lnd92253-049-p6s1w9</LM>
 </w.rf>
 <form>Scargill</form>
-<tag><AM lemma="Scargill_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Scargill_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Scargill_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Scargill_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Scargill_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Scargill_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Scargill_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Scargill_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Scargill_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="scargill" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Scargill_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-049-p6s1w10">
@@ -7384,16 +7340,7 @@
 <LM>w#w-lnd92253-049-p12s1w5</LM>
 </w.rf>
 <form>Financial</form>
-<tag><AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Financial_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Escorial-1_;G_^(El_Financial,_šp._král._sídlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Financial_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Financial_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="financial" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Financial_;R_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-049-p12s1w6">

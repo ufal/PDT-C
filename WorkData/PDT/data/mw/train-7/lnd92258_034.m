@@ -473,16 +473,7 @@
 <LM>w#w-lnd92258-034-p1s3w9</LM>
 </w.rf>
 <form>Savvin</form>
-<tag><AM lemma="Savvin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Savvina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Savvin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Savvin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Savviny_^(tisk)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Savvinsko_:B_;G" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Savvin-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Savvin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Savvin" src="auto">NNIS4-----A----</AM>
-<AM lemma="savvin" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Savvin_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-034-p1s3w10">

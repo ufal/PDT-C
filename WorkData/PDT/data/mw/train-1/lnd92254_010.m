@@ -2277,16 +2277,7 @@
 <LM>w#w-lnd92254-010-p5s3w22</LM>
 </w.rf>
 <form>Immoconsult</form>
-<tag><AM lemma="Immoconsult_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Immoconsult_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Immoconsult_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Immoconsult_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Immoconsult" src="auto">NNIS1-----A----</AM>
-<AM lemma="Immoconsulta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Immoconsult_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Immoconsult_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Immoconsult_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="immoconsult" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Immoconsult_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-010-p5s3w23">

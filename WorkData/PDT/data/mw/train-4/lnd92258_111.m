@@ -275,17 +275,7 @@
 <LM>w#w-lnd92258-111-p3s1w25</LM>
 </w.rf>
 <form>DOCUMENTA</form>
-<tag><AM lemma="Documenta_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="DOCUMENTA_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Document" src="auto">NNMS2-----A----</AM>
-<AM lemma="Document" src="auto">NNMS4-----A----</AM>
-<AM lemma="Document_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Documenta" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Documento" src="auto">NNNS2-----A----</AM>
-<AM lemma="Documenta_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Documento" src="auto">NNNP1-----A----</AM>
-<AM lemma="Documento_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="documenta" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Documenta_;m" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-111-p3s1w26">
@@ -458,16 +448,7 @@
 <LM>w#w-lnd92258-111-p3s2w17</LM>
 </w.rf>
 <form>Documenty</form>
-<tag><AM lemma="Documenta_;m" src="orig">NNFS2-----A----</AM>
-<AM lemma="Document" src="auto">NNMP4-----A----</AM>
-<AM lemma="Document" src="auto">NNIP4-----A----</AM>
-<AM lemma="Document" src="auto">NNIP1-----A----</AM>
-<AM lemma="Document" src="auto">NNMP7-----A----</AM>
-<AM lemma="Document" src="auto">NNIP7-----A----</AM>
-<AM lemma="Documenta" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Documenta" src="auto">NNFP1-----A----</AM>
-<AM lemma="Documenta" src="auto">NNFP4-----A----</AM>
-<AM lemma="documenty" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Documenta_;m" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-111-p3s2w18">
@@ -706,18 +687,7 @@
 <LM>w#w-lnd92258-111-p3s3w10</LM>
 </w.rf>
 <form>European</form>
-<tag><AM lemma="European_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="European_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="European_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="European_,t" src="auto">Vi-S---2--A----</AM>
-<AM lemma="European_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="European_;R_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="European_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="european" src="auto">NNIS1-----A----</AM>
-<AM lemma="european" src="auto">NNIS4-----A----</AM>
-<AM lemma="european" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="European_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-111-p3s3w11">
@@ -839,16 +809,7 @@
 <LM>w#w-lnd92258-111-p3s3w22</LM>
 </w.rf>
 <form>Piazza</form>
-<tag><AM lemma="piazza_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Piazzo_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Piazza_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Piazza" src="auto">NNFS1-----A----</AM>
-<AM lemma="Piazza_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Piazza_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Piazza_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Piazza_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Piazzo_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="piazza" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="piazza_;m_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-111-p3s3w23">
@@ -857,15 +818,7 @@
 <LM>w#w-lnd92258-111-p3s3w23</LM>
 </w.rf>
 <form>Virtuale</form>
-<tag><AM lemma="virtuale_,t" src="orig">AAFXX----1A----</AM>
-<AM lemma="Virtuale_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Virtuale_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Virtual" src="auto">NNIS6-----A----</AM>
-<AM lemma="Virtuale_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Virtuala" src="auto">NNFS6-----A----</AM>
-<AM lemma="Virtuale_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Virtuale-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="virtuale" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="virtuale_,t" src="orig" selected="1">AAFXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-111-p3s3w24">
@@ -1676,15 +1629,7 @@
 <LM>w#w-lnd92258-111-p4s4w12</LM>
 </w.rf>
 <form>sat</form>
-<tag><AM lemma="sat_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="sat" src="auto">Vf--------A----</AM>
-<AM lemma="sat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="sat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="sat_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="sat_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="sat_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="satmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="se" src="auto">NNNP2-----A----</AM>
+<tag><AM lemma="sat_;K" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-111-p4s4w13">
@@ -1916,16 +1861,7 @@
 <LM>w#w-lnd92258-111-p5s1w11</LM>
 </w.rf>
 <form>Public</form>
-<tag><AM lemma="public_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Publice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Public_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Publice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Public_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Publíce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Public_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Public_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Public_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="public" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="public_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-111-p5s1w12">
@@ -3692,16 +3628,7 @@
 <LM>w#w-lnd92258-111-p6s5w1</LM>
 </w.rf>
 <form>Piazza</form>
-<tag><AM lemma="piazza_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Piazzo_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Piazza_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Piazza" src="auto">NNFS1-----A----</AM>
-<AM lemma="Piazza_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Piazza_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Piazza_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Piazza_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Piazzo_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="piazza" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="piazza_;m_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-111-p6s5w2">
@@ -3710,15 +3637,7 @@
 <LM>w#w-lnd92258-111-p6s5w2</LM>
 </w.rf>
 <form>Virtuale</form>
-<tag><AM lemma="virtuale_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Virtuale_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Virtuale_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Virtual" src="auto">NNIS6-----A----</AM>
-<AM lemma="Virtuale_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Virtuala" src="auto">NNFS6-----A----</AM>
-<AM lemma="Virtuale_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Virtuale-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="virtuale" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="virtuale_;m_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-111-p6s5w3">
@@ -3736,16 +3655,7 @@
 <LM>w#w-lnd92258-111-p6s5w4</LM>
 </w.rf>
 <form>Public</form>
-<tag><AM lemma="public_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Publice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Public_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Publice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Public_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Publíce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Public_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Public_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Public_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="public" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="public_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-111-p6s5w5">

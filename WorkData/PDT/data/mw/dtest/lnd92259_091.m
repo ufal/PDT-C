@@ -755,17 +755,7 @@
 <LM>w#w-lnd92259-091-p2s6w8</LM>
 </w.rf>
 <form>AENOV</form>
-<tag><AM lemma="AENOV_:B_;K_^(Asociace_evr._nár._olympijských_výborů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AENova_;K_^(televize)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Aenov_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aenov_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Aenov_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Aen_,t" src="auto">NNIP2-----A----</AM>
-<AM lemma="Aenovy" src="auto">NNFP2-----A----</AM>
-<AM lemma="Aenova" src="auto">NNFP2-----A----</AM>
-<AM lemma="Aenov_^(pozice_Měsíce)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Aenov-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="aenov" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="AENOV_:B_;K_^(Asociace_evr._nár._olympijských_výborů)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-091-p2s6w9">

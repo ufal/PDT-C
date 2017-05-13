@@ -982,16 +982,7 @@
 <LM>w#w-lnd92253-079-p2s6w12</LM>
 </w.rf>
 <form>Dabašin</form>
-<tag><AM lemma="Dabašin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dabašina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Dabašin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dabašin_;G_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Dabašin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dabašin-2_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dabašin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dabašin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dabašin" src="auto">NNIS4-----A----</AM>
-<AM lemma="dabašin" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Dabašin_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-079-p2s6w13">

@@ -118,15 +118,7 @@
 <LM>w#w-mf930702-112-p1s1w12</LM>
 </w.rf>
 <form>Nabátíja</form>
-<tag><AM lemma="Nabátíja_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Nabátíja_;K_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Nabátíja_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Nabátíja_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nabátíja" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nabátíja_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nabátíja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nabátíja_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="nabátíja" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nabátíja_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-112-p1s1w13">

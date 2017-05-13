@@ -2383,16 +2383,7 @@
 <LM>w#w-lnd92258-099-p6s4w12</LM>
 </w.rf>
 <form>Economic</form>
-<tag><AM lemma="Economic_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Economic_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Economic_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Economic_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Economic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Economice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Economice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Economic_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Economice_^(*3ík)" src="auto">NNFP2-----A----</AM>
-<AM lemma="economic" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Economic_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-099-p6s4w13">
@@ -2401,16 +2392,7 @@
 <LM>w#w-lnd92258-099-p6s4w13</LM>
 </w.rf>
 <form>Policy</form>
-<tag><AM lemma="Policy_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Policy_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Policy_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Policy_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Policy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Policy_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Polica_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Polica_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Polic_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="policy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Policy_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-099-p6s4w14">

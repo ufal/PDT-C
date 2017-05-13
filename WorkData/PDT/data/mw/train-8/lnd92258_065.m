@@ -376,16 +376,7 @@
 <LM>w#w-lnd92258-065-p2s2w36</LM>
 </w.rf>
 <form>Boxerová</form>
-<tag><AM lemma="Boxerová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Boxerová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Boxerový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Boxerový" src="auto">AANP1----1A----</AM>
-<AM lemma="Boxerový" src="auto">AANP4----1A----</AM>
-<AM lemma="Boxerová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Boxerová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Boxerový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Boxerový" src="auto">AAFS5----1A----</AM>
-<AM lemma="boxerová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Boxerová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-065-p2s2w37">

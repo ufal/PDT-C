@@ -729,16 +729,7 @@
 <LM>w#w-ln94201-31-p3s2w8</LM>
 </w.rf>
 <form>Schlossberger</form>
-<tag><AM lemma="Schlossberger_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Schlossberger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Schlossberger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schlossberger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Schlossberžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schlossberger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Schlossberger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Schlossberger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schlossberger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="schlossberger" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Schlossberger_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-31-p3s2w9">

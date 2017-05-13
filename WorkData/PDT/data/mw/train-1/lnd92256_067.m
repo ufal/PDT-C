@@ -2386,16 +2386,7 @@
 <LM>w#w-lnd92256-067-p5s2w11</LM>
 </w.rf>
 <form>Lambsdorfa</form>
-<tag><AM lemma="Lambsdorf_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Lambsdorf_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Lambsdorf_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Lambsdorf_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Lambsdorf_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Lambsdorf" src="auto">NNMS4-----A----</AM>
-<AM lemma="Lambsdorf" src="auto">NNMS2-----A----</AM>
-<AM lemma="Lambsdorfa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lambsdorfa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="lambsdorfa" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lambsdorf_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-067-p5s2w12">
@@ -6073,16 +6064,7 @@
 <LM>w#w-lnd92256-067-p8s8w7</LM>
 </w.rf>
 <form>Biedenkopfa</form>
-<tag><AM lemma="Biedenkopf_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Biedenkopf_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Biedenkopf_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Biedenkopf_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Biedenkopf" src="auto">NNMS4-----A----</AM>
-<AM lemma="Biedenkopf" src="auto">NNMS2-----A----</AM>
-<AM lemma="Biedenkopfa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Biedenkopfa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Biedenkopf_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="biedenkopfa" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Biedenkopf_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-067-p8s8w8">

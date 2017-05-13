@@ -293,16 +293,7 @@
 <LM>w#w-ln94201-59-p1s3w5</LM>
 </w.rf>
 <form>Worthersee</form>
-<tag><AM lemma="Worthersee_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Worthersee_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Worthersee_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Worthersee_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Worthersee_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Worthersee_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Worthersee_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Worthersee_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="bungee_,t_^(Worthersee_jumping)" src="auto">AAXXX----1A----</AM>
-<AM lemma="worthersee" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Worthersee_;G" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-59-p1s3w6">

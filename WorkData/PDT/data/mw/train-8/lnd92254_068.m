@@ -368,20 +368,7 @@
 <LM>w#w-lnd92254-068-p3s2w7</LM>
 </w.rf>
 <form>FNS</form>
-<tag><AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Fns_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fn_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fns_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fns_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fns" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="fns" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-068-p3s2w8">
@@ -671,20 +658,7 @@
 <LM>w#w-lnd92254-068-p4s1w15</LM>
 </w.rf>
 <form>FNS</form>
-<tag><AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Fns_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fn_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fns_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fns_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fns" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="fns" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-068-p4s1w16">
@@ -1219,20 +1193,7 @@
 <LM>w#w-lnd92254-068-p4s3w38</LM>
 </w.rf>
 <form>FNS</form>
-<tag><AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Fns_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fn_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fns_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fns_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fns" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="fns" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-068-p4s3w39">
@@ -1378,20 +1339,7 @@
 <LM>w#w-lnd92254-068-p4s4w11</LM>
 </w.rf>
 <form>FNS</form>
-<tag><AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Fns_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fn_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fns_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fns_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fns" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="fns" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-068-p4s4w12">
@@ -2242,20 +2190,7 @@
 <LM>w#w-lnd92254-068-p7s1w12</LM>
 </w.rf>
 <form>FNS</form>
-<tag><AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Fns_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fn_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fns_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fns_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fns" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="fns" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-068-p7s1w13">
@@ -2670,20 +2605,7 @@
 <LM>w#w-lnd92254-068-p9s1w4</LM>
 </w.rf>
 <form>FNS</form>
-<tag><AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Fns_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fn_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fns_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fns_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fns" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="fns" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-068-p9s1w5">
@@ -2865,20 +2787,7 @@
 <LM>w#w-lnd92254-068-p9s2w3</LM>
 </w.rf>
 <form>FNS</form>
-<tag><AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FNS_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Fns_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fn_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Fns_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Fns_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fns" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fn_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="fns" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-068-p9s2w4">

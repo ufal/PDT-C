@@ -268,11 +268,7 @@
 <LM>w#w-lnd92253-045-p3s2w18</LM>
 </w.rf>
 <form>Akbaršo</form>
-<tag><AM lemma="Akbaršo_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Akbaršo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Akbaršo_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="Akbaršo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="akbaršo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Akbaršo_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-045-p3s2w19">
@@ -1051,16 +1047,7 @@
 <LM>w#w-lnd92253-045-p4s1w45</LM>
 </w.rf>
 <form>Iskandarovovově</form>
-<tag><AM lemma="Iskandarovovův_;S_^(*2)" src="orig">AUFS3M---------</AM>
-<AM lemma="Iskandarovovově_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Iskandarovovov_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Iskandarovovův_;S_^(*2)" src="auto">AUFS6M---------</AM>
-<AM lemma="Iskandarovovův_;S_^(*2)" src="auto">AUIS6M---------</AM>
-<AM lemma="Iskandarovovův_;S_^(*2)" src="auto">AUNS6M---------</AM>
-<AM lemma="Iskandarovovův_;S_^(*2)" src="auto" recommended="1">AUFS3M---------</AM>
-<AM lemma="Iskandarovovův_;S_^(*2a)" src="auto">AUFS6M---------</AM>
-<AM lemma="Iskandarovovov" src="auto">NNIS6-----A----</AM>
-<AM lemma="iskandarovovově" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Iskandarovovův_;S_^(*2)" src="orig" selected="1">AUFS3M---------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-045-p4s1w46">
@@ -1089,11 +1076,7 @@
 <LM>w#w-lnd92253-045-p5s1w1</LM>
 </w.rf>
 <form>Akbaršo</form>
-<tag><AM lemma="Akbaršo_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Akbaršo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Akbaršo_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="Akbaršo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="akbaršo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Akbaršo_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-045-p5s1w2">

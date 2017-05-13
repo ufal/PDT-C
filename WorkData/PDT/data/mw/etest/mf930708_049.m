@@ -183,19 +183,7 @@
 <LM>w#w-mf930708-049-p2s1w16</LM>
 </w.rf>
 <form>Interlignum</form>
-<tag><AM lemma="Interlignum_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="Interlignum" src="auto">NNIS1-----A----</AM>
-<AM lemma="Interlignum" src="auto">NNIS4-----A----</AM>
-<AM lemma="Interlignum" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Interlignum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Interlignum_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="Interlignum_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Interlignum_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Interlignum_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="interlignum" src="auto">NNMS1-----A----</AM>
-<AM lemma="interlignum_,t_^(dřevo)" src="auto">NNNS1-----A----</AM>
-<AM lemma="interlignum_,t_^(dřevo)" src="auto">NNNS4-----A----</AM>
-<AM lemma="interlignum_,t_^(dřevo)" src="auto">NNNS5-----A----</AM>
+<tag><AM lemma="Interlignum_;m" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-049-p2s1w17">
@@ -541,19 +529,7 @@
 <LM>w#w-mf930708-049-p2s3w5</LM>
 </w.rf>
 <form>Interlignum</form>
-<tag><AM lemma="Interlignum_;m" src="orig">NNNS4-----A----</AM>
-<AM lemma="Interlignum" src="auto">NNIS1-----A----</AM>
-<AM lemma="Interlignum" src="auto">NNIS4-----A----</AM>
-<AM lemma="Interlignum" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Interlignum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Interlignum_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="Interlignum_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Interlignum_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Interlignum_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="interlignum" src="auto">NNMS1-----A----</AM>
-<AM lemma="interlignum_,t_^(dřevo)" src="auto">NNNS1-----A----</AM>
-<AM lemma="interlignum_,t_^(dřevo)" src="auto">NNNS4-----A----</AM>
-<AM lemma="interlignum_,t_^(dřevo)" src="auto">NNNS5-----A----</AM>
+<tag><AM lemma="Interlignum_;m" src="orig" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-049-p2s3w6">
@@ -654,19 +630,7 @@
 <LM>w#w-mf930708-049-p2s4w7</LM>
 </w.rf>
 <form>Insa</form>
-<tag><AM lemma="Insa_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Insa" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Insa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Insa_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Insa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Insa_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Insa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Insa_;S_^(Lech_Walesa)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Insa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="insa" src="auto">NNMS1-----A----</AM>
-<AM lemma="insa-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="insa-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="insakciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="Insa_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-049-p2s4w8">
@@ -703,16 +667,7 @@
 <LM>w#w-mf930708-049-p2s4w11</LM>
 </w.rf>
 <form>Haberland</form>
-<tag><AM lemma="Haberland_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Haberland_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Haberland_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Haberland_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Haberland_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Haberlanda_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Haberland_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Haberland_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Haberlando" src="auto">NNNP2-----A----</AM>
-<AM lemma="haberland" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Haberland_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-049-p2s4w12">

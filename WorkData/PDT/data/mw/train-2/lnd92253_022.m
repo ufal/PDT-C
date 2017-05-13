@@ -1551,15 +1551,7 @@
 <LM>w#w-lnd92253-022-p4s5w17</LM>
 </w.rf>
 <form>Naša</form>
-<tag><AM lemma="náš_,t" src="orig">PSHS1-P1-------</AM>
-<AM lemma="Naša" src="auto">NNMS1-----A----</AM>
-<AM lemma="Naša_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Naša_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Našo_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Našo_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Naš_;S_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Naša_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="naša" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="náš_,t" src="orig" selected="1">PSHS1-P1-------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-022-p4s5w18">
@@ -1770,12 +1762,7 @@
 <LM>w#w-lnd92253-022-p4s7w8</LM>
 </w.rf>
 <form>Prezidentárium</form>
-<tag><AM lemma="prezidentárium" src="orig">NNNS4-----A----</AM>
-<AM lemma="Prezidentárium" src="auto">NNNS1-----A----</AM>
-<AM lemma="Prezidentárium" src="auto" recommended="1">NNNS4-----A----</AM>
-<AM lemma="Prezidentárium_;L_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Prezidentárium_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="prezidentárium" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="prezidentárium" src="orig" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-022-p4s7w9">

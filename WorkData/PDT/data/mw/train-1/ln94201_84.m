@@ -251,16 +251,7 @@
 <LM>w#w-ln94201-84-p2s2w5</LM>
 </w.rf>
 <form>Ironcurtain</form>
-<tag><AM lemma="Ironcurtain_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Ironcurtain_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ironcurtain_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ironcurtain_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ironcurtain_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Ironcurtain_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ironcurtain_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ironcurtain_;G_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ironcurtain_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="ironcurtain" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ironcurtain_;m_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-84-p2s2w6">
@@ -269,16 +260,7 @@
 <LM>w#w-ln94201-84-p2s2w6</LM>
 </w.rf>
 <form>Triathlon</form>
-<tag><AM lemma="Triathlon_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Triathlon" src="auto">NNIS1-----A----</AM>
-<AM lemma="Triathlon" src="auto">NNIS4-----A----</AM>
-<AM lemma="Triathlón" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Triathlona" src="auto">NNFP2-----A----</AM>
-<AM lemma="Triathlon_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Triathlon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Triathlón" src="auto">NNIS4-----A----</AM>
-<AM lemma="Triathlon_^(steroid)" src="auto">NNIS1-----A----</AM>
-<AM lemma="triathlon" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Triathlon_;m_,t" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-84-p2s2w7">

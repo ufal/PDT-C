@@ -331,16 +331,7 @@
 <LM>w#w-mf930708-128-p3s1w2</LM>
 </w.rf>
 <form>Batistua</form>
-<tag><AM lemma="Batistua_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Batistua_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Batistu_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Batistu_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Batistuum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Batistuum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Batistuum" src="auto">NNNP1-----A----</AM>
-<AM lemma="Batistue_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Batistua_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="batistua" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Batistua_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-128-p3s1w3">

@@ -1505,15 +1505,7 @@
 <LM>w#w-lnd92252-043-p5s1w20</LM>
 </w.rf>
 <form>Kofarnichon</form>
-<tag><AM lemma="Kofarnichon_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kofarnichon" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kofarnichon_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Kofarnichon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kofarnichon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kofarnichon" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kofarnichon_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kofarnichon_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="kofarnichon" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kofarnichon_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-043-p5s1w21">
@@ -2429,16 +2421,7 @@
 <LM>w#w-lnd92252-043-p7s1w6</LM>
 </w.rf>
 <form>Saida</form>
-<tag><AM lemma="Said_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Saida" src="auto">NNFS1-----A----</AM>
-<AM lemma="Said_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Said_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Said_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Saida_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Saidět_:T" src="auto">VeYS------A----</AM>
-<AM lemma="Saido_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Saido" src="auto">NNNS2-----A----</AM>
-<AM lemma="saida" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Said_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-043-p7s1w7">
@@ -2447,16 +2430,7 @@
 <LM>w#w-lnd92252-043-p7s1w7</LM>
 </w.rf>
 <form>Radžabova</form>
-<tag><AM lemma="Radžabov_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Radžabův_;S_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="Radžabův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Radžabov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Radžabov_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Radžabův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Radžabův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Radžabov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Radžabův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="radžabova" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Radžabov_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-043-p7s1w8">

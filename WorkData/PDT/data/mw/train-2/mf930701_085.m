@@ -138,15 +138,7 @@
 <LM>w#w-mf930701-085-p2s1w4</LM>
 </w.rf>
 <form>lík</form>
-<tag><AM lemma="lík-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lík_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík" src="auto">NNIS4-----A----</AM>
-<AM lemma="lík" src="auto">NNIS1-----A----</AM>
-<AM lemma="lík" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="lík-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<tag><AM lemma="lík-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-085-p2s1w5">
@@ -1532,15 +1524,7 @@
 <LM>w#w-mf930701-085-p3s6w22</LM>
 </w.rf>
 <form>Karya</form>
-<tag><AM lemma="Karya_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Karya_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Karya_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Karya_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Karya_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Karyo_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Karya" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kary_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="karya" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Karya_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-085-p3s6w23">
@@ -1641,16 +1625,7 @@
 <LM>w#w-mf930701-085-p3s7w10</LM>
 </w.rf>
 <form>Murrain</form>
-<tag><AM lemma="Murrain_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Murrain_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Murrain_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Murrain_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Murrain_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Murrain_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Murrain_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Murrain_;G_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Murrain_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="murrain" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Murrain_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-085-p3s7w11">

@@ -331,16 +331,7 @@
 <LM>w#w-lnd92257-087-p2s3w10</LM>
 </w.rf>
 <form>Mattoše</form>
-<tag><AM lemma="Mattoš_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Mattoš_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Mattoš_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mattocha" src="auto">NNFS6-----A----</AM>
-<AM lemma="Mattoš_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Mattocha" src="auto">NNFS3-----A----</AM>
-<AM lemma="Mattoš" src="auto">NNIP4-----A----</AM>
-<AM lemma="Mattoš" src="auto">NNIS2-----A----</AM>
-<AM lemma="Mattoš" src="auto">NNFS2-----A----</AM>
-<AM lemma="mattoše" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mattoš_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-087-p2s3w11">

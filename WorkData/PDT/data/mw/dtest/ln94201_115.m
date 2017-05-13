@@ -2072,15 +2072,7 @@
 <LM>w#w-ln94201-115-p4s3w19</LM>
 </w.rf>
 <form>mayerlingology</form>
-<tag><AM lemma="mayerlingolog" src="orig">NNMP4-----A----</AM>
-<AM lemma="mayerlingolog" src="auto">NNMP7-----A----</AM>
-<AM lemma="mayerlingolog" src="auto">NNMP4-----A----</AM>
-<AM lemma="mayerlingology_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="mayerlingology_;R_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="mayerlingologa" src="auto">NNFP1-----A----</AM>
-<AM lemma="mayerlingolog" src="auto" recommended="1">NNIP4-----A----</AM>
-<AM lemma="mayerlingolog" src="auto">NNIP1-----A----</AM>
-<AM lemma="mayerlingologa" src="auto">NNFS2-----A----</AM>
+<tag><AM lemma="mayerlingolog" src="orig" selected="1">NNMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-115-p4s3w20">
@@ -2152,15 +2144,7 @@
 <LM>w#w-ln94201-115-p4s3w27</LM>
 </w.rf>
 <form>familie</form>
-<tag><AM lemma="familie" src="orig">NNFS1-----A----</AM>
-<AM lemma="familie" src="auto">NNFP1-----A----</AM>
-<AM lemma="familie_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="familie" src="auto">NNFS2-----A----</AM>
-<AM lemma="familie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="familie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="familie" src="auto">NNFP4-----A----</AM>
-<AM lemma="familie_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="familie_;Y" src="auto">NNFS2-----A----</AM>
+<tag><AM lemma="familie" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-115-p4s3w28">
@@ -2618,13 +2602,7 @@
 <LM>w#w-ln94201-115-p5s3w1</LM>
 </w.rf>
 <form>Mayerlinský</form>
-<tag><AM lemma="mayerlinský" src="orig">AAIS4----1A----</AM>
-<AM lemma="Mayerlinský" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="Mayerlinský" src="auto">AAMS1----1A----</AM>
-<AM lemma="Mayerlinský" src="auto">AAIS4----1A----</AM>
-<AM lemma="Mayerlinský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mayerlinský_;S" src="auto">AAMS1----1A----</AM>
-<AM lemma="mayerlinský" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="mayerlinský" src="orig" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-115-p5s3w2">
@@ -2923,16 +2901,7 @@
 <LM>w#w-ln94201-115-p5s4w26</LM>
 </w.rf>
 <form>Wallersee</form>
-<tag><AM lemma="Wallersee_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Wallersee_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Wallersee_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Wallersee_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Wallersee_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wallersee_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wallersee_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Wallersee_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="bungee_,t_^(Wallersee_jumping)" src="auto">AAXXX----1A----</AM>
-<AM lemma="wallersee" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Wallersee_;S" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-115-p5s4w27">
@@ -3420,18 +3389,7 @@
 <LM>w#w-ln94201-115-p5s5w38</LM>
 </w.rf>
 <form>Sissi</form>
-<tag><AM lemma="Sissi_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Siss" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Siss_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="Sisse" src="auto">NNFS3-----A----</AM>
-<AM lemma="Sisse" src="auto">NNFS4-----A----</AM>
-<AM lemma="Sisse" src="auto">NNFS6-----A----</AM>
-<AM lemma="Sissi" src="auto">Db-------------</AM>
-<AM lemma="Sissi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sissi_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sisbýt" src="auto">VB-S---2P-AA--7</AM>
-<AM lemma="sissi" src="auto">NNMS1-----A----</AM>
-<AM lemma="sissi-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="Sissi_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-115-p5s5w39">
@@ -4052,16 +4010,7 @@
 <LM>w#w-ln94201-115-p6s4w11</LM>
 </w.rf>
 <form>Kronen</form>
-<tag><AM lemma="Kronen_;R_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Kronen_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="vinný-1_^(kdo_je_Kronen/vinna)" src="auto">ACYS------A----</AM>
-<AM lemma="Krone_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Kronný" src="auto">ACYS------A----</AM>
-<AM lemma="Kronna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kron_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Kronen" src="auto">PDYS1----------</AM>
-<AM lemma="Kronen" src="auto" recommended="1">PDIS4----------</AM>
-<AM lemma="kronen" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kronen_;R_,t" src="orig" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-115-p6s4w12">

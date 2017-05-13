@@ -618,16 +618,7 @@
 <LM>w#w-mf930708-157-p3s1w11</LM>
 </w.rf>
 <form>Yersey</form>
-<tag><AM lemma="Yersey_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Yersey_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Yersey_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Yersey_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Yersey_;K" src="auto">NNMXX-----A----</AM>
-<AM lemma="Yersey_;G_^(ostrov)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Yersey_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Yersey_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Yersey_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="yersey" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Yersey_;G" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-157-p3s1w12">
@@ -3317,16 +3308,7 @@
 <LM>w#w-mf930708-157-p8s3w15</LM>
 </w.rf>
 <form>Asvánu</form>
-<tag><AM lemma="Asván_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Asván_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Asván" src="auto">NNIS2-----A----</AM>
-<AM lemma="Asván_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Asván_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Asván_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Asván" src="auto">NNIS6-----A----</AM>
-<AM lemma="Asvána" src="auto">NNFS4-----A----</AM>
-<AM lemma="Asván" src="auto">NNIS6-----A---1</AM>
-<AM lemma="asvánu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Asván_;G" src="orig" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-157-p8s3w16">

@@ -1380,16 +1380,7 @@
 <LM>w#w-lnd92255-118-p7s1w9</LM>
 </w.rf>
 <form>Kolexu</form>
-<tag><AM lemma="Kolex_;m" src="orig">NNIS2-----A----</AM>
-<AM lemma="Kolex" src="auto">NNIS6-----A----</AM>
-<AM lemma="Kolex" src="auto">NNIS2-----A----</AM>
-<AM lemma="Kolex_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Kolex_;R" src="auto">NNIS2-----A----</AM>
-<AM lemma="Kolex_;K" src="auto">NNIS6-----A----</AM>
-<AM lemma="Kolex" src="auto">NNIS3-----A----</AM>
-<AM lemma="Kolexa_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kolex_;m" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="kolexu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kolex_;m" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-118-p7s1w10">

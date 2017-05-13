@@ -848,13 +848,7 @@
 <LM>w#w-mf930708-108-p3s1w10</LM>
 </w.rf>
 <form>Haningeho</form>
-<tag><AM lemma="Haninge_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Haninge_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Haninge_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Haninge_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Haninge_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Haninge-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="haningeho" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Haninge_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-108-p3s1w11">

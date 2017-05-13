@@ -1711,16 +1711,7 @@
 <LM>w#w-lnd92254-105-p4s2Cw8</LM>
 </w.rf>
 <form>Corwin</form>
-<tag><AM lemma="Corwin_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Corwin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Corwin_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Corwin_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="Corwina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Corwin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Corwin" src="auto">NNIS4-----A----</AM>
-<AM lemma="Corwin_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Corwin_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="corwin" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Corwin_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-105-p4s2Cw9">
@@ -1893,21 +1884,7 @@
 <LM>w#w-lnd92254-105-p4s3Bw11</LM>
 </w.rf>
 <form>Eerie</form>
-<tag><AM lemma="Eerie_;m" src="orig">NNFS2-----A----</AM>
-<AM lemma="Eerie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Eerie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Eerie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eerie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Eerie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eerie_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Eerie_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Eerie_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="eeria_,t_^(záliv_podobný_fjordu)" src="auto">NNFP1-----A----</AM>
-<AM lemma="eeria_,t_^(záliv_podobný_fjordu)" src="auto">NNFP4-----A----</AM>
-<AM lemma="eeria_,t_^(záliv_podobný_fjordu)" src="auto">NNFP5-----A----</AM>
-<AM lemma="eeria_,t_^(záliv_podobný_fjordu)" src="auto">NNFS2-----A----</AM>
-<AM lemma="eeria_,t_^(záliv_podobný_fjordu)" src="auto">NNFS5-----A----</AM>
-<AM lemma="eerie" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Eerie_;m" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-105-p4s3Bw12">
@@ -2035,15 +2012,7 @@
 <LM>w#w-lnd92254-105-p4s4Bw5</LM>
 </w.rf>
 <form>Corwinovi</form>
-<tag><AM lemma="Corwin_;Y" src="orig">NNMS6-----A----</AM>
-<AM lemma="Corwin_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Corwin" src="auto">NNMS3-----A----</AM>
-<AM lemma="Corwin_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Corwina_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Corwin_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Corwin" src="auto" recommended="1">NNMS6-----A----</AM>
-<AM lemma="Corwinův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="corwinovi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Corwin_;Y" src="orig" selected="1">NNMS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-105-p4s4Bw6">
@@ -3102,16 +3071,7 @@
 <LM>w#w-lnd92254-105-p3s1Ew1</LM>
 </w.rf>
 <form>Róši</form>
-<tag><AM lemma="Róši_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Róši_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Róša_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Róch" src="auto">NNMP1-----A----</AM>
-<AM lemma="Róše" src="auto">NNFS4-----A----</AM>
-<AM lemma="Róš_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="Róch_;E" src="auto">NNMP1-----A----</AM>
-<AM lemma="Róši_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Róše" src="auto">NNFS6-----A----</AM>
-<AM lemma="róši" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Róši_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-105-p3s1Ew2">
@@ -3120,16 +3080,7 @@
 <LM>w#w-lnd92254-105-p3s1Ew2</LM>
 </w.rf>
 <form>Kapleau</form>
-<tag><AM lemma="Kapleau_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kapleau_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kapleau_;S_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kapleau_;K" src="auto">NNMXX-----A----</AM>
-<AM lemma="Kapleau_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="Kapleau_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Kapleau-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kapleau_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="au-2_,t_^(Kapleau-pair)" src="auto">AAXXX----1A----</AM>
-<AM lemma="kapleau" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kapleau_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -4623,16 +4574,7 @@
 <LM>w#w-lnd92254-105-p2s1Gw2</LM>
 </w.rf>
 <form>Engemann</form>
-<tag><AM lemma="Engemann_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Engemann_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Engemann_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Engemann_;R_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Engemann_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="Engemann_,s" src="auto">NNMS1-----A----</AM>
-<AM lemma="Engemann_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="SF-2`Sinn-1_;K_,t_^(Engemann_Fein)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Engemanné_:B_;S_;K_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="engemann" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Engemann_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -4970,16 +4912,7 @@
 <LM>w#w-lnd92254-105-p3s1Hw7</LM>
 </w.rf>
 <form>Ötzu</form>
-<tag><AM lemma="Ötz_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Ötz_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Ötz_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ötzu_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Ötz" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ötza" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ötz" src="auto">NNIS3-----A----</AM>
-<AM lemma="Ötz" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Ötz" src="auto">NNIS6-----A----</AM>
-<AM lemma="ötzu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ötz_;G" src="orig" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-105-p3s1Hw8">
@@ -5265,12 +5198,7 @@
 <LM>w#w-lnd92254-105-p1s1Iw3</LM>
 </w.rf>
 <form>iťu</form>
-<tag><AM lemma="iťu-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="iťu-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="iť" src="auto">NNIS2-----A----</AM>
-<AM lemma="iťa" src="auto">NNFS4-----A----</AM>
-<AM lemma="iť" src="auto">NNIS6-----A----</AM>
-<AM lemma="iť" src="auto">NNIS3-----A----</AM>
+<tag><AM lemma="iťu-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-105-p1s1Iw4">

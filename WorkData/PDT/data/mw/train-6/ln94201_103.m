@@ -830,16 +830,7 @@
 <LM>w#w-ln94201-103-p3s3w10</LM>
 </w.rf>
 <form>Služobnaja</form>
-<tag><AM lemma="služobnyj_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="Služobnij_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Služobnaja_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Služobnať_,t" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="Služobnyj_;R_,t" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="Služobnyj_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Služobnij_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Služobnaja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Služobnaja_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="služobnaja" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="služobnyj_,t" src="orig" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-103-p3s3w11">

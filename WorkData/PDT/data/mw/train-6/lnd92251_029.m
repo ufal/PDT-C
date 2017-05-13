@@ -918,16 +918,7 @@
 <LM>w#w-lnd92251-029-p3s6w16</LM>
 </w.rf>
 <form>předopálením</form>
-<tag><AM lemma="předopálení" src="orig">NNNS7-----A----</AM>
-<AM lemma="předopálení" src="auto">AAFP3----1A----</AM>
-<AM lemma="předopálení" src="auto">AAIP3----1A----</AM>
-<AM lemma="předopálení" src="auto">AAIS6----1A----</AM>
-<AM lemma="předopálení" src="auto">AAIS7----1A----</AM>
-<AM lemma="předopálení" src="auto">AANS6----1A----</AM>
-<AM lemma="předopálení" src="auto">AANS7----1A----</AM>
-<AM lemma="předopálení_^(*3at)" src="auto">NNNS7-----A----</AM>
-<AM lemma="předopálení_^(*3it)" src="auto">NNNP3-----A----</AM>
-<AM lemma="předopálení_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
+<tag><AM lemma="předopálení" src="orig" selected="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-029-p3s6w17">

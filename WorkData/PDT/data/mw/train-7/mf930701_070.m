@@ -178,18 +178,7 @@
 <LM>w#w-mf930701-070-p3s2w9</LM>
 </w.rf>
 <form>NOSPAS</form>
-<tag><AM lemma="NOSPAS_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="NOSPAS_:B_;K_^(kupónový_fond)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="NOSPAS_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="Nospas" src="auto">NNIS4-----A----</AM>
-<AM lemma="Nospas" src="auto">NNIS1-----A----</AM>
-<AM lemma="pas-3_,t_^(faux_Nospas)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Nospas_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nospas_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nospas-2_^(na_lidském_těle)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Nospas-2_^(na_lidském_těle)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nospas-1_^(př._cestovní)" src="auto">NNIS4-----A----</AM>
-<AM lemma="nospas" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="NOSPAS_:B_;K" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s2w10">
@@ -1241,28 +1230,7 @@
 <LM>w#w-mf930701-070-p3s6w14</LM>
 </w.rf>
 <form>SNIP</form>
-<tag><AM lemma="SNIP_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SNIP-1_:B_,t_^(very_important_person)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SNIP-1_:B_;K_,t_^(Wirtschaftspartai)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SNIP-5_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SNIP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SNIP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SNIP_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Snip" src="auto">NNIS1-----A----</AM>
-<AM lemma="Snip" src="auto">NNIS4-----A----</AM>
-<AM lemma="Snip_;K" src="auto">NNISX-----A----</AM>
-<AM lemma="Snip_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Snip_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Snip_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Snip_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Snip_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="snip" src="auto">NNMS1-----A----</AM>
-<AM lemma="snip-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="snip_,a_,s_^(drobný_umělecký_předmět)" src="auto">NNIS1-----A----</AM>
-<AM lemma="snip_,a_,s_^(drobný_umělecký_předmět)" src="auto">NNIS4-----A----</AM>
-<AM lemma="snipage_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="snipodnik_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="snipopisný_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="SNIP_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s6w15">
@@ -1777,28 +1745,7 @@
 <LM>w#w-mf930701-070-p3s10w15</LM>
 </w.rf>
 <form>SNIP</form>
-<tag><AM lemma="SNIP_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SNIP-1_:B_,t_^(very_important_person)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SNIP-1_:B_;K_,t_^(Wirtschaftspartai)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SNIP-5_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SNIP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SNIP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SNIP_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Snip" src="auto">NNIS1-----A----</AM>
-<AM lemma="Snip" src="auto">NNIS4-----A----</AM>
-<AM lemma="Snip_;K" src="auto">NNISX-----A----</AM>
-<AM lemma="Snip_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Snip_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Snip_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Snip_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Snip_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="snip" src="auto">NNMS1-----A----</AM>
-<AM lemma="snip-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="snip_,a_,s_^(drobný_umělecký_předmět)" src="auto">NNIS1-----A----</AM>
-<AM lemma="snip_,a_,s_^(drobný_umělecký_předmět)" src="auto">NNIS4-----A----</AM>
-<AM lemma="snipage_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="snipodnik_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="snipopisný_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="SNIP_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s10w16">
@@ -2231,28 +2178,7 @@
 <LM>w#w-mf930701-070-p3s14w10</LM>
 </w.rf>
 <form>SNIP</form>
-<tag><AM lemma="SNIP_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SNIP-1_:B_,t_^(very_important_person)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SNIP-1_:B_;K_,t_^(Wirtschaftspartai)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SNIP-5_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SNIP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SNIP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SNIP_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Snip" src="auto">NNIS1-----A----</AM>
-<AM lemma="Snip" src="auto">NNIS4-----A----</AM>
-<AM lemma="Snip_;K" src="auto">NNISX-----A----</AM>
-<AM lemma="Snip_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Snip_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Snip_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Snip_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Snip_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="snip" src="auto">NNMS1-----A----</AM>
-<AM lemma="snip-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="snip_,a_,s_^(drobný_umělecký_předmět)" src="auto">NNIS1-----A----</AM>
-<AM lemma="snip_,a_,s_^(drobný_umělecký_předmět)" src="auto">NNIS4-----A----</AM>
-<AM lemma="snipage_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="snipodnik_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="snipopisný_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="SNIP_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s14w11">

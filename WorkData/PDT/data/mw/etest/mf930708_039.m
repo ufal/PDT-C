@@ -19,26 +19,7 @@
 <LM>w#w-mf930708-039-p1s1w1</LM>
 </w.rf>
 <form>Voest</form>
-<tag><AM lemma="Voest_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Voest" src="auto">NNFS1-----A----</AM>
-<AM lemma="Voest" src="auto">NNFS4-----A----</AM>
-<AM lemma="Voest" src="auto">NNIS1-----A----</AM>
-<AM lemma="Voest" src="auto">NNIS4-----A----</AM>
-<AM lemma="Voest_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Voest_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Voest_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="voest" src="auto">NNMS1-----A----</AM>
-<AM lemma="voest-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="auto">NNIXX-----A----</AM>
-<AM lemma="voest-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="voest-2_:B_^(stat,_jednotka_aktivity)" src="auto">NNIXX-----A----</AM>
-<AM lemma="voest-3_:B_^(střídavý_[elektrický_proud])" src="auto">AAXXX----1A----</AM>
-<AM lemma="voest-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="voest-9_:B_^(středa)" src="auto">NNFXX-----A----</AM>
-<AM lemma="voestarší_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="voestelefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
-<AM lemma="voestoletí_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="voestupeň_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="voestátní_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="Voest_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-039-p1s1w2">
@@ -212,26 +193,7 @@
 <LM>w#w-mf930708-039-p2s1w13</LM>
 </w.rf>
 <form>Voest</form>
-<tag><AM lemma="Voest_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Voest" src="auto">NNFS1-----A----</AM>
-<AM lemma="Voest" src="auto">NNFS4-----A----</AM>
-<AM lemma="Voest" src="auto">NNIS1-----A----</AM>
-<AM lemma="Voest" src="auto">NNIS4-----A----</AM>
-<AM lemma="Voest_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Voest_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Voest_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="voest" src="auto">NNMS1-----A----</AM>
-<AM lemma="voest-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="auto">NNIXX-----A----</AM>
-<AM lemma="voest-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="voest-2_:B_^(stat,_jednotka_aktivity)" src="auto">NNIXX-----A----</AM>
-<AM lemma="voest-3_:B_^(střídavý_[elektrický_proud])" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="voest-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="voest-9_:B_^(středa)" src="auto">NNFXX-----A----</AM>
-<AM lemma="voestarší_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="voestelefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
-<AM lemma="voestoletí_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="voestupeň_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="voestátní_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="Voest_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-039-p2s1w14">
@@ -583,16 +545,7 @@
 <LM>w#w-mf930708-039-p2s4w6</LM>
 </w.rf>
 <form>Nesita</form>
-<tag><AM lemma="Nesit_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Nesita" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nesít" src="auto" recommended="1">VsQW---XX-AP---</AM>
-<AM lemma="Nesita_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nesita_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nesita" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nesito_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Nesita_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nesita-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="nesita" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nesit_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-039-p2s4w7">

@@ -1997,18 +1997,7 @@
 <LM>w#w-mf930701-104-p2s11w18</LM>
 </w.rf>
 <form>BIESSE</form>
-<tag><AM lemma="Biesse_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Biess_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Biess_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Biesse_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Biesse_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Biesse_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Biesse_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Biesse_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Biesse_;m" src="auto">NNIXX-----A----</AM>
-<AM lemma="Biesse_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="biesse" src="auto">NNMS1-----A----</AM>
-<AM lemma="biesse-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="Biesse_;K" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-104-p2s11w19">

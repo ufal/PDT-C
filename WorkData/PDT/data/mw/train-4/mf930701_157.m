@@ -183,16 +183,7 @@
 <LM>w#w-mf930701-157-p2s1w14</LM>
 </w.rf>
 <form>Džulemanovové</form>
-<tag><AM lemma="Džulemanovová_;S" src="orig">NNFS3-----A----</AM>
-<AM lemma="Džulemanovový" src="auto">AAFS2----1A----</AM>
-<AM lemma="Džulemanovová_;S" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Džulemanovový" src="auto">AAFS6----1A----</AM>
-<AM lemma="Džulemanovový" src="auto">AAFP1----1A----</AM>
-<AM lemma="Džulemanovový" src="auto">AAIP1----1A----</AM>
-<AM lemma="Džulemanovový" src="auto">AAIP4----1A----</AM>
-<AM lemma="Džulemanovový" src="auto">AAFP4----1A----</AM>
-<AM lemma="Džulemanovový" src="auto">AANS1----1A----</AM>
-<AM lemma="džulemanovové" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Džulemanovová_;S" src="orig" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-157-p2s1w15">
@@ -1212,16 +1203,7 @@
 <LM>w#w-mf930701-157-p2s6w25</LM>
 </w.rf>
 <form>Džulemanovová</form>
-<tag><AM lemma="Džulemanovová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Džulemanovová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Džulemanovový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Džulemanovový" src="auto">AANP1----1A----</AM>
-<AM lemma="Džulemanovový" src="auto">AANP4----1A----</AM>
-<AM lemma="Džulemanovová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Džulemanovová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Džulemanovový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Džulemanovový" src="auto">AAFS5----1A----</AM>
-<AM lemma="džulemanovová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Džulemanovová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-157-p2s6w26">

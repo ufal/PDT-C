@@ -422,16 +422,7 @@
 <LM>w#w-mf930708-033-p2s2w7</LM>
 </w.rf>
 <form>Pierer</form>
-<tag><AM lemma="Pierer_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pierer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pierer_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pierer" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pierer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pierer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pierer_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pierer" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pierra" src="auto">NNFP2-----A----</AM>
-<AM lemma="pierer" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pierer_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-033-p2s2w8">
@@ -915,16 +906,7 @@
 <LM>w#w-mf930708-033-p2s5w10</LM>
 </w.rf>
 <form>Pierera</form>
-<tag><AM lemma="Pierer_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Pierer_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Pierer_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Pierera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pierer" src="auto">NNMS4-----A----</AM>
-<AM lemma="Pierer" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pierera" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pierer_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pierero" src="auto">NNNS2-----A----</AM>
-<AM lemma="pierera" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pierer_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-033-p2s5w11">

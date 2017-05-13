@@ -463,13 +463,7 @@
 <LM>w#w-lnd92252-092-p4s2w1</LM>
 </w.rf>
 <form>Sporiteľna</form>
-<tag><AM lemma="Sporiteľňa_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sporiteľňa_;K_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Sporiteľna_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sporiteľna" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sporiteľn_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sporiteľn_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="sporiteľna" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sporiteľňa_;K_,t" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p4s2w2">
@@ -622,16 +616,7 @@
 <LM>w#w-lnd92252-092-p4s2w18</LM>
 </w.rf>
 <form>Nürnbebergerová</form>
-<tag><AM lemma="Nürnbebergerová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Nürnbebergerová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Nürnbebergerový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Nürnbebergerový" src="auto">AANP1----1A----</AM>
-<AM lemma="Nürnbebergerový" src="auto">AANP4----1A----</AM>
-<AM lemma="Nürnbebergerová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nürnbebergerová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nürnbebergerový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Nürnbebergerový" src="auto">AAFS5----1A----</AM>
-<AM lemma="nürnbebergerová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nürnbebergerová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p4s2w19">
@@ -866,16 +851,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Brartislava</form>
-<tag><AM lemma="Bratislava_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Brartislava" src="auto">NNFS1-----A----</AM>
-<AM lemma="Brartislava_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Brartislav_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Brartislava_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Brartislav_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Brartislav-1_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Brartislava_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Brartislav-1_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="brartislava" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bratislava_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p4s2w45">
@@ -992,16 +968,7 @@
 <LM>w#w-lnd92252-092-p4s2w57</LM>
 </w.rf>
 <form>Janosová</form>
-<tag><AM lemma="Janosová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Janosová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Janosový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Janosový" src="auto">AANP1----1A----</AM>
-<AM lemma="Janosový" src="auto">AANP4----1A----</AM>
-<AM lemma="Janosová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Janosová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Janosový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Janosový" src="auto">AAFS5----1A----</AM>
-<AM lemma="janosová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Janosová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p4s2w58">
@@ -1325,16 +1292,7 @@
 <LM>w#w-lnd92252-092-p4s2w93</LM>
 </w.rf>
 <form>Bankovová</form>
-<tag><AM lemma="Bankovová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Bankovová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Bankovový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Bankovový" src="auto">AANP1----1A----</AM>
-<AM lemma="Bankovový" src="auto">AANP4----1A----</AM>
-<AM lemma="Bankovová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bankovová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bankovový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Bankovový" src="auto">AAFS5----1A----</AM>
-<AM lemma="bankovová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bankovová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p4s2w94">
@@ -1703,16 +1661,7 @@
 <LM>w#w-lnd92252-092-p4s2w134</LM>
 </w.rf>
 <form>Krtinaitineová</form>
-<tag><AM lemma="Krtinaitineová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Krtinaitineová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Krtinaitineový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Krtinaitineový" src="auto">AANP1----1A----</AM>
-<AM lemma="Krtinaitineový" src="auto">AANP4----1A----</AM>
-<AM lemma="Krtinaitineová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Krtinaitineová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Krtinaitineový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Krtinaitineový" src="auto">AAFS5----1A----</AM>
-<AM lemma="krtinaitineová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Krtinaitineová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p4s2w135">
@@ -1766,13 +1715,7 @@
 <LM>w#w-lnd92252-092-p4s2w140</LM>
 </w.rf>
 <form>Sporiteľna</form>
-<tag><AM lemma="Sporiteľňa_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sporiteľňa_;K_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Sporiteľna_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sporiteľna" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sporiteľn_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sporiteľn_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="sporiteľna" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sporiteľňa_;K_,t" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p4s2w141">
@@ -2796,13 +2739,7 @@
 <LM>w#w-lnd92252-092-p18s1w3</LM>
 </w.rf>
 <form>Sporiteľna</form>
-<tag><AM lemma="Sporiteľňa_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sporiteľňa_;K_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Sporiteľna_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sporiteľna" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sporiteľn_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sporiteľn_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="sporiteľna" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sporiteľňa_;K_,t" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p18s1w4">

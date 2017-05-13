@@ -1263,20 +1263,7 @@
 <LM>w#w-lnd92255-125-p4s4w3</LM>
 </w.rf>
 <form>Sosa</form>
-<tag><AM lemma="Sosa_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sos" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sos" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sos-1_^(zvíře)" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sosa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sosa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sosa_;U" src="auto">NNFS1-----A----</AM>
-<AM lemma="Soso_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sosý" src="auto">ACQW------A----</AM>
-<AM lemma="sosa" src="auto">NNFS1-----A----</AM>
-<AM lemma="sosa" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="sosa-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="sosa-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="sosakciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="Sosa_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-125-p4s4w4">
@@ -1314,16 +1301,7 @@
 <LM>w#w-lnd92255-125-p4s5w1</LM>
 </w.rf>
 <form>Desideri</form>
-<tag><AM lemma="Desideri_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Desideri_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Desideri_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Desideri_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Desideri_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Desideri_,t" src="auto">Db-------------</AM>
-<AM lemma="Desideri_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Desideri_;m" src="auto">ClXP1----------</AM>
-<AM lemma="Desideri_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="desideri" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Desideri_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-125-p4s5w2">
@@ -1541,16 +1519,7 @@
 <LM>w#w-lnd92255-125-p4s6w1</LM>
 </w.rf>
 <form>Bortolazzi</form>
-<tag><AM lemma="Bortolazzi_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bortolazzi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bortolazzi_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bortolazzi_;G" src="auto" recommended="1">NNNSX-----A----</AM>
-<AM lemma="Bortolazze" src="auto">NNFS4-----A----</AM>
-<AM lemma="Bortolazze" src="auto">NNFS6-----A----</AM>
-<AM lemma="Bortolazze" src="auto">NNFS3-----A----</AM>
-<AM lemma="Bortolazh" src="auto">NNMP1-----A----</AM>
-<AM lemma="Bortolazz" src="auto">NNMS3-----A----</AM>
-<AM lemma="bortolazzi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bortolazzi_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-125-p4s6w2">
@@ -2070,16 +2039,7 @@
 <LM>w#w-lnd92255-125-p4s14w1</LM>
 </w.rf>
 <form>Signori</form>
-<tag><AM lemma="Signori_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Signori_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Signori_,t" src="auto">Db-------------</AM>
-<AM lemma="Signori_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Signori_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Signori_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Signori_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Signori_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Signori_;m" src="auto">ClXP1----------</AM>
-<AM lemma="signori" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Signori_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-125-p4s14w2">
@@ -2470,17 +2430,7 @@
 <LM>w#w-lnd92255-125-p4s16w1</LM>
 </w.rf>
 <form>Annoni</form>
-<tag><AM lemma="Annoni_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Annon" src="auto">NNMP1-----A----</AM>
-<AM lemma="Annoni" src="auto">Db-------------</AM>
-<AM lemma="Annoni_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Annoň_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Annoňa_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="Annůň" src="auto">NNMP7-----A----</AM>
-<AM lemma="Annůň" src="auto">NNMS6-----A----</AM>
-<AM lemma="annoni" src="auto">NNMS1-----A----</AM>
-<AM lemma="annoni-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="vAnnoni_,h" src="auto">Db------------1</AM>
+<tag><AM lemma="Annoni_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-125-p4s16w2">
@@ -2725,16 +2675,7 @@
 <LM>w#w-lnd92255-125-p4s17w1</LM>
 </w.rf>
 <form>Policano</form>
-<tag><AM lemma="Policano_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Policano_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Policano_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Policano_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Policano_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Policano" src="auto">NNNS4-----A----</AM>
-<AM lemma="Policano" src="auto">NNNS1-----A----</AM>
-<AM lemma="Policano_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Policano_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="policano" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Policano_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-125-p4s17w2">
@@ -3295,23 +3236,7 @@
 <LM>w#w-lnd92255-125-p6s2w10</LM>
 </w.rf>
 <form>Nou</form>
-<tag><AM lemma="Nou_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Ný" src="auto">AAFS4----1A----</AM>
-<AM lemma="Na" src="auto">NNFS7-----A----</AM>
-<AM lemma="Ný" src="auto">AAFS7----1A----</AM>
-<AM lemma="Ný_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="Ný_^(*3it)" src="auto">AAFS4----1A----</AM>
-<AM lemma="Na_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Ný_^(*2t)" src="auto">AAFS7----1A----</AM>
-<AM lemma="Ná_;S" src="auto">NNFS7-----A----</AM>
-<AM lemma="ný" src="auto">AAFS4----1A----</AM>
-<AM lemma="ný" src="auto">AAFS7----1A----</AM>
-<AM lemma="ný_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="na" src="auto">NNFS7-----A----</AM>
-<AM lemma="ný_^(*3it)" src="auto">AAFS4----1A----</AM>
-<AM lemma="ný_^(*2t)" src="auto">AAFS7----1A----</AM>
-<AM lemma="ný_^(*3it)" src="auto">AAFS7----1A----</AM>
-<AM lemma="nout_:W" src="auto" recommended="1">VB-P---3P-AA---</AM>
+<tag><AM lemma="Nou_;G" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-125-p6s2w11">
@@ -3420,16 +3345,7 @@
 <LM>w#w-lnd92255-125-p6s2w22</LM>
 </w.rf>
 <form>Atleticem</form>
-<tag><AM lemma="Atletico_;K" src="orig">NNIS7-----A----</AM>
-<AM lemma="Atletiec" src="auto">NNMS7-----A----</AM>
-<AM lemma="Atletice" src="auto">NNMS7-----A----</AM>
-<AM lemma="Atletiec" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="Atletic_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Atletice" src="auto">NNNS7-----A----</AM>
-<AM lemma="Atletiec_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Atletic" src="auto">NNIS7-----A----</AM>
-<AM lemma="Atletic" src="auto">NNMS7-----A----</AM>
-<AM lemma="atleticem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Atletico_;K" src="orig" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-125-p6s2w23">
@@ -3856,16 +3772,7 @@
 <LM>w#w-lnd92255-125-p6s4w12</LM>
 </w.rf>
 <form>Beguiristain</form>
-<tag><AM lemma="Beguiristain_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Beguiristain_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Beguiristain_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Beguiristain_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Beguiristain_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Beguiristain_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Beguiristain_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Beguiristain_;G_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Beguiristain_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="beguiristain" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Beguiristain_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-125-p6s4w13">
@@ -4751,15 +4658,7 @@
 <LM>w#w-lnd92255-125-p7s5w33</LM>
 </w.rf>
 <form>Orlygsson</form>
-<tag><AM lemma="Orlygsson_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Orlygsson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Orlygsson_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Orlygsson_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Orlygsson_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Orlygsson" src="auto">NNIS1-----A----</AM>
-<AM lemma="Orlygsson_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Orlygsson_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="orlygsson" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Orlygsson_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-125-p7s5w34">

@@ -882,18 +882,7 @@
 <LM>w#w-ln94201-78-p5s1w9</LM>
 </w.rf>
 <form>Sian</form>
-<tag><AM lemma="Sian_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Sian_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Sian_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sian_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sian_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Siano" src="auto">NNNP2-----A----</AM>
-<AM lemma="Sianum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Sián_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sián_;Y_,x" src="auto">NNMS1-----A----</AM>
-<AM lemma="sia-2_,t_^(angl._neurč._člen_před_samohl.)" src="auto">AAXXX----1A---1</AM>
-<AM lemma="sian" src="auto">NNMS1-----A----</AM>
-<AM lemma="sian-2_;G_,t_^(Tchien-an-men)" src="auto">NNIXX-----A----</AM>
+<tag><AM lemma="Sian_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-78-p5s1w10">

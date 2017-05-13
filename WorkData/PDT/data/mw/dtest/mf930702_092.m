@@ -787,16 +787,7 @@
 <LM>w#w-mf930702-092-p3s4w9</LM>
 </w.rf>
 <form>Surgy</form>
-<tag><AM lemma="Surga_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Surgy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Surga_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Surgy_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Surgy_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Surg" src="auto">NNMP7-----A----</AM>
-<AM lemma="Surg" src="auto">NNMP4-----A----</AM>
-<AM lemma="Surga" src="auto">NNFS2-----A----</AM>
-<AM lemma="Surg" src="auto">NNIP1-----A----</AM>
-<AM lemma="surgy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Surga_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-092-p3s4w10">

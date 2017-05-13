@@ -549,15 +549,7 @@
 <LM>w#w-mf930702-116-p14s1w3</LM>
 </w.rf>
 <form>št</form>
-<tag><AM lemma="štátný_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="šta" src="auto">NNFP2-----A----</AM>
-<AM lemma="štátný_:B_;K_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="štátný_:B_,t" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="št_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="št" src="auto">NNMS1-----A----</AM>
-<AM lemma="št" src="auto">NNIS1-----A----</AM>
-<AM lemma="št_:W" src="auto">Vf--------A----</AM>
-<AM lemma="št_:T" src="auto">Vf--------A----</AM>
+<tag><AM lemma="štátný_:B_;K_,t" src="orig" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-116-p14s1w4">
@@ -575,12 +567,7 @@
 <LM>w#w-mf930702-116-p14s1w5</LM>
 </w.rf>
 <form>sporiteľna</form>
-<tag><AM lemma="sporiteľna_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="sporiteľňa_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="sporiteľna_;K_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="sporiteľna" src="auto">NNFS1-----A----</AM>
-<AM lemma="sporiteľn_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="sporiteľn_;S" src="auto">NNMS4-----A----</AM>
+<tag><AM lemma="sporiteľna_;K_,t" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-116-p14s1w6">
@@ -672,11 +659,7 @@
 <LM>w#w-mf930702-116-p16s1w3</LM>
 </w.rf>
 <form>poľ</form>
-<tag><AM lemma="poľnohospodárský_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="poľ-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="poľ_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="poľ_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="poľnohospodárský_:B_;K_,t" src="auto" recommended="1">AAXXX----1A---8</AM>
+<tag><AM lemma="poľnohospodárský_:B_;K_,t" src="orig" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-116-p16s1w4">

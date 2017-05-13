@@ -3017,14 +3017,7 @@
 <LM>w#w-lnd92258-080-p8s1w15</LM>
 </w.rf>
 <form>Golfklub</form>
-<tag><AM lemma="golfklub" src="orig">NNIS1-----A----</AM>
-<AM lemma="Golfklub" src="auto">NNIS1-----A----</AM>
-<AM lemma="Golfklub_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Golfklub" src="auto">NNIS4-----A----</AM>
-<AM lemma="Golfklub_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Golfklub_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Golfklub-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="golfklub" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="golfklub" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-080-p8s1w16">

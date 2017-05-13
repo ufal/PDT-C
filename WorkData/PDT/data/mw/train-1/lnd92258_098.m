@@ -1226,31 +1226,7 @@
 <LM>w#w-lnd92258-098-p4s1w16</LM>
 </w.rf>
 <form>národný</form>
-<tag><AM lemma="národný_,t" src="orig">AAMS1----1A----</AM>
-<AM lemma="národný" src="auto">AAFP1----1A---6</AM>
-<AM lemma="národný" src="auto">AAFP4----1A---6</AM>
-<AM lemma="národný" src="auto">AAFP5----1A---6</AM>
-<AM lemma="národný" src="auto">AAFS2----1A---6</AM>
-<AM lemma="národný" src="auto">AAFS3----1A---6</AM>
-<AM lemma="národný" src="auto">AAFS6----1A---6</AM>
-<AM lemma="národný" src="auto">AAIP1----1A---6</AM>
-<AM lemma="národný" src="auto">AAIP4----1A---6</AM>
-<AM lemma="národný" src="auto">AAIP5----1A---6</AM>
-<AM lemma="národný" src="auto">AAIS1----1A----</AM>
-<AM lemma="národný" src="auto">AAIS4----1A----</AM>
-<AM lemma="národný" src="auto">AAIS5----1A----</AM>
-<AM lemma="národný" src="auto">AAMP1----1A---6</AM>
-<AM lemma="národný" src="auto">AAMP4----1A---6</AM>
-<AM lemma="národný" src="auto">AAMP5----1A---6</AM>
-<AM lemma="národný" src="auto">AAMS1----1A----</AM>
-<AM lemma="národný" src="auto">AAMS5----1A----</AM>
-<AM lemma="národný" src="auto">AANP1----1A---6</AM>
-<AM lemma="národný" src="auto">AANP4----1A---6</AM>
-<AM lemma="národný" src="auto">AANP5----1A---6</AM>
-<AM lemma="národný" src="auto">AANS1----1A---6</AM>
-<AM lemma="národný" src="auto">AANS4----1A---6</AM>
-<AM lemma="národný" src="auto">AANS5----1A---6</AM>
-<AM lemma="národný_^(kdo_za_něco_odpovídá)" src="auto" recommended="1">AAMS1----1A----</AM>
+<tag><AM lemma="národný_,t" src="orig" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-098-p4s1w17">
@@ -1286,12 +1262,7 @@
 <LM>w#w-lnd92258-098-p4s1w20</LM>
 </w.rf>
 <form>národnostný</form>
-<tag><AM lemma="národnostný_,t" src="orig">AAMS1----1A----</AM>
-<AM lemma="národnostný" src="auto">AAIS1----1A----</AM>
-<AM lemma="národnostný" src="auto">AAIS4----1A----</AM>
-<AM lemma="národnostný" src="auto" recommended="1">AAMS1----1A----</AM>
-<AM lemma="národnostný_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="národnostný_;S" src="auto">AAMS1----1A----</AM>
+<tag><AM lemma="národnostný_,t" src="orig" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-098-p4s1w21">

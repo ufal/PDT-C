@@ -120,15 +120,7 @@
 <LM>w#w-ln94201-46-p2s1w6</LM>
 </w.rf>
 <form>Chakrapong</form>
-<tag><AM lemma="Chakrapong_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chakrapong_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chakrapong_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chakrapong_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chakrapong-2_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Chakrapong" src="auto">NNIS1-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-Chakrapong)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Long-1_;G_,t_^(Chakrapong_Island_apod.)" src="auto">AAXXX----1A----</AM>
-<AM lemma="chakrapong" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Chakrapong_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-46-p2s1w7">
@@ -638,15 +630,7 @@
 <LM>w#w-ln94201-46-p2s4w6</LM>
 </w.rf>
 <form>Youran</form>
-<tag><AM lemma="Youran_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Youran_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Yourana" src="auto">NNFP2-----A----</AM>
-<AM lemma="Youran_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_Youraně)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Yourany_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Yourancouzský_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Yourana-4_^(v_knize,_rukopise,...)" src="auto">NNFP2-----A----</AM>
-<AM lemma="youran" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Youran_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-46-p2s4w7">

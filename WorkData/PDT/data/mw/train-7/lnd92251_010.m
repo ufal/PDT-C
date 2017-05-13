@@ -398,16 +398,7 @@
 <LM>w#w-lnd92251-010-p3s3w5</LM>
 </w.rf>
 <form>Animal</form>
-<tag><AM lemma="Animal_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Animal_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Animala_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Animat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Animat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Animat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="animal" src="auto">NNMS1-----A----</AM>
-<AM lemma="animal_;G_^(al-Aiún)" src="auto">A2--------A----</AM>
-<AM lemma="animala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto">NNFP2-----A----</AM>
-<AM lemma="minimal_;u_,t_^(pouze_ve_spojení_Animal_art)" src="auto" recommended="1">AAXXX----1A----</AM>
+<tag><AM lemma="Animal_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-010-p3s3w6">
@@ -1153,16 +1144,7 @@
 <LM>w#w-lnd92251-010-p4s4w8</LM>
 </w.rf>
 <form>Animal</form>
-<tag><AM lemma="Animal_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Animal_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Animala_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Animat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Animat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Animat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="animal" src="auto">NNMS1-----A----</AM>
-<AM lemma="animal_;G_^(al-Aiún)" src="auto">A2--------A----</AM>
-<AM lemma="animala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto">NNFP2-----A----</AM>
-<AM lemma="minimal_;u_,t_^(pouze_ve_spojení_Animal_art)" src="auto" recommended="1">AAXXX----1A----</AM>
+<tag><AM lemma="Animal_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-010-p4s4w9">

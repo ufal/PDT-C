@@ -138,16 +138,7 @@
 <LM>w#w-ln94201-107-p2s1w13</LM>
 </w.rf>
 <form>Frizza</form>
-<tag><AM lemma="Frizza_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Frizzo_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Frizza_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Frizza" src="auto">NNFS1-----A----</AM>
-<AM lemma="Frizza_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Frizza_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Frizza_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Frizza_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Frizzo_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="frizza" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Frizza_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p2s1w14">
@@ -1185,16 +1176,7 @@
 <LM>w#w-ln94201-107-p2s6w18</LM>
 </w.rf>
 <form>Beppa</form>
-<tag><AM lemma="Beppo_;Y_,t_^(Giuseppe)" src="orig">NNMS4-----A----</AM>
-<AM lemma="Beppa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Beppe_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bepp_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bepp_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Bepp_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Beppa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Beppa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bepp" src="auto">NNMS2-----A----</AM>
-<AM lemma="beppa" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Beppo_;Y_,t_^(Giuseppe)" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p2s6w19">
@@ -1448,14 +1430,7 @@
 <LM>w#w-ln94201-107-p2s7w18</LM>
 </w.rf>
 <form>Schwarzental</form>
-<tag><AM lemma="Schwarzental_;G_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Schwarzentat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Schwarzentat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Schwarzentat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Schwarzental_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schwarzental_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Schwarzental_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="schwarzental" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Schwarzental_;G_,t" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p2s7w19">
@@ -3059,11 +3034,7 @@
 <LM>w#w-ln94201-107-p6s2w2</LM>
 </w.rf>
 <form>Comissariato</form>
-<tag><AM lemma="Comissariato_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Comissariato_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Comissarimout" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="Comissariato" src="auto">Db-------------</AM>
-<AM lemma="comissariato" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Comissariato_;K_,t" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p6s2w3">
@@ -3072,14 +3043,7 @@
 <LM>w#w-ln94201-107-p6s2w3</LM>
 </w.rf>
 <form>generale</form>
-<tag><AM lemma="generale_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="generale_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="generale_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="general" src="auto">NNIS6-----A----</AM>
-<AM lemma="generale_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="generala" src="auto">NNFS6-----A----</AM>
-<AM lemma="generale_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="generale-2_;S" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="generale_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p6s2w4">
@@ -3088,16 +3052,7 @@
 <LM>w#w-ln94201-107-p6s2w4</LM>
 </w.rf>
 <form>Onoranze</form>
-<tag><AM lemma="Onoranze_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Onoranze" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Onoranze" src="auto">NNFS2-----A----</AM>
-<AM lemma="Onoranze" src="auto">NNFP4-----A----</AM>
-<AM lemma="Onoranza_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Onoranz_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Onoranz_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Onoranz_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Onoranz_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="onoranze" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Onoranze_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p6s2w5">
@@ -3106,15 +3061,7 @@
 <LM>w#w-ln94201-107-p6s2w5</LM>
 </w.rf>
 <form>caduti</form>
-<tag><AM lemma="caduti_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="caduť" src="auto" recommended="1">NNFS2-----A---1</AM>
-<AM lemma="caduť" src="auto">NNFS6-----A----</AM>
-<AM lemma="cadut" src="auto">NNMP1-----A----</AM>
-<AM lemma="cadout_:W" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="caduť" src="auto">NNFS3-----A----</AM>
-<AM lemma="cadout" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="cadut_:W" src="auto">Vf--------A---2</AM>
-<AM lemma="cadut_,t" src="auto">NNMP1-----A----</AM>
+<tag><AM lemma="caduti_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p6s2w6">
@@ -3132,14 +3079,7 @@
 <LM>w#w-ln94201-107-p6s2w7</LM>
 </w.rf>
 <form>guerra</form>
-<tag><AM lemma="guerra_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="guerra_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="guerro_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="guerre_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="guerre_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="guerra_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="guerra_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="guerra_;G_;R" src="auto">NNFS1-----A----</AM>
+<tag><AM lemma="guerra_;K_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p6s2w8">
@@ -3805,14 +3745,7 @@
 <LM>w#w-ln94201-107-p7s2w2</LM>
 </w.rf>
 <form>ruhe</form>
-<tag><AM lemma="ruhe_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="ruhe_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="ruh_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ruhe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ruhe_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="ruh_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="ruhe_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ruhe_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="ruhe_,t" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p7s2w3">
@@ -3821,15 +3754,7 @@
 <LM>w#w-ln94201-107-p7s2w3</LM>
 </w.rf>
 <form>sanft</form>
-<tag><AM lemma="sanft_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="sanft_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="sanft_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="sanft_^(jako_součást_názvu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="sanft_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="sanft_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="sanft_;K_;b_;c" src="auto">NNIS1-----A----</AM>
-<AM lemma="sanft_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="sanft_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<tag><AM lemma="sanft_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p7s2w4">
@@ -4488,15 +4413,7 @@
 <LM>w#w-ln94201-107-p7s5w2</LM>
 </w.rf>
 <form>Schiró</form>
-<tag><AM lemma="Schiró_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Schiró_;S" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Schiró_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schiró-1" src="auto">II-------------</AM>
-<AM lemma="Schiró_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schiró_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Schiró_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Schiró" src="auto">II-------------</AM>
-<AM lemma="schiró" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Schiró_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p7s5w3">
@@ -4779,23 +4696,7 @@
 <LM>w#w-ln94201-107-p7s6w13</LM>
 </w.rf>
 <form>Gri</form>
-<tag><AM lemma="Gri_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gri_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gri_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Gri_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Gri_,t" src="auto">Db-------------</AM>
-<AM lemma="Gri_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Gri_;m" src="auto">ClXP1----------</AM>
-<AM lemma="Gri_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gri_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="gri_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="gri_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="gri_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="gri_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="gri_,t" src="auto">Db-------------</AM>
-<AM lemma="gri_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="gri_;m" src="auto">ClXP1----------</AM>
-<AM lemma="gri_;Y_,t" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gri_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p7s6w14">
@@ -9816,16 +9717,7 @@
 <LM>w#w-ln94201-107-p12s1w7</LM>
 </w.rf>
 <form>Frizza</form>
-<tag><AM lemma="Frizzo_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Frizzo_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Frizza_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Frizza" src="auto">NNFS1-----A----</AM>
-<AM lemma="Frizza_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Frizza_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Frizza_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Frizza_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Frizzo_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="frizza" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Frizzo_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p12s1w8">
@@ -9897,13 +9789,7 @@
 <LM>w#w-ln94201-107-p12s1w15</LM>
 </w.rf>
 <form>Giuseppeho</form>
-<tag><AM lemma="Giuseppe_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Giuseppe_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Giuseppe_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Giuseppe_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Giuseppe_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Giuseppe-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="giuseppeho" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Giuseppe_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p12s1w16">

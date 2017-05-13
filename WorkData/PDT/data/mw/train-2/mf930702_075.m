@@ -28,16 +28,7 @@
 <LM>w#w-mf930702-075-p1s1w2</LM>
 </w.rf>
 <form>Tour</form>
-<tag><AM lemma="Tour_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tour_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Toura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Tour_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tour_;R_,t" src="auto">PSXXX-X2-------</AM>
-<AM lemma="tour" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tour_;m_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-075-p1s1w3">
@@ -312,16 +303,7 @@
 <LM>w#w-mf930702-075-p2s3w5</LM>
 </w.rf>
 <form>Tour</form>
-<tag><AM lemma="Tour_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tour_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Toura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tour_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">NNFXX-----A----</AM>
-<AM lemma="Tour_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="Tour_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tour_;R_,t" src="auto">PSXXX-X2-------</AM>
-<AM lemma="tour" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tour_;m_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-075-p2s3w6">
@@ -409,23 +391,7 @@
 <LM>w#w-mf930702-075-p2s4w5</LM>
 </w.rf>
 <form>Puy</form>
-<tag><AM lemma="Puy_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Puy_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Pua_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Puy_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Puy_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Puy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Puy_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Puy_;K_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Pua" src="auto">NNFS2-----A----</AM>
-<AM lemma="pua_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="puy_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="puy_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="puy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="puy_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="puy_;K_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="puy_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="pua" src="auto">NNFS2-----A----</AM>
+<tag><AM lemma="Puy_;G" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-075-p2s4w6">
@@ -445,23 +411,7 @@
 <LM>w#w-mf930702-075-p2s4w7</LM>
 </w.rf>
 <form>Fou</form>
-<tag><AM lemma="Fou_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Fou_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Fý" src="auto">AAFS4----1A----</AM>
-<AM lemma="Fa" src="auto">NNFS7-----A----</AM>
-<AM lemma="Fý" src="auto">AAFS7----1A----</AM>
-<AM lemma="Fý_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="Fý_^(*3it)" src="auto">AAFS4----1A----</AM>
-<AM lemma="Fa_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Fý_^(*2t)" src="auto">AAFS7----1A----</AM>
-<AM lemma="fa" src="auto">NNFS7-----A----</AM>
-<AM lemma="fý" src="auto">AAFS4----1A----</AM>
-<AM lemma="fý" src="auto">AAFS7----1A----</AM>
-<AM lemma="fý_^(*2t)" src="auto">AAFS4----1A----</AM>
-<AM lemma="fý_^(*3it)" src="auto">AAFS4----1A----</AM>
-<AM lemma="fa_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="fý_^(*2t)" src="auto">AAFS7----1A----</AM>
-<AM lemma="fá_;S" src="auto">NNFS7-----A----</AM>
+<tag><AM lemma="Fou_;G" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-075-p2s4w8">
@@ -733,16 +683,7 @@
 <LM>w#w-mf930702-075-p3s1w9</LM>
 </w.rf>
 <form>Ocana</form>
-<tag><AM lemma="Ocana_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ocan_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ocan_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ocan_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ocan_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ocan" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ocan" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ocana" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ocan_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="ocana" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Ocana_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-075-p3s1w10">
@@ -886,16 +827,7 @@
 <LM>w#w-mf930702-075-p3s1w25</LM>
 </w.rf>
 <form>Thevenet</form>
-<tag><AM lemma="Thevenet_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Thevenet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Theveneta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Thevenet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Thevenet_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Thevenet_;R_^(letadlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Thevenet_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Thevenet_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Thevenet" src="auto">NNIS4-----A----</AM>
-<AM lemma="thevenet" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Thevenet_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-075-p3s1w26">
@@ -976,14 +908,7 @@
 <LM>w#w-mf930702-075-p3s1w34</LM>
 </w.rf>
 <form>Impe</form>
-<tag><AM lemma="Impe_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Impat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Impe_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Impe_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Impe_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Impe_;Y_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="impe" src="auto">NNMS1-----A----</AM>
-<AM lemma="impe-1_:B_,t_^(perlucidus,_průhledný,_druh_oblaku)" src="auto">NNIXX-----A---8</AM>
+<tag><AM lemma="Impe_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-075-p3s1w35">
@@ -1055,16 +980,7 @@
 <LM>w#w-mf930702-075-p3s1w42</LM>
 </w.rf>
 <form>Thevenet</form>
-<tag><AM lemma="Thevenet_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Thevenet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Theveneta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Thevenet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Thevenet_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Thevenet_;R_^(letadlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Thevenet_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Thevenet_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Thevenet" src="auto">NNIS4-----A----</AM>
-<AM lemma="thevenet" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Thevenet_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-075-p3s1w43">
@@ -1201,13 +1117,7 @@
 <LM>w#w-mf930702-075-p3s2w7</LM>
 </w.rf>
 <form>Zoetemelk</form>
-<tag><AM lemma="Zoetemelk_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zoetemelk_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Zoetemelk" src="auto">NNMS1-----A----</AM>
-<AM lemma="talk_^(Zoetemelk_show)" src="auto">NNXXX-----A----</AM>
-<AM lemma="Zoetemelukovník_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Zoetemelk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="zoetemelk" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Zoetemelk_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-075-p3s2w8">

@@ -1611,16 +1611,7 @@
 <LM>w#w-ln94201-110-p1s9w21</LM>
 </w.rf>
 <form>Responsio</form>
-<tag><AM lemma="responsio_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Responsio_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Responsio_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Responsio_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Responsio_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Responsio_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Responsio_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Responsio" src="auto">NNNS1-----A----</AM>
-<AM lemma="Responsio_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="responsio" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="responsio_,t" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-110-p1s9w22">
@@ -1629,15 +1620,7 @@
 <LM>w#w-ln94201-110-p1s9w22</LM>
 </w.rf>
 <form>mortifera</form>
-<tag><AM lemma="mortifer_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="mortifer_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="mortifer_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="mortifera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mortifer" src="auto">NNMS4-----A----</AM>
-<AM lemma="mortifer" src="auto">NNMS2-----A----</AM>
-<AM lemma="mortifera" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="mortifer_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="mortifero" src="auto">NNNS2-----A----</AM>
+<tag><AM lemma="mortifer_,t" src="orig" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-110-p1s9w23">
@@ -2013,16 +1996,7 @@
 <LM>w#w-ln94201-110-p1s12w6</LM>
 </w.rf>
 <form>Saharovo</form>
-<tag><AM lemma="Sahara_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Saharův_;S_^(*2)" src="auto">AUNS1M---------</AM>
-<AM lemma="Saharův_;S_^(*2)" src="auto">AUNS4M---------</AM>
-<AM lemma="Saharův_^(*2)" src="auto">AUNS4M---------</AM>
-<AM lemma="Saharův_;S_^(*2a)" src="auto">AUNS1M---------</AM>
-<AM lemma="Saharův_^(*2)" src="auto">AUNS1M---------</AM>
-<AM lemma="Saharovo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Saharův_^(*3ec)" src="auto">AUNS1M---------</AM>
-<AM lemma="Saharův_;S_^(*3ek)" src="auto">AUNS1M---------</AM>
-<AM lemma="saharovo" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Sahara_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-110-p1s12w7">
@@ -2121,15 +2095,7 @@
 <LM>w#w-ln94201-110-p1s12w17</LM>
 </w.rf>
 <form>spiritus</form>
-<tag><AM lemma="spiritus_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="spiritus" src="auto">NNIS1-----A----</AM>
-<AM lemma="spiritus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="spiritus_;L_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="spiritus" src="auto">NNIS4-----A----</AM>
-<AM lemma="spiritus_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="erectus-1_,t_^(Homo_spiritus)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="spiritus_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="spiritus_;R" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="spiritus_,t" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-110-p1s12w18">

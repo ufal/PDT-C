@@ -452,17 +452,7 @@
 <LM>w#w-lnd92254-075-p3s4w3</LM>
 </w.rf>
 <form>Doodle</form>
-<tag><AM lemma="Doodle_;R" src="orig">NNMS1-----A----</AM>
-<AM lemma="Doodle_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Doodle_;R" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Doodle_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Doodle_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Doodlo" src="auto">NNNS6-----A----</AM>
-<AM lemma="Doodlo_;Y" src="auto">NNNS6-----A----</AM>
-<AM lemma="Doodlo_^(na_divadle)" src="auto">NNNS6-----A----</AM>
-<AM lemma="doodle" src="auto">NNMS1-----A----</AM>
-<AM lemma="doodle_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="doodlít_:T" src="auto">VeYS------A----</AM>
+<tag><AM lemma="Doodle_;R" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s4w4">
@@ -3762,16 +3752,7 @@
 <LM>w#w-lnd92254-075-p3s37w1</LM>
 </w.rf>
 <form>Ailifu</form>
-<tag><AM lemma="Ailifu_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ailif" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ailifu_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ailif" src="auto">NNIS6-----A----</AM>
-<AM lemma="Ailif_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Ailif_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Ailif_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Ailifa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Ailif_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="ailifu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ailifu_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s37w2">
@@ -4436,16 +4417,7 @@
 <LM>w#w-lnd92254-075-p7s4w1</LM>
 </w.rf>
 <form>Pretty</form>
-<tag><AM lemma="Pretty_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="pretty_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="W-1`Prett" src="auto">NNIP4-----A----</AM>
-<AM lemma="Pretto_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pretta_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pretty_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pretty_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pretty_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Pretty_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="pretty" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pretty_;R_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p7s4w2">
@@ -4454,16 +4426,7 @@
 <LM>w#w-lnd92254-075-p7s4w2</LM>
 </w.rf>
 <form>Woman</form>
-<tag><AM lemma="Woman_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Woman_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Woman" src="auto">NNMS1-----A----</AM>
-<AM lemma="Woman_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Woman-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="woman_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Woman_;m" src="auto">NNMS1-----A----</AM>
-<AM lemma="Woman_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Woman_;R_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="woman" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Woman_;R_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p7s4w3">
@@ -5279,16 +5242,7 @@
 <LM>w#w-lnd92254-075-p9s6w1</LM>
 </w.rf>
 <form>Sindbád</form>
-<tag><AM lemma="Sindbád_;R" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sindbád_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sindbád_;R" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sindbáda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Sindbád" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sindbád" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sindbád_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sindbád_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sindbád" src="auto">NNMS1-----A----</AM>
-<AM lemma="sindbád" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sindbád_;R" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p9s6w2">
@@ -5734,16 +5688,7 @@
 <LM>w#w-lnd92254-075-p11s2w16</LM>
 </w.rf>
 <form>Lepšie</form>
-<tag><AM lemma="dobrý_;R_,t" src="orig">AANS1----2A----</AM>
-<AM lemma="dobrý_;R_,t" src="auto" recommended="1">AANS1----2A----</AM>
-<AM lemma="Lepšie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Lepšie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lepšie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Lepšie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Lepšie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Lepšie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lepšie_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="lepšie" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="dobrý_;R_,t" src="orig" selected="1">AANS1----2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s2w17">
@@ -6102,16 +6047,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Batmann</form>
-<tag><AM lemma="Batmann_;R_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="Batmann_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Batmann_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Batmann_;R_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Batmann_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="Batmann_,s" src="auto">NNMS1-----A----</AM>
-<AM lemma="Batmann_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="SF-2`Sinn-1_;K_,t_^(Batmann_Fein)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Batmanné_:B_;S_;K_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="batmann" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Batmann_;R_,t" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s4w14">
@@ -6231,15 +6167,7 @@
 <LM>w#w-lnd92254-075-p11s5w8</LM>
 </w.rf>
 <form>Freejack</form>
-<tag><AM lemma="Freejack_;R_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="Freejack_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Freejack" src="auto">NNIS4-----A----</AM>
-<AM lemma="Freejack_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Freejack_;R_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Freejack_;R" src="auto">NNMS1-----A----</AM>
-<AM lemma="Freejack_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Freejack_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="freejack" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Freejack_;R_,t" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s5w9">

@@ -1313,16 +1313,7 @@
 <LM>w#w-lnd92256-091-p4s4w36</LM>
 </w.rf>
 <form>Evolution</form>
-<tag><AM lemma="Evolution_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Evolution_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Evolution_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Evolution_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Evolution_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Evolution" src="auto">NNIS1-----A----</AM>
-<AM lemma="Evolution_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Evolutión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Evolutión" src="auto">NNIS1-----A----</AM>
-<AM lemma="evolution" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Evolution_;R_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-091-p4s4w37">
@@ -1498,16 +1489,7 @@
 <LM>w#w-lnd92256-091-p4s6w2</LM>
 </w.rf>
 <form>Ultimatic</form>
-<tag><AM lemma="Ultimatic_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Ultimatice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ultimatic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ultimatice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Ultimatice" src="auto">NNFP2-----A---1</AM>
-<AM lemma="Ultimatic_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ultimatic_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Ultimatic_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ultimatic_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="ultimatic" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ultimatic_;R_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-091-p4s6w3">
@@ -1653,16 +1635,7 @@
 <LM>w#w-lnd92256-091-p4s7w10</LM>
 </w.rf>
 <form>Kolex</form>
-<tag><AM lemma="Kolex_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kolex_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Kolex" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kolex_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kolex" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kolex_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kolex_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kolex-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kolex_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="kolex" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kolex_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-091-p4s7w11">
@@ -2490,7 +2463,6 @@
 <form>Jawa</form>
 <tag><AM lemma="Jawa-2_;K_;R_^(vozidlo)" src="orig">NNFS1-----A----</AM>
 <AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-091-p4s13w7">

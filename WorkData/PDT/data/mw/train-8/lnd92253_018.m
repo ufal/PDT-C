@@ -893,16 +893,7 @@
 <LM>w#w-lnd92253-018-p2s6w8</LM>
 </w.rf>
 <form>Chronice</form>
-<tag><AM lemma="Chronice_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Chronice" src="auto">NNFS2-----A----</AM>
-<AM lemma="Chronice" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chronice_;G" src="auto">NNFP1-----A----</AM>
-<AM lemma="Chronice" src="auto">NNFP4-----A----</AM>
-<AM lemma="Chronice" src="auto">NNFP1-----A----</AM>
-<AM lemma="Chronika" src="auto">NNFS6-----A----</AM>
-<AM lemma="Chronika" src="auto">NNFS3-----A----</AM>
-<AM lemma="Chronice_^(*3ík)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="chronice" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Chronice_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-018-p2s6w9">

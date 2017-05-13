@@ -2117,23 +2117,7 @@
 <LM>w#w-mf930702-114-p5s1w20</LM>
 </w.rf>
 <form>Cot</form>
-<tag><AM lemma="Cot_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cot_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cot" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cot" src="auto">NNIS4-----A----</AM>
-<AM lemma="Cota" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cot" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cot_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Cot_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cot_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="cot_;K_;u" src="auto">NNIS1-----A----</AM>
-<AM lemma="cot" src="auto">NNIS1-----A----</AM>
-<AM lemma="cot" src="auto">NNIS4-----A----</AM>
-<AM lemma="cota" src="auto">NNFP2-----A----</AM>
-<AM lemma="cot_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="cot" src="auto">NNMS1-----A----</AM>
-<AM lemma="cot_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="cot_;K" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="Cot_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-114-p5s1w21">

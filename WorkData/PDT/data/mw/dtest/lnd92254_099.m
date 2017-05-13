@@ -2932,16 +2932,7 @@
 <LM>w#w-lnd92254-099-p7s1w22</LM>
 </w.rf>
 <form>Boyard</form>
-<tag><AM lemma="Boyard_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Boyard_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Boyard_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Boyard" src="auto">NNIS1-----A----</AM>
-<AM lemma="Boyard_;m_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Boyard_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Boyard" src="auto">NNMS1-----A----</AM>
-<AM lemma="Boyard" src="auto">NNIS4-----A----</AM>
-<AM lemma="Boyarda`1000000000" src="auto">NNFP2-----A----</AM>
-<AM lemma="boyard" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Boyard_;G" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-099-p7s1w23">

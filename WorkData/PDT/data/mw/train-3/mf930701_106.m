@@ -704,16 +704,7 @@
 <LM>w#w-mf930701-106-p3s1w10</LM>
 </w.rf>
 <form>Trubbachu</form>
-<tag><AM lemma="Trubbach_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Trubbach" src="auto">NNIS2-----A----</AM>
-<AM lemma="Trubbach" src="auto">NNIS6-----A----</AM>
-<AM lemma="Trubbach" src="auto">NNIS3-----A----</AM>
-<AM lemma="Trubbacha" src="auto">NNFS4-----A----</AM>
-<AM lemma="Trubbach_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Trubbach_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Trubbach_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Trubbachu" src="auto">Db-------------</AM>
-<AM lemma="trubbachu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Trubbach_;G" src="orig" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-106-p3s1w11">
@@ -2014,16 +2005,7 @@
 <LM>w#w-mf930701-106-p6s1w18</LM>
 </w.rf>
 <form>Bolettieri</form>
-<tag><AM lemma="Bolettieri_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bolettieri_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bolettieri_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bolettieri_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Bolettieri_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Bolettieri_,t" src="auto">Db-------------</AM>
-<AM lemma="Bolettieri_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Bolettieri_;m" src="auto">ClXP1----------</AM>
-<AM lemma="Bolettieri_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="bolettieri" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bolettieri_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-106-p6s1w19">
@@ -2351,16 +2333,7 @@
 <LM>w#w-mf930701-106-p7s1w12</LM>
 </w.rf>
 <form>Bolettieri</form>
-<tag><AM lemma="Bolettieri_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bolettieri_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bolettieri_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bolettieri_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Bolettieri_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Bolettieri_,t" src="auto">Db-------------</AM>
-<AM lemma="Bolettieri_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Bolettieri_;m" src="auto">ClXP1----------</AM>
-<AM lemma="Bolettieri_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="bolettieri" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bolettieri_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-106-p7s1w13">

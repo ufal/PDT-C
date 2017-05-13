@@ -84,15 +84,7 @@
 <LM>w#w-mf930701-004-p2s1w3</LM>
 </w.rf>
 <form>kw</form>
-<tag><AM lemma="kw-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kw-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="kw_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kw_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kw_;G_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="kw" src="auto">NNNXX-----A----</AM>
-<AM lemma="kw" src="auto">NNFXX-----A----</AM>
-<AM lemma="know_,t_^(kw_how)" src="auto">NNNXX-----A----</AM>
-<AM lemma="how_,t_^(know_kw)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="kw-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-004-p2s1w4">
@@ -328,16 +320,7 @@
 <LM>w#w-mf930701-004-p2s2w9</LM>
 </w.rf>
 <form>Móry</form>
-<tag><AM lemma="Móry_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Móra" src="auto">NNFS2-----A----</AM>
-<AM lemma="Móra" src="auto">NNFP1-----A----</AM>
-<AM lemma="Móry_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mór" src="auto">NNIP1-----A----</AM>
-<AM lemma="Mór" src="auto">NNIP4-----A----</AM>
-<AM lemma="Mór" src="auto">NNMP4-----A----</AM>
-<AM lemma="Mór" src="auto">NNIP7-----A----</AM>
-<AM lemma="Mór" src="auto">NNMP7-----A----</AM>
-<AM lemma="móry" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Móry_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-004-p2s2w10">

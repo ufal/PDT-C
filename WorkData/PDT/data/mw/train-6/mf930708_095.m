@@ -336,23 +336,7 @@
 <LM>w#w-mf930708-095-p2s1w31</LM>
 </w.rf>
 <form>PRUDOM</form>
-<tag><AM lemma="PRUDOM_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="PRUDOM_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="PRUDOM_:B_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="PRUDOM_:B_;m" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PRUDOM_:B_;c_,t_^(Read-only_memory,_trv._paměť)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PRUDOM-3_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PRUDOM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PRUDOM_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Prudomý" src="auto">ACYS------A----</AM>
-<AM lemma="Prudom_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prudom_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prudom_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prudom_,t" src="auto">Db-------------</AM>
-<AM lemma="Prudom" src="auto">NNIS4-----A----</AM>
-<AM lemma="Prudom" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prudom_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="prudom" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="PRUDOM_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-095-p2s1w32">
@@ -598,23 +582,7 @@
 <LM>w#w-mf930708-095-p2s2w28</LM>
 </w.rf>
 <form>PRUDOM</form>
-<tag><AM lemma="PRUDOM_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="PRUDOM_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="PRUDOM_:B_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="PRUDOM_:B_;m" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PRUDOM_:B_;c_,t_^(Read-only_memory,_trv._paměť)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PRUDOM-3_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PRUDOM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PRUDOM_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Prudomý" src="auto">ACYS------A----</AM>
-<AM lemma="Prudom_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prudom_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prudom_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prudom_,t" src="auto">Db-------------</AM>
-<AM lemma="Prudom" src="auto">NNIS4-----A----</AM>
-<AM lemma="Prudom" src="auto">NNIS1-----A----</AM>
-<AM lemma="Prudom_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="prudom" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="PRUDOM_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-095-p2s2w29">
@@ -632,16 +600,7 @@
 <LM>w#w-mf930708-095-p2s2w30</LM>
 </w.rf>
 <form>Barnáková</form>
-<tag><AM lemma="Barnáková_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Barnáková_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Barnákový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Barnákový" src="auto">AANP1----1A----</AM>
-<AM lemma="Barnákový" src="auto">AANP4----1A----</AM>
-<AM lemma="Barnáková_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Barnáková_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Barnákový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Barnákový" src="auto">AAFS5----1A----</AM>
-<AM lemma="barnáková" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Barnáková_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-095-p2s2w31">

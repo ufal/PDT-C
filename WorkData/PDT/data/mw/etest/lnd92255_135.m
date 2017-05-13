@@ -1185,7 +1185,6 @@
 <AM lemma="SV_:B_;K_^(sport._klub)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="svazek_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="svazek_:B" src="auto">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-135-p3s7w10">

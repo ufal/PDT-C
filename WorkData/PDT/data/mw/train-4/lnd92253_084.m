@@ -131,16 +131,7 @@
 <LM>w#w-lnd92253-084-p2s2w9</LM>
 </w.rf>
 <form>Černivci</form>
-<tag><AM lemma="Černivci_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Černivec" src="auto">NNMP1-----A----</AM>
-<AM lemma="Černivec" src="auto">NNMP7-----A----</AM>
-<AM lemma="Černivec_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Černivce" src="auto">NNMP1-----A----</AM>
-<AM lemma="Černivec" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Černivec_;m" src="auto">NNMP1-----A----</AM>
-<AM lemma="Černivec" src="auto">NNMS6-----A----</AM>
-<AM lemma="Černivec" src="auto">NNMS3-----A----</AM>
-<AM lemma="černivci" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Černivci_;G" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-084-p2s2w10">

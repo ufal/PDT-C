@@ -255,16 +255,7 @@
 <LM>w#w-lnd92256-020-p3s3w4</LM>
 </w.rf>
 <form>Hudlová</form>
-<tag><AM lemma="Hudlová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Hudlová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Hudlový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Hudlový" src="auto">AANP1----1A----</AM>
-<AM lemma="Hudlový" src="auto">AANP4----1A----</AM>
-<AM lemma="Hudlová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hudlová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hudlový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Hudlový" src="auto">AAFS5----1A----</AM>
-<AM lemma="hudlová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hudlová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-020-p3s3w5">
@@ -890,16 +881,7 @@
 <LM>w#w-lnd92256-020-p3s5w42</LM>
 </w.rf>
 <form>Wacinger</form>
-<tag><AM lemma="Wacinger_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Wacinger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Wacinger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wacinger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Wacinžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wacinger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Wacinger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Wacinger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Wacinger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="wacinger" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Wacinger_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-020-p3s5w43">

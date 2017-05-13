@@ -28,15 +28,7 @@
 <LM>w#w-lnd92255-085-p1s1w2</LM>
 </w.rf>
 <form>Schwinck</form>
-<tag><AM lemma="Schwinck_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Schwinck_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Schwinck_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schwinck_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schwinck" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schwinck_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schwinck" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schwinck" src="auto">NNIS1-----A----</AM>
-<AM lemma="schwinck" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Schwinck_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-085-p1s1w3">
@@ -611,16 +603,7 @@
 <LM>w#w-lnd92255-085-p3s1w12</LM>
 </w.rf>
 <form>SCHWINCKA</form>
-<tag><AM lemma="Schwinck_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="SCHWINCKA" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schwincko_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Schwinck_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Schwincek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Schwinck_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Schwinck_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Schwinck_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Schwincka" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Schwincek_;S" src="auto">NNMS4-----A----</AM>
+<tag><AM lemma="Schwinck_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-085-p3s1w13">
@@ -766,16 +749,7 @@
 <LM>w#w-lnd92255-085-p3s2w6</LM>
 </w.rf>
 <form>Fierrabras</form>
-<tag><AM lemma="Fierrabras_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Fierrabras_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fierrabrasa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Fierrabras_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fierrabras_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fierrabras_;L_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Fierrabras" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fierrabras" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fierrabras" src="auto">NNIS1-----A----</AM>
-<AM lemma="fierrabras" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Fierrabras_;R" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-085-p3s2w7">
@@ -1695,13 +1669,7 @@
 <LM>w#w-lnd92255-085-p4s1w3</LM>
 </w.rf>
 <form>Reqiem</form>
-<tag><AM lemma="Reqiem_;R_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Reqium" src="auto">NNNS7-----A----</AM>
-<AM lemma="Reqie_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Reqio" src="auto">NNNS7-----A----</AM>
-<AM lemma="Reqium_;H" src="auto">NNNS7-----A----</AM>
-<AM lemma="Reqio_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="reqiem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Reqiem_;R_,t" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-085-p4s1w4">
@@ -1874,16 +1842,7 @@
 <LM>w#w-lnd92255-085-p4s1w22</LM>
 </w.rf>
 <form>Amicitia</form>
-<tag><AM lemma="Amicitia_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Amicitius_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Amicitia_;R_,t" src="auto">NNNP1-----A----</AM>
-<AM lemma="Amicitia_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Amicitia_;G_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Amicitia_;G" src="auto">NNFS1-----A---1</AM>
-<AM lemma="Amicitia_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Amicitia" src="auto">NNFS1-----A----</AM>
-<AM lemma="Amicitium" src="auto">NNNS2-----A----</AM>
-<AM lemma="amicitia" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Amicitia_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-085-p4s1w23">
@@ -2029,15 +1988,7 @@
 <LM>w#w-lnd92255-085-p4s2w10</LM>
 </w.rf>
 <form>distonujícími</form>
-<tag><AM lemma="distonující" src="orig">AAIP7----1A----</AM>
-<AM lemma="distonující" src="auto" recommended="1">AAIP7----1A----</AM>
-<AM lemma="distonující" src="auto">AAFP7----1A----</AM>
-<AM lemma="distonující" src="auto">AAMP7----1A----</AM>
-<AM lemma="distonující" src="auto">AANP7----1A----</AM>
-<AM lemma="distonující_^(*5ovat)" src="auto">AGIP7-----A----</AM>
-<AM lemma="distonující_^(*3it)" src="auto">NNNP7-----A----</AM>
-<AM lemma="distonující_^(*5ovat)" src="auto">AGFP7-----A----</AM>
-<AM lemma="distonující" src="auto">NNNP7-----A----</AM>
+<tag><AM lemma="distonující" src="orig" selected="1">AAIP7----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-085-p4s2w11">
@@ -2219,15 +2170,7 @@
 <LM>w#w-lnd92255-085-p4s3w9</LM>
 </w.rf>
 <form>Schwinck</form>
-<tag><AM lemma="Schwinck_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Schwinck_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schwinck_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schwinck_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Schwinck" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schwinck_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Schwinck" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schwinck" src="auto">NNIS1-----A----</AM>
-<AM lemma="schwinck" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Schwinck_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-085-p4s3w10">

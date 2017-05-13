@@ -15221,12 +15221,7 @@
 <LM>w#w-lnd92258-077-p59s11w14</LM>
 </w.rf>
 <form>dálk</form>
-<tag><AM lemma="dálkový_:B" src="orig">AAXXX----1A----</AM>
-<AM lemma="dálk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="dálk" src="auto">NNMS1-----A----</AM>
-<AM lemma="talk_^(dálk_show)" src="auto">NNXXX-----A----</AM>
-<AM lemma="dálukovník_:B" src="auto" recommended="1">NNMXX-----A---8</AM>
-<AM lemma="dálk_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="dálkový_:B" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p59s11w15">
@@ -20460,16 +20455,7 @@
 <LM>w#w-lnd92258-077-p85s10w5</LM>
 </w.rf>
 <form>KATASTROFION</form>
-<tag><AM lemma="Katastrofion_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="KATASTROFION" src="auto">NNMS1-----A----</AM>
-<AM lemma="Katastrofion_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Katastrofion_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Katastrofion_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Katastrofion_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Katastrofion" src="auto">NNIS1-----A----</AM>
-<AM lemma="Katastrofion_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Katastrofión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Katastrofión" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="Katastrofion_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p85s10w6">
@@ -24941,15 +24927,7 @@
 <LM>w#w-lnd92258-077-p1s4w16</LM>
 </w.rf>
 <form>Manual</form>
-<tag><AM lemma="manual_,t" src="orig">NNISX-----A----</AM>
-<AM lemma="Manual_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Manual_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Manual_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Manual_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Manuat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Manuat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Manuat_:T_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="manual" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="manual_,t" src="orig" selected="1">NNISX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p1s4w17">
@@ -24977,16 +24955,7 @@
 <LM>w#w-lnd92258-077-p1s4w19</LM>
 </w.rf>
 <form>Preparation</form>
-<tag><AM lemma="preparation_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Preparation_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Preparation_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Preparation_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Preparation_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Preparation" src="auto">NNIS1-----A----</AM>
-<AM lemma="Preparation_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Preparatión" src="auto">NNIS4-----A----</AM>
-<AM lemma="Preparatión" src="auto">NNIS1-----A----</AM>
-<AM lemma="preparation" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="preparation_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p1s4w20">
@@ -25004,16 +24973,7 @@
 <LM>w#w-lnd92258-077-p1s4w21</LM>
 </w.rf>
 <form>Industrial</form>
-<tag><AM lemma="industrial_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Industrial_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Industrial_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Industrial_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Escorial-1_;G_^(El_Industrial,_šp._král._sídlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Industrial_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Industrial_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Industrial_;R_,t_^(např._F.Times)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Industrial_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="industrial" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="industrial_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p1s4w22">
@@ -25022,16 +24982,7 @@
 <LM>w#w-lnd92258-077-p1s4w22</LM>
 </w.rf>
 <form>Feasibility</form>
-<tag><AM lemma="feasibility_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Feasibilita" src="auto">NNFS2-----A----</AM>
-<AM lemma="Feasibilita" src="auto">NNFP4-----A----</AM>
-<AM lemma="Feasibilita" src="auto">NNFP1-----A----</AM>
-<AM lemma="Feasibilit" src="auto">NNIP4-----A----</AM>
-<AM lemma="Feasibilit" src="auto">NNIP1-----A----</AM>
-<AM lemma="Feasibilit" src="auto">NNIP7-----A----</AM>
-<AM lemma="Feasibilít" src="auto" recommended="1">VsTP---XX-AP---</AM>
-<AM lemma="Feasibilita_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="feasibility" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="feasibility_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p1s4w23">
@@ -27021,15 +26972,7 @@
 <LM>w#w-lnd92258-077-p10s1Cw20</LM>
 </w.rf>
 <form>feasibility</form>
-<tag><AM lemma="feasibility_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="feasibilita" src="auto">NNFS2-----A----</AM>
-<AM lemma="feasibilita" src="auto">NNFP4-----A----</AM>
-<AM lemma="feasibilita" src="auto">NNFP1-----A----</AM>
-<AM lemma="feasibilit" src="auto">NNIP4-----A----</AM>
-<AM lemma="feasibilit" src="auto">NNIP1-----A----</AM>
-<AM lemma="feasibilit" src="auto" recommended="1">NNIP7-----A----</AM>
-<AM lemma="feasibilít" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="feasibilita_;Y" src="auto">NNFS2-----A----</AM>
+<tag><AM lemma="feasibility_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p10s1Cw21">

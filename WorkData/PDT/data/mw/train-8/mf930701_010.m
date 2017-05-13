@@ -1148,15 +1148,7 @@
 <LM>w#w-mf930701-010-p3s3w6</LM>
 </w.rf>
 <form>Steinhausel</form>
-<tag><AM lemma="Steinhausel_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Steinhausel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Steinhauslo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Steinhauset" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Steinhausel" src="auto">NNMS1-----A----</AM>
-<AM lemma="Steinhauset_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Steinhausít" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Steinhausel_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="steinhausel" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Steinhausel_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-010-p3s3w7">

@@ -287,23 +287,7 @@
 <LM>w#w-mf930702-040-p2s1w28</LM>
 </w.rf>
 <form>DECO</form>
-<tag><AM lemma="deco_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="DECO_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="DECO_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="DECO_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DECO_:B_;K_,t" src="auto">NNNXX-----A---8</AM>
-<AM lemma="DECO_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Deco" src="auto">PZ--1----------</AM>
-<AM lemma="Deco_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Deco_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Deco_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Deco_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Deco_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Deco_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Deco_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="deCompany_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="deco" src="auto">NNMS1-----A----</AM>
-<AM lemma="deco-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
+<tag><AM lemma="deco_;m_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-040-p2s1w29">
@@ -627,17 +611,7 @@
 <LM>w#w-mf930702-040-p3s1w2</LM>
 </w.rf>
 <form>deco</form>
-<tag><AM lemma="deco_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="deCompany_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="deco" src="auto">PZ--1----------</AM>
-<AM lemma="deco-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
-<AM lemma="deco_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="deco_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="deco_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="deco_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="deco_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="deco_;m" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="deco_;m_,t" src="auto">AAXXX----1A----</AM>
+<tag><AM lemma="deco_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-040-p3s1w3">
@@ -1447,15 +1421,7 @@
 <LM>w#w-mf930702-040-p3s5w11</LM>
 </w.rf>
 <form>prix</form>
-<tag><AM lemma="prix" src="orig">NNFXX-----A----</AM>
-<AM lemma="prix_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="prix_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="prix-2_;m_,t_^(cena)" src="auto">NNFXX-----A----</AM>
-<AM lemma="prix-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="prix-1_;S" src="auto">NNFSX-----A----</AM>
-<AM lemma="prix" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="prix" src="auto">NNIS1-----A----</AM>
-<AM lemma="prix_;L_,t" src="auto">NNFS1-----A----</AM>
+<tag><AM lemma="prix" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-040-p3s5w12">
@@ -1610,15 +1576,7 @@
 <LM>w#w-mf930702-040-p4s1w13</LM>
 </w.rf>
 <form>mezníkové</form>
-<tag><AM lemma="mezníkový" src="orig">AAFS2----1A----</AM>
-<AM lemma="mezníkový" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="mezníková_;S" src="auto">NNFS2-----A----</AM>
-<AM lemma="mezníkový" src="auto">AAFS6----1A----</AM>
-<AM lemma="mezníkový" src="auto">AAFP1----1A----</AM>
-<AM lemma="mezníkový" src="auto">AAIP1----1A----</AM>
-<AM lemma="mezníkový" src="auto">AAIP4----1A----</AM>
-<AM lemma="mezníkový" src="auto">AAFP4----1A----</AM>
-<AM lemma="mezníkový" src="auto">AANS1----1A----</AM>
+<tag><AM lemma="mezníkový" src="orig" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-040-p4s1w14">
@@ -2355,17 +2313,7 @@
 <LM>w#w-mf930702-040-p5s1w7</LM>
 </w.rf>
 <form>deco</form>
-<tag><AM lemma="deco_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="deCompany_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="deco" src="auto">PZ--1----------</AM>
-<AM lemma="deco-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
-<AM lemma="deco_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="deco_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="deco_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="deco_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="deco_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="deco_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="deco_;m_,t" src="auto">AAXXX----1A----</AM>
+<tag><AM lemma="deco_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-040-p5s1w8">

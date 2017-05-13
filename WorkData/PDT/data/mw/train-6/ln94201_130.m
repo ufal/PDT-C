@@ -1151,16 +1151,7 @@
 <LM>w#w-ln94201-130-p2s6w21</LM>
 </w.rf>
 <form>Canti</form>
-<tag><AM lemma="Canti_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Cant" src="auto">NNMP1-----A----</AM>
-<AM lemma="Cant_,a_,t_^(člen_rady_starších_ve_starověké_Spartě)" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Cant-2_,s_^(potulný_student)" src="auto">NNMP1-----A----</AM>
-<AM lemma="Cant" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Canti_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Canti_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Canti_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Canti" src="auto">TT-------------</AM>
-<AM lemma="canti" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Canti_;K" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-130-p2s6w22">
@@ -1414,13 +1405,7 @@
 <LM>w#w-ln94201-130-p2s7w20</LM>
 </w.rf>
 <form>Haruhito</form>
-<tag><AM lemma="Haruhito_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Haruhít" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="Haruhito_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Haruhito_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Haruhito_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Haruhít_,v" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="haruhito" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Haruhito_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-130-p2s7w21">

@@ -1000,16 +1000,7 @@
 <LM>w#w-ln94201-9-p3s2w11</LM>
 </w.rf>
 <form>Mihalkaové</form>
-<tag><AM lemma="Mihalkaová_;S" src="orig">NNFS2-----A----</AM>
-<AM lemma="Mihalkaový" src="auto">AAFS2----1A----</AM>
-<AM lemma="Mihalkaová_;S" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Mihalkaový" src="auto">AAFS6----1A----</AM>
-<AM lemma="Mihalkaový" src="auto">AAFP1----1A----</AM>
-<AM lemma="Mihalkaový" src="auto">AAIP1----1A----</AM>
-<AM lemma="Mihalkaový" src="auto">AAIP4----1A----</AM>
-<AM lemma="Mihalkaový" src="auto">AAFP4----1A----</AM>
-<AM lemma="Mihalkaový" src="auto">AANS1----1A----</AM>
-<AM lemma="mihalkaové" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mihalkaová_;S" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-9-p3s2w12">

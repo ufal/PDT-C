@@ -714,15 +714,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>finacování</form>
-<tag><AM lemma="finacování" src="orig">NNNS3-----A----</AM>
-<AM lemma="finacování_^(*3at)" src="auto">NNNS1-----A----</AM>
-<AM lemma="finacování_^(*3at)" src="auto">NNNS4-----A----</AM>
-<AM lemma="finacování_^(*3at)" src="auto">NNNS2-----A----</AM>
-<AM lemma="finacování_^(*3at)" src="auto">NNNS6-----A----</AM>
-<AM lemma="finacování_^(*3at)" src="auto" recommended="1">NNNS3-----A----</AM>
-<AM lemma="finacování_^(*3at)" src="auto">NNNP4-----A----</AM>
-<AM lemma="finacování_^(*3at)" src="auto">NNNP2-----A----</AM>
-<AM lemma="finacování_^(*3at)" src="auto">NNNP1-----A----</AM>
+<tag><AM lemma="finacování" src="orig" selected="1">NNNS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-002-p2s5w12">

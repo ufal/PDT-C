@@ -387,16 +387,7 @@
 <LM>w#w-lnd92252-009-p3s3w16</LM>
 </w.rf>
 <form>Bardery</form>
-<tag><AM lemma="Bardery_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Bardera_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Barder" src="auto">NNMP4-----A----</AM>
-<AM lemma="Bardera" src="auto">NNFS2-----A----</AM>
-<AM lemma="Bardera" src="auto">NNFP1-----A----</AM>
-<AM lemma="Barder" src="auto">NNMP7-----A----</AM>
-<AM lemma="Barder" src="auto">NNIP4-----A----</AM>
-<AM lemma="Barder" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="Bardera" src="auto">NNFP4-----A----</AM>
-<AM lemma="bardery" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bardery_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-009-p3s3w17">
@@ -640,13 +631,7 @@
 <LM>w#w-lnd92252-009-p3s3w43</LM>
 </w.rf>
 <form>Kismayu</form>
-<tag><AM lemma="Kismayu_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Kismayu_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Kismay" src="auto">NNIS2-----A----</AM>
-<AM lemma="Kismaya" src="auto">NNFS4-----A----</AM>
-<AM lemma="Kismay" src="auto">NNIS6-----A----</AM>
-<AM lemma="Kismay" src="auto">NNIS3-----A----</AM>
-<AM lemma="kismayu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kismayu_;G" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-009-p3s3w44">
@@ -945,16 +930,7 @@
 <LM>w#w-lnd92252-009-p3s4w16</LM>
 </w.rf>
 <form>Bardeře</form>
-<tag><AM lemma="Bardery_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Bardera" src="auto">NNFS6-----A----</AM>
-<AM lemma="Bardeř" src="auto">NNIP1-----A----</AM>
-<AM lemma="Bardeř" src="auto">NNFS2-----A----</AM>
-<AM lemma="Bardeře" src="auto">NNFP4-----A----</AM>
-<AM lemma="Bardeře" src="auto">NNFP1-----A----</AM>
-<AM lemma="Bardery_;G" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Bardero" src="auto">NNNS6-----A---1</AM>
-<AM lemma="Bardera_;K" src="auto">NNFS3-----A----</AM>
-<AM lemma="bardeře" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bardery_;G" src="orig" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-009-p3s4w17">
@@ -1136,16 +1112,7 @@
 <LM>w#w-lnd92252-009-p3s5w4</LM>
 </w.rf>
 <form>Bardeře</form>
-<tag><AM lemma="Bardery_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Bardera" src="auto">NNFS6-----A----</AM>
-<AM lemma="Bardeř" src="auto">NNIP1-----A----</AM>
-<AM lemma="Bardeř" src="auto">NNFS2-----A----</AM>
-<AM lemma="Bardeře" src="auto">NNFP4-----A----</AM>
-<AM lemma="Bardeře" src="auto">NNFP1-----A----</AM>
-<AM lemma="Bardery_;G" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Bardero" src="auto">NNNS6-----A---1</AM>
-<AM lemma="Bardera_;K" src="auto">NNFS3-----A----</AM>
-<AM lemma="bardeře" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bardery_;G" src="orig" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-009-p3s5w5">

@@ -986,14 +986,7 @@
 <LM>w#w-lnd92252-056-p4s3w26</LM>
 </w.rf>
 <form>Bleblexů</form>
-<tag><AM lemma="bleblex" src="orig">NNIP2-----A----</AM>
-<AM lemma="Bleblex" src="auto">NNIP2-----A----</AM>
-<AM lemma="Bleblex-1" src="auto">NNIP2-----A----</AM>
-<AM lemma="Bleblex" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="Bleblexa" src="auto">NNMP2-----A----</AM>
-<AM lemma="Bleblex_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="Bleblexe" src="auto">NNMP2-----A----</AM>
-<AM lemma="bleblexů" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="bleblex" src="orig" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-056-p4s3w27">
@@ -1029,14 +1022,7 @@
 <LM>w#w-lnd92252-056-p4s3w30</LM>
 </w.rf>
 <form>Unibleblexů</form>
-<tag><AM lemma="unibleblex" src="orig">NNIP2-----A----</AM>
-<AM lemma="Unibleblex" src="auto">NNIP2-----A----</AM>
-<AM lemma="Unibleblex-1" src="auto">NNIP2-----A----</AM>
-<AM lemma="Unibleblex" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="Unibleblexa" src="auto">NNMP2-----A----</AM>
-<AM lemma="Unibleblex_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="Unibleblexe" src="auto">NNMP2-----A----</AM>
-<AM lemma="unibleblexů" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="unibleblex" src="orig" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-056-p4s3w31">
@@ -2243,16 +2229,7 @@
 <LM>w#w-lnd92252-056-p6s1w2</LM>
 </w.rf>
 <form>VACHALCOVÁ</form>
-<tag><AM lemma="Vachalcová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="VACHALCOVÁ" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vachalcová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Vachalcový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Vachalcový" src="auto">AANP1----1A----</AM>
-<AM lemma="Vachalcový" src="auto">AANP4----1A----</AM>
-<AM lemma="Vachalcová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vachalcová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vachalcový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Vachalcový" src="auto">AAFS5----1A----</AM>
+<tag><AM lemma="Vachalcová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-056-p6s1w3">

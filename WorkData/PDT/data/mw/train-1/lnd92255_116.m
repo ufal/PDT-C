@@ -924,11 +924,7 @@
 <LM>w#w-lnd92255-116-p4s3w3</LM>
 </w.rf>
 <form>Loizou</form>
-<tag><AM lemma="Loizou_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Loiza" src="auto">NNFS7-----A----</AM>
-<AM lemma="Loiza_;Y_^(^HN**Jan)" src="auto">NNMS7-----A----</AM>
-<AM lemma="Loíza" src="auto">NNFS7-----A----</AM>
-<AM lemma="loizou" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Loizou_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-116-p4s3w4">
@@ -974,16 +970,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Fraesera</form>
-<tag><AM lemma="Fraeser_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Fraeser_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Fraeser_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Fraesera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fraeser" src="auto">NNMS4-----A----</AM>
-<AM lemma="Fraeser" src="auto">NNMS2-----A----</AM>
-<AM lemma="Fraesera" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fraeser_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Fraesero" src="auto">NNNS2-----A----</AM>
-<AM lemma="fraesera" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Fraeser_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-116-p4s3w9">

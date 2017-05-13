@@ -1304,15 +1304,7 @@
 <LM>w#w-mf930708-043-p2s7w7</LM>
 </w.rf>
 <form>neslezitelná</form>
-<tag><AM lemma="neslezitelný" src="orig">AAFS1----1A----</AM>
-<AM lemma="neslezitelný" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="neslezitelný_^(*4)" src="auto">AAFS1----1A----</AM>
-<AM lemma="slezitelný_^(*4)" src="auto">AAFS1----1N----</AM>
-<AM lemma="neslezitelný" src="auto">AANP1----1A----</AM>
-<AM lemma="slezitelný" src="auto">AAFS1----1N----</AM>
-<AM lemma="neslezitelný" src="auto">AANP4----1A----</AM>
-<AM lemma="slezitelný_^(*4)" src="auto">AANP1----1N----</AM>
-<AM lemma="neslezitelný_^(*6ět)" src="auto">AAFS1----1A----</AM>
+<tag><AM lemma="neslezitelný" src="orig" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-043-p2s7w8">
@@ -1348,12 +1340,7 @@
 <LM>w#w-mf930708-043-p2s7w11</LM>
 </w.rf>
 <form>zašokuje</form>
-<tag><AM lemma="zašokovat" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="zašokovat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="zašokovat_:T" src="auto">VeYS------A----</AM>
-<AM lemma="zašokovat_:T_:W" src="auto" recommended="1">VB-S---3P-AA---</AM>
-<AM lemma="zašokovat_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="zašokovat_:W" src="auto">VmYS------A---4</AM>
+<tag><AM lemma="zašokovat" src="orig" selected="1">VB-S---3P-AA---</AM>
 </tag>
 </m>
 <m id="m-mf930708-043-p2s7w12">

@@ -358,16 +358,7 @@
 <LM>w#w-mf930702-115-p4s2w4</LM>
 </w.rf>
 <form>Zlenko</form>
-<tag><AM lemma="Zlenko_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zlenko_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Zlenko_,e" src="auto">NNNS4-----A----</AM>
-<AM lemma="Zlenko_,e" src="auto">NNNS1-----A----</AM>
-<AM lemma="Zlenka" src="auto">NNFS5-----A----</AM>
-<AM lemma="Zlenko_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zlenko_,s" src="auto">NNNS1-----A----</AM>
-<AM lemma="Zlenko-1" src="auto">Db-------------</AM>
-<AM lemma="Zlenko" src="auto">NNNS4-----A----</AM>
-<AM lemma="zlenko" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Zlenko_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-115-p4s2w5">

@@ -1882,17 +1882,7 @@
 <LM>w#w-lnd92254-066-p5s5w16</LM>
 </w.rf>
 <form>paramilitárních</form>
-<tag><AM lemma="paramilitární" src="orig">AAFP2----1A----</AM>
-<AM lemma="paramilitárne" src="auto">NNFP6-----A----</AM>
-<AM lemma="paramilitárne_;G" src="auto">NNFP6-----A----</AM>
-<AM lemma="paramilitární" src="auto" recommended="1">AAFP2----1A----</AM>
-<AM lemma="paramilitární" src="auto">AAFP6----1A----</AM>
-<AM lemma="paramilitární" src="auto">AAIP2----1A----</AM>
-<AM lemma="paramilitární" src="auto">AAIP6----1A----</AM>
-<AM lemma="paramilitární" src="auto">AAMP2----1A----</AM>
-<AM lemma="paramilitární" src="auto">AAMP6----1A----</AM>
-<AM lemma="paramilitární" src="auto">AANP2----1A----</AM>
-<AM lemma="paramilitární" src="auto">AANP6----1A----</AM>
+<tag><AM lemma="paramilitární" src="orig" selected="1">AAFP2----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-066-p5s5w17">
@@ -2624,15 +2614,7 @@
 <LM>w#w-lnd92254-066-p6s1w8</LM>
 </w.rf>
 <form>Panićovi</form>
-<tag><AM lemma="Panić_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Panić_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Panić" src="auto">NNMS3-----A----</AM>
-<AM lemma="Panić_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Panića_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Panić_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Panić" src="auto">NNMS6-----A----</AM>
-<AM lemma="Panićův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="panićovi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Panić_;S" src="orig" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-066-p6s1w9">
@@ -3740,21 +3722,7 @@
 <LM>w#w-lnd92254-066-p8s2w5</LM>
 </w.rf>
 <form>UDBA</form>
-<tag><AM lemma="UDBA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UDBA_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="UDBA_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UDBA_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="UDBA_:B_;K_,t_^(British_Airways)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="UDBA_:B_;K_,t_^(Bermuda_International_Bussiness_Association)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Udba" src="auto">NNFS1-----A----</AM>
-<AM lemma="Udba_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Udba_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Udba-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Udb_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Udba_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Udba_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Udb_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="udba" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="UDBA_:B_;K" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-066-p8s2w6">

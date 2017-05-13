@@ -180,15 +180,7 @@
 <LM>w#w-lnd92257-007-p3s2w10</LM>
 </w.rf>
 <form>Galileiho</form>
-<tag><AM lemma="Galilei_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Galilei_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Galilei_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Galilei_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galilei_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galilei_;m" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galilei_;S_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galilei-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="galileiho" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Galilei_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-007-p3s2w11">
@@ -433,16 +425,7 @@
 <LM>w#w-lnd92257-007-p3s3w1</LM>
 </w.rf>
 <form>Galileimu</form>
-<tag><AM lemma="Galilei_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Galilei_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Galileim_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Galileim" src="auto">NNIS6-----A----</AM>
-<AM lemma="Galileim" src="auto">NNIS2-----A----</AM>
-<AM lemma="Galileimum" src="auto">NNNS3-----A----</AM>
-<AM lemma="Galileima_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Galileima-1" src="auto">NNFS4-----A----</AM>
-<AM lemma="Galileim_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="galileimu" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Galilei_;S" src="orig" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-007-p3s3w2">
@@ -705,15 +688,7 @@
 <LM>w#w-lnd92257-007-p3s4w6</LM>
 </w.rf>
 <form>Galileiho</form>
-<tag><AM lemma="Galilei_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Galilei_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galilei_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Galilei_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galilei_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galilei_;m" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galilei_;S_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galilei-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="galileiho" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Galilei_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-007-p3s4w7">

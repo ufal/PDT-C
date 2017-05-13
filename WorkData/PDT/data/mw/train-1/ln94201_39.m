@@ -111,16 +111,7 @@
 <LM>w#w-ln94201-39-p2s1w8</LM>
 </w.rf>
 <form>Artagnana</form>
-<tag><AM lemma="Artagnan_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Artagnan_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Artagnan_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Artagnan_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Artagnan_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Artagnan" src="auto">NNMS4-----A----</AM>
-<AM lemma="Artagnan" src="auto">NNMS2-----A----</AM>
-<AM lemma="Artagnana" src="auto">NNFS1-----A----</AM>
-<AM lemma="Artagnan_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="artagnana" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Artagnan_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-39-p2s1w9">
@@ -2283,11 +2274,7 @@
 <LM>w#w-ln94201-39-p4s1w25</LM>
 </w.rf>
 <form>huncútstvo</form>
-<tag><AM lemma="huncútstvo" src="orig">NNNS1-----A----</AM>
-<AM lemma="huncútstvo" src="auto">NNNS1-----A----</AM>
-<AM lemma="huncútstvo" src="auto" recommended="1">NNNS4-----A----</AM>
-<AM lemma="huncútstvo_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="huncútstvo" src="auto">Db-------------</AM>
+<tag><AM lemma="huncútstvo" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-39-p4s1w26">

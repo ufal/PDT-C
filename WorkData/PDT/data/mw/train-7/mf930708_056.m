@@ -111,13 +111,7 @@
 <LM>w#w-mf930708-056-p2s1w3</LM>
 </w.rf>
 <form>jsl</form>
-<tag><AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jsl-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jsnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="jst" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jsl" src="auto">NNIS1-----A----</AM>
-<AM lemma="jsl" src="auto">NNIS4-----A----</AM>
+<tag><AM lemma="jsl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-056-p2s1w4">
@@ -2861,16 +2855,7 @@
 <LM>w#w-mf930708-056-p4s6w7</LM>
 </w.rf>
 <form>Sound</form>
-<tag><AM lemma="Sound_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Sound_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sound_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sound_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Sound_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Sound" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sounda" src="auto">NNFP2-----A----</AM>
-<AM lemma="Sound_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Sound_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sound" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sound_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-056-p4s6w8">
@@ -2879,16 +2864,7 @@
 <LM>w#w-mf930708-056-p4s6w8</LM>
 </w.rf>
 <form>Platers</form>
-<tag><AM lemma="Platers_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Platers_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Plater_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Platers_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Plater_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Plater_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Platers_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Platers_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Platers_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="platers" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Platers_;K_,t" src="orig" selected="1">NNMPX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-056-p4s6w9">

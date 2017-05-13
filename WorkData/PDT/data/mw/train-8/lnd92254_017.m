@@ -131,15 +131,7 @@
 <LM>w#w-lnd92254-017-p3s1w3</LM>
 </w.rf>
 <form>šc</form>
-<tag><AM lemma="šc-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šc-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="šc" src="auto">NNMS1-----A----</AM>
-<AM lemma="šc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="šce" src="auto">NNFP2-----A----</AM>
-<AM lemma="šce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="šc" src="auto">NNIS1-----A----</AM>
-<AM lemma="šc" src="auto">NNIS4-----A----</AM>
-<AM lemma="šc_;G" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="šc-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-017-p3s1w4">
@@ -451,16 +443,7 @@
 <LM>w#w-lnd92254-017-p3s3w13</LM>
 </w.rf>
 <form>Hehvizdské</form>
-<tag><AM lemma="Hehvizdský_;G" src="orig">AAFS6----1A----</AM>
-<AM lemma="Hehvizdský" src="auto">AAFS2----1A----</AM>
-<AM lemma="Hehvizdský" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="Hehvizdský" src="auto">AANS1----1A----</AM>
-<AM lemma="Hehvizdský" src="auto">AAFP1----1A----</AM>
-<AM lemma="Hehvizdský" src="auto">AAIP1----1A----</AM>
-<AM lemma="Hehvizdský" src="auto">AANS4----1A----</AM>
-<AM lemma="Hehvizdský" src="auto">AAFP4----1A----</AM>
-<AM lemma="Hehvizdský" src="auto">AAFS3----1A----</AM>
-<AM lemma="hehvizdské" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hehvizdský_;G" src="orig" selected="1">AAFS6----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-017-p3s3w14">

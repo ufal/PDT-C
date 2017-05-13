@@ -641,16 +641,7 @@
 <LM>w#w-lnd92258-066-p3s4w22</LM>
 </w.rf>
 <form>Janikos</form>
-<tag><AM lemma="Janikos_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Janikos_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Janikos_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Janikos_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Janikos_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Janikos_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="Janikos" src="auto">NNIS1-----A----</AM>
-<AM lemma="Janikos" src="auto">NNIS4-----A----</AM>
-<AM lemma="Janikos_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="janikos" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Janikos_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-066-p3s4w23">

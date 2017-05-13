@@ -876,23 +876,7 @@
 <LM>w#w-ln94201-15-p2s5w14</LM>
 </w.rf>
 <form>IAHR</form>
-<tag><AM lemma="IAHR_:B_;K_,t_^(Mezinárodní_asociace_pro_dějiny_náboženství)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IAHR_:B_;K_,t_^(Mezinárodní_asociace_pro_dějiny_náboženství)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="IAHR_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IAHR_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IAHR_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IAHR_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="IAHR_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IAHR_:B_;G" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Iahraniční_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Iahr_;m_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Iahr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Iahr_,t" src="auto">Db-------------</AM>
-<AM lemma="Iahr_,l" src="auto">NNMS1-----A----</AM>
-<AM lemma="Iahr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Iahr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Iahr" src="auto">NNMS1-----A----</AM>
-<AM lemma="iahr" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="IAHR_:B_;K_,t_^(Mezinárodní_asociace_pro_dějiny_náboženství)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-15-p2s5w15">

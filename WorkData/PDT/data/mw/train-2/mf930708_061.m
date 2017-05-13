@@ -75,15 +75,7 @@
 <LM>w#w-mf930708-061-p2s1w3</LM>
 </w.rf>
 <form>lík</form>
-<tag><AM lemma="lík-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lík_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík" src="auto">NNIS4-----A----</AM>
-<AM lemma="lík" src="auto">NNIS1-----A----</AM>
-<AM lemma="lík" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="lík-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<tag><AM lemma="lík-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-061-p2s1w4">
@@ -256,16 +248,7 @@
 <LM>w#w-mf930708-061-p2s2w2</LM>
 </w.rf>
 <form>Hitbox</form>
-<tag><AM lemma="Hitbox_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hitbox_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hitbox_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Hitbox-2_,t_^(krabice,_schránka)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Hitbox-1" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hitbox-1" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hitbox" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hitbox-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hitbox_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="hitbox" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hitbox_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-061-p2s2w3">

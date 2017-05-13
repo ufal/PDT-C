@@ -239,16 +239,7 @@
 <LM>w#w-lnd92251-016-p2s2w8</LM>
 </w.rf>
 <form>Stibořic</form>
-<tag><AM lemma="Stibořice_;G" src="orig">NNFP2-----A----</AM>
-<AM lemma="Stibořice_;G" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Stibořice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Stibořic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Stibořic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Stibořic_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stibořice_^(*3ík)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Stibořic_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stibořic_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="stibořic" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Stibořice_;G" src="orig" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-016-p2s2w9">

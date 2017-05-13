@@ -19,17 +19,7 @@
 <LM>w#w-lnd92251-078-p1s1w1</LM>
 </w.rf>
 <form>TELERÉBUS</form>
-<tag><AM lemma="telerébus" src="orig">NNIS1-----A----</AM>
-<AM lemma="TELERÉBUS" src="auto">NNMS1-----A----</AM>
-<AM lemma="Telerébus" src="auto">NNIS1-----A----</AM>
-<AM lemma="Telerébus" src="auto">NNIS4-----A----</AM>
-<AM lemma="Telerébus_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Telerébus_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Telerébus_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Telerébus_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Telerébus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="telerébus" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="telerébus" src="auto">NNIS4-----A----</AM>
+<tag><AM lemma="telerébus" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>

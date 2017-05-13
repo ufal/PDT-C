@@ -1071,16 +1071,7 @@
 <LM>w#w-lnd92258-025-p3s6w19</LM>
 </w.rf>
 <form>Wuchterlova</form>
-<tag><AM lemma="Wuchterlův_;G_^(*2e)" src="orig">AUFS1M---------</AM>
-<AM lemma="Wuchterlův_;S_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="Wuchterlův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Wuchterlov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Wuchterlov_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Wuchterlův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Wuchterlův_;S_^(*2a)" src="auto" recommended="1">AUFS1M---------</AM>
-<AM lemma="Wuchterlov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Wuchterlův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="wuchterlova" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Wuchterlův_;G_^(*2e)" src="orig" selected="1">AUFS1M---------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-025-p3s6w20">

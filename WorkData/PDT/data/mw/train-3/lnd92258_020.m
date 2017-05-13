@@ -676,14 +676,7 @@
 <LM>w#w-lnd92258-020-p2s4w6</LM>
 </w.rf>
 <form>Gebrüder</form>
-<tag><AM lemma="Gebrüder_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Gebrüder_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gebrüder_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gebrüdro" src="auto">NNNP2-----A----</AM>
-<AM lemma="Gebrüder_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Gebrüdry_;G" src="auto">NNIP2-----A---1</AM>
-<AM lemma="Gebrüdra_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="gebrüder" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gebrüder_;K_,t" src="orig" selected="1">NNMPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-020-p2s4w7">

@@ -4334,15 +4334,7 @@
 <LM>w#w-lnd92259-016-p7s6w7</LM>
 </w.rf>
 <form>troj</form>
-<tag><AM lemma="troj" src="orig">A2--------A----</AM>
-<AM lemma="troj" src="auto">NNIS1-----A----</AM>
-<AM lemma="troj" src="auto">NNIS4-----A----</AM>
-<AM lemma="troj" src="auto">NNFS4-----A----</AM>
-<AM lemma="troj" src="auto">NNFS1-----A----</AM>
-<AM lemma="troj_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="troj_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="troj_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="troj" src="auto" recommended="1">A2--------A----</AM>
+<tag><AM lemma="troj" src="orig" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-016-p7s6w8">

@@ -1536,18 +1536,7 @@
 <LM>w#w-lnd92259-019-p3s9w17</LM>
 </w.rf>
 <form>MFPN</form>
-<tag><AM lemma="MFPN_:B_;m_^(Mezinárodní_festival_pantomimy_neslyšících)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MFPN_:B_;m_^(Mezinárodní_festival_pantomimy_neslyšících)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="MFPN_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MFPN_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="MFPN_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Mfpn_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Mfpn_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mfpn" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mfpna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mfpn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mfpn_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mfpn" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="MFPN_:B_;m_^(Mezinárodní_festival_pantomimy_neslyšících)" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-019-p3s9w18">

@@ -2767,16 +2767,7 @@
 <LM>w#w-lnd92259-078-p4s7w84</LM>
 </w.rf>
 <form>Čmáránka</form>
-<tag><AM lemma="Čmáránek_;Y" src="orig">NNMS4-----A----</AM>
-<AM lemma="Čmáránka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Čmáránka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Čmáránek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Čmáránek_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Čmáránka_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Čmáránka_;E_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Čmáránko_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Čmáránka_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="čmáránka" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Čmáránek_;Y" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-078-p4s7w85">

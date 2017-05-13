@@ -28,16 +28,7 @@
 <LM>w#w-lnd92255-042-p1s1w2</LM>
 </w.rf>
 <form>Textantu</form>
-<tag><AM lemma="Textant_;R" src="orig">NNIS2-----A----</AM>
-<AM lemma="Textant" src="auto">NNIS2-----A----</AM>
-<AM lemma="Textant" src="auto">NNIS6-----A----</AM>
-<AM lemma="Textant" src="auto">NNIS3-----A----</AM>
-<AM lemma="Textant" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Textanta" src="auto">NNFS4-----A----</AM>
-<AM lemma="Textant" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Textant_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Textanto_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="textantu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Textant_;R" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 </s>
@@ -66,15 +57,7 @@
 <LM>w#w-lnd92255-042-p2s1w3</LM>
 </w.rf>
 <form>šák</form>
-<tag><AM lemma="šák-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šák" src="auto">NNMS1-----A----</AM>
-<AM lemma="šák_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="šák-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="šák" src="auto">NNIS4-----A----</AM>
-<AM lemma="šák" src="auto">NNIS1-----A----</AM>
-<AM lemma="šák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="šák_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="šák_;G" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="šák-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-042-p2s1w4">
@@ -148,16 +131,7 @@
 <LM>w#w-lnd92255-042-p2s2w6</LM>
 </w.rf>
 <form>Textant</form>
-<tag><AM lemma="Textant_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Textant" src="auto">NNMS1-----A----</AM>
-<AM lemma="Textant" src="auto">NNIS1-----A----</AM>
-<AM lemma="Textant_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Textant" src="auto">NNIS4-----A----</AM>
-<AM lemma="Textanta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Textant_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Textant_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Textantický_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="textant" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Textant_;R" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-042-p2s2w7">
@@ -274,16 +248,7 @@
 <LM>w#w-lnd92255-042-p2s2w19</LM>
 </w.rf>
 <form>TurboConsult</form>
-<tag><AM lemma="TurboConsult_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="TurboConsult_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="TurboConsult_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="TurboConsult_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="TurboConsult" src="auto">NNIS1-----A----</AM>
-<AM lemma="TurboConsulta" src="auto">NNFP2-----A----</AM>
-<AM lemma="TurboConsult_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="TurboConsult_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="TurboConsult_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Turboconsult" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="TurboConsult_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-042-p2s2w20">
@@ -861,16 +826,7 @@
 <LM>w#w-lnd92255-042-p2s6w1</LM>
 </w.rf>
 <form>Textant</form>
-<tag><AM lemma="Textant_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Textant" src="auto">NNMS1-----A----</AM>
-<AM lemma="Textant" src="auto">NNIS1-----A----</AM>
-<AM lemma="Textant_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Textant" src="auto">NNIS4-----A----</AM>
-<AM lemma="Textanta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Textant_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Textant_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Textantický_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="textant" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Textant_;R" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-042-p2s6w2">

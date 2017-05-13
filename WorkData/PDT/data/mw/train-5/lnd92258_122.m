@@ -39,20 +39,7 @@
 <LM>w#w-lnd92258-122-p2s1w1</LM>
 </w.rf>
 <form>KOPPENBERG</form>
-<tag><AM lemma="Koppenberg_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Koppenberg_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="KOPPENBERG_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KOPPENBERG_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KOPPENBERG_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Koppenberg_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Koppenberg_;G_^(osada)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Koppenberg_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Koppenberg_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Koppenberg_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Koppenberg" src="auto">NNMS1-----A----</AM>
-<AM lemma="Koppenberk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Koppenbergentina_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="koppenberg" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Koppenberg_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-122-p2s1w2">
@@ -70,18 +57,7 @@
 <LM>w#w-lnd92258-122-p2s1w3</LM>
 </w.rf>
 <form>OUDENAARDE</form>
-<tag><AM lemma="Oudenaarde_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Oudenaarde_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="OUDENAARDE_:B_;K_,t_^(šachová_federace)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OUDENAARDE_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="OUDENAARDE_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OUDENAARDE_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Oudenaarde_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Oudenaarde_;R" src="auto">NNNXX-----A----</AM>
-<AM lemma="Oudenaarde" src="auto">NNNS4-----A----</AM>
-<AM lemma="Oudenaarít" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Oudenaarde" src="auto">Db-------------</AM>
-<AM lemma="oudenaarde" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Oudenaarde_;G" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-122-p2s1w4">
@@ -162,16 +138,7 @@
 <LM>w#w-lnd92258-122-p2s1w12</LM>
 </w.rf>
 <form>Superprestige</form>
-<tag><AM lemma="Superprestige_;m" src="orig">NNFXX-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;Y" src="auto">AAXXX----1A----</AM>
-<AM lemma="Superprestige_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Superprestige_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Superprestige_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="superprestige" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Superprestige_;m" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-122-p2s1w13">
@@ -488,16 +455,7 @@
 <LM>w#w-lnd92258-122-p2s2w14</LM>
 </w.rf>
 <form>Lautera</form>
-<tag><AM lemma="Lautera_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Lauter_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Lauter_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Lautera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lauter" src="auto">NNMS4-----A----</AM>
-<AM lemma="Lauter" src="auto">NNMS2-----A----</AM>
-<AM lemma="Lautera" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Lauter_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Lautero" src="auto">NNNS2-----A----</AM>
-<AM lemma="lautera" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lautera_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-122-p2s2w15">
@@ -677,24 +635,7 @@
 <LM>w#w-lnd92258-122-p2s3w15</LM>
 </w.rf>
 <form>Bie</form>
-<tag><AM lemma="Bie_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Bie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Bie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Bie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Bie_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bie_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="bi_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="bie" src="auto">NNFS2-----A----</AM>
-<AM lemma="bie-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="bie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="bie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="bie_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="bie_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="bie_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="bie_;S" src="auto">NNMXX-----A----</AM>
+<tag><AM lemma="Bie_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-122-p2s3w16">
@@ -712,16 +653,7 @@
 <LM>w#w-lnd92258-122-p2s3w17</LM>
 </w.rf>
 <form>Vervaert</form>
-<tag><AM lemma="Vervaert_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vervaert_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Vervaert_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vervaert_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vervaert" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vervaert" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vervaert" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vervaert_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Vervaert_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="vervaert" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Vervaert_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-122-p2s3w18">

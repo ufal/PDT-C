@@ -84,15 +84,7 @@
 <LM>w#w-mf930701-053-p2s1w3</LM>
 </w.rf>
 <form>lík</form>
-<tag><AM lemma="lík-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lík_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík" src="auto">NNIS4-----A----</AM>
-<AM lemma="lík" src="auto">NNIS1-----A----</AM>
-<AM lemma="lík" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="lík_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="lík-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<tag><AM lemma="lík-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-053-p2s1w4">
@@ -386,16 +378,7 @@
 <LM>w#w-mf930701-053-p2s3w7</LM>
 </w.rf>
 <form>Ways</form>
-<tag><AM lemma="Way_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Way_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Way_,t" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Ways_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Ways-1_;K_,t_^(souč._názvů,_např._British_A.)" src="auto">NNFPX-----A----</AM>
-<AM lemma="Ways_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ways" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ways" src="auto">NNIS4-----A----</AM>
-<AM lemma="Way_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="ways" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Way_;K_,t" src="orig" selected="1">NNFPX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-053-p2s3w8">
@@ -440,15 +423,7 @@
 <LM>w#w-mf930701-053-p2s3w12</LM>
 </w.rf>
 <form>prix</form>
-<tag><AM lemma="prix_;m" src="orig">NNFXX-----A----</AM>
-<AM lemma="prix_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="prix_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="prix-2_;m_,t_^(cena)" src="auto">NNFXX-----A----</AM>
-<AM lemma="prix-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="prix-1_;S" src="auto">NNFSX-----A----</AM>
-<AM lemma="prix" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="prix" src="auto">NNIS1-----A----</AM>
-<AM lemma="prix_;L_,t" src="auto">NNFS1-----A----</AM>
+<tag><AM lemma="prix_;m" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-053-p2s3w13">

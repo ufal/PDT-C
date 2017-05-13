@@ -347,23 +347,7 @@
 <LM>w#w-ln94201-43-p2s2w10</LM>
 </w.rf>
 <form>UNOSOM</form>
-<tag><AM lemma="UNOSOM_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UNOSOM_:B_;m" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="UNOSOM-3_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="UNOSOM_:B_;c_,t_^(Read-only_memory,_trv._paměť)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="UNOSOM_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UNOSOM_:B_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="UNOSOM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UNOSOM_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Unos_,t" src="auto">NNIS7-----A----</AM>
-<AM lemma="Unosom" src="auto">NNMS1-----A----</AM>
-<AM lemma="Unosom" src="auto">NNIS1-----A----</AM>
-<AM lemma="Unosom" src="auto">NNIS4-----A----</AM>
-<AM lemma="Unosom_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Unosom_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Unosom" src="auto">Db-------------</AM>
-<AM lemma="Unosen" src="auto">PDZS6----------</AM>
-<AM lemma="unosom" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="UNOSOM_:B_;m" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-43-p2s2w11">

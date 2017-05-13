@@ -1751,16 +1751,7 @@
 <LM>w#w-lnd92252-076-p5s5w4</LM>
 </w.rf>
 <form>Cesaris</form>
-<tag><AM lemma="Cesaris_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cesaris_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cesaris_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="libris_^(pouze_ve_spojení_ex_Cesaris)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Cesarid_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cesarae_,t_^(temnota)" src="auto">NNFP6-----A----</AM>
-<AM lemma="Cesaris_;u_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Cesaris_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cesaris_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="cesaris" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cesaris_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s5w5">
@@ -1962,16 +1953,7 @@
 <LM>w#w-lnd92252-076-p5s7w3</LM>
 </w.rf>
 <form>Braz</form>
-<tag><AM lemma="Brazílie_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Braz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Braz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Brazílie_:B_;G" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Braz_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Braz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Braz_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Braza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Braz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="braz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Brazílie_:B_;G" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s7w4">
@@ -2231,16 +2213,7 @@
 <LM>w#w-lnd92252-076-p5s11w3</LM>
 </w.rf>
 <form>Braz</form>
-<tag><AM lemma="Brazílie_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Braz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Braz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Brazílie_:B_;G" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Braz_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Braz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Braz_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Braza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Braz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="braz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Brazílie_:B_;G" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s11w4">

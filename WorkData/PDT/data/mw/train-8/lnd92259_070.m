@@ -490,17 +490,7 @@
 <LM>w#w-lnd92259-070-p3s4w14</LM>
 </w.rf>
 <form>Ešeře</form>
-<tag><AM lemma="Ešera_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Ešera" src="auto">NNFS6-----A----</AM>
-<AM lemma="Ešera_;K" src="auto">NNFS3-----A----</AM>
-<AM lemma="Ešero" src="auto">NNNS6-----A---1</AM>
-<AM lemma="Ešery_;G" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Ešeř" src="auto">NNFS2-----A----</AM>
-<AM lemma="Ešeř" src="auto">NNIP1-----A----</AM>
-<AM lemma="Ešeře" src="auto">NNFP1-----A----</AM>
-<AM lemma="Ešeře" src="auto">NNFP4-----A----</AM>
-<AM lemma="ešeře" src="auto">Db-------------</AM>
-<AM lemma="ešeře" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ešera_;G" src="orig" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-070-p3s4w15">
@@ -812,15 +802,7 @@
 <LM>w#w-lnd92259-070-p3s7w16</LM>
 </w.rf>
 <form>Achalciche</form>
-<tag><AM lemma="Achalciche_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Achalcich_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Achalciche_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Achalciche_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Achalciche_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Achalcich_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Manche_;G_^(La_Achalciche)" src="auto" recommended="1">NNISX-----A----</AM>
-<AM lemma="Achalcich_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="achalciche" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Achalciche_;G" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-070-p3s7w17">
@@ -939,15 +921,7 @@
 <LM>w#w-lnd92259-070-p3s8w4</LM>
 </w.rf>
 <form>Tengiz</form>
-<tag><AM lemma="Tengiz_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tengizstán_:B_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="Tengiz_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tengiz_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Tengíza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tengizozemí_:B_;G" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Tengiza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Tengiz_;Y_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="tengiz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tengiz_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-070-p3s8w5">

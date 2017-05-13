@@ -124,15 +124,7 @@
 <LM>w#w-lnd92252-002-p3s1w3</LM>
 </w.rf>
 <form>jif</form>
-<tag><AM lemma="jif-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jif-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jif_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jif_,t" src="auto">J^-------------</AM>
-<AM lemma="jif" src="auto">NNIS4-----A----</AM>
-<AM lemma="jif" src="auto">NNIS1-----A----</AM>
-<AM lemma="jif_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jif_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="jif" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="jif-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-002-p3s1w4">
@@ -2034,16 +2026,7 @@
 <LM>w#w-lnd92252-002-p5s1w33</LM>
 </w.rf>
 <form>Sunday</form>
-<tag><AM lemma="Sunday_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Sunday_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Sunday_,t" src="auto">Db-------------</AM>
-<AM lemma="Sunday_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sunday_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sunday_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Sunday_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Sunday_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Sunday_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="sunday" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sunday_;R_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-002-p5s1w34">

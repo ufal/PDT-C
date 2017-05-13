@@ -1369,16 +1369,7 @@
 <LM>w#w-mf930708-038-p4s2w8</LM>
 </w.rf>
 <form>Bystronic</form>
-<tag><AM lemma="Bystronic_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Bystronice" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bystronice_^(*3ík)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bystronice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bystronic_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Bystronic_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bystronic" src="auto">Db-------------</AM>
-<AM lemma="Bystronice_;G_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bystronice-2_^(místo_výkonu_služby)" src="auto">NNFP2-----A----</AM>
-<AM lemma="bystronic" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bystronic_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-038-p4s2w9">

@@ -204,17 +204,7 @@
 <LM>w#w-lnd92256-001-p3s1w15</LM>
 </w.rf>
 <form>HNĚVANCE</form>
-<tag><AM lemma="hněvance" src="orig">NNFP1-----A----</AM>
-<AM lemma="HNĚVance_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hněvance" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Hněvance" src="auto">NNFS2-----A----</AM>
-<AM lemma="Hněvance" src="auto">NNFP1-----A----</AM>
-<AM lemma="Hněvanec" src="auto">NNMP4-----A----</AM>
-<AM lemma="Hněvanka" src="auto">NNFS6-----A----</AM>
-<AM lemma="Hněvanka" src="auto">NNFS3-----A----</AM>
-<AM lemma="Hněvance" src="auto">NNFP4-----A----</AM>
-<AM lemma="Hněvanec" src="auto">NNMS2-----A----</AM>
-<AM lemma="hněvance" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="hněvance" src="orig" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-001-p3s1w16">

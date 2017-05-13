@@ -66,23 +66,7 @@
 <LM>w#w-lnd92254-033-p2s1w3</LM>
 </w.rf>
 <form>dos</form>
-<tag><AM lemma="dos-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="do" src="auto">PZM-1---------1</AM>
-<AM lemma="do_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="dos-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="dos-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="dos-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="dos-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="dos_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="dos_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="dos_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="dos_;S_,t" src="auto">RR--X----------</AM>
-<AM lemma="dos_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="doscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="dosoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="dospolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dostrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dostátní_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="dos-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-033-p2s1w4">
@@ -165,13 +149,7 @@
 <LM>w#w-lnd92254-033-p2s2w7</LM>
 </w.rf>
 <form>SDĽ</form>
-<tag><AM lemma="SDL-1_:B_;K_;p_,t_,x_^(Slov._Strana_demokratickej_ľavice)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SDL-1_:B_;K_;p_,t_,x_^(Slov._Strana_demokratickej_ľavice)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SDĽ-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Sdľnohospodárský_:B_;K_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Sdľ_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sdľ_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="sdľ" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="SDL-1_:B_;K_;p_,t_,x_^(Slov._Strana_demokratickej_ľavice)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-033-p2s2w8">

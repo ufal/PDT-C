@@ -46,16 +46,7 @@
 <LM>w#w-mf930702-125-p1s1w4</LM>
 </w.rf>
 <form>Chuďjakova</form>
-<tag><AM lemma="Chuďjakov_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Chuďjakův_;S_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="Chuďjakův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Chuďjakov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Chuďjakov_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Chuďjakův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Chuďjakův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Chuďjakov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Chuďjakův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="chuďjakova" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Chuďjakov_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 </s>
@@ -295,16 +286,7 @@
 <LM>w#w-mf930702-125-p3s2w6</LM>
 </w.rf>
 <form>Chuďjakov</form>
-<tag><AM lemma="Chuďjakov_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chuďjakov_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chuďjakov_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chuďjakov_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Chuďjakov" src="auto">NNIS4-----A----</AM>
-<AM lemma="Chuďjakov" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chuďjak_;G_,t" src="auto">NNMP2-----A----</AM>
-<AM lemma="Chuďjak-2_,t" src="auto">NNMP2-----A----</AM>
-<AM lemma="Chuďjakov_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="chuďjakov" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Chuďjakov_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-125-p3s2w7">
@@ -1045,16 +1027,7 @@
 <LM>w#w-mf930702-125-p4s3w29</LM>
 </w.rf>
 <form>Serbského</form>
-<tag><AM lemma="Serbský_;K" src="orig">NNMS2-----A----</AM>
-<AM lemma="Serbský" src="auto">AAIS2----1A----</AM>
-<AM lemma="Serbský" src="auto">AANS2----1A----</AM>
-<AM lemma="Serbský" src="auto">AAMS2----1A----</AM>
-<AM lemma="Serbský" src="auto">AAMS4----1A----</AM>
-<AM lemma="Serbský_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Serbský_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="Serbský_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="Serbský_^(*3it)" src="auto">AAIS2----1A----</AM>
-<AM lemma="serbského" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Serbský_;K" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-125-p4s3w30">
@@ -1346,15 +1319,7 @@
 <LM>w#w-mf930702-125-p5s2w7</LM>
 </w.rf>
 <form>psychušku</form>
-<tag><AM lemma="psychuška_,t" src="orig">NNFS4-----A----</AM>
-<AM lemma="psychuška" src="auto">NNFS4-----A----</AM>
-<AM lemma="psychušek" src="auto">NNIS3-----A----</AM>
-<AM lemma="psychušek" src="auto">NNIS6-----A----</AM>
-<AM lemma="psychušek" src="auto">NNIS2-----A----</AM>
-<AM lemma="psychuchu" src="auto">Db-------------</AM>
-<AM lemma="psychuška_^(*2)" src="auto">NNFS4-----A----</AM>
-<AM lemma="psychuška_;Y_^(^DI*4ie-1)" src="auto">NNFS4-----A----</AM>
-<AM lemma="psychuška_,t" src="auto" recommended="1">NNFS4-----A----</AM>
+<tag><AM lemma="psychuška_,t" src="orig" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-125-p5s2w8">
@@ -1572,16 +1537,7 @@
 <LM>w#w-mf930702-125-p5s3w8</LM>
 </w.rf>
 <form>Černogorsku</form>
-<tag><AM lemma="Černogorsk_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Černogorsko_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Černogorsko_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Černogorsk" src="auto">NNIS2-----A----</AM>
-<AM lemma="Černogorsko" src="auto">NNNS6-----A----</AM>
-<AM lemma="Černogorska" src="auto">NNFS4-----A----</AM>
-<AM lemma="Černogorsk" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Černogorsk_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Černogorsko" src="auto">NNNS3-----A----</AM>
-<AM lemma="černogorsku" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Černogorsk_;G" src="orig" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-125-p5s3w9">
@@ -2204,16 +2160,7 @@
 <LM>w#w-mf930702-125-p6s2w11</LM>
 </w.rf>
 <form>Chuďjakov</form>
-<tag><AM lemma="Chuďjakov_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chuďjakov_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chuďjakov_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chuďjakov_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Chuďjakov" src="auto">NNIS4-----A----</AM>
-<AM lemma="Chuďjakov" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chuďjak_;G_,t" src="auto">NNMP2-----A----</AM>
-<AM lemma="Chuďjak-2_,t" src="auto">NNMP2-----A----</AM>
-<AM lemma="Chuďjakov_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="chuďjakov" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Chuďjakov_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-125-p6s2w12">

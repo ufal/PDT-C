@@ -75,8 +75,7 @@
 <LM>w#w-mf930708-022-p2s1w3</LM>
 </w.rf>
 <form>jh</form>
-<tag><AM lemma="jh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jh-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<tag><AM lemma="jh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-022-p2s1w4">

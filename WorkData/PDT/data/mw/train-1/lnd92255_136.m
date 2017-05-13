@@ -57,15 +57,7 @@
 <LM>w#w-lnd92255-136-p2s1w3</LM>
 </w.rf>
 <form>šc</form>
-<tag><AM lemma="šc-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šc-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="šc" src="auto">NNMS1-----A----</AM>
-<AM lemma="šc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="šce" src="auto">NNFP2-----A----</AM>
-<AM lemma="šce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="šc" src="auto">NNIS1-----A----</AM>
-<AM lemma="šc" src="auto">NNIS4-----A----</AM>
-<AM lemma="šc_;G" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="šc-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-136-p2s1w4">

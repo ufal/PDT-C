@@ -413,14 +413,7 @@
 <LM>w#w-mf930703-072-p2s3w4</LM>
 </w.rf>
 <form>Narodowy</form>
-<tag><AM lemma="Narodowy_;K_,t" src="orig">AAIS1----1A----</AM>
-<AM lemma="Narodowy_;R_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Narodowy_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Narodowy_;K_,t" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="Narodowa_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Narodowa_;K_;R" src="auto">NNFS2-----A----</AM>
-<AM lemma="Narodowa_;K_;R" src="auto">NNFP1-----A----</AM>
-<AM lemma="narodowy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Narodowy_;K_,t" src="orig" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-072-p2s3w5">
@@ -438,15 +431,7 @@
 <LM>w#w-mf930703-072-p2s3w6</LM>
 </w.rf>
 <form>Polski</form>
-<tag><AM lemma="Polski_;K_,t" src="orig">AAIS1----1A----</AM>
-<AM lemma="Polski_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Polský_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Polski_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Polski_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Polský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Polski_;K_,t" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="Polski_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="polski" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Polski_;K_,t" src="orig" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-072-p2s3w7">
@@ -491,15 +476,7 @@
 <LM>w#w-mf930703-072-p2s3w11</LM>
 </w.rf>
 <form>Polski</form>
-<tag><AM lemma="polski_,t" src="orig">AAIS1----1A----</AM>
-<AM lemma="Polski_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Polský_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Polski_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Polski_,t" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="Polský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Polski_;K_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Polski_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="polski" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="polski_,t" src="orig" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-072-p2s3w12">
@@ -969,15 +946,7 @@
 <LM>w#w-mf930703-072-p2s5w12</LM>
 </w.rf>
 <form>Česki</form>
-<tag><AM lemma="Česki_,t" src="orig">AAIS1----1A----</AM>
-<AM lemma="Česki_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Český_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Česki_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Česki_,t" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="Český_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Česki_;K_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Česki_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="česki" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Česki_,t" src="orig" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-072-p2s5w13">
@@ -1049,15 +1018,7 @@
 <LM>w#w-mf930703-072-p2s5w20</LM>
 </w.rf>
 <form>Česki</form>
-<tag><AM lemma="Česki_,t" src="orig">AAIS1----1A----</AM>
-<AM lemma="Česki_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Český_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Česki_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Česki_,t" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="Český_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Česki_;K_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Česki_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="česki" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Česki_,t" src="orig" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-072-p2s5w21">
@@ -1129,15 +1090,7 @@
 <LM>w#w-mf930703-072-p2s5w28</LM>
 </w.rf>
 <form>Polski</form>
-<tag><AM lemma="Polski_,t" src="orig">AAIS1----1A----</AM>
-<AM lemma="Polski_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Polský_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Polski_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="Polski_,t" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="Polský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Polski_;K_,t" src="auto">AAIS1----1A----</AM>
-<AM lemma="Polski_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="polski" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Polski_,t" src="orig" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-072-p2s5w29">

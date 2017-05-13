@@ -273,16 +273,7 @@
 <LM>w#w-lnd92255-027-p2s4w1</LM>
 </w.rf>
 <form>Raffaello</form>
-<tag><AM lemma="Raffaello_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Raffaello_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Raffaella_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Raffaello_;m" src="auto">NNNSX-----A----</AM>
-<AM lemma="Raffaello_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Raffaello_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Raffaello_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Raffaello_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Raffaello_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="raffaello" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Raffaello_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-027-p2s4w2">

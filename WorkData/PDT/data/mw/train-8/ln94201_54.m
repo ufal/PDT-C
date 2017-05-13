@@ -1519,16 +1519,7 @@
 <LM>w#w-ln94201-54-p5s1w15</LM>
 </w.rf>
 <form>Rianová</form>
-<tag><AM lemma="Rianová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Rianová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Rianový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Rianový" src="auto">AANP1----1A----</AM>
-<AM lemma="Rianový" src="auto">AANP4----1A----</AM>
-<AM lemma="Rianová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rianová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rianový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Rianový" src="auto">AAFS5----1A----</AM>
-<AM lemma="rianová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rianová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-54-p5s1w16">
@@ -2222,14 +2213,7 @@
 <LM>w#w-ln94201-54-p7s1w5</LM>
 </w.rf>
 <form>Posuvaljuk</form>
-<tag><AM lemma="Posuvaljuk_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Posuvaljuk_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Posuvaljuk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Posuvaljuk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Posuvaljuk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Posuvaljuk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Posuvaljuka" src="auto">NNFP2-----A----</AM>
-<AM lemma="posuvaljuk" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Posuvaljuk_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-54-p7s1w6">
@@ -2510,14 +2494,7 @@
 <LM>w#w-ln94201-54-p7s2w6</LM>
 </w.rf>
 <form>Posuvaljuk</form>
-<tag><AM lemma="Posuvaljuk_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Posuvaljuk_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Posuvaljuk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Posuvaljuk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Posuvaljuk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Posuvaljuk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Posuvaljuka" src="auto">NNFP2-----A----</AM>
-<AM lemma="posuvaljuk" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Posuvaljuk_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-54-p7s2w7">

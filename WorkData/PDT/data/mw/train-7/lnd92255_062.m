@@ -368,15 +368,7 @@
 <LM>w#w-lnd92255-062-p2s3w11</LM>
 </w.rf>
 <form>sonarní</form>
-<tag><AM lemma="sonarní" src="orig">AAIS4----1A----</AM>
-<AM lemma="sonarní" src="auto">AAFS1----1A----</AM>
-<AM lemma="sonarní" src="auto">AAFS2----1A----</AM>
-<AM lemma="sonarní" src="auto">AAFS4----1A----</AM>
-<AM lemma="sonarní" src="auto">AAIS1----1A----</AM>
-<AM lemma="sonarní" src="auto">AAFS6----1A----</AM>
-<AM lemma="sonarní" src="auto" recommended="1">AAIS4----1A----</AM>
-<AM lemma="sonarní" src="auto">AANS1----1A----</AM>
-<AM lemma="sonarní" src="auto">AAFP1----1A----</AM>
+<tag><AM lemma="sonarní" src="orig" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-062-p2s3w12">

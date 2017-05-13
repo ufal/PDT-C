@@ -574,16 +574,7 @@
 <LM>w#w-mf930701-152-p3s1w10</LM>
 </w.rf>
 <form>Bráhmášarího</form>
-<tag><AM lemma="Bráhmášarí_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Bráhmášarí" src="auto">AAIS2----1A----</AM>
-<AM lemma="Bráhmášarí" src="auto">AANS2----1A----</AM>
-<AM lemma="Bráhmášarí" src="auto" recommended="1">AAMS2----1A----</AM>
-<AM lemma="Bráhmášarí" src="auto">AAMS4----1A----</AM>
-<AM lemma="Bráhmášarí_^(*5ovat)" src="auto">AGIS2-----A----</AM>
-<AM lemma="Bráhmášarí_^(*4t)" src="auto">AGIS2-----A----</AM>
-<AM lemma="Bráhmášarí_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="Bráhmášarí_^(*5ovat)" src="auto">AGNS2-----A----</AM>
-<AM lemma="bráhmášarího" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bráhmášarí_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-152-p3s1w11">
@@ -738,16 +729,7 @@
 <LM>w#w-mf930701-152-p3s2w16</LM>
 </w.rf>
 <form>Sukšar</form>
-<tag><AM lemma="Sukšar_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sukšar_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sukšar_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sukšar" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Sukšar" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sukšar_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sukšar" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sukšar_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sukšar_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="sukšar" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sukšar_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-152-p3s2w17">

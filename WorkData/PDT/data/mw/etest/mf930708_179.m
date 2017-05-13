@@ -537,16 +537,7 @@
 <LM>w#w-mf930708-179-p4s1w3</LM>
 </w.rf>
 <form>Guntis</form>
-<tag><AM lemma="Guntis_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Guntis_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Guntisíc-2`1000_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Guntis_;m_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Guntis_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Guntis_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Guntis_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Guntis-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Guntis" src="auto">NNIS1-----A----</AM>
-<AM lemma="guntis" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Guntis_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-179-p4s1w4">

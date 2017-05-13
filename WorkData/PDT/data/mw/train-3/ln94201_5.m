@@ -147,19 +147,7 @@
 <LM>w#w-ln94201-5-p2s1w9</LM>
 </w.rf>
 <form>třistapadesátimilionového</form>
-<tag><AM lemma="třistapadesátimilionový" src="orig">AAIS2----1A----</AM>
-<AM lemma="třistapadesátimilionový" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="třistapadesátimilionový" src="auto">AAMS2----1A----</AM>
-<AM lemma="třistapadesátimilionový" src="auto">AAMS4----1A----</AM>
-<AM lemma="třistapadesátimilionový" src="auto">AANS2----1A----</AM>
-<AM lemma="třistapadesátimilionový_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="třistapadesátimilionový_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="třistapadesátimilionový_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="třistapadesátimilionový_^(*3it)" src="auto">AAIS2----1A----</AM>
-<AM lemma="třistapadesátimiliónový" src="auto">AAIS2----1A----</AM>
-<AM lemma="třistapadesátimiliónový" src="auto">AAMS2----1A----</AM>
-<AM lemma="třistapadesátimiliónový" src="auto">AAMS4----1A----</AM>
-<AM lemma="třistapadesátimiliónový" src="auto">AANS2----1A----</AM>
+<tag><AM lemma="třistapadesátimilionový" src="orig" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-5-p2s1w10">

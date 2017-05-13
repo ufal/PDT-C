@@ -2115,13 +2115,7 @@
 <LM>w#w-lnd92255-074-p5s5w12</LM>
 </w.rf>
 <form>hoc</form>
-<tag><AM lemma="hoc_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="hoc_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="hoc_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="hoc_,t" src="auto">Db-------------</AM>
-<AM lemma="hoc" src="auto">NNFS4-----A----</AM>
-<AM lemma="hoc" src="auto">NNFS1-----A----</AM>
-<AM lemma="hoc_;S" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="hoc_,t" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-074-p5s5w13">

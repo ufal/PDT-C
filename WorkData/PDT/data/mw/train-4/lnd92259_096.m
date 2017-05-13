@@ -4010,12 +4010,7 @@
 <LM>w#w-lnd92259-096-p14s1w2</LM>
 </w.rf>
 <form>Goven</form>
-<tag><AM lemma="Goven_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Govit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="Govna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Goven_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Goven_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="goven" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Goven_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-096-p14s1w3">

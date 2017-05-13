@@ -2746,16 +2746,7 @@
 <LM>w#w-mf930708-066-p5s3w4</LM>
 </w.rf>
 <form>Sisters</form>
-<tag><AM lemma="Sisters_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Sisters_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sister_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Sisters_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Sister_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Sister_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Sisters_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Sisters_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sisters_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="sisters" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sisters_;K_,t" src="orig" selected="1">NNFPX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-066-p5s3w5">
@@ -2773,16 +2764,7 @@
 <LM>w#w-mf930708-066-p5s3w6</LM>
 </w.rf>
 <form>Mercy</form>
-<tag><AM lemma="Mercy_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Mercy_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mercy_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Mercy_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mercy_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Mercy_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Merca_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Merca_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Merc_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="mercy" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mercy_;K_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-066-p5s3w7">

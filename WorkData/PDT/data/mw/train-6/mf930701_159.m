@@ -228,16 +228,7 @@
 <LM>w#w-mf930701-159-p2s1w17</LM>
 </w.rf>
 <form>Suret</form>
-<tag><AM lemma="Suret_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Suret" src="auto">NNIS4-----A----</AM>
-<AM lemma="Suret_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sureta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Suret" src="auto">NNIS1-----A----</AM>
-<AM lemma="Surta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Suret_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Suret_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Suret_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="suret" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Suret_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-159-p2s1w18">
@@ -500,15 +491,7 @@
 <LM>w#w-mf930701-159-p3s1w22</LM>
 </w.rf>
 <form>Abulfaze</form>
-<tag><AM lemma="Abulfaz_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Abulfaha" src="auto">NNFS6-----A----</AM>
-<AM lemma="Abulfaha" src="auto">NNFS3-----A----</AM>
-<AM lemma="Abulfaz_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Abulfaz" src="auto">NNIS6-----A----</AM>
-<AM lemma="Abulfaz_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Abulfaha_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Abulfaha_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="abulfaze" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Abulfaz_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-159-p3s1w23">
@@ -962,16 +945,7 @@
 <LM>w#w-mf930701-159-p5s1w2</LM>
 </w.rf>
 <form>Abulfaz</form>
-<tag><AM lemma="Abulfaz_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Abulfaz_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Abulfaz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Abulfaz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Abulfaz_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Abulfaz_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Abulfazílie_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Abulfaza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Abulfaz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="abulfaz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Abulfaz_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-159-p5s1w3">
@@ -1562,16 +1536,7 @@
 <LM>w#w-mf930701-159-p5s4w5</LM>
 </w.rf>
 <form>Gusejnův</form>
-<tag><AM lemma="Gusejnův_;S_^(*2)" src="orig">AUIS1M---------</AM>
-<AM lemma="Gusejnův_;S_^(*2)" src="auto" recommended="1">AUIS1M---------</AM>
-<AM lemma="Gusejnův_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="Gusejnův_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Gusejnův_;S_^(*2a)" src="auto">AUIS1M---------</AM>
-<AM lemma="Gusejnův_;S_;Y_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Gusejnův_;E_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Gusejnův_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="Gusejnův_;Y_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="gusejnův" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gusejnův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</AM>
 </tag>
 </m>
 <m id="m-mf930701-159-p5s4w6">

@@ -1034,16 +1034,7 @@
 <LM>w#w-lnd92258-140-p4s3w12</LM>
 </w.rf>
 <form>Vallecana</form>
-<tag><AM lemma="Vallecana_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Vallecan_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vallecan_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vallecan_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Vallecan_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vallecan" src="auto">NNMS4-----A----</AM>
-<AM lemma="Vallecan" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vallecana" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vallecan_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="vallecana" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Vallecana_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-140-p4s3w13">
@@ -1073,16 +1064,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Logroněs</form>
-<tag><AM lemma="Logroněs_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Logroněs_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Logroněs_,t" src="auto">Db-------------</AM>
-<AM lemma="Logroněs" src="auto">NNFS4-----A----</AM>
-<AM lemma="Logroněs" src="auto">NNFS1-----A----</AM>
-<AM lemma="Logroněs" src="auto">Db-------------</AM>
-<AM lemma="Logroněs_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Logroněs" src="auto">NNIS1-----A----</AM>
-<AM lemma="Logroněs" src="auto">NNIS4-----A----</AM>
-<AM lemma="logroněs" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Logroněs_;K" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-140-p4s3w18">

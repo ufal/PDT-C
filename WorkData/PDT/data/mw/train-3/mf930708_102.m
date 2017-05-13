@@ -217,16 +217,7 @@
 <LM>w#w-mf930708-102-p1s1w23</LM>
 </w.rf>
 <form>Kiiči</form>
-<tag><AM lemma="Kiiči_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Kiič" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Kiič" src="auto">NNMP7-----A----</AM>
-<AM lemma="Kiič" src="auto">NNIS3-----A----</AM>
-<AM lemma="Kiič" src="auto">NNIP7-----A----</AM>
-<AM lemma="Kiič_;S_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="Kiič_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Kiič" src="auto">NNMS6-----A----</AM>
-<AM lemma="Kiič" src="auto">NNMS3-----A----</AM>
-<AM lemma="kiiči" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kiiči_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-102-p1s1w24">

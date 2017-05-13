@@ -177,15 +177,7 @@
 <LM>w#w-mf930708-152-p2s1w13</LM>
 </w.rf>
 <form>kim</form>
-<tag><AM lemma="kim_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="kim_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="kim_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ki_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="kim_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="kim" src="auto">NNIS4-----A----</AM>
-<AM lemma="kim" src="auto">NNIS1-----A----</AM>
-<AM lemma="kimum" src="auto">NNNP2-----A----</AM>
-<AM lemma="kim_;G" src="auto">NNFS4-----A----</AM>
+<tag><AM lemma="kim_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-152-p2s1w14">
@@ -2287,15 +2279,7 @@
 <LM>w#w-mf930708-152-p4s3w6</LM>
 </w.rf>
 <form>kim</form>
-<tag><AM lemma="kim_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="kim_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="kim_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ki_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="kim_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="kim" src="auto">NNIS4-----A----</AM>
-<AM lemma="kim" src="auto">NNIS1-----A----</AM>
-<AM lemma="kimum" src="auto">NNNP2-----A----</AM>
-<AM lemma="kim_;G" src="auto">NNFS4-----A----</AM>
+<tag><AM lemma="kim_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-152-p4s3w7">

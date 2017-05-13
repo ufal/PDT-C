@@ -19,16 +19,7 @@
 <LM>w#w-mf930701-061-p1s1w1</LM>
 </w.rf>
 <form>Akané</form>
-<tag><AM lemma="Akané_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Akaný_^(*2t)" src="auto">AAFS2----1A----</AM>
-<AM lemma="Akaný_^(*2t)" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="Akaný_^(*2t)" src="auto">AAIP1----1A----</AM>
-<AM lemma="Akaný_^(*2t)" src="auto">AANS1----1A----</AM>
-<AM lemma="Akaný_^(*2t)" src="auto">AAIP4----1A----</AM>
-<AM lemma="Akaný_^(*2t)" src="auto">AAFP4----1A----</AM>
-<AM lemma="Akaný_^(*2t)" src="auto">AANS4----1A----</AM>
-<AM lemma="Akaný_^(*2t)" src="auto">AAFS6----1A----</AM>
-<AM lemma="akané" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Akané_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-061-p1s1w2">
@@ -37,15 +28,7 @@
 <LM>w#w-mf930701-061-p1s1w2</LM>
 </w.rf>
 <form>Kirimura</form>
-<tag><AM lemma="Kirimura_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Kirimura" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Kirimura_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kirimur_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kirimur" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kirimur" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kirimura-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kirimur_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="kirimura" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kirimura_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-061-p1s1w3">

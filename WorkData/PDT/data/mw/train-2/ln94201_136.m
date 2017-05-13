@@ -691,17 +691,7 @@
 <LM>w#w-ln94201-136-p3s2w16</LM>
 </w.rf>
 <form>podkolech</form>
-<tag><AM lemma="podkolo" src="orig">NNNS6-----A----</AM>
-<AM lemma="podkol" src="auto">NNFP6-----A----</AM>
-<AM lemma="podkol" src="auto">NNIP6-----A----</AM>
-<AM lemma="podkol" src="auto">NNMP6-----A----</AM>
-<AM lemma="podkol_^(*3ý)" src="auto">NNFP6-----A----</AM>
-<AM lemma="podkola" src="auto">NNMP6-----A----</AM>
-<AM lemma="podkolech" src="auto">NNIS4-----A----</AM>
-<AM lemma="podkolech" src="auto">NNMS1-----A----</AM>
-<AM lemma="podkolecha" src="auto">NNFP2-----A----</AM>
-<AM lemma="podkolo" src="auto" recommended="1">NNNP6-----A----</AM>
-<AM lemma="podkoly_;G" src="auto">NNIP6-----A----</AM>
+<tag><AM lemma="podkolo" src="orig" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-136-p3s2w17">
@@ -885,15 +875,7 @@
 <LM>w#w-ln94201-136-p3s4w7</LM>
 </w.rf>
 <form>Nordwestdeutsche</form>
-<tag><AM lemma="Nordwestdeutsche_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Nordwestdeutsch_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Nordwestdeutsche_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nordwestdeutsche_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Nordwestdeutsche_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Nordwestdeutsch_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Manche_;G_^(La_Nordwestdeutsche)" src="auto">NNISX-----A----</AM>
-<AM lemma="Nordwestdeutsch_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="nordwestdeutsche" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nordwestdeutsche_;R_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-136-p3s4w8">
@@ -902,16 +884,7 @@
 <LM>w#w-ln94201-136-p3s4w8</LM>
 </w.rf>
 <form>Klassenloterie</form>
-<tag><AM lemma="Klassenloterie_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Klassenloterie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Klassenloterie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Klassenloterie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Klassenloterie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Klassenloterie_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Klassenloterie_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Klassenloterie_;R_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Klassenloterie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="klassenloterie" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Klassenloterie_;R_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-136-p3s4w9">
@@ -1102,15 +1075,7 @@
 <LM>w#w-ln94201-136-p3s5w13</LM>
 </w.rf>
 <form>devadesátišetiprocentní</form>
-<tag><AM lemma="devadesátišetiprocentní" src="orig">AAFS4----1A----</AM>
-<AM lemma="devadesátišetiprocentní" src="auto">AAFS1----1A----</AM>
-<AM lemma="devadesátišetiprocentní" src="auto">AAFS2----1A----</AM>
-<AM lemma="devadesátišetiprocentní" src="auto">AAIS4----1A----</AM>
-<AM lemma="devadesátišetiprocentní" src="auto">AAIS1----1A----</AM>
-<AM lemma="devadesátišetiprocentní" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="devadesátišetiprocentní" src="auto">AANS4----1A----</AM>
-<AM lemma="devadesátišetiprocentní" src="auto">AANS1----1A----</AM>
-<AM lemma="devadesátišetiprocentní" src="auto">AAFS7----1A----</AM>
+<tag><AM lemma="devadesátišetiprocentní" src="orig" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-136-p3s5w14">
@@ -1417,18 +1382,7 @@
 <LM>w#w-ln94201-136-p4s3w6</LM>
 </w.rf>
 <form>podkol</form>
-<tag><AM lemma="podkolo" src="orig">NNNP2-----A----</AM>
-<AM lemma="podcola_,h_,x_^(nápoj)" src="auto">NNFP2-----A----</AM>
-<AM lemma="podkol" src="auto">NNIS1-----A----</AM>
-<AM lemma="podkol" src="auto">NNIS4-----A----</AM>
-<AM lemma="podkol-2_;K_^(organizace)" src="auto">NNIS1-----A----</AM>
-<AM lemma="podkol-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="podkol_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="podkol_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="podkola" src="auto">NNFP2-----A----</AM>
-<AM lemma="podkoletopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
-<AM lemma="podkolitr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="podkolo" src="auto" recommended="1">NNNP2-----A----</AM>
+<tag><AM lemma="podkolo" src="orig" selected="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-136-p4s3w7">

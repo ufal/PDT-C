@@ -178,16 +178,7 @@
 <LM>w#w-lnd92253-050-p3s2w11</LM>
 </w.rf>
 <form>Iklim</form>
-<tag><AM lemma="Iklim_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Ikli_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Iklim_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Iklim_;G" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Iklim_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Iklim_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Iklim" src="auto">NNIS4-----A----</AM>
-<AM lemma="Iklim" src="auto">NNIS1-----A----</AM>
-<AM lemma="Iklimum" src="auto">NNNP2-----A----</AM>
-<AM lemma="iklim" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Iklim_;G" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-050-p3s2w12">
@@ -216,15 +207,7 @@
 <LM>w#w-lnd92253-050-p3s2w14</LM>
 </w.rf>
 <form>Tuffáh</form>
-<tag><AM lemma="Tuffáh_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Tuffáh_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Tuffáh_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tuffáh_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tuffáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tuffáh" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tuffáh" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tuffáh" src="auto">NNIS1-----A----</AM>
-<AM lemma="tuffáh" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tuffáh_;G" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-050-p3s2w15">

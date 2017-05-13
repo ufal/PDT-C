@@ -177,16 +177,7 @@
 <LM>w#w-lnd92255-025-p2s2w11</LM>
 </w.rf>
 <form>Envibrno</form>
-<tag><AM lemma="Envibrno_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="Envibrno_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Envibrno" src="auto">NNNS1-----A----</AM>
-<AM lemma="Envibrný" src="auto">ACNS------A----</AM>
-<AM lemma="Envibrno_;m" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Envibrno_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Envibrno_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Envibrno_;R_^(značka_piva)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Envibrno_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="envibrno" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Envibrno_;m" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-025-p2s2w12">

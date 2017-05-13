@@ -347,16 +347,7 @@
 <LM>w#w-lnd92258-046-p2s2w33</LM>
 </w.rf>
 <form>Mattoš</form>
-<tag><AM lemma="Mattoš_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mattoš_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mattoš_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mattoše_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mattoš_,l_^(dravec_získaný_vybráním_z_hnízda)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mattoš_,h" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mattoš" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mattoš" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mattoš" src="auto">NNFS4-----A----</AM>
-<AM lemma="mattoš" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mattoš_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-046-p2s2w34">

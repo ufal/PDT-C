@@ -475,20 +475,7 @@
 <LM>w#w-lnd92256-083-p2s4w9</LM>
 </w.rf>
 <form>SEND</form>
-<tag><AM lemma="SEND_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Bundesnachrichttendienst_:SE_;K_,t_^(spolk._zprav._služba)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEND_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Send" src="auto">NNIS1-----A----</AM>
-<AM lemma="Send" src="auto">NNIS4-----A----</AM>
-<AM lemma="Send_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Send_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Send_;R_^(vozidlo)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Send_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Senda" src="auto">NNFP2-----A----</AM>
-<AM lemma="end_,t_^(anglicky_konec,_happy_Send)" src="auto">NNIS1-----A----</AM>
-<AM lemma="send" src="auto">NNMS1-----A----</AM>
-<AM lemma="send_,t_^(anglicky_konec,_happy_end)" src="auto">NNIS1-----A----</AM>
-<AM lemma="send_,t_^(anglicky_konec,_happy_end)" src="auto">NNIS4-----A----</AM>
+<tag><AM lemma="SEND_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-083-p2s4w10">

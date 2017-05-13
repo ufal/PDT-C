@@ -311,16 +311,7 @@
 <LM>w#w-lnd92258-121-p2s2w27</LM>
 </w.rf>
 <form>Lightning</form>
-<tag><AM lemma="Lightning_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Lightning_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lightning" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lightning_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lightning" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lightning_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lightning_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Lightning_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Lightning_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="lightning" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lightning_;K_,t" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-121-p2s2w28">
@@ -1955,16 +1946,7 @@
 <LM>w#w-lnd92258-121-p3s20w5</LM>
 </w.rf>
 <form>Smytheova</form>
-<tag><AM lemma="Smytheův_;S_^(*2)" src="orig">AUFS1M---------</AM>
-<AM lemma="Smytheův_;S_^(*2)" src="auto" recommended="1">AUFS1M---------</AM>
-<AM lemma="Smytheův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Smytheov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Smytheov_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Smytheův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Smytheův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Smytheov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Smytheův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="smytheova" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Smytheův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-121-p3s20w6">

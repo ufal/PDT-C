@@ -6730,15 +6730,7 @@
 <LM>w#w-lnd92254-064-p25s3w11</LM>
 </w.rf>
 <form>people</form>
-<tag><AM lemma="people_,t" src="orig">NNMP1-----A----</AM>
-<AM lemma="people_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="People_;K_,t_^(Plastic_people)" src="auto">NNMXX-----A----</AM>
-<AM lemma="peoplo-1" src="auto">NNNS6-----A----</AM>
-<AM lemma="people_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="people_;K_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="people_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="people_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="people_;K" src="auto">AAXXX----1A----</AM>
+<tag><AM lemma="people_,t" src="orig" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-064-p25s3w12">
@@ -6747,15 +6739,7 @@
 <LM>w#w-lnd92254-064-p25s3w12</LM>
 </w.rf>
 <form>first</form>
-<tag><AM lemma="first_,t" src="orig">Db-------------</AM>
-<AM lemma="first_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="first" src="auto">NNFS4-----A----</AM>
-<AM lemma="first_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="first_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="first_;K_,t" src="auto">CrXXX----------</AM>
-<AM lemma="first_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="first_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="first" src="auto">NNIS4-----A----</AM>
+<tag><AM lemma="first_,t" src="orig" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-064-p25s3w13">

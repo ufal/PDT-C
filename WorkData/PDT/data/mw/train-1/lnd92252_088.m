@@ -2745,16 +2745,7 @@
 <LM>w#w-lnd92252-088-p6s3w3</LM>
 </w.rf>
 <form>Superprestige</form>
-<tag><AM lemma="Superprestige_;m" src="orig">NNFXX-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;Y" src="auto">AAXXX----1A----</AM>
-<AM lemma="Superprestige_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Superprestige_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Superprestige_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="superprestige" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Superprestige_;m" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-088-p6s3w4">
@@ -5427,16 +5418,7 @@
 <LM>w#w-lnd92252-088-p7s7w24</LM>
 </w.rf>
 <form>Vikt</form>
-<tag><AM lemma="Viktoria-2_:B_;K_^(jméno_sport.klubu)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Vikt" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vikt" src="auto">NNIS1-----A----</AM>
-<AM lemma="Viktoria-2_:B_;K_^(jméno_sport.klubu)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Vikt" src="auto">NNMS1-----A----</AM>
-<AM lemma="Viktum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Vikta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vikt_^(čin;;obraz_nahého_těla)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vikt_^(čin;;obraz_nahého_těla)" src="auto">NNIS1-----A----</AM>
-<AM lemma="vikt" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Viktoria-2_:B_;K_^(jméno_sport.klubu)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-088-p7s7w25">

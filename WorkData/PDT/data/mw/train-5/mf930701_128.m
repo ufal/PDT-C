@@ -4875,16 +4875,7 @@
 <LM>w#w-mf930701-128-p9s1w22</LM>
 </w.rf>
 <form>Vaatz</form>
-<tag><AM lemma="Vaatz_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vaatz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Vaatz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vaatz_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Vaatz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vaatz_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vaatz_;K" src="auto">NNMXX-----A----</AM>
-<AM lemma="Vaatz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vaatz_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="vaatz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Vaatz_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-128-p9s1w23">

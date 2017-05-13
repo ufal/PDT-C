@@ -46,16 +46,7 @@
 <LM>w#w-mf930701-038-p1s1w4</LM>
 </w.rf>
 <form>Dalmador</form>
-<tag><AM lemma="Dalmador_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dalmador_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dalmador" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dalmador" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dalmador_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dalmador_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dalmador_;Y_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Dalmador_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dalmador_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="dalmador" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Dalmador_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-038-p1s1w5">
@@ -309,16 +300,7 @@
 <LM>w#w-mf930701-038-p1s2w5</LM>
 </w.rf>
 <form>Richteurem</form>
-<tag><AM lemma="Richteur_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Richteur" src="auto">NNIS7-----A----</AM>
-<AM lemma="Richteur" src="auto">NNMS7-----A----</AM>
-<AM lemma="Richteur_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Richteur_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Richteuro" src="auto">NNNS7-----A----</AM>
-<AM lemma="Richteur_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Richteurma" src="auto">NNFP2-----A----</AM>
-<AM lemma="Richteure_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="richteurem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Richteur_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-038-p1s2w6">

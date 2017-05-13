@@ -158,16 +158,7 @@
 <LM>w#w-lnd92258-005-p1s2w9</LM>
 </w.rf>
 <form>Today</form>
-<tag><AM lemma="Today_;R_,t" src="orig">Db-------------</AM>
-<AM lemma="Today_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Today_,t" src="auto">Db-------------</AM>
-<AM lemma="Today_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Today_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Today_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Today_;R_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="Today_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Today_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="today" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Today_;R_,t" src="orig" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-005-p1s2w10">

@@ -212,16 +212,7 @@
 <LM>w#w-lnd92259-079-p3s1w15</LM>
 </w.rf>
 <form>Béhémot</form>
-<tag><AM lemma="Béhémot_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Béhémota" src="auto">NNFP2-----A----</AM>
-<AM lemma="Béhémotýlek_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Béhémotto_,x" src="auto">NNNP2-----A----</AM>
-<AM lemma="Béhémot_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Béhémot-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Béhémot" src="auto">NNIS4-----A----</AM>
-<AM lemma="Béhémot" src="auto">NNIS1-----A----</AM>
-<AM lemma="Béhémot_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="béhémot" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Béhémot_;K" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-079-p3s1w16">
@@ -1175,15 +1166,7 @@
 <LM>w#w-lnd92259-079-p4s2w4</LM>
 </w.rf>
 <form>šrafuře</form>
-<tag><AM lemma="šrafura" src="orig">NNFS6-----A----</AM>
-<AM lemma="šrafura" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="šrafura" src="auto">NNFS3-----A----</AM>
-<AM lemma="šrafura_;K" src="auto">NNFS6-----A----</AM>
-<AM lemma="šrafura_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="šrafuř" src="auto">NNIS2-----A----</AM>
-<AM lemma="šrafuř" src="auto">NNIP1-----A----</AM>
-<AM lemma="šrafuře" src="auto">NNNS4-----A----</AM>
-<AM lemma="šrafuře" src="auto">NNNS1-----A----</AM>
+<tag><AM lemma="šrafura" src="orig" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-079-p4s2w5">

@@ -487,16 +487,7 @@
 <LM>w#w-lnd92252-029-p3s3w15</LM>
 </w.rf>
 <form>Alidžon</form>
-<tag><AM lemma="Alidžon_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Alidžon_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Alidžon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alidžon" src="auto">NNIS1-----A----</AM>
-<AM lemma="Alidžon" src="auto">NNIS4-----A----</AM>
-<AM lemma="Alidžon_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Alidžon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Alidžon_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Alidžon_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="alidžon" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Alidžon_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-029-p3s3w16">
@@ -2206,16 +2197,7 @@
 <LM>w#w-lnd92252-029-p7s2w11</LM>
 </w.rf>
 <form>Abdurachimov</form>
-<tag><AM lemma="Abdurachimov_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Abdurachimov_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Abdurachimov_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Abdurachimov" src="auto">NNIS4-----A----</AM>
-<AM lemma="Abdurachimov" src="auto">NNIS1-----A----</AM>
-<AM lemma="Abdurachimov_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Abdurachimova" src="auto">NNFP2-----A----</AM>
-<AM lemma="Abdurachimov_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Abdurachimov-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="abdurachimov" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Abdurachimov_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-029-p7s2w12">
@@ -2395,15 +2377,7 @@
 <LM>w#w-lnd92252-029-p7s2w31</LM>
 </w.rf>
 <form>Akbarša</form>
-<tag><AM lemma="Akbaršo_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Akbaršo_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Akbarša_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Akbarša_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Akbaršo_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Akbarš_;S_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Akbarša_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Akbarša_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="akbarša" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Akbaršo_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-029-p7s2w32">

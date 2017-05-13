@@ -1401,16 +1401,7 @@
 <LM>w#w-lnd92252-061-p4s2w23</LM>
 </w.rf>
 <form>Suttý</form>
-<tag><AM lemma="Suttý_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Suttý_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Suttý" src="auto">AAMS1----1A----</AM>
-<AM lemma="Suttý" src="auto">AAIS1----1A----</AM>
-<AM lemma="Suttý" src="auto">AAIS4----1A----</AM>
-<AM lemma="Suttý_^(*3out)" src="auto">AAIS1----1A----</AM>
-<AM lemma="Suttý" src="auto">CrMS1----------</AM>
-<AM lemma="Suttý" src="auto">CrIS4----------</AM>
-<AM lemma="Suttý" src="auto">CrIS1----------</AM>
-<AM lemma="suttý" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Suttý_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-061-p4s2w24">
@@ -5049,14 +5040,7 @@
 <LM>w#w-lnd92252-061-p7s2w18</LM>
 </w.rf>
 <form>odečitači</form>
-<tag><AM lemma="odečitač" src="orig">NNMP1-----A----</AM>
-<AM lemma="odečitač" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="odečitač" src="auto">NNIP7-----A----</AM>
-<AM lemma="odečitač" src="auto">NNMS3-----A----</AM>
-<AM lemma="odečitač" src="auto">NNIS6-----A----</AM>
-<AM lemma="odečitač" src="auto">NNMP7-----A----</AM>
-<AM lemma="odečitača" src="auto">NNFP4-----A----</AM>
-<AM lemma="odečitač_;G_;S" src="auto">NNFS6-----A----</AM>
+<tag><AM lemma="odečitač" src="orig" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-061-p7s2w19">

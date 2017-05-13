@@ -2288,12 +2288,7 @@
 <LM>w#w-lnd92251-006-p4s6w1</LM>
 </w.rf>
 <form>Vjádřil</form>
-<tag><AM lemma="vyjádřit_:W" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="Vjádřit_:W" src="auto" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="Vjádřit_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Vjádřil_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="vjádřit_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="vjádřil" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="vyjádřit_:W" src="orig" selected="1">VpYS---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-lnd92251-006-p4s6w2">

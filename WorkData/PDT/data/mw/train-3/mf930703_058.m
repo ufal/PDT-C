@@ -1230,13 +1230,7 @@
 <LM>w#w-mf930703-058-p5s2w7</LM>
 </w.rf>
 <form>open</form>
-<tag><AM lemma="open_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="opit_:W" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="opit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="loupen-1_;m_,t_^(open_clean,_označení_čistoty_diamantu)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="opný" src="auto">ACYS------A----</AM>
-<AM lemma="openalta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="open_;m_,t" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="open_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-058-p5s2w8">

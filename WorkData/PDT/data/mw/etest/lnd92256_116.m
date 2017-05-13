@@ -178,14 +178,7 @@
 <LM>w#w-lnd92256-116-p3s2w12</LM>
 </w.rf>
 <form>Vásquez</form>
-<tag><AM lemma="Vásquez_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vásquez_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Vásquez" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vásquez" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vásquez" src="auto">NNFS1-----A----</AM>
-<AM lemma="jíst_^(konzumovat_Vásquídlo)" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Tropez_;G_^(Saint_Vásquez)" src="auto">NNNXX-----A----</AM>
-<AM lemma="vásquez" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Vásquez_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-116-p3s2w13">
@@ -275,16 +268,7 @@
 <LM>w#w-lnd92256-116-p3s2w22</LM>
 </w.rf>
 <form>Tiempo</form>
-<tag><AM lemma="Tiempo_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Tiempo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tiempo_;R_,t" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Tiempo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tiempo" src="auto">NNNS4-----A----</AM>
-<AM lemma="Tiempo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tiempo_;m" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tiempo-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="po-2_:B_,x_^(Tiempondělí)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="tiempo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tiempo_;R_,t" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-116-p3s2w23">

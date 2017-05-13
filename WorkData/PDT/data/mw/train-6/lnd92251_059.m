@@ -121,14 +121,7 @@
 <LM>w#w-lnd92251-059-p2s1w2</LM>
 </w.rf>
 <form>Panić</form>
-<tag><AM lemma="Panić_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Panić_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Panić_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Panić_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Panič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Panič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="panić" src="auto">NNMS1-----A----</AM>
-<AM lemma="panić-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="Panić_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -360,14 +353,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Panić</form>
-<tag><AM lemma="Panić_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Panić_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Panić_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Panić_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Panič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Panič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="panić" src="auto">NNMS1-----A----</AM>
-<AM lemma="panić-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="Panić_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-059-p3s3w8">
@@ -824,14 +810,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Panić</form>
-<tag><AM lemma="Panić_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Panić_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Panić_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Panić_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Panič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Panič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="panić" src="auto">NNMS1-----A----</AM>
-<AM lemma="panić-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="Panić_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-059-p4s2w14">
@@ -2674,20 +2653,7 @@
 <LM>w#w-lnd92251-059-p8s1w6</LM>
 </w.rf>
 <form>MVČK</form>
-<tag><AM lemma="MVČK_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MVČK_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="MVČK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MVČK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MVČK-1_:B_;w_^(sport.:_červená_karta)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MVČK_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MVČK_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Mvčk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mvčk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mvčk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mvčk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mvčk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mvčk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mvčk" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="MVČK_:B_;K" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92251-059-p8s1w7">

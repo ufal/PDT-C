@@ -1787,13 +1787,7 @@
 <LM>w#w-lnd92257-090-p4s2w2</LM>
 </w.rf>
 <form>rareagovalo</form>
-<tag><AM lemma="zareagovat_:W" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="rareagovat_:T" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="rareagovat_:W" src="auto" recommended="1">VpNS---XR-AA---</AM>
-<AM lemma="rareagovat_:T_:W" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="rareagovat" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="rareagovat_:T_^(*4at)" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="rareagovat_:T_^(*3t)" src="auto">VpNS---XR-AA---</AM>
+<tag><AM lemma="zareagovat_:W" src="orig" selected="1">VpNS---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-lnd92257-090-p4s2w3">

@@ -64,11 +64,7 @@
 <LM>w#w-lnd92255-081-p1s1w6</LM>
 </w.rf>
 <form>ivh</form>
-<tag><AM lemma="ivh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ivh-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="ivh-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ivhodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ivhodina_:B_,x" src="auto">NNFXX-----A---9</AM>
+<tag><AM lemma="ivh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p1s1w7">
@@ -86,15 +82,7 @@
 <LM>w#w-lnd92255-081-p1s1w8</LM>
 </w.rf>
 <form>mlp</form>
-<tag><AM lemma="mlp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mlp-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="mlpy_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="mlp" src="auto">NNIS4-----A----</AM>
-<AM lemma="mlp" src="auto">NNIS1-----A----</AM>
-<AM lemma="mlp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mlp" src="auto">NNMS1-----A----</AM>
-<AM lemma="mlp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mlp_;K" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="mlp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p1s1w9">
@@ -426,13 +414,7 @@
 <LM>w#w-lnd92255-081-p4s1w13</LM>
 </w.rf>
 <form>Assena</form>
-<tag><AM lemma="Assen_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Assit_:W" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="Assit" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="Assen_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Assen_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Assena_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="assena" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Assen_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p4s1w14">
@@ -1814,20 +1796,7 @@
 <LM>w#w-lnd92255-081-p8s4w5</LM>
 </w.rf>
 <form>QOUD</form>
-<tag><AM lemma="quod_,t" src="orig">PQ--4----------</AM>
-<AM lemma="QOUD_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="QOUD_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="QOUD_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="QOUD_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="QOUD_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Qoud" src="auto">NNIS1-----A----</AM>
-<AM lemma="Qoud" src="auto">NNIS4-----A----</AM>
-<AM lemma="Qoud_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Qoud_;K_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Qoud_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="Qoud-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Qoud" src="auto">NNMS1-----A----</AM>
-<AM lemma="qoud" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="quod_,t" src="orig" selected="1">PQ--4----------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p8s4w6">
@@ -1836,11 +1805,7 @@
 <LM>w#w-lnd92255-081-p8s4w6</LM>
 </w.rf>
 <form>NOTAMUS</form>
-<tag><AM lemma="notare_,t" src="orig">VB-P---1P-AA---</AM>
-<AM lemma="NOTAMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Notamus" src="auto">NNIS1-----A----</AM>
-<AM lemma="Notamus" src="auto">NNIS4-----A----</AM>
-<AM lemma="notamus" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="notare_,t" src="orig" selected="1">VB-P---1P-AA---</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p8s4w7">
@@ -4103,16 +4068,7 @@
 <LM>w#w-lnd92255-081-p17s1w9</LM>
 </w.rf>
 <form>Sevljuši</form>
-<tag><AM lemma="Sevljuša_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Sevljuša_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sevljuš" src="auto">NNFS6-----A----</AM>
-<AM lemma="Sevljucho" src="auto">NNFP4-----A----</AM>
-<AM lemma="Sevljucho" src="auto">NNFP1-----A----</AM>
-<AM lemma="Sevljuše_;Y" src="auto">NNFS4-----A----</AM>
-<AM lemma="Sevljuše_;Y" src="auto">NNFS3-----A----</AM>
-<AM lemma="Sevljuše" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Sevljuše" src="auto">NNFS4-----A----</AM>
-<AM lemma="sevljuši" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sevljuša_;G" src="orig" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p17s1w10">
@@ -5533,13 +5489,7 @@
 <LM>w#w-lnd92255-081-p17s5w18</LM>
 </w.rf>
 <form>Assena</form>
-<tag><AM lemma="Assen_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Assit_:W" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="Assit" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="Assen_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Assen_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Assena_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="assena" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Assen_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p17s5w19">
@@ -6743,15 +6693,7 @@
 <LM>w#w-lnd92255-081-p20s4w9</LM>
 </w.rf>
 <form>dušeznalců</form>
-<tag><AM lemma="dušeznalec" src="orig">NNMP2-----A----</AM>
-<AM lemma="dušeznalec" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="dušeznalec_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="dušeznalec_;L" src="auto">NNMP2-----A----</AM>
-<AM lemma="dušeznalec" src="auto">NNIP2-----A----</AM>
-<AM lemma="dušeznalce" src="auto">NNMP2-----A----</AM>
-<AM lemma="dušeznalc" src="auto">NNIP2-----A----</AM>
-<AM lemma="dušeznalc" src="auto">NNMP2-----A----</AM>
-<AM lemma="dušeznalce_;G" src="auto">NNIP2-----A----</AM>
+<tag><AM lemma="dušeznalec" src="orig" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p20s4w10">
@@ -7201,22 +7143,7 @@
 <LM>w#w-lnd92255-081-p20s8w11</LM>
 </w.rf>
 <form>VHMP</form>
-<tag><AM lemma="VHMP_:B_;K_^(Výstavba_hlavního_města_Prahy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VHMP_:B_;K_^(Výstavba_hlavního_města_Prahy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="VHMP_:B_;K_^(Městská_policie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VHMP-1_:B_;K_^(Sdružení_pro_pomoc_mentálně_postiženým)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VHMP-1_:B_;K_^(Minis._pro_správu_nár._majetku_a_jeho_pr.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VHMP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VHMP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VHMP_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Vhmp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vhmpa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vhmpo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Vhmpa_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vhmp_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Vhmp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vhmp_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="vhmp" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="VHMP_:B_;K_^(Výstavba_hlavního_města_Prahy)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p20s8w12">
@@ -7398,22 +7325,7 @@
 <LM>w#w-lnd92255-081-p20s9w6</LM>
 </w.rf>
 <form>VHMP</form>
-<tag><AM lemma="VHMP_:B_;K_^(Výstavba_hlavního_města_Prahy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VHMP_:B_;K_^(Výstavba_hlavního_města_Prahy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="VHMP_:B_;K_^(Městská_policie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VHMP-1_:B_;K_^(Sdružení_pro_pomoc_mentálně_postiženým)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VHMP-1_:B_;K_^(Minis._pro_správu_nár._majetku_a_jeho_pr.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VHMP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VHMP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VHMP_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Vhmp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vhmpa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vhmpo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Vhmpa_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vhmp_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Vhmp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vhmp_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="vhmp" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="VHMP_:B_;K_^(Výstavba_hlavního_města_Prahy)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p20s9w7">
@@ -7662,22 +7574,7 @@
 <LM>w#w-lnd92255-081-p20s10w20</LM>
 </w.rf>
 <form>VHMP</form>
-<tag><AM lemma="VHMP_:B_;K_^(Výstavba_hlavního_města_Prahy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VHMP_:B_;K_^(Výstavba_hlavního_města_Prahy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="VHMP_:B_;K_^(Městská_policie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VHMP-1_:B_;K_^(Sdružení_pro_pomoc_mentálně_postiženým)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VHMP-1_:B_;K_^(Minis._pro_správu_nár._majetku_a_jeho_pr.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VHMP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VHMP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VHMP_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Vhmp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vhmpa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vhmpo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Vhmpa_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vhmp_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Vhmp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vhmp_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="vhmp" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="VHMP_:B_;K_^(Výstavba_hlavního_města_Prahy)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p20s10w21">
@@ -8893,22 +8790,7 @@
 <LM>w#w-lnd92255-081-p23s1w4</LM>
 </w.rf>
 <form>VHMP</form>
-<tag><AM lemma="VHMP_:B_;K_^(Výstavba_hlavního_města_Prahy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VHMP_:B_;K_^(Výstavba_hlavního_města_Prahy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="VHMP_:B_;K_^(Městská_policie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VHMP-1_:B_;K_^(Sdružení_pro_pomoc_mentálně_postiženým)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VHMP-1_:B_;K_^(Minis._pro_správu_nár._majetku_a_jeho_pr.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VHMP_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VHMP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VHMP_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Vhmp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vhmpa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vhmpo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Vhmpa_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vhmp_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Vhmp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vhmp_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="vhmp" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="VHMP_:B_;K_^(Výstavba_hlavního_města_Prahy)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-081-p23s1w5">

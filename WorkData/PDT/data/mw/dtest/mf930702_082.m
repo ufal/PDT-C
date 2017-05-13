@@ -709,15 +709,7 @@
 <LM>w#w-mf930702-082-p1s4w10</LM>
 </w.rf>
 <form>Šimovec</form>
-<tag><AM lemma="Šimovec_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Šimovec" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Šimovec_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Šimovec" src="auto">NNIS1-----A----</AM>
-<AM lemma="Šimovec_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Šimovec" src="auto">NNIS4-----A----</AM>
-<AM lemma="Šimovec_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Šimovec_;L" src="auto">NNIS1-----A----</AM>
-<AM lemma="šimovec" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Šimovec_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-082-p1s4w11">

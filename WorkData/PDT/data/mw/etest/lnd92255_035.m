@@ -151,15 +151,7 @@
 <LM>w#w-lnd92255-035-p3s1w3</LM>
 </w.rf>
 <form>črk</form>
-<tag><AM lemma="črk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="črk-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="črk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="črk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="črk" src="auto">NNIS1-----A----</AM>
-<AM lemma="črk" src="auto">NNIS4-----A----</AM>
-<AM lemma="črk_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="črk_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="črk_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="črk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-035-p3s1w4">
@@ -5302,16 +5294,7 @@
 <LM>w#w-lnd92255-035-p9s1w7</LM>
 </w.rf>
 <form>Euroreťaz</form>
-<tag><AM lemma="Euroreťaz_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Euroreťaz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Euroreťaz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Euroreťaz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Euroreťaz_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Euroreťaz_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Euroreťazílie_:B_;G" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Euroreťaza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Euroreťaz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="euroreťaz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Euroreťaz_;m" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-035-p9s1w8">

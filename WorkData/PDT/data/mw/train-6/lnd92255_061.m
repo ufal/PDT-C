@@ -2268,15 +2268,7 @@
 <LM>w#w-lnd92255-061-p8s1w10</LM>
 </w.rf>
 <form>Sahnún</form>
-<tag><AM lemma="Sahnún_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sahnún_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sahnún_;R" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sahnún_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sahnún_;E_,h_,n_^(Čech)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sahnún" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sahnúna" src="auto">NNFP2-----A----</AM>
-<AM lemma="Sahnún_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sahnún" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sahnún_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-061-p8s1w11">
@@ -3543,16 +3535,7 @@
 <LM>w#w-lnd92255-061-p12s1w14</LM>
 </w.rf>
 <form>Saláhaddín</form>
-<tag><AM lemma="Saláhaddín_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Saláhaddín_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Saláhaddín_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Saláhaddín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Saláhaddín_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Saláhaddín" src="auto">NNIS1-----A----</AM>
-<AM lemma="Saláhaddín" src="auto">NNIS4-----A----</AM>
-<AM lemma="Saláhaddín" src="auto">NNMS1-----A----</AM>
-<AM lemma="Saláhaddína" src="auto">NNFP2-----A----</AM>
-<AM lemma="saláhaddín" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Saláhaddín_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-061-p12s1w15">

@@ -261,16 +261,7 @@
 <LM>w#w-lnd92254-098-p2s4w1</LM>
 </w.rf>
 <form>Fidrikas</form>
-<tag><AM lemma="Fidrikas_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Fidrikas_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Fidrikas" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fidrikas" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fidrikas_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fidrikas_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fidrikas" src="auto">Db-------------</AM>
-<AM lemma="Fidrikas" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fidrikas_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="fidrikas" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Fidrikas_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-098-p2s4w2">
@@ -308,16 +299,7 @@
 <LM>w#w-lnd92254-098-p2s5w1</LM>
 </w.rf>
 <form>Linards</form>
-<tag><AM lemma="Linards_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Linard_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Linards_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Linard_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Linard_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Linards_;K_;u_,t_^(rocková_skupina)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Linards_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Linard_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Linards_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="linards" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Linards_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-098-p2s5w2">
@@ -709,16 +691,7 @@
 <LM>w#w-lnd92254-098-p3s7w1</LM>
 </w.rf>
 <form>Ogris</form>
-<tag><AM lemma="Ogris_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ogris_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ogris_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="libris_^(pouze_ve_spojení_ex_Ogris)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Ogrid_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ograe_,t_^(temnota)" src="auto">NNFP6-----A----</AM>
-<AM lemma="Ogris_;u_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Ogris_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ogris_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="ogris" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ogris_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-098-p3s7w2">

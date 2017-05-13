@@ -470,16 +470,7 @@
 <LM>w#w-ln94201-113-p2s5w16</LM>
 </w.rf>
 <form>Medicis</form>
-<tag><AM lemma="Medicis_;m" src="orig">NNFXX-----A----</AM>
-<AM lemma="Medicis_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Medicis_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Medicis_:B_;u" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Medicis_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Medicis" src="auto">NNIS1-----A----</AM>
-<AM lemma="Medicis_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Medicis" src="auto">NNIS4-----A----</AM>
-<AM lemma="Medicis_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="medicis" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Medicis_;m" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-113-p2s5w17">
@@ -1429,15 +1420,7 @@
 <LM>w#w-ln94201-113-p3s5w5</LM>
 </w.rf>
 <form>číšníče</form>
-<tag><AM lemma="číšník" src="orig">NNMS5-----A----</AM>
-<AM lemma="číšníč" src="auto">NNIP4-----A----</AM>
-<AM lemma="číšníč" src="auto">NNIP1-----A----</AM>
-<AM lemma="číšníč" src="auto">NNIS2-----A----</AM>
-<AM lemma="číšník" src="auto" recommended="1">NNMS5-----A----</AM>
-<AM lemma="číšníč_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="číšníč_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="číšníč" src="auto">NNMP4-----A----</AM>
-<AM lemma="číšníč" src="auto">NNMS4-----A----</AM>
+<tag><AM lemma="číšník" src="orig" selected="1">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-113-p3s5w6">
@@ -1738,15 +1721,7 @@
 <LM>w#w-ln94201-113-p3s7w3</LM>
 </w.rf>
 <form>kýs</form>
-<tag><AM lemma="kýs" src="orig">AAXXX----1A----</AM>
-<AM lemma="kýs" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="kýs_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="kýs_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="kýs_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kýs" src="auto">NNIS1-----A----</AM>
-<AM lemma="kýs" src="auto">NNIS4-----A----</AM>
-<AM lemma="kýs_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="kýs_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="kýs" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-113-p3s7w4">

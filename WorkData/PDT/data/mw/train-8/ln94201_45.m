@@ -183,13 +183,7 @@
 <LM>w#w-ln94201-45-p2s1w15</LM>
 </w.rf>
 <form>ecu</form>
-<tag><AM lemma="ecu" src="orig">NNFXX-----A----</AM>
-<AM lemma="ec_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="ec_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="ec" src="auto">NNIS2-----A----</AM>
-<AM lemma="ecu" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="ecu_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ec_;G" src="auto">NNIS2-----A----</AM>
+<tag><AM lemma="ecu" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-45-p2s1w16">
@@ -355,13 +349,7 @@
 <LM>w#w-ln94201-45-p2s3w10</LM>
 </w.rf>
 <form>ecu</form>
-<tag><AM lemma="ecu" src="orig">NNFXX-----A----</AM>
-<AM lemma="ec_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="ec_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="ec" src="auto">NNIS2-----A----</AM>
-<AM lemma="ecu" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="ecu_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ec_;G" src="auto">NNIS2-----A----</AM>
+<tag><AM lemma="ecu" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-45-p2s3w11">

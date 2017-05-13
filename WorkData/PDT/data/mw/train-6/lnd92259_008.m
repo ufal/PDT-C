@@ -245,15 +245,7 @@
 <LM>w#w-lnd92259-008-p3s2w18</LM>
 </w.rf>
 <form>Paniće</form>
-<tag><AM lemma="Panić_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Panić_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Panič_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Panić_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Panić_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Paniće" src="auto">NNFS2-----A----</AM>
-<AM lemma="Paniće" src="auto">NNFS1-----A----</AM>
-<AM lemma="Paniće" src="auto">NNFP1-----A----</AM>
-<AM lemma="paniće" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Panić_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-008-p3s2w19">

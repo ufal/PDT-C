@@ -495,16 +495,7 @@
 <LM>w#w-lnd92252-024-p3s3w17</LM>
 </w.rf>
 <form>Free</form>
-<tag><AM lemma="Free_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Free_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Free_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Free_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Free_;L_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Free_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Free_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Free_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="Free_,t" src="auto">ClXPX----------</AM>
-<AM lemma="free" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Free_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-024-p3s3w18">

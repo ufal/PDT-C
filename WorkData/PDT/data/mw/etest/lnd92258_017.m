@@ -55,16 +55,7 @@
 <LM>w#w-lnd92258-017-p1s1w5</LM>
 </w.rf>
 <form>Sewanee</form>
-<tag><AM lemma="Sewanee_;m" src="orig">NNXXX-----A----</AM>
-<AM lemma="Sewanea_;K" src="auto">NNFS6-----A---1</AM>
-<AM lemma="Sewanee_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sewanee_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Sewanee_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sewanee_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Sewanee_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Sewanee_;K" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="bungee_,t_^(Sewanee_jumping)" src="auto">AAXXX----1A----</AM>
-<AM lemma="sewanee" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sewanee_;m" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-017-p1s1w6">
@@ -155,15 +146,7 @@
 <LM>w#w-lnd92258-017-p1s1w15</LM>
 </w.rf>
 <form>Karintischer</form>
-<tag><AM lemma="Karintischer_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Karintischer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Karintischra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Karintischer_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Karintischer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Karintischry_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Karintischry_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Karintischer_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="karintischer" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Karintischer_;m_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-017-p1s1w16">
@@ -316,16 +299,7 @@
 <LM>w#w-lnd92258-017-p1s1w32</LM>
 </w.rf>
 <form>Hommage</form>
-<tag><AM lemma="hommage_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Hommage_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hommag_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Hommage_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Hommage_;K_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Hommage_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Hommage_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Hommage_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Hommage_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="hommage" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="hommage_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-017-p1s1w33">

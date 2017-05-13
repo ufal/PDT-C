@@ -2907,21 +2907,7 @@
 <LM>w#w-mf930703-023-p4s3w15</LM>
 </w.rf>
 <form>JmVaK</form>
-<tag><AM lemma="JmVaK_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="JmVaK_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="JmVaK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="JmVaK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="JmVaK_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="JmVaK_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Jmvak_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Jmvak_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jmvak" src="auto">NNIS4-----A----</AM>
-<AM lemma="Jmvak" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jmvak" src="auto">Db-------------</AM>
-<AM lemma="Jmvak_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jmvak-1" src="auto">Db-------------</AM>
-<AM lemma="Jmvak" src="auto">NNMS1-----A----</AM>
-<AM lemma="jmvak" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="JmVaK_:B_;K" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-023-p4s3w16">
@@ -3092,21 +3078,7 @@
 <LM>w#w-mf930703-023-p4s3w34</LM>
 </w.rf>
 <form>JmVaK</form>
-<tag><AM lemma="JmVaK_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="JmVaK_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="JmVaK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="JmVaK_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="JmVaK_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="JmVaK_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Jmvak_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Jmvak_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jmvak" src="auto">NNIS4-----A----</AM>
-<AM lemma="Jmvak" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jmvak" src="auto">Db-------------</AM>
-<AM lemma="Jmvak_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jmvak-1" src="auto">Db-------------</AM>
-<AM lemma="Jmvak" src="auto">NNMS1-----A----</AM>
-<AM lemma="jmvak" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="JmVaK_:B_;K" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-023-p4s3w35">

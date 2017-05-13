@@ -120,13 +120,7 @@
 <LM>w#w-mf930701-076-p2s1w4</LM>
 </w.rf>
 <form>jsl</form>
-<tag><AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jsl-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jsnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="jst" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jsl" src="auto">NNIS1-----A----</AM>
-<AM lemma="jsl" src="auto">NNIS4-----A----</AM>
+<tag><AM lemma="jsl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-076-p2s1w5">
@@ -789,15 +783,7 @@
 <LM>w#w-mf930701-076-p2s4w23</LM>
 </w.rf>
 <form>Křaka</form>
-<tag><AM lemma="Křak_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Křak_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Křak_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Křak" src="auto">NNMS4-----A----</AM>
-<AM lemma="Křaka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Křaka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Křaco_;Y" src="auto">NNMS2-----A---1</AM>
-<AM lemma="Křakum" src="auto">NNNP4-----A----</AM>
-<AM lemma="křaka" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Křak_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-076-p2s4w24">
@@ -1408,15 +1394,7 @@
 <LM>w#w-mf930701-076-p2s8w7</LM>
 </w.rf>
 <form>sparringpartnera</form>
-<tag><AM lemma="sparringpartner" src="orig">NNMS4-----A----</AM>
-<AM lemma="sparringpartner_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="sparringpartner_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="sparringpartnera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="sparringpartner" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="sparringpartner" src="auto">NNMS2-----A----</AM>
-<AM lemma="sparringpartnera" src="auto">NNFS1-----A----</AM>
-<AM lemma="sparringpartner_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="sparringpartnero" src="auto">NNNS2-----A----</AM>
+<tag><AM lemma="sparringpartner" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-076-p2s8w8">
@@ -1465,7 +1443,6 @@
 <AM lemma="SV_:B_;K_^(sport._klub)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="svazek_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="svazek_:B" src="auto">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-076-p2s8w13">
@@ -1474,16 +1451,7 @@
 <LM>w#w-mf930701-076-p2s8w13</LM>
 </w.rf>
 <form>Fübingen</form>
-<tag><AM lemma="Fübingen_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Fübingen_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fübingen_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fübingen_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fübingen" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fübingen" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Fübingenerální_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Fübingenerál_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Fübingen_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="fübingen" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Fübingen_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-076-p2s8w14">

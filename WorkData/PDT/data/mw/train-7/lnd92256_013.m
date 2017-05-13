@@ -104,25 +104,7 @@
 <LM>w#w-lnd92256-013-p2s2w2</LM>
 </w.rf>
 <form>Anes</form>
-<tag><AM lemma="Anes_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Ane_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Ane_;m_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Anes" src="auto">Db-------------</AM>
-<AM lemma="Anes_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Anes_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Anes_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Anést" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Stones_;K_,t_^(Rolling_Anes)" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="anes" src="auto">NNMS1-----A----</AM>
-<AM lemma="anes-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="anes-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="anes-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="anescriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="aneso" src="auto">NNNP2-----A----</AM>
-<AM lemma="anesoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="anespolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="anestrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="anestátní_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="Anes_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-013-p2s2w3">
@@ -293,16 +275,7 @@
 <LM>w#w-lnd92256-013-p2s2w21</LM>
 </w.rf>
 <form>Free</form>
-<tag><AM lemma="free_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Free_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Free_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Free_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Free_;L_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Free_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Free_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Free_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="Free_,t" src="auto">ClXPX----------</AM>
-<AM lemma="free" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="free_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-013-p2s2w22">
@@ -311,16 +284,7 @@
 <LM>w#w-lnd92256-013-p2s2w22</LM>
 </w.rf>
 <form>Zone</form>
-<tag><AM lemma="zone_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Zone_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zonout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Zone_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Zone`1_,t" src="auto">ClXSX----------</AM>
-<AM lemma="Zone_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zone_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Zone_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zone_;R" src="auto" recommended="1">NNXSX-----A----</AM>
-<AM lemma="zone" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="zone_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-013-p2s2w23">

@@ -2790,15 +2790,7 @@
 <LM>w#w-mf930703-022-p5s3w37</LM>
 </w.rf>
 <form>labor</form>
-<tag><AM lemma="labor_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="labor" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="labor" src="auto">NNIS4-----A----</AM>
-<AM lemma="labor_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="labor_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="labor_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Harbor_;G_^(součást_názvu_např._Pearl_labor)" src="auto">NNIS4-----A----</AM>
-<AM lemma="labora" src="auto">NNFP2-----A----</AM>
-<AM lemma="labor_^(na_úřadě)" src="auto">NNIS4-----A----</AM>
+<tag><AM lemma="labor_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-022-p5s3w38">
@@ -2807,15 +2799,7 @@
 <LM>w#w-mf930703-022-p5s3w38</LM>
 </w.rf>
 <form>intensive</form>
-<tag><AM lemma="intensive_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="intensive_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="intensive_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="intensive_,t" src="auto">Vf--------A----</AM>
-<AM lemma="intensive_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="intensive_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Creative_;K_,t_^(intensive_Labs)" src="auto">AAXXX----1A----</AM>
-<AM lemma="intensive_;m_,t" src="auto">Dg-------1A----</AM>
-<AM lemma="intensive_;c_,t" src="auto">NNIS4-----A----</AM>
+<tag><AM lemma="intensive_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-022-p5s3w39">
@@ -2824,15 +2808,7 @@
 <LM>w#w-mf930703-022-p5s3w39</LM>
 </w.rf>
 <form>industry</form>
-<tag><AM lemma="industry_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="industr" src="auto" recommended="1">NNIP4-----A----</AM>
-<AM lemma="industr" src="auto">NNIP1-----A----</AM>
-<AM lemma="industr" src="auto">NNMP7-----A----</AM>
-<AM lemma="industr" src="auto">NNMP4-----A----</AM>
-<AM lemma="industrum" src="auto">NNNP7-----A----</AM>
-<AM lemma="industra" src="auto">NNFS2-----A----</AM>
-<AM lemma="industra" src="auto">NNFP1-----A----</AM>
-<AM lemma="industr" src="auto">NNIP7-----A----</AM>
+<tag><AM lemma="industry_,t" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-022-p5s3w40">

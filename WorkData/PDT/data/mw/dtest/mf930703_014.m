@@ -220,16 +220,7 @@
 <LM>w#w-mf930703-014-p1s2w8</LM>
 </w.rf>
 <form>Wochenblatt</form>
-<tag><AM lemma="Wochenblatt_;R" src="orig">NNIXX-----A----</AM>
-<AM lemma="Wochenblatt_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Wochenblatt_;R_^(časopis)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wochenblatt_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Wochenblatt_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Wochenblatt-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wochenblatt" src="auto">NNIS4-----A----</AM>
-<AM lemma="Wochenblatt-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wochenblatt_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="wochenblatt" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Wochenblatt_;R" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-014-p1s2w9">

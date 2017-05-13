@@ -19,18 +19,7 @@
 <LM>w#w-ln94201-99-p1s1w1</LM>
 </w.rf>
 <form>INSPIROMAT</form>
-<tag><AM lemma="inspiromat" src="orig">NNIS1-----A----</AM>
-<AM lemma="INSPIROMAT_:B_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="INSPIROMAT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="INSPIROMAT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Inspiromat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Inspiroma" src="auto">NNNP2-----A----</AM>
-<AM lemma="Inspiromat" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Inspiromat_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Inspiromat" src="auto">Vf--------A----</AM>
-<AM lemma="Inspiromat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Inspiromat" src="auto">NNIS4-----A----</AM>
-<AM lemma="inspiromat" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="inspiromat" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-99-p1s1w2">
@@ -1205,16 +1194,7 @@
 <LM>w#w-ln94201-99-p6s1w6</LM>
 </w.rf>
 <form>Kopaškin</form>
-<tag><AM lemma="Kopaškin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kopaškin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kopaškino" src="auto">NNNP2-----A----</AM>
-<AM lemma="Kopašking_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kopaškin" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kopaškina" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kopaškin_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kopaškin" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kopaškin" src="auto">NNIS4-----A----</AM>
-<AM lemma="kopaškin" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kopaškin_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-99-p6s1w7">
@@ -1506,16 +1486,7 @@
 <LM>w#w-ln94201-99-p8s1w4</LM>
 </w.rf>
 <form>Forcefam</form>
-<tag><AM lemma="Forcefam_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Forcefam_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Forcefam" src="auto">NNIS1-----A----</AM>
-<AM lemma="Forcefam_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Forcefam_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Forcefam" src="auto">NNIS4-----A----</AM>
-<AM lemma="Forcefam" src="auto">Db-------------</AM>
-<AM lemma="Forcefam_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Forcefam_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="forcefam" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Forcefam_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-99-p8s1w5">

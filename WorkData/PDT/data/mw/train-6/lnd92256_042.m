@@ -66,15 +66,7 @@
 <LM>w#w-lnd92256-042-p2s1w3</LM>
 </w.rf>
 <form>jku</form>
-<tag><AM lemma="jku-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jka" src="auto">NNFS4-----A----</AM>
-<AM lemma="jka_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="jk" src="auto">NNIS6-----A----</AM>
-<AM lemma="jk" src="auto">NNIS2-----A----</AM>
-<AM lemma="jek" src="auto">NNIS6-----A----</AM>
-<AM lemma="jku-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jek" src="auto">NNIS2-----A----</AM>
-<AM lemma="jko_;G" src="auto">NNNS6-----A----</AM>
+<tag><AM lemma="jku-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-042-p2s1w4">

@@ -639,16 +639,7 @@
 <LM>w#w-mf930703-050-p3s2w6</LM>
 </w.rf>
 <form>Hraského</form>
-<tag><AM lemma="Hraský_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Hraský" src="auto">AAIS2----1A----</AM>
-<AM lemma="Hraský" src="auto">AANS2----1A----</AM>
-<AM lemma="Hraský" src="auto">AAMS2----1A----</AM>
-<AM lemma="Hraský" src="auto">AAMS4----1A----</AM>
-<AM lemma="Hraský_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Hraský_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="Hraský_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="Hraský_^(*3it)" src="auto">AAIS2----1A----</AM>
-<AM lemma="hraského" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hraský_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-050-p3s2w7">

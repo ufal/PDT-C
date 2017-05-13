@@ -1380,11 +1380,7 @@
 <LM>w#w-mf930702-106-p4s1w9</LM>
 </w.rf>
 <form>Dehaene</form>
-<tag><AM lemma="Dehaene_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dehaen" src="auto">NNIS2-----A----</AM>
-<AM lemma="Dehaenout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Dehaeno" src="auto">NNNS2-----A---1</AM>
-<AM lemma="dehaene" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Dehaene_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-106-p4s1w10">
@@ -1971,11 +1967,7 @@
 <LM>w#w-mf930702-106-p5s1w2</LM>
 </w.rf>
 <form>Dehaene</form>
-<tag><AM lemma="Dehaene_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dehaen" src="auto">NNIS2-----A----</AM>
-<AM lemma="Dehaenout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Dehaeno" src="auto">NNNS2-----A---1</AM>
-<AM lemma="dehaene" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Dehaene_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-106-p5s1w3">

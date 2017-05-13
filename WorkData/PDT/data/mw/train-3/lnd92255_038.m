@@ -204,13 +204,7 @@
 <LM>w#w-lnd92255-038-p2s1w18</LM>
 </w.rf>
 <form>Semi</form>
-<tag><AM lemma="Semi_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Se" src="auto">NNFP7-----A----</AM>
-<AM lemma="S" src="auto">NNFP7-----A----</AM>
-<AM lemma="Se_;G" src="auto">NNFP7-----A----</AM>
-<AM lemma="Se_^(*3ík)" src="auto">NNFP7-----A----</AM>
-<AM lemma="Sechen" src="auto">PLXP7----------</AM>
-<AM lemma="semi" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Semi_;K" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-038-p2s1w19">
@@ -273,18 +267,7 @@
 <LM>w#w-lnd92255-038-p2s1w25</LM>
 </w.rf>
 <form>Selux</form>
-<tag><AM lemma="Selux_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Selux" src="auto">NNIS1-----A----</AM>
-<AM lemma="Selux_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Selux_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Selux_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Selux_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Selux_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Selux_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="faux_,h_,t_^(Selux_pas)" src="auto">AAXXX----1A----</AM>
-<AM lemma="selux" src="auto">NNIS1-----A----</AM>
-<AM lemma="selux" src="auto">NNIS4-----A----</AM>
-<AM lemma="selux" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Selux_;K" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-038-p2s1w26">
@@ -302,16 +285,7 @@
 <LM>w#w-lnd92255-038-p2s1w27</LM>
 </w.rf>
 <form>Hustadt</form>
-<tag><AM lemma="Hustadt_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hustadt_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hustadt_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Hustadt_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hustadt_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hustadt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Hustadt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Hustadt" src="auto">Vf--------A----</AM>
-<AM lemma="Hustadt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="hustadt" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hustadt_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-038-p2s1w28">
@@ -329,15 +303,7 @@
 <LM>w#w-lnd92255-038-p2s1w29</LM>
 </w.rf>
 <form>Lite</form>
-<tag><AM lemma="Lite_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Lite_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Lite_;Y" src="auto">NNMSX-----A----</AM>
-<AM lemma="Lite_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lite_;R_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lite_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Lite_;K" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Lite-1_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="lite" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lite_;K" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-038-p2s1w30">
@@ -355,15 +321,7 @@
 <LM>w#w-lnd92255-038-p2s1w31</LM>
 </w.rf>
 <form>licht</form>
-<tag><AM lemma="licht_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="licht_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="licht_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="maastricht-1_^(smlouva_z_lichtu,_přeneseně)" src="auto">NNIS4-----A----</AM>
-<AM lemma="maastricht-1_^(smlouva_z_lichtu,_přeneseně)" src="auto">NNIS1-----A----</AM>
-<AM lemma="lichen_,t" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="licht_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="licht_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="licht_;G" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="licht_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-038-p2s1w32">
@@ -381,16 +339,7 @@
 <LM>w#w-lnd92255-038-p2s1w33</LM>
 </w.rf>
 <form>Hillbrand</form>
-<tag><AM lemma="Hillbrand_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Hillbrand_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hillbrand_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hillbrand_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hillbrand_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hillbranda_;G" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Hillbrand_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Hillbrand_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hillbrando" src="auto">NNNP2-----A----</AM>
-<AM lemma="hillbrand" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hillbrand_;K" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-038-p2s1w34">

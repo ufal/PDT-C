@@ -372,16 +372,7 @@
 <LM>w#w-mf930701-117-p2s3w2</LM>
 </w.rf>
 <form>Clavet</form>
-<tag><AM lemma="Clavet_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Claveta_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="Claveta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Clavet_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Clavet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Clavet-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Clavet_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Clavet" src="auto">Vf--------A----</AM>
-<AM lemma="Clavet" src="auto">NNIS4-----A----</AM>
-<AM lemma="clavet" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Clavet_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-117-p2s3w3">
@@ -2055,16 +2046,7 @@
 <LM>w#w-mf930701-117-p6s1w2</LM>
 </w.rf>
 <form>Helikar</form>
-<tag><AM lemma="Helikar_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Helikar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Helikar_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Helikar_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Helikar_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Helikar-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Helikar" src="auto">NNIS1-----A----</AM>
-<AM lemma="Helikar" src="auto">NNIS4-----A----</AM>
-<AM lemma="Helikar" src="auto">NNMS1-----A----</AM>
-<AM lemma="helikar" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Helikar_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-117-p6s1w3">

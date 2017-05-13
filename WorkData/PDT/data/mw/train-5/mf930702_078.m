@@ -845,16 +845,7 @@
 <LM>w#w-mf930702-078-p3s5w4</LM>
 </w.rf>
 <form>Halmstads</form>
-<tag><AM lemma="Halmstads_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Halmstad_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Halmstad_;K" src="auto">NNIPX-----A----</AM>
-<AM lemma="Halmstad" src="auto">NNMP1-----A---2</AM>
-<AM lemma="Halmstads_;K" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Halmstads_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Halmstads_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Halmstad_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Halmstad_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="halmstads" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Halmstads_;K" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-078-p3s5w5">
@@ -975,16 +966,7 @@
 <LM>w#w-mf930702-078-p3s7w4</LM>
 </w.rf>
 <form>Lyngby</form>
-<tag><AM lemma="Lyngby_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Lyngby_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Lyngby" src="auto">NNNXX-----A----</AM>
-<AM lemma="Lyngba" src="auto">NNFS2-----A----</AM>
-<AM lemma="Lyngba" src="auto">NNFP4-----A----</AM>
-<AM lemma="Lyngba" src="auto">NNFP1-----A----</AM>
-<AM lemma="Lyngb" src="auto">NNIP4-----A----</AM>
-<AM lemma="Lyngb" src="auto">NNIP1-----A----</AM>
-<AM lemma="Lyngb" src="auto">NNIP7-----A----</AM>
-<AM lemma="lyngby" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lyngby_;G" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-078-p3s7w5">
@@ -1022,16 +1004,7 @@
 <LM>w#w-mf930702-078-p3s8w1</LM>
 </w.rf>
 <form>Trelleborgs</form>
-<tag><AM lemma="Trelleborgs_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Trelleborgs_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Trelleborgs_;K" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Trelleborgs_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Trelleborg_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Trelleborg_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Trelleborgs_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Trelleborgs_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Trelleborgs_;G" src="auto">NNNSX-----A----</AM>
-<AM lemma="trelleborgs" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Trelleborgs_;K" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-078-p3s8w2">

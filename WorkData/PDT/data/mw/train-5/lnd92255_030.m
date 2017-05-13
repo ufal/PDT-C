@@ -805,15 +805,7 @@
 <LM>w#w-lnd92255-030-p2s3w23</LM>
 </w.rf>
 <form>Paniće</form>
-<tag><AM lemma="Panić_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Panić_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Panič_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Panić_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Panić_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Paniće" src="auto">NNFS2-----A----</AM>
-<AM lemma="Paniće" src="auto">NNFS1-----A----</AM>
-<AM lemma="Paniće" src="auto">NNFP1-----A----</AM>
-<AM lemma="paniće" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Panić_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-030-p2s3w24">
@@ -979,13 +971,7 @@
 <LM>w#w-lnd92255-030-p3s2w15</LM>
 </w.rf>
 <form>Izetbegović</form>
-<tag><AM lemma="Izetbegović_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Izetbegović_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Izetbegovič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Izetbegović_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Izetbegovič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Izetbegović_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="izetbegović" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Izetbegović_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-030-p3s2w16">

@@ -873,12 +873,7 @@
 <LM>w#w-mf930703-097-p3s2w9</LM>
 </w.rf>
 <form>Panato</form>
-<tag><AM lemma="Panato_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Panato" src="auto">Db-------------</AM>
-<AM lemma="Panato_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Panmout" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="panato" src="auto">Db-------------</AM>
-<AM lemma="panato" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Panato_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-097-p3s2w10">
@@ -1243,12 +1238,7 @@
 <LM>w#w-mf930703-097-p4s6w1</LM>
 </w.rf>
 <form>Panato</form>
-<tag><AM lemma="Panato_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Panato" src="auto">Db-------------</AM>
-<AM lemma="Panato_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Panmout" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="panato" src="auto">Db-------------</AM>
-<AM lemma="panato" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Panato_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-097-p4s6w2">
@@ -1322,16 +1312,7 @@
 <LM>w#w-mf930703-097-p4s7w1</LM>
 </w.rf>
 <form>Jelenc</form>
-<tag><AM lemma="Jelenc_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jelenc_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Jelenc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jelenc_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Inc_:B_;K_,t_^(Jelencorporated)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Inc_:B_;K_,t_^(Jelencorporated)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Inc_:B_;K_,t_^(Jelencorporated)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Jelencorporation_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Jelencorporated_:B_;K_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="jelenc" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Jelenc_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-097-p4s7w2">
@@ -1509,16 +1490,7 @@
 <LM>w#w-mf930703-097-p4s10w1</LM>
 </w.rf>
 <form>Faysse</form>
-<tag><AM lemma="Faysse_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Fayss_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Faysse_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Fayss_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Faysse_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Faysse_;m" src="auto">NNIXX-----A----</AM>
-<AM lemma="Faysse_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Faysse_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Faysse_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="faysse" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Faysse_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-097-p4s10w2">
@@ -1536,16 +1508,7 @@
 <LM>w#w-mf930703-097-p4s10w3</LM>
 </w.rf>
 <form>Roos</form>
-<tag><AM lemma="Roos_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Roos_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Roos" src="auto">NNIS1-----A----</AM>
-<AM lemma="Roos_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Roos" src="auto">NNIS4-----A----</AM>
-<AM lemma="Roos_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Roos_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Roos_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Roos_,t" src="auto">AAMS1----1A----</AM>
-<AM lemma="roos" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Roos_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-097-p4s10w4">
@@ -1720,16 +1683,7 @@
 <LM>w#w-mf930703-097-p4s12w3</LM>
 </w.rf>
 <form>Eich</form>
-<tag><AM lemma="Eich_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eich" src="auto">NNIS1-----A----</AM>
-<AM lemma="Eich" src="auto">NNIS4-----A----</AM>
-<AM lemma="Eich" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eich_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Eich_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Eich_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eich_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="eich" src="auto">NNMS1-----A----</AM>
-<AM lemma="eich-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="Eich_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-097-p4s12w4">

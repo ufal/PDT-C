@@ -501,15 +501,7 @@
 <LM>w#w-lnd92257-048-p1s3w21</LM>
 </w.rf>
 <form>Kijevskije</form>
-<tag><AM lemma="Kijevskije_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Kijevskít" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Kijevskij_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kijevskij_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kijevskijá_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Kijevskija_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kijevskij_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kijevskije_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="kijevskije" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kijevskije_;R_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-048-p1s3w22">

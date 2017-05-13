@@ -541,16 +541,7 @@
 <LM>w#w-lnd92252-095-p3s3w6</LM>
 </w.rf>
 <form>Homén</form>
-<tag><AM lemma="Homén_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Homén_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Homén_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Homén-2" src="auto">NNIS4-----A----</AM>
-<AM lemma="Homén" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hoména" src="auto">NNFP2-----A----</AM>
-<AM lemma="Homén" src="auto">NNIS1-----A----</AM>
-<AM lemma="Homén_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Homén" src="auto">NNIS4-----A----</AM>
-<AM lemma="homén" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Homén_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-095-p3s3w7">
@@ -3752,15 +3743,7 @@
 <LM>w#w-lnd92252-095-p6s1w2</LM>
 </w.rf>
 <form>šc</form>
-<tag><AM lemma="šc-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šc-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="šc" src="auto">NNMS1-----A----</AM>
-<AM lemma="šc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="šce" src="auto">NNFP2-----A----</AM>
-<AM lemma="šce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="šc" src="auto">NNIS1-----A----</AM>
-<AM lemma="šc" src="auto">NNIS4-----A----</AM>
-<AM lemma="šc_;G" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="šc-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-095-p6s1w3">

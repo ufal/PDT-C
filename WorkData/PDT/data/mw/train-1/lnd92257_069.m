@@ -838,22 +838,7 @@
 <LM>w#w-lnd92257-069-p4s3w11</LM>
 </w.rf>
 <form>GUnaGU</form>
-<tag><AM lemma="GUnaGU_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="GUnaGU_;K" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="GUnaGU_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GUnaGU_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="GUnaGU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="GUnaGU_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="GUnaGU_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Gunago_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Gunag_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Gunag_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="Gunag_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Gunag" src="auto">NNIS2-----A----</AM>
-<AM lemma="Gunag" src="auto">NNIS6-----A----</AM>
-<AM lemma="Gunaga" src="auto">NNFS4-----A----</AM>
-<AM lemma="Gunago" src="auto">NNNS6-----A----</AM>
-<AM lemma="gunagu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="GUnaGU_;K" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-069-p4s3w12">
@@ -1605,14 +1590,7 @@
 <LM>w#w-lnd92257-069-p5s1w2</LM>
 </w.rf>
 <form>rn</form>
-<tag><AM lemma="rn-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rn_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rn" src="auto">NNIS4-----A----</AM>
-<AM lemma="rn" src="auto">NNIS1-----A----</AM>
-<AM lemma="rn_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="rn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="rn-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="rno" src="auto">NNNP2-----A----</AM>
+<tag><AM lemma="rn-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-069-p5s1w3">
@@ -1657,24 +1635,7 @@
 <LM>w#w-lnd92257-069-p6s1w2</LM>
 </w.rf>
 <form>VSČR</form>
-<tag><AM lemma="VSČR_:B_;R_^(občasník_Volného_sdružení_českých_rusistů)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="VSČR_:B_;R_^(občasník_Volného_sdružení_českých_rusistů)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="VSČR-1_:B_;K_,t_^(Lesy_České_republiky)" src="auto">NNIPX-----A---8</AM>
-<AM lemma="VSČR-1_:B_;G_^(Česká_republika)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Vsčr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vsčr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vsčr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vsčr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vsčr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vsčr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vsčra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vsčr_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="vsčr" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="VSČR_:B_;R_^(občasník_Volného_sdružení_českých_rusistů)" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 </s>
@@ -1929,16 +1890,7 @@
 <LM>w#w-lnd92257-069-p7s1w28</LM>
 </w.rf>
 <form>Lettre</form>
-<tag><AM lemma="Lettre_;R_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Lettre_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lettre_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Lettre_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lettre_;R_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Lettre_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Lettre_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Lettre_;K_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Lettre_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="lettre" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lettre_;R_,t" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-069-p7s1w29">
@@ -2201,24 +2153,7 @@
 <LM>w#w-lnd92257-069-p7s3w2</LM>
 </w.rf>
 <form>VSČR</form>
-<tag><AM lemma="VSČR_:B_;R_^(občasník_Volného_sdružení_českých_rusistů)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="VSČR_:B_;R_^(občasník_Volného_sdružení_českých_rusistů)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="VSČR-1_:B_;K_,t_^(Lesy_České_republiky)" src="auto">NNIPX-----A---8</AM>
-<AM lemma="VSČR-1_:B_;G_^(Česká_republika)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Vsčr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vsčr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vsčr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vsčr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vsčr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vsčr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vsčra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vsčr_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="vsčr" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="VSČR_:B_;R_^(občasník_Volného_sdružení_českých_rusistů)" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-069-p7s3w3">
@@ -2501,15 +2436,7 @@
 <LM>w#w-lnd92257-069-p7s4w4</LM>
 </w.rf>
 <form>eurasijství</form>
-<tag><AM lemma="eurasijství" src="orig">NNNS1-----A----</AM>
-<AM lemma="eurasijství" src="auto">NNNS2-----A----</AM>
-<AM lemma="eurasijství" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="eurasijství" src="auto">NNNS4-----A----</AM>
-<AM lemma="eurasijství" src="auto">NNNS6-----A----</AM>
-<AM lemma="eurasijství" src="auto">NNNS3-----A----</AM>
-<AM lemma="eurasijství" src="auto">NNNP2-----A----</AM>
-<AM lemma="eurasijství" src="auto">NNNP1-----A----</AM>
-<AM lemma="eurasijství" src="auto">NNNP4-----A----</AM>
+<tag><AM lemma="eurasijství" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-069-p7s4w5">
@@ -2545,15 +2472,7 @@
 <LM>w#w-lnd92257-069-p7s4w8</LM>
 </w.rf>
 <form>Volja</form>
-<tag><AM lemma="Volja_;R_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Volja_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Volij_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Volja_;R_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Volja_;G_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Volja_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Volja_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Volja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="volja" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Volja_;R_,t" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-069-p7s4w9">
@@ -2562,15 +2481,7 @@
 <LM>w#w-lnd92257-069-p7s4w9</LM>
 </w.rf>
 <form>Rossiji</form>
-<tag><AM lemma="Rossiji_;R_,t" src="orig">NNFS2-----A----</AM>
-<AM lemma="Rossít" src="auto">VB-S---1P-AA--1</AM>
-<AM lemma="Rossija_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rossija_;Y" src="auto">NNFS4-----A----</AM>
-<AM lemma="Rossij_;Y" src="auto">NNMS6-----A----</AM>
-<AM lemma="Rossij_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="Rossij_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Rossiji_;R_,t" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="rossiji" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rossiji_;R_,t" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-069-p7s4w10">
@@ -2777,24 +2688,7 @@
 <LM>w#w-lnd92257-069-p7s4w32</LM>
 </w.rf>
 <form>VSČR</form>
-<tag><AM lemma="VSČR_:B_;R_^(občasník_Volného_sdružení_českých_rusistů)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="VSČR_:B_;R_^(občasník_Volného_sdružení_českých_rusistů)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="VSČR-1_:B_;K_,t_^(Lesy_České_republiky)" src="auto">NNIPX-----A---8</AM>
-<AM lemma="VSČR-1_:B_;G_^(Česká_republika)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Vsčr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vsčr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vsčr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vsčr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vsčr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vsčr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vsčra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vsčr_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="vsčr" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="VSČR_:B_;R_^(občasník_Volného_sdružení_českých_rusistů)" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-069-p7s4w33">
@@ -3401,24 +3295,7 @@
 <LM>w#w-lnd92257-069-p7s7w4</LM>
 </w.rf>
 <form>VSČR</form>
-<tag><AM lemma="VSČR_:B_;R_^(občasník_Volného_sdružení_českých_rusistů)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="VSČR_:B_;R_^(občasník_Volného_sdružení_českých_rusistů)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="VSČR-1_:B_;K_,t_^(Lesy_České_republiky)" src="auto">NNIPX-----A---8</AM>
-<AM lemma="VSČR-1_:B_;G_^(Česká_republika)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VSČR_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Vsčr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vsčr" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vsčr" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vsčr" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vsčr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vsčr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vsčra" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vsčr_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="vsčr" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="VSČR_:B_;R_^(občasník_Volného_sdružení_českých_rusistů)" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-069-p7s7w5">
@@ -3769,17 +3646,7 @@
 <LM>w#w-lnd92257-069-p10s1w7</LM>
 </w.rf>
 <form>PRETTY</form>
-<tag><AM lemma="Pretty_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Pretty_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="pretty_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="W-1`Prett" src="auto">NNIP4-----A----</AM>
-<AM lemma="Pretto_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pretta_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pretty_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pretty_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pretty_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pretty_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="pretty" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pretty_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-069-p10s1w8">
@@ -3788,21 +3655,7 @@
 <LM>w#w-lnd92257-069-p10s1w8</LM>
 </w.rf>
 <form>MAIDS</form>
-<tag><AM lemma="Maids_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Maids_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="MAIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MAIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS4-----A----</AM>
-<AM lemma="MAIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS1-----A----</AM>
-<AM lemma="MAIDS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MAIDS_:B_;m_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Maids_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Maid_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Maid_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Maid_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="Maids_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Maid_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Maid_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="maids" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Maids_;K_,t" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-069-p10s1w9">
@@ -4124,14 +3977,7 @@
 <LM>w#w-lnd92257-069-p10s3w18</LM>
 </w.rf>
 <form>Decade</form>
-<tag><AM lemma="decade_,t" src="orig">NNFSX-----A----</AM>
-<AM lemma="Decást" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Decade_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Decade_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Decade_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Made_;m_,t_^(Czech_Decade)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Decad-1" src="auto">RR--7----------</AM>
-<AM lemma="decade" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="decade_,t" src="orig" selected="1">NNFSX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-069-p10s3w19">
@@ -4457,17 +4303,7 @@
 <LM>w#w-lnd92257-069-p10s4w23</LM>
 </w.rf>
 <form>Kenn</form>
-<tag><AM lemma="Kenn_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kenn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kenn_;K_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="Kenn_;R_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kenn_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kenn_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kenn_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kenné_:B_;S_;K_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="SF-2`Sinn-1_;K_,t_^(Kenn_Fein)" src="auto">NNFXX-----A----</AM>
-<AM lemma="keNN-1_:B_,x_^(nízké_napětí)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="kenn" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kenn_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-069-p10s4w24">
@@ -4606,16 +4442,7 @@
 <LM>w#w-lnd92257-069-p11s1w2</LM>
 </w.rf>
 <form>vla</form>
-<tag><AM lemma="vla-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vel-1_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="vel-1_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="vel_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="vel_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="vla-2_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="vla-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="vla_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="vnout_:W" src="auto">VpQW---XR-AA--1</AM>
-<AM lemma="vt_:W" src="auto">VpQW---XR-AA---</AM>
+<tag><AM lemma="vla-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-069-p11s1w3">

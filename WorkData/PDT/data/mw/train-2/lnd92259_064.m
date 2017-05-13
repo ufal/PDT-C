@@ -688,15 +688,7 @@
 <LM>w#w-lnd92259-064-p3s4w26</LM>
 </w.rf>
 <form>Enache</form>
-<tag><AM lemma="Enache_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Enach_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Enache_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Enache_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Enache_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Enach_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Manche_;G_^(La_Enache)" src="auto">NNISX-----A----</AM>
-<AM lemma="Enach_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="enache" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Enache_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-064-p3s4w27">

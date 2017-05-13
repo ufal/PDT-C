@@ -976,15 +976,7 @@
 <LM>w#w-lnd92251-045-p4s3w21</LM>
 </w.rf>
 <form>Sangaka</form>
-<tag><AM lemma="Sangak_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Sangak_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Sangak_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sangak" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sangaka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sangaka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sangaco_;Y" src="auto">NNMS2-----A---1</AM>
-<AM lemma="Sangakum" src="auto">NNNP4-----A----</AM>
-<AM lemma="sangaka" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sangak_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-045-p4s3w22">
@@ -993,16 +985,7 @@
 <LM>w#w-lnd92251-045-p4s3w22</LM>
 </w.rf>
 <form>Safarova</form>
-<tag><AM lemma="Safarov_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Safarův_;S_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="Safarův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Safarov_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="Safarov_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Safarův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Safarův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Safarov_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Safarův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="safarova" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Safarov_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-045-p4s3w23">

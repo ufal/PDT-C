@@ -118,16 +118,7 @@
 <LM>w#w-lnd92258-139-p1s1w12</LM>
 </w.rf>
 <form>Superprestige</form>
-<tag><AM lemma="Superprestige_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Superprestige_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Superprestige_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Superprestige_;Y" src="auto">AAXXX----1A----</AM>
-<AM lemma="Superprestige_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Superprestige_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Superprestige_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="superprestige" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Superprestige_;m" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-139-p1s1w13">

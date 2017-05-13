@@ -64,15 +64,7 @@
 <LM>w#w-lnd92256-026-p1s1w6</LM>
 </w.rf>
 <form>Jmk</form>
-<tag><AM lemma="Jmk_:B_;K_^(Jihomoravský_kraj)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Jmk-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Jmk_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Jmk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jmk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Jmk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jmk_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jmk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jmk" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Jmk_:B_;K_^(Jihomoravský_kraj)" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-026-p1s1w7">
@@ -402,16 +394,7 @@
 <LM>w#w-lnd92256-026-p2s1w9</LM>
 </w.rf>
 <form>Manners</form>
-<tag><AM lemma="Manners_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Manners_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Manner_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Manners_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Manner_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Manner_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Manners_;K_,t_^(sport._klub)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Manners_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Manners_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="manners" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Manners_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-026-p2s1w10">

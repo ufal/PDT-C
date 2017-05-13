@@ -959,15 +959,7 @@
 <LM>w#w-lnd92253-070-p4s1w2</LM>
 </w.rf>
 <form>belasých</form>
-<tag><AM lemma="belasý" src="orig">AAMP2----1A----</AM>
-<AM lemma="belasý" src="auto">AAFP2----1A----</AM>
-<AM lemma="belasý" src="auto">AAIP2----1A----</AM>
-<AM lemma="belasý" src="auto">AAFP6----1A----</AM>
-<AM lemma="belasý" src="auto" recommended="1">AAMP2----1A----</AM>
-<AM lemma="belasý" src="auto">AANP2----1A----</AM>
-<AM lemma="belasý" src="auto">AAIP6----1A----</AM>
-<AM lemma="belasý_^(*2t)" src="auto">AAIP2----1A----</AM>
-<AM lemma="belasý_^(*2t)" src="auto">AAFP2----1A----</AM>
+<tag><AM lemma="belasý" src="orig" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-070-p4s1w3">

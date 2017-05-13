@@ -129,16 +129,7 @@
 <LM>w#w-mf930703-086-p2s1w11</LM>
 </w.rf>
 <form>Tomisu</form>
-<tag><AM lemma="Tomis_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Tomis" src="auto">NNIS2-----A----</AM>
-<AM lemma="Tomis" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Tomis" src="auto">NNIS3-----A----</AM>
-<AM lemma="Tomis_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Tomis_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Tomis_,l" src="auto">NNIS3-----A----</AM>
-<AM lemma="Tomisa_;Y" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tomisa" src="auto">NNFS4-----A----</AM>
-<AM lemma="tomisu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tomis_;G" src="orig" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-086-p2s1w12">
@@ -284,16 +275,7 @@
 <LM>w#w-mf930703-086-p3s1w2</LM>
 </w.rf>
 <form>Bortoloziiová</form>
-<tag><AM lemma="Bortoloziiová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Bortoloziiová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Bortoloziiový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Bortoloziiový" src="auto">AANP1----1A----</AM>
-<AM lemma="Bortoloziiový" src="auto">AANP4----1A----</AM>
-<AM lemma="Bortoloziiová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bortoloziiová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bortoloziiový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Bortoloziiový" src="auto">AAFS5----1A----</AM>
-<AM lemma="bortoloziiová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bortoloziiová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-086-p3s1w3">

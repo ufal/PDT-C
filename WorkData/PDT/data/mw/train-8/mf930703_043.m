@@ -475,16 +475,7 @@
 <LM>w#w-mf930703-043-p2s2w10</LM>
 </w.rf>
 <form>Shigehary</form>
-<tag><AM lemma="Shigehara_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Shigehar" src="auto">NNIP1-----A----</AM>
-<AM lemma="Shigehar" src="auto">NNIP4-----A----</AM>
-<AM lemma="Shigehar" src="auto">NNIP7-----A----</AM>
-<AM lemma="Shigehara_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Shigehara" src="auto">NNFS2-----A----</AM>
-<AM lemma="Shigehary_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Shigehar_;E" src="auto">NNMP7-----A----</AM>
-<AM lemma="Shigehar_;E" src="auto">NNMP4-----A----</AM>
-<AM lemma="shigehary" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Shigehara_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-043-p2s2w11">

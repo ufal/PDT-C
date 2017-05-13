@@ -2067,26 +2067,7 @@
 <LM>w#w-lnd92255-095-p5s2w16</LM>
 </w.rf>
 <form>Svostav</form>
-<tag><AM lemma="Svostav_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Svostav" src="auto">NNIS1-----A----</AM>
-<AM lemma="Svostav" src="auto">NNIS4-----A----</AM>
-<AM lemma="Svostav-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Svostav_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Svostav_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Svostav_;K" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Svostav_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Svostava" src="auto">NNFP2-----A----</AM>
-<AM lemma="svostat_:W_,h" src="auto">VmYS------A----</AM>
-<AM lemma="svostav" src="auto">NNIS1-----A----</AM>
-<AM lemma="svostav" src="auto">NNIS4-----A----</AM>
-<AM lemma="svostav" src="auto">NNMS1-----A----</AM>
-<AM lemma="svostavit_:T" src="auto">Vi-S---2--A----</AM>
-<AM lemma="svostavit_:T" src="auto">Vi-S---3--A---4</AM>
-<AM lemma="svostavit_:T_:W" src="auto">Vi-S---2--A----</AM>
-<AM lemma="svostavit_:T_:W" src="auto">Vi-S---3--A---4</AM>
-<AM lemma="svostavět" src="auto">Vi-S---2--A----</AM>
-<AM lemma="svostavět" src="auto">Vi-S---3--A---4</AM>
-<AM lemma="svostát-2_:W_^(něco_se_přihodilo)" src="auto">VmYS------A----</AM>
+<tag><AM lemma="Svostav_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-095-p5s2w17">
@@ -3149,26 +3130,7 @@
 <LM>w#w-lnd92255-095-p5s4w16</LM>
 </w.rf>
 <form>Svostav</form>
-<tag><AM lemma="Svostav_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Svostav" src="auto">NNIS1-----A----</AM>
-<AM lemma="Svostav" src="auto">NNIS4-----A----</AM>
-<AM lemma="Svostav-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Svostav_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Svostav_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Svostav_;K" src="auto">NNIXX-----A----</AM>
-<AM lemma="Svostav_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Svostava" src="auto">NNFP2-----A----</AM>
-<AM lemma="svostat_:W_,h" src="auto">VmYS------A----</AM>
-<AM lemma="svostav" src="auto">NNIS1-----A----</AM>
-<AM lemma="svostav" src="auto">NNIS4-----A----</AM>
-<AM lemma="svostav" src="auto">NNMS1-----A----</AM>
-<AM lemma="svostavit_:T" src="auto">Vi-S---2--A----</AM>
-<AM lemma="svostavit_:T" src="auto">Vi-S---3--A---4</AM>
-<AM lemma="svostavit_:T_:W" src="auto">Vi-S---2--A----</AM>
-<AM lemma="svostavit_:T_:W" src="auto">Vi-S---3--A---4</AM>
-<AM lemma="svostavět" src="auto">Vi-S---2--A----</AM>
-<AM lemma="svostavět" src="auto">Vi-S---3--A---4</AM>
-<AM lemma="svostát-2_:W_^(něco_se_přihodilo)" src="auto">VmYS------A----</AM>
+<tag><AM lemma="Svostav_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-095-p5s4w17">
@@ -4597,14 +4559,7 @@
 <LM>w#w-lnd92255-095-p6s4w23</LM>
 </w.rf>
 <form>rn</form>
-<tag><AM lemma="rn-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rn_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rn" src="auto">NNIS4-----A----</AM>
-<AM lemma="rn" src="auto">NNIS1-----A----</AM>
-<AM lemma="rn_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="rn_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="rn-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="rno" src="auto">NNNP2-----A----</AM>
+<tag><AM lemma="rn-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-095-p6s4w24">
@@ -4678,13 +4633,7 @@
 <LM>w#w-lnd92255-095-p7s1w7</LM>
 </w.rf>
 <form>Internacional</form>
-<tag><AM lemma="Internacional_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Internacionat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Internacionat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Internacionat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Internacional_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Internacional_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="internacional" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Internacional_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-095-p7s1w8">

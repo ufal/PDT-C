@@ -1135,16 +1135,7 @@
 <LM>w#w-lnd92257-055-p2s1Cw3</LM>
 </w.rf>
 <form>Financial</form>
-<tag><AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Financial_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Escorial-1_;G_^(El_Financial,_šp._král._sídlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Financial_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Financial_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Financial_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="financial" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Financial_;R_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-055-p2s1Cw4">
@@ -1744,16 +1735,7 @@
 <LM>w#w-lnd92257-055-p2s1Ew4</LM>
 </w.rf>
 <form>Leonidov</form>
-<tag><AM lemma="Leonidov_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Leonidov_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Leonidov_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Leonidova" src="auto">NNFP2-----A----</AM>
-<AM lemma="Leonidov_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Leonidov" src="auto">NNIS1-----A----</AM>
-<AM lemma="Leonidov" src="auto">NNIS4-----A----</AM>
-<AM lemma="Leonidov_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Leonidov-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="leonidov" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Leonidov_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-055-p2s1Ew5">
@@ -1780,16 +1762,7 @@
 <LM>w#w-lnd92257-055-p2s1Ew7</LM>
 </w.rf>
 <form>Litěraturnaja</form>
-<tag><AM lemma="Litěraturnaja_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Litěraturnij_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Litěraturnaja_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Litěraturnať_,t" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="Litěraturnyj_;R_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Litěraturnyj_,t" src="auto">AAFS1----1A----</AM>
-<AM lemma="Litěraturnij_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Litěraturnaja_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Litěraturnaja_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="litěraturnaja" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Litěraturnaja_;R_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-055-p2s1Ew8">
@@ -2495,17 +2468,7 @@
 <LM>w#w-lnd92257-055-p2s1Fw2</LM>
 </w.rf>
 <form>Stow</form>
-<tag><AM lemma="Stow_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Stow" src="auto">NNFXX-----A----</AM>
-<AM lemma="Stow_;G_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Stow_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Stow_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Stow_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Stow_;m_,t" src="auto">Db-------------</AM>
-<AM lemma="how_,t_^(know_Stow)" src="auto">NNNXX-----A----</AM>
-<AM lemma="know_,t_^(Stow_how)" src="auto">NNNXX-----A----</AM>
-<AM lemma="stow" src="auto">NNMS1-----A----</AM>
-<AM lemma="stow-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<tag><AM lemma="Stow_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-055-p2s1Fw3">
@@ -2514,16 +2477,7 @@
 <LM>w#w-lnd92257-055-p2s1Fw3</LM>
 </w.rf>
 <form>Terrengly</form>
-<tag><AM lemma="Terrengly_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Terrengla_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Terrengly_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Terrengly_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Terrengt_:T" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="Terrengt_:W" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="Terrengt" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="Terrengnout_:W" src="auto">VpTP---XR-AA--1</AM>
-<AM lemma="Terrengl" src="auto">NNIP1-----A----</AM>
-<AM lemma="terrengly" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Terrengly_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-055-p2s1Fw4">
@@ -2848,16 +2802,7 @@
 <LM>w#w-lnd92257-055-p5s1Bw1</LM>
 </w.rf>
 <form>Mufid</form>
-<tag><AM lemma="Mufid_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mufid_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mufid" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mufid" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mufid_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mufid_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mufid_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mufid_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="id-2_^(Mufid-)" src="auto">NNNXX-----A----</AM>
-<AM lemma="mufid" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mufid_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-055-p5s1Bw2">
@@ -2866,13 +2811,7 @@
 <LM>w#w-lnd92257-055-p5s1Bw2</LM>
 </w.rf>
 <form>Lazović</form>
-<tag><AM lemma="Lazović_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lazović_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lazovič_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lazović_;S_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lazovič_;G_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lazović_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="lazović" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lazović_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-055-p5s1Bw3">
@@ -2935,19 +2874,7 @@
 <LM>w#w-lnd92257-055-p5s1Bw9</LM>
 </w.rf>
 <form>Kosevo</form>
-<tag><AM lemma="Kosevo_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="Kosevo" src="auto">Db-------------</AM>
-<AM lemma="Kosevo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Kosevo" src="auto">NNNS4-----A----</AM>
-<AM lemma="Kosevo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Kosevo_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="Kosevo_;m" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="kosevo" src="auto">NNMS1-----A----</AM>
-<AM lemma="kosevo-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="kosevobchodní_:B_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
-<AM lemma="kosevokresní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="kosevomezený_:B" src="auto">AANS7----1A---8</AM>
-<AM lemma="naKosevo" src="auto">Db-------------</AM>
+<tag><AM lemma="Kosevo_;m" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 </s>

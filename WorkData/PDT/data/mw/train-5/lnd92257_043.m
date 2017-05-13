@@ -854,16 +854,7 @@
 <LM>w#w-lnd92257-043-p3s5w11</LM>
 </w.rf>
 <form>Gisar</form>
-<tag><AM lemma="Gisar_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Gisar_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gisar_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gisar_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gisar_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Gisar" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gisar" src="auto">NNIS1-----A----</AM>
-<AM lemma="Gisar" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gisar_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="gisar" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Gisar_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-043-p3s5w12">

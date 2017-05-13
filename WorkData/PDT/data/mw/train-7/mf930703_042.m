@@ -755,30 +755,7 @@
 <LM>w#w-mf930703-042-p2s3w13</LM>
 </w.rf>
 <form>VCC</form>
-<tag><AM lemma="VCC_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="VCC-2_:B_;K_^(švédská_firma)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VCC_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VCC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VCC_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VCC_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VCC_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="VCC_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="VCC_:B_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Vcc" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vcc" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vcc" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vcc_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vcc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vcc_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vcce" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vcce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="vcc" src="auto">NNMS1-----A----</AM>
-<AM lemma="vcc-1_:B_,t_^(centuries)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="vcc-2_:B_,t_^(common_councilman)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="vcc-3_:B_,t_^(continuous_current,_stejnosměrný_proud)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="vcc-4_:B_,t_^(cubic_centimetre)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="vcc-5_:B_,t_^(current_account,_běžný_účet,_kontokorent)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="vcc-6_:B_,t_^(chapters)" src="auto">NNFPX-----A---8</AM>
+<tag><AM lemma="VCC_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-042-p2s3w14">
@@ -805,17 +782,7 @@
 <LM>w#w-mf930703-042-p2s3w16</LM>
 </w.rf>
 <form>Inexa</form>
-<tag><AM lemma="Inexa_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Inex" src="auto">NNMS2-----A----</AM>
-<AM lemma="Inex_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Inexa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Inexa_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Inexa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Inexa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="inexa" src="auto">NNMS1-----A----</AM>
-<AM lemma="inexa-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="inexa-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="inexakciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="Inexa_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-042-p2s3w17">

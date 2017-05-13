@@ -321,15 +321,7 @@
 <LM>w#w-ln94201-7-p2s1w29</LM>
 </w.rf>
 <form>Granićem</form>
-<tag><AM lemma="Granić_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Granić_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Granić" src="auto">NNIS7-----A----</AM>
-<AM lemma="Granić" src="auto">NNMS7-----A----</AM>
-<AM lemma="Granićo" src="auto">NNNS7-----A----</AM>
-<AM lemma="Granić_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Granić_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Granićo_;G" src="auto">NNNS7-----A----</AM>
-<AM lemma="granićem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Granić_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-7-p2s1w30">

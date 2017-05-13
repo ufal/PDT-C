@@ -1000,24 +1000,7 @@
 <LM>w#w-lnd92255-126-p3s5w15</LM>
 </w.rf>
 <form>TGT</form>
-<tag><AM lemma="TGT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="TGT_:B_;R_^(gran_turismo)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="TGT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Tgt_;G_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Tgt_:B_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Tgt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tgt_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tgt" src="auto">NNIS1-----A----</AM>
-<AM lemma="tgt" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="TGT_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-126-p3s5w16">
@@ -1261,24 +1244,7 @@
 <LM>w#w-lnd92255-126-p3s5w42</LM>
 </w.rf>
 <form>TGT</form>
-<tag><AM lemma="TGT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="TGT_:B_;R_^(gran_turismo)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="TGT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Tgt_;G_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Tgt_:B_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Tgt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tgt_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tgt" src="auto">NNIS1-----A----</AM>
-<AM lemma="tgt" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="TGT_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-126-p3s5w43">
@@ -2955,24 +2921,7 @@
 <LM>w#w-lnd92255-126-p10s1w8</LM>
 </w.rf>
 <form>TGT</form>
-<tag><AM lemma="TGT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="TGT_:B_;R_^(gran_turismo)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="TGT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Tgt_;G_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Tgt_:B_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Tgt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tgt_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tgt" src="auto">NNIS1-----A----</AM>
-<AM lemma="tgt" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="TGT_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-126-p10s1w9">
@@ -3390,24 +3339,7 @@
 <LM>w#w-lnd92255-126-p10s2w6</LM>
 </w.rf>
 <form>TGT</form>
-<tag><AM lemma="TGT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="TGT_:B_;R_^(gran_turismo)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="TGT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="TGT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Tgt_;G_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Tgt_:B_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Tgt_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt" src="auto">Vf--------A----</AM>
-<AM lemma="Tgt_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Tgt_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tgt" src="auto">NNIS1-----A----</AM>
-<AM lemma="tgt" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="TGT_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-126-p10s2w7">

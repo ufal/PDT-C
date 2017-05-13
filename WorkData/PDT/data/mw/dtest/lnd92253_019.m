@@ -921,16 +921,7 @@
 <LM>w#w-lnd92253-019-p4s1w11</LM>
 </w.rf>
 <form>Oriosa</form>
-<tag><AM lemma="Oriosa_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Oriosa" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Oriosa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Oriosý" src="auto">ACQW------A----</AM>
-<AM lemma="Orioso_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Orios-1_^(zvíře)" src="auto">NNMS2-----A----</AM>
-<AM lemma="Orios" src="auto">NNMS4-----A----</AM>
-<AM lemma="Orios" src="auto">NNMS2-----A----</AM>
-<AM lemma="Oriosa_;U" src="auto">NNFS1-----A----</AM>
-<AM lemma="oriosa" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Oriosa_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-019-p4s1w12">
@@ -1042,16 +1033,7 @@
 <LM>w#w-lnd92253-019-p4s2w11</LM>
 </w.rf>
 <form>Watch</form>
-<tag><AM lemma="Watch-2_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Watch_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Watch_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Watch_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Watch_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Watch_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Watch_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Watch_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wat" src="auto">AAFP2----1A----</AM>
-<AM lemma="watch" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Watch-2_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-019-p4s2w12">
@@ -1143,16 +1125,7 @@
 <LM>w#w-lnd92253-019-p4s3w8</LM>
 </w.rf>
 <form>Oriosa</form>
-<tag><AM lemma="Oriosa_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Oriosa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Oriosa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Oriosý" src="auto">ACQW------A----</AM>
-<AM lemma="Orioso_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Orios-1_^(zvíře)" src="auto">NNMS2-----A----</AM>
-<AM lemma="Orios" src="auto">NNMS4-----A----</AM>
-<AM lemma="Orios" src="auto">NNMS2-----A----</AM>
-<AM lemma="Oriosa_;U" src="auto">NNFS1-----A----</AM>
-<AM lemma="oriosa" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Oriosa_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-019-p4s3w9">

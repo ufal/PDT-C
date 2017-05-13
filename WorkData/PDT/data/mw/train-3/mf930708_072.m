@@ -1002,16 +1002,7 @@
 <LM>w#w-mf930708-072-p7s1w20</LM>
 </w.rf>
 <form>Kľúčik</form>
-<tag><AM lemma="Kľúčik_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kľúčik_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kľúčik_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kľúčik" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kľúčika" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kľúčik" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kľúčik" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kľúčikum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Kľúčik_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kľúčik" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kľúčik_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-072-p7s1w21">
@@ -2266,25 +2257,7 @@
 <LM>w#w-mf930708-072-p17s1w15</LM>
 </w.rf>
 <form>Astrovideo</form>
-<tag><AM lemma="Astrovideo_;R" src="orig">NNNS1-----A----</AM>
-<AM lemma="Astrovideo-1" src="auto">NNNS1-----A----</AM>
-<AM lemma="Astrovideo-1" src="auto">NNNS4-----A----</AM>
-<AM lemma="Astrovideo_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Astrovideo_;R" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Astrovideo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Astrovideo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Astrovideo_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Astrovideo_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="astrovidea" src="auto">NNFS5-----A----</AM>
-<AM lemma="astrovideo" src="auto">NNMS1-----A----</AM>
-<AM lemma="astrovideo-1" src="auto">NNNS1-----A----</AM>
-<AM lemma="astrovideo-1" src="auto">NNNS4-----A----</AM>
-<AM lemma="astrovideo-1" src="auto">NNNS5-----A----</AM>
-<AM lemma="astrovideo-2_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="astrovideo-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="astrovideobchodní_:B_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
-<AM lemma="astrovideokresní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="astrovideomezený_:B" src="auto">AANS7----1A---8</AM>
+<tag><AM lemma="Astrovideo_;R" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-072-p17s1w16">
@@ -3495,16 +3468,7 @@
 <LM>w#w-mf930708-072-p21s1w11</LM>
 </w.rf>
 <form>Cahel</form>
-<tag><AM lemma="Cahel_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cahel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cahla" src="auto">NNFP2-----A----</AM>
-<AM lemma="Cahel" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cahel_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cahel" src="auto">NNIS4-----A----</AM>
-<AM lemma="Cahel_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cahel_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Cahel" src="auto">NNMS1-----A----</AM>
-<AM lemma="cahel" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cahel_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-072-p21s1w12">
@@ -3558,16 +3522,7 @@
 <LM>w#w-mf930708-072-p21s1w17</LM>
 </w.rf>
 <form>Drtva</form>
-<tag><AM lemma="Drtva_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Drtvo" src="auto">NNNS2-----A----</AM>
-<AM lemma="Drtvo" src="auto">NNNP1-----A----</AM>
-<AM lemma="Drtvo" src="auto">NNNP4-----A----</AM>
-<AM lemma="Drtva" src="auto">NNFS1-----A----</AM>
-<AM lemma="Drtva_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Drtva_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Drtva_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Drtva-1" src="auto">Db-------------</AM>
-<AM lemma="drtva" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Drtva_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-072-p21s1w18">
@@ -3742,15 +3697,7 @@
 <LM>w#w-mf930708-072-p22s2w4</LM>
 </w.rf>
 <form>Mineur</form>
-<tag><AM lemma="Mineur_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mineur_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mineura" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mineur_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mineur_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mineur" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mineur_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mineur_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="mineur" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mineur_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-072-p22s2w5">
@@ -4060,16 +4007,7 @@
 <LM>w#w-mf930708-072-p24s1w12</LM>
 </w.rf>
 <form>Klášteranka</form>
-<tag><AM lemma="Klášteranka_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Klášteranka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Klášteranka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Klášteranek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Klášteranek_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Klášteranka_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Klášteranka_;E_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Klášteranko_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Klášteranka_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="klášteranka" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Klášteranka_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-072-p24s1w13">
@@ -9119,15 +9057,7 @@
 <LM>w#w-mf930708-072-p63s1w14</LM>
 </w.rf>
 <form>LUDUS</form>
-<tag><AM lemma="Ludus_;m_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="LUDUS" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ludus" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ludus" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ludus_;m_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Ludus_;L_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Ludus_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ludus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ludus_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Ludus_;m_,t" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-072-p63s1w15">
@@ -9136,16 +9066,7 @@
 <LM>w#w-mf930708-072-p63s1w15</LM>
 </w.rf>
 <form>MUSICUS</form>
-<tag><AM lemma="Musicus_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="MUSICUS" src="auto">NNMS1-----A----</AM>
-<AM lemma="Musicus_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Musicus_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Musicus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Musicus_;L_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Musicus_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Musicus_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Musicus_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Musicus_,t" src="auto">AAXXX----1A----</AM>
+<tag><AM lemma="Musicus_;m_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-072-p63s1w16">

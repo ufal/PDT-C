@@ -300,16 +300,7 @@
 <LM>w#w-ln94201-44-p2s1w28</LM>
 </w.rf>
 <form>Rámdáse</form>
-<tag><AM lemma="Rámdás_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Rámdása" src="auto">NNFS3-----A----</AM>
-<AM lemma="Rámdása" src="auto">NNFS6-----A----</AM>
-<AM lemma="Rámdás_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Rámdás_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rámdás_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Rámdás_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rámdás" src="auto">NNIS6-----A----</AM>
-<AM lemma="Rámdáse_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rámdáse" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Rámdás_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-44-p2s1w29">
@@ -318,16 +309,7 @@
 <LM>w#w-ln94201-44-p2s1w29</LM>
 </w.rf>
 <form>Najáka</form>
-<tag><AM lemma="Naják_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Naják_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Naják" src="auto">NNMS4-----A----</AM>
-<AM lemma="Naják" src="auto">NNMS2-----A----</AM>
-<AM lemma="Naják_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Naják_;E" src="auto">NNMS4-----A----</AM>
-<AM lemma="Naják_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="Naják_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Naják_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="najáka" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Naják_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-44-p2s1w30">
@@ -860,23 +842,7 @@
 <LM>w#w-ln94201-44-p2s5w12</LM>
 </w.rf>
 <form>Šiv</form>
-<tag><AM lemma="Šiv_;K_,t" src="orig">NNMXX-----A----</AM>
-<AM lemma="Šiv_;K_,t" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Šiv" src="auto">NNIS4-----A----</AM>
-<AM lemma="Šiv" src="auto">NNIS1-----A----</AM>
-<AM lemma="Šivo" src="auto">NNNP2-----A----</AM>
-<AM lemma="Šiva" src="auto">NNFP2-----A----</AM>
-<AM lemma="Šiv" src="auto">Db-------------</AM>
-<AM lemma="Šivum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Šiv_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="šiv" src="auto">NNIS4-----A----</AM>
-<AM lemma="šiv" src="auto">NNIS1-----A----</AM>
-<AM lemma="šivo" src="auto">NNNP2-----A----</AM>
-<AM lemma="šiva" src="auto">NNFP2-----A----</AM>
-<AM lemma="šiv" src="auto">Db-------------</AM>
-<AM lemma="šivum" src="auto">NNNP2-----A----</AM>
-<AM lemma="šiv_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="šiv" src="auto">PZYS1----------</AM>
+<tag><AM lemma="Šiv_;K_,t" src="orig" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-44-p2s5w13">
@@ -885,14 +851,7 @@
 <LM>w#w-ln94201-44-p2s5w13</LM>
 </w.rf>
 <form>séná</form>
-<tag><AM lemma="séná_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="séná_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="séný" src="auto">AAFS1----1A----</AM>
-<AM lemma="séný_^(*2t)" src="auto">AAFS1----1A----</AM>
-<AM lemma="séný_^(*3it)" src="auto">AAFS1----1A----</AM>
-<AM lemma="séný" src="auto">AANP1----1A----</AM>
-<AM lemma="séný" src="auto">AANP4----1A----</AM>
-<AM lemma="séný_^(*2t)" src="auto">AANP1----1A----</AM>
+<tag><AM lemma="séná_;K_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-44-p2s5w14">
@@ -1213,16 +1172,7 @@
 <LM>w#w-ln94201-44-p2s7w4</LM>
 </w.rf>
 <form>Krišnan</form>
-<tag><AM lemma="Krišnan_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krišnan_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Krišnan_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Krišnan_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Krišnan-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Krišnan" src="auto">NNMS1-----A----</AM>
-<AM lemma="Krišnan_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Krišnany_;G" src="auto">NNIP2-----A----</AM>
-<AM lemma="Krišnan" src="auto">NNIS1-----A----</AM>
-<AM lemma="krišnan" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Krišnan_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-44-p2s7w5">
@@ -1231,26 +1181,7 @@
 <LM>w#w-ln94201-44-p2s7w5</LM>
 </w.rf>
 <form>Advání</form>
-<tag><AM lemma="Advání_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Advání_^(*3at)" src="auto">NNNP1-----A----</AM>
-<AM lemma="Advání_^(*3at)" src="auto">NNNP2-----A----</AM>
-<AM lemma="Advání_^(*3at)" src="auto">NNNP4-----A----</AM>
-<AM lemma="Advání_^(*3at)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Advání_^(*3at)" src="auto">NNNS2-----A----</AM>
-<AM lemma="Advání_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="Advání_^(*3at)" src="auto">NNNS4-----A----</AM>
-<AM lemma="Advání_^(*3at)" src="auto">NNNS6-----A----</AM>
-<AM lemma="advání" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="advání_^(*2t)" src="auto">NNNP1-----A----</AM>
-<AM lemma="advání_^(*2t)" src="auto">NNNP2-----A----</AM>
-<AM lemma="advání_^(*2t)" src="auto">NNNP4-----A----</AM>
-<AM lemma="advání_^(*2t)" src="auto">NNNP5-----A----</AM>
-<AM lemma="advání_^(*2t)" src="auto">NNNS1-----A----</AM>
-<AM lemma="advání_^(*2t)" src="auto">NNNS2-----A----</AM>
-<AM lemma="advání_^(*2t)" src="auto">NNNS3-----A----</AM>
-<AM lemma="advání_^(*2t)" src="auto">NNNS4-----A----</AM>
-<AM lemma="advání_^(*2t)" src="auto">NNNS5-----A----</AM>
-<AM lemma="advání_^(*2t)" src="auto">NNNS6-----A----</AM>
+<tag><AM lemma="Advání_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-44-p2s7w6">
@@ -1468,16 +1399,7 @@
 <LM>w#w-ln94201-44-p2s8w2</LM>
 </w.rf>
 <form>Narasimha</form>
-<tag><AM lemma="Narasimha_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Narasimha_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Narasimh_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Narasimha" src="auto">NNFS1-----A----</AM>
-<AM lemma="Narasimha_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Narasimh_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Narasimh_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Narasimh" src="auto">NNMS2-----A----</AM>
-<AM lemma="Narasimh_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="narasimha" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Narasimha_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-44-p2s8w3">

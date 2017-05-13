@@ -145,16 +145,7 @@
 <LM>w#w-lnd92259-017-p1s1w15</LM>
 </w.rf>
 <form>Lines</form>
-<tag><AM lemma="Lines_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Lines_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lines" src="auto">Db-------------</AM>
-<AM lemma="Stones_;K_,t_^(Rolling_Lines)" src="auto" recommended="1">NNIPX-----A----</AM>
-<AM lemma="Line_;m_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Line_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Linést" src="auto">Vi-S---2--A----</AM>
-<AM lemma="Lines_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Lines_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="lines" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Lines_;K_,t" src="orig" selected="1">NNFPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-017-p1s1w16">

@@ -787,36 +787,7 @@
 <LM>w#w-lnd92258-113-p4s1w7</LM>
 </w.rf>
 <form>postkonzumní</form>
-<tag><AM lemma="postkonzumní" src="orig">AAFS2----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAFP1----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAFP4----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAFP5----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAFS1----1A----</AM>
-<AM lemma="postkonzumní" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAFS3----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAFS4----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAFS5----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAFS6----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAFS7----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAIP1----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAIP4----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAIP5----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAIS1----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAIS4----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAIS5----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAMP1----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAMP4----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAMP5----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAMS1----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AAMS5----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AANP1----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AANP4----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AANP5----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AANS1----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AANS4----1A----</AM>
-<AM lemma="postkonzumní" src="auto">AANS5----1A----</AM>
-<AM lemma="postkonzumný" src="auto">AAMP1----1A----</AM>
-<AM lemma="postkonzumný" src="auto">AAMP5----1A----</AM>
+<tag><AM lemma="postkonzumní" src="orig" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-113-p4s1w8">
@@ -4007,16 +3978,7 @@
 <LM>w#w-lnd92258-113-p6s1w47</LM>
 </w.rf>
 <form>Baylea</form>
-<tag><AM lemma="Bayle_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Bayle_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Bayleo-1_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bayle-2_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bayle-2_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bayle-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Baylea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Baylea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Baylea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="baylea" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bayle_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-113-p6s1w48">

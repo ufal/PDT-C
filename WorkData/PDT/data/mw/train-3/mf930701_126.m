@@ -976,8 +976,6 @@
 <tag><AM lemma="Adidas_;Y" src="orig">NNIS1-----A----</AM>
 <AM lemma="Adidas_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Adidas_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Adidas_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Adidas_;K" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-126-p2s8w13">

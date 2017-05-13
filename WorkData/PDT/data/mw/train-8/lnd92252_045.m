@@ -653,16 +653,7 @@
 <LM>w#w-lnd92252-045-p3s3w6</LM>
 </w.rf>
 <form>Murrer</form>
-<tag><AM lemma="Murrer_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Murrer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Murrer_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Murrer" src="auto">NNIS1-----A----</AM>
-<AM lemma="Murrer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Murrer_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Murrer_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Murrer" src="auto">NNIS4-----A----</AM>
-<AM lemma="Murrra" src="auto">NNFP2-----A----</AM>
-<AM lemma="murrer" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Murrer_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-045-p3s3w7">
@@ -1033,16 +1024,7 @@
 <LM>w#w-lnd92252-045-p4s1w15</LM>
 </w.rf>
 <form>Kryvošeje</form>
-<tag><AM lemma="Kryvošej_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Kryvošej" src="auto">NNIS2-----A----</AM>
-<AM lemma="Kryvošát" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Kryvošej" src="auto">NNFP1-----A----</AM>
-<AM lemma="Kryvošea_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Kryvošej_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kryvošej_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Kryvošej" src="auto">NNIP4-----A----</AM>
-<AM lemma="Kryvošej" src="auto">NNFS2-----A----</AM>
-<AM lemma="kryvošeje" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kryvošej_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-045-p4s1w16">
@@ -1395,14 +1377,7 @@
 <LM>w#w-lnd92252-045-p5s1w25</LM>
 </w.rf>
 <form>Anomal</form>
-<tag><AM lemma="Anomal_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Anomat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Anomal_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Anomat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Anomat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="minimal_;u_,t_^(pouze_ve_spojení_Anomal_art)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Anomala_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="anomal" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Anomal_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-045-p5s1w26">

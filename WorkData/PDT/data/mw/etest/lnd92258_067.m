@@ -57,17 +57,7 @@
 <LM>w#w-lnd92258-067-p2s1w3</LM>
 </w.rf>
 <form>BIRIATOU</form>
-<tag><AM lemma="Biriatou_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="BIRIATA_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Biriata" src="auto">NNFS7-----A----</AM>
-<AM lemma="Biriatý" src="auto">AAFS4----1A----</AM>
-<AM lemma="Biriatý" src="auto">AAFS7----1A----</AM>
-<AM lemma="Biriata" src="auto">NNMS7-----A----</AM>
-<AM lemma="Biriatý_^(*3out)" src="auto">AAFS4----1A----</AM>
-<AM lemma="Biriatý" src="auto">CrFS4----------</AM>
-<AM lemma="Biriata_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Biriatý" src="auto">CrFS7----------</AM>
-<AM lemma="biriatou" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Biriatou_;G" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-067-p2s1w4">
@@ -617,16 +607,7 @@
 <LM>w#w-lnd92258-067-p2s6w4</LM>
 </w.rf>
 <form>Biriatou</form>
-<tag><AM lemma="Biriatou_;G_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Biriata" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="Biriatý" src="auto">AAFS4----1A----</AM>
-<AM lemma="Biriatý" src="auto">AAFS7----1A----</AM>
-<AM lemma="Biriata" src="auto">NNMS7-----A----</AM>
-<AM lemma="Biriatý_^(*3out)" src="auto">AAFS4----1A----</AM>
-<AM lemma="Biriatý" src="auto">CrFS4----------</AM>
-<AM lemma="Biriata_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Biriatý" src="auto">CrFS7----------</AM>
-<AM lemma="biriatou" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Biriatou_;G_,t" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-067-p2s6w5">

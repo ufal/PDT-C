@@ -55,16 +55,7 @@
 <LM>w#w-ln94201-57-p1s1w5</LM>
 </w.rf>
 <form>Weitra</form>
-<tag><AM lemma="Weitra_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Weitr" src="auto">NNMS2-----A----</AM>
-<AM lemma="Weitr" src="auto">NNMS4-----A----</AM>
-<AM lemma="Weitra" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Weitra_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Weitro" src="auto">NNNS2-----A----</AM>
-<AM lemma="Weitrum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Weitrum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Weitro_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="weitra" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Weitra_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-57-p1s1w6">

@@ -66,15 +66,7 @@
 <LM>w#w-mf930702-088-p2s1w3</LM>
 </w.rf>
 <form>šá</form>
-<tag><AM lemma="šá-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šá-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="šý" src="auto">AAFS1----1A----</AM>
-<AM lemma="šá_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="šat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="šý" src="auto">AANP1----1A----</AM>
-<AM lemma="šý" src="auto">AANP4----1A----</AM>
-<AM lemma="šý_^(*2t)" src="auto">AAFS1----1A----</AM>
-<AM lemma="šý_^(*3it)" src="auto">AAFS1----1A----</AM>
+<tag><AM lemma="šá-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-088-p2s1w4">
@@ -218,14 +210,7 @@
 <LM>w#w-mf930702-088-p2s1w19</LM>
 </w.rf>
 <form>Nadzamem</form>
-<tag><AM lemma="Nadzam_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Nadzamus" src="auto">NNIS7-----A----</AM>
-<AM lemma="Nadzam" src="auto">NNIS7-----A----</AM>
-<AM lemma="Nadzaem" src="auto">NNIS7-----A----</AM>
-<AM lemma="Nadzam_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Nadzam_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Nadzam_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="nadzamem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nadzam_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-088-p2s1w20">

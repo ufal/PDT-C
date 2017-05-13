@@ -1266,17 +1266,7 @@
 <LM>w#w-ln94201-96-p5s2w15</LM>
 </w.rf>
 <form>multilevel</form>
-<tag><AM lemma="multilevel_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="multilevel" src="auto">NNIS1-----A----</AM>
-<AM lemma="multilevel" src="auto">NNIS4-----A----</AM>
-<AM lemma="multilevel_,h" src="auto">NNIS1-----A----</AM>
-<AM lemma="multilevel_,h" src="auto">NNIS4-----A----</AM>
-<AM lemma="multilevel_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="multilevel_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="multilevel_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="multilevel_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="multilevela" src="auto">NNFP2-----A----</AM>
-<AM lemma="multilevela_;K" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="multilevel_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-96-p5s2w16">

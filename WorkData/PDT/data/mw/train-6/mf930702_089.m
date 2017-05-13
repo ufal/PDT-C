@@ -19,16 +19,7 @@
 <LM>w#w-mf930702-089-p1s1w1</LM>
 </w.rf>
 <form>Scudamore</form>
-<tag><AM lemma="Scudamore_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Scudamor" src="auto">NNMS5-----A----</AM>
-<AM lemma="Scudamore_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Scudamore_;u_,l_,t_^(hudební_styl)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Scudamore_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Scudamore_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Scudamore_;R_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Scudamore_;K_,t" src="auto">Dg-------2A----</AM>
-<AM lemma="Scudamore_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="scudamore" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Scudamore_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-089-p1s1w2">
@@ -246,16 +237,7 @@
 <LM>w#w-mf930702-089-p2s1w20</LM>
 </w.rf>
 <form>Scudamore</form>
-<tag><AM lemma="Scudamore_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Scudamor" src="auto">NNMS5-----A----</AM>
-<AM lemma="Scudamore_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Scudamore_;u_,l_,t_^(hudební_styl)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Scudamore_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Scudamore_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Scudamore_;R_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Scudamore_;K_,t" src="auto">Dg-------2A----</AM>
-<AM lemma="Scudamore_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="scudamore" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Scudamore_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-089-p2s1w21">
@@ -349,16 +331,7 @@
 <LM>w#w-mf930702-089-p2s3w1</LM>
 </w.rf>
 <form>Scudamore</form>
-<tag><AM lemma="Scudamore_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Scudamor" src="auto">NNMS5-----A----</AM>
-<AM lemma="Scudamore_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Scudamore_;u_,l_,t_^(hudební_styl)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Scudamore_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Scudamore_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Scudamore_;R_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Scudamore_;K_,t" src="auto">Dg-------2A----</AM>
-<AM lemma="Scudamore_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="scudamore" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Scudamore_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-089-p2s3w2">
@@ -511,17 +484,7 @@
 <LM>w#w-mf930702-089-p2s3w18</LM>
 </w.rf>
 <form>Doumetem</form>
-<tag><AM lemma="Doumet_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Doume" src="auto">NNNS7-----A----</AM>
-<AM lemma="Doumeet" src="auto">NNIS7-----A----</AM>
-<AM lemma="Doumet" src="auto">NNFP3-----A----</AM>
-<AM lemma="Doumet" src="auto">NNIS7-----A----</AM>
-<AM lemma="Doumet" src="auto">NNMS7-----A----</AM>
-<AM lemma="Doumet_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Doumet_^(*3ý)" src="auto">NNFP3-----A----</AM>
-<AM lemma="Doumeto" src="auto">NNNS7-----A----</AM>
-<AM lemma="doumetem" src="auto">NNMS1-----A----</AM>
-<AM lemma="doumést" src="auto">VB-P---1P-AA--6</AM>
+<tag><AM lemma="Doumet_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-089-p2s3w19">
@@ -838,17 +801,7 @@
 <LM>w#w-mf930702-089-p2s4w21</LM>
 </w.rf>
 <form>Doumet</form>
-<tag><AM lemma="Doumet_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Doumet" src="auto">Db-------------</AM>
-<AM lemma="Doumet" src="auto">NNIS1-----A----</AM>
-<AM lemma="Doumet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Doumet" src="auto">NNMS1-----A----</AM>
-<AM lemma="Doumet" src="auto">Vf--------A----</AM>
-<AM lemma="Doumet_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Doumet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Doumeta" src="auto">NNFP2-----A----</AM>
-<AM lemma="doumet" src="auto">NNMS1-----A----</AM>
-<AM lemma="doumést_:W" src="auto">VmYS------A----</AM>
+<tag><AM lemma="Doumet_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-089-p2s4w22">
@@ -1066,16 +1019,7 @@
 <LM>w#w-mf930702-089-p2s5w8</LM>
 </w.rf>
 <form>Pierrette</form>
-<tag><AM lemma="Pierrette_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Pierrette_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Pierrette_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Pierrette_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tutte_,t_^(jen_Cosi_fan_Pierrette,_it.)" src="auto">PLFP1----------</AM>
-<AM lemma="Pierrette_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Pierrette_;m" src="auto">NNXXX-----A----</AM>
-<AM lemma="Pierrette_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Pierrette_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="pierrette" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pierrette_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-089-p2s5w9">

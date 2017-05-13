@@ -1378,15 +1378,7 @@
 <LM>w#w-mf930703-078-p4s2w18</LM>
 </w.rf>
 <form>Mutvaně</form>
-<tag><AM lemma="Mutvana_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Mutvaně_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="Mutvana" src="auto">NNFS6-----A----</AM>
-<AM lemma="Mutvana_;G" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Mutvana_;Y" src="auto">NNFS3-----A----</AM>
-<AM lemma="Mutvana" src="auto">NNFS3-----A----</AM>
-<AM lemma="Mutvaň" src="auto">NNFS2-----A----</AM>
-<AM lemma="Mutvana_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="mutvaně" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mutvana_;G" src="orig" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-078-p4s2w19">

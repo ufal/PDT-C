@@ -159,16 +159,7 @@
 <LM>w#w-mf930708-046-p2s1w13</LM>
 </w.rf>
 <form>Firm</form>
-<tag><AM lemma="firm_,t" src="orig">NNFSX-----A----</AM>
-<AM lemma="Firm_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Firm_,t" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Firm" src="auto">NNIS1-----A----</AM>
-<AM lemma="Firm_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Firm" src="auto">NNIS4-----A----</AM>
-<AM lemma="Firm_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Firm_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Firm_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="firm" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="firm_,t" src="orig" selected="1">NNFSX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-046-p2s1w14">
@@ -562,16 +553,7 @@
 <LM>w#w-mf930708-046-p2s3w12</LM>
 </w.rf>
 <form>Jurassic</form>
-<tag><AM lemma="jurassic_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Jurassice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Jurassic_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Jurassic_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Jurassic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="music_,t_^(př._pop_Jurassic)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Jurassic_;u_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Jurassic_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jurassic_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="jurassic" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="jurassic_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-046-p2s3w13">

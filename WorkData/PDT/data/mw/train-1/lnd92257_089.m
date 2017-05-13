@@ -1012,16 +1012,7 @@
 <LM>w#w-lnd92257-089-p3s8w10</LM>
 </w.rf>
 <form>World</form>
-<tag><AM lemma="World_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="World_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;R_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="world" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="World_;R_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-089-p3s8w11">

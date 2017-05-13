@@ -1743,15 +1743,7 @@
 <LM>w#w-ln94201-116-p4s3w8</LM>
 </w.rf>
 <form>kosmodémonické</form>
-<tag><AM lemma="kosmodémonický" src="orig">AAFS2----1A----</AM>
-<AM lemma="kosmodémonický" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="kosmodémonický" src="auto">AANS1----1A----</AM>
-<AM lemma="kosmodémonický" src="auto">AAFS6----1A----</AM>
-<AM lemma="kosmodémonický" src="auto">AAFP1----1A----</AM>
-<AM lemma="kosmodémonický" src="auto">AAIP1----1A----</AM>
-<AM lemma="kosmodémonický" src="auto">AAIP4----1A----</AM>
-<AM lemma="kosmodémonický" src="auto">AAFP4----1A----</AM>
-<AM lemma="kosmodémonický" src="auto">AANS4----1A----</AM>
+<tag><AM lemma="kosmodémonický" src="orig" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-116-p4s3w9">

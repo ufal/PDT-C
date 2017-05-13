@@ -1095,16 +1095,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Bachmeiera</form>
-<tag><AM lemma="Bachmeier_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Bachmeier_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Bachmeier_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bachmeiera_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bachmeier" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bachmeier" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bachmeiera" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bachmeier_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bachmeiero" src="auto">NNNS2-----A----</AM>
-<AM lemma="bachmeiera" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bachmeier_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-162-p4s1w9">

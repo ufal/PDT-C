@@ -140,15 +140,7 @@
 <LM>w#w-lnd92251-109-p3s1w3</LM>
 </w.rf>
 <form>šc</form>
-<tag><AM lemma="šc-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šc-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="šc" src="auto">NNMS1-----A----</AM>
-<AM lemma="šc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="šce" src="auto">NNFP2-----A----</AM>
-<AM lemma="šce_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="šc" src="auto">NNIS1-----A----</AM>
-<AM lemma="šc" src="auto">NNIS4-----A----</AM>
-<AM lemma="šc_;G" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="šc-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92251-109-p3s1w4">
@@ -1104,15 +1096,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Mamoriálu</form>
-<tag><AM lemma="memoriál_;m" src="orig">NNIS6-----A----</AM>
-<AM lemma="Mamoriál" src="auto">NNIS2-----A----</AM>
-<AM lemma="Mamoriál" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Mamoriál" src="auto">NNIS3-----A----</AM>
-<AM lemma="Mamoriál" src="auto">NNIS6-----A----</AM>
-<AM lemma="Mamoriála" src="auto">NNFS4-----A----</AM>
-<AM lemma="Mamoriál" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Mamoriál_^(peníze)" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="mamoriálu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="memoriál_;m" src="orig" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-109-p4s3w11">
@@ -1911,16 +1895,7 @@
 <LM>w#w-lnd92251-109-p4s9w6</LM>
 </w.rf>
 <form>Homén</form>
-<tag><AM lemma="Homén_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Homén_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Homén_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Homén-2" src="auto">NNIS4-----A----</AM>
-<AM lemma="Homén" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hoména" src="auto">NNFP2-----A----</AM>
-<AM lemma="Homén" src="auto">NNIS1-----A----</AM>
-<AM lemma="Homén_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Homén" src="auto">NNIS4-----A----</AM>
-<AM lemma="homén" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Homén_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-109-p4s9w7">
@@ -3082,15 +3057,7 @@
 <LM>w#w-lnd92251-109-p4s13w21</LM>
 </w.rf>
 <form>Academica</form>
-<tag><AM lemma="Academica_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Academica_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Academica_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Academica_;m_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Academica_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Academica_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Academica_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Academica_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="academica" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Academica_;m_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-109-p4s13w22">

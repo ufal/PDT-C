@@ -1958,16 +1958,7 @@
 <LM>w#w-lnd92256-108-p11s1w3</LM>
 </w.rf>
 <form>Croiset</form>
-<tag><AM lemma="Croiset_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Croiset_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Croiset_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Croiset" src="auto">Vf--------A----</AM>
-<AM lemma="Croisto-2`100" src="auto">NNNP2-----A----</AM>
-<AM lemma="Croisto-1`100" src="auto">ClXP3---------1</AM>
-<AM lemma="Croisetkoruna" src="auto">NNFP4-----A----</AM>
-<AM lemma="Croiseta_^(měna_španělská,_portugalská_atd.)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Croiset`10" src="auto">Cn-S4----------</AM>
-<AM lemma="croiset" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Croiset_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-108-p11s1w4">
@@ -2213,16 +2204,7 @@
 <LM>w#w-lnd92256-108-p11s2w10</LM>
 </w.rf>
 <form>Chevillon</form>
-<tag><AM lemma="Chevillon_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chevillon" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chevillon" src="auto">NNIS4-----A----</AM>
-<AM lemma="Chevillón" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chevillona" src="auto">NNFP2-----A----</AM>
-<AM lemma="Chevillon_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chevillon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chevillón" src="auto">NNIS4-----A----</AM>
-<AM lemma="Chevillon_^(steroid)" src="auto">NNIS1-----A----</AM>
-<AM lemma="chevillon" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Chevillon_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-108-p11s2w11">

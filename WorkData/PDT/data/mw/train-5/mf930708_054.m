@@ -48,15 +48,7 @@
 <LM>w#w-mf930708-054-p2s1w1</LM>
 </w.rf>
 <form>morava</form>
-<tag><AM lemma="Morava_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="morava" src="auto">NNFS1-----A----</AM>
-<AM lemma="morava_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="morav_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="morava_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="morav_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="morav-1_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="morava_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="morav-1_;Y" src="auto">NNMS4-----A----</AM>
+<tag><AM lemma="Morava_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 </s>

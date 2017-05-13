@@ -282,15 +282,7 @@
 <LM>w#w-mf930702-100-p9s1w2</LM>
 </w.rf>
 <form>Vital</form>
-<tag><AM lemma="vital_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Vital_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vital_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Vital_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vitat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Vitat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Vitat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="vital" src="auto">NNMS1-----A----</AM>
-<AM lemma="vitala" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="vital_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 </s>
@@ -726,15 +718,7 @@
 <LM>w#w-mf930702-100-p20s1w2</LM>
 </w.rf>
 <form>Annabela</form>
-<tag><AM lemma="Annabela_;R" src="orig">NNFS1-----A----</AM>
-<AM lemma="Annabet_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Annabet" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="Annabel_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Annabel_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Annabela_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Annabela" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Annabít" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="annabela" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Annabela_;R" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-100-p20s1w3">
@@ -2897,16 +2881,7 @@
 <LM>w#w-mf930702-100-p74s1w3</LM>
 </w.rf>
 <form>Morning</form>
-<tag><AM lemma="morning_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Morning_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Morning" src="auto">NNIS4-----A----</AM>
-<AM lemma="Morning_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Morning" src="auto">NNIS1-----A----</AM>
-<AM lemma="Morning_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Morning_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Morning_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Morning_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="morning" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="morning_,t" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2926,16 +2901,7 @@
 <LM>w#w-mf930702-100-p75s1w2</LM>
 </w.rf>
 <form>World</form>
-<tag><AM lemma="world_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="World_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="World_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="world" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="world_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-100-p75s1w3">
@@ -3092,16 +3058,7 @@
 <LM>w#w-mf930702-100-p79s1w2</LM>
 </w.rf>
 <form>Stars</form>
-<tag><AM lemma="star_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Stars_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Star_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Star_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Star_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Stars_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stars_:B_,t" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Stars_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Stars-2_;R_^(planeta;;kosmická_sonda)" src="auto">NNIS4-----A----</AM>
-<AM lemma="stars" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="star_,t" src="orig" selected="1">NNFPX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-100-p79s1w3">

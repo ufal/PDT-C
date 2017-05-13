@@ -557,16 +557,7 @@
 <LM>w#w-mf930703-130-p1s3w10</LM>
 </w.rf>
 <form>PNPresse</form>
-<tag><AM lemma="PNPresse_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="PNPress_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="PNPresse_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="PNPress_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="PNPresse_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="PNPresse_;m" src="auto">NNIXX-----A----</AM>
-<AM lemma="PNPresse_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="PNPresse_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="PNPresse_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pnpresse" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="PNPresse_;K" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-130-p1s3w11">
@@ -640,13 +631,7 @@
 <LM>w#w-mf930703-130-p1s4w7</LM>
 </w.rf>
 <form>Verlagsgruppe</form>
-<tag><AM lemma="Verlagsgruppe_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Verlagsgruppe_;Y_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Verlagsgruppe_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Verlagsgruppe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Verlagsgruppe_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Verlagsgruppat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="verlagsgruppe" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Verlagsgruppe_;K_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-130-p1s4w8">
@@ -683,16 +668,7 @@
 <LM>w#w-mf930703-130-p1s4w11</LM>
 </w.rf>
 <form>Kapfinger</form>
-<tag><AM lemma="Kapfinger_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kapfinžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kapfinger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kapfinger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kapfinger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="kapfinger" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kapfinger_;K" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-130-p1s4w12">
@@ -701,16 +677,7 @@
 <LM>w#w-mf930703-130-p1s4w12</LM>
 </w.rf>
 <form>Mediengesellschaft</form>
-<tag><AM lemma="Mediengesellschaft_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Mediengesellschaft_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Mediengesellschaft_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mediengesellschaft_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Mediengesellschaft_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Mediengesellschaft_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mediengesellschaft" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mediengesellschaft" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mediengesellschaft_^(jako_součást_názvu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="mediengesellschaft" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mediengesellschaft_;K_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-130-p1s4w13">
@@ -1603,16 +1570,7 @@
 <LM>w#w-mf930703-130-p1s9w3</LM>
 </w.rf>
 <form>Kapfinger</form>
-<tag><AM lemma="Kapfinger_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kapfinžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kapfinger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kapfinger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kapfinger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="kapfinger" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kapfinger_;K" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-130-p1s9w4">
@@ -2524,16 +2482,7 @@
 <LM>w#w-mf930703-130-p1s15w20</LM>
 </w.rf>
 <form>PNPresse</form>
-<tag><AM lemma="PNPresse_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="PNPress_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="PNPresse_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="PNPress_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="PNPresse_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="PNPresse_;m" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="PNPresse_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="PNPresse_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="PNPresse_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pnpresse" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="PNPresse_;K" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-130-p1s15w21">
@@ -2726,16 +2675,7 @@
 <LM>w#w-mf930703-130-p1s17w8</LM>
 </w.rf>
 <form>Verlagspresse</form>
-<tag><AM lemma="Verlagspresse_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Verlagspress_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Verlagspresse_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Verlagspress_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Verlagspresse_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Verlagspresse_;m" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Verlagspresse_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Verlagspresse_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Verlagspresse_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="verlagspresse" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Verlagspresse_;K_,t" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-130-p1s17w9">
@@ -3226,16 +3166,7 @@
 <LM>w#w-mf930703-130-p1s19w42</LM>
 </w.rf>
 <form>Mitterfelsu</form>
-<tag><AM lemma="Mitterfels_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Mitterfels_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Mitterfels" src="auto">NNIS2-----A----</AM>
-<AM lemma="Mitterfels" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Mitterfels" src="auto">NNIS3-----A----</AM>
-<AM lemma="Mitterfels" src="auto">NNIS6-----A----</AM>
-<AM lemma="Mitterfelsa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Mitterfels_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Mitterfels_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="mitterfelsu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mitterfels_;G" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-130-p1s19w43">
@@ -3271,13 +3202,7 @@
 <LM>w#w-mf930703-130-p1s19w46</LM>
 </w.rf>
 <form>Verlagsgruppe</form>
-<tag><AM lemma="Verlagsgruppe_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Verlagsgruppe_;Y_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Verlagsgruppe_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Verlagsgruppe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Verlagsgruppe_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Verlagsgruppat" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="verlagsgruppe" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Verlagsgruppe_;K_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-130-p1s19w47">
@@ -3597,16 +3522,7 @@
 <LM>w#w-mf930703-130-p1s21w2</LM>
 </w.rf>
 <form>Kapfinger</form>
-<tag><AM lemma="Kapfinger_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kapfinžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kapfinger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kapfinger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kapfinger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="kapfinger" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kapfinger_;K" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-130-p1s21w3">
@@ -3615,16 +3531,7 @@
 <LM>w#w-mf930703-130-p1s21w3</LM>
 </w.rf>
 <form>Mediengesellschaft</form>
-<tag><AM lemma="Mediengesellschaft_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Mediengesellschaft_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Mediengesellschaft_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mediengesellschaft_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Mediengesellschaft_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Mediengesellschaft_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mediengesellschaft" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mediengesellschaft" src="auto">NNIS1-----A----</AM>
-<AM lemma="Mediengesellschaft_^(jako_součást_názvu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="mediengesellschaft" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mediengesellschaft_;K_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-130-p1s21w4">

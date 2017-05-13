@@ -192,13 +192,7 @@
 <LM>w#w-lnd92251-026-p2s1w18</LM>
 </w.rf>
 <form>Laskeho</form>
-<tag><AM lemma="Laske_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Laske_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Laske_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Laske_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Laske_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Laske-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="laskeho" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Laske_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-026-p2s1w19">

@@ -248,26 +248,7 @@
 <LM>w#w-mf930701-037-p2s1w23</LM>
 </w.rf>
 <form>Kea</form>
-<tag><AM lemma="Kea_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Ke_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ke_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kea" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kea_;G_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Kea_;K" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Kea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ke_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="ke_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="ke_;Y_,t" src="auto">NNMS4-----A---1</AM>
-<AM lemma="kea" src="auto">NNFS1-----A----</AM>
-<AM lemma="kea-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="kea-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="kea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="kea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="kea_;L_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="kea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="keakciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="Kea_;K" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-037-p2s1w24">
@@ -285,15 +266,7 @@
 <LM>w#w-mf930701-037-p2s1w25</LM>
 </w.rf>
 <form>tons</form>
-<tag><AM lemma="tons_;K" src="orig">NNMPX-----A----</AM>
-<AM lemma="ton_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="ton_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="tons_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ton_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="tons_;K" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="ton_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="ton_;K_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="ton_;K_,t" src="auto">NNNPX-----A----</AM>
+<tag><AM lemma="tons_;K" src="orig" selected="1">NNMPX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-037-p2s1w26">
@@ -311,12 +284,7 @@
 <LM>w#w-mf930701-037-p2s1w27</LM>
 </w.rf>
 <form>Modrás</form>
-<tag><AM lemma="Modrás_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Modrása" src="auto">NNFP2-----A----</AM>
-<AM lemma="Modrás_;K" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Modrýs" src="auto">PZFS1----------</AM>
-<AM lemma="Modrás_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="modrás" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Modrás_;K" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-037-p2s1w28">
@@ -513,16 +481,7 @@
 <LM>w#w-mf930701-037-p2s2w16</LM>
 </w.rf>
 <form>Nicols</form>
-<tag><AM lemma="Nicols_;S" src="orig">NNFSX-----A----</AM>
-<AM lemma="Nicol_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Nicols_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nicols_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Nicols_;S" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Nicols_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Nicols" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nicol_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Nicol_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="nicols" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nicols_;S" src="orig" selected="1">NNFSX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-037-p2s2w17">

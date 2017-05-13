@@ -1044,16 +1044,7 @@
 <LM>w#w-lnd92253-047-p3s1w8</LM>
 </w.rf>
 <form>Sullom</form>
-<tag><AM lemma="Sullom_;m" src="orig">AAXXX----1A----</AM>
-<AM lemma="Sullom" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sullom" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sullom_;m" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Sullom_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sullom" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sullom_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sullom" src="auto">Db-------------</AM>
-<AM lemma="Sullen" src="auto">PDZS6----------</AM>
-<AM lemma="sullom" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sullom_;m" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-047-p3s1w9">
@@ -1280,15 +1271,7 @@
 <LM>w#w-lnd92253-047-p3s2w9</LM>
 </w.rf>
 <form>Petroleum</form>
-<tag><AM lemma="Petroleum_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Petroleum" src="auto">NNNS4-----A----</AM>
-<AM lemma="Petroleum" src="auto">NNNS1-----A----</AM>
-<AM lemma="Petroleus_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Petroleum_;K_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Petroleum_;K" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Petroleum_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Petroleum_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="petroleum" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Petroleum_;K" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-047-p3s2w10">
@@ -2522,16 +2505,7 @@
 <LM>w#w-lnd92253-047-p5s2w4</LM>
 </w.rf>
 <form>Prensa</form>
-<tag><AM lemma="Prensa_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Prensa_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Prensa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Prensa_;S_^(Lech_Walesa)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prensa_;K_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Prensa_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Prensa" src="auto">NNFS1-----A----</AM>
-<AM lemma="Prensa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Prensa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="prensa" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Prensa_;K_,t" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-047-p5s2w5">
@@ -3250,16 +3224,7 @@
 <LM>w#w-lnd92253-047-p7s1w16</LM>
 </w.rf>
 <form>Sigonella</form>
-<tag><AM lemma="Sigonella_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sigonell_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sigonella_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sigonella_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sigonell_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Sigonella_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Sigonell_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="della_;R_,t_^(it.,_ve_jménech,_př._Sigonella_Rebia)" src="auto">RR--X----------</AM>
-<AM lemma="Villa-3_;G_^(součást_gegraf._názvů_např._Sigonella_Adriana)" src="auto">NNFS1-----A----</AM>
-<AM lemma="sigonella" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Sigonella_;G" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-047-p7s1w17">
@@ -3406,13 +3371,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Cheyneho</form>
-<tag><AM lemma="Cheyne_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Cheyne_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Cheyne_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Cheyne_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cheyne_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cheyne-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="cheyneho" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cheyne_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-047-p7s2w16">

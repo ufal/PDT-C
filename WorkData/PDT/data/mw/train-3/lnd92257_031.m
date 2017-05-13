@@ -1179,22 +1179,7 @@
 <LM>w#w-lnd92257-031-p3s6w21</LM>
 </w.rf>
 <form>OSIEK</form>
-<tag><AM lemma="OSIEK_;R" src="orig">NNXXX-----A----</AM>
-<AM lemma="OSIEK_;R" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Osiek" src="auto">NNIS1-----A----</AM>
-<AM lemma="Osiek" src="auto">NNIS4-----A----</AM>
-<AM lemma="Osiek" src="auto">NNMS1-----A----</AM>
-<AM lemma="Osiek_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Osiek_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Osika" src="auto">NNFP2-----A----</AM>
-<AM lemma="Osika_^(*2)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Osiko" src="auto">NNNP2-----A----</AM>
-<AM lemma="osiek" src="auto">NNMS1-----A----</AM>
-<AM lemma="osiek-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="osiek-4`kůň_:B_^(jednotka_výkonu)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="osiekomanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="osiekoncernový_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="osiekuo-1_:B_,t_^(stará_jednotka_výkonu)" src="auto">NNNXX-----A---8</AM>
+<tag><AM lemma="OSIEK_;R" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-031-p3s6w22">

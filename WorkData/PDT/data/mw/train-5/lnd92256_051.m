@@ -962,14 +962,7 @@
 <LM>w#w-lnd92256-051-p3s7w4</LM>
 </w.rf>
 <form>Roelof</form>
-<tag><AM lemma="Roelof_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Roelof_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Roelof_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Roelofesor_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Roelofa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Roelof_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Roelof-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="auto">RR--X----------</AM>
-<AM lemma="roelof" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Roelof_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-051-p3s7w5">

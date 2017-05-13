@@ -808,16 +808,7 @@
 <LM>w#w-lnd92258-074-p2s6w5</LM>
 </w.rf>
 <form>Cityrama</form>
-<tag><AM lemma="Cityrama_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Cityr" src="auto">NNIP7-----A---6</AM>
-<AM lemma="Cityram_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cityrama_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Cityrama_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cityrama" src="auto">NNNS4-----A----</AM>
-<AM lemma="Cityrama" src="auto">NNNS1-----A----</AM>
-<AM lemma="Cityra" src="auto">NNFD7-----A----</AM>
-<AM lemma="Cityramo" src="auto">NNNS2-----A----</AM>
-<AM lemma="cityrama" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cityrama_;K" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-074-p2s6w6">

@@ -279,16 +279,7 @@
 <LM>w#w-lnd92252-005-p3s3w9</LM>
 </w.rf>
 <form>Infas</form>
-<tag><AM lemma="Infas_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Infas_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Infas" src="auto">NNIS1-----A----</AM>
-<AM lemma="Infas_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Infas" src="auto">NNIS4-----A----</AM>
-<AM lemma="Infas_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Infas" src="auto">Db-------------</AM>
-<AM lemma="Infas" src="auto">NNMS1-----A----</AM>
-<AM lemma="Infas_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="infas" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Infas_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-005-p3s3w10">

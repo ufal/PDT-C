@@ -520,15 +520,7 @@
 <LM>w#w-lnd92256-027-p1s2w32</LM>
 </w.rf>
 <form>Bleriot</form>
-<tag><AM lemma="Bleriot_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Bleriot_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bleriot" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bleriot_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Bleriot_;R_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Bleriot_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bleriot_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Bleriot" src="auto">NNIS1-----A----</AM>
-<AM lemma="bleriot" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bleriot_;R" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-027-p1s2w33">
@@ -546,16 +538,7 @@
 <LM>w#w-lnd92256-027-p1s2w34</LM>
 </w.rf>
 <form>Pistachio</form>
-<tag><AM lemma="Pistachio_;R" src="orig">NNNS1-----A----</AM>
-<AM lemma="Pistachio_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pistachio_;R" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Pistachio_;G" src="auto">NNNS4-----A----</AM>
-<AM lemma="Pistachio_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pistachio_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pistachio" src="auto">NNNS1-----A----</AM>
-<AM lemma="Pistachio_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Pistachio_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="pistachio" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Pistachio_;R" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-027-p1s2w35">

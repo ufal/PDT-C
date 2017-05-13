@@ -158,15 +158,7 @@
 <LM>w#w-mf930701-112-p2s1w3</LM>
 </w.rf>
 <form>jfr</form>
-<tag><AM lemma="jfr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jfr" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="jfrancouzský_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="jfr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jfr" src="auto">NNIS4-----A----</AM>
-<AM lemma="jfr" src="auto">NNMS1-----A----</AM>
-<AM lemma="jfr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jfr_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="jfra" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="jfr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-112-p2s1w4">

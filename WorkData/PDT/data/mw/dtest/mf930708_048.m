@@ -356,16 +356,7 @@
 <LM>w#w-mf930708-048-p2s2w21</LM>
 </w.rf>
 <form>Optys</form>
-<tag><AM lemma="Optys_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Optys_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Optys_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Optys" src="auto">NNIS1-----A----</AM>
-<AM lemma="Optys" src="auto">NNIS4-----A----</AM>
-<AM lemma="Opty_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Opty" src="auto">J,-S---2-------</AM>
-<AM lemma="Optýt" src="auto">Vc-S---2-------</AM>
-<AM lemma="Opty_;K_,t" src="auto">NNNPX-----A----</AM>
-<AM lemma="optys" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Optys_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-048-p2s2w22">

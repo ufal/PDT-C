@@ -980,15 +980,7 @@
 <LM>w#w-lnd92258-059-p3s4w14</LM>
 </w.rf>
 <form>Kiejman</form>
-<tag><AM lemma="Kiejman_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kiejman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kiejman" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kiejman_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kiejman-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kiejman_;m" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kiejman_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kiejman_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="kiejman" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kiejman_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-059-p3s4w15">

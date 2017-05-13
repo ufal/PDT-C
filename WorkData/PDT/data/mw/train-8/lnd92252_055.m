@@ -131,16 +131,7 @@
 <LM>w#w-lnd92252-055-p3s1w7</LM>
 </w.rf>
 <form>Stockdalea</form>
-<tag><AM lemma="Stockdale-2_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Stockdale_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Stockdaleo-1_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Stockdale-2_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Stockdale-2_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Stockdale-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Stockdalea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stockdalea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Stockdalea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="stockdalea" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Stockdale-2_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-055-p3s1w8">
@@ -1616,16 +1607,7 @@
 <LM>w#w-lnd92252-055-p4s7w20</LM>
 </w.rf>
 <form>Stockdaleův</form>
-<tag><AM lemma="Stockdalův_;S_^(*2e-2)" src="orig">AUIS4M---------</AM>
-<AM lemma="Stockdalův_;S_^(*2e-2)" src="auto" recommended="1">AUIS4M---------</AM>
-<AM lemma="Stockdaleův_;Y_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Stockdaleův_;S_^(*2u)" src="auto">AUMS1M---------</AM>
-<AM lemma="Stockdaleův_;S_^(*2)" src="auto">AUMS1M---------</AM>
-<AM lemma="Stockdaleův_;S_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Stockdaleův_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Stockdaleův_;S_^(*2a)" src="auto">AUIS1M---------</AM>
-<AM lemma="Stockdaleův_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="stockdaleův" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Stockdalův_;S_^(*2e-2)" src="orig" selected="1">AUIS4M---------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-055-p4s7w21">
@@ -1982,15 +1964,7 @@
 <LM>w#w-lnd92252-055-p4s10w8</LM>
 </w.rf>
 <form>spoluzajatce</form>
-<tag><AM lemma="spoluzajatec" src="orig">NNMP4-----A----</AM>
-<AM lemma="spoluzajatce" src="auto">NNMP4-----A----</AM>
-<AM lemma="spoluzajatec" src="auto">NNIS2-----A----</AM>
-<AM lemma="spoluzajatec" src="auto" recommended="1">NNMP4-----A----</AM>
-<AM lemma="spoluzajatec" src="auto">NNMS2-----A----</AM>
-<AM lemma="spoluzajatec" src="auto">NNMS4-----A----</AM>
-<AM lemma="spoluzajatka" src="auto">NNFS3-----A----</AM>
-<AM lemma="spoluzajatka" src="auto">NNFS6-----A----</AM>
-<AM lemma="spoluzajatka_;G" src="auto">NNFS6-----A----</AM>
+<tag><AM lemma="spoluzajatec" src="orig" selected="1">NNMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-055-p4s10w9">
@@ -2709,16 +2683,7 @@
 <LM>w#w-lnd92252-055-p6s1w7</LM>
 </w.rf>
 <form>Stockdalea</form>
-<tag><AM lemma="Stockdale-2_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Stockdale_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Stockdaleo-1_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Stockdale-2_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Stockdale-2_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Stockdale-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Stockdalea_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stockdalea_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Stockdalea_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="stockdalea" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Stockdale-2_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-055-p6s1w8">

@@ -3725,16 +3725,7 @@
 <LM>w#w-lnd92259-097-p4s15w7</LM>
 </w.rf>
 <form>Nervik</form>
-<tag><AM lemma="Nervik_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nervik" src="auto">NNIS1-----A----</AM>
-<AM lemma="Nervik_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nervikum_,t" src="auto">NNNP2-----A----</AM>
-<AM lemma="Nervik" src="auto">NNIS4-----A----</AM>
-<AM lemma="Nervik" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nervika" src="auto">NNFP2-----A----</AM>
-<AM lemma="Nervikum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Nervik_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="nervik" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Nervik_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-097-p4s15w8">
@@ -3935,18 +3926,7 @@
 <LM>w#w-lnd92259-097-p5s1w21</LM>
 </w.rf>
 <form>Vinášek</form>
-<tag><AM lemma="Vinášek_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vinášek" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vinášek" src="auto">NNIS4-----A----</AM>
-<AM lemma="Vinášek" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vinášek_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Vinášek_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vináška" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vináška-1_;E" src="auto">NNFP2-----A----</AM>
-<AM lemma="Vinášky" src="auto">NNFP2-----A----</AM>
-<AM lemma="vinášek" src="auto">NNIS1-----A----</AM>
-<AM lemma="vinášek" src="auto">NNIS4-----A----</AM>
-<AM lemma="vinášek" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Vinášek_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-097-p5s1w22">
@@ -5818,16 +5798,7 @@
 <LM>w#w-lnd92259-097-p8s2w2</LM>
 </w.rf>
 <form>Colak</form>
-<tag><AM lemma="Colak_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Colak" src="auto">NNIS1-----A----</AM>
-<AM lemma="Colak" src="auto">NNIS4-----A----</AM>
-<AM lemma="Colak_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Colak" src="auto">NNNP2-----A---1</AM>
-<AM lemma="Colak" src="auto">Db-------------</AM>
-<AM lemma="Colak_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Colak_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Colak-1" src="auto">Db-------------</AM>
-<AM lemma="colak" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Colak_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-097-p8s2w3">
@@ -6875,16 +6846,7 @@
 <LM>w#w-lnd92259-097-p8s7w9</LM>
 </w.rf>
 <form>Coroadem</form>
-<tag><AM lemma="Coroado_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Coroad" src="auto">NNIS7-----A----</AM>
-<AM lemma="Coroad_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Coroad_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Coroad_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Coroad" src="auto">NNMS7-----A----</AM>
-<AM lemma="Coroad_;K" src="auto">NNIS7-----A----</AM>
-<AM lemma="Coroadem" src="auto">Db-------------</AM>
-<AM lemma="Coroade_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="coroadem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Coroado_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-097-p8s7w10">
@@ -8209,16 +8171,7 @@
 <LM>w#w-lnd92259-097-p10s7w15</LM>
 </w.rf>
 <form>Kitka</form>
-<tag><AM lemma="Kitka_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kitka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kitka_^(*2a)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kitka_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kitka_^(*2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kitek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kitko" src="auto">NNNP4-----A----</AM>
-<AM lemma="Kitko" src="auto">NNNP1-----A----</AM>
-<AM lemma="Kitko" src="auto">NNNS2-----A----</AM>
-<AM lemma="kitka" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kitka_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-097-p10s7w16">

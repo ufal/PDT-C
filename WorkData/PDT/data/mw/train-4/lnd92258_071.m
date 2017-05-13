@@ -1432,23 +1432,7 @@
 <LM>w#w-lnd92258-071-p4s4w5</LM>
 </w.rf>
 <form>dos</form>
-<tag><AM lemma="dos_;S_,t" src="orig">RR--X----------</AM>
-<AM lemma="do" src="auto">PZM-1---------1</AM>
-<AM lemma="do_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="dos-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="dos-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="dos-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="dos-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="dos_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="dos_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="dos_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="dos_;S_,t" src="auto" recommended="1">RR--X----------</AM>
-<AM lemma="dos_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="doscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="dosoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="dospolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dostrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dostátní_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="dos_;S_,t" src="orig" selected="1">RR--X----------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-071-p4s4w6">
@@ -1583,23 +1567,7 @@
 <LM>w#w-lnd92258-071-p4s4w20</LM>
 </w.rf>
 <form>dos</form>
-<tag><AM lemma="dos_;S_,t" src="orig">RR--X----------</AM>
-<AM lemma="do" src="auto">PZM-1---------1</AM>
-<AM lemma="do_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="dos-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="dos-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="dos-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="dos-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="dos_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="dos_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="dos_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="dos_;S_,t" src="auto" recommended="1">RR--X----------</AM>
-<AM lemma="dos_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="doscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="dosoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="dospolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dostrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dostátní_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="dos_;S_,t" src="orig" selected="1">RR--X----------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-071-p4s4w21">
@@ -3620,23 +3588,7 @@
 <LM>w#w-lnd92258-071-p6s4w25</LM>
 </w.rf>
 <form>dos</form>
-<tag><AM lemma="dos_;S_,t" src="orig">RR--X----------</AM>
-<AM lemma="do" src="auto">PZM-1---------1</AM>
-<AM lemma="do_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="dos-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="dos-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="dos-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
-<AM lemma="dos-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="dos_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="dos_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="dos_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="dos_;S_,t" src="auto" recommended="1">RR--X----------</AM>
-<AM lemma="dos_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="doscriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="dosoudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="dospolečnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dostrana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dostátní_:B" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="dos_;S_,t" src="orig" selected="1">RR--X----------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-071-p6s4w26">
@@ -3753,14 +3705,7 @@
 <LM>w#w-lnd92258-071-p6s4w38</LM>
 </w.rf>
 <form>Roelof</form>
-<tag><AM lemma="Roelof_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Roelof_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Roelof_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Roelofesor_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Roelofa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Roelof_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Roelof-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="auto">RR--X----------</AM>
-<AM lemma="roelof" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Roelof_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-071-p6s4w39">

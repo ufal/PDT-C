@@ -28,14 +28,7 @@
 <LM>w#w-lnd92259-061-p1s1w2</LM>
 </w.rf>
 <form>Ľuďácký</form>
-<tag><AM lemma="ľuďácký" src="orig">AAMS1----1A----</AM>
-<AM lemma="Ľuďácký" src="auto">AAIS1----1A----</AM>
-<AM lemma="Ľuďácký" src="auto">AAIS4----1A----</AM>
-<AM lemma="Ľuďácký" src="auto" recommended="1">AAMS1----1A----</AM>
-<AM lemma="Ľuďácký_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ľuďácký_;S" src="auto">AAMS1----1A----</AM>
-<AM lemma="Ľuďácký_;U" src="auto">AAMS1----1A----</AM>
-<AM lemma="ľuďácký" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="ľuďácký" src="orig" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-061-p1s1w3">
@@ -174,24 +167,7 @@
 <LM>w#w-lnd92259-061-p2s2w10</LM>
 </w.rf>
 <form>SĽS</form>
-<tag><AM lemma="SĽS_:B_;K_^(Slovenská_ľudová_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SĽS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SĽS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SĽS_:B_;K" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SĽS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SĽS_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SĽS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SĽS_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SĽS_:B_;K" src="auto">NNFPX-----A---8</AM>
-<AM lemma="Sľs_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sľs" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sľs" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sľs_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sľs_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sľs_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sľ_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Sľ_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="sľs" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="SĽS_:B_;K_^(Slovenská_ľudová_strana)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-061-p2s2w11">
@@ -300,24 +276,7 @@
 <LM>w#w-lnd92259-061-p2s2w22</LM>
 </w.rf>
 <form>SLS</form>
-<tag><AM lemma="SĽS_:B_;K_^(Slovenská_ľudová_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SLS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SLS-1_:B_,t_^(physical_layer_signaling)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SLS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SLS_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SLS_:B_;K" src="auto">NNNXX-----A---8</AM>
-<AM lemma="SLS_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SLS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SLS_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Sls_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sl_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Sls_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Sls" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sl_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Sl_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Sl_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Sl_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="sls" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="SĽS_:B_;K_^(Slovenská_ľudová_strana)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-061-p2s2w23">
@@ -380,13 +339,7 @@
 <LM>w#w-lnd92259-061-p2s2w29</LM>
 </w.rf>
 <form>ľuďáckou</form>
-<tag><AM lemma="ľuďácký" src="orig">AAFS4----1A----</AM>
-<AM lemma="ľuďácký" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="ľuďácký" src="auto">AAFS7----1A----</AM>
-<AM lemma="ľuďácka" src="auto">NNFS7-----A----</AM>
-<AM lemma="ľuďácka_^(*2)" src="auto">NNFS7-----A----</AM>
-<AM lemma="ľuďácka_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="ľuďácka_;G" src="auto">NNFS7-----A----</AM>
+<tag><AM lemma="ľuďácký" src="orig" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-061-p2s2w30">
@@ -496,13 +449,7 @@
 <LM>w#w-lnd92259-061-p2s3w9</LM>
 </w.rf>
 <form>ľuďácký</form>
-<tag><AM lemma="ľuďácký" src="orig">AAMS1----1A----</AM>
-<AM lemma="ľuďácký" src="auto">AAIS1----1A----</AM>
-<AM lemma="ľuďácký" src="auto">AAIS4----1A----</AM>
-<AM lemma="ľuďácký" src="auto" recommended="1">AAMS1----1A----</AM>
-<AM lemma="ľuďácký_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ľuďácký_;S" src="auto">AAMS1----1A----</AM>
-<AM lemma="ľuďácký_;U" src="auto">AAMS1----1A----</AM>
+<tag><AM lemma="ľuďácký" src="orig" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-061-p2s3w10">
@@ -748,24 +695,7 @@
 <LM>w#w-lnd92259-061-p2s4w20</LM>
 </w.rf>
 <form>SLS</form>
-<tag><AM lemma="SĽS_:B_;K_^(Slovenská_ľudová_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SLS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SLS-1_:B_,t_^(physical_layer_signaling)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SLS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SLS_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SLS_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="SLS_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SLS_:B_;R" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SLS_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Sls_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sl_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Sls_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Sls" src="auto">NNIS1-----A----</AM>
-<AM lemma="Sl_;m_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Sl_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Sl_;R_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Sl_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="sls" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="SĽS_:B_;K_^(Slovenská_ľudová_strana)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-061-p2s4w21">

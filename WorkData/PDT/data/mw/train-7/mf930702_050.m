@@ -291,16 +291,7 @@
 <LM>w#w-mf930702-050-p2s1w23</LM>
 </w.rf>
 <form>Tapcom</form>
-<tag><AM lemma="Tapcom_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tapcom_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tapcom_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tapcom_;K_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tapcom_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tapcom_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tapcom_;K" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Tapcom" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tapcom" src="auto">NNIS4-----A----</AM>
-<AM lemma="tapcom" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tapcom_;K" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-050-p2s1w24">
@@ -412,16 +403,7 @@
 <LM>w#w-mf930702-050-p3s1w1</LM>
 </w.rf>
 <form>Tapcom</form>
-<tag><AM lemma="Tapcom_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tapcom_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tapcom_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tapcom_;K_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tapcom_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tapcom_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tapcom_;K" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Tapcom" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tapcom" src="auto">NNIS4-----A----</AM>
-<AM lemma="tapcom" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tapcom_;K" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-050-p3s1w2">
@@ -857,15 +839,7 @@
 <LM>w#w-mf930702-050-p4s1w18</LM>
 </w.rf>
 <form>Tapcomu</form>
-<tag><AM lemma="Tapcom_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Tapcom" src="auto">NNIS2-----A----</AM>
-<AM lemma="Tapcom" src="auto">NNIS6-----A----</AM>
-<AM lemma="Tapcom_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Tapcom" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Tapcom" src="auto">NNIS3-----A----</AM>
-<AM lemma="Tapcdo" src="auto">PZM-3----------</AM>
-<AM lemma="Tapcen" src="auto">PDZS3----------</AM>
-<AM lemma="tapcomu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Tapcom_;K" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-050-p4s1w19">

@@ -830,16 +830,7 @@
 <LM>w#w-mf930703-142-p2s5w4</LM>
 </w.rf>
 <form>Zlenko</form>
-<tag><AM lemma="Zlenko_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zlenko_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Zlenko_,e" src="auto">NNNS4-----A----</AM>
-<AM lemma="Zlenko_,e" src="auto">NNNS1-----A----</AM>
-<AM lemma="Zlenka" src="auto">NNFS5-----A----</AM>
-<AM lemma="Zlenko_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zlenko_,s" src="auto">NNNS1-----A----</AM>
-<AM lemma="Zlenko-1" src="auto">Db-------------</AM>
-<AM lemma="Zlenko" src="auto">NNNS4-----A----</AM>
-<AM lemma="zlenko" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Zlenko_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-142-p2s5w5">
@@ -911,16 +902,7 @@
 <LM>w#w-mf930703-142-p2s5w12</LM>
 </w.rf>
 <form>Popadiukovi</form>
-<tag><AM lemma="Popadiuk_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Popadiuk_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Popadiuk" src="auto">NNMS3-----A----</AM>
-<AM lemma="Popadiuk_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Popadiuka_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Popadiuk_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Popadiuk" src="auto">NNMS6-----A----</AM>
-<AM lemma="Popadiukův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="Popadiuek_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="popadiukovi" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Popadiuk_;S" src="orig" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-142-p2s5w13">

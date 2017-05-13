@@ -295,15 +295,7 @@
 <LM>w#w-lnd92252-054-p3s1w21</LM>
 </w.rf>
 <form>böhmisch</form>
-<tag><AM lemma="böhmisch_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="böhmisch_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="böhmisch-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="böhmisch_;m_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="böhmisch_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="böhmisch_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="böhmisch_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="böhmisch_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="böhmisch-2_;K_,t" src="auto">AAXXX----1A----</AM>
+<tag><AM lemma="böhmisch_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-054-p3s1w22">
@@ -1764,15 +1756,7 @@
 <LM>w#w-lnd92252-054-p4s4w16</LM>
 </w.rf>
 <form>und</form>
-<tag><AM lemma="und_,t" src="orig">J^-------------</AM>
-<AM lemma="und_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="und_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="und_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="und_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="und" src="auto">NNIS4-----A----</AM>
-<AM lemma="unda" src="auto">NNFP2-----A----</AM>
-<AM lemma="und_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="und_;S_;Y" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="und_,t" src="orig" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-054-p4s4w17">
@@ -1781,15 +1765,7 @@
 <LM>w#w-lnd92252-054-p4s4w17</LM>
 </w.rf>
 <form>seine</form>
-<tag><AM lemma="sein_,t" src="orig">PSXXXZS3-------</AM>
-<AM lemma="seine-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="seine_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="seine_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="seine_;U_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="seine_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="seine_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="seine_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="seinout" src="auto">VB-S---3P-AA---</AM>
+<tag><AM lemma="sein_,t" src="orig" selected="1">PSXXXZS3-------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-054-p4s4w18">
@@ -1798,18 +1774,7 @@
 <LM>w#w-lnd92252-054-p4s4w18</LM>
 </w.rf>
 <form>Zeit</form>
-<tag><AM lemma="Zeit_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Zeit_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zeit_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Zeit_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Zeit_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Zeit_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Zeit_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zeit_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="zeit" src="auto">NNMS1-----A----</AM>
-<AM lemma="zeit-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="zeit-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="zeitelefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
+<tag><AM lemma="Zeit_,t" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-054-p4s4w19">

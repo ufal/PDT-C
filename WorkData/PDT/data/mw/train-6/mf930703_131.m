@@ -1064,16 +1064,7 @@
 <LM>w#w-mf930703-131-p4s1w15</LM>
 </w.rf>
 <form>Žepče</form>
-<tag><AM lemma="Žepče_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Žepče_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Žepče_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Žepče_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Žepč_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Žepč" src="auto">NNIP1-----A----</AM>
-<AM lemma="Žepč" src="auto">NNIS2-----A----</AM>
-<AM lemma="Žepč" src="auto">NNMP4-----A----</AM>
-<AM lemma="Žepč" src="auto">NNMS4-----A----</AM>
-<AM lemma="žepče" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Žepče_;G" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-131-p4s1w16">

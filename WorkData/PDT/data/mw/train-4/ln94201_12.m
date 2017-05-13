@@ -239,16 +239,7 @@
 <LM>w#w-ln94201-12-p3s1w3</LM>
 </w.rf>
 <form>Daiwa</form>
-<tag><AM lemma="Daiwa_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Daiwa_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Daiwa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Daiw_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Daiwa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Daiw_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Daiw_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Daiw_;K" src="auto">NNMS2-----A----</AM>
-<AM lemma="Daiwa_^(prohlášení_islámských_duchovních)" src="auto">NNFS1-----A----</AM>
-<AM lemma="daiwa" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Daiwa_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-12-p3s1w4">
@@ -257,16 +248,7 @@
 <LM>w#w-ln94201-12-p3s1w4</LM>
 </w.rf>
 <form>Securities</form>
-<tag><AM lemma="Securities_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Security_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Securitie_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Security_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Securities_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Securities_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Securities_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Securities" src="auto">NNMPX-----A----</AM>
-<AM lemma="Security_;m_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="securities" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Securities_;K_,t" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-12-p3s1w5">
@@ -385,16 +367,7 @@
 <LM>w#w-ln94201-12-p4s1w1</LM>
 </w.rf>
 <form>Abilympics</form>
-<tag><AM lemma="Abilympics_;m" src="orig">NNXXX-----A----</AM>
-<AM lemma="Abilympics_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Abilympic_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Abilympic_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Abilympics_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Abilympics_;m" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Abilympics_;R" src="auto">NNFXX-----A----</AM>
-<AM lemma="Abilympics_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Abilympics_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="abilympics" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Abilympics_;m" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-12-p4s1w2">

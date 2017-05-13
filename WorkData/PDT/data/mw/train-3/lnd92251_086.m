@@ -454,16 +454,7 @@
 <LM>w#w-lnd92251-086-p2s4w8</LM>
 </w.rf>
 <form>Eldredge</form>
-<tag><AM lemma="Eldredge_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eldredge_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Eldredge_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Eldredge_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Eldredge_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Eldredge_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Eldredge_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Eldredge_;G" src="auto">NNFSX-----A----</AM>
-<AM lemma="Eldredge_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="eldredge" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Eldredge_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-086-p2s4w9">
@@ -539,16 +530,7 @@
 <LM>w#w-lnd92251-086-p2s6w1</LM>
 </w.rf>
 <form>Eldredge</form>
-<tag><AM lemma="Eldredge_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eldredge_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eldredge_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Eldredge_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Eldredge_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Eldredge_;G" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Eldredge_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Eldredge_;G" src="auto">NNFSX-----A----</AM>
-<AM lemma="Eldredge_;G" src="auto">AAXXX----1A----</AM>
-<AM lemma="eldredge" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Eldredge_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-086-p2s6w2">
@@ -681,14 +663,7 @@
 <LM>w#w-lnd92251-086-p2s8w1</LM>
 </w.rf>
 <form>Zagorodňuk</form>
-<tag><AM lemma="Zagorodňuk_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zagorodňuk_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Zagorodňuk" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zagorodňuk" src="auto">NNIS4-----A----</AM>
-<AM lemma="Zagorodňuk" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zagorodňuk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Zagorodňuka" src="auto">NNFP2-----A----</AM>
-<AM lemma="zagorodňuk" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Zagorodňuk_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-086-p2s8w2">
@@ -948,16 +923,7 @@
 <LM>w#w-lnd92251-086-p2s11w3</LM>
 </w.rf>
 <form>Lavanchy</form>
-<tag><AM lemma="Lavanchy_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lavancha" src="auto">NNFS2-----A----</AM>
-<AM lemma="Lavanch" src="auto">NNIP7-----A----</AM>
-<AM lemma="Lavanch" src="auto">NNIP1-----A----</AM>
-<AM lemma="Lavancha" src="auto">NNFP1-----A----</AM>
-<AM lemma="Lavanch" src="auto">NNIP4-----A----</AM>
-<AM lemma="Lavancha" src="auto">NNFP4-----A----</AM>
-<AM lemma="Lavancha_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Lavanch" src="auto">NNMP7-----A----</AM>
-<AM lemma="lavanchy" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Lavanchy_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-086-p2s11w4">

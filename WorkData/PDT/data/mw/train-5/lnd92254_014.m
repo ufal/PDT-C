@@ -808,20 +808,7 @@
 <LM>w#w-lnd92254-014-p2s1w10</LM>
 </w.rf>
 <form>DFNS</form>
-<tag><AM lemma="DFNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DFNS_:B_;K_^(Fronta_nár._spásy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DFNS_:B_;K_^(Fronta_nár._spásy)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DFNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="DFNS_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Dfns_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dfn_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Dfn_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Dfn_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Dfns_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Dfns_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dfns" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dfn_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="dfns" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="DFNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-014-p2s1w11">
@@ -947,20 +934,7 @@
 <LM>w#w-lnd92254-014-p2s1w24</LM>
 </w.rf>
 <form>DFNS</form>
-<tag><AM lemma="DFNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DFNS_:B_;K_^(Fronta_nár._spásy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DFNS_:B_;K_^(Fronta_nár._spásy)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DFNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="DFNS_:B_;m" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Dfns_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dfn_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Dfn_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Dfn_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Dfns_;K" src="auto">NNMPX-----A----</AM>
-<AM lemma="Dfns_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dfns" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dfn_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="dfns" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="DFNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="orig" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-014-p2s1w25">
@@ -1479,16 +1453,7 @@
 <LM>w#w-lnd92254-014-p3s2w4</LM>
 </w.rf>
 <form>Volkszeitung</form>
-<tag><AM lemma="Volkszeitung_;R_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="Volkszeitung_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Volkszeitung_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Volkszeitung_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Volkszeitung_,t" src="auto">NNNSX-----A----</AM>
-<AM lemma="Volkszeitung_;p" src="auto">NNMS1-----A----</AM>
-<AM lemma="Volkszeitung_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Volkszeitung_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Volkszeitung_;R_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="volkszeitung" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Volkszeitung_;R_,t" src="orig" selected="1">NNFPX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-014-p3s2w5">

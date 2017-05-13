@@ -93,13 +93,7 @@
 <LM>w#w-mf930708-076-p2s1w3</LM>
 </w.rf>
 <form>jsl</form>
-<tag><AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jsl-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jsnout_:W" src="auto">VpYS---XR-AA--1</AM>
-<AM lemma="jst" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="jsl" src="auto">NNIS1-----A----</AM>
-<AM lemma="jsl" src="auto">NNIS4-----A----</AM>
+<tag><AM lemma="jsl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-076-p2s1w4">
@@ -762,16 +756,7 @@
 <LM>w#w-mf930708-076-p2s4w21</LM>
 </w.rf>
 <form>Šnapková</form>
-<tag><AM lemma="Šnapková_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Šnapková_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Šnapkový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Šnapkový" src="auto">AANP1----1A----</AM>
-<AM lemma="Šnapkový" src="auto">AANP4----1A----</AM>
-<AM lemma="Šnapková_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Šnapková_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Šnapkový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Šnapkový" src="auto">AAFS5----1A----</AM>
-<AM lemma="šnapková" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Šnapková_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-076-p2s4w22">
@@ -892,16 +877,7 @@
 <LM>w#w-mf930708-076-p2s6w6</LM>
 </w.rf>
 <form>Morsutová</form>
-<tag><AM lemma="Morsutová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Morsutová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Morsutový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Morsutový" src="auto">AANP1----1A----</AM>
-<AM lemma="Morsutový" src="auto">AANP4----1A----</AM>
-<AM lemma="Morsutová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Morsutová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Morsutový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Morsutový" src="auto">AAFS5----1A----</AM>
-<AM lemma="morsutová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Morsutová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-076-p2s6w7">

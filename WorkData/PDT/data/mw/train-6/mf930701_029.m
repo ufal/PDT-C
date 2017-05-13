@@ -102,12 +102,7 @@
 <LM>w#w-mf930701-029-p2s1w3</LM>
 </w.rf>
 <form>šim</form>
-<tag><AM lemma="šim-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ši_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="ši_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="šim_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="šim_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="šim-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<tag><AM lemma="šim-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-029-p2s1w4">

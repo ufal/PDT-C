@@ -19,16 +19,7 @@
 <LM>w#w-lnd92256-092-p1s1w1</LM>
 </w.rf>
 <form>XTRALITE</form>
-<tag><AM lemma="XTRALITE_;R" src="orig">NNNS1-----A----</AM>
-<AM lemma="XTRALITE_;R" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Xtralite_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Xtralite_;Y" src="auto">NNMSX-----A----</AM>
-<AM lemma="Xtralite_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Xtralite_;R_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Xtralite_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Xtralite_;K" src="auto">AAXXX----1A----</AM>
-<AM lemma="Xtralite-1_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="xtralite" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="XTRALITE_;R" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-092-p1s1w2">

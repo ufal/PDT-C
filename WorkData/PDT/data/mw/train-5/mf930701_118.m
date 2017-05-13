@@ -750,15 +750,7 @@
 <LM>w#w-mf930701-118-p3s4w1</LM>
 </w.rf>
 <form>Cason</form>
-<tag><AM lemma="Cason_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cason_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cason_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cason_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cason_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cason" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cason_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cason_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="cason" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Cason_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-118-p3s4w2">
@@ -886,17 +878,7 @@
 <LM>w#w-mf930701-118-p3s5w3</LM>
 </w.rf>
 <form>Trinid</form>
-<tag><AM lemma="Trinidad_:B_;G" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Trinid" src="auto">NNIS1-----A----</AM>
-<AM lemma="Trinid" src="auto">NNIS4-----A----</AM>
-<AM lemma="Trinid_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Trinid_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Trinid_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Trinid_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Trinidad_:B_;G" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="trinid" src="auto">NNMS1-----A----</AM>
-<AM lemma="trinid-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="trinid-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
+<tag><AM lemma="Trinidad_:B_;G" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-118-p3s5w4">
@@ -964,16 +946,7 @@
 <LM>w#w-mf930701-118-p3s7w1</LM>
 </w.rf>
 <form>Valmon</form>
-<tag><AM lemma="Valmon_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Valmon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Valmon" src="auto">NNIS1-----A----</AM>
-<AM lemma="Valmon_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Valmon" src="auto">NNMS1-----A----</AM>
-<AM lemma="Valmon" src="auto">NNIS4-----A----</AM>
-<AM lemma="Valmon_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Valmon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Valmon_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="valmon" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Valmon_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-118-p3s7w2">
@@ -1067,16 +1040,7 @@
 <LM>w#w-mf930701-118-p3s8w1</LM>
 </w.rf>
 <form>Stree</form>
-<tag><AM lemma="Stree_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="Stree_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Stree_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Stree_;S" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Stree_;L_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Stree_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Stree_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Stree_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="Stree_,t" src="auto">ClXPX----------</AM>
-<AM lemma="stree" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Stree_;S" src="orig" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-118-p3s8w2">
@@ -1094,9 +1058,7 @@
 <LM>w#w-mf930701-118-p3s8w3</LM>
 </w.rf>
 <form>te</form>
-<tag><AM lemma="te_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="te_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="it_:W" src="auto">Vi-P---2--A----</AM>
+<tag><AM lemma="te_;S" src="orig" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-118-p3s8w4">
@@ -1141,16 +1103,7 @@
 <LM>w#w-mf930701-118-p3s8w8</LM>
 </w.rf>
 <form>ostr</form>
-<tag><AM lemma="ostrov_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ostr" src="auto">NNIS1-----A----</AM>
-<AM lemma="ostr" src="auto">NNIS4-----A----</AM>
-<AM lemma="ostr" src="auto">NNMS1-----A----</AM>
-<AM lemma="ostr_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ostr_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="ostrana-4_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ostrestní_:B_^(řád,_odpovědnost)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="ostrov_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ostrálie_:B_;G" src="auto">NNFXX-----A---8</AM>
+<tag><AM lemma="ostrov_:B" src="orig" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-118-p3s8w9">

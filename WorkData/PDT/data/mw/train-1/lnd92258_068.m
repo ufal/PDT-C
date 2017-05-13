@@ -371,11 +371,7 @@
 <LM>w#w-lnd92258-068-p4s1w5</LM>
 </w.rf>
 <form>Chižu</form>
-<tag><AM lemma="Chiža_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Chiža_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Chizat" src="auto">VB-S---1P-AA---</AM>
-<AM lemma="Chiža_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="chižu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Chiža_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-068-p4s1w6">
@@ -449,14 +445,7 @@
 <LM>w#w-lnd92258-068-p4s2w1</LM>
 </w.rf>
 <form>Chiža</form>
-<tag><AM lemma="Chiža_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chiža_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chiža_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chiža" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chiža" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chiž_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Chiž" src="auto">NNMS2-----A----</AM>
-<AM lemma="chiža" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Chiža_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-068-p4s2w2">
@@ -802,14 +791,7 @@
 <LM>w#w-lnd92258-068-p4s4w1</LM>
 </w.rf>
 <form>Chiža</form>
-<tag><AM lemma="Chiža_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chiža_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chiža_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chiža" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chiža" src="auto">NNFS1-----A----</AM>
-<AM lemma="Chiž_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Chiž" src="auto">NNMS2-----A----</AM>
-<AM lemma="chiža" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Chiža_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-068-p4s4w2">
@@ -1054,19 +1036,7 @@
 <LM>w#w-lnd92258-068-p4s5w12</LM>
 </w.rf>
 <form>OMON</form>
-<tag><AM lemma="OMON_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="OMON_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OMON_:B_;K_,t" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Omon" src="auto">NNIS1-----A----</AM>
-<AM lemma="Omon" src="auto">NNIS4-----A----</AM>
-<AM lemma="Omon" src="auto">NNMS1-----A----</AM>
-<AM lemma="Omon_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Omon_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Omon_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Omon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Omon_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="omon" src="auto">NNMS1-----A----</AM>
-<AM lemma="omon_,t_^(ve_spojení_mon-khmerský_jazyk)" src="auto">A2--------A----</AM>
+<tag><AM lemma="OMON_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-068-p4s5w13">
@@ -1358,16 +1328,7 @@
 <LM>w#w-lnd92258-068-p4s7w5</LM>
 </w.rf>
 <form>Chiži</form>
-<tag><AM lemma="Chiža_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Chiža_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Chiž" src="auto">NNFS3-----A----</AM>
-<AM lemma="Chiži_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Chiž" src="auto">NNFS6-----A----</AM>
-<AM lemma="Chiže" src="auto">NNFS4-----A----</AM>
-<AM lemma="Chiže" src="auto">NNFS6-----A----</AM>
-<AM lemma="Chiž_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Chiž" src="auto">NNMS3-----A----</AM>
-<AM lemma="chiži" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Chiža_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-068-p4s7w6">

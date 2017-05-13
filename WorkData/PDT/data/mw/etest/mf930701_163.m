@@ -1173,16 +1173,7 @@
 <LM>w#w-mf930701-163-p4s1w9</LM>
 </w.rf>
 <form>Džulemanovové</form>
-<tag><AM lemma="Džulemanovová_;S" src="orig">NNFS2-----A----</AM>
-<AM lemma="Džulemanovový" src="auto">AAFS2----1A----</AM>
-<AM lemma="Džulemanovová_;S" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Džulemanovový" src="auto">AAFS6----1A----</AM>
-<AM lemma="Džulemanovový" src="auto">AAFP1----1A----</AM>
-<AM lemma="Džulemanovový" src="auto">AAIP1----1A----</AM>
-<AM lemma="Džulemanovový" src="auto">AAIP4----1A----</AM>
-<AM lemma="Džulemanovový" src="auto">AAFP4----1A----</AM>
-<AM lemma="Džulemanovový" src="auto">AANS1----1A----</AM>
-<AM lemma="džulemanovové" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Džulemanovová_;S" src="orig" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-163-p4s1w10">

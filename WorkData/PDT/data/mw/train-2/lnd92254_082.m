@@ -124,15 +124,7 @@
 <LM>w#w-lnd92254-082-p2s2w4</LM>
 </w.rf>
 <form>Surya</form>
-<tag><AM lemma="Surya_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Surya_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Surya_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Surya_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Surya_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Suryo_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Surya" src="auto">NNFS1-----A----</AM>
-<AM lemma="Sury_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="surya" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Surya_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-082-p2s2w5">
@@ -204,16 +196,7 @@
 <LM>w#w-lnd92254-082-p2s2w12</LM>
 </w.rf>
 <form>Yuka</form>
-<tag><AM lemma="Yuka_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Yuk_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Yuka" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Yuk_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Yuk" src="auto">NNMS2-----A----</AM>
-<AM lemma="Yuk_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Yuk" src="auto">NNMS4-----A----</AM>
-<AM lemma="Yuka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Yuc_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="yuka" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Yuka_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-082-p2s2w13">

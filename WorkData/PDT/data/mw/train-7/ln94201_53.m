@@ -4809,16 +4809,7 @@
 <LM>w#w-ln94201-53-p10s3w2</LM>
 </w.rf>
 <form>Watch</form>
-<tag><AM lemma="Watch_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Watch_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Watch_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Watch_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Watch_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Watch_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Watch_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Watch_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wat" src="auto">AAFP2----1A----</AM>
-<AM lemma="watch" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Watch_;K_,t" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-53-p10s3w3">

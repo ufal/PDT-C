@@ -431,16 +431,7 @@
 <LM>w#w-mf930701-048-p2s3w11</LM>
 </w.rf>
 <form>Completto</form>
-<tag><AM lemma="Completto_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Completto_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Completto_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Completto_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Completto_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Completto_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Completto" src="auto">TT-------------</AM>
-<AM lemma="Completto" src="auto">NNNS4-----A----</AM>
-<AM lemma="Completto" src="auto">NNNS1-----A----</AM>
-<AM lemma="completto" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Completto_;K" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-048-p2s3w12">
@@ -496,13 +487,7 @@
 <LM>w#w-mf930701-048-p2s4w4</LM>
 </w.rf>
 <form>Schwaenbergský</form>
-<tag><AM lemma="Schwaenbergský" src="orig">AAIS1----1A----</AM>
-<AM lemma="Schwaenbergský" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="Schwaenbergský" src="auto">AAMS1----1A----</AM>
-<AM lemma="Schwaenbergský" src="auto">AAIS4----1A----</AM>
-<AM lemma="Schwaenbergský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Schwaenbergský_;S" src="auto">AAMS1----1A----</AM>
-<AM lemma="schwaenbergský" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Schwaenbergský" src="orig" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-048-p2s4w5">
@@ -538,16 +523,7 @@
 <LM>w#w-mf930701-048-p2s4w8</LM>
 </w.rf>
 <form>Doppelquartett</form>
-<tag><AM lemma="Doppelquartett_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Doppelquartett_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Doppelquartett_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Doppelquartett_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Doppelquartett-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Doppelquartett_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Doppelquartett_;R_^(časopis)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Doppelquartett_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Doppelquartett_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="doppelquartett" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Doppelquartett_;K" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-048-p2s4w9">

@@ -19,16 +19,7 @@
 <LM>w#w-lnd92254-100-p1s1w1</LM>
 </w.rf>
 <form>PREZIDENTÁRIUM</form>
-<tag><AM lemma="prezidentárium" src="orig">NNNS1-----A----</AM>
-<AM lemma="PREZIDENTÁRIUM_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PREZIDENTÁRIUM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PREZIDENTÁRIUM_:B_;K" src="auto">NNFXX-----A---8</AM>
-<AM lemma="RM_:B_;K_;b_^(PREZIDENTÁRIUM-systém)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Prezidentárium" src="auto">NNNS1-----A----</AM>
-<AM lemma="Prezidentárium" src="auto">NNNS4-----A----</AM>
-<AM lemma="Prezidentárium_;L_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Prezidentárium_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="prezidentárium" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="prezidentárium" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-100-p1s1w2">
@@ -801,15 +792,7 @@
 <LM>w#w-lnd92254-100-p2s1w2</LM>
 </w.rf>
 <form>jaf</form>
-<tag><AM lemma="jaf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jaf-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="jaf" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf" src="auto">NNIS4-----A----</AM>
-<AM lemma="jaf" src="auto">NNIS1-----A----</AM>
-<AM lemma="jaf_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="jaf_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="jaf_;R" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="jaf-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-100-p2s1w3">

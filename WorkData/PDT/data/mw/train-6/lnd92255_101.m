@@ -1311,15 +1311,7 @@
 <LM>w#w-lnd92255-101-p4s1w22</LM>
 </w.rf>
 <form>world</form>
-<tag><AM lemma="world_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="world_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="world_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="world_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="world_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="world_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="world_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="world_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="world_;K_,t" src="auto">AAXXX----1A----</AM>
+<tag><AM lemma="world_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-101-p4s1w23">
@@ -2172,16 +2164,7 @@
 <LM>w#w-lnd92255-101-p4s4w20</LM>
 </w.rf>
 <form>Kitaro</form>
-<tag><AM lemma="Kitaro_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kitaro_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kitarý" src="auto">A2--------A----</AM>
-<AM lemma="Kitaro_;S_;Y_;R" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kitaro_;R" src="auto">NNNS4-----A----</AM>
-<AM lemma="Kitaro-2_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kitaro" src="auto">NNNS4-----A----</AM>
-<AM lemma="Kitaro" src="auto">NNNS1-----A----</AM>
-<AM lemma="Kitaro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="kitaro" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kitaro_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-101-p4s4w21">
@@ -2217,18 +2200,7 @@
 <LM>w#w-lnd92255-101-p4s4w24</LM>
 </w.rf>
 <form>megastoru</form>
-<tag><AM lemma="megastore" src="orig">NNIS6-----A----</AM>
-<AM lemma="megastor" src="auto">NNIS2-----A----</AM>
-<AM lemma="megastor" src="auto">NNIS3-----A----</AM>
-<AM lemma="megastor" src="auto">NNIS6-----A----</AM>
-<AM lemma="megastor_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="megastor_;G" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="megastor_;K" src="auto">NNIS6-----A----</AM>
-<AM lemma="megastor_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="megastora" src="auto">NNFS4-----A----</AM>
-<AM lemma="megastorus_^(anuloid;;část_sloupu,_obloun;;výrůstek;;květní_lůžko)" src="auto">NNIS2-----A----</AM>
-<AM lemma="megastorus_^(anuloid;;část_sloupu,_obloun;;výrůstek;;květní_lůžko)" src="auto">NNIS3-----A----</AM>
-<AM lemma="megastorus_^(anuloid;;část_sloupu,_obloun;;výrůstek;;květní_lůžko)" src="auto">NNIS6-----A----</AM>
+<tag><AM lemma="megastore" src="orig" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-101-p4s4w25">
@@ -2320,16 +2292,7 @@
 <LM>w#w-lnd92255-101-p4s5w1</LM>
 </w.rf>
 <form>Kitaro</form>
-<tag><AM lemma="Kitaro_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kitaro_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kitarý" src="auto">A2--------A----</AM>
-<AM lemma="Kitaro_;S_;Y_;R" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kitaro_;R" src="auto">NNNS4-----A----</AM>
-<AM lemma="Kitaro-2_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kitaro" src="auto">NNNS4-----A----</AM>
-<AM lemma="Kitaro" src="auto">NNNS1-----A----</AM>
-<AM lemma="Kitaro_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="kitaro" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kitaro_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-101-p4s5w2">
@@ -2510,16 +2473,7 @@
 <LM>w#w-lnd92255-101-p4s5w21</LM>
 </w.rf>
 <form>Micus</form>
-<tag><AM lemma="Micus_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Micus_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Micus_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Micus_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Micus_;L_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Micus_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Micus_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Micus_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Micus_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="micus" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Micus_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-101-p4s5w22">
@@ -2803,16 +2757,7 @@
 <LM>w#w-lnd92255-101-p4s6w13</LM>
 </w.rf>
 <form>Votěcha</form>
-<tag><AM lemma="Vojtěch_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Votěch_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Votěcha_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Votěcha" src="auto">NNFS1-----A----</AM>
-<AM lemma="Votěch_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Votěch_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Votěch_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Votěch" src="auto">NNMS2-----A----</AM>
-<AM lemma="Votěcho" src="auto">NNNS2-----A----</AM>
-<AM lemma="votěcha" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Vojtěch_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-101-p4s6w14">

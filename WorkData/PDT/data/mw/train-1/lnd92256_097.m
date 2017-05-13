@@ -1685,16 +1685,7 @@
 <LM>w#w-lnd92256-097-p5s2w6</LM>
 </w.rf>
 <form>Kagiyma</form>
-<tag><AM lemma="Kagiyma_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kagiymum" src="auto">NNNP4-----A----</AM>
-<AM lemma="Kagiym_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kagiyma_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kagiyma" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kagiyma" src="auto">NNNS1-----A----</AM>
-<AM lemma="Kagiyma_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kagiyma" src="auto">NNNS4-----A----</AM>
-<AM lemma="Kagiyma_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="kagiyma" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kagiyma_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-097-p5s2w7">
@@ -1986,15 +1977,7 @@
 <LM>w#w-lnd92256-097-p5s4w7</LM>
 </w.rf>
 <form>Bonaliovou</form>
-<tag><AM lemma="Bonalyová_;S" src="orig">NNFS7-----A----</AM>
-<AM lemma="Bonaliový" src="auto">AAFS4----1A----</AM>
-<AM lemma="Bonaliový" src="auto">AAFS7----1A----</AM>
-<AM lemma="Bonaliová_;S" src="auto">NNFS7-----A----</AM>
-<AM lemma="Bonaliová_;S" src="auto">NNFS4-----A----</AM>
-<AM lemma="Bonaliova" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="Bonaliův_;S_^(*2)" src="auto">AUFS7M---------</AM>
-<AM lemma="Bonaliova_;G" src="auto">NNFS7-----A----</AM>
-<AM lemma="bonaliovou" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bonalyová_;S" src="orig" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-097-p5s4w8">
@@ -2198,16 +2181,7 @@
 <LM>w#w-lnd92256-097-p6s3w1</LM>
 </w.rf>
 <form>Kustorová</form>
-<tag><AM lemma="Kustorová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Kustorová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Kustorový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Kustorový" src="auto">AANP1----1A----</AM>
-<AM lemma="Kustorový" src="auto">AANP4----1A----</AM>
-<AM lemma="Kustorová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kustorová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kustorový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Kustorový" src="auto">AAFS5----1A----</AM>
-<AM lemma="kustorová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kustorová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-097-p6s3w2">
@@ -2225,16 +2199,7 @@
 <LM>w#w-lnd92256-097-p6s3w3</LM>
 </w.rf>
 <form>Osjanikov</form>
-<tag><AM lemma="Osjanikov_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Osjanikov_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Osjanikov_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Osjanikov_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Osjanikov" src="auto">NNIS4-----A----</AM>
-<AM lemma="Osjanikov" src="auto">NNIS1-----A----</AM>
-<AM lemma="Osjanik_;G_,t" src="auto">NNMP2-----A----</AM>
-<AM lemma="Osjanik-2_,t" src="auto">NNMP2-----A----</AM>
-<AM lemma="Osjanikov_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="osjanikov" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Osjanikov_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-097-p6s3w4">
@@ -2634,12 +2599,7 @@
 <LM>w#w-lnd92256-097-p6s11w1</LM>
 </w.rf>
 <form>Berezná</form>
-<tag><AM lemma="Berezná_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Berezný" src="auto">AAFS1----1A----</AM>
-<AM lemma="Berezný" src="auto">AANP4----1A----</AM>
-<AM lemma="Bereznat_:W" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Berezný" src="auto">AANP1----1A----</AM>
-<AM lemma="berezná" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Berezná_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-097-p6s11w2">

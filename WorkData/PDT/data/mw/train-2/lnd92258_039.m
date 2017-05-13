@@ -313,13 +313,7 @@
 <LM>w#w-lnd92258-039-p3s2w29</LM>
 </w.rf>
 <form>špúatně</form>
-<tag><AM lemma="špúatně" src="orig">Dg-------1A----</AM>
-<AM lemma="špúatně_^(*1í)" src="auto">Dg-------1A----</AM>
-<AM lemma="špúatně_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="špúatna" src="auto">NNFS6-----A----</AM>
-<AM lemma="vlastnit_:T_^(někdo_má_něco_ve_špúatnictví)" src="auto">VeYS------A----</AM>
-<AM lemma="špúatno" src="auto">NNNS6-----A----</AM>
-<AM lemma="špúatně_^(řád,_odpovědnost)_(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
+<tag><AM lemma="špúatně" src="orig" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-039-p3s2w30">
@@ -546,16 +540,7 @@
 <LM>w#w-lnd92258-039-p3s3w11</LM>
 </w.rf>
 <form>Imtiaz</form>
-<tag><AM lemma="Imtiaz_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Imtiaz_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Imtiaz_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Imtiaz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Imtiaz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Imtiaz_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Imtiazílie_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Imtiaza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Imtiaz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="imtiaz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Imtiaz_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-039-p3s3w12">
@@ -564,16 +549,7 @@
 <LM>w#w-lnd92258-039-p3s3w12</LM>
 </w.rf>
 <form>Šahín</form>
-<tag><AM lemma="Šahín_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Šahín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Šahín_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Šahín_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Šahín" src="auto">NNIS1-----A----</AM>
-<AM lemma="Šahín" src="auto">NNIS4-----A----</AM>
-<AM lemma="Šahín_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Šahín" src="auto">NNMS1-----A----</AM>
-<AM lemma="Šahína" src="auto">NNFP2-----A----</AM>
-<AM lemma="šahín" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Šahín_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-039-p3s3w13">

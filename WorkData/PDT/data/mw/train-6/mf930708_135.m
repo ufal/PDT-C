@@ -28,16 +28,7 @@
 <LM>w#w-mf930708-135-p1s1w2</LM>
 </w.rf>
 <form>Woodies</form>
-<tag><AM lemma="Woodies" src="orig">NNMPX-----A----</AM>
-<AM lemma="Woody_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Woodie_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Woody_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Woodies_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Woodies_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Woodies_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Woodies" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Woody_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="woodies" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Woodies" src="orig" selected="1">NNMPX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-135-p1s1w3">
@@ -111,14 +102,7 @@
 <LM>w#w-mf930708-135-p2s1w5</LM>
 </w.rf>
 <form>čen</form>
-<tag><AM lemma="čen-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="čit_:W" src="auto" recommended="1">VsYS---XX-AP---</AM>
-<AM lemma="čit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="knout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čit_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="knout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čet_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čet" src="auto">VsYS---XX-AP---</AM>
+<tag><AM lemma="čen-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-135-p2s1w6">
@@ -769,16 +753,7 @@
 <LM>w#w-mf930708-135-p2s3w20</LM>
 </w.rf>
 <form>Woodies</form>
-<tag><AM lemma="Woodies" src="orig">NNMPX-----A----</AM>
-<AM lemma="Woody_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Woodie_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Woody_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Woodies_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Woodies_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Woodies_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Woodies" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Woody_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="woodies" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Woodies" src="orig" selected="1">NNMPX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-135-p2s3w21">
@@ -834,16 +809,7 @@
 <LM>w#w-mf930708-135-p3s1w4</LM>
 </w.rf>
 <form>Australian</form>
-<tag><AM lemma="Australian_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Australian_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australian_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australian_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Australian_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Australián_;Y_,x" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australián_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Australianum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Australiano" src="auto">NNNP2-----A----</AM>
-<AM lemma="australian" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Australian_;m_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-135-p3s1w5">
@@ -888,16 +854,7 @@
 <LM>w#w-mf930708-135-p3s1w9</LM>
 </w.rf>
 <form>Woodies</form>
-<tag><AM lemma="Woodies" src="orig">NNMPX-----A----</AM>
-<AM lemma="Woody_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Woodie_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Woody_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Woodies_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Woodies_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Woodies_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Woodies" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Woody_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="woodies" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Woodies" src="orig" selected="1">NNMPX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-135-p3s1w10">
@@ -1138,16 +1095,7 @@
 <LM>w#w-mf930708-135-p3s3w11</LM>
 </w.rf>
 <form>McEnroem</form>
-<tag><AM lemma="McEnroe_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="McEnroe_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="McEnroe-1_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="McEnro" src="auto">NNIS7-----A----</AM>
-<AM lemma="McEnro_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="McEnro" src="auto">NNMS7-----A----</AM>
-<AM lemma="McEnroo" src="auto">NNNS7-----A----</AM>
-<AM lemma="McEnro_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="McEnro_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Mcenroem" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="McEnroe_;S" src="orig" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-135-p3s3w12">
@@ -1450,16 +1398,7 @@
 <LM>w#w-mf930708-135-p3s6w2</LM>
 </w.rf>
 <form>Woodies</form>
-<tag><AM lemma="Woodies" src="orig">NNMPX-----A----</AM>
-<AM lemma="Woody_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Woodie_,t" src="auto">NNXPX-----A----</AM>
-<AM lemma="Woody_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Woodies_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="Woodies_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Woodies_;K_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="Woodies" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="Woody_;m_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="woodies" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Woodies" src="orig" selected="1">NNMPX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-135-p3s6w3">

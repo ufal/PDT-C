@@ -4818,19 +4818,7 @@
 <LM>w#w-lnd92256-098-p9s1w4</LM>
 </w.rf>
 <form>dop</form>
-<tag><AM lemma="dop-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="dop" src="auto">NNIS1-----A----</AM>
-<AM lemma="dop" src="auto">NNIS4-----A----</AM>
-<AM lemma="dop" src="auto">NNMS1-----A----</AM>
-<AM lemma="dop-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="dop-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="dop_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="dop_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="dop_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="dopage_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="dopodnik_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="dopopisný_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="stop-1_^(zastavení,_i_dopování)" src="auto">NNIS4-----A----</AM>
+<tag><AM lemma="dop-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-098-p9s1w5">

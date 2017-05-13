@@ -1661,15 +1661,7 @@
 <LM>w#w-lnd92255-103-p4s4w2</LM>
 </w.rf>
 <form>Železňaka</form>
-<tag><AM lemma="Železňak_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Železňak_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Železňak_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Železňak" src="auto">NNMS4-----A----</AM>
-<AM lemma="Železňaka_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Železňaka" src="auto">NNFS1-----A----</AM>
-<AM lemma="Železňaco_;Y" src="auto">NNMS2-----A---1</AM>
-<AM lemma="Železňakum" src="auto">NNNP4-----A----</AM>
-<AM lemma="železňaka" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Železňak_;S" src="orig" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-103-p4s4w3">

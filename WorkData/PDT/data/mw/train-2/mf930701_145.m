@@ -310,14 +310,7 @@
 <LM>w#w-mf930701-145-p9s1w5</LM>
 </w.rf>
 <form>hud</form>
-<tag><AM lemma="hudební_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="hudební_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="hud" src="auto">Db-------------</AM>
-<AM lemma="hud" src="auto">NNIS1-----A----</AM>
-<AM lemma="hud_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="hud" src="auto">NNIS4-----A----</AM>
-<AM lemma="hud" src="auto">J,-------------</AM>
-<AM lemma="huda" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="hudební_:B" src="orig" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p9s1w6">
@@ -598,23 +591,7 @@
 <LM>w#w-mf930701-145-p15s1w4</LM>
 </w.rf>
 <form>Hap</form>
-<tag><AM lemma="hap" src="orig">II-------------</AM>
-<AM lemma="Hap" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hap-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Hap" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hapa" src="auto">NNFP2-----A----</AM>
-<AM lemma="Hap_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Haponsko_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Hapod_:B_^(a_podobně)" src="auto">Db------------9</AM>
-<AM lemma="Hapod-1_:B_^(a_podobně)" src="auto">Db------------8</AM>
-<AM lemma="hap" src="auto" recommended="1">II-------------</AM>
-<AM lemma="hap" src="auto">NNIS1-----A----</AM>
-<AM lemma="hap-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="hap" src="auto">NNIS4-----A----</AM>
-<AM lemma="hapa" src="auto">NNFP2-----A----</AM>
-<AM lemma="hap_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="haponsko_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="hapod_:B_^(a_podobně)" src="auto">Db------------9</AM>
+<tag><AM lemma="hap" src="orig" selected="1">II-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p15s1w5">
@@ -730,15 +707,7 @@
 <LM>w#w-mf930701-145-p19s1w2</LM>
 </w.rf>
 <form>Vital</form>
-<tag><AM lemma="vital_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Vital_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Vital_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Vital_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vitat" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Vitat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="Vitat_:W" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="vital" src="auto">NNMS1-----A----</AM>
-<AM lemma="vitala" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="vital_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 </s>
@@ -1410,16 +1379,7 @@
 <LM>w#w-mf930701-145-p31s1w2</LM>
 </w.rf>
 <form>Classic</form>
-<tag><AM lemma="classic_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Classice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Classic_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Classic_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Classic_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="music_,t_^(př._pop_Classic)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Classic_;u_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Classic_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Classic_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="classic" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="classic_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p31s1w3">
@@ -1533,24 +1493,7 @@
 <LM>w#w-mf930701-145-p34s1w2</LM>
 </w.rf>
 <form>HIPS</form>
-<tag><AM lemma="HIPS_;R" src="orig">NNXXX-----A----</AM>
-<AM lemma="HIPS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HIPS_;R" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="HIPS_:B_;K" src="auto">NNFPX-----A---8</AM>
-<AM lemma="HIPS_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="HIPS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HIPS-4_:B_;K_,t_^(Algérie_Presse_Service)" src="auto">NNFXX-----A----</AM>
-<AM lemma="HIPS-3_:B_;K_^(Přerovské_strojírny)" src="auto">NNFPX-----A---8</AM>
-<AM lemma="HIPS-2_:B_^(Závody_přesného_strojírenství)" src="auto">NNIPX-----A---8</AM>
-<AM lemma="Hip_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Hips_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hips_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hips_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Hips_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Hips_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Hips_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Hips-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="hips" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="HIPS_;R" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1924,24 +1867,7 @@
 <LM>w#w-mf930701-145-p43s1w2</LM>
 </w.rf>
 <form>HIPS</form>
-<tag><AM lemma="HIPS_;R" src="orig">NNXXX-----A----</AM>
-<AM lemma="HIPS_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HIPS_;R" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="HIPS_:B_;K" src="auto">NNFPX-----A---8</AM>
-<AM lemma="HIPS_:B_;K_,t" src="auto">NNFXX-----A---8</AM>
-<AM lemma="HIPS_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HIPS-4_:B_;K_,t_^(Algérie_Presse_Service)" src="auto">NNFXX-----A----</AM>
-<AM lemma="HIPS-3_:B_;K_^(Přerovské_strojírny)" src="auto">NNFPX-----A---8</AM>
-<AM lemma="HIPS-2_:B_^(Závody_přesného_strojírenství)" src="auto">NNIPX-----A---8</AM>
-<AM lemma="Hip_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Hips_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hips_;L_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hips_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Hips_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Hips_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Hips_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="Hips-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="hips" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="HIPS_;R" src="orig" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2503,16 +2429,7 @@
 <LM>w#w-mf930701-145-p58s1w2</LM>
 </w.rf>
 <form>Fotofast</form>
-<tag><AM lemma="Fotofast_;m" src="orig">AAXXX----1A----</AM>
-<AM lemma="Fotofast" src="auto">NNFS4-----A----</AM>
-<AM lemma="Fotofast" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fotofast_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fotofast_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Fotofast_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fotofast" src="auto">NNIS4-----A----</AM>
-<AM lemma="Fotofast" src="auto">NNIS1-----A----</AM>
-<AM lemma="Fotofasta" src="auto">NNFP2-----A----</AM>
-<AM lemma="fotofast" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Fotofast_;m" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p58s1w3">
@@ -2950,23 +2867,7 @@
 <LM>w#w-mf930701-145-p70s1w2</LM>
 </w.rf>
 <form>HAZ</form>
-<tag><AM lemma="HAZ" src="orig">AAXXX----1A----</AM>
-<AM lemma="HAZ" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="AZ-2_:B_;K_^(např._HAZ_agentura)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="HAZ_:B_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="HAZ-2_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HAZ-2_:B_;K_^(sdružené_ambulantní_zařízení)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="HAZ_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HAZ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Haz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Haz" src="auto">NNIS1-----A----</AM>
-<AM lemma="Haz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Haz_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Haz_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hazílie_:B_;G" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Haza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Haz_;R_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="haz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="HAZ" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p70s1w3">
@@ -3046,15 +2947,7 @@
 <LM>w#w-mf930701-145-p73s1w2</LM>
 </w.rf>
 <form>Headline</form>
-<tag><AM lemma="headline_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Headlinout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Headline_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Headline_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Headline_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Headline_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Headline_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Headline_;U_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="headline" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="headline_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p73s1w3">
@@ -3097,16 +2990,7 @@
 <LM>w#w-mf930701-145-p74s1w2</LM>
 </w.rf>
 <form>World</form>
-<tag><AM lemma="world_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="World_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="World_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="world" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="world_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p74s1w3">
@@ -3136,15 +3020,7 @@
 <LM>w#w-mf930701-145-p75s1w2</LM>
 </w.rf>
 <form>Headline</form>
-<tag><AM lemma="headline_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Headlinout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Headline_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Headline_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Headline_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Headline_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Headline_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Headline_;U_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="headline" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="headline_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p75s1w3">
@@ -3187,16 +3063,7 @@
 <LM>w#w-mf930701-145-p76s1w2</LM>
 </w.rf>
 <form>World</form>
-<tag><AM lemma="world_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="World_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="World_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="world" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="world_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p76s1w3">
@@ -3226,15 +3093,7 @@
 <LM>w#w-mf930701-145-p77s1w2</LM>
 </w.rf>
 <form>Moneyline</form>
-<tag><AM lemma="Moneyline_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Moneylinout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Moneyline_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Moneyline_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Moneyline_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Moneyline_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Moneyline_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Moneyline_;U_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="moneyline" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Moneyline_;R_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -3255,16 +3114,7 @@
 <LM>w#w-mf930701-145-p78s1w2</LM>
 </w.rf>
 <form>Worldwide</form>
-<tag><AM lemma="worldwide_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Worldwide_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Worldwide_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Worldwide_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Worldwide_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Worldwide_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Worldwide_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Worldwide_;G_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Worldwide_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="worldwide" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="worldwide_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p78s1w3">
@@ -3298,15 +3148,7 @@
 <LM>w#w-mf930701-145-p79s1w2</LM>
 </w.rf>
 <form>Headline</form>
-<tag><AM lemma="headline_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Headlinout" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="Headline_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Headline_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Headline_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Headline_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Headline_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Headline_;U_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="headline" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="headline_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p79s1w3">
@@ -3358,16 +3200,7 @@
 <LM>w#w-mf930701-145-p80s1w3</LM>
 </w.rf>
 <form>Newsroom</form>
-<tag><AM lemma="newsroom_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Newsroom_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Newsroom_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Newsroom" src="auto">NNIS1-----A----</AM>
-<AM lemma="Newsroom" src="auto">NNIS4-----A----</AM>
-<AM lemma="Newsroom_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Newsroom" src="auto">NNMS1-----A----</AM>
-<AM lemma="Newsroom_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Newsroom" src="auto">Db-------------</AM>
-<AM lemma="newsroom" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="newsroom_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -3447,16 +3280,7 @@
 <LM>w#w-mf930701-145-p83s1w3</LM>
 </w.rf>
 <form>Morning</form>
-<tag><AM lemma="morning_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Morning_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Morning" src="auto">NNIS4-----A----</AM>
-<AM lemma="Morning_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Morning" src="auto">NNIS1-----A----</AM>
-<AM lemma="Morning_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Morning_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Morning_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Morning_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="morning" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="morning_,t" src="orig" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -3476,16 +3300,7 @@
 <LM>w#w-mf930701-145-p84s1w2</LM>
 </w.rf>
 <form>World</form>
-<tag><AM lemma="world_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="World_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="World_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="world" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="world_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p84s1w3">
@@ -3548,16 +3363,7 @@
 <LM>w#w-mf930701-145-p86s1w2</LM>
 </w.rf>
 <form>World</form>
-<tag><AM lemma="world_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="World_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="World_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;m" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="World_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="World_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="world" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="world_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p86s1w3">
@@ -3827,15 +3633,7 @@
 <LM>w#w-mf930701-145-p93s1w2</LM>
 </w.rf>
 <form>Showbiz</form>
-<tag><AM lemma="showbiz_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Showbiz_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Showbiz_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Showbiz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Showbíza" src="auto">NNFP2-----A----</AM>
-<AM lemma="Showbizstán_:B_;G" src="auto">NNISX-----A----</AM>
-<AM lemma="Showbizozemí_:B_;G" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Showbiza" src="auto">NNFP2-----A----</AM>
-<AM lemma="showbiz" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="showbiz_,t" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p93s1w3">
@@ -3844,16 +3642,7 @@
 <LM>w#w-mf930701-145-p93s1w3</LM>
 </w.rf>
 <form>Today</form>
-<tag><AM lemma="today_,t" src="orig">Db-------------</AM>
-<AM lemma="Today_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Today_,t" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="Today_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Today_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Today_;R_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Today_;R_,t" src="auto">Db-------------</AM>
-<AM lemma="Today_;R_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Today_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="today" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="today_,t" src="orig" selected="1">Db-------------</AM>
 </tag>
 </m>
 </s>

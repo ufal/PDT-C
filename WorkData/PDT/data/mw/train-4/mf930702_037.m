@@ -3074,16 +3074,7 @@
 <LM>w#w-mf930702-037-p6s1w14</LM>
 </w.rf>
 <form>Entreprise</form>
-<tag><AM lemma="Entreprise_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Entrepris_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Entrepris" src="auto">NNIS6-----A----</AM>
-<AM lemma="Entrepris_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Entreprise" src="auto">NNFS2-----A----</AM>
-<AM lemma="Entrepris_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Entreprise" src="auto">NNFS1-----A----</AM>
-<AM lemma="Entreprise" src="auto">NNFP4-----A----</AM>
-<AM lemma="Entreprise" src="auto">NNFP1-----A----</AM>
-<AM lemma="entreprise" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Entreprise_;K_,t" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-037-p6s1w15">

@@ -538,16 +538,7 @@
 <LM>w#w-lnd92256-104-p2s3w14</LM>
 </w.rf>
 <form>Subotisa</form>
-<tag><AM lemma="Subotisa_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Subotisa_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Subotiso_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Subotiso_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Subotisa_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Subotisa_;R_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Subotisa_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Subotisa_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Subotisa" src="auto">NNFS1-----A----</AM>
-<AM lemma="subotisa" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Subotisa_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-104-p2s3w15">
@@ -610,16 +601,7 @@
 <LM>w#w-lnd92256-104-p2s3w21</LM>
 </w.rf>
 <form>Devious</form>
-<tag><AM lemma="Devious_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Devious_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Devious_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Devious_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Devious_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Devious_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Devious_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Devious" src="auto">NNIS1-----A----</AM>
-<AM lemma="Devious" src="auto">NNIS4-----A----</AM>
-<AM lemma="devious" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Devious_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-104-p2s3w22">
@@ -674,16 +656,7 @@
 <LM>w#w-lnd92256-104-p2s3w27</LM>
 </w.rf>
 <form>Marling</form>
-<tag><AM lemma="Marling_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Marling_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Marling" src="auto">NNIS4-----A----</AM>
-<AM lemma="Marling_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Marling" src="auto">NNIS1-----A----</AM>
-<AM lemma="Marling_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Marling_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Marling_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Marling_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="marling" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Marling_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-104-p2s3w28">
@@ -811,16 +784,7 @@
 <LM>w#w-lnd92256-104-p2s4w13</LM>
 </w.rf>
 <form>Strike</form>
-<tag><AM lemma="Strike_;Y_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="Strike_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Strika_,t" src="auto">NNFS6-----A----</AM>
-<AM lemma="Strike_;Y_,t" src="auto">NNMSX-----A----</AM>
-<AM lemma="Strike_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Strike_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Strike_,t" src="auto">J^-------------</AM>
-<AM lemma="Strike_,t" src="auto">J,-------------</AM>
-<AM lemma="Strike" src="auto">NNIS1-----A----</AM>
-<AM lemma="strike" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Strike_;Y_,t" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-104-p2s4w14">
@@ -918,15 +882,7 @@
 <LM>w#w-lnd92256-104-p3s1w2</LM>
 </w.rf>
 <form>mmz</form>
-<tag><AM lemma="mmz-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mmz-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="mmz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="mmz" src="auto">NNIS4-----A----</AM>
-<AM lemma="mmz" src="auto">NNIS1-----A----</AM>
-<AM lemma="mmza" src="auto">NNFP2-----A----</AM>
-<AM lemma="mmz_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="mmz_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="mms" src="auto">NNIS1-----A----</AM>
+<tag><AM lemma="mmz-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-104-p3s1w3">

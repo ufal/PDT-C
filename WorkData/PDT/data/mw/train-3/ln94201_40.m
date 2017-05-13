@@ -4351,42 +4351,7 @@
 <LM>w#w-ln94201-40-p6s7w5</LM>
 </w.rf>
 <form>subboreální</form>
-<tag><AM lemma="subboreální" src="orig">AAFS6----1A----</AM>
-<AM lemma="subboreální" src="auto">AAFP4----1A----</AM>
-<AM lemma="subboreální" src="auto">AAFS1----1A----</AM>
-<AM lemma="subboreální" src="auto">AAFS2----1A----</AM>
-<AM lemma="subboreální" src="auto">AAFS4----1A----</AM>
-<AM lemma="subboreální" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="subboreální" src="auto">AAIS1----1A----</AM>
-<AM lemma="subboreální" src="auto">AAIS4----1A----</AM>
-<AM lemma="subboreální" src="auto">AANS1----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAFP1----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAFP4----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAFP5----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAFS1----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAFS2----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAFS3----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAFS4----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAFS5----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAFS6----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAFS7----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAIP1----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAIP4----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAIP5----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAIS1----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAIS4----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAIS5----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAMP1----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAMP4----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAMP5----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAMS1----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AAMS5----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AANP1----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AANP4----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AANP5----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AANS1----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AANS4----1A----</AM>
-<AM lemma="subboreální_^(vztahující_se_k_geolog._období;;severský)" src="auto">AANS5----1A----</AM>
+<tag><AM lemma="subboreální" src="orig" selected="1">AAFS6----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-40-p6s7w6">

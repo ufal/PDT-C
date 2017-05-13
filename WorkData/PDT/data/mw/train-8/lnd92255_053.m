@@ -66,15 +66,7 @@
 <LM>w#w-lnd92255-053-p2s1w3</LM>
 </w.rf>
 <form>zšá</form>
-<tag><AM lemma="zšá-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="zšá-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="zšý" src="auto">AAFS1----1A----</AM>
-<AM lemma="zšá_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="zšat_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="zšý" src="auto">AANP1----1A----</AM>
-<AM lemma="zšý" src="auto">AANP4----1A----</AM>
-<AM lemma="zšý_^(*2t)" src="auto">AAFS1----1A----</AM>
-<AM lemma="zšý_^(*3it)" src="auto">AAFS1----1A----</AM>
+<tag><AM lemma="zšá-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-053-p2s1w4">
@@ -240,16 +232,7 @@
 <LM>w#w-lnd92255-053-p2s3w6</LM>
 </w.rf>
 <form>Hŕnko</form>
-<tag><AM lemma="Hŕnko_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hŕnko_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hŕnko_,e" src="auto">NNNS4-----A----</AM>
-<AM lemma="Hŕnko_,e" src="auto">NNNS1-----A----</AM>
-<AM lemma="Hŕnka" src="auto">NNFS5-----A----</AM>
-<AM lemma="Hŕnko_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hŕnko_,s" src="auto">NNNS1-----A----</AM>
-<AM lemma="Hŕnko-1" src="auto">Db-------------</AM>
-<AM lemma="Hŕnko" src="auto">NNNS4-----A----</AM>
-<AM lemma="hŕnko" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hŕnko_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-053-p2s3w7">
@@ -647,16 +630,7 @@
 <LM>w#w-lnd92255-053-p2s4w3</LM>
 </w.rf>
 <form>Hŕnko</form>
-<tag><AM lemma="Hŕnko_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hŕnko_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hŕnko_,e" src="auto">NNNS4-----A----</AM>
-<AM lemma="Hŕnko_,e" src="auto">NNNS1-----A----</AM>
-<AM lemma="Hŕnka" src="auto">NNFS5-----A----</AM>
-<AM lemma="Hŕnko_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hŕnko_,s" src="auto">NNNS1-----A----</AM>
-<AM lemma="Hŕnko-1" src="auto">Db-------------</AM>
-<AM lemma="Hŕnko" src="auto">NNNS4-----A----</AM>
-<AM lemma="hŕnko" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Hŕnko_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-053-p2s4w4">

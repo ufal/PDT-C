@@ -3402,16 +3402,7 @@
 <LM>w#w-mf930703-093-p16s3w3</LM>
 </w.rf>
 <form>Kristie</form>
-<tag><AM lemma="Kristie_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kristie" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Kristie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Kristie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Kristie" src="auto">NNFP1-----A----</AM>
-<AM lemma="tie_,t_^(Kristie-break)" src="auto">A2--------A----</AM>
-<AM lemma="Kristie_;m_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Kristie_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kristie_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="kristie" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kristie_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-093-p16s3w4">
@@ -4926,15 +4917,7 @@
 <LM>w#w-mf930703-093-p22s4w8</LM>
 </w.rf>
 <form>rights</form>
-<tag><AM lemma="right_,t" src="orig">NNIPX-----A----</AM>
-<AM lemma="right_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="rights_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="right_;K_,t" src="auto">NNIPX-----A----</AM>
-<AM lemma="rights_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="right_;K_,t" src="auto">NNFPX-----A----</AM>
-<AM lemma="right_,t" src="auto" recommended="1">VB-S---3P-AA---</AM>
-<AM lemma="right_,t" src="auto">NNMPX-----A----</AM>
-<AM lemma="rights_;K_,t" src="auto">NNMPX-----A----</AM>
+<tag><AM lemma="right_,t" src="orig" selected="1">NNIPX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-093-p22s4w9">

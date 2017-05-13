@@ -37,17 +37,7 @@
 <LM>w#w-lnd92254-021-p1s1w3</LM>
 </w.rf>
 <form>PODKARPAT</form>
-<tag><AM lemma="Podkarpaty_;G" src="orig">NNFP2-----A----</AM>
-<AM lemma="PODKARPAT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="PODKARPAT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Podkarpat" src="auto">NNMS1-----A----</AM>
-<AM lemma="Podkarpat" src="auto">Vf--------A----</AM>
-<AM lemma="Podkarpat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="Podkarpat_:W" src="auto">Vf--------A----</AM>
-<AM lemma="Podkarpaty_;G" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="podkarpat" src="auto">NNMS1-----A----</AM>
-<AM lemma="podkarpat_;L_^(geologické_období)" src="auto">NNIS1-----A----</AM>
-<AM lemma="podkarpat_;L_^(geologické_období)" src="auto">NNIS4-----A----</AM>
+<tag><AM lemma="Podkarpaty_;G" src="orig" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 </s>

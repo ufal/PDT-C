@@ -66,14 +66,7 @@
 <LM>w#w-mf930708-133-p2s1w3</LM>
 </w.rf>
 <form>čen</form>
-<tag><AM lemma="čen-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="čit_:W" src="auto" recommended="1">VsYS---XX-AP---</AM>
-<AM lemma="čit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="knout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čit_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="knout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čet_:T" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="čet" src="auto">VsYS---XX-AP---</AM>
+<tag><AM lemma="čen-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-133-p2s1w4">
@@ -802,23 +795,7 @@
 <LM>w#w-mf930708-133-p2s5w3</LM>
 </w.rf>
 <form>All</form>
-<tag><AM lemma="All_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="All_;m_,t" src="auto">PLNS4----------</AM>
-<AM lemma="All_;K_,t" src="auto">PLXXX----------</AM>
-<AM lemma="All_;K_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="All_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="All_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="All_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="All_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="All_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="all_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="all_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;w_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="all_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;R_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="all_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="all_,t_^(řec._jinak)" src="auto">Db-------------</AM>
+<tag><AM lemma="All_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-133-p2s5w4">
@@ -827,16 +804,7 @@
 <LM>w#w-mf930708-133-p2s5w4</LM>
 </w.rf>
 <form>England</form>
-<tag><AM lemma="England_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="England_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="England_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="England_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="England_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Englanda_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="England_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="England_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Englando" src="auto">NNNP2-----A----</AM>
-<AM lemma="england" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="England_;K_,t" src="orig" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-133-p2s5w5">

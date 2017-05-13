@@ -19,19 +19,7 @@
 <LM>w#w-lnd92254-044-p1s1w1</LM>
 </w.rf>
 <form>KSH</form>
-<tag><AM lemma="KSH_:B_;K_^(Křesťanskosociální_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KSH_:B_;K_^(Křesťanskosociální_hnutí)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="KSH-1_:B_;K_^(Český_svaz_házené)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="KSH_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ksh_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ksh_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ksh_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Ksh_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ksh_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ksh_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Ksh_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ksh_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ksh" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="KSH_:B_;K_^(Křesťanskosociální_hnutí)" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-044-p1s1w2">
@@ -108,19 +96,7 @@
 <LM>w#w-lnd92254-044-p2s2w4</LM>
 </w.rf>
 <form>KSH</form>
-<tag><AM lemma="KSH_:B_;K_^(Křesťanskosociální_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KSH_:B_;K_^(Křesťanskosociální_hnutí)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="KSH-1_:B_;K_^(Český_svaz_házené)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="KSH_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ksh_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ksh_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ksh_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Ksh_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ksh_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ksh_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Ksh_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ksh_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ksh" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="KSH_:B_;K_^(Křesťanskosociální_hnutí)" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-044-p2s2w5">
@@ -493,19 +469,7 @@
 <LM>w#w-lnd92254-044-p2s4w1</LM>
 </w.rf>
 <form>KSH</form>
-<tag><AM lemma="KSH_:B_;K_^(Křesťanskosociální_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KSH_:B_;K_^(Křesťanskosociální_hnutí)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="KSH-1_:B_;K_^(Český_svaz_házené)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="KSH_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ksh_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ksh_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ksh_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Ksh_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ksh_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ksh_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Ksh_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ksh_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ksh" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="KSH_:B_;K_^(Křesťanskosociální_hnutí)" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-044-p2s4w2">
@@ -669,19 +633,7 @@
 <LM>w#w-lnd92254-044-p2s5w1</LM>
 </w.rf>
 <form>KSH</form>
-<tag><AM lemma="KSH_:B_;K_^(Křesťanskosociální_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="KSH_:B_;K_^(Křesťanskosociální_hnutí)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="KSH-1_:B_;K_^(Český_svaz_házené)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="KSH_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ksh_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ksh_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ksh_;R_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Ksh_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Ksh_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Ksh_;K_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Ksh_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Ksh_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="ksh" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="KSH_:B_;K_^(Křesťanskosociální_hnutí)" src="orig" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-044-p2s5w2">

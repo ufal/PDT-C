@@ -412,15 +412,7 @@
 <LM>w#w-lnd92253-071-p3s1w29</LM>
 </w.rf>
 <form>exslavistického</form>
-<tag><AM lemma="exslavistický" src="orig">AAMS2----1A----</AM>
-<AM lemma="exslavistický" src="auto">AAIS2----1A----</AM>
-<AM lemma="exslavistický" src="auto" recommended="1">AAMS2----1A----</AM>
-<AM lemma="exslavistický" src="auto">AAMS4----1A----</AM>
-<AM lemma="exslavistický" src="auto">AANS2----1A----</AM>
-<AM lemma="exslavistický_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="exslavistický_^(*2t)" src="auto">AAIS2----1A----</AM>
-<AM lemma="exslavistický_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="exslavistický_^(*3it)" src="auto">AAIS2----1A----</AM>
+<tag><AM lemma="exslavistický" src="orig" selected="1">AAMS2----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-071-p3s1w30">

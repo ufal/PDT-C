@@ -93,15 +93,7 @@
 <LM>w#w-mf930701-002-p2s1w3</LM>
 </w.rf>
 <form>jem</form>
-<tag><AM lemma="jem-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="j" src="auto">NNIS7-----A----</AM>
-<AM lemma="jem" src="auto">NNIS4-----A----</AM>
-<AM lemma="jem" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="j_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="j" src="auto">NNMS7-----A----</AM>
-<AM lemma="prodej_^(akt_je_zboží)" src="auto">NNIS7-----A----</AM>
-<AM lemma="odprodej_^(akt_je_zboží)" src="auto">NNIS7-----A----</AM>
-<AM lemma="j_;S" src="auto">NNMS7-----A----</AM>
+<tag><AM lemma="jem-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-002-p2s1w4">

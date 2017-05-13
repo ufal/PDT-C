@@ -147,21 +147,7 @@
 <LM>w#w-mf930701-101-p1s2w3</LM>
 </w.rf>
 <form>Prairie</form>
-<tag><AM lemma="Prairie_;G" src="orig">NNFSX-----A----</AM>
-<AM lemma="Prairie" src="auto">NNFP1-----A----</AM>
-<AM lemma="Prairie" src="auto">NNFP4-----A----</AM>
-<AM lemma="Prairie" src="auto">NNFS1-----A----</AM>
-<AM lemma="Prairie" src="auto">NNFS2-----A----</AM>
-<AM lemma="Prairie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Prairie_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Prairie_;R_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Prairie_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="prairia_,t_^(záliv_podobný_fjordu)" src="auto">NNFP1-----A----</AM>
-<AM lemma="prairia_,t_^(záliv_podobný_fjordu)" src="auto">NNFP4-----A----</AM>
-<AM lemma="prairia_,t_^(záliv_podobný_fjordu)" src="auto">NNFP5-----A----</AM>
-<AM lemma="prairia_,t_^(záliv_podobný_fjordu)" src="auto">NNFS2-----A----</AM>
-<AM lemma="prairia_,t_^(záliv_podobný_fjordu)" src="auto">NNFS5-----A----</AM>
-<AM lemma="prairie" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Prairie_;G" src="orig" selected="1">NNFSX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-101-p1s2w4">

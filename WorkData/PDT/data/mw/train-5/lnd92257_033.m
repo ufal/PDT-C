@@ -77,15 +77,7 @@
 <LM>w#w-lnd92257-033-p3s1w3</LM>
 </w.rf>
 <form>kp</form>
-<tag><AM lemma="kp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kp-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="kp" src="auto">NNIS1-----A----</AM>
-<AM lemma="kp" src="auto">NNIS4-----A----</AM>
-<AM lemma="kp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kp" src="auto">NNMS1-----A----</AM>
-<AM lemma="kp_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="kp_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="kpa" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="kp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-033-p3s1w4">

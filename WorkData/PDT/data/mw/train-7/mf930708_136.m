@@ -1144,16 +1144,7 @@
 <LM>w#w-mf930708-136-p3s6w1</LM>
 </w.rf>
 <form>Jarryd</form>
-<tag><AM lemma="Jarryd_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jarryd_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Jarryd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Floyd_;K_,t_^(Pink_Jarryd)" src="auto">NNMPX-----A----</AM>
-<AM lemma="Jarrydy_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Jarryd_;K_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Jarryd_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Jarryd" src="auto">NNIS4-----A----</AM>
-<AM lemma="Jarryd" src="auto">NNIS1-----A----</AM>
-<AM lemma="jarryd" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Jarryd_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-136-p3s6w2">

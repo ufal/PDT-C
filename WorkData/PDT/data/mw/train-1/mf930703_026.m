@@ -560,16 +560,7 @@
 <LM>w#w-mf930703-026-p3s1w10</LM>
 </w.rf>
 <form>PNPresse</form>
-<tag><AM lemma="PNPresse_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="PNPress_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="PNPresse_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="PNPress_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="PNPresse_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="PNPresse_;m" src="auto">NNIXX-----A----</AM>
-<AM lemma="PNPresse_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="PNPresse_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="PNPresse_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pnpresse" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="PNPresse_;K" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p3s1w11">
@@ -652,16 +643,7 @@
 <LM>w#w-mf930703-026-p3s2w8</LM>
 </w.rf>
 <form>Kapfinger</form>
-<tag><AM lemma="Kapfinger_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kapfinžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kapfinger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kapfinger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kapfinger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="kapfinger" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kapfinger_;K" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p3s2w9">
@@ -1681,16 +1663,7 @@
 <LM>w#w-mf930703-026-p6s1w3</LM>
 </w.rf>
 <form>Kapfinger</form>
-<tag><AM lemma="Kapfinger_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kapfinžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kapfinger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kapfinger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kapfinger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="kapfinger" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kapfinger_;K" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p6s1w4">
@@ -2755,16 +2728,7 @@
 <LM>w#w-mf930703-026-p7s2w20</LM>
 </w.rf>
 <form>PNPresse</form>
-<tag><AM lemma="PNPresse_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="PNPress_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="PNPresse_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="PNPress_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="PNPresse_;m_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="PNPresse_;m" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="PNPresse_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="PNPresse_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="PNPresse_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pnpresse" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="PNPresse_;K" src="orig" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p7s2w21">
@@ -2982,16 +2946,7 @@
 <LM>w#w-mf930703-026-p7s3w11</LM>
 </w.rf>
 <form>Kapfinger</form>
-<tag><AM lemma="Kapfinger_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kapfinžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kapfinger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kapfinger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kapfinger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="kapfinger" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kapfinger_;K" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p7s3w12">
@@ -3339,16 +3294,7 @@
 <LM>w#w-mf930703-026-p8s1w30</LM>
 </w.rf>
 <form>Mitterfelsu</form>
-<tag><AM lemma="Mitterfels_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Mitterfels_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Mitterfels" src="auto">NNIS2-----A----</AM>
-<AM lemma="Mitterfels" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Mitterfels" src="auto">NNIS3-----A----</AM>
-<AM lemma="Mitterfels" src="auto">NNIS6-----A----</AM>
-<AM lemma="Mitterfelsa" src="auto">NNFS4-----A----</AM>
-<AM lemma="Mitterfels_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Mitterfels_;G" src="auto">NNIS6-----A----</AM>
-<AM lemma="mitterfelsu" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Mitterfels_;G" src="orig" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p8s1w31">
@@ -3384,16 +3330,7 @@
 <LM>w#w-mf930703-026-p8s1w34</LM>
 </w.rf>
 <form>Kapfinger</form>
-<tag><AM lemma="Kapfinger_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kapfinžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kapfinger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kapfinger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kapfinger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="kapfinger" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kapfinger_;K" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p8s1w35">
@@ -3750,16 +3687,7 @@
 <LM>w#w-mf930703-026-p10s1w2</LM>
 </w.rf>
 <form>Kapfinger</form>
-<tag><AM lemma="Kapfinger_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;K_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kapfinžer" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;m_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Kapfinger_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Kapfinger_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kapfinger_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="kapfinger" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kapfinger_;K" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p10s1w3">

@@ -366,31 +366,7 @@
 <LM>w#w-mf930702-014-p2s2w10</LM>
 </w.rf>
 <form>OFT</form>
-<tag><AM lemma="OFT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="OFT_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="OFT_:B_;K_^(Financial_Times)" src="auto">NNISX-----A---8</AM>
-<AM lemma="OFT_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="OFT_:B_;K" src="auto">AAXXX----1A---8</AM>
-<AM lemma="OFT_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OFT_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OFT_:B_;R" src="auto">NNNXX-----A---8</AM>
-<AM lemma="OFT_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Oft_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Oft_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Oft_^(jako_součást_názvu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Oft_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Oft_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="Oft_;K_;b_;c" src="auto">NNIS1-----A----</AM>
-<AM lemma="Oft_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Oft_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="oft_^(jako_součást_názvu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="oft_;K_;b_;c" src="auto">NNIS1-----A----</AM>
-<AM lemma="oft_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="oft_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="oft_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="oft_;R_,t" src="auto">NNFS2-----A----</AM>
-<AM lemma="oft_;K_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="oft_;K" src="auto">NNXXX-----A----</AM>
+<tag><AM lemma="OFT_:B_;K" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-014-p2s2w11">
@@ -716,16 +692,7 @@
 <LM>w#w-mf930702-014-p2s3w19</LM>
 </w.rf>
 <form>Witting</form>
-<tag><AM lemma="Witting_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Witting_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Witting" src="auto">NNIS4-----A----</AM>
-<AM lemma="Witting_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Witting" src="auto">NNIS1-----A----</AM>
-<AM lemma="Witting_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Witting_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Witting_;m_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Witting_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="witting" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Witting_;K" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-014-p2s3w20">

@@ -111,11 +111,7 @@
 <LM>w#w-ln94201-92-p2s1w3</LM>
 </w.rf>
 <form>ljď</form>
-<tag><AM lemma="ljď-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ljď-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ljď" src="auto">NNFS1-----A----</AM>
-<AM lemma="ljď" src="auto">NNFS4-----A----</AM>
-<AM lemma="ljď_;S" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="ljď-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-92-p2s1w4">

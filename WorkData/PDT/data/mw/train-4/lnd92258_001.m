@@ -521,16 +521,7 @@
 <LM>w#w-lnd92258-001-p9s1w11</LM>
 </w.rf>
 <form>Gosztony</form>
-<tag><AM lemma="Gosztony_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Goszton" src="auto">NNIP1-----A----</AM>
-<AM lemma="Goszton" src="auto">NNIP4-----A----</AM>
-<AM lemma="Goszton" src="auto">NNIP7-----A----</AM>
-<AM lemma="Gosztón" src="auto">NNIP4-----A----</AM>
-<AM lemma="Gosztona" src="auto">NNFP1-----A----</AM>
-<AM lemma="Gosztona" src="auto">NNFS2-----A----</AM>
-<AM lemma="Goszton" src="auto">NNMP4-----A----</AM>
-<AM lemma="Gosztona" src="auto">NNFP4-----A----</AM>
-<AM lemma="gosztony" src="auto" recommended="1">NNMS1-----A----</AM>
+<tag><AM lemma="Gosztony_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

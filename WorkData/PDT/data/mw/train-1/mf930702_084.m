@@ -588,16 +588,7 @@
 <LM>w#w-mf930702-084-p2s3w12</LM>
 </w.rf>
 <form>Arambašič</form>
-<tag><AM lemma="Arambašič_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Arambašič_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Arambašič" src="auto">NNMS1-----A----</AM>
-<AM lemma="Arambašič" src="auto">NNIS1-----A----</AM>
-<AM lemma="Arambašič" src="auto">NNIS4-----A----</AM>
-<AM lemma="Arambašić" src="auto">NNMS1-----A----</AM>
-<AM lemma="Arambašič_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Arambašič_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Arambašič_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="arambašič" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Arambašič_;S" src="orig" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-084-p2s3w13">

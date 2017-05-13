@@ -2648,16 +2648,7 @@
 <LM>w#w-lnd92254-019-p6s2w16</LM>
 </w.rf>
 <form>Kalkow</form>
-<tag><AM lemma="Kalkow_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kalkow_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kalkow_;G_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Kalkow" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="know_,t_^(Kalkow_how)" src="auto">NNNXX-----A----</AM>
-<AM lemma="how_,t_^(know_Kalkow)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Kalkow_;m_,t" src="auto">Db-------------</AM>
-<AM lemma="Kalkow_;K_,t" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Kalkow_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="kalkow" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Kalkow_;G" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-019-p6s2w17">
@@ -3389,15 +3380,7 @@
 <LM>w#w-lnd92254-019-p6s7w22</LM>
 </w.rf>
 <form>región</form>
-<tag><AM lemma="región" src="orig">NNIS1-----A----</AM>
-<AM lemma="región" src="auto">NNIS4-----A----</AM>
-<AM lemma="región" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="región`1000000" src="auto">NNIS4-----A----</AM>
-<AM lemma="región`1000000" src="auto">NNIS1-----A----</AM>
-<AM lemma="región_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="región_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="región_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="regióna" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="región" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-019-p6s7w23">
@@ -3538,15 +3521,7 @@
 <LM>w#w-lnd92254-019-p6s8w13</LM>
 </w.rf>
 <form>región</form>
-<tag><AM lemma="región" src="orig">NNIS1-----A----</AM>
-<AM lemma="región" src="auto">NNIS4-----A----</AM>
-<AM lemma="región" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="región`1000000" src="auto">NNIS4-----A----</AM>
-<AM lemma="región`1000000" src="auto">NNIS1-----A----</AM>
-<AM lemma="región_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="región_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="región_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="regióna" src="auto">NNFP2-----A----</AM>
+<tag><AM lemma="región" src="orig" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-019-p6s8w14">
@@ -3701,16 +3676,7 @@
 <LM>w#w-lnd92254-019-p6s9w7</LM>
 </w.rf>
 <form>Synergo</form>
-<tag><AM lemma="Synergo_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="Synergo_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Synergo" src="auto">NNNS4-----A----</AM>
-<AM lemma="Synergo_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Synergo_,h_,s_,t" src="auto">Db-------------</AM>
-<AM lemma="Synergo-1_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Synergo" src="auto">NNNS1-----A----</AM>
-<AM lemma="Synergo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Synergo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="synergo" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Synergo_;K" src="orig" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-019-p6s9w8">

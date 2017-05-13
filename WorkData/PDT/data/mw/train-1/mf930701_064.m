@@ -1024,16 +1024,7 @@
 <LM>w#w-mf930701-064-p2s5w22</LM>
 </w.rf>
 <form>Malochová</form>
-<tag><AM lemma="Malochová_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Malochová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Malochový" src="auto">AAFS1----1A----</AM>
-<AM lemma="Malochový" src="auto">AANP1----1A----</AM>
-<AM lemma="Malochový" src="auto">AANP4----1A----</AM>
-<AM lemma="Malochová_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Malochová_;S_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Malochový_,x" src="auto">AAFS1----1A----</AM>
-<AM lemma="Malochový" src="auto">AAFS5----1A----</AM>
-<AM lemma="malochová" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Malochová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-064-p2s5w23">

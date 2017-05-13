@@ -894,13 +894,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>získalala</form>
-<tag><AM lemma="získat_:W" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="získalat_:T" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="získalat_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="získalat_:T_:W" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="získalat" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="získalal_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="získalat_:T_^(*4at)" src="auto">VpQW---XR-AA---</AM>
+<tag><AM lemma="získat_:W" src="orig" selected="1">VpQW---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p4s1w21">
@@ -3229,10 +3223,7 @@
 <LM>w#w-lnd92256-065-p6s2w22</LM>
 </w.rf>
 <form>tohto</form>
-<tag><AM lemma="tento" src="orig">PDZS2----------</AM>
-<AM lemma="tohto" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="tohto_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="tohto" src="auto">NNNS4-----A----</AM>
+<tag><AM lemma="tento" src="orig" selected="1">PDZS2----------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p6s2w23">

@@ -1283,15 +1283,7 @@
 <LM>w#w-lnd92254-061-p7s1w7</LM>
 </w.rf>
 <form>Bonnefouse</form>
-<tag><AM lemma="Bonnefous_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Bonnefous_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Bonnefous" src="auto">NNIS6-----A----</AM>
-<AM lemma="Bonnefous_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bonnefous_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bonnefouse_;K_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="Bonnefouse_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Bonnefouse" src="auto">NNFP1-----A----</AM>
-<AM lemma="bonnefouse" src="auto">NNMS1-----A----</AM>
+<tag><AM lemma="Bonnefous_;S" src="orig" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-061-p7s1w8">
