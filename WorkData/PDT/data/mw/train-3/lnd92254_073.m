@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_30_schema.xml" />
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="lnd92254_073.w" />
+<reffile id="w" name="wdata" href="lnd92254_073.w"></reffile>
 </references>
 </head>
 <meta>
@@ -19,8 +19,8 @@
 <LM>w#w-lnd92254-073-p1s1w1</LM>
 </w.rf>
 <form>Naše</form>
-<lemma>můj_^(přivlast.)</lemma>
-<tag>PSHP1-P1-------</tag>
+<tag><AM lemma="můj_^(přivlast.)" src="orig" selected="1">PSHP1-P1-------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-073-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +28,8 @@
 <LM>w#w-lnd92254-073-p1s1w2</LM>
 </w.rf>
 <form>jediné</form>
-<lemma>jediný</lemma>
-<tag>AAFP1----1A----</tag>
+<tag><AM lemma="jediný" src="orig" selected="1">AAFP1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-073-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +37,8 @@
 <LM>w#w-lnd92254-073-p1s1w3</LM>
 </w.rf>
 <form>demokratické</form>
-<lemma>demokratický</lemma>
-<tag>AAFP1----1A----</tag>
+<tag><AM lemma="demokratický" src="orig" selected="1">AAFP1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-073-p1s1w4">
 <src.rf>manual</src.rf>
@@ -46,8 +46,8 @@
 <LM>w#w-lnd92254-073-p1s1w4</LM>
 </w.rf>
 <form>tradice</form>
-<lemma>tradice</lemma>
-<tag>NNFP1-----A----</tag>
+<tag><AM lemma="tradice" src="orig" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-073-p1s1w5">
 <src.rf>manual</src.rf>
@@ -55,8 +55,8 @@
 <LM>w#w-lnd92254-073-p1s1w5</LM>
 </w.rf>
 <form>jsou</form>
-<lemma>být</lemma>
-<tag>VB-P---3P-AA---</tag>
+<tag><AM lemma="být" src="orig" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92254-073-p1s1w6">
 <src.rf>manual</src.rf>
@@ -64,8 +64,8 @@
 <LM>w#w-lnd92254-073-p1s1w6</LM>
 </w.rf>
 <form>spjaty</form>
-<lemma>spjatý</lemma>
-<tag>ACTP------A----</tag>
+<tag><AM lemma="spjatý" src="orig" selected="1">ACTP------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-073-p1s1w7">
 <src.rf>manual</src.rf>
@@ -73,8 +73,8 @@
 <LM>w#w-lnd92254-073-p1s1w7</LM>
 </w.rf>
 <form>s</form>
-<lemma>s-1</lemma>
-<tag>RR--7----------</tag>
+<tag><AM lemma="s-1" src="orig" selected="1">RR--7----------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-073-p1s1w8">
 <src.rf>manual</src.rf>
@@ -82,8 +82,8 @@
 <LM>w#w-lnd92254-073-p1s1w8</LM>
 </w.rf>
 <form>československým</form>
-<lemma>československý</lemma>
-<tag>AAIS7----1A----</tag>
+<tag><AM lemma="československý" src="orig" selected="1">AAIS7----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-073-p1s1w9">
 <src.rf>manual</src.rf>
@@ -91,8 +91,8 @@
 <LM>w#w-lnd92254-073-p1s1w9</LM>
 </w.rf>
 <form>a</form>
-<lemma>a-1</lemma>
-<tag>J^-------------</tag>
+<tag><AM lemma="a-1" src="orig" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-073-p1s1w10">
 <src.rf>manual</src.rf>
@@ -100,8 +100,8 @@
 <LM>w#w-lnd92254-073-p1s1w10</LM>
 </w.rf>
 <form>ne</form>
-<lemma>ne</lemma>
-<tag>TT-------------</tag>
+<tag><AM lemma="ne" src="orig" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-073-p1s1w11">
 <src.rf>manual</src.rf>
@@ -109,8 +109,8 @@
 <LM>w#w-lnd92254-073-p1s1w11</LM>
 </w.rf>
 <form>s</form>
-<lemma>s-1</lemma>
-<tag>RR--7----------</tag>
+<tag><AM lemma="s-1" src="orig" selected="1">RR--7----------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-073-p1s1w12">
 <src.rf>manual</src.rf>
@@ -118,8 +118,8 @@
 <LM>w#w-lnd92254-073-p1s1w12</LM>
 </w.rf>
 <form>českým</form>
-<lemma>český</lemma>
-<tag>AAIS7----1A----</tag>
+<tag><AM lemma="český" src="orig" selected="1">AAIS7----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-073-p1s1w13">
 <src.rf>manual</src.rf>
@@ -127,8 +127,8 @@
 <LM>w#w-lnd92254-073-p1s1w13</LM>
 </w.rf>
 <form>státem</form>
-<lemma>stát-1_^(státní_útvar)</lemma>
-<tag>NNIS7-----A----</tag>
+<tag><AM lemma="stát-1_^(státní_útvar)" src="orig" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-073-p1s1w14">
 <src.rf>manual</src.rf>
@@ -136,8 +136,8 @@
 <LM>w#w-lnd92254-073-p1s1w14</LM>
 </w.rf>
 <form>.</form>
-<lemma>.</lemma>
-<tag>Z:-------------</tag>
+<tag><AM lemma="." src="orig" selected="1">Z:-------------</AM>
+</tag>
 </m>
 </s>
 </mdata>

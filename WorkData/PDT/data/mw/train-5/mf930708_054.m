@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_30_schema.xml" />
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="mf930708_054.w" />
+<reffile id="w" name="wdata" href="mf930708_054.w"></reffile>
 </references>
 </head>
 <meta>
@@ -19,8 +19,8 @@
 <LM>w#w-mf930708-054-p1s1w1</LM>
 </w.rf>
 <form>Jaké</form>
-<lemma>jaký</lemma>
-<tag>P4NS1----------</tag>
+<tag><AM lemma="jaký" src="orig" selected="1">P4NS1----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-054-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +28,8 @@
 <LM>w#w-mf930708-054-p1s1w2</LM>
 </w.rf>
 <form>bude</form>
-<lemma>být</lemma>
-<tag>VB-S---3F-AA---</tag>
+<tag><AM lemma="být" src="orig" selected="1">VB-S---3F-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-054-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +37,8 @@
 <LM>w#w-mf930708-054-p1s1w3</LM>
 </w.rf>
 <form>počasí</form>
-<lemma>počasí</lemma>
-<tag>NNNS1-----A----</tag>
+<tag><AM lemma="počasí" src="orig" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930708-054-p2s1">
@@ -48,8 +48,16 @@
 <LM>w#w-mf930708-054-p2s1w1</LM>
 </w.rf>
 <form>morava</form>
-<lemma>Morava_;G</lemma>
-<tag>NNFS1-----A----</tag>
+<tag><AM lemma="Morava_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="morava" src="auto">NNFS1-----A----</AM>
+<AM lemma="morava_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="morav_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="morava_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="morav_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="morav-1_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="morava_;Y" src="auto">NNFS1-----A----</AM>
+<AM lemma="morav-1_;Y" src="auto">NNMS4-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930708-054-p3s1">
@@ -59,8 +67,8 @@
 <LM>w#w-mf930708-054-p3s1w1</LM>
 </w.rf>
 <form>Placená</form>
-<lemma>placený_^(*4tit)</lemma>
-<tag>AAFS1----1A----</tag>
+<tag><AM lemma="placený_^(*4tit)" src="orig" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-054-p3s1w2">
 <src.rf>manual</src.rf>
@@ -68,8 +76,8 @@
 <LM>w#w-mf930708-054-p3s1w2</LM>
 </w.rf>
 <form>inzerce</form>
-<lemma>inzerce</lemma>
-<tag>NNFS1-----A----</tag>
+<tag><AM lemma="inzerce" src="orig" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

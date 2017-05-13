@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_30_schema.xml" />
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="lnd92253_058.w" />
+<reffile id="w" name="wdata" href="lnd92253_058.w"></reffile>
 </references>
 </head>
 <meta>
@@ -19,8 +19,8 @@
 <LM>w#w-lnd92253-058-p1s1w1</LM>
 </w.rf>
 <form>-</form>
-<lemma>-</lemma>
-<tag>Z:-------------</tag>
+<tag><AM lemma="-" src="orig" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-058-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +28,8 @@
 <LM>w#w-lnd92253-058-p1s1w2</LM>
 </w.rf>
 <form>Masaryk</form>
-<lemma>Masaryk_;S</lemma>
-<tag>NNMS1-----A----</tag>
+<tag><AM lemma="Masaryk_;S" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-058-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +37,8 @@
 <LM>w#w-lnd92253-058-p1s1w3</LM>
 </w.rf>
 <form>mluvil</form>
-<lemma>mluvit_:T</lemma>
-<tag>VpYS---XR-AA---</tag>
+<tag><AM lemma="mluvit_:T" src="orig" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92253-058-p1s1w4">
 <src.rf>manual</src.rf>
@@ -46,8 +46,8 @@
 <LM>w#w-lnd92253-058-p1s1w4</LM>
 </w.rf>
 <form>a</form>
-<lemma>a-1</lemma>
-<tag>J^-------------</tag>
+<tag><AM lemma="a-1" src="orig" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-058-p1s1w5">
 <src.rf>manual</src.rf>
@@ -55,8 +55,8 @@
 <LM>w#w-lnd92253-058-p1s1w5</LM>
 </w.rf>
 <form>jednal</form>
-<lemma>jednat_:T</lemma>
-<tag>VpYS---XR-AA---</tag>
+<tag><AM lemma="jednat_:T" src="orig" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92253-058-p1s1w6">
 <src.rf>manual</src.rf>
@@ -64,8 +64,8 @@
 <LM>w#w-lnd92253-058-p1s1w6</LM>
 </w.rf>
 <form>ve</form>
-<lemma>v-1</lemma>
-<tag>RV--6----------</tag>
+<tag><AM lemma="v-1" src="orig" selected="1">RV--6----------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-058-p1s1w7">
 <src.rf>manual</src.rf>
@@ -73,8 +73,8 @@
 <LM>w#w-lnd92253-058-p1s1w7</LM>
 </w.rf>
 <form>jménu</form>
-<lemma>jméno</lemma>
-<tag>NNNS6-----A---1</tag>
+<tag><AM lemma="jméno" src="orig" selected="1">NNNS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-lnd92253-058-p1s1w8">
 <src.rf>manual</src.rf>
@@ -82,8 +82,8 @@
 <LM>w#w-lnd92253-058-p1s1w8</LM>
 </w.rf>
 <form>"</form>
-<lemma>"</lemma>
-<tag>Z:-------------</tag>
+<tag><AM lemma="&quot;" src="orig" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-058-p1s1w9">
 <src.rf>manual</src.rf>
@@ -91,8 +91,8 @@
 <LM>w#w-lnd92253-058-p1s1w9</LM>
 </w.rf>
 <form>československého</form>
-<lemma>československý</lemma>
-<tag>AAIS2----1A----</tag>
+<tag><AM lemma="československý" src="orig" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-058-p1s1w10">
 <src.rf>manual</src.rf>
@@ -100,8 +100,8 @@
 <LM>w#w-lnd92253-058-p1s1w10</LM>
 </w.rf>
 <form>"</form>
-<lemma>"</lemma>
-<tag>Z:-------------</tag>
+<tag><AM lemma="&quot;" src="orig" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-058-p1s1w11">
 <src.rf>manual</src.rf>
@@ -109,8 +109,8 @@
 <LM>w#w-lnd92253-058-p1s1w11</LM>
 </w.rf>
 <form>národa</form>
-<lemma>národ</lemma>
-<tag>NNIS2-----A----</tag>
+<tag><AM lemma="národ" src="orig" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-058-p1s1w12">
 <src.rf>manual</src.rf>
@@ -118,8 +118,8 @@
 <LM>w#w-lnd92253-058-p1s1w12</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako</lemma>
-<tag>J,-------------</tag>
+<tag><AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-058-p1s1w13">
 <src.rf>manual</src.rf>
@@ -127,8 +127,8 @@
 <LM>w#w-lnd92253-058-p1s1w13</LM>
 </w.rf>
 <form>národa</form>
-<lemma>národ</lemma>
-<tag>NNIS2-----A----</tag>
+<tag><AM lemma="národ" src="orig" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-058-p1s1w14">
 <src.rf>manual</src.rf>
@@ -136,8 +136,8 @@
 <LM>w#w-lnd92253-058-p1s1w14</LM>
 </w.rf>
 <form>státněpolitického</form>
-<lemma>státněpolitický</lemma>
-<tag>AAIS2----1A----</tag>
+<tag><AM lemma="státněpolitický" src="orig" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

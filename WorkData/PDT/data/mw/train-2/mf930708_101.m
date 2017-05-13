@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_30_schema.xml" />
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="mf930708_101.w" />
+<reffile id="w" name="wdata" href="mf930708_101.w"></reffile>
 </references>
 </head>
 <meta>
@@ -19,8 +19,8 @@
 <LM>w#w-mf930708-101-p1s1w1</LM>
 </w.rf>
 <form>Zůstane</form>
-<lemma>zůstat</lemma>
-<tag>VB-S---3P-AA---</tag>
+<tag><AM lemma="zůstat" src="orig" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-101-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +28,8 @@
 <LM>w#w-mf930708-101-p1s1w2</LM>
 </w.rf>
 <form>Becherovka</form>
-<lemma>Becherovka_;K</lemma>
-<tag>NNFS1-----A----</tag>
+<tag><AM lemma="Becherovka_;K" src="orig" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-101-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +37,8 @@
 <LM>w#w-mf930708-101-p1s1w3</LM>
 </w.rf>
 <form>v</form>
-<lemma>v-1</lemma>
-<tag>RR--6----------</tag>
+<tag><AM lemma="v-1" src="orig" selected="1">RR--6----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-101-p1s1w4">
 <src.rf>manual</src.rf>
@@ -46,8 +46,8 @@
 <LM>w#w-mf930708-101-p1s1w4</LM>
 </w.rf>
 <form>českých</form>
-<lemma>český</lemma>
-<tag>AAFP6----1A----</tag>
+<tag><AM lemma="český" src="orig" selected="1">AAFP6----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-101-p1s1w5">
 <src.rf>manual</src.rf>
@@ -55,8 +55,8 @@
 <LM>w#w-mf930708-101-p1s1w5</LM>
 </w.rf>
 <form>rukách</form>
-<lemma>ruka</lemma>
-<tag>NNFP6-----A---1</tag>
+<tag><AM lemma="ruka" src="orig" selected="1">NNFP6-----A---1</AM>
+</tag>
 </m>
 <m id="m-mf930708-101-p1s1w6">
 <src.rf>manual</src.rf>
@@ -64,8 +64,8 @@
 <LM>w#w-mf930708-101-p1s1w6</LM>
 </w.rf>
 <form>?</form>
-<lemma>?</lemma>
-<tag>Z:-------------</tag>
+<tag><AM lemma="?" src="orig" selected="1">Z:-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930708-101-p2s1">
@@ -75,8 +75,8 @@
 <LM>w#w-mf930708-101-p2s1w1</LM>
 </w.rf>
 <form>str</form>
-<lemma>strana-4_:B</lemma>
-<tag>NNFXX-----A---8</tag>
+<tag><AM lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-101-p2s1w2">
 <src.rf>manual</src.rf>
@@ -84,8 +84,8 @@
 <LM>w#w-mf930708-101-p2s1w2</LM>
 </w.rf>
 <form>.</form>
-<lemma>.</lemma>
-<tag>Z:-------------</tag>
+<tag><AM lemma="." src="orig" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-101-p2s1w3">
 <src.rf>manual</src.rf>
@@ -93,8 +93,8 @@
 <LM>w#w-mf930708-101-p2s1w3</LM>
 </w.rf>
 <form>7</form>
-<lemma>7</lemma>
-<tag>C=-------------</tag>
+<tag><AM lemma="7" src="orig" selected="1">C=-------------</AM>
+</tag>
 </m>
 </s>
 </mdata>

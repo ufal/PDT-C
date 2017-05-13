@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_30_schema.xml" />
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="mf930701_066.w" />
+<reffile id="w" name="wdata" href="mf930701_066.w"></reffile>
 </references>
 </head>
 <meta>
@@ -19,8 +19,8 @@
 <LM>w#w-mf930701-066-p1s1w1</LM>
 </w.rf>
 <form>Vystoupení</form>
-<lemma>vystoupení_^(*3it)</lemma>
-<tag>NNNS1-----A----</tag>
+<tag><AM lemma="vystoupení_^(*3it)" src="orig" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-066-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +28,8 @@
 <LM>w#w-mf930701-066-p1s1w2</LM>
 </w.rf>
 <form>brněnské</form>
-<lemma>brněnský</lemma>
-<tag>AAFS2----1A----</tag>
+<tag><AM lemma="brněnský" src="orig" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-066-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +37,8 @@
 <LM>w#w-mf930701-066-p1s1w3</LM>
 </w.rf>
 <form>skupiny</form>
-<lemma>skupina</lemma>
-<tag>NNFS2-----A----</tag>
+<tag><AM lemma="skupina" src="orig" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-066-p1s1w4">
 <src.rf>manual</src.rf>
@@ -46,8 +46,14 @@
 <LM>w#w-mf930701-066-p1s1w4</LM>
 </w.rf>
 <form>Ser</form>
-<lemma>Ser_;K</lemma>
-<tag>AAXXX----1A----</tag>
+<tag><AM lemma="Ser_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Ser_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sera_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="Sero_;G" src="auto">NNNP2-----A----</AM>
+<AM lemma="srát" src="auto">Vi-S---2--A----</AM>
+<AM lemma="srát" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="sérum" src="auto">NNNP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-066-p1s1w5">
 <src.rf>manual</src.rf>
@@ -55,8 +61,12 @@
 <LM>w#w-mf930701-066-p1s1w5</LM>
 </w.rf>
 <form>Un</form>
-<lemma>Un_;K</lemma>
-<tag>AAXXX----1A----</tag>
+<tag><AM lemma="Un_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Una_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="Uno_;R_^(vozidlo)" src="auto">NNNP2-----A----</AM>
+<AM lemma="un-1_,t_^(franc._člen,_souč._názvů_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="uno_;R_^(vozidlo)" src="auto">NNNP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-066-p1s1w6">
 <src.rf>manual</src.rf>
@@ -64,8 +74,17 @@
 <LM>w#w-mf930701-066-p1s1w6</LM>
 </w.rf>
 <form>Peyjalero</form>
-<lemma>Peyjalero_;K</lemma>
-<tag>NNNS1-----A----</tag>
+<tag><AM lemma="Peyjalero_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Peyjalero" src="auto">NNNS1-----A----</AM>
+<AM lemma="Peyjalero_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Peyjalero_;K" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Peyjalero_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Peyjalero" src="auto">NNNS4-----A----</AM>
+<AM lemma="Peyjalero_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Peyjalero_;R_^(Mitsubishi_P.,_terénní_vozidlo)" src="auto">NNNS1-----A----</AM>
+<AM lemma="Peyjalero_;K_^(letecká_továrna)" src="auto">NNNS4-----A----</AM>
+<AM lemma="peyjalero" src="auto">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-066-p1s1w7">
 <src.rf>manual</src.rf>
@@ -73,8 +92,8 @@
 <LM>w#w-mf930701-066-p1s1w7</LM>
 </w.rf>
 <form>patřilo</form>
-<lemma>patřit_:T</lemma>
-<tag>VpNS---XR-AA---</tag>
+<tag><AM lemma="patřit_:T" src="orig" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-066-p1s1w8">
 <src.rf>manual</src.rf>
@@ -82,8 +101,8 @@
 <LM>w#w-mf930701-066-p1s1w8</LM>
 </w.rf>
 <form>v</form>
-<lemma>v-1</lemma>
-<tag>RR--6----------</tag>
+<tag><AM lemma="v-1" src="orig" selected="1">RR--6----------</AM>
+</tag>
 </m>
 <m id="m-mf930701-066-p1s1w9">
 <src.rf>manual</src.rf>
@@ -91,8 +110,8 @@
 <LM>w#w-mf930701-066-p1s1w9</LM>
 </w.rf>
 <form>Cihelně</form>
-<lemma>cihelna</lemma>
-<tag>NNFS6-----A----</tag>
+<tag><AM lemma="cihelna" src="orig" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-066-p1s1w10">
 <src.rf>manual</src.rf>
@@ -100,8 +119,8 @@
 <LM>w#w-mf930701-066-p1s1w10</LM>
 </w.rf>
 <form>k</form>
-<lemma>k-1</lemma>
-<tag>RR--3----------</tag>
+<tag><AM lemma="k-1" src="orig" selected="1">RR--3----------</AM>
+</tag>
 </m>
 <m id="m-mf930701-066-p1s1w11">
 <src.rf>manual</src.rf>
@@ -109,8 +128,8 @@
 <LM>w#w-mf930701-066-p1s1w11</LM>
 </w.rf>
 <form>nejlepším</form>
-<lemma>dobrý</lemma>
-<tag>AANP3----3A----</tag>
+<tag><AM lemma="dobrý" src="orig" selected="1">AANP3----3A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

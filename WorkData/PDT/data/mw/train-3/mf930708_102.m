@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_30_schema.xml" />
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="mf930708_102.w" />
+<reffile id="w" name="wdata" href="mf930708_102.w"></reffile>
 </references>
 </head>
 <meta>
@@ -19,8 +19,8 @@
 <LM>w#w-mf930708-102-p1s1w1</LM>
 </w.rf>
 <form>Americký</form>
-<lemma>americký</lemma>
-<tag>AAMS1----1A----</tag>
+<tag><AM lemma="americký" src="orig" selected="1">AAMS1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +28,8 @@
 <LM>w#w-mf930708-102-p1s1w2</LM>
 </w.rf>
 <form>prezident</form>
-<lemma>prezident</lemma>
-<tag>NNMS1-----A----</tag>
+<tag><AM lemma="prezident" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +37,8 @@
 <LM>w#w-mf930708-102-p1s1w3</LM>
 </w.rf>
 <form>Bill</form>
-<lemma>Bill_;Y</lemma>
-<tag>NNMS1-----A----</tag>
+<tag><AM lemma="Bill_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w4">
 <src.rf>manual</src.rf>
@@ -46,8 +46,8 @@
 <LM>w#w-mf930708-102-p1s1w4</LM>
 </w.rf>
 <form>Clinton</form>
-<lemma>Clinton_;S</lemma>
-<tag>NNMS1-----A----</tag>
+<tag><AM lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w5">
 <src.rf>manual</src.rf>
@@ -55,8 +55,8 @@
 <LM>w#w-mf930708-102-p1s1w5</LM>
 </w.rf>
 <form>,</form>
-<lemma>,</lemma>
-<tag>Z:-------------</tag>
+<tag><AM lemma="," src="orig" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w6">
 <src.rf>manual</src.rf>
@@ -64,8 +64,8 @@
 <LM>w#w-mf930708-102-p1s1w6</LM>
 </w.rf>
 <form>kanadská</form>
-<lemma>kanadský</lemma>
-<tag>AAFS1----1A----</tag>
+<tag><AM lemma="kanadský" src="orig" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w7">
 <src.rf>manual</src.rf>
@@ -73,8 +73,8 @@
 <LM>w#w-mf930708-102-p1s1w7</LM>
 </w.rf>
 <form>premiérka</form>
-<lemma>premiérka_^(*2)</lemma>
-<tag>NNFS1-----A----</tag>
+<tag><AM lemma="premiérka_^(*2)" src="orig" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w8">
 <src.rf>manual</src.rf>
@@ -82,8 +82,8 @@
 <LM>w#w-mf930708-102-p1s1w8</LM>
 </w.rf>
 <form>Kim</form>
-<lemma>Kim_;Y</lemma>
-<tag>NNMS1-----A----</tag>
+<tag><AM lemma="Kim-1_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w9">
 <src.rf>manual</src.rf>
@@ -91,8 +91,8 @@
 <LM>w#w-mf930708-102-p1s1w9</LM>
 </w.rf>
 <form>Campbellová</form>
-<lemma>Campbellová_;S</lemma>
-<tag>NNFS1-----A----</tag>
+<tag><AM lemma="Campbellová_;S" src="orig" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w10">
 <src.rf>manual</src.rf>
@@ -100,8 +100,8 @@
 <LM>w#w-mf930708-102-p1s1w10</LM>
 </w.rf>
 <form>a</form>
-<lemma>a-1</lemma>
-<tag>J^-------------</tag>
+<tag><AM lemma="a-1" src="orig" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w11">
 <src.rf>manual</src.rf>
@@ -109,8 +109,8 @@
 <LM>w#w-mf930708-102-p1s1w11</LM>
 </w.rf>
 <form>zcela</form>
-<lemma>zcela</lemma>
-<tag>Db-------------</tag>
+<tag><AM lemma="zcela" src="orig" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w12">
 <src.rf>manual</src.rf>
@@ -118,8 +118,8 @@
 <LM>w#w-mf930708-102-p1s1w12</LM>
 </w.rf>
 <form>vpravo</form>
-<lemma>vpravo</lemma>
-<tag>Db-------------</tag>
+<tag><AM lemma="vpravo" src="orig" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w13">
 <src.rf>manual</src.rf>
@@ -127,8 +127,8 @@
 <LM>w#w-mf930708-102-p1s1w13</LM>
 </w.rf>
 <form>britský</form>
-<lemma>britský</lemma>
-<tag>AAMS1----1A----</tag>
+<tag><AM lemma="britský" src="orig" selected="1">AAMS1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w14">
 <src.rf>manual</src.rf>
@@ -136,8 +136,8 @@
 <LM>w#w-mf930708-102-p1s1w14</LM>
 </w.rf>
 <form>premiér</form>
-<lemma>premiér</lemma>
-<tag>NNMS1-----A----</tag>
+<tag><AM lemma="premiér" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w15">
 <src.rf>manual</src.rf>
@@ -145,8 +145,8 @@
 <LM>w#w-mf930708-102-p1s1w15</LM>
 </w.rf>
 <form>John</form>
-<lemma>John_;S</lemma>
-<tag>NNMS1-----A----</tag>
+<tag><AM lemma="John_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w16">
 <src.rf>manual</src.rf>
@@ -154,8 +154,8 @@
 <LM>w#w-mf930708-102-p1s1w16</LM>
 </w.rf>
 <form>Major</form>
-<lemma>major</lemma>
-<tag>NNMS1-----A----</tag>
+<tag><AM lemma="major" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w17">
 <src.rf>manual</src.rf>
@@ -163,8 +163,8 @@
 <LM>w#w-mf930708-102-p1s1w17</LM>
 </w.rf>
 <form>pózují</form>
-<lemma>pózovat_:T</lemma>
-<tag>VB-P---3P-AA---</tag>
+<tag><AM lemma="pózovat_:T" src="orig" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w18">
 <src.rf>manual</src.rf>
@@ -172,8 +172,8 @@
 <LM>w#w-mf930708-102-p1s1w18</LM>
 </w.rf>
 <form>společně</form>
-<lemma>společně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<tag><AM lemma="společně_^(*1ý)" src="orig" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w19">
 <src.rf>manual</src.rf>
@@ -181,8 +181,8 @@
 <LM>w#w-mf930708-102-p1s1w19</LM>
 </w.rf>
 <form>s</form>
-<lemma>s-1</lemma>
-<tag>RR--7----------</tag>
+<tag><AM lemma="s-1" src="orig" selected="1">RR--7----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w20">
 <src.rf>manual</src.rf>
@@ -190,8 +190,8 @@
 <LM>w#w-mf930708-102-p1s1w20</LM>
 </w.rf>
 <form>gestikulujícím</form>
-<lemma>gestikulující_^(*5ovat)</lemma>
-<tag>AGMS7-----A----</tag>
+<tag><AM lemma="gestikulující_^(*5ovat)" src="orig" selected="1">AGMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w21">
 <src.rf>manual</src.rf>
@@ -199,8 +199,8 @@
 <LM>w#w-mf930708-102-p1s1w21</LM>
 </w.rf>
 <form>japonským</form>
-<lemma>japonský</lemma>
-<tag>AAMS7----1A----</tag>
+<tag><AM lemma="japonský" src="orig" selected="1">AAMS7----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w22">
 <src.rf>manual</src.rf>
@@ -208,8 +208,8 @@
 <LM>w#w-mf930708-102-p1s1w22</LM>
 </w.rf>
 <form>premiérem</form>
-<lemma>premiér</lemma>
-<tag>NNMS7-----A----</tag>
+<tag><AM lemma="premiér" src="orig" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w23">
 <src.rf>manual</src.rf>
@@ -217,8 +217,17 @@
 <LM>w#w-mf930708-102-p1s1w23</LM>
 </w.rf>
 <form>Kiiči</form>
-<lemma>Kiiči_;Y</lemma>
-<tag>NNMXX-----A----</tag>
+<tag><AM lemma="Kiiči_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Kiič" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Kiič" src="auto">NNMP7-----A----</AM>
+<AM lemma="Kiič" src="auto">NNIS3-----A----</AM>
+<AM lemma="Kiič" src="auto">NNIP7-----A----</AM>
+<AM lemma="Kiič_;S_;Y" src="auto">NNMS3-----A----</AM>
+<AM lemma="Kiič_;S" src="auto">NNMS3-----A----</AM>
+<AM lemma="Kiič" src="auto">NNMS6-----A----</AM>
+<AM lemma="Kiič" src="auto">NNMS3-----A----</AM>
+<AM lemma="kiiči" src="auto">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w24">
 <src.rf>manual</src.rf>
@@ -226,8 +235,8 @@
 <LM>w#w-mf930708-102-p1s1w24</LM>
 </w.rf>
 <form>Mijazavou</form>
-<lemma>Mijazava_;S</lemma>
-<tag>NNMS7-----A----</tag>
+<tag><AM lemma="Mijazava_;S" src="orig" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w25">
 <src.rf>manual</src.rf>
@@ -235,8 +244,8 @@
 <LM>w#w-mf930708-102-p1s1w25</LM>
 </w.rf>
 <form>během</form>
-<lemma>během</lemma>
-<tag>RR--2----------</tag>
+<tag><AM lemma="během" src="orig" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w26">
 <src.rf>manual</src.rf>
@@ -244,8 +253,8 @@
 <LM>w#w-mf930708-102-p1s1w26</LM>
 </w.rf>
 <form>jednání</form>
-<lemma>jednání_^(*3at)</lemma>
-<tag>NNNS2-----A----</tag>
+<tag><AM lemma="jednání_^(*3at)" src="orig" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w27">
 <src.rf>manual</src.rf>
@@ -253,8 +262,8 @@
 <LM>w#w-mf930708-102-p1s1w27</LM>
 </w.rf>
 <form>skupiny</form>
-<lemma>skupina</lemma>
-<tag>NNFS2-----A----</tag>
+<tag><AM lemma="skupina" src="orig" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w28">
 <src.rf>manual</src.rf>
@@ -262,8 +271,20 @@
 <LM>w#w-mf930708-102-p1s1w28</LM>
 </w.rf>
 <form>G</form>
-<lemma>G</lemma>
-<tag>NNFXX-----A---8</tag>
+<tag><AM lemma="G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="G-0_:B_;Y" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="G-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="G-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
+<AM lemma="G-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="G-5_:B_;G" src="auto">AAXXX----1A---8</AM>
+<AM lemma="G-6_:B_;R" src="auto">NNXXX-----A---8</AM>
+<AM lemma="G-9_:B_;S" src="auto">NNFXX-----A---8</AM>
+<AM lemma="G-9_:B_;S" src="auto">NNMXX-----A---8</AM>
+<AM lemma="G-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="g-1`gram_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="g-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="g-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w29">
 <src.rf>manual</src.rf>
@@ -271,8 +292,8 @@
 <LM>w#w-mf930708-102-p1s1w29</LM>
 </w.rf>
 <form>7</form>
-<lemma>7</lemma>
-<tag>C=-------------</tag>
+<tag><AM lemma="7" src="orig" selected="1">C=-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w30">
 <src.rf>manual</src.rf>
@@ -280,8 +301,8 @@
 <LM>w#w-mf930708-102-p1s1w30</LM>
 </w.rf>
 <form>v</form>
-<lemma>v-1</lemma>
-<tag>RR--6----------</tag>
+<tag><AM lemma="v-1" src="orig" selected="1">RR--6----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-102-p1s1w31">
 <src.rf>manual</src.rf>
@@ -289,8 +310,10 @@
 <LM>w#w-mf930708-102-p1s1w31</LM>
 </w.rf>
 <form>Tokiu</form>
-<lemma>Tokyo_;G</lemma>
-<tag>NNNS6-----A----</tag>
+<tag><AM lemma="Tokyo_;G" src="orig">NNNS6-----A----</AM>
+<AM lemma="Tokio_;G" src="auto">NNNS3-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS6-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

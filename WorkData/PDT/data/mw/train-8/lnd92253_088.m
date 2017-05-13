@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_30_schema.xml" />
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="lnd92253_088.w" />
+<reffile id="w" name="wdata" href="lnd92253_088.w"></reffile>
 </references>
 </head>
 <meta>
@@ -19,8 +19,8 @@
 <LM>w#w-lnd92253-088-p1s1w1</LM>
 </w.rf>
 <form>Po</form>
-<lemma>po-1</lemma>
-<tag>RR--6----------</tag>
+<tag><AM lemma="po-1" src="orig" selected="1">RR--6----------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +28,8 @@
 <LM>w#w-lnd92253-088-p1s1w2</LM>
 </w.rf>
 <form>včerejším</form>
-<lemma>včerejší</lemma>
-<tag>AANS6----1A----</tag>
+<tag><AM lemma="včerejší" src="orig" selected="1">AANS6----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +37,8 @@
 <LM>w#w-lnd92253-088-p1s1w3</LM>
 </w.rf>
 <form>jednání</form>
-<lemma>jednání_^(*3at)</lemma>
-<tag>NNNS6-----A----</tag>
+<tag><AM lemma="jednání_^(*3at)" src="orig" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w4">
 <src.rf>manual</src.rf>
@@ -46,8 +46,8 @@
 <LM>w#w-lnd92253-088-p1s1w4</LM>
 </w.rf>
 <form>české</form>
-<lemma>český</lemma>
-<tag>AAFS2----1A----</tag>
+<tag><AM lemma="český" src="orig" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w5">
 <src.rf>manual</src.rf>
@@ -55,8 +55,8 @@
 <LM>w#w-lnd92253-088-p1s1w5</LM>
 </w.rf>
 <form>a</form>
-<lemma>a-1</lemma>
-<tag>J^-------------</tag>
+<tag><AM lemma="a-1" src="orig" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w6">
 <src.rf>manual</src.rf>
@@ -64,8 +64,8 @@
 <LM>w#w-lnd92253-088-p1s1w6</LM>
 </w.rf>
 <form>slovenské</form>
-<lemma>slovenský</lemma>
-<tag>AAFS2----1A----</tag>
+<tag><AM lemma="slovenský" src="orig" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w7">
 <src.rf>manual</src.rf>
@@ -73,8 +73,8 @@
 <LM>w#w-lnd92253-088-p1s1w7</LM>
 </w.rf>
 <form>vlády</form>
-<lemma>vláda</lemma>
-<tag>NNFS2-----A----</tag>
+<tag><AM lemma="vláda" src="orig" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w8">
 <src.rf>manual</src.rf>
@@ -82,8 +82,8 @@
 <LM>w#w-lnd92253-088-p1s1w8</LM>
 </w.rf>
 <form>je</form>
-<lemma>být</lemma>
-<tag>VB-S---3P-AA---</tag>
+<tag><AM lemma="být" src="orig" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w9">
 <src.rf>manual</src.rf>
@@ -91,8 +91,8 @@
 <LM>w#w-lnd92253-088-p1s1w9</LM>
 </w.rf>
 <form>jasné</form>
-<lemma>jasný</lemma>
-<tag>AANS1----1A----</tag>
+<tag><AM lemma="jasný" src="orig" selected="1">AANS1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w10">
 <src.rf>manual</src.rf>
@@ -100,8 +100,8 @@
 <LM>w#w-lnd92253-088-p1s1w10</LM>
 </w.rf>
 <form>,</form>
-<lemma>,</lemma>
-<tag>Z:-------------</tag>
+<tag><AM lemma="," src="orig" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w11">
 <src.rf>manual</src.rf>
@@ -109,8 +109,8 @@
 <LM>w#w-lnd92253-088-p1s1w11</LM>
 </w.rf>
 <form>že</form>
-<lemma>že</lemma>
-<tag>J,-------------</tag>
+<tag><AM lemma="že-1" src="auto" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w12">
 <src.rf>manual</src.rf>
@@ -118,8 +118,8 @@
 <LM>w#w-lnd92253-088-p1s1w12</LM>
 </w.rf>
 <form>Javorina</form>
-<lemma>Javorina_;G</lemma>
-<tag>NNFS1-----A----</tag>
+<tag><AM lemma="Javorina_;G" src="orig" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w13">
 <src.rf>manual</src.rf>
@@ -127,8 +127,8 @@
 <LM>w#w-lnd92253-088-p1s1w13</LM>
 </w.rf>
 <form>zdaleka</form>
-<lemma>zdaleka</lemma>
-<tag>Db-------------</tag>
+<tag><AM lemma="zdaleka" src="orig" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w14">
 <src.rf>manual</src.rf>
@@ -136,8 +136,8 @@
 <LM>w#w-lnd92253-088-p1s1w14</LM>
 </w.rf>
 <form>nebyla</form>
-<lemma>být</lemma>
-<tag>VpQW---XR-NA---</tag>
+<tag><AM lemma="být" src="orig" selected="1">VpQW---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w15">
 <src.rf>manual</src.rf>
@@ -145,8 +145,8 @@
 <LM>w#w-lnd92253-088-p1s1w15</LM>
 </w.rf>
 <form>posledním</form>
-<lemma>poslední</lemma>
-<tag>AANS7----1A----</tag>
+<tag><AM lemma="poslední" src="orig" selected="1">AANS7----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w16">
 <src.rf>manual</src.rf>
@@ -154,8 +154,8 @@
 <LM>w#w-lnd92253-088-p1s1w16</LM>
 </w.rf>
 <form>místem</form>
-<lemma>místo-1_^(fyzické_umístění)</lemma>
-<tag>NNNS7-----A----</tag>
+<tag><AM lemma="místo-1_^(fyzické_umístění)" src="orig" selected="1">NNNS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w17">
 <src.rf>manual</src.rf>
@@ -163,8 +163,8 @@
 <LM>w#w-lnd92253-088-p1s1w17</LM>
 </w.rf>
 <form>setkání</form>
-<lemma>setkání_^(*3at)</lemma>
-<tag>NNNS2-----A----</tag>
+<tag><AM lemma="setkání_^(*3at)" src="orig" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w18">
 <src.rf>manual</src.rf>
@@ -172,8 +172,8 @@
 <LM>w#w-lnd92253-088-p1s1w18</LM>
 </w.rf>
 <form>jejích</form>
-<lemma>jeho_^(přivlast.)</lemma>
-<tag>PSXP2FS3-------</tag>
+<tag><AM lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXP2FS3-------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w19">
 <src.rf>manual</src.rf>
@@ -181,8 +181,8 @@
 <LM>w#w-lnd92253-088-p1s1w19</LM>
 </w.rf>
 <form>představitelů</form>
-<lemma>představitel</lemma>
-<tag>NNMP2-----A----</tag>
+<tag><AM lemma="představitel" src="orig" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92253-088-p2s1">
@@ -192,8 +192,8 @@
 <LM>w#w-lnd92253-088-p2s1w1</LM>
 </w.rf>
 <form>Foto</form>
-<lemma>foto</lemma>
-<tag>NNNS1-----A----</tag>
+<tag><AM lemma="foto" src="orig" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-088-p2s1w2">
 <src.rf>manual</src.rf>
@@ -201,8 +201,8 @@
 <LM>w#w-lnd92253-088-p2s1w2</LM>
 </w.rf>
 <form>ČSTK</form>
-<lemma>ČSTK-1_:B_;K_^(Československá_tisková_kancelář)</lemma>
-<tag>NNFXX-----A---8</tag>
+<tag><AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

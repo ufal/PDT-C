@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_30_schema.xml" />
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="mf930702_101.w" />
+<reffile id="w" name="wdata" href="mf930702_101.w"></reffile>
 </references>
 </head>
 <meta>
@@ -19,8 +19,8 @@
 <LM>w#w-mf930702-101-p1s1w1</LM>
 </w.rf>
 <form>Zdravotní</form>
-<lemma>zdravotní_,a</lemma>
-<tag>AANS1----1A----</tag>
+<tag><AM lemma="zdravotní" src="auto" selected="1">AANS1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-101-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +28,8 @@
 <LM>w#w-mf930702-101-p1s1w2</LM>
 </w.rf>
 <form>pojištění</form>
-<lemma>pojištění_^(*5stit)</lemma>
-<tag>NNNS1-----A----</tag>
+<tag><AM lemma="pojištění_^(*5stit)" src="orig" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-101-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +37,8 @@
 <LM>w#w-mf930702-101-p1s1w3</LM>
 </w.rf>
 <form>je</form>
-<lemma>být</lemma>
-<tag>VB-S---3P-AA---</tag>
+<tag><AM lemma="být" src="orig" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-101-p1s1w4">
 <src.rf>manual</src.rf>
@@ -46,8 +46,8 @@
 <LM>w#w-mf930702-101-p1s1w4</LM>
 </w.rf>
 <form>hlavním</form>
-<lemma>hlavní</lemma>
-<tag>AAIS7----1A----</tag>
+<tag><AM lemma="hlavní" src="orig" selected="1">AAIS7----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-101-p1s1w5">
 <src.rf>manual</src.rf>
@@ -55,8 +55,8 @@
 <LM>w#w-mf930702-101-p1s1w5</LM>
 </w.rf>
 <form>zdrojem</form>
-<lemma>zdroj</lemma>
-<tag>NNIS7-----A----</tag>
+<tag><AM lemma="zdroj" src="orig" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-101-p1s1w6">
 <src.rf>manual</src.rf>
@@ -64,8 +64,8 @@
 <LM>w#w-mf930702-101-p1s1w6</LM>
 </w.rf>
 <form>financování</form>
-<lemma>financování_^(*3at)</lemma>
-<tag>NNNS2-----A----</tag>
+<tag><AM lemma="financování_^(*3at)" src="orig" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-101-p1s1w7">
 <src.rf>manual</src.rf>
@@ -73,8 +73,8 @@
 <LM>w#w-mf930702-101-p1s1w7</LM>
 </w.rf>
 <form>péče</form>
-<lemma>péče</lemma>
-<tag>NNFS2-----A----</tag>
+<tag><AM lemma="péče" src="orig" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-101-p1s1w8">
 <src.rf>manual</src.rf>
@@ -82,8 +82,8 @@
 <LM>w#w-mf930702-101-p1s1w8</LM>
 </w.rf>
 <form>o</form>
-<lemma>o-1</lemma>
-<tag>RR--4----------</tag>
+<tag><AM lemma="o-1" src="orig" selected="1">RR--4----------</AM>
+</tag>
 </m>
 <m id="m-mf930702-101-p1s1w9">
 <src.rf>manual</src.rf>
@@ -91,8 +91,8 @@
 <LM>w#w-mf930702-101-p1s1w9</LM>
 </w.rf>
 <form>pacienty</form>
-<lemma>pacient</lemma>
-<tag>NNMP4-----A----</tag>
+<tag><AM lemma="pacient" src="orig" selected="1">NNMP4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-101-p1s1w10">
 <src.rf>manual</src.rf>
@@ -100,8 +100,8 @@
 <LM>w#w-mf930702-101-p1s1w10</LM>
 </w.rf>
 <form>v</form>
-<lemma>v-1</lemma>
-<tag>RR--6----------</tag>
+<tag><AM lemma="v-1" src="orig" selected="1">RR--6----------</AM>
+</tag>
 </m>
 <m id="m-mf930702-101-p1s1w11">
 <src.rf>manual</src.rf>
@@ -109,8 +109,8 @@
 <LM>w#w-mf930702-101-p1s1w11</LM>
 </w.rf>
 <form>našich</form>
-<lemma>můj_^(přivlast.)</lemma>
-<tag>PSXP6-P1-------</tag>
+<tag><AM lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</AM>
+</tag>
 </m>
 <m id="m-mf930702-101-p1s1w12">
 <src.rf>manual</src.rf>
@@ -118,8 +118,8 @@
 <LM>w#w-mf930702-101-p1s1w12</LM>
 </w.rf>
 <form>nemocnicích</form>
-<lemma>nemocnice</lemma>
-<tag>NNFP6-----A----</tag>
+<tag><AM lemma="nemocnice" src="orig" selected="1">NNFP6-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

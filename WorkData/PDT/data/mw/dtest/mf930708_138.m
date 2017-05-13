@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_30_schema.xml" />
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="mf930708_138.w" />
+<reffile id="w" name="wdata" href="mf930708_138.w"></reffile>
 </references>
 </head>
 <meta>
@@ -19,8 +19,8 @@
 <LM>w#w-mf930708-138-p1s1w1</LM>
 </w.rf>
 <form>tem</form>
-<lemma>tma</lemma>
-<tag>NNFP2-----A----</tag>
+<tag><AM lemma="tma" src="orig" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +28,8 @@
 <LM>w#w-mf930708-138-p1s1w2</LM>
 </w.rf>
 <form>*</form>
-<lemma>*</lemma>
-<tag>Z:-------------</tag>
+<tag><AM lemma="*" src="orig" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +37,8 @@
 <LM>w#w-mf930708-138-p1s1w3</LM>
 </w.rf>
 <form>tenisovým</form>
-<lemma>tenisový</lemma>
-<tag>AAIS7----1A----</tag>
+<tag><AM lemma="tenisový" src="orig" selected="1">AAIS7----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p1s1w4">
 <src.rf>manual</src.rf>
@@ -46,8 +46,8 @@
 <LM>w#w-mf930708-138-p1s1w4</LM>
 </w.rf>
 <form>světem</form>
-<lemma>svět</lemma>
-<tag>NNIS7-----A----</tag>
+<tag><AM lemma="svět" src="orig" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p1s1w5">
 <src.rf>manual</src.rf>
@@ -55,8 +55,8 @@
 <LM>w#w-mf930708-138-p1s1w5</LM>
 </w.rf>
 <form>*</form>
-<lemma>*</lemma>
-<tag>Z:-------------</tag>
+<tag><AM lemma="*" src="orig" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p1s1w6">
 <src.rf>manual</src.rf>
@@ -64,8 +64,8 @@
 <LM>w#w-mf930708-138-p1s1w6</LM>
 </w.rf>
 <form>tenisovým</form>
-<lemma>tenisový</lemma>
-<tag>AAIS7----1A----</tag>
+<tag><AM lemma="tenisový" src="orig" selected="1">AAIS7----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p1s1w7">
 <src.rf>manual</src.rf>
@@ -73,8 +73,8 @@
 <LM>w#w-mf930708-138-p1s1w7</LM>
 </w.rf>
 <form>světem</form>
-<lemma>svět</lemma>
-<tag>NNIS7-----A----</tag>
+<tag><AM lemma="svět" src="orig" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930708-138-p2s1">
@@ -84,8 +84,8 @@
 <LM>w#w-mf930708-138-p2s1w1</LM>
 </w.rf>
 <form>tenisovým</form>
-<lemma>tenisový</lemma>
-<tag>AAIS7----1A----</tag>
+<tag><AM lemma="tenisový" src="orig" selected="1">AAIS7----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p2s1w2">
 <src.rf>manual</src.rf>
@@ -93,8 +93,8 @@
 <LM>w#w-mf930708-138-p2s1w2</LM>
 </w.rf>
 <form>světem</form>
-<lemma>svět</lemma>
-<tag>NNIS7-----A----</tag>
+<tag><AM lemma="svět" src="orig" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p2s1w3">
 <src.rf>manual</src.rf>
@@ -102,8 +102,8 @@
 <LM>w#w-mf930708-138-p2s1w3</LM>
 </w.rf>
 <form>*</form>
-<lemma>*</lemma>
-<tag>Z:-------------</tag>
+<tag><AM lemma="*" src="orig" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p2s1w4">
 <src.rf>manual</src.rf>
@@ -111,8 +111,8 @@
 <LM>w#w-mf930708-138-p2s1w4</LM>
 </w.rf>
 <form>tenisovým</form>
-<lemma>tenisový</lemma>
-<tag>AAIS7----1A----</tag>
+<tag><AM lemma="tenisový" src="orig" selected="1">AAIS7----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p2s1w5">
 <src.rf>manual</src.rf>
@@ -120,8 +120,8 @@
 <LM>w#w-mf930708-138-p2s1w5</LM>
 </w.rf>
 <form>světem</form>
-<lemma>svět</lemma>
-<tag>NNIS7-----A----</tag>
+<tag><AM lemma="svět" src="orig" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p2s1w6">
 <src.rf>manual</src.rf>
@@ -129,8 +129,8 @@
 <LM>w#w-mf930708-138-p2s1w6</LM>
 </w.rf>
 <form>*</form>
-<lemma>*</lemma>
-<tag>Z:-------------</tag>
+<tag><AM lemma="*" src="orig" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p2s1w7">
 <src.rf>manual</src.rf>
@@ -138,8 +138,8 @@
 <LM>w#w-mf930708-138-p2s1w7</LM>
 </w.rf>
 <form>tenisovým</form>
-<lemma>tenisový</lemma>
-<tag>AAIS7----1A----</tag>
+<tag><AM lemma="tenisový" src="orig" selected="1">AAIS7----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p2s1w8">
 <src.rf>manual</src.rf>
@@ -147,8 +147,8 @@
 <LM>w#w-mf930708-138-p2s1w8</LM>
 </w.rf>
 <form>světem</form>
-<lemma>svět</lemma>
-<tag>NNIS7-----A----</tag>
+<tag><AM lemma="svět" src="orig" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p2s1w9">
 <src.rf>manual</src.rf>
@@ -156,8 +156,8 @@
 <LM>w#w-mf930708-138-p2s1w9</LM>
 </w.rf>
 <form>*</form>
-<lemma>*</lemma>
-<tag>Z:-------------</tag>
+<tag><AM lemma="*" src="orig" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p2s1w10">
 <src.rf>manual</src.rf>
@@ -165,8 +165,8 @@
 <LM>w#w-mf930708-138-p2s1w10</LM>
 </w.rf>
 <form>tenisovým</form>
-<lemma>tenisový</lemma>
-<tag>AAIS7----1A----</tag>
+<tag><AM lemma="tenisový" src="orig" selected="1">AAIS7----1A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930708-138-p2s2">
@@ -176,8 +176,8 @@
 <LM>w#w-mf930708-138-p2s2w1</LM>
 </w.rf>
 <form>světem</form>
-<lemma>svět</lemma>
-<tag>NNIS7-----A----</tag>
+<tag><AM lemma="svět" src="orig" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p2s2w2">
 <src.rf>manual</src.rf>
@@ -185,8 +185,8 @@
 <LM>w#w-mf930708-138-p2s2w2</LM>
 </w.rf>
 <form>*</form>
-<lemma>*</lemma>
-<tag>Z:-------------</tag>
+<tag><AM lemma="*" src="orig" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p2s2w3">
 <src.rf>manual</src.rf>
@@ -194,8 +194,8 @@
 <LM>w#w-mf930708-138-p2s2w3</LM>
 </w.rf>
 <form>tenisovým</form>
-<lemma>tenisový</lemma>
-<tag>AAIS7----1A----</tag>
+<tag><AM lemma="tenisový" src="orig" selected="1">AAIS7----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p2s2w4">
 <src.rf>manual</src.rf>
@@ -203,8 +203,8 @@
 <LM>w#w-mf930708-138-p2s2w4</LM>
 </w.rf>
 <form>světem</form>
-<lemma>svět</lemma>
-<tag>NNIS7-----A----</tag>
+<tag><AM lemma="svět" src="orig" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p2s2w5">
 <src.rf>manual</src.rf>
@@ -212,8 +212,8 @@
 <LM>w#w-mf930708-138-p2s2w5</LM>
 </w.rf>
 <form>*</form>
-<lemma>*</lemma>
-<tag>Z:-------------</tag>
+<tag><AM lemma="*" src="orig" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p2s2w6">
 <src.rf>manual</src.rf>
@@ -221,8 +221,8 @@
 <LM>w#w-mf930708-138-p2s2w6</LM>
 </w.rf>
 <form>tenisovým</form>
-<lemma>tenisový</lemma>
-<tag>AAIS7----1A----</tag>
+<tag><AM lemma="tenisový" src="orig" selected="1">AAIS7----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-138-p2s2w7">
 <src.rf>manual</src.rf>
@@ -230,8 +230,8 @@
 <LM>w#w-mf930708-138-p2s2w7</LM>
 </w.rf>
 <form>světem</form>
-<lemma>svět</lemma>
-<tag>NNIS7-----A----</tag>
+<tag><AM lemma="svět" src="orig" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

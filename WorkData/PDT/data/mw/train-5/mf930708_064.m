@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_30_schema.xml" />
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="mf930708_064.w" />
+<reffile id="w" name="wdata" href="mf930708_064.w"></reffile>
 </references>
 </head>
 <meta>
@@ -19,8 +19,8 @@
 <LM>w#w-mf930708-064-p1s1w1</LM>
 </w.rf>
 <form>Jaromír</form>
-<lemma>Jaromír_;Y</lemma>
-<tag>NNMS1-----A----</tag>
+<tag><AM lemma="Jaromír_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-064-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +28,8 @@
 <LM>w#w-mf930708-064-p1s1w2</LM>
 </w.rf>
 <form>Švejdík</form>
-<lemma>Švejdík_;S</lemma>
-<tag>NNMS1-----A----</tag>
+<tag><AM lemma="Švejdík_;S" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-064-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +37,8 @@
 <LM>w#w-mf930708-064-p1s1w3</LM>
 </w.rf>
 <form>z</form>
-<lemma>z-1</lemma>
-<tag>RR--2----------</tag>
+<tag><AM lemma="z-1" src="orig" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-064-p1s1w4">
 <src.rf>manual</src.rf>
@@ -46,8 +46,8 @@
 <LM>w#w-mf930708-064-p1s1w4</LM>
 </w.rf>
 <form>Priessnitz</form>
-<lemma>Priessnitz_;S</lemma>
-<tag>NNMS1-----A----</tag>
+<tag><AM lemma="Priessnitz_;S" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

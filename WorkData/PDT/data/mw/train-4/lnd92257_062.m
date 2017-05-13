@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_30_schema.xml" />
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="lnd92257_062.w" />
+<reffile id="w" name="wdata" href="lnd92257_062.w"></reffile>
 </references>
 </head>
 <meta>
@@ -19,8 +19,8 @@
 <LM>w#w-lnd92257-062-p1s1Aw1</LM>
 </w.rf>
 <form>Kresba</form>
-<lemma>kresba</lemma>
-<tag>NNFS1-----A----</tag>
+<tag><AM lemma="kresba" src="orig" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-062-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -28,8 +28,8 @@
 <LM>w#w-lnd92257-062-p1s1Aw2</LM>
 </w.rf>
 <form>Miroslav</form>
-<lemma>Miroslav_;Y</lemma>
-<tag>NNMS1-----A----</tag>
+<tag><AM lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-062-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -37,8 +37,8 @@
 <LM>w#w-lnd92257-062-p1s1Aw3</LM>
 </w.rf>
 <form>Kemel</form>
-<lemma>Kemel_;S</lemma>
-<tag>NNMS1-----A----</tag>
+<tag><AM lemma="Kemel_;S" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_30_schema.xml" />
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="mf930708_020.w" />
+<reffile id="w" name="wdata" href="mf930708_020.w"></reffile>
 </references>
 </head>
 <meta>
@@ -19,8 +19,8 @@
 <LM>w#w-mf930708-020-p1s1w1</LM>
 </w.rf>
 <form>Některé</form>
-<lemma>některý</lemma>
-<tag>PZIP1----------</tag>
+<tag><AM lemma="některý" src="orig" selected="1">PZIP1----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-020-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +28,8 @@
 <LM>w#w-mf930708-020-p1s1w2</LM>
 </w.rf>
 <form>ze</form>
-<lemma>z-1</lemma>
-<tag>RV--2----------</tag>
+<tag><AM lemma="z-1" src="orig" selected="1">RV--2----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-020-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +37,8 @@
 <LM>w#w-mf930708-020-p1s1w3</LM>
 </w.rf>
 <form>zadržených</form>
-<lemma>zadržený_^(*2t)</lemma>
-<tag>AAIP2----1A----</tag>
+<tag><AM lemma="zadržený_^(*2t)" src="orig" selected="1">AAIP2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-020-p1s1w4">
 <src.rf>manual</src.rf>
@@ -46,8 +46,8 @@
 <LM>w#w-mf930708-020-p1s1w4</LM>
 </w.rf>
 <form>čínských</form>
-<lemma>čínský</lemma>
-<tag>AAIP2----1A----</tag>
+<tag><AM lemma="čínský" src="orig" selected="1">AAIP2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-020-p1s1w5">
 <src.rf>manual</src.rf>
@@ -55,8 +55,8 @@
 <LM>w#w-mf930708-020-p1s1w5</LM>
 </w.rf>
 <form>pasů</form>
-<lemma>pas-1_^(př._cestovní)</lemma>
-<tag>NNIP2-----A----</tag>
+<tag><AM lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-020-p1s1w6">
 <src.rf>manual</src.rf>
@@ -64,8 +64,8 @@
 <LM>w#w-mf930708-020-p1s1w6</LM>
 </w.rf>
 <form>jsou</form>
-<lemma>být</lemma>
-<tag>VB-P---3P-AA---</tag>
+<tag><AM lemma="být" src="orig" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-020-p1s1w7">
 <src.rf>manual</src.rf>
@@ -73,8 +73,8 @@
 <LM>w#w-mf930708-020-p1s1w7</LM>
 </w.rf>
 <form>rozešité</form>
-<lemma>rozešitý_^(*3ít)</lemma>
-<tag>AAIP1----1A----</tag>
+<tag><AM lemma="rozešitý_^(*3ít)" src="orig" selected="1">AAIP1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-020-p1s1w8">
 <src.rf>manual</src.rf>
@@ -82,8 +82,8 @@
 <LM>w#w-mf930708-020-p1s1w8</LM>
 </w.rf>
 <form>,</form>
-<lemma>,</lemma>
-<tag>Z:-------------</tag>
+<tag><AM lemma="," src="orig" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-020-p1s1w9">
 <src.rf>manual</src.rf>
@@ -91,8 +91,8 @@
 <LM>w#w-mf930708-020-p1s1w9</LM>
 </w.rf>
 <form>aby</form>
-<lemma>aby</lemma>
-<tag>J,-------------</tag>
+<tag><AM lemma="aby" src="orig" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-020-p1s1w11">
 <src.rf>manual</src.rf>
@@ -100,8 +100,8 @@
 <LM>w#w-mf930708-020-p1s1w11</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7-X4----------</tag>
+<tag><AM lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-020-p1s1w12">
 <src.rf>manual</src.rf>
@@ -109,8 +109,8 @@
 <LM>w#w-mf930708-020-p1s1w12</LM>
 </w.rf>
 <form>v</form>
-<lemma>v-1</lemma>
-<tag>RR--6----------</tag>
+<tag><AM lemma="v-1" src="orig" selected="1">RR--6----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-020-p1s1w13">
 <src.rf>manual</src.rf>
@@ -118,8 +118,8 @@
 <LM>w#w-mf930708-020-p1s1w13</LM>
 </w.rf>
 <form>nich</form>
-<lemma>on-1</lemma>
-<tag>P5XP6--3-------</tag>
+<tag><AM lemma="on-1" src="orig" selected="1">P5XP6--3-------</AM>
+</tag>
 </m>
 <m id="m-mf930708-020-p1s1w14">
 <src.rf>manual</src.rf>
@@ -127,8 +127,8 @@
 <LM>w#w-mf930708-020-p1s1w14</LM>
 </w.rf>
 <form>daly</form>
-<lemma>dát</lemma>
-<tag>VpTP---XR-AA---</tag>
+<tag><AM lemma="dát" src="orig" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-020-p1s1w15">
 <src.rf>manual</src.rf>
@@ -136,8 +136,8 @@
 <LM>w#w-mf930708-020-p1s1w15</LM>
 </w.rf>
 <form>vyměňovat</form>
-<lemma>vyměňovat_:T</lemma>
-<tag>Vf--------A----</tag>
+<tag><AM lemma="vyměňovat_:T" src="orig" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-020-p1s1w16">
 <src.rf>manual</src.rf>
@@ -145,8 +145,8 @@
 <LM>w#w-mf930708-020-p1s1w16</LM>
 </w.rf>
 <form>stránky</form>
-<lemma>stránka</lemma>
-<tag>NNFP1-----A----</tag>
+<tag><AM lemma="stránka" src="orig" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

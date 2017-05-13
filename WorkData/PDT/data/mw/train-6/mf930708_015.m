@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_30_schema.xml" />
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="mf930708_015.w" />
+<reffile id="w" name="wdata" href="mf930708_015.w"></reffile>
 </references>
 </head>
 <meta>
@@ -19,8 +19,8 @@
 <LM>w#w-mf930708-015-p1s1w1</LM>
 </w.rf>
 <form>Bývalý</form>
-<lemma>bývalý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag><AM lemma="bývalý_^(*2t)" src="auto" selected="1">AAMS1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-015-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,8 +28,8 @@
 <LM>w#w-mf930708-015-p1s1w2</LM>
 </w.rf>
 <form>generální</form>
-<lemma>generální</lemma>
-<tag>AAMS1----1A----</tag>
+<tag><AM lemma="generální" src="orig" selected="1">AAMS1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-015-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +37,8 @@
 <LM>w#w-mf930708-015-p1s1w3</LM>
 </w.rf>
 <form>prokurátor</form>
-<lemma>prokurátor</lemma>
-<tag>NNMS1-----A----</tag>
+<tag><AM lemma="prokurátor" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-015-p1s1w4">
 <src.rf>manual</src.rf>
@@ -46,8 +46,8 @@
 <LM>w#w-mf930708-015-p1s1w4</LM>
 </w.rf>
 <form>ČSR</form>
-<lemma>ČSR-1_:B_;G_^(Česká_socialistická_republika)</lemma>
-<tag>NNFXX-----A---8</tag>
+<tag><AM lemma="ČSR-1_:B_;G_^(Česká_socialistická_republika)" src="orig" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-015-p1s1w5">
 <src.rf>manual</src.rf>
@@ -55,8 +55,8 @@
 <LM>w#w-mf930708-015-p1s1w5</LM>
 </w.rf>
 <form>Jaroslav</form>
-<lemma>Jaroslav_;Y</lemma>
-<tag>NNMS1-----A----</tag>
+<tag><AM lemma="Jaroslav-1_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-015-p1s1w6">
 <src.rf>manual</src.rf>
@@ -64,8 +64,8 @@
 <LM>w#w-mf930708-015-p1s1w6</LM>
 </w.rf>
 <form>Krupauer</form>
-<lemma>Krupauer_;S</lemma>
-<tag>NNMS1-----A----</tag>
+<tag><AM lemma="Krupauer_;S" src="orig" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-015-p1s1w7">
 <src.rf>manual</src.rf>
@@ -73,8 +73,8 @@
 <LM>w#w-mf930708-015-p1s1w7</LM>
 </w.rf>
 <form>na</form>
-<lemma>na-1</lemma>
-<tag>RR--6----------</tag>
+<tag><AM lemma="na-1" src="orig" selected="1">RR--6----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-015-p1s1w8">
 <src.rf>manual</src.rf>
@@ -82,8 +82,8 @@
 <LM>w#w-mf930708-015-p1s1w8</LM>
 </w.rf>
 <form>chodbě</form>
-<lemma>chodba</lemma>
-<tag>NNFS6-----A----</tag>
+<tag><AM lemma="chodba" src="orig" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-015-p1s1w9">
 <src.rf>manual</src.rf>
@@ -91,8 +91,8 @@
 <LM>w#w-mf930708-015-p1s1w9</LM>
 </w.rf>
 <form>soudní</form>
-<lemma>soudní</lemma>
-<tag>AAFS2----1A----</tag>
+<tag><AM lemma="soudní" src="orig" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-015-p1s1w10">
 <src.rf>manual</src.rf>
@@ -100,8 +100,8 @@
 <LM>w#w-mf930708-015-p1s1w10</LM>
 </w.rf>
 <form>budovy</form>
-<lemma>budova</lemma>
-<tag>NNFS2-----A----</tag>
+<tag><AM lemma="budova" src="orig" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-015-p1s1w11">
 <src.rf>manual</src.rf>
@@ -109,8 +109,8 @@
 <LM>w#w-mf930708-015-p1s1w11</LM>
 </w.rf>
 <form>před</form>
-<lemma>před-1</lemma>
-<tag>RR--7----------</tag>
+<tag><AM lemma="před-1" src="orig" selected="1">RR--7----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-015-p1s1w12">
 <src.rf>manual</src.rf>
@@ -118,8 +118,8 @@
 <LM>w#w-mf930708-015-p1s1w12</LM>
 </w.rf>
 <form>zahájením</form>
-<lemma>zahájení_^(*3it)</lemma>
-<tag>NNNS7-----A----</tag>
+<tag><AM lemma="zahájení_^(*3it)" src="orig" selected="1">NNNS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-015-p1s1w13">
 <src.rf>manual</src.rf>
@@ -127,8 +127,8 @@
 <LM>w#w-mf930708-015-p1s1w13</LM>
 </w.rf>
 <form>včerejšího</form>
-<lemma>včerejší</lemma>
-<tag>AANS2----1A----</tag>
+<tag><AM lemma="včerejší" src="orig" selected="1">AANS2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-015-p1s1w14">
 <src.rf>manual</src.rf>
@@ -136,8 +136,8 @@
 <LM>w#w-mf930708-015-p1s1w14</LM>
 </w.rf>
 <form>jednání</form>
-<lemma>jednání_^(*3at)</lemma>
-<tag>NNNS2-----A----</tag>
+<tag><AM lemma="jednání_^(*3at)" src="orig" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>
