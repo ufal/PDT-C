@@ -5188,11 +5188,7 @@ sub EditMorphology {
 sub bind_button {
     my ($button, $key, $dialog) = @_;
     $dialog->bind(all => $key, sub {
-        $dialog->Walk(sub {
-            my $widget = shift;
-            $widget->invoke if 'Button' eq $widget->class
-                            && $button eq $widget->cget('-text')
-        })
+        $dialog->{SubWidget}{"B_$button"}->invoke
     });
 }
 
@@ -5317,22 +5313,18 @@ sub new_lemma_tag {
         ->pack(-side => 'right');
     $dialog->bind('<Alt-t>' => sub { $te->focus });
 
-    $dialog->Walk(sub {
-        my $widget = shift;
-        if ('Button' eq $widget->class && 'OK' eq $widget->cget('-text')) {
-            my $orig = $widget->cget('-command');
-            $widget->configure(-command => sub {
-                if (exists $VALID_TAGS{$tag}) {
-                    $orig->[0]->();
-                } else {
-                    $dialog->Dialog(-title  => 'Invalid tag',
-                                    -text   => 'Invalid tag',
-                                    -font   => $font,
-                                    -bitmap => 'error',
-                                    -buttons => [ 'OK' ]
-                                   )->Show;
-                }
-            });
+    my $ok_button = $dialog->{SubWidget}{'B_OK'};
+    my $orig = $ok_button->cget('-command');
+    $ok_button->configure(-command => sub {
+        if (exists $VALID_TAGS{$tag}) {
+            $orig->[0]->();
+        } else {
+            $dialog->Dialog(-title  => 'Invalid tag',
+                            -text   => 'Invalid tag',
+                            -font   => $font,
+                            -bitmap => 'error',
+                            -buttons => [ 'OK' ]
+                        )->Show;
         }
     });
 
