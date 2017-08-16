@@ -5309,12 +5309,20 @@ sub new_lemma_tag {
         ->pack(-side => 'right');
     $le->focus;
     $dialog->bind('<Alt-l>' => sub { $le->focus });
+    $le->bind('<Alt-c>' => sub { $le->insert(insert => '^') });
+    $le->bind('<Alt-u>' => sub { $le->insert(insert => '_') });
 
     my $tf = $dialog->Frame->pack;
     $tf->Label(-text => 'Tag')->pack(-side => 'left');
     my $te = $tf->Entry(-textvariable => \$tag)
         ->pack(-side => 'right');
     $dialog->bind('<Alt-t>' => sub { $te->focus });
+
+    my $hf = $dialog->Frame;
+    $hf->Label(-text => 'Alt+c ... ^ (Caret)')->pack;
+    $hf->Label(-text => 'Alt+u ... _ (Underline)')->pack;
+    $le->bind('<FocusOut>'  => sub { $hf->packForget });
+    $le->bind('<FocusIn>' => sub { $hf->pack });
 
     my $ok_button = $dialog->{SubWidget}{'B_OK'};
     my $orig = $ok_button->cget('-command');
