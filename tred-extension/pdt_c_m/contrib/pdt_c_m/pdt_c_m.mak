@@ -5275,9 +5275,9 @@ sub select_morph {
         my ($result, $lemma, $tag)
             = new_lemma_tag($form, $lemma_to_edit, $tag_to_edit);
         if ('OK' eq $result) {
-            AddToAlt($node, 'tag', Treex::PML::Container->new($tag, {
-                lemma => $lemma, '#content' => $tag, src => 'manual'
-            }, 1));
+            AddToAlt($node, 'tag',
+                     'Treex::PML::Factory'->createContainer($tag,
+                         { lemma => $lemma, src => 'manual' }, 1));
             $lb->insert(end => "$lemma  $tag");
             return [ $lb->size - 1 ]
         }
