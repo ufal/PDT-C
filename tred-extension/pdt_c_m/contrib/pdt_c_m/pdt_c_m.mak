@@ -18,6 +18,7 @@ Macros for annotation of the morphological layer of PDT-C.
 package pdt_c_m;
 use strict;
 use List::MoreUtils qw{ any };
+use List::Util qw{ first };
 use TrEd::Config qw( $font );
 
 BEGIN { 'PML_M'->import }
@@ -5171,7 +5172,7 @@ sub EditMorphology {
     ChangingFile(0);
     return if $root == $this;
 
-    my $selected = select_morph($this);
+    my $selected = shift || select_morph($this);
     return unless $selected;
 
     ChangingFile(1);
@@ -5461,6 +5462,47 @@ sub DeleteM {
         delete $tag->{selected};
         ChangingFile(1);
     }
+}
+
+
+sub assign_lemma_tag {
+    my ($lemma, $tag) = @_;
+    my @tags  = AltV($this->attr('tag'));
+    my $idx = first { $tags[$_]{lemma} eq $lemma
+                   && $tags[$_]{'#content'} eq $tag
+              } 0 .. $#tags;
+    unless (defined $idx) {
+        $idx = @tags;
+        ChangingFile(1);
+        AddToAlt($this, 'tag', 'Treex::PML::Factory'->createContainer($tag,
+                     { lemma => $lemma, src => 'manual' }, 1));
+    }
+    EditMorphology([$idx]);
+}
+
+
+
+#bind AnnotateForeignWord to f menu Annotate as Foreign Word
+sub AnnotateForeignWord {
+    ChangingFile(0);
+    return if $this == $root;
+
+    my $form  = $this->attr('form');
+    my $lemma = "$form-77";
+    my $tag   = 'F%-------------';
+    assign_lemma_tag($lemma, $tag);
+}
+
+
+#bind AnnotateAbbreviation to a menu Annotate as Abbreviation
+sub AnnotateAbbreviation {
+    ChangingFile(0);
+    return if $this == $root;
+
+    my $form  = $this->attr('form');
+    my $lemma = "$form-88_:B";
+    my $tag   = 'NNXXX-----A---8';
+    assign_lemma_tag($lemma, $tag);
 }
 
 
