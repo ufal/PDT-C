@@ -5172,7 +5172,8 @@ sub EditMorphology {
     ChangingFile(0);
     return if $root == $this;
 
-    my $selected = shift || select_morph($this);
+    my ($selected) = @_;
+    ref [] eq ref $selected or $selected = select_morph($this);
     return unless $selected;
 
     ChangingFile(1);
