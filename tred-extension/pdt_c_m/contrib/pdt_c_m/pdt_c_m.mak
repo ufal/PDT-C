@@ -19,6 +19,7 @@ package pdt_c_m;
 use strict;
 use List::MoreUtils qw{ any };
 use List::Util qw{ first };
+use File::Spec;
 use TrEd::Config qw( $font );
 
 BEGIN { 'PML_M'->import }
@@ -5117,6 +5118,7 @@ undef @VALID_TAGS{qw(
     Z#-------------
 )};
 
+my %DICT;
 
 my $STYLESHEET = 'PML_M_36';
 
@@ -5204,8 +5206,66 @@ sub bind_dialog {
 }
 
 
+sub load_dictionary {
+    my ($file) = @_;
+    open my $IN, '<:encoding(UTF-8)', $file or die $!;
+    while (<$IN>) {
+        chomp;
+        my ($form, $lemma, $tag) = split /\t/;
+        undef $DICT{$form}{$lemma}{$tag};
+    }
+}
+
+
+sub load_dictionaries {
+    my ($volume, $directories, $filename)
+        = 'File::Spec'->splitpath(FileName());
+    my $up = 'File::Spec'->updir;
+    my $path;
+    my $tries = 0;
+    do {
+        ++$tries;
+        $directories = 'File::Spec'->catfile($directories, $up);
+        $path = 'File::Spec'->catpath($volume, $directories, 'all');
+    } until -d $path || $tries > 1000;
+    if ($tries > 1000) {
+        warn "Directories not found.\n";
+        return
+    }
+
+    opendir my $dir, $path or die $!;
+    while (my $file = readdir $dir) {
+        next if $file !~ /^dict-updates-[[:upper:]]{2}\.txt$/;
+        load_dictionary('File::Spec'->catfile($path, $file));
+    }
+}
+
+
+sub update_dictionary {
+    my ($form, $lemma, $tag) = @_;
+    my ($volume, $directories, $filename)
+        = 'File::Spec'->splitpath(FileName());
+    my @dirs = 'File::Spec'->splitdir($directories);
+    pop @dirs until @dirs < 2 || $dirs[-2] eq 'users';
+    unless ($dirs[-2] eq 'users') {
+        warn "Username not identified.\n";
+        return
+    }
+    my $user = pop @dirs;
+    open my $OUT, '>>:encoding(UTF-8)', 'File::Spec'->catpath(
+        $volume,
+        'File::Spec'->catfile(@dirs, 'all'),
+        "dict-updates-$user.txt"
+    ) or die $!;
+    print {$OUT} join("\t", $form, $lemma, $tag), "\n";
+    close $OUT or die $!;
+ }
+
+
+
 sub select_morph {
     my ($node) = @_;
+    load_dictionaries() unless keys %DICT;
     my $alt_form = (grep 'New Form' eq $_->{type}, ListV($node->attr('comment'))
                    )[-1];
     $alt_form &&= $alt_form->{text};
@@ -5234,6 +5294,16 @@ sub select_morph {
 
     my @alt = AltV($node->attr('tag'));
     my @list = map tag2selection(), @alt;
+
+    if (exists $DICT{$form}) {
+        for my $add_lemma (keys %{ $DICT{$form} }) {
+            for my $add_tag (keys %{ $DICT{$form}{$add_lemma} }) {
+                push @list, "$add_lemma  $add_tag"
+                    unless grep $_ eq "$add_lemma  $add_tag", @list;
+            }
+        }
+    }
+
     my $lb = $db->add(ScrlListbox =>
         -font => $font,
         -selectmode => 'browse',
@@ -5245,7 +5315,7 @@ sub select_morph {
     $lb->insert('end', @list);
     $lb->focus;
     $lb->activate(0);
-    for my $i (0 .. $lb->size - 1) {
+    for my $i (0 .. $#alt) {
         if ($alt[$i]->get_attribute('recommended')) {
             $lb->itemconfigure($i, -foreground => 'green');
         } elsif ('orig' eq $alt[$i]->get_attribute('src')) {
@@ -5255,6 +5325,9 @@ sub select_morph {
             $lb->activate($i);
             $lb->itemconfigure($i, -background => 'yellow');
         }
+    }
+    for my $i ($#alt + 1 .. $#list) {
+        $lb->itemconfigure($i, -foreground => 'magenta');
     }
     $lb->see($lb->index('active'));
 
@@ -5266,7 +5339,11 @@ sub select_morph {
     }
 
     if ('OK' eq $answer) {
-        return $lb->curselection;
+        if ($lb->curselection->[0] > $#alt) {
+            my ($lemma, $tag) = split ' ', $list[ $lb->curselection->[0] ];
+            return add_new_analysis($node, $tag, $lemma, $#alt + 1, $form);
+        }
+        return $lb->curselection
     }
 
     if ($answer =~ /^(?: Edit | New )$/x) {
@@ -5277,15 +5354,23 @@ sub select_morph {
         my ($result, $lemma, $tag)
             = new_lemma_tag($form, $lemma_to_edit, $tag_to_edit);
         if ('OK' eq $result) {
-            AddToAlt($node, 'tag',
-                     'Treex::PML::Factory'->createContainer($tag,
-                         { lemma => $lemma, src => 'manual' }, 1));
-            $lb->insert(end => "$lemma  $tag");
-            return [ $lb->size - 1 ]
+            return add_new_analysis($node, $tag, $lemma, $#alt + 1, $form);
         }
     }
 
     return
+}
+
+
+sub add_new_analysis {
+    my ($node, $tag, $lemma, $position, $form) = @_;
+    update_dictionary($form, $lemma, $tag)
+        unless exists $DICT{$form}
+            && exists $DICT{$form}{$lemma}
+            && exists $DICT{$form}{$lemma}{$tag};
+    AddToAlt($node, 'tag', 'Treex::PML::Factory'->createContainer(
+        $tag, { lemma => $lemma, src => 'manual' }, 1));
+    return [ $position ];
 }
 
 
