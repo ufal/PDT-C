@@ -5396,12 +5396,14 @@ sub new_lemma_tag {
     $dialog->bind('<Alt-l>' => sub { $le->focus });
     $le->bind('<Alt-c>' => sub { $le->insert(insert => '^') });
     $le->bind('<Alt-u>' => sub { $le->insert(insert => '_') });
+    ignore_spaces($le);
 
     my $tf = $dialog->Frame->pack;
     $tf->Label(-text => 'Tag')->pack(-side => 'left');
     my $te = $tf->Entry(-textvariable => \$tag)
         ->pack(-side => 'right');
     $dialog->bind('<Alt-t>' => sub { $te->focus });
+    ignore_spaces($te);
 
     my $hf = $dialog->Frame;
     $hf->Label(-text => 'Alt+c ... ^ (Caret)')->pack;
@@ -5425,6 +5427,14 @@ sub new_lemma_tag {
     });
 
     return $dialog->Show, $lemma, $tag
+}
+
+
+sub ignore_spaces {
+    my ($entry) = @_;
+    $entry->bind('<space>' => sub {
+        $entry->delete($entry->index('insert') - 1)
+    });
 }
 
 
