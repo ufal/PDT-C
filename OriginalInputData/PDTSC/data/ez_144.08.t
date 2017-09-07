@@ -172,7 +172,6 @@
 <a>
 <lex.rf>a#ez_144.08-SCzechA-m-d1t1639-2</lex.rf>
 </a>
-<coref_text.rf>ez_144.08-SCzechT-ez_144-385-n9</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ADDR</functor>
@@ -184,6 +183,11 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>3</deepord>
+<coref_text>
+<target-node.rf>ez_144.08-SCzechT-ez_144-385-n9</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ez_144.08-SCzechT-m-d1t1639-4">
 <a>
@@ -264,7 +268,6 @@
 <a>
 <lex.rf>a#ez_144.08-SCzechA-m-d1t1641-4</lex.rf>
 </a>
-<coref_text.rf>ez_144.08-SCzechT-ez_144-d1e1636-x2-n5</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
@@ -276,13 +279,17 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>3</deepord>
+<coref_text>
+<target-node.rf>ez_144.08-SCzechT-ez_144-d1e1636-x2-n5</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ez_144.08-SCzechT-m-d1t1641-6">
 <a>
 <lex.rf>a#ez_144.08-SCzechA-m-d1t1641-6</lex.rf>
 <aux.rf>a#ez_144.08-SCzechA-m-d1t1641-5</aux.rf>
 </a>
-<coref_text.rf>ez_144.08-SCzechT-m-d1t1639-2</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ADDR</functor>
@@ -294,6 +301,11 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>4</deepord>
+<coref_text>
+<target-node.rf>ez_144.08-SCzechT-m-d1t1639-2</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 </children>
 <annot_comment>
@@ -318,10 +330,9 @@
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>1</deepord>
+<deepord>2</deepord>
 <children>
 <LM id="ez_144.08-SCzechT-ez_144-d1e1642-x2-roota2">
-<coref_text.rf>ez_144.08-SCzechT-m-d1t1641-4</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -329,13 +340,17 @@
 <gram>
 <sempos>n.pron.def.pers</sempos>
 </gram>
-<deepord>2</deepord>
+<deepord>1</deepord>
+<coref_text>
+<target-node.rf>ez_144.08-SCzechT-m-d1t1641-4</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ez_144.08-SCzechT-m-d1t1645-1">
 <a>
 <lex.rf>a#ez_144.08-SCzechA-m-d1t1645-1</lex.rf>
 </a>
-<coref_text.rf>ez_144.08-SCzechT-m-d1t1641-6</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
@@ -347,6 +362,11 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>3</deepord>
+<coref_text>
+<target-node.rf>ez_144.08-SCzechT-m-d1t1641-6</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ez_144.08-SCzechT-m-d1t1645-2">
 <a>

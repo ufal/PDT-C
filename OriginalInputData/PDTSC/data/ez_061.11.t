@@ -16,7 +16,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#EmpVerb</t_lemma>
 <functor>PRED</functor>
-<deepord>1</deepord>
+<deepord>2</deepord>
 <children id="ez_061.11-SCzechT-m-d1t3820-2">
 <a>
 <lex.rf>a#ez_061.11-SCzechA-m-d1t3820-2</lex.rf>
@@ -31,7 +31,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>2</deepord>
+<deepord>1</deepord>
 </children>
 </children>
 </LM>

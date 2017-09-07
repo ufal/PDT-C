@@ -168,7 +168,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t337-19</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-m-d1t337-14</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
@@ -178,6 +177,11 @@
 <number>sg</number>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t337-14</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t337-22">
 <a>
@@ -223,6 +227,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t337-10</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </LM>
@@ -354,6 +363,7 @@
 <lex.rf>a#ml_029.01-SCzechA-m-d1t371-5</lex.rf>
 <aux.rf>a#ml_029.01-SCzechA-m-d1t371-3</aux.rf>
 </a>
+<coref_special>exoph</coref_special>
 <nodetype>complex</nodetype>
 <t_lemma>fotka</t_lemma>
 <functor>LOC</functor>
@@ -418,6 +428,11 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t371-5</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-d1e372-x2-roota1">
 <a>
@@ -599,6 +614,11 @@
 </children>
 </LM>
 </children>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t371-1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </children>
@@ -639,7 +659,6 @@
 <deepord>3</deepord>
 <children>
 <LM id="ml_029.01-SCzechT-m-d1t396-1x3">
-<coref_text.rf>ml_029.01-SCzechT-ml_029-d1e372-x2-roota1</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -648,6 +667,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-ml_029-d1e372-x2-roota1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t396-4">
 <a>
@@ -732,7 +756,6 @@
 <lex.rf>a#ml_029.01-SCzechA-m-d1t398-8</lex.rf>
 <aux.rf>a#ml_029.01-SCzechA-m-d1t398-7</aux.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-m-d1t396-1x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>PAT</functor>
@@ -744,6 +767,11 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>8</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t396-1x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t398-12">
 <a>
@@ -760,6 +788,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>9</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t339-3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </LM>
@@ -809,7 +842,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t398-17</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-m-d1t398-8</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>PAT</functor>
@@ -821,9 +853,13 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>2</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t398-8</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t398-18x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t398-4</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -832,6 +868,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>3</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t398-4</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t398-20">
 <a>
@@ -887,13 +928,17 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t379-2</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t398-26">
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t398-26</lex.rf>
 <aux.rf>a#ml_029.01-SCzechA-m-d1t398-25</aux.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-m-d1t398-17</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ADDR</functor>
@@ -905,6 +950,11 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>2</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t398-17</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t398-24">
 <a>
@@ -916,7 +966,6 @@
 <deepord>3</deepord>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t398-27x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t398-18x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -925,6 +974,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>4</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t398-18x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-113-roota1">
 <nodetype>qcomplex</nodetype>
@@ -948,6 +1002,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t398-12</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t398-33">
 <a>
@@ -1102,7 +1161,6 @@
 </children>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-115-roota1">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t398-26</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -1111,6 +1169,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>5</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t398-26</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t400-8">
 <a>
@@ -1169,7 +1232,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t410-2</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-ml_029-115-roota1</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
@@ -1179,11 +1241,17 @@
 <number>sg</number>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-ml_029-115-roota1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t410-3">
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t410-3</lex.rf>
 </a>
+<coref_special>exoph</coref_special>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>PAT</functor>
@@ -1254,7 +1322,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t410-11</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-m-d1t398-27x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
@@ -1266,6 +1333,11 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>7</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t398-27x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t410-14">
 <a>
@@ -1285,7 +1357,6 @@
 <lex.rf>a#ml_029.01-SCzechA-m-d1t410-13</lex.rf>
 <aux.rf>a#ml_029.01-SCzechA-m-d1t410-12</aux.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-m-d1t410-2</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>LOC</functor>
@@ -1297,6 +1368,11 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>10</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t410-2</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 </children>
 </LM>
@@ -1333,7 +1409,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t414-1</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-m-d1t410-11</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
@@ -1345,9 +1420,13 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t410-11</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-d1e411-x2-roota1">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t400-8</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -1356,6 +1435,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>3</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t400-8</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t414-6">
 <a>
@@ -1389,7 +1473,6 @@
 <deepord>5</deepord>
 <children>
 <LM id="ml_029.01-SCzechT-m-d1t420-1x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t414-1</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -1398,6 +1481,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t414-1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t420-1">
 <a>
@@ -1431,7 +1519,6 @@
 <deepord>2</deepord>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-d1e415-x2-roota2">
-<coref_text.rf>ml_029.01-SCzechT-ml_029-d1e411-x2-roota1</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -1440,6 +1527,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>3</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-ml_029-d1e411-x2-roota1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t420-5">
 <a>
@@ -1456,6 +1548,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t414-6</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </LM>
@@ -1526,6 +1623,11 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>10</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t398-33</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </children>
@@ -1563,7 +1665,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t420-14</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-m-d1t420-8x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
@@ -1575,6 +1676,11 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t420-8x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t422-2">
 <a>
@@ -1593,7 +1699,6 @@
 <deepord>2</deepord>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-130-roota1">
-<coref_text.rf>ml_029.01-SCzechT-ml_029-d1e415-x2-roota2</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -1602,6 +1707,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>4</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-ml_029-d1e415-x2-roota2</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t422-4">
 <a>
@@ -1690,9 +1800,13 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t396-8</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-d1e437-x2-roota1">
-<coref_text.rf>ml_029.01-SCzechT-ml_029-130-roota1</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -1701,6 +1815,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>4</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-ml_029-130-roota1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t442-2">
 <a>
@@ -1726,6 +1845,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t420-5</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </children>
@@ -1769,7 +1893,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t448-1</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-m-d1t440-4</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
@@ -1779,6 +1902,11 @@
 <number>sg</number>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t440-4</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t448-4">
 <a>
@@ -1860,6 +1988,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t442-5</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </children>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t450-5">
@@ -1883,7 +2016,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t450-6</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-m-d1t448-4</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>PAT</functor>
@@ -1895,6 +2027,11 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>10</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t448-4</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t450-10">
 <a>
@@ -1915,7 +2052,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t450-9</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-m-d1t450-5</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -1927,6 +2063,11 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>12</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t450-5</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </children>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t450-13">
@@ -1944,6 +2085,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>13</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t420-11</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </LM>
@@ -2015,6 +2161,11 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>3</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t450-13</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t454-3">
 <a>
@@ -2067,6 +2218,11 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t454-2</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t459-5">
 <a>
@@ -2260,7 +2416,6 @@
 <deepord>2</deepord>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-d1e464-x2-roota3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t463-2</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -2269,6 +2424,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>4</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t463-2</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t467-2">
 <a>
@@ -2308,7 +2468,6 @@
 <deepord>4</deepord>
 <children>
 <LM id="ml_029.01-SCzechT-m-d1t467-5x3">
-<coref_text.rf>ml_029.01-SCzechT-ml_029-d1e464-x2-roota3</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -2317,6 +2476,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-ml_029-d1e464-x2-roota3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-162-roota1">
 <a>
@@ -2439,6 +2603,11 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>11</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t450-10</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </LM>
@@ -2489,7 +2658,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t471-2</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-m-d1t467-5x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
@@ -2499,6 +2667,11 @@
 <number>sg</number>
 </gram>
 <deepord>3</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t467-5x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 </children>
 </children>
@@ -2542,9 +2715,13 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t450-6</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-d1e472-x2-roota1">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t471-2</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -2553,6 +2730,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>3</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t471-2</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 </children>
 </children>
@@ -2634,7 +2816,6 @@
 <deepord>3</deepord>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t479-11x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t420-14</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -2643,6 +2824,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>5</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t420-14</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-172-roota1">
 <nodetype>atom</nodetype>
@@ -2704,10 +2890,19 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t448-1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </children>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t479-4</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-172-roota2">
-<coref_text.rf>ml_029.01-SCzechT-ml_029-d1e472-x2-roota1</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -2716,6 +2911,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>11</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-ml_029-d1e472-x2-roota1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 </children>
 </LM>
@@ -2761,6 +2961,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t410-13</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-d1e484-x2-roota1">
 <nodetype>qcomplex</nodetype>
@@ -2805,7 +3010,6 @@
 <deepord>3</deepord>
 <children>
 <LM id="ml_029.01-SCzechT-ml_029-d1e492-x2-roota2">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t491-3</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -2814,6 +3018,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t491-3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-d1e492-x2-roota3">
 <nodetype>qcomplex</nodetype>
@@ -2873,7 +3082,6 @@
 <deepord>3</deepord>
 <children>
 <LM id="ml_029.01-SCzechT-m-d1t497-2x3">
-<coref_text.rf>ml_029.01-SCzechT-ml_029-d1e492-x2-roota2</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -2882,6 +3090,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-ml_029-d1e492-x2-roota2</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-177-roota1">
 <nodetype>qcomplex</nodetype>
@@ -3006,7 +3219,6 @@
 <deepord>1</deepord>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t517-4x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t497-2x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -3015,6 +3227,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>2</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t497-2x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t517-6">
 <a>
@@ -3059,6 +3276,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1e372-x2-90</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </LM>
@@ -3175,6 +3397,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t479-9</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t531-1x3">
 <coref_special>exoph</coref_special>
@@ -3297,7 +3524,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t531-9</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-m-d1t517-4x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
@@ -3309,6 +3535,11 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>11</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t517-4x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t531-14">
 <a>
@@ -3403,7 +3634,6 @@
 <deepord>4</deepord>
 <children>
 <LM id="ml_029.01-SCzechT-m-d1t533-5x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t531-9</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -3412,12 +3642,16 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t531-9</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t533-4">
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t533-4</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-m-d1t531-16</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>CPHR</functor>
@@ -3445,6 +3679,11 @@
 </gram>
 <deepord>3</deepord>
 </children>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t531-16</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-199-roota1">
 <nodetype>qcomplex</nodetype>
@@ -3510,9 +3749,13 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t521-2</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t542-2x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t479-11x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -3521,6 +3764,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>2</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t479-11x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-d1e535-x2-roota1">
 <nodetype>qcomplex</nodetype>
@@ -3544,6 +3792,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-ml_029-d1e437-x2-roota1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </children>
@@ -3574,7 +3827,6 @@
 <deepord>2</deepord>
 <children>
 <LM id="ml_029.01-SCzechT-m-d1t550-1x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t542-2x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -3583,6 +3835,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t542-2x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-d1e543-x2-roota1">
 <nodetype>qcomplex</nodetype>
@@ -3620,7 +3877,6 @@
 <deepord>2</deepord>
 <children>
 <LM id="ml_029.01-SCzechT-m-d1t550-3x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t550-1x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -3629,6 +3885,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t550-1x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t550-6">
 <a>
@@ -3719,6 +3980,11 @@
 </LM>
 </children>
 </children>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t422-8</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </children>
@@ -3749,7 +4015,6 @@
 <deepord>3</deepord>
 <children>
 <LM id="ml_029.01-SCzechT-m-d1t550-17x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t550-3x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -3758,6 +4023,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t550-3x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t550-18">
 <a>
@@ -3770,6 +4040,11 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>2</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t550-9</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t550-19">
 <a>
@@ -3864,6 +4139,11 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>9</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t550-18</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t550-27">
 <a>
@@ -3877,6 +4157,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t542-1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </LM>
@@ -3913,7 +4198,6 @@
 <deepord>3</deepord>
 <children>
 <LM id="ml_029.01-SCzechT-m-d1t558-2x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t550-17x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -3922,6 +4206,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t550-17x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-d1e551-x2-roota1">
 <coref_special>exoph</coref_special>
@@ -3988,6 +4277,11 @@
 </gram>
 <deepord>7</deepord>
 </children>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t398-23</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </children>
@@ -4047,9 +4341,13 @@
 </gram>
 <deepord>1</deepord>
 </children>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t558-7</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t566-6x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t558-2x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -4058,9 +4356,13 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>3</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t558-2x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-d1e559-x2-roota1">
-<coref_text.rf>ml_029.01-SCzechT-ml_029-d1e551-x2-roota1</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -4069,6 +4371,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>5</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-ml_029-d1e551-x2-roota1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t566-17">
 <a>
@@ -4112,9 +4419,13 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t533-5x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t566-17x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t566-6x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -4123,6 +4434,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>8</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t566-6x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t566-25">
 <a>
@@ -4139,6 +4455,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>9</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t398-30</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t566-20">
 <a>
@@ -4302,6 +4623,11 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>5</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t566-33</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t566-39">
 <a>
@@ -4357,9 +4683,13 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>9</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t566-36</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-229-roota2">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t566-17x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -4368,13 +4698,17 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>11</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t566-17x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t566-46">
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t566-46</lex.rf>
 <aux.rf>a#ml_029.01-SCzechA-m-d1t566-45</aux.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-m-d1t566-15</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>PAT</functor>
@@ -4386,6 +4720,11 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>12</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t566-15</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t566-47">
 <a>
@@ -4414,7 +4753,6 @@
 <deepord>4</deepord>
 <children>
 <LM id="ml_029.01-SCzechT-m-d1t566-53x3">
-<coref_text.rf>ml_029.01-SCzechT-ml_029-229-roota2</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -4423,6 +4761,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-ml_029-229-roota2</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t566-53">
 <a>
@@ -4492,7 +4835,6 @@
 <deepord>6</deepord>
 <children>
 <LM id="ml_029.01-SCzechT-ml_029-244-roota1">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t566-46</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -4501,6 +4843,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>5</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t566-46</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t566-65">
 <a>
@@ -4558,7 +4905,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t566-62</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-ml_029-244-roota1</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -4570,6 +4916,11 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>9</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-ml_029-244-roota1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t566-70">
 <a>
@@ -4594,7 +4945,6 @@
 <deepord>13</deepord>
 <children>
 <LM id="ml_029.01-SCzechT-m-d1t566-70x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t566-53x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -4603,6 +4953,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>11</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t566-53x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t566-68">
 <a>
@@ -4766,6 +5121,11 @@
 <deepord>3</deepord>
 </LM>
 </children>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t566-31</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 <annot_comment>
 <type>New valency frame</type>
 <text>P</text>
@@ -4775,7 +5135,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t566-85</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-ml_029-244-roota2</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ADDR</functor>
@@ -4787,6 +5146,11 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>4</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-ml_029-244-roota2</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t566-87">
 <a>
@@ -4802,6 +5166,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t566-62</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t566-94">
 <a>
@@ -4816,7 +5185,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t566-92</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-m-d1t566-87</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ADDR</functor>
@@ -4828,9 +5196,13 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>7</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t566-87</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t566-93x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t566-85</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -4839,6 +5211,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>8</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t566-85</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t566-93">
 <a>
@@ -4964,6 +5341,11 @@
 </gram>
 <deepord>17</deepord>
 </children>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t566-25</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t566-105">
 <a>
@@ -5030,7 +5412,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t572-3</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-m-d1t566-89</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
@@ -5040,6 +5421,11 @@
 <number>sg</number>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t566-89</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t572-5">
 <a>
@@ -5109,7 +5495,6 @@
 <deepord>5</deepord>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t580-6x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t566-93x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -5118,6 +5503,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>6</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t566-93x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t580-7">
 <a>
@@ -5271,9 +5661,13 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t566-92</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t584-6x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t580-6x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -5282,6 +5676,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>2</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t580-6x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t584-8">
 <a>
@@ -5330,10 +5729,6 @@
 <lex.rf>a#ml_029.01-SCzechA-m-d1t584-12</lex.rf>
 <aux.rf>a#ml_029.01-SCzechA-m-d1t584-11</aux.rf>
 </a>
-<coref_text.rf>
-<LM>ml_029.01-SCzechT-m-d1t584-8</LM>
-<LM>ml_029.01-SCzechT-m-d1t584-3</LM>
-</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>LOC</functor>
@@ -5345,6 +5740,18 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>5</deepord>
+<bridging>
+<LM>
+<target-node.rf>ml_029.01-SCzechT-m-d1t584-8</target-node.rf>
+<informal-type>SUB_SET</informal-type>
+<src>coref</src>
+</LM>
+<LM>
+<target-node.rf>ml_029.01-SCzechT-m-d1t584-3</target-node.rf>
+<informal-type>SUB_SET</informal-type>
+<src>coref</src>
+</LM>
+</bridging>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-287-roota1">
 <a>
@@ -5406,7 +5813,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t584-20</lex.rf>
 </a>
-<coref_special>exoph</coref_special>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -5477,7 +5883,6 @@
 <deepord>16</deepord>
 <children>
 <LM id="ml_029.01-SCzechT-ml_029-287-roota2">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t584-8</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -5486,15 +5891,16 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>14</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t584-8</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t584-27">
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t584-27</lex.rf>
 </a>
-<coref_text.rf>
-<LM>ml_029.01-SCzechT-ml_029-287-roota1</LM>
-<LM>ml_029.01-SCzechT-m-d1t584-3</LM>
-</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>PAT</functor>
@@ -5506,6 +5912,18 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>17</deepord>
+<bridging>
+<LM>
+<target-node.rf>ml_029.01-SCzechT-ml_029-287-roota1</target-node.rf>
+<informal-type>SUB_SET</informal-type>
+<src>coref</src>
+</LM>
+<LM>
+<target-node.rf>ml_029.01-SCzechT-m-d1t584-3</target-node.rf>
+<informal-type>SUB_SET</informal-type>
+<src>coref</src>
+</LM>
+</bridging>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t584-31">
 <a>
@@ -5535,6 +5953,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>19</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t566-102</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 <annot_comment>
 <type>T-lemma</type>
 <text>Velké písmeno</text>
@@ -5569,6 +5992,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>21</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t584-30</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </children>
 </LM>
 </children>
@@ -5641,6 +6069,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t584-35</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </LM>
@@ -5681,6 +6114,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-ml_029-287-roota1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t592-12">
 <a>
@@ -5744,7 +6182,6 @@
 <deepord>2</deepord>
 <children>
 <LM id="ml_029.01-SCzechT-m-d1t602-2x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t592-9</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -5753,6 +6190,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t592-9</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t602-3">
 <a>
@@ -5911,10 +6353,20 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>9</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t584-31</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </LM>
 </children>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t592-1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t604-8">
 <a>
@@ -5930,6 +6382,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t592-5</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </children>
@@ -6001,7 +6458,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t612-1</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-ml_029-287-roota2</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
@@ -6013,6 +6469,11 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-ml_029-287-roota2</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t612-4">
 <a>
@@ -6028,6 +6489,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t542-4</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t612-5">
 <a>
@@ -6094,7 +6560,6 @@
 <deepord>1</deepord>
 </LM>
 <LM id="ml_029.01-SCzechT-ml_029-d1e613-x2-roota3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t612-4</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -6103,6 +6568,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>2</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t612-4</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t618-3">
 <a>
@@ -6119,11 +6589,15 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t612-7</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t618-13x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t612-1</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -6132,6 +6606,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>6</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t612-1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t618-13">
 <a>
@@ -6215,6 +6694,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-ml_029-d1e613-x2-roota3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>lenk</src>
+</coref_text>
 </LM>
 </children>
 </LM>
@@ -6282,7 +6766,6 @@
 </children>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t618-16x3">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t618-13x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -6291,6 +6774,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>3</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t618-13x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t618-24">
 <a>
@@ -6351,7 +6839,6 @@
 <deepord>3</deepord>
 <children>
 <LM id="ml_029.01-SCzechT-ml_029-d1e621-x2-roota1">
-<coref_text.rf>ml_029.01-SCzechT-m-d1t618-16x3</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -6360,6 +6847,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-m-d1t618-16x3</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1e621-x2-239">
 <a>
@@ -6562,7 +7054,6 @@
 <a>
 <lex.rf>a#ml_029.01-SCzechA-m-d1t646-1</lex.rf>
 </a>
-<coref_text.rf>ml_029.01-SCzechT-ml_029-d1e621-x2-roota1</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
@@ -6574,6 +7065,11 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_029.01-SCzechT-ml_029-d1e621-x2-roota1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_029.01-SCzechT-m-d1t646-2">
 <a>

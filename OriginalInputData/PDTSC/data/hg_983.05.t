@@ -144,7 +144,6 @@
 <deepord>10</deepord>
 <children>
 <LM id="hg-13808_03.05-SCzechT-hg-13808_03-1214-n10">
-<coref_text.rf>hg-13808_03.05-SCzechT-m-d1t2105-5</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -153,6 +152,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>9</deepord>
+<coref_text>
+<target-node.rf>hg-13808_03.05-SCzechT-m-d1t2105-5</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="hg-13808_03.05-SCzechT-m-d1t2107-9">
 <a>

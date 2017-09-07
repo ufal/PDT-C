@@ -184,7 +184,6 @@
 <a>
 <lex.rf>a#ml_142.10-SCzechA-m-d1t1258-1</lex.rf>
 </a>
-<coref_text.rf>ml_142.10-SCzechT-m-d1t1254-6</coref_text.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
@@ -196,9 +195,13 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_142.10-SCzechT-m-d1t1254-6</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_142.10-SCzechT-ml_142-d1e1255-x2-roota2">
-<coref_text.rf>ml_142.10-SCzechT-m-d1t1254-4</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -207,6 +210,11 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>3</deepord>
+<coref_text>
+<target-node.rf>ml_142.10-SCzechT-m-d1t1254-4</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_142.10-SCzechT-m-d1t1258-2">
 <a>
@@ -248,7 +256,6 @@
 <deepord>2</deepord>
 <children>
 <LM id="ml_142.10-SCzechT-m-d1t1258-4x3">
-<coref_text.rf>ml_142.10-SCzechT-m-d1t1258-1</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -257,9 +264,17 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>1</deepord>
+<coref_text>
+<target-node.rf>ml_142.10-SCzechT-m-d1t1258-1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<str_comment>
+<name>AMBIG</name>
+<comment>mohl to říct kterýkoli z nich</comment>
+</str_comment>
+<src>coref</src>
+</coref_text>
 </LM>
 <LM id="ml_142.10-SCzechT-ml_142-356-roota1">
-<coref_text.rf>ml_142.10-SCzechT-ml_142-d1e1255-x2-roota2</coref_text.rf>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -268,6 +283,15 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>3</deepord>
+<coref_text>
+<target-node.rf>ml_142.10-SCzechT-ml_142-d1e1255-x2-roota2</target-node.rf>
+<informal-type>SPEC</informal-type>
+<str_comment>
+<name>AMBIG</name>
+<comment>není jasné, kdo to komu řekl</comment>
+</str_comment>
+<src>coref</src>
+</coref_text>
 </LM>
 </children>
 </children>

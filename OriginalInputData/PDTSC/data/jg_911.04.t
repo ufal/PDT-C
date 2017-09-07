@@ -30,7 +30,6 @@
 <t_lemma>stát_se</t_lemma>
 <functor>PRED</functor>
 <is_member>1</is_member>
-<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 <number>pl</number>
