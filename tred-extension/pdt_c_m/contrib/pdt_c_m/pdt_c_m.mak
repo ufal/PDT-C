@@ -5329,7 +5329,7 @@ sub select_morph {
     for my $i ($#alt + 1 .. $#list) {
         $lb->itemconfigure($i, -foreground => 'magenta');
     }
-    $lb->see($lb->index('active'));
+    $lb->see('active');
 
     my $answer = $db->Show;
 
@@ -5433,7 +5433,7 @@ sub new_lemma_tag {
 sub ignore_spaces {
     my ($entry) = @_;
     $entry->bind('<space>' => sub {
-        $entry->delete($entry->index('insert') - 1)
+        $entry->delete('insert - 1 char')
     });
 }
 
