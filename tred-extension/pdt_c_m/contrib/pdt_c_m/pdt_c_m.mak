@@ -5348,7 +5348,7 @@ sub new_lemma_tag {
 sub ignore_spaces {
     my ($entry) = @_;
     $entry->bind('<space>' => sub {
-        $entry->delete($entry->index('insert') - 1)
+        $entry->delete('insert - 1 char')
     });
 }
 
