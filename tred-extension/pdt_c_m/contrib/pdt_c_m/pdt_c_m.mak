@@ -1003,6 +1003,7 @@ undef @VALID_TAGS{qw(
     AANS3----3N---6
     AANS4----1A----
     AANS4----1A---6
+    AANS4----1A---8
     AANS4----1N----
     AANS4----1N---6
     AANS4----2A----
@@ -5024,6 +5025,7 @@ undef @VALID_TAGS{qw(
     VsMP---XX-NP---
     VsMP---XX-NP--2
     VsNS---XX-AP---
+    VsNS---XX-AP--1
     VsNS---XX-AP--2
     VsNS---XX-AP--6
     VsNS---XX-NP---
@@ -5605,7 +5607,7 @@ sub AnnotateAbbreviation {
 
     my $form  = $this->attr('form');
     my $lemma = "$form-88_:B";
-    my $tag   = 'NNXXX-----A---8';
+    my $tag   = 'NNXXX-----A----';
     assign_lemma_tag($lemma, $tag);
 }
 
