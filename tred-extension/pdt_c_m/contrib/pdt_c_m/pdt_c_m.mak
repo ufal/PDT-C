@@ -5259,8 +5259,8 @@ sub update_dictionary {
     ) or die $!;
     print {$OUT} join("\t", $form, $lemma, $tag), "\n";
     close $OUT or die $!;
+    undef $DICT{$form}{$lemma}{$tag};
  }
-
 
 
 sub select_morph {
