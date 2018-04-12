@@ -5248,15 +5248,17 @@ sub update_dictionary {
     my ($volume, $directories, $filename)
         = 'File::Spec'->splitpath(FileName());
     my @dirs = 'File::Spec'->splitdir($directories);
-    pop @dirs until @dirs < 2 || $dirs[-2] eq 'users';
-    unless ($dirs[-2] eq 'users') {
+    my ($alldir, $user);
+    $user = pop @dirs until !@dirs
+        || $user =~ /^[[:upper:]]{2}$/ && -d ($alldir =
+            File::Spec->catpath($volume, File::Spec->catdir(@dirs, 'all')));
+    unless ($user =~ /^[[:upper:]]{2}$/ and -d $alldir) {
         warn "Username not identified.\n";
         return
     }
-    my $user = pop @dirs;
     open my $OUT, '>>:encoding(UTF-8)', 'File::Spec'->catpath(
         $volume,
-        'File::Spec'->catfile(@dirs, 'all'),
+        $alldir,
         "dict-updates-$user.txt"
     ) or die $!;
     print {$OUT} join("\t", $form, $lemma, $tag), "\n";
