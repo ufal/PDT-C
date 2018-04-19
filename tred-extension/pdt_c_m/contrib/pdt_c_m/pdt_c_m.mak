@@ -5249,13 +5249,16 @@ sub update_dictionary {
         = 'File::Spec'->splitpath(FileName());
     my @dirs = 'File::Spec'->splitdir($directories);
     my ($alldir, $user);
-    $user = pop @dirs until !@dirs
-        || $user =~ /^[[:upper:]]{2}$/ && -d ($alldir =
-            File::Spec->catpath($volume, File::Spec->catdir(@dirs, 'all')));
-    unless ($user =~ /^[[:upper:]]{2}$/ and -d $alldir) {
+    $user = pop @dirs until ! @dirs
+        || $user =~ /^[[:upper:]]{2}$/
+            && -d ($alldir = 'File::Spec'->catpath(
+                $volume, 'File::Spec'->catdir(@dirs, 'all')
+            ));
+    unless ($user =~ /^[[:upper:]]{2}$/ && -d $alldir) {
         warn "Username not identified.\n";
         return
     }
+
     open my $OUT, '>>:encoding(UTF-8)', 'File::Spec'->catpath(
         $volume,
         $alldir,
