@@ -5259,8 +5259,7 @@ sub update_dictionary {
         return
     }
 
-    open my $OUT, '>>:encoding(UTF-8)', 'File::Spec'->catpath(
-        $volume,
+    open my $OUT, '>>:encoding(UTF-8)', 'File::Spec'->catfile(
         $alldir,
         "dict-updates-$user.txt"
     ) or die $!;
