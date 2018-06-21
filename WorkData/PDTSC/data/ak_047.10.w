@@ -1,0 +1,1 @@
+../../../OriginalInputData/PDTSC/data/ak_047.10.w

@@ -1,0 +1,1 @@
+../../../OriginalInputData/PDTSC/data/lk_012.06.w

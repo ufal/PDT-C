@@ -1,0 +1,1 @@
+../../../OriginalInputData/PDTSC/data/ak_020.12.w
