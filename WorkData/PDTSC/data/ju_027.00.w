@@ -1,0 +1,1 @@
+../../../OriginalInputData/PDTSC/data/ju_027.00.w

@@ -5122,7 +5122,8 @@ undef @VALID_TAGS{qw(
 
 my %DICT;
 
-my $STYLESHEET = 'PML_M_36';
+my $PDT_STYLESHEET = 'PML_M_36';
+my $PDTSC_STYLESHEET = 'PML_M_36_SC';
 
 sub detect {
     PML::SchemaDescription() =~ /PDT 3.6 morphological/
@@ -5132,7 +5133,13 @@ sub detect {
 
 
 sub switch_context_hook {
-    SetCurrentStylesheet($STYLESHEET);
+    my @nodes = $root->descendants;
+
+    # PDT has "orig" (original manual annotation), PDTSC doesn't.
+    my $is_pdt = grep $_->get_attribute('src') eq 'orig',
+                 map AltV($_->attr('tag')),
+                 @nodes;
+    SetCurrentStylesheet($is_pdt ? $PDT_STYLESHEET : $PDTSC_STYLESHEET);
     TrEd::MinorModes::enable_minor_mode($grp, 'Show_Neighboring_Sentences');
     Redraw() if GUI();
 }

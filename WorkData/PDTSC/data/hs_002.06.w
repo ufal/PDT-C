@@ -1,0 +1,1 @@
+../../../OriginalInputData/PDTSC/data/hs_002.06.w
