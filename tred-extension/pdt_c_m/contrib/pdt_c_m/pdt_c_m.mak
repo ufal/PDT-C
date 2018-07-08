@@ -5352,7 +5352,7 @@ sub select_morph {
                                 ListV($node->attr('comment')));
     }
 
-    if ('OK' eq $answer) {
+    if ('OK' eq $answer && defined $lb->curselection) {
         if ($lb->curselection->[0] > $#alt) {
             my ($lemma, $tag) = split ' ', $list[ $lb->curselection->[0] ];
             return add_new_analysis($node, $tag, $lemma, $#alt + 1, $form);
