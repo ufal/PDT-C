@@ -5188,6 +5188,11 @@ sub EditMorphology {
     ref [] eq ref $selected or $selected = select_morph($this);
     return unless $selected;
 
+    return
+        if (single_or_no_tag() ? $this->attr('tag')
+                               : $this->attr('tag')->[ $selected->[0] ]
+        )->value =~ $NO_ANALYSIS;
+
     ChangingFile(1);
     if (single_or_no_tag()) {
         $this->attr('tag')->{selected} = 1;
@@ -5195,7 +5200,6 @@ sub EditMorphology {
     } else {
         delete $_->{selected} for @{ $this->attr('tag') };
         $this->attr('tag')->[ $selected->[0] ]{selected} = 1;
-
     }
 }
 
@@ -5306,7 +5310,7 @@ sub select_morph {
     bind_button(New  => '<Control-n>', $db);
     bind_button(Edit => '<Control-e>', $db);
 
-    my @alt = grep $_->value !~ $NO_ANALYSIS, AltV($node->attr('tag'));
+    my @alt = AltV($node->attr('tag'));
     my @list = map tag2selection(), @alt;
 
     if (exists $DICT{$form}) {
@@ -5330,7 +5334,9 @@ sub select_morph {
     $lb->focus;
     $lb->activate(0);
     for my $i (0 .. $#alt) {
-        if ($alt[$i]->get_attribute('recommended')) {
+        if ($alt[$i]->value =~ $NO_ANALYSIS) {
+            $lb->itemconfigure($i, -foreground => 'gray');
+        } elsif ($alt[$i]->get_attribute('recommended')) {
             $lb->itemconfigure($i, -foreground => 'green');
         } elsif ('orig' eq $alt[$i]->get_attribute('src')) {
             $lb->itemconfigure($i, -foreground => 'red');
@@ -5568,6 +5574,8 @@ sub DeleteM {
         ChangingFile(1);
         $this->{tag} = Alt(grep 'manual' ne $_->{src},
                            AltV($this->attr('tag')));
+        $this->{tag} = (AltV($this->attr('tag')))[0]
+            if 1 == AltV($this->attr('tag'));
     }
 
     return unless grep $_->{selected}, AltV($this->attr('tag'));
