@@ -19,7 +19,7 @@ node: <?
     if (1 < @{ [ AltV($this->attr('tag')) ] } ) {
         my ($sel) = grep $_->get_attribute('selected'), AltV($this->attr('tag'));
         $sel ? $sel->get_attribute('lemma') . "\n" . $sel->value : ''
-    } else {
+    } elsif ($this->attr('tag')->value !~ /^X@-+[-01]$/) {
         '#{gray}' . $this->attr('tag/lemma') . "\n" . $this->attr('tag')->value;
     }
 ?>
