@@ -5119,6 +5119,7 @@ undef @VALID_TAGS{qw(
     C=-------------
     Z#-------------
 )};
+my $NO_ANALYSIS = qr/^X@-+[-01]$/;
 
 my %DICT;
 
@@ -5305,7 +5306,7 @@ sub select_morph {
     bind_button(New  => '<Control-n>', $db);
     bind_button(Edit => '<Control-e>', $db);
 
-    my @alt = AltV($node->attr('tag'));
+    my @alt = grep $_->value !~ $NO_ANALYSIS, AltV($node->attr('tag'));
     my @list = map tag2selection(), @alt;
 
     if (exists $DICT{$form}) {
@@ -5427,7 +5428,7 @@ sub new_lemma_tag {
     my $ok_button = $dialog->{SubWidget}{'B_OK'};
     my $orig = $ok_button->cget('-command');
     $ok_button->configure(-command => sub {
-        if (exists $VALID_TAGS{$tag}) {
+        if (exists $VALID_TAGS{$tag} && $tag !~ $NO_ANALYSIS) {
             $orig->[0]->();
         } else {
             $dialog->Dialog(-title  => 'Invalid tag',
