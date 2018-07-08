@@ -9,7 +9,9 @@ node:<? $${#name} eq "s" ? '#{gray}${id}' :
    ((grep 'New Form' eq $_->{type}, ListV($this->attr('comment')))
     ? ('#{orange}' . (grep 'New Form' eq $_->{type}, ListV($this->attr('comment')))[-1]{text})
     : (
-        ref $this->attr('tag') eq 'Treex::PML::Alt'
+        (grep $_->get_attribute('selected'), AltV($this->attr('tag')))
+        ? '#{brown}'
+        : ref $this->attr('tag') eq 'Treex::PML::Alt'
         ? '#{black}'
         : $this->attr('tag')->get_attribute('recommended')
         ? '#{darkcyan}'
