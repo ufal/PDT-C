@@ -20,7 +20,9 @@ node:<? $${#name} eq "s" ? '#{gray}${id}' :
 node: <?
     if (1 < @{ [ AltV($this->attr('tag')) ] } ) {
         my ($sel) = grep $_->get_attribute('selected'), AltV($this->attr('tag'));
-        $sel ? $sel->get_attribute('lemma') . "\n" . $sel->value : ''
+        my ($recom) = grep $_->get_attribute('recommended'), AltV($this->attr('tag'));
+        $sel ? $sel->get_attribute('lemma') . "\n" . $sel->value :
+           '#{darkgray}' . $recom->get_attribute('lemma') . "\n" . $recom->value
     } elsif ($this->attr('tag')->value !~ /^X@-+[-01]$/) {
         '#{gray}' . $this->attr('tag/lemma') . "\n" . $this->attr('tag')->value;
     }
