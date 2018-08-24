@@ -24,6 +24,16 @@ use TrEd::Config qw( $font );
 
 BEGIN { 'PML_M'->import }
 
+push @TredMacro::AUTO_CONTEXT_GUESSING, sub {
+    my $schema = PML::SchemaName();
+    my $description = PML::SchemaDescription();
+    return 'pdt_c_m' if defined $schema && $schema eq 'mdata'
+                     && defined $description
+                     && $description eq 'PDT 3.6 morphological annotation';
+
+    return
+};
+
 unshift @TrEd::Config::open_types, [
     'PDT-like morphological layer',
     [ '.m' ],
