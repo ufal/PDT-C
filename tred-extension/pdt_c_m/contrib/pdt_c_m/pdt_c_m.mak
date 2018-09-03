@@ -5644,7 +5644,11 @@ sub AnnotateAbbreviation {
 
 #include <contrib/support/unbind_edit.inc>
 
+sub allow_switch_context_hook { return 'stop' unless detect() }
+
+
 sub enable_edit_node_hook { 'stop' }
+
 
 sub enable_attr_hook { 'stop' }
 
