@@ -1,4 +1,1 @@
-Development versions of MorphoDiTa models, with the following tagging accuracy:
-
-tagger_g1_p0-3l_15-es1.model.dtest 95.91% tags, 98.16% lemmas, 95.40% both.
-tagger_g1_p0-3l_15-es1.model.etest 95.61% tags, 97.89% lemmas, 95.12% both.
+Development versions of MorphoDiTa models.
