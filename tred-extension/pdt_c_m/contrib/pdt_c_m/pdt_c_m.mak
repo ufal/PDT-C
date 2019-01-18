@@ -1780,7 +1780,7 @@ sub select_morph {
     if ('OK' eq $answer && defined $lb->curselection) {
         if ($lb->curselection->[0] > $#alt) {
             my ($lemma, $tag) = split ' ', $list[ $lb->curselection->[0] ];
-            return add_new_analysis($node, $tag, $lemma, $#alt + 1, $form);
+            return add_new_analysis($node, $tag, $lemma, $#alt + 1, $form)
         }
         return $lb->curselection
     }
@@ -1809,7 +1809,7 @@ sub add_new_analysis {
             && exists $DICT{$form}{$lemma}{$tag};
     AddToAlt($node, 'tag', 'Treex::PML::Factory'->createContainer(
         $tag, { lemma => $lemma, src => 'manual' }, 1));
-    return [ $position ];
+    return [ $position ]
 }
 
 
