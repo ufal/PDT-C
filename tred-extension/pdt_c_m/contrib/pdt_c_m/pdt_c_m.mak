@@ -24,6 +24,8 @@ use TrEd::Config qw( $font );
 
 BEGIN { 'PML_M'->import }
 
+use constant SAVE_ANYWAY => 'Save anyway';
+
 push @TredMacro::AUTO_CONTEXT_GUESSING, sub {
     my $schema = PML::SchemaName();
     my $description = PML::SchemaDescription();
@@ -1792,8 +1794,9 @@ sub select_morph {
         }
         my ($result, $lemma, $tag)
             = new_lemma_tag($form, $lemma_to_edit, $tag_to_edit);
-        if ('OK' eq $result) {
-            return add_new_analysis($node, $tag, $lemma, $#alt + 1, $form);
+        warn "R: $result.";
+        if ('OK' eq $result || SAVE_ANYWAY eq $result) {
+            return add_new_analysis($node, $tag, $lemma, $#alt + 1, $form)
         }
     }
 
@@ -1856,12 +1859,23 @@ sub new_lemma_tag {
         if (exists $VALID_TAGS{$tag} && $tag !~ $NO_ANALYSIS) {
             $orig->[0]->();
         } else {
-            $dialog->Dialog(-title  => 'Invalid tag',
-                            -text   => 'Invalid tag',
-                            -font   => $font,
-                            -bitmap => 'error',
-                            -buttons => [ 'OK' ]
-                        )->Show;
+            my $buttons = [ 'OK' ];
+            push @$buttons, SAVE_ANYWAY if $tag !~ $NO_ANALYSIS;
+            my $dialog2 = $dialog->Dialog(-title  => 'Invalid tag',
+                                         -text   => "Invalid tag $tag",
+                                         -font   => $font,
+                                         -bitmap => 'error',
+                                         -buttons => $buttons,
+                                        );
+            my $anyway = $dialog2->Show;
+            $orig->[0]->() if SAVE_ANYWAY eq $anyway
+                           && 'Yes' eq $dialog2->Dialog(
+                               -title   => 'Use unknown tag',
+                               -text    => 'Are you sure?',
+                               -font    => $font,
+                               -bitmap  => 'question',
+                               -buttons => [qw[ Yes No ]],
+                           )->Show;
         }
     });
 
