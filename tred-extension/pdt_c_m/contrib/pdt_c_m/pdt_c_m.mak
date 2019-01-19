@@ -1544,6 +1544,10 @@ undef @VALID_TAGS{qw(
     AUXXXM--------9 NNMXX-----A---9
 )};
 my $NO_ANALYSIS = qr/^X@-+[-01]$/;
+my %VALID_POSITION;
+for my $tag (keys %VALID_TAGS) {
+    undef $VALID_POSITION{$_}{ substr $tag, $_, 1 } for 0 .. TAG_LENGTH - 1;
+}
 
 my %DICT;
 
@@ -1889,18 +1893,11 @@ sub new_lemma_tag {
 sub valid_positional_tag {
     my ($tag) = @_;
     return if TAG_LENGTH != length $tag;
-
-    my %unseen;
-    undef @unseen{0 .. TAG_LENGTH - 1};
-    for my $valid_tag (keys %VALID_TAGS) {
-        for my $position (0 .. TAG_LENGTH - 1) {
-            delete $unseen{$position}
-                if substr($valid_tag, $position, 1)
-                   eq substr $tag, $position, 1;
-        }
-        return 1 unless keys %unseen;
+    for my $position (0 .. TAG_LENGTH - 1) {
+        return 0 unless exists $VALID_POSITION{$position}{
+            substr $tag, $position, 1 };
     }
-    return 0
+    return 1
 }
 
 
