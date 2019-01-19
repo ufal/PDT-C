@@ -24,7 +24,10 @@ use TrEd::Config qw( $font );
 
 BEGIN { 'PML_M'->import }
 
-use constant SAVE_ANYWAY => 'Save anyway';
+use constant {
+    SAVE_ANYWAY => 'Save anyway',
+    TAG_LENGTH  => 15,
+};
 
 push @TredMacro::AUTO_CONTEXT_GUESSING, sub {
     my $schema = PML::SchemaName();
@@ -1859,7 +1862,8 @@ sub new_lemma_tag {
             $orig->[0]->();
         } else {
             my $buttons = [ 'OK' ];
-            push @$buttons, SAVE_ANYWAY if $tag !~ $NO_ANALYSIS;
+            push @$buttons, SAVE_ANYWAY if $tag !~ $NO_ANALYSIS
+                                        && valid_positional_tag($tag);
             my $dialog2 = $dialog->Dialog(-title  => 'Invalid tag',
                                          -text   => "Invalid tag $tag",
                                          -font   => $font,
@@ -1879,6 +1883,24 @@ sub new_lemma_tag {
     });
 
     return $dialog->Show, $lemma, $tag
+}
+
+
+sub valid_positional_tag {
+    my ($tag) = @_;
+    return if TAG_LENGTH != length $tag;
+
+    my %unseen;
+    undef @unseen{0 .. TAG_LENGTH - 1};
+    for my $valid_tag (keys %VALID_TAGS) {
+        for my $position (0 .. TAG_LENGTH - 1) {
+            delete $unseen{$position}
+                if substr($valid_tag, $position, 1)
+                   eq substr $tag, $position, 1;
+        }
+        return 1 unless keys %unseen;
+    }
+    return 0
 }
 
 
