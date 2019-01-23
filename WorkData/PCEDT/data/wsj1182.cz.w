@@ -1,0 +1,1 @@
+../../../OriginalInputData/PCEDT/data/wsj1182.cz.w
