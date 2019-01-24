@@ -18,7 +18,7 @@ sub main {
 
     my $bindir = $FindBin::Bin;
     my @resource_paths = ("$bindir/../../../tred-extension/pdt_c_m/resources",
-                          "$bindir/../../../OriginalInputData/PDT/resources");
+                          "$bindir/../../../OriginalInputData/PCEDT/resources");
     push @resource_paths, glob "$ENV{HOME}/.tred.d/extensions/*/resources";
     Treex::PML::SetResourcePaths(@resource_paths);
 
