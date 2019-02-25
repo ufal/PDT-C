@@ -1876,7 +1876,7 @@ sub new_lemma_tag {
                                         );
             my $anyway = $dialog2->Show;
             $orig->[0]->() if SAVE_ANYWAY eq $anyway
-                           && 'Yes' eq $dialog2->Dialog(
+                           && 'Yes' eq $dialog->Dialog(
                                -title   => 'Use unknown tag',
                                -text    => 'Are you sure?',
                                -font    => $font,
