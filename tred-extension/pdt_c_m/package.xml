@@ -14,7 +14,7 @@
   </description>
   <icon>icons/pdtc.png</icon>
   <require>
-    <extension name="pdt20" href="http://ufal.mff.cuni.cz/tred/extensions/core/pdt20" min_version="1.60"/>
+    <extension name="pdt20" href="http://ufal.mff.cuni.cz/tred/extensions/core/pdt20" min_version="1.59"/>
     <extension name="pdt30" href="http://ufal.mff.cuni.cz/tred/extensions/external/pdt30" min_version="1.22"/>
     <tred min_version="2.4936"/>
   </require>
