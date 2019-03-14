@@ -1904,6 +1904,9 @@ my %VALID_POSITION;
 for my $tag (keys %VALID_TAGS) {
     undef $VALID_POSITION{$_}{ substr $tag, $_, 1 } for 0 .. TAG_LENGTH - 1;
 }
+undef $VALID_POSITION{0}{S};
+undef @{ $VALID_POSITION{13} }{qw{ D P }};
+undef @{ $VALID_POSITION{14} }{qw{ a b }};
 
 my %DICT;
 
