@@ -29,11 +29,12 @@ xsh q{
 my $tagger_file = $FindBin::Bin . '/models/czech-morfflex-pdt-161209-devel.tagger';
 
 my $method = shift;
-my $run = { tag   => \&tag,
-            check => \&check,
-            retag => \&retag,
+my $run = { tag      => \&tag,
+            check    => \&check,
+            retag    => \&retag,
+            fix_form => \&fix_form,
 }->{$method};
-die "Unknown method '$method', use 'tag', 'retag', or 'check'.\n" unless $run;
+die "Unknown method '$method', use 'tag', 'retag', 'fix_form', or 'check'.\n" unless $run;
 $run->(@ARGV);
 
 
@@ -228,6 +229,129 @@ __XSH__
 __XSH__
     }
 }
+
+
+# Post process: Reanalyse the sentences containing "New Form"
+sub fix_form {
+    my $xpc = 'XML::LibXML::XPathContext'->new;
+    $xpc->registerNs(pml => $PML_NS);
+    my $tagger = Ufal::MorphoDiTa::Tagger::load($tagger_file)
+        or die "Cannot load tagger from file '$tagger_file'\n";
+    while (defined( $file  = shift )) {
+        path($file)->slurp_utf8 =~ /New Form/ or next;
+
+        say STDERR $file;
+        xsh << '__XSH__';
+            $mdoc := open $file ;
+            $sentences = $mdoc//pml:s ;
+__XSH__
+
+        for my $sentence (@$sentences) {
+            my $sid = $sentence->{id};
+            xsh << "__XSH__";
+                \$comments = \$mdoc//pml:s[\@id="$sid"]//\@type
+                    [.="New Form"]/../pml:text ;
+                for my \$comment in \$comments {
+                    xinsert text \$comment replace
+                        \$comment/ancestor::pml:m//pml:form/text() ;
+                } ;
+__XSH__
+
+            next unless $XML::XSH2::Map::comments;
+
+            my $forms    = 'Ufal::MorphoDiTa::Forms'->new;
+            my $lemmas_t = 'Ufal::MorphoDiTa::TaggedLemmas'->new;
+            my $lemmas_a = 'Ufal::MorphoDiTa::TaggedLemmas'->new;
+
+            xsh('$mnodes = //pml:s[@id="' . $sid . '"]//pml:m');
+            xsh('$form_texts = //pml:s[@id="' . $sid . '"]//pml:form/text()');
+
+            $forms->push("$_") for @$form_texts;
+            $tagger->tag($forms, $lemmas_t);
+
+            for my $i (0 .. $forms->size - 1) {
+
+                my ($has_changed)
+                    = $xpc->findvalue('.//@type', $XML::XSH2::Map::mnodes->[$i]);
+                next unless $has_changed;
+
+                my $result = { map +( $_ => $lemmas_t->get($i)->{$_} ),
+                               qw{ tag lemma } };
+                $result->{form} = $forms->get($i);
+
+                $tagger->getMorpho->analyze(
+                    $forms->get($i),
+                    $Ufal::MorphoDiTa::Morpho::NO_GUESSER,
+                    $lemmas_a
+                );
+
+                $result->{analyses} = [];
+                for my $j (0 .. $lemmas_a->size - 1) {
+                    push @{ $result->{analyses} }, {
+                        map +( $_ => $lemmas_a->get($j)->{$_} ), qw{ tag lemma }
+                    };
+                }
+
+                # my ($original_tag_element)
+                #     = $xpc->findnodes('pml:tag', $XML::XSH2::Map::mnodes->[$i]);
+                # my ($original_tag, $original_lemma);
+                # if ($xpc->findvalue('pml:AM[2]', $original_tag_element)) {
+                #     $original_tag
+                #         = $xpc->findvalue('pml:AM[@selected=1]/text()',
+                #                           $original_tag_element)
+
+                #         || $xpc->findvalue('pml:AM[@recommended=1]/text()',
+                #                           $original_tag_element);
+                #     $original_lemma
+                #         = $xpc->findvalue('pml:AM[@selected=1]/@lemma',
+                #                           $original_tag_element)
+                #         || $xpc->findvalue('pml:AM[@recommended=1]/@lemma',
+                #                           $original_tag_element);
+                # } else {
+                #     $original_tag
+                #         = $xpc->findvalue('text()', $original_tag_element);
+                #     $original_lemma
+                #         = $xpc->findvalue('@lemma', $original_tag_element);
+                # }
+
+                $idx = 1 + $i;
+                xsh('delete $mnodes[$idx]/pml:tag/*');
+                xsh('delete $mnodes[$idx]/pml:tag/@*');
+                xsh('delete $mnodes[$idx]/pml:tag/text()');
+
+                for my $analysis (@{ $result->{analyses} }) {
+                    $lemma = $analysis->{lemma};
+                    $tag = $analysis->{tag};
+                    next if $lemma eq $result->{lemma}
+                         && $tag eq $result->{tag};
+
+                    xsh << '__XSH__';
+                        my $am := xinsert element pml:AM
+                            into $mnodes[$idx]/pml:tag ;
+                        set $am/@lemma $lemma ;
+                        set $am/@scr 'auto' ;
+                        xinsert text $tag into $am ;
+                        xinsert text {"\n"} before $am ;
+__XSH__
+                }
+
+                ($lemma, $tag) = @{ $result }{qw{ lemma tag }};
+                xsh << '__XSH__';
+                    my $am := xinsert element pml:AM into $mnodes[$idx]/pml:tag ;
+                    xinsert text $tag into $am ;
+                    set $am/@lemma $lemma ;
+                    set $am/@src 'auto' ;
+                    set $am/@recommended 1 ;
+                    xinsert text {"\n"} before $am ;
+                    xinsert text {"\n"} after $am ;
+__XSH__
+            }
+            xsh('for $comments delete ..');
+        }
+        xsh('save :b');
+    }
+}
+
 
 # 17/04/29 Spec change: we only want non-guessed analyses.
 sub retag {
